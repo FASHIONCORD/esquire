@@ -1,6 +1,69 @@
 [default]
 timeout = 120
 
+[naverpost_insight]
+title = "네이버 포스트 ─ 에스콰이어 코리아 ─ INSIGHT"
+url = "https://post.naver.com/my/series/detail.naver?seriesNo=504399&memberNo=40217187"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
+
+[naverpost_foodanddrink]
+title = "네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&DRINK"
+url = "https://post.naver.com/my/series/detail.naver?seriesNo=574209&memberNo=40217187"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
+
+[naverpost_eshop]
+title = "네이버 포스트 ─ 에스콰이어 코리아 ─ ESHOP"
+url = "https://post.naver.com/my/series/detail.naver?seriesNo=631045&memberNo=40217187"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
+
+[naverpost_people]
+title = "네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE"
+url = "https://post.naver.com/my/series/detail.naver?seriesNo=503156&memberNo=40217187"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
+
+[naverpost_style]
+title = "네이버 포스트 ─ 에스콰이어 코리아 ─ STYLE"
+url = "https://post.naver.com/my/series/detail.naver?seriesNo=574207&memberNo=40217187"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
+
+[naverpost_tech]
+title = "네이버 포스트 ─ 에스콰이어 코리아 ─ TECH"
+url = "https://post.naver.com/my/series/detail.naver?seriesNo=502497&memberNo=40217187"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
+
+[naverpost_car]
+title = "네이버 포스트 ─ 에스콰이어 코리아 ─ CAR"
+url = "https://post.naver.com/my/series/detail.naver?seriesNo=502617&memberNo=40217187"
+entrySelector = "#el_list_container ul ul li"
+titleSelector = "div.spot_post_name span.ell"
+linkSelector = "a[href]"
+imageSelector = "img"
+contentSelector = "span.writer_name"
+
 [style]
 title = "에스콰이어 코리아 ─ 스타일"
 url = "https://www.esquirekorea.co.kr/style"
