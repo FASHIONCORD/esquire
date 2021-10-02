@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Oct 2021 06:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 08:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,6 +200,14 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/16/a38d3367-c47c-40d4-9209-96b0d2c1d98a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가을의 맛을 담은 멸치국수 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58992</link>
+            <guid>https://www.esquirekorea.co.kr/article/58992</guid>
+            <pubDate>Sat, 02 Oct 2021 08:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[멸치국수가 생각나는 걸 보니 가을이 오긴 온 모양이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/e3952df6-47cf-4c47-94f1-dc932c2bf51a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서울에서 느긋하게 음악을 즐길 수 있는 공간들 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/58984</link>
             <guid>https://www.esquirekorea.co.kr/article/58984</guid>
@@ -256,12 +264,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/248d35ba-9ec1-41c1-8082-a5ea9335e351.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올드시티부터 신도시까지 전국 시티 뷰 카페 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58906</link>
-            <guid>https://www.esquirekorea.co.kr/article/58906</guid>
-            <pubDate>Fri, 01 Oct 2021 23:04:38 GMT</pubDate>
-            <content:encoded><![CDATA[언제까지 자연 뷰? 이제는 클래식한 구도심부터 반짝이는 시티 뷰가 뜬다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/330fd711-6f86-4ed7-9def-8e0ead1557b0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[가을의 맛을 담은 멸치국수 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58992</link>
+            <guid>https://www.esquirekorea.co.kr/article/58992</guid>
+            <pubDate>Sat, 02 Oct 2021 08:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[멸치국수가 생각나는 걸 보니 가을이 오긴 온 모양이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/e3952df6-47cf-4c47-94f1-dc932c2bf51a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울에서 느긋하게 음악을 즐길 수 있는 공간들 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -320,12 +328,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/2f76636e-c731-463e-86e1-8ee6b67bd83c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이규형이 배우 최민식 만난 썰? (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58914</link>
-            <guid>https://www.esquirekorea.co.kr/article/58914</guid>
-            <pubDate>Fri, 01 Oct 2021 23:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[매력부자 이규형을 만나 최근 가장 행복했던 순간을 물어봤다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/fdbc287a-5ec8-4510-8704-ad50cee0a3b8.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[박찬욱의 우연과 필연의 세계 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58821</link>
+            <guid>https://www.esquirekorea.co.kr/article/58821</guid>
+            <pubDate>Sat, 02 Oct 2021 08:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[사진작가 박찬욱은 촉각을 곤두세우고 그날 그 장소의 빛이 만들어낸 익숙하지만 낯선 우연을 찾...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/48f35ca8-2a1e-4807-9928-712a6e49b887.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이규형이 선배들의 무대를 보지 않은 이유 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -381,13 +389,6 @@
             <guid>https://www.esquirekorea.co.kr/article/58742</guid>
             <pubDate>Fri, 01 Oct 2021 23:05:53 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/269917aa-ea82-4304-a8a3-6774292f6692.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오상욱이 시합 전 가장 맛있게 먹은 음식? (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58703</link>
-            <guid>https://www.esquirekorea.co.kr/article/58703</guid>
-            <pubDate>Fri, 01 Oct 2021 23:05:53 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/22/df0a30ae-c3de-4955-b852-76ff2bbb7d61.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[솥뚜껑에 진심인 서울, 공주 맛집 5 (에스콰이어 코리아 ─ 나우)]]></title>
