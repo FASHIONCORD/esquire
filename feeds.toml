@@ -1,6 +1,3 @@
-[default]
-timeout = 120
-
 [naverpost_insight]
 title = "네이버 포스트 ─ 에스콰이어 코리아 ─ INSIGHT"
 url = "https://post.naver.com/my/series/detail.naver?seriesNo=504399&memberNo=40217187"
