@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 23:06:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 00:59:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울에서 느긋하게 음악을 즐길 수 있는 공간들 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58984</link>
+            <guid>https://www.esquirekorea.co.kr/article/58984</guid>
+            <pubDate>Sat, 02 Oct 2021 00:58:27 GMT</pubDate>
+            <content:encoded><![CDATA[재즈 음악과 디제잉을 라이브로 듣고 볼 수 있으면서 커피, 술, 음식까지 제대로 즐길 수 있...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/63bd1c76-efab-4522-aaab-7462db054bb2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울에 자리 잡은 프렌치 감성, 아스티에 드 빌라트 플래그십 스토어]]></title>
             <link>https://www.esquirekorea.co.kr/article/58977</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 23:05:09 GMT</pubDate>
             <content:encoded><![CDATA[매력부자 이규형을 만나 최근 가장 행복했던 순간을 물어봤다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/fdbc287a-5ec8-4510-8704-ad50cee0a3b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올드시티부터 신도시까지 전국 시티 뷰 카페 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58906</link>
-            <guid>https://www.esquirekorea.co.kr/article/58906</guid>
-            <pubDate>Fri, 01 Oct 2021 23:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[언제까지 자연 뷰? 이제는 클래식한 구도심부터 반짝이는 시티 뷰가 뜬다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/330fd711-6f86-4ed7-9def-8e0ead1557b0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
