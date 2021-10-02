@@ -70,6 +70,7 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = "div.articlebox"
+onFail = "stale"
 
 [watch]
 title = "에스콰이어 코리아 ─ 와치"
@@ -80,6 +81,7 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = "div.articlebox"
+onFail = "stale"
 
 [carandtech]
 title = "에스콰이어 코리아 ─ 카&테크"
@@ -90,6 +92,7 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = "div.articlebox"
+onFail = "stale"
 
 [food]
 title = "에스콰이어 코리아 ─ 푸드"
@@ -100,6 +103,7 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = "div.articlebox"
+onFail = "stale"
 
 [life]
 title = "에스콰이어 코리아 ─ 라이프"
@@ -110,6 +114,7 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = "div.articlebox"
+onFail = "stale"
 
 [people]
 title = "에스콰이어 코리아 ─ 피플"
@@ -120,6 +125,7 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = "div.articlebox"
+onFail = "stale"
 
 [now]
 title = "에스콰이어 코리아 ─ 나우"
@@ -130,6 +136,7 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = "div.articlebox"
+onFail = "stale"
 
 [eshop]
 title = "에스콰이어 코리아 ─ 이샵"
@@ -140,3 +147,4 @@ linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
 waitForSelector = "div.articlebox"
+onFail = "stale"
