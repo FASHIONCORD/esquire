@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Oct 2021 13:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 19:40:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1333,6 +1333,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/248d35ba-9ec1-41c1-8082-a5ea9335e351.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['어펜저스'가 맥주 파티를 연 이유는? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59000</link>
+            <guid>https://www.esquirekorea.co.kr/article/59000</guid>
+            <pubDate>Sat, 02 Oct 2021 19:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국 펜싱 국가대표 선수 김정환, 구본길, 김준호, 오상욱이 도쿄 올림픽 이후 맥주 파티를 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/7c875069-02b0-4c35-a713-f8cdb2590997.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[맛집 옆 맛집] 이태원 수제버거 맛집 ‘다운타우너’ 옆 버거 맛집 3 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58998</link>
+            <guid>https://www.esquirekorea.co.kr/article/58998</guid>
+            <pubDate>Sat, 02 Oct 2021 19:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[오늘도 다운타우너 한남의 웨이팅 굴레에서 벗어 날 수 없다면, 맛집의 옆집을 방문해 보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/bfe6b744-58c7-48b6-95f4-edc99cf0e010.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가을의 맛을 담은 멸치국수 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/58992</link>
             <guid>https://www.esquirekorea.co.kr/article/58992</guid>
@@ -1381,20 +1397,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/9113fdba-cd3d-4880-8750-d531e6aa4154.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['오징어게임' 이정재가 다녀간 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58947</link>
-            <guid>https://www.esquirekorea.co.kr/article/58947</guid>
-            <pubDate>Fri, 01 Oct 2021 23:04:38 GMT</pubDate>
-            <content:encoded><![CDATA[공기까지 맛있게 먹는 그의 맛집은 어디?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/8d16b488-17e6-4b6d-9c71-62502c05e50a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북촌 풀 코스로 즐기기 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58922</link>
-            <guid>https://www.esquirekorea.co.kr/article/58922</guid>
-            <pubDate>Fri, 01 Oct 2021 23:04:38 GMT</pubDate>
-            <content:encoded><![CDATA[먹고 마시고 푹 쉴 수 있는 북촌에서 여행 온 기분으로 하루를 온전히 누리자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/2f76636e-c731-463e-86e1-8ee6b67bd83c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[007의 적수가 되어 돌아온 라미 말렉을 만났다 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58876</link>
+            <guid>https://www.esquirekorea.co.kr/article/58876</guid>
+            <pubDate>Sat, 02 Oct 2021 19:39:21 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;보헤미안 랩소디&gt; 속 프레디 머큐리 역으로 전 세계인의 눈길을 사로잡은 라미 말렉이 제임스...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/4ab8e46f-ba26-4b08-8a1d-5017c60a7709.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박찬욱의 우연과 필연의 세계 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1451,13 +1459,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 01 Oct 2021 23:05:53 GMT</pubDate>
             <content:encoded><![CDATA[사람들은 박지현을 참 재미있는 사람이라고 하고, 그녀는 사는 게 워낙 재미있는 일이라고 한다...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/c97df970-9bf5-4b59-a9e6-565baa2b6950.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DPR LIVE의 스타일링 비법? (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58742</link>
-            <guid>https://www.esquirekorea.co.kr/article/58742</guid>
-            <pubDate>Fri, 01 Oct 2021 23:05:53 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/269917aa-ea82-4304-a8a3-6774292f6692.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[솥뚜껑에 진심인 서울, 공주 맛집 5 (에스콰이어 코리아 ─ 나우)]]></title>

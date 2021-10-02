@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Oct 2021 13:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Oct 2021 19:40:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['어펜저스'가 맥주 파티를 연 이유는?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59000</link>
+            <guid>https://www.esquirekorea.co.kr/article/59000</guid>
+            <pubDate>Sat, 02 Oct 2021 19:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국 펜싱 국가대표 선수 김정환, 구본길, 김준호, 오상욱이 도쿄 올림픽 이후 맥주 파티를 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/7c875069-02b0-4c35-a713-f8cdb2590997.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[맛집 옆 맛집] 이태원 수제버거 맛집 ‘다운타우너’ 옆 버거 맛집 3]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58998</link>
+            <guid>https://www.esquirekorea.co.kr/article/58998</guid>
+            <pubDate>Sat, 02 Oct 2021 19:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[오늘도 다운타우너 한남의 웨이팅 굴레에서 벗어 날 수 없다면, 맛집의 옆집을 방문해 보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/bfe6b744-58c7-48b6-95f4-edc99cf0e010.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을의 맛을 담은 멸치국수 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/58992</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 23:05:09 GMT</pubDate>
             <content:encoded><![CDATA[실내 글램핑부터 힐링 끝판왕 싱잉볼까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/9113fdba-cd3d-4880-8750-d531e6aa4154.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오징어게임' 이정재가 다녀간 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58947</link>
-            <guid>https://www.esquirekorea.co.kr/article/58947</guid>
-            <pubDate>Fri, 01 Oct 2021 23:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[공기까지 맛있게 먹는 그의 맛집은 어디?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/8d16b488-17e6-4b6d-9c71-62502c05e50a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북촌 풀 코스로 즐기기 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58922</link>
-            <guid>https://www.esquirekorea.co.kr/article/58922</guid>
-            <pubDate>Fri, 01 Oct 2021 23:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[먹고 마시고 푹 쉴 수 있는 북촌에서 여행 온 기분으로 하루를 온전히 누리자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/2f76636e-c731-463e-86e1-8ee6b67bd83c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
