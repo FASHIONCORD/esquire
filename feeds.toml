@@ -69,7 +69,7 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitForSelector = ".articlebox"
+waitForSelector = "div.articlebox"
 
 [watch]
 title = "에스콰이어 코리아 ─ 와치"
@@ -79,7 +79,7 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitForSelector = ".articlebox"
+waitForSelector = "div.articlebox"
 
 [carandtech]
 title = "에스콰이어 코리아 ─ 카&테크"
@@ -89,7 +89,7 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitForSelector = ".articlebox"
+waitForSelector = "div.articlebox"
 
 [food]
 title = "에스콰이어 코리아 ─ 푸드"
@@ -99,7 +99,7 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitForSelector = ".articlebox"
+waitForSelector = "div.articlebox"
 
 [life]
 title = "에스콰이어 코리아 ─ 라이프"
@@ -109,7 +109,7 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitForSelector = ".articlebox"
+waitForSelector = "div.articlebox"
 
 [people]
 title = "에스콰이어 코리아 ─ 피플"
@@ -119,7 +119,7 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitForSelector = ".articlebox"
+waitForSelector = "div.articlebox"
 
 [now]
 title = "에스콰이어 코리아 ─ 나우"
@@ -129,7 +129,7 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitForSelector = ".articlebox"
+waitForSelector = "div.articlebox"
 
 [eshop]
 title = "에스콰이어 코리아 ─ 이샵"
@@ -139,4 +139,4 @@ titleSelector = "em.title a"
 linkSelector = "em a"
 contentSelector = "p.excerpt a"
 imageSelector = "div.imgbox.Thumb455"
-waitForSelector = ".articlebox"
+waitForSelector = "div.articlebox"
