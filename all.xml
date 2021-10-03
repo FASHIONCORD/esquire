@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Oct 2021 23:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Oct 2021 01:07:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1333,6 +1333,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/248d35ba-9ec1-41c1-8082-a5ea9335e351.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[드라이브 코스로 추천하는 경기도 구리 가볼 만한 곳 5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59001</link>
+            <guid>https://www.esquirekorea.co.kr/article/59001</guid>
+            <pubDate>Sun, 03 Oct 2021 01:06:14 GMT</pubDate>
+            <content:encoded><![CDATA[여유롭게 산책하기 좋은 왕릉부터 뷰 맛집 한옥카페, 밥도둑 고등어조림 맛집까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/e23d3c20-6060-4834-9074-4d3fa5363d64.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['어펜저스'가 맥주 파티를 연 이유는? (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59000</link>
             <guid>https://www.esquirekorea.co.kr/article/59000</guid>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 01 Oct 2021 23:04:38 GMT</pubDate>
             <content:encoded><![CDATA[울긋불긋 단풍 지는 가을에 꼭 가봐야 할 숲속 캠핑장을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/679be56b-a3cc-497e-9e3a-8d2f9088d5dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특별한 추억을 만들고 싶다면 이색 체험 호텔 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58952</link>
-            <guid>https://www.esquirekorea.co.kr/article/58952</guid>
-            <pubDate>Fri, 01 Oct 2021 23:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[실내 글램핑부터 힐링 끝판왕 싱잉볼까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/9113fdba-cd3d-4880-8750-d531e6aa4154.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[007의 적수가 되어 돌아온 라미 말렉을 만났다 (에스콰이어 코리아 ─ 피플)]]></title>
