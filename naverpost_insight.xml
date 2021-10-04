@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ INSIGHT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 22:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 23:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[특별한 추억을 만들고 싶다면 이색 체험 호텔 5]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32488659&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32488659&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Mon, 04 Oct 2021 23:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDVfODcg/MDAxNjMzMzcwOTg0MzUx.6IjUC2ni8F8W712hSyomdo11NSxL4myJ5nTNJJeYiLMg.ciKoqpFVs8TRCFaDLGED1OtnCfqm4odQ-4HwJvcyYDUg.PNG/IDxST-8QtxtEHU3RmSQBSY31oTCM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을은 캠핑의 계절! 단풍 맛집 캠핑장 4]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32484444&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 02 Oct 2021 12:26:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MzBfMTIy/MDAxNjMwMzEwNTU2MDY4.JYU_yW13nl2XLfS2pSTA6Dyy8WCpWfSgMNTE-PmZAZYg.FWfxc07dcSPb1Iv_Yh72jpCxA4nCL3KuoZoHRyH3FWMg.PNG/ImrDA6JmUGUgouaLs89tzEFl6G0c.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[훌쩍 떠나기 좋은 청주 가볼 만한 곳 5]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32263059&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32263059&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Sat, 02 Oct 2021 12:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MzBfMTE1/MDAxNjMwMjU4MTMyMzg4.mNLHsmUmTBdqQ4hbO5o848e_Pyk_4o7e_n9Rbf1nlH8g.ZMPrctZnLbiXgpQhP4ag4t4G_72IjZFJPDS4QHbQJycg.PNG/IoWHuw9TbizdknptVL1zDX8cfba4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
