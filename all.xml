@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 15:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 16:32:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1141,6 +1141,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/6b579f43-b76b-43d9-b069-8f4ec7420337.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[워치메이커로서의 샤넬 (에스콰이어 코리아 ─ 와치)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58840</link>
+            <guid>https://www.esquirekorea.co.kr/article/58840</guid>
+            <pubDate>Mon, 04 Oct 2021 16:28:18 GMT</pubDate>
+            <content:encoded><![CDATA[워치메이커로서의 샤넬. 그 대체 불가한 정체성과 우뚝한 존재감에 대하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/5469d86b-2a8b-4f9f-b1e5-731f26d3aaa6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삼성, ‘갤럭시 워치 4 클래식 톰 브라운 에디션' 한정 판매 (에스콰이어 코리아 ─ 와치)]]></title>
             <link>https://www.esquirekorea.co.kr/article/58763</link>
             <guid>https://www.esquirekorea.co.kr/article/58763</guid>
@@ -1195,14 +1203,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 01 Oct 2021 23:03:38 GMT</pubDate>
             <content:encoded><![CDATA[브라이틀링과 함께하는 배우 지성의 시간은 대담하고 우아하게 흐른다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/18/403bbbf5-df26-4197-bb42-f0fd4e30dcaf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몽블랑, 자선 경매를 위한 핑크 다이얼 시계 제작 (에스콰이어 코리아 ─ 와치)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/57789</link>
-            <guid>https://www.esquirekorea.co.kr/article/57789</guid>
-            <pubDate>Fri, 01 Oct 2021 23:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[자선 경매를 위해 단 1점만 제작되었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/18/823ed398-6e09-41e8-82f7-355e4242eb77.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나사 AR 그래픽 소설 '퍼스트 우먼' 출간 (에스콰이어 코리아 ─ 카&테크)]]></title>
