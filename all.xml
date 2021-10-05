@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 08:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 09:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1333,6 +1333,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/2f76636e-c731-463e-86e1-8ee6b67bd83c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[언더아머, ‘광고 대세’ 김연경, 현빈과 FW21 윈터 캠페인 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59017</link>
+            <guid>https://www.esquirekorea.co.kr/article/59017</guid>
+            <pubDate>Tue, 05 Oct 2021 09:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 스포츠 브랜드 언더아머가 김연경, 현빈과 함께한 언더아머 FW21 윈터 캠페인을 공개...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/c48e8f76-198c-4fc0-8b7b-fe95450f2243.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미식가 양세형의 단골 맛집 리스트 5 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59015</link>
             <guid>https://www.esquirekorea.co.kr/article/59015</guid>
@@ -1389,12 +1397,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/63bd1c76-efab-4522-aaab-7462db054bb2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울에 자리 잡은 프렌치 감성, 아스티에 드 빌라트 플래그십 스토어 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58977</link>
-            <guid>https://www.esquirekorea.co.kr/article/58977</guid>
-            <pubDate>Fri, 01 Oct 2021 23:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[서울에 자리 잡은 새로운 감성.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/b716281d-bda9-4fae-9ddb-1a401513332d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[억! 소리나는 스타들의 아트 컬렉션 4 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58965</link>
+            <guid>https://www.esquirekorea.co.kr/article/58965</guid>
+            <pubDate>Tue, 05 Oct 2021 09:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[지드래곤부터 태양, 쌈디와 방탄소년단 RM까지. 미술을 사랑하는 스타들의 소장품을 소개한다....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/9adf31ea-f1eb-4b12-843a-3b883afd4412.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이규형이 배우 최민식 만난 썰? (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1451,14 +1459,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 01 Oct 2021 23:05:53 GMT</pubDate>
             <content:encoded><![CDATA[사진작가 박찬욱은 촉각을 곤두세우고 그날 그 장소의 빛이 만들어낸 익숙하지만 낯선 우연을 찾...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/7afea939-26d9-4337-beac-4bea3225b92d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 박지현이 '사는 게 너무 재미있다'고 말한 이유 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58766</link>
-            <guid>https://www.esquirekorea.co.kr/article/58766</guid>
-            <pubDate>Fri, 01 Oct 2021 23:05:53 GMT</pubDate>
-            <content:encoded><![CDATA[사람들은 박지현을 참 재미있는 사람이라고 하고, 그녀는 사는 게 워낙 재미있는 일이라고 한다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/f957c5a8-2e72-48d2-a51f-5ad0ce247b6c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팔라스와 에비수의 두 번째 콜라보 (에스콰이어 코리아 ─ 나우)]]></title>

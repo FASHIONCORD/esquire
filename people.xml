@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 08:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 09:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[억! 소리나는 스타들의 아트 컬렉션 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58965</link>
+            <guid>https://www.esquirekorea.co.kr/article/58965</guid>
+            <pubDate>Tue, 05 Oct 2021 09:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[지드래곤부터 태양, 쌈디와 방탄소년단 RM까지. 미술을 사랑하는 스타들의 소장품을 소개한다....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/9adf31ea-f1eb-4b12-843a-3b883afd4412.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이규형이 배우 최민식 만난 썰?]]></title>
             <link>https://www.esquirekorea.co.kr/article/58914</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 23:05:53 GMT</pubDate>
             <content:encoded><![CDATA[사진작가 박찬욱은 촉각을 곤두세우고 그날 그 장소의 빛이 만들어낸 익숙하지만 낯선 우연을 찾...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/7afea939-26d9-4337-beac-4bea3225b92d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 박지현이 '사는 게 너무 재미있다'고 말한 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58766</link>
-            <guid>https://www.esquirekorea.co.kr/article/58766</guid>
-            <pubDate>Fri, 01 Oct 2021 23:05:53 GMT</pubDate>
-            <content:encoded><![CDATA[사람들은 박지현을 참 재미있는 사람이라고 하고, 그녀는 사는 게 워낙 재미있는 일이라고 한다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/f957c5a8-2e72-48d2-a51f-5ad0ce247b6c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
