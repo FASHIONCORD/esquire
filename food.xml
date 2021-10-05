@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 06:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 07:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[맛집 옆 맛집] 이태원 수제버거 맛집 ‘다운타우너’ 옆 버거 맛집 3]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58998</link>
+            <guid>https://www.esquirekorea.co.kr/article/58998</guid>
+            <pubDate>Tue, 05 Oct 2021 07:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[오늘도 다운타우너 한남의 웨이팅 굴레에서 벗어 날 수 없다면, 맛집의 옆집을 방문해 보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/bfe6b744-58c7-48b6-95f4-edc99cf0e010.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을의 맛을 담은 멸치국수 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/58992</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 23:04:38 GMT</pubDate>
             <content:encoded><![CDATA[먹고 마시고 푹 쉴 수 있는 북촌에서 여행 온 기분으로 하루를 온전히 누리자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/2f76636e-c731-463e-86e1-8ee6b67bd83c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설명을 아무리 들어도 맛을 상상하기 힘들 파스타 4종]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58919</link>
-            <guid>https://www.esquirekorea.co.kr/article/58919</guid>
-            <pubDate>Fri, 01 Oct 2021 23:04:38 GMT</pubDate>
-            <content:encoded><![CDATA[외양이나 재료 설명만으로는 맛을 상상하기 힘든 파스타들. 그 생경함 뒤에 숨은 셰프의 설계 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/248d35ba-9ec1-41c1-8082-a5ea9335e351.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
