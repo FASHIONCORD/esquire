@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 13:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 15:07:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 유니크함의 끝판왕, 에어백 팬츠]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58752</link>
+            <guid>https://www.esquirekorea.co.kr/article/58752</guid>
+            <pubDate>Tue, 05 Oct 2021 15:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[스타일부터 환경까지 생각할 수 있는 룩]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/d5d5ae71-5b55-4ec8-9b95-c5fba33ffa6b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 시선을 사로잡을 ‘컬러 포인트 룩’]]></title>
             <link>https://www.esquirekorea.co.kr/article/58694</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 23:06:47 GMT</pubDate>
             <content:encoded><![CDATA[컬러만으로 시원한 여름 코디 완성.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/08/64392bb8-35a8-473b-aca0-0a3c77964c7a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 레오파드로 과감한 바캉스룩 완성]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58303</link>
-            <guid>https://www.esquirekorea.co.kr/article/58303</guid>
-            <pubDate>Fri, 01 Oct 2021 23:06:47 GMT</pubDate>
-            <content:encoded><![CDATA[최대한 절제미를 발휘하는 것이 포인트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/06/d146b629-bd79-4393-9fa4-3a9993229660.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

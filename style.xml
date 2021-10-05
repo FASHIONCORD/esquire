@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 13:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 15:07:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스투시, 오리지널 라구나 향을 담은 인센스 스틱 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58896</link>
+            <guid>https://www.esquirekorea.co.kr/article/58896</guid>
+            <pubDate>Tue, 05 Oct 2021 15:03:29 GMT</pubDate>
+            <content:encoded><![CDATA[지금 바로 구매가 가능하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/19410c30-6d7e-4176-b761-b1af5d8323e2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모든 준비를 마친 고민시, 김영대, NFL]]></title>
             <link>https://www.esquirekorea.co.kr/article/58859</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 23:02:56 GMT</pubDate>
             <content:encoded><![CDATA[각 캐릭터들의 특징을 담았다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/a6129085-4a1e-4637-8752-7878084b99fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을, 오상욱이 남긴 잔향]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58639</link>
-            <guid>https://www.esquirekorea.co.kr/article/58639</guid>
-            <pubDate>Fri, 01 Oct 2021 23:02:56 GMT</pubDate>
-            <content:encoded><![CDATA[펜싱 국가대표 오상욱과 키엘 오리지널 머스크 향수의 만남.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/6b579f43-b76b-43d9-b069-8f4ec7420337.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
