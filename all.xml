@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 01:01:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 02:06:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1205,6 +1205,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/18/403bbbf5-df26-4197-bb42-f0fd4e30dcaf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[애플, AR/VR 헤드셋 출시 전망 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58894</link>
+            <guid>https://www.esquirekorea.co.kr/article/58894</guid>
+            <pubDate>Tue, 05 Oct 2021 02:04:41 GMT</pubDate>
+            <content:encoded><![CDATA[내년 상반기를 예상한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/98b161c1-246a-459b-a709-19f65c1d7afe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나사 AR 그래픽 소설 '퍼스트 우먼' 출간 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/58856</link>
             <guid>https://www.esquirekorea.co.kr/article/58856</guid>
@@ -1259,14 +1267,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 01 Oct 2021 23:04:23 GMT</pubDate>
             <content:encoded><![CDATA[내년부터 손가락 하트가 포함될 예정.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/16/b9787d6c-7e57-4bff-baad-2044c8f320d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스페이스X, 인류 최초의 민간인 관광 우주선 발사 성공 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58581</link>
-            <guid>https://www.esquirekorea.co.kr/article/58581</guid>
-            <pubDate>Fri, 01 Oct 2021 23:04:23 GMT</pubDate>
-            <content:encoded><![CDATA[3일간의 우주 관광을 마친 후 지구로 돌아올 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/16/a38d3367-c47c-40d4-9209-96b0d2c1d98a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가을의 맛을 담은 멸치국수 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1346,7 +1346,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/59000</guid>
             <pubDate>Sat, 02 Oct 2021 19:39:00 GMT</pubDate>
             <content:encoded><![CDATA[한국 펜싱 국가대표 선수 김정환, 구본길, 김준호, 오상욱이 도쿄 올림픽 이후 맥주 파티를 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/7c875069-02b0-4c35-a713-f8cdb2590997.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/7c875069-02b0-4c35-a713-f8cdb2590997.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[맛집 옆 맛집] 이태원 수제버거 맛집 ‘다운타우너’ 옆 버거 맛집 3 (에스콰이어 코리아 ─ 라이프)]]></title>
