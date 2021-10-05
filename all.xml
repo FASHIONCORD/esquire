@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 02:06:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 03:24:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1205,6 +1205,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/18/403bbbf5-df26-4197-bb42-f0fd4e30dcaf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[종이접기 가능한 '3D 폴더블 디스플레이' 개발 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58897</link>
+            <guid>https://www.esquirekorea.co.kr/article/58897</guid>
+            <pubDate>Tue, 05 Oct 2021 03:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[500번 이상 접은 후에도 안정된 구동성을 보였다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/23a6f955-682c-4ead-948d-142aec791e07.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[애플, AR/VR 헤드셋 출시 전망 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/58894</link>
             <guid>https://www.esquirekorea.co.kr/article/58894</guid>
@@ -1259,14 +1267,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 01 Oct 2021 23:04:23 GMT</pubDate>
             <content:encoded><![CDATA[일요일이면 어김없이 들리던 ‘전국노래자랑’의 최고령 MC 송해 선생이 자주 간다는 맛집은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/17/216aa4ae-1260-49ec-bc21-88be955cbb6b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유니코드 컨소시엄, 37가지의 새로운 ‘이모지’ 공개 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58582</link>
-            <guid>https://www.esquirekorea.co.kr/article/58582</guid>
-            <pubDate>Fri, 01 Oct 2021 23:04:23 GMT</pubDate>
-            <content:encoded><![CDATA[내년부터 손가락 하트가 포함될 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/16/b9787d6c-7e57-4bff-baad-2044c8f320d1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가을의 맛을 담은 멸치국수 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1333,6 +1333,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/248d35ba-9ec1-41c1-8082-a5ea9335e351.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미식가 양세형의 단골 맛집 리스트 5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59015</link>
+            <guid>https://www.esquirekorea.co.kr/article/59015</guid>
+            <pubDate>Tue, 05 Oct 2021 03:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[한강 뷰 매운탕 맛집부터 아구찜, 수제비, 매운 오징어 볶음, 전세계 최고라고 평가한 콩나물...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/39e610b5-a52f-4d21-a930-895a7f7dfc3e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여수 여행 신상 스팟 중심으로 가볼 만한 곳들 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59014</link>
+            <guid>https://www.esquirekorea.co.kr/article/59014</guid>
+            <pubDate>Tue, 05 Oct 2021 03:22:23 GMT</pubDate>
+            <content:encoded><![CDATA['여행의 도시' '미식의 고장' 여수에서 새로 생긴 맛집, 카페를 중심으로 꼭 다녀와야 할 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/a75374a5-5131-4716-b37f-0c1427264a76.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[드라이브 코스로 추천하는 경기도 구리 가볼 만한 곳 5 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59001</link>
             <guid>https://www.esquirekorea.co.kr/article/59001</guid>
@@ -1379,22 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 01 Oct 2021 23:05:09 GMT</pubDate>
             <content:encoded><![CDATA[서울에 자리 잡은 새로운 감성.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/b716281d-bda9-4fae-9ddb-1a401513332d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[억! 소리나는 스타들의 아트 컬렉션 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58965</link>
-            <guid>https://www.esquirekorea.co.kr/article/58965</guid>
-            <pubDate>Fri, 01 Oct 2021 23:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[지드래곤부터 태양, 쌈디와 방탄소년단 RM까지. 미술을 사랑하는 스타들의 소장품을 소개한다....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/9adf31ea-f1eb-4b12-843a-3b883afd4412.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을은 캠핑의 계절! 단풍 맛집 캠핑장 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58953</link>
-            <guid>https://www.esquirekorea.co.kr/article/58953</guid>
-            <pubDate>Fri, 01 Oct 2021 23:04:38 GMT</pubDate>
-            <content:encoded><![CDATA[울긋불긋 단풍 지는 가을에 꼭 가봐야 할 숲속 캠핑장을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/679be56b-a3cc-497e-9e3a-8d2f9088d5dc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이규형이 배우 최민식 만난 썰? (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1461,6 +1461,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/f957c5a8-2e72-48d2-a51f-5ad0ce247b6c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[팔라스와 에비수의 두 번째 콜라보 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58726</link>
+            <guid>https://www.esquirekorea.co.kr/article/58726</guid>
+            <pubDate>Fri, 01 Oct 2021 23:02:56 GMT</pubDate>
+            <content:encoded><![CDATA[에비수 로고가 그려진 셀비지 재킷이 메인.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/c9d20cf4-5a97-4b31-9614-809f9885f100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[농심켈로그 첵스 팥맛 공개 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58725</link>
+            <guid>https://www.esquirekorea.co.kr/article/58725</guid>
+            <pubDate>Tue, 05 Oct 2021 03:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[가장 한국적인 시리얼이 탄생했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/691ff929-a992-4567-9c4e-88b1a130f7f4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[솥뚜껑에 진심인 서울, 공주 맛집 5 (에스콰이어 코리아 ─ 나우)]]></title>
             <link>https://www.esquirekorea.co.kr/article/58521</link>
             <guid>https://www.esquirekorea.co.kr/article/58521</guid>
@@ -1507,22 +1523,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 01 Oct 2021 23:06:35 GMT</pubDate>
             <content:encoded><![CDATA['IAA 모빌리티 2021'에서 처음 공개된 폭스바겐 소형 전기차 ID.라이프]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/07/f05bcc24-d2c7-430f-bc44-6567ab16cf31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이케아, 온라인 페스티벌 개최 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58337</link>
-            <guid>https://www.esquirekorea.co.kr/article/58337</guid>
-            <pubDate>Fri, 01 Oct 2021 23:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[버질 아블로, 파스타 퀸, 마세고 등 세계 각국의 생활 공간이 공개된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/07/0ff4b34d-24a8-4b7b-a2c6-254a718eeb07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타이거 우즈의 연습용 퍼터 4억5천만원 경매 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58155</link>
-            <guid>https://www.esquirekorea.co.kr/article/58155</guid>
-            <pubDate>Fri, 01 Oct 2021 23:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[스카티 카메론에 제공받은 타이거 우즈의 연습용 퍼터가 골프 업계 최고가 낙찰가를 찍었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/31/d17ea3aa-8012-4923-885d-829c5ed375c6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 시선을 사로잡을 ‘컬러 포인트 룩’ (에스콰이어 코리아 ─ 이샵)]]></title>
