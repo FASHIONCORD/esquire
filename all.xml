@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 12:32:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 13:38:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1205,6 +1205,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/25/c82f38a4-bb20-4538-9028-f6537c54235e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[롤스로이스, 최초의 순수 전기차 '스펙터' 공개 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58951</link>
+            <guid>https://www.esquirekorea.co.kr/article/58951</guid>
+            <pubDate>Wed, 06 Oct 2021 13:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[2030년 이후 내연 엔진 제품의 생산 및 판매를 중단할 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/fac7f1af-ca5a-4a16-a374-92af35e8cb7e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아마존, 가정용 로봇 ‘아스트로’ 최초 공개 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58950</link>
+            <guid>https://www.esquirekorea.co.kr/article/58950</guid>
+            <pubDate>Wed, 06 Oct 2021 13:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[“아스트로, 맥주 한병만 가져와줘”]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/1ce31766-5bfd-4eef-89f6-3d0cc31b1349.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[종이접기 가능한 '3D 폴더블 디스플레이' 개발 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/58897</link>
             <guid>https://www.esquirekorea.co.kr/article/58897</guid>
@@ -1251,22 +1267,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 01 Oct 2021 23:04:23 GMT</pubDate>
             <content:encoded><![CDATA[네덜란드 에인트호번 공대에서 만들었다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/5bdf2e24-ced4-4fc5-b2d1-593ee298c017.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트라이엄프,  영화 <No Time To Die> 개봉 기념 한정판 모델 출시 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58704</link>
-            <guid>https://www.esquirekorea.co.kr/article/58704</guid>
-            <pubDate>Fri, 01 Oct 2021 23:04:23 GMT</pubDate>
-            <content:encoded><![CDATA[250대 한정 제작됐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/22/b99915c3-d414-4829-a1ee-2fbca48a7a30.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유니코드 컨소시엄, 37가지의 새로운 ‘이모지’ 공개 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58582</link>
-            <guid>https://www.esquirekorea.co.kr/article/58582</guid>
-            <pubDate>Wed, 06 Oct 2021 03:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[내년부터 손가락 하트가 포함될 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/16/b9787d6c-7e57-4bff-baad-2044c8f320d1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘월드스타’ 비 정지훈 맛집 리스트 5 (에스콰이어 코리아 ─ 푸드)]]></title>
