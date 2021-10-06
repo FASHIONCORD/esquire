@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 08:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 09:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/16/b9787d6c-7e57-4bff-baad-2044c8f320d1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘월드스타’ 비 정지훈 맛집 리스트 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59059</link>
+            <guid>https://www.esquirekorea.co.kr/article/59059</guid>
+            <pubDate>Wed, 06 Oct 2021 09:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[철저한 자기관리 연예인 비 정지훈이 즐겨 찾는 맛집은 어디?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/5e08e78e-bc4a-4457-a51d-4d2ad88b4e95.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[포켓몬 X 오레오 쿠키의 리셀 가격이 한화 약 4700만원이라고? (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59048</link>
             <guid>https://www.esquirekorea.co.kr/article/59048</guid>
@@ -1325,12 +1333,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/e3952df6-47cf-4c47-94f1-dc932c2bf51a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울에서 느긋하게 음악을 즐길 수 있는 공간들 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58984</link>
-            <guid>https://www.esquirekorea.co.kr/article/58984</guid>
-            <pubDate>Sat, 02 Oct 2021 00:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[재즈 음악과 디제잉을 라이브로 듣고 볼 수 있으면서 커피, 술, 음식까지 제대로 즐길 수 있...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/63bd1c76-efab-4522-aaab-7462db054bb2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘월드스타’ 비 정지훈 맛집 리스트 5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59059</link>
+            <guid>https://www.esquirekorea.co.kr/article/59059</guid>
+            <pubDate>Wed, 06 Oct 2021 09:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[철저한 자기관리 연예인 비 정지훈이 즐겨 찾는 맛집은 어디?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/5e08e78e-bc4a-4457-a51d-4d2ad88b4e95.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손흥민, 황희찬 나란히 프리미어리그(EPL) 주간 베스트 11 선정 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59056</link>
+            <guid>https://www.esquirekorea.co.kr/article/59056</guid>
+            <pubDate>Wed, 06 Oct 2021 09:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[2021-2022 EPL 10월 첫째 주 주간 베스트 11에 올랐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/5bce60c1-e109-4a0f-afde-781e2647c4e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프랑스 <오징어게임> 체험관 열풍 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1379,22 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 05 Oct 2021 03:22:23 GMT</pubDate>
             <content:encoded><![CDATA[한강 뷰 매운탕 맛집부터 아구찜, 수제비, 매운 오징어 볶음, 전세계 최고라고 평가한 콩나물...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/39e610b5-a52f-4d21-a930-895a7f7dfc3e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여수 여행 신상 스팟 중심으로 가볼 만한 곳들 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59014</link>
-            <guid>https://www.esquirekorea.co.kr/article/59014</guid>
-            <pubDate>Tue, 05 Oct 2021 03:22:23 GMT</pubDate>
-            <content:encoded><![CDATA['여행의 도시' '미식의 고장' 여수에서 새로 생긴 맛집, 카페를 중심으로 꼭 다녀와야 할 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/a75374a5-5131-4716-b37f-0c1427264a76.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라이브 코스로 추천하는 경기도 구리 가볼 만한 곳 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59001</link>
-            <guid>https://www.esquirekorea.co.kr/article/59001</guid>
-            <pubDate>Sun, 03 Oct 2021 01:06:14 GMT</pubDate>
-            <content:encoded><![CDATA[여유롭게 산책하기 좋은 왕릉부터 뷰 맛집 한옥카페, 밥도둑 고등어조림 맛집까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/e23d3c20-6060-4834-9074-4d3fa5363d64.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[억! 소리나는 스타들의 아트 컬렉션 4 (에스콰이어 코리아 ─ 피플)]]></title>

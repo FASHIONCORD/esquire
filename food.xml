@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 08:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 09:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘월드스타’ 비 정지훈 맛집 리스트 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59059</link>
+            <guid>https://www.esquirekorea.co.kr/article/59059</guid>
+            <pubDate>Wed, 06 Oct 2021 09:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[철저한 자기관리 연예인 비 정지훈이 즐겨 찾는 맛집은 어디?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/5e08e78e-bc4a-4457-a51d-4d2ad88b4e95.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포켓몬 X 오레오 쿠키의 리셀 가격이 한화 약 4700만원이라고?]]></title>
             <link>https://www.esquirekorea.co.kr/article/59048</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 02 Oct 2021 08:20:29 GMT</pubDate>
             <content:encoded><![CDATA[멸치국수가 생각나는 걸 보니 가을이 오긴 온 모양이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/e3952df6-47cf-4c47-94f1-dc932c2bf51a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울에서 느긋하게 음악을 즐길 수 있는 공간들 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58984</link>
-            <guid>https://www.esquirekorea.co.kr/article/58984</guid>
-            <pubDate>Sat, 02 Oct 2021 00:58:00 GMT</pubDate>
-            <content:encoded><![CDATA[재즈 음악과 디제잉을 라이브로 듣고 볼 수 있으면서 커피, 술, 음식까지 제대로 즐길 수 있...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/63bd1c76-efab-4522-aaab-7462db054bb2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
