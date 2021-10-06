@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 06:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 07:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미식가 양세형의 단골 맛집 리스트 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59015</link>
+            <guid>https://www.esquirekorea.co.kr/article/59015</guid>
+            <pubDate>Wed, 06 Oct 2021 07:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[한강 뷰 매운탕 맛집부터 아구찜, 수제비, 매운 오징어 볶음, 전세계 최고라고 평가한 콩나물...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/39e610b5-a52f-4d21-a930-895a7f7dfc3e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여수 여행 신상 스팟 중심으로 가볼 만한 곳들]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59014</link>
+            <guid>https://www.esquirekorea.co.kr/article/59014</guid>
+            <pubDate>Wed, 06 Oct 2021 07:18:45 GMT</pubDate>
+            <content:encoded><![CDATA['여행의 도시' '미식의 고장' 여수에서 새로 생긴 맛집, 카페를 중심으로 꼭 다녀와야 할 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/a75374a5-5131-4716-b37f-0c1427264a76.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드라이브 코스로 추천하는 경기도 구리 가볼 만한 곳 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59001</link>
+            <guid>https://www.esquirekorea.co.kr/article/59001</guid>
+            <pubDate>Wed, 06 Oct 2021 07:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[여유롭게 산책하기 좋은 왕릉부터 뷰 맛집 한옥카페, 밥도둑 고등어조림 맛집까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/e23d3c20-6060-4834-9074-4d3fa5363d64.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['어펜저스'가 맥주 파티를 연 이유는?]]></title>
             <link>https://www.esquirekorea.co.kr/article/59000</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 23:04:38 GMT</pubDate>
             <content:encoded><![CDATA[울긋불긋 단풍 지는 가을에 꼭 가봐야 할 숲속 캠핑장을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/679be56b-a3cc-497e-9e3a-8d2f9088d5dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이트진로, ‘필라이트 라들러 자몽’ 발매]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58948</link>
-            <guid>https://www.esquirekorea.co.kr/article/58948</guid>
-            <pubDate>Fri, 01 Oct 2021 23:04:38 GMT</pubDate>
-            <content:encoded><![CDATA[낮은 도수로 가볍게 마시기 좋다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/120eb20c-f0f1-41d3-960f-b4ab95bbaa4d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오징어게임' 이정재가 다녀간 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58947</link>
-            <guid>https://www.esquirekorea.co.kr/article/58947</guid>
-            <pubDate>Fri, 01 Oct 2021 23:04:38 GMT</pubDate>
-            <content:encoded><![CDATA[공기까지 맛있게 먹는 그의 맛집은 어디?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/8d16b488-17e6-4b6d-9c71-62502c05e50a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 싱글 오리진 커피 여행을 위한 아주 친절한 가이드]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58934</link>
-            <guid>https://www.esquirekorea.co.kr/article/58934</guid>
-            <pubDate>Fri, 01 Oct 2021 23:04:38 GMT</pubDate>
-            <content:encoded><![CDATA[이제 아이스 아메리카노는 그만 시키자. 당신의 캘린더를 매일 다른 색의 커피로 칠해보고 싶지...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/b14b27a5-2fb8-4110-bde0-29edcfbf106b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
