@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 05:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 06:25:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1333,6 +1333,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/b14b27a5-2fb8-4110-bde0-29edcfbf106b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[포켓몬 X 오레오 쿠키의 리셀 가격이 한화 약 4700만원이라고? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59048</link>
+            <guid>https://www.esquirekorea.co.kr/article/59048</guid>
+            <pubDate>Wed, 06 Oct 2021 06:23:49 GMT</pubDate>
+            <content:encoded><![CDATA['뮤'가 그려진 포장지 하나로 리셀 가격이 치솟고 있다. 포켓몬의 가치는 과연 어디까지?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/a2f0e0e4-683f-4b7d-94f9-0554c683aab8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[벌크업 장인 <검은태양> 남궁민의 상체 운동 루틴 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59024</link>
             <guid>https://www.esquirekorea.co.kr/article/59024</guid>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sat, 02 Oct 2021 19:39:00 GMT</pubDate>
             <content:encoded><![CDATA[한국 펜싱 국가대표 선수 김정환, 구본길, 김준호, 오상욱이 도쿄 올림픽 이후 맥주 파티를 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/7c875069-02b0-4c35-a713-f8cdb2590997.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[맛집 옆 맛집] 이태원 수제버거 맛집 ‘다운타우너’ 옆 버거 맛집 3 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58998</link>
-            <guid>https://www.esquirekorea.co.kr/article/58998</guid>
-            <pubDate>Sat, 02 Oct 2021 19:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[오늘도 다운타우너 한남의 웨이팅 굴레에서 벗어 날 수 없다면, 맛집의 옆집을 방문해 보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/bfe6b744-58c7-48b6-95f4-edc99cf0e010.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[억! 소리나는 스타들의 아트 컬렉션 4 (에스콰이어 코리아 ─ 피플)]]></title>
