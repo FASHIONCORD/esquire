@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 22:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 23:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여수 여행 신상 스팟 중심으로 가볼 만한 곳들 (네이버 포스트 ─ 에스콰이어 코리아 ─ INSIGHT)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32510473&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32510473&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 07 Oct 2021 23:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDdfMTg4/MDAxNjMzNTk2MTg0NjAw.Jw8u5NU_vteU8Ikit48bPLHtdFLF8F6F7EWlQ5t-uIog.ZCrscSappNkHJOaGo0y9FxGSmlQPWzrJwmZ_r95b3Nog.PNG/I8tZ5bMcHkIpwGz-O9ti3_x4m-S8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드라이브 코스로 추천하는 경기도 구리 가볼 만한 곳 5 (네이버 포스트 ─ 에스콰이어 코리아 ─ INSIGHT)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32504811&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Oct 2021 16:23:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDVfNiAg/MDAxNjMwODQ2OTMzODY5.9imJwwHPsf17kJK-v4I0jszDT0Ycicx9ZqUnjmD5YNkg.y55CLlRgw5ALg_2M7nzhuMG_tnT6I0MH0BAvcZPcGnsg.PNG/IqwFq_euPD3s0SrsW56vpHT6D90E.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지하철 타고 당일치기 바다 여행 4 (네이버 포스트 ─ 에스콰이어 코리아 ─ INSIGHT)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32268231&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32268231&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 16:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MzBfODIg/MDAxNjMwMzExMTM0MTAx.knQ_y3Oy8wWtR7BP4jCnnKg5GpxZ3SA1n83pCofd2Gsg.GUYTCOXIYA7YmUs2O01YQxoitwQqJVI-UwXWB6psytog.PNG/IXmEb1J8A5bRsTGiB-_QuU4q_paE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['오징어게임' 이정재가 다녀간 맛집 5 (네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&DRINK)]]></title>
@@ -1077,6 +1077,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘내가 정한 삶의 방향이 나를 만든다’ (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58847</link>
+            <guid>https://www.esquirekorea.co.kr/article/58847</guid>
+            <pubDate>Thu, 07 Oct 2021 23:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[자신이 원하는 삶을 구축하고 있는 3인의 마크 메이커 CL, 박성진, 지진희와 몽블랑의 새로...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/438d4e9f-6cf1-4420-8c81-abfe1f96b751.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[칸예 웨스트의 이지 갭, ‘더 퍼펙트 후디’출시 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/58949</link>
             <guid>https://www.esquirekorea.co.kr/article/58949</guid>
@@ -1131,14 +1139,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 07 Oct 2021 16:24:21 GMT</pubDate>
             <content:encoded><![CDATA[해스텐스의 마스터 장인들이 제작에 나선다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/2815c654-ede7-415b-8529-970afddf1833.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발렌티노, 한정판 백신 후드티 출시 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58765</link>
-            <guid>https://www.esquirekorea.co.kr/article/58765</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[판매 수익 전액을 유니세프에 기부한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/5f55c697-db93-45c7-93ee-392e16fb2577.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[007, 그리고 그의 특별한 시계들 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1333,6 +1333,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/e23d3c20-6060-4834-9074-4d3fa5363d64.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘왕좌의 게임’ 프리퀄, ‘하우스 오브 더 드래곤’ 공식 예고편 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59115</link>
+            <guid>https://www.esquirekorea.co.kr/article/59115</guid>
+            <pubDate>Thu, 07 Oct 2021 23:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[왕좌의 게임 2백 년 전 이야기를 다룬다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/9f98ce1b-0b57-46af-954d-2b9867838a41.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[남은 연휴 제대로 힐링하고 싶다면? 노천 스파 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59112</link>
             <guid>https://www.esquirekorea.co.kr/article/59112</guid>
@@ -1389,12 +1397,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/7d424a4e-025e-412b-add8-e0627d4780a7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘월드스타’ 비 정지훈 맛집 리스트 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59059</link>
-            <guid>https://www.esquirekorea.co.kr/article/59059</guid>
-            <pubDate>Thu, 07 Oct 2021 11:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[철저한 자기관리 연예인 비 정지훈이 즐겨 찾는 맛집은 어디?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/5e08e78e-bc4a-4457-a51d-4d2ad88b4e95.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['어펜저스'가 맥주 파티를 연 이유는? (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59000</link>
+            <guid>https://www.esquirekorea.co.kr/article/59000</guid>
+            <pubDate>Thu, 07 Oct 2021 16:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[한국 펜싱 국가대표 선수 김정환, 구본길, 김준호, 오상욱이 도쿄 올림픽 이후 맥주 파티를 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/7c875069-02b0-4c35-a713-f8cdb2590997.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[억! 소리나는 스타들의 아트 컬렉션 4 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1451,14 +1459,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 07 Oct 2021 16:25:48 GMT</pubDate>
             <content:encoded><![CDATA[에스콰이어 10월호 화보를 공개했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/27/647e9788-76a6-43f4-abf8-708f3c48c924.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박찬욱의 '어떻게 보면 무섭고 어떻게 보면 우스운' (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58808</link>
-            <guid>https://www.esquirekorea.co.kr/article/58808</guid>
-            <pubDate>Thu, 07 Oct 2021 16:25:48 GMT</pubDate>
-            <content:encoded><![CDATA[사진작가 박찬욱은 촉각을 곤두세우고 그날 그 장소의 빛이 만들어낸 익숙하지만 낯선 우연을 찾...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/7afea939-26d9-4337-beac-4bea3225b92d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팔라스와 에비수의 두 번째 콜라보 (에스콰이어 코리아 ─ 나우)]]></title>

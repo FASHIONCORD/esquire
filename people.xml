@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 22:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 23:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['어펜저스'가 맥주 파티를 연 이유는?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59000</link>
+            <guid>https://www.esquirekorea.co.kr/article/59000</guid>
+            <pubDate>Thu, 07 Oct 2021 23:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[한국 펜싱 국가대표 선수 김정환, 구본길, 김준호, 오상욱이 도쿄 올림픽 이후 맥주 파티를 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/7c875069-02b0-4c35-a713-f8cdb2590997.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[억! 소리나는 스타들의 아트 컬렉션 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/58965</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 23:05:53 GMT</pubDate>
             <content:encoded><![CDATA[에스콰이어 10월호 화보를 공개했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/27/647e9788-76a6-43f4-abf8-708f3c48c924.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박찬욱의 '어떻게 보면 무섭고 어떻게 보면 우스운']]></title>
-            <link>https://www.esquirekorea.co.kr/article/58808</link>
-            <guid>https://www.esquirekorea.co.kr/article/58808</guid>
-            <pubDate>Fri, 01 Oct 2021 23:05:53 GMT</pubDate>
-            <content:encoded><![CDATA[사진작가 박찬욱은 촉각을 곤두세우고 그날 그 장소의 빛이 만들어낸 익숙하지만 낯선 우연을 찾...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/7afea939-26d9-4337-beac-4bea3225b92d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

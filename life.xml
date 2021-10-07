@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 22:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 23:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘왕좌의 게임’ 프리퀄, ‘하우스 오브 더 드래곤’ 공식 예고편 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59115</link>
+            <guid>https://www.esquirekorea.co.kr/article/59115</guid>
+            <pubDate>Thu, 07 Oct 2021 23:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[왕좌의 게임 2백 년 전 이야기를 다룬다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/9f98ce1b-0b57-46af-954d-2b9867838a41.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남은 연휴 제대로 힐링하고 싶다면? 노천 스파 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/59112</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 02:12:30 GMT</pubDate>
             <content:encoded><![CDATA[아예 인공지능으로 캐릭터가 만들어지는 경우는 어떨까? 가상인간들은 주로 인공지능, 컴퓨터프로...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/7d424a4e-025e-412b-add8-e0627d4780a7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘월드스타’ 비 정지훈 맛집 리스트 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59059</link>
-            <guid>https://www.esquirekorea.co.kr/article/59059</guid>
-            <pubDate>Thu, 07 Oct 2021 02:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[철저한 자기관리 연예인 비 정지훈이 즐겨 찾는 맛집은 어디?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/5e08e78e-bc4a-4457-a51d-4d2ad88b4e95.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

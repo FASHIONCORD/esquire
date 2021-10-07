@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 22:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 23:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘내가 정한 삶의 방향이 나를 만든다’]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58847</link>
+            <guid>https://www.esquirekorea.co.kr/article/58847</guid>
+            <pubDate>Thu, 07 Oct 2021 23:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[자신이 원하는 삶을 구축하고 있는 3인의 마크 메이커 CL, 박성진, 지진희와 몽블랑의 새로...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/438d4e9f-6cf1-4420-8c81-abfe1f96b751.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[칸예 웨스트의 이지 갭, ‘더 퍼펙트 후디’출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/58949</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 16:24:21 GMT</pubDate>
             <content:encoded><![CDATA[해스텐스의 마스터 장인들이 제작에 나선다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/2815c654-ede7-415b-8529-970afddf1833.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발렌티노, 한정판 백신 후드티 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58765</link>
-            <guid>https://www.esquirekorea.co.kr/article/58765</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[판매 수익 전액을 유니세프에 기부한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/5f55c697-db93-45c7-93ee-392e16fb2577.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

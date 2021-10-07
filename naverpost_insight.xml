@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ INSIGHT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 22:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 23:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여수 여행 신상 스팟 중심으로 가볼 만한 곳들]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32510473&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32510473&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 07 Oct 2021 23:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMDdfMTg4/MDAxNjMzNTk2MTg0NjAw.Jw8u5NU_vteU8Ikit48bPLHtdFLF8F6F7EWlQ5t-uIog.ZCrscSappNkHJOaGo0y9FxGSmlQPWzrJwmZ_r95b3Nog.PNG/I8tZ5bMcHkIpwGz-O9ti3_x4m-S8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드라이브 코스로 추천하는 경기도 구리 가볼 만한 곳 5]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32504811&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Oct 2021 16:23:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDVfNiAg/MDAxNjMwODQ2OTMzODY5.9imJwwHPsf17kJK-v4I0jszDT0Ycicx9ZqUnjmD5YNkg.y55CLlRgw5ALg_2M7nzhuMG_tnT6I0MH0BAvcZPcGnsg.PNG/IqwFq_euPD3s0SrsW56vpHT6D90E.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지하철 타고 당일치기 바다 여행 4]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32268231&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32268231&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 16:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MzBfODIg/MDAxNjMwMzExMTM0MTAx.knQ_y3Oy8wWtR7BP4jCnnKg5GpxZ3SA1n83pCofd2Gsg.GUYTCOXIYA7YmUs2O01YQxoitwQqJVI-UwXWB6psytog.PNG/IXmEb1J8A5bRsTGiB-_QuU4q_paE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
