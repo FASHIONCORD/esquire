@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 15:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 16:26:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남은 연휴 제대로 힐링하고 싶다면? 노천 스파 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59112</link>
+            <guid>https://www.esquirekorea.co.kr/article/59112</guid>
+            <pubDate>Thu, 07 Oct 2021 16:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[10월의 마지막 휴가를 가장 완벽하게 보내는 방법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/84fc6f16-d266-4cb5-8f17-11f02f2d25ed.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 <그래비티> 재개봉 기념 오리지널 티켓 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/59096</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 02:12:30 GMT</pubDate>
             <content:encoded><![CDATA[철저한 자기관리 연예인 비 정지훈이 즐겨 찾는 맛집은 어디?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/5e08e78e-bc4a-4457-a51d-4d2ad88b4e95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손흥민, 황희찬 나란히 프리미어리그(EPL) 주간 베스트 11 선정]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59056</link>
-            <guid>https://www.esquirekorea.co.kr/article/59056</guid>
-            <pubDate>Thu, 07 Oct 2021 02:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[2021-2022 EPL 10월 첫째 주 주간 베스트 11에 올랐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/5bce60c1-e109-4a0f-afde-781e2647c4e1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
