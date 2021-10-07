@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 14:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 15:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1525,6 +1525,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/07/0ff4b34d-24a8-4b7b-a2c6-254a718eeb07.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Eshop] 가을 맞이 필수템, 간절기 재킷 (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58806</link>
+            <guid>https://www.esquirekorea.co.kr/article/58806</guid>
+            <pubDate>Thu, 07 Oct 2021 15:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[가벼움과 스타일리시함을 동시에]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/27/00c3635b-872b-4c06-b1ec-e873b69516ec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Eshop] 유니크함의 끝판왕, 에어백 팬츠 (에스콰이어 코리아 ─ 이샵)]]></title>
             <link>https://www.esquirekorea.co.kr/article/58752</link>
             <guid>https://www.esquirekorea.co.kr/article/58752</guid>
@@ -1579,14 +1587,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 01 Oct 2021 23:06:47 GMT</pubDate>
             <content:encoded><![CDATA[시크한 무드에 러블리함을 더해줄 ‘플리츠 스커트’]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/10/b235b85a-cdce-4b37-9a05-8c5887301368.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 여름 안에서, 화이트 & 블루 (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58360</link>
-            <guid>https://www.esquirekorea.co.kr/article/58360</guid>
-            <pubDate>Fri, 01 Oct 2021 23:06:47 GMT</pubDate>
-            <content:encoded><![CDATA[컬러만으로 시원한 여름 코디 완성.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/08/64392bb8-35a8-473b-aca0-0a3c77964c7a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
