@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 13:29:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 14:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노브랜드버거, 신메뉴 '갈릭앤갈릭' 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59087</link>
+            <guid>https://www.esquirekorea.co.kr/article/59087</guid>
+            <pubDate>Thu, 07 Oct 2021 14:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[갈릭소스에 갈릭 칩까지 더했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/863cc770-96e2-4900-afa9-ba27f4f10c00.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해태제과, 47년 만에 '맛동산'의 새로운 맛 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/59084</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 11:16:57 GMT</pubDate>
             <content:encoded><![CDATA[여유롭게 산책하기 좋은 왕릉부터 뷰 맛집 한옥카페, 밥도둑 고등어조림 맛집까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/e23d3c20-6060-4834-9074-4d3fa5363d64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['어펜저스'가 맥주 파티를 연 이유는?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59000</link>
-            <guid>https://www.esquirekorea.co.kr/article/59000</guid>
-            <pubDate>Thu, 07 Oct 2021 11:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[한국 펜싱 국가대표 선수 김정환, 구본길, 김준호, 오상욱이 도쿄 올림픽 이후 맥주 파티를 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/7c875069-02b0-4c35-a713-f8cdb2590997.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 13:29:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 14:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/1b74cde7-9ed3-4b80-b111-9f2915f61de4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[노브랜드버거, 신메뉴 '갈릭앤갈릭' 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59087</link>
+            <guid>https://www.esquirekorea.co.kr/article/59087</guid>
+            <pubDate>Thu, 07 Oct 2021 14:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[갈릭소스에 갈릭 칩까지 더했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/863cc770-96e2-4900-afa9-ba27f4f10c00.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[해태제과, 47년 만에 '맛동산'의 새로운 맛 공개 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59084</link>
             <guid>https://www.esquirekorea.co.kr/article/59084</guid>
@@ -1325,12 +1333,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/e23d3c20-6060-4834-9074-4d3fa5363d64.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['어펜저스'가 맥주 파티를 연 이유는? (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59000</link>
-            <guid>https://www.esquirekorea.co.kr/article/59000</guid>
-            <pubDate>Sat, 02 Oct 2021 19:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국 펜싱 국가대표 선수 김정환, 구본길, 김준호, 오상욱이 도쿄 올림픽 이후 맥주 파티를 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/7c875069-02b0-4c35-a713-f8cdb2590997.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[영화 <그래비티> 재개봉 기념 오리지널 티켓 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59096</link>
+            <guid>https://www.esquirekorea.co.kr/article/59096</guid>
+            <pubDate>Thu, 07 Oct 2021 14:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[영화 속 우주의 한 장면을 담았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/ac51fc0e-fc19-42c2-8160-88f7e617f2b4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소갈비의 변신, 이색 소갈비 맛집은? (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 06 Oct 2021 09:19:28 GMT</pubDate>
             <content:encoded><![CDATA[2021-2022 EPL 10월 첫째 주 주간 베스트 11에 올랐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/5bce60c1-e109-4a0f-afde-781e2647c4e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프랑스 <오징어게임> 체험관 열풍 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59050</link>
-            <guid>https://www.esquirekorea.co.kr/article/59050</guid>
-            <pubDate>Wed, 06 Oct 2021 07:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 인기 드라마 &lt;오징어게임&gt;에서 등장한 달고나 게임도 체험해볼 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/823f53bc-c465-48d9-8641-526cbd182ce0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[억! 소리나는 스타들의 아트 컬렉션 4 (에스콰이어 코리아 ─ 피플)]]></title>

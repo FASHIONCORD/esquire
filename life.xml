@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 13:29:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 14:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <그래비티> 재개봉 기념 오리지널 티켓 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59096</link>
+            <guid>https://www.esquirekorea.co.kr/article/59096</guid>
+            <pubDate>Thu, 07 Oct 2021 14:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[영화 속 우주의 한 장면을 담았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/ac51fc0e-fc19-42c2-8160-88f7e617f2b4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소갈비의 변신, 이색 소갈비 맛집은?]]></title>
             <link>https://www.esquirekorea.co.kr/article/59091</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 02:12:30 GMT</pubDate>
             <content:encoded><![CDATA[2021-2022 EPL 10월 첫째 주 주간 베스트 11에 올랐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/5bce60c1-e109-4a0f-afde-781e2647c4e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프랑스 <오징어게임> 체험관 열풍]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59050</link>
-            <guid>https://www.esquirekorea.co.kr/article/59050</guid>
-            <pubDate>Thu, 07 Oct 2021 02:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 인기 드라마 &lt;오징어게임&gt;에서 등장한 달고나 게임도 체험해볼 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/823f53bc-c465-48d9-8641-526cbd182ce0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
