@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 07:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 08:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/1b74cde7-9ed3-4b80-b111-9f2915f61de4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[해태제과, 47년 만에 '맛동산'의 새로운 맛 공개 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59084</link>
+            <guid>https://www.esquirekorea.co.kr/article/59084</guid>
+            <pubDate>Thu, 07 Oct 2021 08:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[3개월간 한정 판매된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/5bcf5169-a906-4b5b-95ff-0c54fa1134ef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빵지순례자들을 위한 전국 노포 빵집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59082</link>
             <guid>https://www.esquirekorea.co.kr/article/59082</guid>
@@ -1323,14 +1331,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sat, 02 Oct 2021 19:39:00 GMT</pubDate>
             <content:encoded><![CDATA[한국 펜싱 국가대표 선수 김정환, 구본길, 김준호, 오상욱이 도쿄 올림픽 이후 맥주 파티를 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/7c875069-02b0-4c35-a713-f8cdb2590997.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[맛집 옆 맛집] 이태원 수제버거 맛집 ‘다운타우너’ 옆 버거 맛집 3 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58998</link>
-            <guid>https://www.esquirekorea.co.kr/article/58998</guid>
-            <pubDate>Sat, 02 Oct 2021 19:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[오늘도 다운타우너 한남의 웨이팅 굴레에서 벗어 날 수 없다면, 맛집의 옆집을 방문해 보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/bfe6b744-58c7-48b6-95f4-edc99cf0e010.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소갈비의 변신, 이색 소갈비 맛집은? (에스콰이어 코리아 ─ 라이프)]]></title>
