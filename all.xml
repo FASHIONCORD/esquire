@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 03:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 04:26:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1205,6 +1205,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/25/3d1aa8e0-ba43-4d21-8049-b5662a047410.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['어펜저스'가 맥주 파티를 연 이유는? (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59000</link>
+            <guid>https://www.esquirekorea.co.kr/article/59000</guid>
+            <pubDate>Sat, 02 Oct 2021 19:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국 펜싱 국가대표 선수 김정환, 구본길, 김준호, 오상욱이 도쿄 올림픽 이후 맥주 파티를 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/7c875069-02b0-4c35-a713-f8cdb2590997.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[롤스로이스, 최초의 순수 전기차 '스펙터' 공개 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/58951</link>
             <guid>https://www.esquirekorea.co.kr/article/58951</guid>
@@ -1259,14 +1267,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 01 Oct 2021 23:04:23 GMT</pubDate>
             <content:encoded><![CDATA[쉐어플레이부터 다인 페이스타임까지 색다른 기능이 추가되었다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/1b74cde7-9ed3-4b80-b111-9f2915f61de4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태양열로 움직이는 캠핑카 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58715</link>
-            <guid>https://www.esquirekorea.co.kr/article/58715</guid>
-            <pubDate>Fri, 01 Oct 2021 23:04:23 GMT</pubDate>
-            <content:encoded><![CDATA[네덜란드 에인트호번 공대에서 만들었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/5bdf2e24-ced4-4fc5-b2d1-593ee298c017.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘월드스타’ 비 정지훈 맛집 리스트 5 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1333,6 +1333,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/e3952df6-47cf-4c47-94f1-dc932c2bf51a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<오징어 게임2>는 경찰에 대한 이야기? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59083</link>
+            <guid>https://www.esquirekorea.co.kr/article/59083</guid>
+            <pubDate>Thu, 07 Oct 2021 04:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[시즌 1에서 못 다룬 게임들을 고려할 예정이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/e42ca1d9-69b2-4f9d-9335-65012d717dc3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빵지순례자들을 위한 전국 노포 빵집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59082</link>
+            <guid>https://www.esquirekorea.co.kr/article/59082</guid>
+            <pubDate>Thu, 07 Oct 2021 04:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[제주와 강릉, 대구에서 찾은 오랜 전통과 맛을 간직한 노포 빵집 네 곳을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/1e327ef5-4201-47e8-b90d-36358bddeb19.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['가상인간'이라는 신세계 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59070</link>
             <guid>https://www.esquirekorea.co.kr/article/59070</guid>
@@ -1379,22 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 05 Oct 2021 15:05:50 GMT</pubDate>
             <content:encoded><![CDATA[가슴, 등, 어깨, 팔 모두를 키울 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/3a7628e2-a192-4655-8bf8-8da747b5b6cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외계인이 정말 있는지 궁금하다고? (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59018</link>
-            <guid>https://www.esquirekorea.co.kr/article/59018</guid>
-            <pubDate>Tue, 05 Oct 2021 10:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[미국국가정보국이 발표한 ‘미확인 공중 현상’에 대한 보고에 관하여. 백신 접종률이 높아진 지...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/4f031b7d-ab72-42bf-a6f8-6203fd4c8e89.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언더아머, ‘광고 대세’ 김연경, 현빈과 FW21 윈터 캠페인 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59017</link>
-            <guid>https://www.esquirekorea.co.kr/article/59017</guid>
-            <pubDate>Tue, 05 Oct 2021 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 스포츠 브랜드 언더아머가 김연경, 현빈과 함께한 언더아머 FW21 윈터 캠페인을 공개...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/c48e8f76-198c-4fc0-8b7b-fe95450f2243.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[억! 소리나는 스타들의 아트 컬렉션 4 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1477,14 +1477,6 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/691ff929-a992-4567-9c4e-88b1a130f7f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[솥뚜껑에 진심인 서울, 공주 맛집 5 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58521</link>
-            <guid>https://www.esquirekorea.co.kr/article/58521</guid>
-            <pubDate>Fri, 01 Oct 2021 23:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[솥뚜껑 닭볶음탕만 예상했다면 반전의 반전을 거듭할 솥뚜껑 이색 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/15/005fa47b-25e4-4317-9fce-cdc0f3872a86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[리복 x 임스 콜라보 운동화 공개 (에스콰이어 코리아 ─ 나우)]]></title>
             <link>https://www.esquirekorea.co.kr/article/58514</link>
             <guid>https://www.esquirekorea.co.kr/article/58514</guid>
@@ -1523,6 +1515,14 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 01 Oct 2021 23:06:35 GMT</pubDate>
             <content:encoded><![CDATA['IAA 모빌리티 2021'에서 처음 공개된 폭스바겐 소형 전기차 ID.라이프]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/07/f05bcc24-d2c7-430f-bc44-6567ab16cf31.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이케아, 온라인 페스티벌 개최 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58337</link>
+            <guid>https://www.esquirekorea.co.kr/article/58337</guid>
+            <pubDate>Thu, 07 Oct 2021 04:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[버질 아블로, 파스타 퀸, 마세고 등 세계 각국의 생활 공간이 공개된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/07/0ff4b34d-24a8-4b7b-a2c6-254a718eeb07.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 유니크함의 끝판왕, 에어백 팬츠 (에스콰이어 코리아 ─ 이샵)]]></title>

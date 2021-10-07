@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 03:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 04:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<오징어 게임2>는 경찰에 대한 이야기?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59083</link>
+            <guid>https://www.esquirekorea.co.kr/article/59083</guid>
+            <pubDate>Thu, 07 Oct 2021 04:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[시즌 1에서 못 다룬 게임들을 고려할 예정이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/e42ca1d9-69b2-4f9d-9335-65012d717dc3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빵지순례자들을 위한 전국 노포 빵집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59082</link>
+            <guid>https://www.esquirekorea.co.kr/article/59082</guid>
+            <pubDate>Thu, 07 Oct 2021 04:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[제주와 강릉, 대구에서 찾은 오랜 전통과 맛을 간직한 노포 빵집 네 곳을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/1e327ef5-4201-47e8-b90d-36358bddeb19.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['가상인간'이라는 신세계]]></title>
             <link>https://www.esquirekorea.co.kr/article/59070</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 02:12:30 GMT</pubDate>
             <content:encoded><![CDATA[가슴, 등, 어깨, 팔 모두를 키울 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/3a7628e2-a192-4655-8bf8-8da747b5b6cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외계인이 정말 있는지 궁금하다고?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59018</link>
-            <guid>https://www.esquirekorea.co.kr/article/59018</guid>
-            <pubDate>Thu, 07 Oct 2021 02:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[미국국가정보국이 발표한 ‘미확인 공중 현상’에 대한 보고에 관하여. 백신 접종률이 높아진 지...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/4f031b7d-ab72-42bf-a6f8-6203fd4c8e89.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언더아머, ‘광고 대세’ 김연경, 현빈과 FW21 윈터 캠페인 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59017</link>
-            <guid>https://www.esquirekorea.co.kr/article/59017</guid>
-            <pubDate>Thu, 07 Oct 2021 02:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 스포츠 브랜드 언더아머가 김연경, 현빈과 함께한 언더아머 FW21 윈터 캠페인을 공개...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/c48e8f76-198c-4fc0-8b7b-fe95450f2243.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

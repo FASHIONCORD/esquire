@@ -4,7 +4,7 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 03:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 04:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Tue, 05 Oct 2021 03:23:55 GMT</pubDate>
             <content:encoded><![CDATA[가장 한국적인 시리얼이 탄생했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/691ff929-a992-4567-9c4e-88b1a130f7f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[솥뚜껑에 진심인 서울, 공주 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58521</link>
-            <guid>https://www.esquirekorea.co.kr/article/58521</guid>
-            <pubDate>Fri, 01 Oct 2021 23:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[솥뚜껑 닭볶음탕만 예상했다면 반전의 반전을 거듭할 솥뚜껑 이색 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/15/005fa47b-25e4-4317-9fce-cdc0f3872a86.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리복 x 임스 콜라보 운동화 공개]]></title>
@@ -70,6 +62,14 @@
             <pubDate>Fri, 01 Oct 2021 23:06:35 GMT</pubDate>
             <content:encoded><![CDATA['IAA 모빌리티 2021'에서 처음 공개된 폭스바겐 소형 전기차 ID.라이프]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/07/f05bcc24-d2c7-430f-bc44-6567ab16cf31.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이케아, 온라인 페스티벌 개최]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58337</link>
+            <guid>https://www.esquirekorea.co.kr/article/58337</guid>
+            <pubDate>Thu, 07 Oct 2021 04:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[버질 아블로, 파스타 퀸, 마세고 등 세계 각국의 생활 공간이 공개된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/07/0ff4b34d-24a8-4b7b-a2c6-254a718eeb07.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
