@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 05:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 06:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올 가을 겨울을 채우는 이토록 다양한 컬러]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59003</link>
+            <guid>https://www.esquirekorea.co.kr/article/59003</guid>
+            <pubDate>Fri, 08 Oct 2021 06:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[형형색색, 알록달록. 2021 F/W를 구성하는 다채로운 컬러 아이템의 향연.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/02/87b6b917-1d8f-4577-bf2a-8cec23ff1487.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘내가 정한 삶의 방향이 나를 만든다’]]></title>
             <link>https://www.esquirekorea.co.kr/article/58847</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 16:24:21 GMT</pubDate>
             <content:encoded><![CDATA[모든 준비를 끝낸 고민시, 김영대 그리고 NFL. 이들의 본격적인 게임은 이제부터 시작이다....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/1b5a18e7-702f-4c71-a5e3-a9b09c1954e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈프림 X 해스텐스, 협업 침대 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58767</link>
-            <guid>https://www.esquirekorea.co.kr/article/58767</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[해스텐스의 마스터 장인들이 제작에 나선다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/2815c654-ede7-415b-8529-970afddf1833.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 05:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 06:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[복붙만을 위한 전용 키보드]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59049</link>
+            <guid>https://www.esquirekorea.co.kr/article/59049</guid>
+            <pubDate>Fri, 08 Oct 2021 06:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[Ctrl+C, Ctrl+V만을 위한 가장 작은 키보드가 공개됐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/2a7b129a-4646-4040-bd7d-b7b780d63a44.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을을 조금 더 특별하게 만들어 줄 컨버터블 3대]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59044</link>
+            <guid>https://www.esquirekorea.co.kr/article/59044</guid>
+            <pubDate>Fri, 08 Oct 2021 06:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[전혀 다른 3대의 컨버터블과 함께 가을을 즐기는 방법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/eb3b2b7d-c308-4ec5-bce5-f0c60970afd3.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA['어펜저스'가 맥주 파티를 연 이유는?]]></title>
             <link>https://www.esquirekorea.co.kr/article/59000</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 16:24:48 GMT</pubDate>
             <content:encoded><![CDATA[QR코드를 통해 달 탐사 우주선을 3D로 체험해볼 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/75554ac3-a850-47b3-b525-9544d3840060.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 아빠 슈퍼카, 왜건 3]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58827</link>
-            <guid>https://www.esquirekorea.co.kr/article/58827</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[아이에게 아빠는 슈퍼맨이다. 빠르고 강력하며 똑똑한 존재이기 때문이다. 왜건도 그렇다. 다재...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/99e1afb6-1fbc-47b7-a2d8-057e98d5f9d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 iOS15 새로운 기능]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58727</link>
-            <guid>https://www.esquirekorea.co.kr/article/58727</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[쉐어플레이부터 다인 페이스타임까지 색다른 기능이 추가되었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/1b74cde7-9ed3-4b80-b111-9f2915f61de4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

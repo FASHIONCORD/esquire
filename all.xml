@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 05:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 06:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1077,6 +1077,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[올 가을 겨울을 채우는 이토록 다양한 컬러 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59003</link>
+            <guid>https://www.esquirekorea.co.kr/article/59003</guid>
+            <pubDate>Fri, 08 Oct 2021 06:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[형형색색, 알록달록. 2021 F/W를 구성하는 다채로운 컬러 아이템의 향연.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/02/87b6b917-1d8f-4577-bf2a-8cec23ff1487.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘내가 정한 삶의 방향이 나를 만든다’ (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/58847</link>
             <guid>https://www.esquirekorea.co.kr/article/58847</guid>
@@ -1131,14 +1139,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 07 Oct 2021 16:24:21 GMT</pubDate>
             <content:encoded><![CDATA[모든 준비를 끝낸 고민시, 김영대 그리고 NFL. 이들의 본격적인 게임은 이제부터 시작이다....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/1b5a18e7-702f-4c71-a5e3-a9b09c1954e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈프림 X 해스텐스, 협업 침대 출시 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58767</link>
-            <guid>https://www.esquirekorea.co.kr/article/58767</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[해스텐스의 마스터 장인들이 제작에 나선다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/2815c654-ede7-415b-8529-970afddf1833.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[007, 그리고 그의 특별한 시계들 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1205,6 +1205,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/25/3d1aa8e0-ba43-4d21-8049-b5662a047410.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[복붙만을 위한 전용 키보드 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59049</link>
+            <guid>https://www.esquirekorea.co.kr/article/59049</guid>
+            <pubDate>Fri, 08 Oct 2021 06:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[Ctrl+C, Ctrl+V만을 위한 가장 작은 키보드가 공개됐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/2a7b129a-4646-4040-bd7d-b7b780d63a44.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을을 조금 더 특별하게 만들어 줄 컨버터블 3대 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59044</link>
+            <guid>https://www.esquirekorea.co.kr/article/59044</guid>
+            <pubDate>Fri, 08 Oct 2021 06:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[전혀 다른 3대의 컨버터블과 함께 가을을 즐기는 방법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/eb3b2b7d-c308-4ec5-bce5-f0c60970afd3.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA['어펜저스'가 맥주 파티를 연 이유는? (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59000</link>
             <guid>https://www.esquirekorea.co.kr/article/59000</guid>
@@ -1251,22 +1267,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 07 Oct 2021 16:24:48 GMT</pubDate>
             <content:encoded><![CDATA[QR코드를 통해 달 탐사 우주선을 3D로 체험해볼 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/75554ac3-a850-47b3-b525-9544d3840060.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 아빠 슈퍼카, 왜건 3 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58827</link>
-            <guid>https://www.esquirekorea.co.kr/article/58827</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[아이에게 아빠는 슈퍼맨이다. 빠르고 강력하며 똑똑한 존재이기 때문이다. 왜건도 그렇다. 다재...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/99e1afb6-1fbc-47b7-a2d8-057e98d5f9d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 iOS15 새로운 기능 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58727</link>
-            <guid>https://www.esquirekorea.co.kr/article/58727</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[쉐어플레이부터 다인 페이스타임까지 색다른 기능이 추가되었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/1b74cde7-9ed3-4b80-b111-9f2915f61de4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성게알 우니 맛집 리스트 5 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1333,6 +1333,30 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/a75374a5-5131-4716-b37f-0c1427264a76.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['제로 웨이스트' 인증샷이 불편한 나, 비윤리적인가요? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59130</link>
+            <guid>https://www.esquirekorea.co.kr/article/59130</guid>
+            <pubDate>Fri, 08 Oct 2021 06:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[없던 윤리가 매일 새롭게 태어나는 사회에 살고 있다. &lt;에스콰이어 코리아&gt;는 지금까지 크게 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/2142074a-af9f-4cff-9090-061aee5667da.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을에 가기 좋은 핑크 뮬리 뷰 카페 5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59127</link>
+            <guid>https://www.esquirekorea.co.kr/article/59127</guid>
+            <pubDate>Fri, 08 Oct 2021 06:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[제주와 고창, 김제, 익산, 천안에서 찾은 인생 사진 건질 수 있는 핑크 뮬리 뷰 맛집 카페...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/310c54ff-1140-4588-acdd-5cc0be95c53a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주말에 찾기 좋은 농장 카페 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59118</link>
+            <guid>https://www.esquirekorea.co.kr/article/59118</guid>
+            <pubDate>Fri, 08 Oct 2021 06:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[평화로운 뷰를 갖춘 농장에서 직접 수확한 농작물로 만든 디저트까지 맛보고 오자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/ada577aa-fc3a-4fba-903a-6f7101b7ff48.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[앤디 워홀이 그린 ‘장 미쉘 바스키아’의 초상화 경매 예정 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59116</link>
             <guid>https://www.esquirekorea.co.kr/article/59116</guid>
@@ -1371,30 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 07 Oct 2021 16:25:33 GMT</pubDate>
             <content:encoded><![CDATA[버터를 발라 먹는 소갈비부터 돌판에 올린 소갈비, 갈비를 주문하면 갈비찜까지 나오는 이색 소...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/ac329337-87ff-477e-bc85-dc66d9c6b925.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성게알 우니 맛집 리스트 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59090</link>
-            <guid>https://www.esquirekorea.co.kr/article/59090</guid>
-            <pubDate>Thu, 07 Oct 2021 16:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[한우 스테이크부터 파스타, 육회 그리고 기본에 충실한 성게알 비빔밥까지 우니와 함께할 때 더...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/2a1725f3-0517-4f51-913b-ef4f65a7649e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<오징어 게임2>는 경찰에 대한 이야기? (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59083</link>
-            <guid>https://www.esquirekorea.co.kr/article/59083</guid>
-            <pubDate>Thu, 07 Oct 2021 16:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[시즌 1에서 못 다룬 게임들을 고려할 예정이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/e42ca1d9-69b2-4f9d-9335-65012d717dc3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빵지순례자들을 위한 전국 노포 빵집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59082</link>
-            <guid>https://www.esquirekorea.co.kr/article/59082</guid>
-            <pubDate>Thu, 07 Oct 2021 11:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[제주와 강릉, 대구에서 찾은 오랜 전통과 맛을 간직한 노포 빵집 네 곳을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/1e327ef5-4201-47e8-b90d-36358bddeb19.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['어펜저스'가 맥주 파티를 연 이유는? (에스콰이어 코리아 ─ 피플)]]></title>
