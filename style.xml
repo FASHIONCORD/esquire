@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 14:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 15:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 변요한과 처치스의 새로운 로열 컬렉션의 극적인 만남]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59073</link>
+            <guid>https://www.esquirekorea.co.kr/article/59073</guid>
+            <pubDate>Fri, 08 Oct 2021 15:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[처치스의 새로운 로열 컬렉션을 선택한 배우 변요한을 만났다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/51934d3d-4450-4f50-95e7-05397fcce6d0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올 가을 겨울을 채우는 이토록 다양한 컬러]]></title>
             <link>https://www.esquirekorea.co.kr/article/59003</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 16:24:21 GMT</pubDate>
             <content:encoded><![CDATA[이탈리아 건축과 고전 영화에서 영감을 받은 새로운 아이웨어가 탄생했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/db3ceb4b-ea19-4f58-ae71-beb6ea42c92d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고민시 & 김영대, NFL과 함께한 하루]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58843</link>
-            <guid>https://www.esquirekorea.co.kr/article/58843</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[모든 준비를 끝낸 고민시, 김영대 그리고 NFL. 이들의 본격적인 게임은 이제부터 시작이다....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/1b5a18e7-702f-4c71-a5e3-a9b09c1954e7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

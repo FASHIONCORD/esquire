@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 와치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 14:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 15:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[항공 시계의 본질 IWC 샤프하우젠 파일럿 워치]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58978</link>
+            <guid>https://www.esquirekorea.co.kr/article/58978</guid>
+            <pubDate>Fri, 08 Oct 2021 15:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[항공 시계의 시작과 끝, IWC 샤프하우젠의 파일럿 워치 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/5d1a4dbd-ef3f-4c27-93a5-30f1011b3860.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[007, 그리고 그의 특별한 시계들]]></title>
             <link>https://www.esquirekorea.co.kr/article/58937</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 23:03:38 GMT</pubDate>
             <content:encoded><![CDATA[우주 비행을 마치고 지구로 돌아오면 시계는 자선 경매에 부쳐질 예정이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/27/4e0ba566-eb04-4798-ab07-a0ac140101b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2PM 준호의 시간 part.1]]></title>
-            <link>https://www.esquirekorea.co.kr/article/57978</link>
-            <guid>https://www.esquirekorea.co.kr/article/57978</guid>
-            <pubDate>Fri, 01 Oct 2021 23:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[매 순간이 평생의 한 번인 것처럼 최선을 다하는 2PM 준호의 시간은 늘 빠르게 흘러간다. ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/25/3d1aa8e0-ba43-4d21-8049-b5662a047410.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
