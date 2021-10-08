@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 22:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 23:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<에스콰이어> 에디터들이 뽑은 10월의 책 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59138</link>
+            <guid>https://www.esquirekorea.co.kr/article/59138</guid>
+            <pubDate>Fri, 08 Oct 2021 23:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[중쇄를 거듭해 더 많은 사람이 읽었으면 하는 책들을 &lt;에스콰이어&gt;에디터들이 골랐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/5f73a95a-b701-4817-847b-8a5bbf16e212.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조르지오 아르마니 2021 FW 컬렉션과 함께한 올림픽 금메달리스트 김정환과 오상욱]]></title>
             <link>https://www.esquirekorea.co.kr/article/59135</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 16:25:33 GMT</pubDate>
             <content:encoded><![CDATA[10월의 마지막 휴가를 가장 완벽하게 보내는 방법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/84fc6f16-d266-4cb5-8f17-11f02f2d25ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <그래비티> 재개봉 기념 오리지널 티켓 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59096</link>
-            <guid>https://www.esquirekorea.co.kr/article/59096</guid>
-            <pubDate>Thu, 07 Oct 2021 14:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[영화 속 우주의 한 장면을 담았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/ac51fc0e-fc19-42c2-8160-88f7e617f2b4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
