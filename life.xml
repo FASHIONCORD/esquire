@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 01:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 02:34:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[앤디 워홀이 그린 ‘장 미쉘 바스키아’의 초상화 경매 예정]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59116</link>
+            <guid>https://www.esquirekorea.co.kr/article/59116</guid>
+            <pubDate>Fri, 08 Oct 2021 02:33:07 GMT</pubDate>
+            <content:encoded><![CDATA[예상 낙찰가는 약 239억 원.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/f4d74743-c0f6-496f-bed0-9a305dac54d7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘왕좌의 게임’ 프리퀄, ‘하우스 오브 더 드래곤’ 공식 예고편 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/59115</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 04:25:25 GMT</pubDate>
             <content:encoded><![CDATA[제주와 강릉, 대구에서 찾은 오랜 전통과 맛을 간직한 노포 빵집 네 곳을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/1e327ef5-4201-47e8-b90d-36358bddeb19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['가상인간'이라는 신세계]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59070</link>
-            <guid>https://www.esquirekorea.co.kr/article/59070</guid>
-            <pubDate>Thu, 07 Oct 2021 02:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[아예 인공지능으로 캐릭터가 만들어지는 경우는 어떨까? 가상인간들은 주로 인공지능, 컴퓨터프로...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/7d424a4e-025e-412b-add8-e0627d4780a7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
