@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 04:27:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 05:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/1b74cde7-9ed3-4b80-b111-9f2915f61de4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[성게알 우니 맛집 리스트 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59090</link>
+            <guid>https://www.esquirekorea.co.kr/article/59090</guid>
+            <pubDate>Thu, 07 Oct 2021 16:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[한우 스테이크부터 파스타, 육회 그리고 기본에 충실한 성게알 비빔밥까지 우니와 함께할 때 더...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/2a1725f3-0517-4f51-913b-ef4f65a7649e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[노브랜드버거, 신메뉴 '갈릭앤갈릭' 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59087</link>
             <guid>https://www.esquirekorea.co.kr/article/59087</guid>
@@ -1323,14 +1331,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 07 Oct 2021 11:16:57 GMT</pubDate>
             <content:encoded><![CDATA['여행의 도시' '미식의 고장' 여수에서 새로 생긴 맛집, 카페를 중심으로 꼭 다녀와야 할 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/a75374a5-5131-4716-b37f-0c1427264a76.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라이브 코스로 추천하는 경기도 구리 가볼 만한 곳 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59001</link>
-            <guid>https://www.esquirekorea.co.kr/article/59001</guid>
-            <pubDate>Thu, 07 Oct 2021 11:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[여유롭게 산책하기 좋은 왕릉부터 뷰 맛집 한옥카페, 밥도둑 고등어조림 맛집까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/e23d3c20-6060-4834-9074-4d3fa5363d64.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[앤디 워홀이 그린 ‘장 미쉘 바스키아’의 초상화 경매 예정 (에스콰이어 코리아 ─ 라이프)]]></title>
