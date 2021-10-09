@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 09:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 10:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제 대세는 밭뷰 카페 3]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59141</link>
+            <guid>https://www.esquirekorea.co.kr/article/59141</guid>
+            <pubDate>Sat, 09 Oct 2021 10:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[가을은 논멍 때리기 좋은 계절.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/c644fdbc-18ef-403b-9bd5-330ba74448b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<에스콰이어> 에디터들이 뽑은 10월의 책 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/59138</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 23:20:04 GMT</pubDate>
             <content:encoded><![CDATA[왕좌의 게임 2백 년 전 이야기를 다룬다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/9f98ce1b-0b57-46af-954d-2b9867838a41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남은 연휴 제대로 힐링하고 싶다면? 노천 스파 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59112</link>
-            <guid>https://www.esquirekorea.co.kr/article/59112</guid>
-            <pubDate>Thu, 07 Oct 2021 16:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[10월의 마지막 휴가를 가장 완벽하게 보내는 방법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/84fc6f16-d266-4cb5-8f17-11f02f2d25ed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
