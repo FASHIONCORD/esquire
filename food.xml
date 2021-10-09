@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 14:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 15:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[농심, ‘카구리 큰사발면’ 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59113</link>
+            <guid>https://www.esquirekorea.co.kr/article/59113</guid>
+            <pubDate>Sat, 09 Oct 2021 15:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[카레맛이 나는 너구리.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/e6551cfa-fd24-471a-8ad4-b2cd334d1004.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소갈비의 변신, 이색 소갈비 맛집은?]]></title>
             <link>https://www.esquirekorea.co.kr/article/59091</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 11:16:57 GMT</pubDate>
             <content:encoded><![CDATA['뮤'가 그려진 포장지 하나로 리셀 가격이 치솟고 있다. 포켓몬의 가치는 과연 어디까지?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/a2f0e0e4-683f-4b7d-94f9-0554c683aab8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미식가 양세형의 단골 맛집 리스트 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59015</link>
-            <guid>https://www.esquirekorea.co.kr/article/59015</guid>
-            <pubDate>Thu, 07 Oct 2021 11:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[한강 뷰 매운탕 맛집부터 아구찜, 수제비, 매운 오징어 볶음, 전세계 최고라고 평가한 콩나물...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/39e610b5-a52f-4d21-a930-895a7f7dfc3e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

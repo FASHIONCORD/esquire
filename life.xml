@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 14:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 15:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국 힙합 최초의 메타버스 공연 개최]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59145</link>
+            <guid>https://www.esquirekorea.co.kr/article/59145</guid>
+            <pubDate>Sat, 09 Oct 2021 15:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[9일 저녁 7시에 개최된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/5836fd73-d6ab-4629-8a9e-a3343fe6b005.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엠넷, 스핀오프 콘텐츠 <스트릿 걸스 파이터> 방영 예정]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59143</link>
+            <guid>https://www.esquirekorea.co.kr/article/59143</guid>
+            <pubDate>Sat, 09 Oct 2021 15:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[공개 모집을 통해 참가자를 선정한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/d69b295c-6547-4018-85fc-7e6628721007.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이제 대세는 밭뷰 카페 3]]></title>
             <link>https://www.esquirekorea.co.kr/article/59141</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 08 Oct 2021 06:23:15 GMT</pubDate>
             <content:encoded><![CDATA[평화로운 뷰를 갖춘 농장에서 직접 수확한 농작물로 만든 디저트까지 맛보고 오자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/ada577aa-fc3a-4fba-903a-6f7101b7ff48.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앤디 워홀이 그린 ‘장 미쉘 바스키아’의 초상화 경매 예정]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59116</link>
-            <guid>https://www.esquirekorea.co.kr/article/59116</guid>
-            <pubDate>Fri, 08 Oct 2021 02:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[예상 낙찰가는 약 239억 원.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/f4d74743-c0f6-496f-bed0-9a305dac54d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘왕좌의 게임’ 프리퀄, ‘하우스 오브 더 드래곤’ 공식 예고편 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59115</link>
-            <guid>https://www.esquirekorea.co.kr/article/59115</guid>
-            <pubDate>Thu, 07 Oct 2021 23:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[왕좌의 게임 2백 년 전 이야기를 다룬다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/9f98ce1b-0b57-46af-954d-2b9867838a41.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
