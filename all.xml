@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 15:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 16:28:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1141,6 +1141,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/db3ceb4b-ea19-4f58-ae71-beb6ea42c92d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘내가 정한 삶의 방향이 나를 만든다’ (에스콰이어 코리아 ─ 와치)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58847</link>
+            <guid>https://www.esquirekorea.co.kr/article/58847</guid>
+            <pubDate>Thu, 07 Oct 2021 23:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[자신이 원하는 삶을 구축하고 있는 3인의 마크 메이커 CL, 박성진, 지진희와 몽블랑의 새로...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/438d4e9f-6cf1-4420-8c81-abfe1f96b751.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[항공 시계의 본질 IWC 샤프하우젠 파일럿 워치 (에스콰이어 코리아 ─ 와치)]]></title>
             <link>https://www.esquirekorea.co.kr/article/58978</link>
             <guid>https://www.esquirekorea.co.kr/article/58978</guid>
@@ -1195,14 +1203,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 07 Oct 2021 16:24:35 GMT</pubDate>
             <content:encoded><![CDATA[해저 35,789피트까지 거뜬하게 다녀왔다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/15/955b43b3-7ddf-402b-a002-91b29838230f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IWC, 민간인 우주 비행에 사용될 시계 제작 (에스콰이어 코리아 ─ 와치)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58065</link>
-            <guid>https://www.esquirekorea.co.kr/article/58065</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[우주 비행을 마치고 지구로 돌아오면 시계는 자선 경매에 부쳐질 예정이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202108/27/4e0ba566-eb04-4798-ab07-a0ac140101b4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[복붙만을 위한 전용 키보드 (에스콰이어 코리아 ─ 카&테크)]]></title>
