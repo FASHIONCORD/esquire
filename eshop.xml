@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Oct 2021 15:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Oct 2021 16:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 기분 전환이 필요할 땐 ‘컬러풀’]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58878</link>
+            <guid>https://www.esquirekorea.co.kr/article/58878</guid>
+            <pubDate>Sun, 10 Oct 2021 16:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[손쉽게 멋을 내는 스타일링]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/f118f3b5-a9a7-4d58-9fb6-8aa6e68525bf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 가을 맞이 필수템, 간절기 재킷]]></title>
             <link>https://www.esquirekorea.co.kr/article/58806</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 15:20:08 GMT</pubDate>
             <content:encoded><![CDATA[빈티지한 감성은 덤.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/14/1fe84686-21cc-459a-b104-d0f90e0e3b24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 시크함의 끝, 올블랙 코디]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58428</link>
-            <guid>https://www.esquirekorea.co.kr/article/58428</guid>
-            <pubDate>Thu, 07 Oct 2021 15:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[시크한 무드에 러블리함을 더해줄 ‘플리츠 스커트’]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/10/b235b85a-cdce-4b37-9a05-8c5887301368.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
