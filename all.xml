@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 14:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 15:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1141,6 +1141,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/db3ceb4b-ea19-4f58-ae71-beb6ea42c92d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[새로운 시대를 담은 까르띠에 탱크 워치 (에스콰이어 코리아 ─ 와치)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59075</link>
+            <guid>https://www.esquirekorea.co.kr/article/59075</guid>
+            <pubDate>Mon, 11 Oct 2021 15:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 시대 정신, 새로운 탱크.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/04e4c015-804c-4a02-be0f-5b9c835d1f11.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[특수부대원이 사용하는 진짜 밀리터리 워치는? (에스콰이어 코리아 ─ 와치)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59036</link>
             <guid>https://www.esquirekorea.co.kr/article/59036</guid>
@@ -1195,14 +1203,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 07 Oct 2021 16:24:35 GMT</pubDate>
             <content:encoded><![CDATA[사전 응모자에 한해 구매 기회를 얻는다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/9cd57e8a-5283-4c5d-9717-211f18c45922.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4억 7천만원에 가짜 파텍 필립을 구매한 릴 베이비, 결과는? (에스콰이어 코리아 ─ 와치)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58699</link>
-            <guid>https://www.esquirekorea.co.kr/article/58699</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[팬들 덕분에 짝퉁임을 알게 됐고, 4개의 반지를 선물 받았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/22/dc951da6-3f80-4b32-ab49-3e0713af0a02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[복붙만을 위한 전용 키보드 (에스콰이어 코리아 ─ 카&테크)]]></title>
