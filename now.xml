@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 04:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 05:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브루넬로 쿠치넬리 X 올리버 피플스 안경 컬렉션 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58855</link>
+            <guid>https://www.esquirekorea.co.kr/article/58855</guid>
+            <pubDate>Tue, 12 Oct 2021 05:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[이탈리아 건축과 고전 영화에서 영감을 받은 새로운 아이웨어가 탄생했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/db3ceb4b-ea19-4f58-ae71-beb6ea42c92d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플 iOS15 새로운 기능]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58727</link>
+            <guid>https://www.esquirekorea.co.kr/article/58727</guid>
+            <pubDate>Tue, 12 Oct 2021 05:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[쉐어플레이부터 다인 페이스타임까지 색다른 기능이 추가되었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/1b74cde7-9ed3-4b80-b111-9f2915f61de4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팔라스와 에비수의 두 번째 콜라보]]></title>
             <link>https://www.esquirekorea.co.kr/article/58726</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 23:06:35 GMT</pubDate>
             <content:encoded><![CDATA[캠핑의 계절 9월을 맞아 파리바게뜨와 노르디스크가 협업한 감성 파라솔 세트가 출시되었다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/07/42cb6b26-1c13-4f60-b0f6-1256f511b0f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폭스바겐 'ID.라이프' 전기차 최초 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58339</link>
-            <guid>https://www.esquirekorea.co.kr/article/58339</guid>
-            <pubDate>Fri, 01 Oct 2021 23:06:35 GMT</pubDate>
-            <content:encoded><![CDATA['IAA 모빌리티 2021'에서 처음 공개된 폭스바겐 소형 전기차 ID.라이프]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/07/f05bcc24-d2c7-430f-bc44-6567ab16cf31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이케아, 온라인 페스티벌 개최]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58337</link>
-            <guid>https://www.esquirekorea.co.kr/article/58337</guid>
-            <pubDate>Thu, 07 Oct 2021 04:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[버질 아블로, 파스타 퀸, 마세고 등 세계 각국의 생활 공간이 공개된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/07/0ff4b34d-24a8-4b7b-a2c6-254a718eeb07.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
