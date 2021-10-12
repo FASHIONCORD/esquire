@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 08:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 09:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1333,6 +1333,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/1e327ef5-4201-47e8-b90d-36358bddeb19.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[책 읽으러 나가자! 이색 독서 공간 5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59166</link>
+            <guid>https://www.esquirekorea.co.kr/article/59166</guid>
+            <pubDate>Tue, 12 Oct 2021 09:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[잔디밭부터 한옥 카페까지 책 읽기에 가장 완벽한 곳을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/37c2f66c-b35a-4d92-a3f5-4d778e616e85.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[DMC역 문화비축기지와 함께 가볼 만한 곳들 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59153</link>
             <guid>https://www.esquirekorea.co.kr/article/59153</guid>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 08 Oct 2021 06:23:15 GMT</pubDate>
             <content:encoded><![CDATA[없던 윤리가 매일 새롭게 태어나는 사회에 살고 있다. &lt;에스콰이어 코리아&gt;는 지금까지 크게 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/2142074a-af9f-4cff-9090-061aee5667da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을에 가기 좋은 핑크 뮬리 뷰 카페 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59127</link>
-            <guid>https://www.esquirekorea.co.kr/article/59127</guid>
-            <pubDate>Fri, 08 Oct 2021 06:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[제주와 고창, 김제, 익산, 천안에서 찾은 인생 사진 건질 수 있는 핑크 뮬리 뷰 맛집 카페...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/310c54ff-1140-4588-acdd-5cc0be95c53a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['어펜저스'가 맥주 파티를 연 이유는? (에스콰이어 코리아 ─ 피플)]]></title>
