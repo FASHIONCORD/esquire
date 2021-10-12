@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 14:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 15:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 미니멀하면서도 감각적인 초가을 데일리룩]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58979</link>
+            <guid>https://www.esquirekorea.co.kr/article/58979</guid>
+            <pubDate>Tue, 12 Oct 2021 15:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[차분한 올블랙으로 시크하게]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/ae36c157-5ff9-47b3-bedb-7d1c5551853e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 기분 전환이 필요할 땐 ‘컬러풀’]]></title>
             <link>https://www.esquirekorea.co.kr/article/58878</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 15:20:08 GMT</pubDate>
             <content:encoded><![CDATA[송송 뚫린 그물 같은 포인트]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/15/e9f829fc-fc6c-4ffb-9f31-ff2eaf484a03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 개성있는 패치워크룩]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58503</link>
-            <guid>https://www.esquirekorea.co.kr/article/58503</guid>
-            <pubDate>Thu, 07 Oct 2021 15:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[빈티지한 감성은 덤.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/14/1fe84686-21cc-459a-b104-d0f90e0e3b24.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

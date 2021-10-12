@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 14:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 15:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조르지오 아르마니 2021 FW 컬렉션과 함께한 올림픽 금메달리스트 김정환과 오상욱]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59135</link>
+            <guid>https://www.esquirekorea.co.kr/article/59135</guid>
+            <pubDate>Tue, 12 Oct 2021 15:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[여름의 마지막, 가을의 시작에서 만난 2020 도쿄 올림픽 펜싱 남자 사브르 단체전 금메달리...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/72ab303d-3809-4223-8efc-5af3ee025550.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아디다스, XBOX와의 협업 스니커즈 출시 예정]]></title>
             <link>https://www.esquirekorea.co.kr/article/59114</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 16:24:21 GMT</pubDate>
             <content:encoded><![CDATA[뉴발란스 ’57/40' 모델의 재탄생.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/60b338db-6e8f-4859-ae2f-afe60549b558.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스투시, 오리지널 라구나 향을 담은 인센스 스틱 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58896</link>
-            <guid>https://www.esquirekorea.co.kr/article/58896</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[지금 바로 구매가 가능하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/19410c30-6d7e-4176-b761-b1af5d8323e2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
