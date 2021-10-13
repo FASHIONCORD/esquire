@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 06:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 07:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제 대세는 밭뷰 카페 3]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59141</link>
+            <guid>https://www.esquirekorea.co.kr/article/59141</guid>
+            <pubDate>Wed, 13 Oct 2021 07:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[가을은 논멍 때리기 좋은 계절.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/c644fdbc-18ef-403b-9bd5-330ba74448b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을에 가기 좋은 핑크 뮬리 뷰 카페 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/59127</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 11:16:57 GMT</pubDate>
             <content:encoded><![CDATA[3개월간 한정 판매된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/5bcf5169-a906-4b5b-95ff-0c54fa1134ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빵지순례자들을 위한 전국 노포 빵집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59082</link>
-            <guid>https://www.esquirekorea.co.kr/article/59082</guid>
-            <pubDate>Thu, 07 Oct 2021 11:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[제주와 강릉, 대구에서 찾은 오랜 전통과 맛을 간직한 노포 빵집 네 곳을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/1e327ef5-4201-47e8-b90d-36358bddeb19.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
