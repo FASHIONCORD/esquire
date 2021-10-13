@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 14:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 15:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나이키, 에어포스 1 익스페리멘탈 ‘할로윈’ 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59144</link>
+            <guid>https://www.esquirekorea.co.kr/article/59144</guid>
+            <pubDate>Wed, 13 Oct 2021 15:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[야광 효과를 낼 수도 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/40c99648-e492-41b9-b967-ea168d3edf25.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조르지오 아르마니 2021 FW 컬렉션과 함께한 올림픽 금메달리스트 김정환과 오상욱]]></title>
             <link>https://www.esquirekorea.co.kr/article/59135</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 16:24:21 GMT</pubDate>
             <content:encoded><![CDATA[칸예 웨스트가 착용했던 블루 포함 6가지 색상.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/d8229180-fa39-4ba2-abb1-64d88b07ce25.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꼼데가르송 옴므 x 뉴발란스, 고어텍스 사용한 신제품 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58901</link>
-            <guid>https://www.esquirekorea.co.kr/article/58901</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[뉴발란스 ’57/40' 모델의 재탄생.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/60b338db-6e8f-4859-ae2f-afe60549b558.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
