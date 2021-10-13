@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 09:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 10:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미식가 양세형의 단골 맛집 리스트 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59015</link>
+            <guid>https://www.esquirekorea.co.kr/article/59015</guid>
+            <pubDate>Wed, 13 Oct 2021 10:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[한강 뷰 매운탕 맛집부터 아구찜, 수제비, 매운 오징어 볶음, 전세계 최고라고 평가한 콩나물...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/39e610b5-a52f-4d21-a930-895a7f7dfc3e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['어펜저스'가 맥주 파티를 연 이유는?]]></title>
             <link>https://www.esquirekorea.co.kr/article/59000</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 23:05:53 GMT</pubDate>
             <content:encoded><![CDATA[이규형은 이번엔 형들의 헤드윅을 보지 않았다. 그가 완성한 헤드윅은 오로지 이규형만의 헤드윅...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/2acc1d97-6a0f-4593-ba56-031b69518d09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 남자의 분위기, 펜싱 선수 오상욱]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58812</link>
-            <guid>https://www.esquirekorea.co.kr/article/58812</guid>
-            <pubDate>Fri, 01 Oct 2021 23:05:53 GMT</pubDate>
-            <content:encoded><![CDATA[에스콰이어 10월호 화보를 공개했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/27/647e9788-76a6-43f4-abf8-708f3c48c924.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

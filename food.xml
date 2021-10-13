@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 09:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 10:22:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[택시 기사들의 논현동, 잠원동 맛집 3]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59171</link>
+            <guid>https://www.esquirekorea.co.kr/article/59171</guid>
+            <pubDate>Wed, 13 Oct 2021 10:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[이 시대의 마지막 맛객, 세 명의 택시 기사에게 직접 물어온 맛집 세 곳을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/d3296efc-1870-4e2a-94b4-4098a3172912.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DMC역 문화비축기지와 함께 가볼 만한 곳들]]></title>
             <link>https://www.esquirekorea.co.kr/article/59153</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Oct 2021 05:18:08 GMT</pubDate>
             <content:encoded><![CDATA[한우 스테이크부터 파스타, 육회 그리고 기본에 충실한 성게알 비빔밥까지 우니와 함께할 때 더...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/2a1725f3-0517-4f51-913b-ef4f65a7649e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노브랜드버거, 신메뉴 '갈릭앤갈릭' 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59087</link>
-            <guid>https://www.esquirekorea.co.kr/article/59087</guid>
-            <pubDate>Thu, 07 Oct 2021 14:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[갈릭소스에 갈릭 칩까지 더했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/863cc770-96e2-4900-afa9-ba27f4f10c00.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
