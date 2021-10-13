@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 10:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 11:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/1ce31766-5bfd-4eef-89f6-3d0cc31b1349.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[추운 날씨엔 서울, 인천, 제주 ‘뷰맛집’ 온수풀 호텔들 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59184</link>
+            <guid>https://www.esquirekorea.co.kr/article/59184</guid>
+            <pubDate>Wed, 13 Oct 2021 09:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[쌀쌀해지는 계절에도 문제없는 호텔의 야외 온수풀 수영장들. 시티뷰, 오션뷰, 마운틴뷰는 즐거...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/f48db662-b6a9-4dba-abd0-710a3ab62ee9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[택시 기사들의 논현동, 잠원동 맛집 3 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59171</link>
             <guid>https://www.esquirekorea.co.kr/article/59171</guid>
@@ -1325,12 +1333,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/ac329337-87ff-477e-bc85-dc66d9c6b925.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[성게알 우니 맛집 리스트 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59090</link>
-            <guid>https://www.esquirekorea.co.kr/article/59090</guid>
-            <pubDate>Thu, 07 Oct 2021 16:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[한우 스테이크부터 파스타, 육회 그리고 기본에 충실한 성게알 비빔밥까지 우니와 함께할 때 더...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/2a1725f3-0517-4f51-913b-ef4f65a7649e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[조정석의 슬기로운 단골 맛집 리스트 5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59267</link>
+            <guid>https://www.esquirekorea.co.kr/article/59267</guid>
+            <pubDate>Wed, 13 Oct 2021 11:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[입맛까지 완벽한 조정석의 매력적인 맛집들을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/64a6d24a-d4d5-4333-9943-8c943c423418.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 서울 웨이팅 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sun, 10 Oct 2021 01:01:50 GMT</pubDate>
             <content:encoded><![CDATA[문화 비축기지에서 자연과 함께 공연을 만끽하고 근처 타코야키, 소금구이집, 카페 그리고 집밥...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/b2ca691a-8d26-4021-92c2-e34ac79238d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 힙합 최초의 메타버스 공연 개최 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59145</link>
-            <guid>https://www.esquirekorea.co.kr/article/59145</guid>
-            <pubDate>Sat, 09 Oct 2021 15:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[9일 저녁 7시에 개최된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/5836fd73-d6ab-4629-8a9e-a3343fe6b005.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미식가 양세형의 단골 맛집 리스트 5 (에스콰이어 코리아 ─ 피플)]]></title>
