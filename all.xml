@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 07:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 08:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1205,6 +1205,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/9cd57e8a-5283-4c5d-9717-211f18c45922.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[디올 x 테크노짐, 홈 피트니스 컬렉션 공개 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59095</link>
+            <guid>https://www.esquirekorea.co.kr/article/59095</guid>
+            <pubDate>Tue, 12 Oct 2021 03:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[한정판으로만 출시될 예정이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/a89de95b-fc1e-42ca-ac3e-773feae0b222.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[배달 로봇 ‘뉴비’, 도심 자율주행 첫 상용화 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59094</link>
             <guid>https://www.esquirekorea.co.kr/article/59094</guid>
@@ -1261,12 +1269,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/23a6f955-682c-4ead-948d-142aec791e07.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애플, AR/VR 헤드셋 출시 전망 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58894</link>
-            <guid>https://www.esquirekorea.co.kr/article/58894</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[내년 상반기를 예상한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/98b161c1-246a-459b-a709-19f65c1d7afe.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[DMC역 문화비축기지와 함께 가볼 만한 곳들 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59153</link>
+            <guid>https://www.esquirekorea.co.kr/article/59153</guid>
+            <pubDate>Sun, 10 Oct 2021 01:01:50 GMT</pubDate>
+            <content:encoded><![CDATA[문화 비축기지에서 자연과 함께 공연을 만끽하고 근처 타코야키, 소금구이집, 카페 그리고 집밥...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/b2ca691a-8d26-4021-92c2-e34ac79238d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이제 대세는 밭뷰 카페 3 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1325,12 +1333,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/863cc770-96e2-4900-afa9-ba27f4f10c00.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[해태제과, 47년 만에 '맛동산'의 새로운 맛 공개 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59084</link>
-            <guid>https://www.esquirekorea.co.kr/article/59084</guid>
-            <pubDate>Thu, 07 Oct 2021 11:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[3개월간 한정 판매된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/5bcf5169-a906-4b5b-95ff-0c54fa1134ef.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[팬데믹 시대, 영화를 보는 당신의 표정이 궁금하다 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59174</link>
+            <guid>https://www.esquirekorea.co.kr/article/59174</guid>
+            <pubDate>Wed, 13 Oct 2021 08:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2년 사이, 영화 주간지를 만들기 위한 기자의 업무 분장 방식은 확연히 변했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/e664a1c1-be4b-4ea3-acab-b431125931d2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[택시 기사들의 논현동, 잠원동 맛집 3 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59171</link>
+            <guid>https://www.esquirekorea.co.kr/article/59171</guid>
+            <pubDate>Wed, 13 Oct 2021 08:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[이 시대의 마지막 맛객, 세 명의 택시 기사에게 직접 물어온 맛집 세 곳을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/d3296efc-1870-4e2a-94b4-4098a3172912.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[틱톡 여신 ‘이시영’도 즐기는 밴드 홈트레이닝 등 루틴 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1379,22 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sat, 09 Oct 2021 10:21:09 GMT</pubDate>
             <content:encoded><![CDATA[가을은 논멍 때리기 좋은 계절.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/c644fdbc-18ef-403b-9bd5-330ba74448b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<에스콰이어> 에디터들이 뽑은 10월의 책 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59138</link>
-            <guid>https://www.esquirekorea.co.kr/article/59138</guid>
-            <pubDate>Fri, 08 Oct 2021 23:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[중쇄를 거듭해 더 많은 사람이 읽었으면 하는 책들을 &lt;에스콰이어&gt;에디터들이 골랐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/5f73a95a-b701-4817-847b-8a5bbf16e212.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조르지오 아르마니 2021 FW 컬렉션과 함께한 올림픽 금메달리스트 김정환과 오상욱 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59135</link>
-            <guid>https://www.esquirekorea.co.kr/article/59135</guid>
-            <pubDate>Fri, 08 Oct 2021 10:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[여름의 마지막, 가을의 시작에서 만난 2020 도쿄 올림픽 펜싱 남자 사브르 단체전 금메달리...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/72ab303d-3809-4223-8efc-5af3ee025550.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['어펜저스'가 맥주 파티를 연 이유는? (에스콰이어 코리아 ─ 피플)]]></title>

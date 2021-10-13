@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 07:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 08:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팬데믹 시대, 영화를 보는 당신의 표정이 궁금하다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59174</link>
+            <guid>https://www.esquirekorea.co.kr/article/59174</guid>
+            <pubDate>Wed, 13 Oct 2021 08:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2년 사이, 영화 주간지를 만들기 위한 기자의 업무 분장 방식은 확연히 변했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/e664a1c1-be4b-4ea3-acab-b431125931d2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[택시 기사들의 논현동, 잠원동 맛집 3]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59171</link>
+            <guid>https://www.esquirekorea.co.kr/article/59171</guid>
+            <pubDate>Wed, 13 Oct 2021 08:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[이 시대의 마지막 맛객, 세 명의 택시 기사에게 직접 물어온 맛집 세 곳을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/d3296efc-1870-4e2a-94b4-4098a3172912.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[틱톡 여신 ‘이시영’도 즐기는 밴드 홈트레이닝 등 루틴 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/59170</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 09 Oct 2021 10:21:09 GMT</pubDate>
             <content:encoded><![CDATA[가을은 논멍 때리기 좋은 계절.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/c644fdbc-18ef-403b-9bd5-330ba74448b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<에스콰이어> 에디터들이 뽑은 10월의 책 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59138</link>
-            <guid>https://www.esquirekorea.co.kr/article/59138</guid>
-            <pubDate>Fri, 08 Oct 2021 23:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[중쇄를 거듭해 더 많은 사람이 읽었으면 하는 책들을 &lt;에스콰이어&gt;에디터들이 골랐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/5f73a95a-b701-4817-847b-8a5bbf16e212.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조르지오 아르마니 2021 FW 컬렉션과 함께한 올림픽 금메달리스트 김정환과 오상욱]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59135</link>
-            <guid>https://www.esquirekorea.co.kr/article/59135</guid>
-            <pubDate>Fri, 08 Oct 2021 10:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[여름의 마지막, 가을의 시작에서 만난 2020 도쿄 올림픽 펜싱 남자 사브르 단체전 금메달리...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/72ab303d-3809-4223-8efc-5af3ee025550.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
