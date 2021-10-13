@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 08:24:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 09:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아디다스, XBOX와의 협업 스니커즈 출시 예정]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59114</link>
+            <guid>https://www.esquirekorea.co.kr/article/59114</guid>
+            <pubDate>Wed, 13 Oct 2021 09:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[XBOX 콘솔 출시 20주년을 기념해 출시된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/fd20d6c9-ed7e-4b33-bc4e-c43bca37892f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디올 x 테크노짐, 홈 피트니스 컬렉션 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/59095</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 16:24:48 GMT</pubDate>
             <content:encoded><![CDATA[“아스트로, 맥주 한병만 가져와줘”]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/1ce31766-5bfd-4eef-89f6-3d0cc31b1349.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[종이접기 가능한 '3D 폴더블 디스플레이' 개발]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58897</link>
-            <guid>https://www.esquirekorea.co.kr/article/58897</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[500번 이상 접은 후에도 안정된 구동성을 보였다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/23a6f955-682c-4ead-948d-142aec791e07.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

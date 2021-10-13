@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 08:24:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 09:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추운 날씨엔 서울, 인천, 제주 ‘뷰맛집’ 온수풀 호텔들]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59184</link>
+            <guid>https://www.esquirekorea.co.kr/article/59184</guid>
+            <pubDate>Wed, 13 Oct 2021 09:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[쌀쌀해지는 계절에도 문제없는 호텔의 야외 온수풀 수영장들. 시티뷰, 오션뷰, 마운틴뷰는 즐거...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/f48db662-b6a9-4dba-abd0-710a3ab62ee9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팬데믹 시대, 영화를 보는 당신의 표정이 궁금하다]]></title>
             <link>https://www.esquirekorea.co.kr/article/59174</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 09 Oct 2021 15:20:40 GMT</pubDate>
             <content:encoded><![CDATA[공개 모집을 통해 참가자를 선정한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/d69b295c-6547-4018-85fc-7e6628721007.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 대세는 밭뷰 카페 3]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59141</link>
-            <guid>https://www.esquirekorea.co.kr/article/59141</guid>
-            <pubDate>Sat, 09 Oct 2021 10:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[가을은 논멍 때리기 좋은 계절.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/c644fdbc-18ef-403b-9bd5-330ba74448b9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

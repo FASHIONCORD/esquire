@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 08:24:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 09:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1205,6 +1205,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/9cd57e8a-5283-4c5d-9717-211f18c45922.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아디다스, XBOX와의 협업 스니커즈 출시 예정 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59114</link>
+            <guid>https://www.esquirekorea.co.kr/article/59114</guid>
+            <pubDate>Tue, 12 Oct 2021 03:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[XBOX 콘솔 출시 20주년을 기념해 출시된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/fd20d6c9-ed7e-4b33-bc4e-c43bca37892f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[디올 x 테크노짐, 홈 피트니스 컬렉션 공개 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59095</link>
             <guid>https://www.esquirekorea.co.kr/article/59095</guid>
@@ -1259,14 +1267,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 07 Oct 2021 16:24:48 GMT</pubDate>
             <content:encoded><![CDATA[“아스트로, 맥주 한병만 가져와줘”]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/1ce31766-5bfd-4eef-89f6-3d0cc31b1349.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[종이접기 가능한 '3D 폴더블 디스플레이' 개발 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58897</link>
-            <guid>https://www.esquirekorea.co.kr/article/58897</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[500번 이상 접은 후에도 안정된 구동성을 보였다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/23a6f955-682c-4ead-948d-142aec791e07.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DMC역 문화비축기지와 함께 가볼 만한 곳들 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1333,6 +1333,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/863cc770-96e2-4900-afa9-ba27f4f10c00.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[추운 날씨엔 서울, 인천, 제주 ‘뷰맛집’ 온수풀 호텔들 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59184</link>
+            <guid>https://www.esquirekorea.co.kr/article/59184</guid>
+            <pubDate>Wed, 13 Oct 2021 09:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[쌀쌀해지는 계절에도 문제없는 호텔의 야외 온수풀 수영장들. 시티뷰, 오션뷰, 마운틴뷰는 즐거...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/f48db662-b6a9-4dba-abd0-710a3ab62ee9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[팬데믹 시대, 영화를 보는 당신의 표정이 궁금하다 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59174</link>
             <guid>https://www.esquirekorea.co.kr/article/59174</guid>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sat, 09 Oct 2021 15:20:40 GMT</pubDate>
             <content:encoded><![CDATA[공개 모집을 통해 참가자를 선정한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/d69b295c-6547-4018-85fc-7e6628721007.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 대세는 밭뷰 카페 3 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59141</link>
-            <guid>https://www.esquirekorea.co.kr/article/59141</guid>
-            <pubDate>Sat, 09 Oct 2021 10:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[가을은 논멍 때리기 좋은 계절.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/c644fdbc-18ef-403b-9bd5-330ba74448b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['어펜저스'가 맥주 파티를 연 이유는? (에스콰이어 코리아 ─ 피플)]]></title>
