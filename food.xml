@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 04:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 05:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조정석의 슬기로운 단골 맛집 리스트 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59267</link>
+            <guid>https://www.esquirekorea.co.kr/article/59267</guid>
+            <pubDate>Thu, 14 Oct 2021 05:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[입맛까지 완벽한 조정석의 매력적인 맛집들을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/64a6d24a-d4d5-4333-9943-8c943c423418.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 서울 웨이팅 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59234</link>
+            <guid>https://www.esquirekorea.co.kr/article/59234</guid>
+            <pubDate>Thu, 14 Oct 2021 05:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[기다릴 만한 가치가 충분한 한식, 중식, 양식 웨이팅 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/722991f9-c595-489c-bc8f-a5c33ba99fe2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추운 날씨엔 서울, 인천, 제주 ‘뷰맛집’ 온수풀 호텔들]]></title>
             <link>https://www.esquirekorea.co.kr/article/59184</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 10 Oct 2021 01:01:34 GMT</pubDate>
             <content:encoded><![CDATA[평화로운 뷰를 갖춘 농장에서 직접 수확한 농작물로 만든 디저트까지 맛보고 오자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/ada577aa-fc3a-4fba-903a-6f7101b7ff48.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[농심, ‘카구리 큰사발면’ 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59113</link>
-            <guid>https://www.esquirekorea.co.kr/article/59113</guid>
-            <pubDate>Sat, 09 Oct 2021 15:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[카레맛이 나는 너구리.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/e6551cfa-fd24-471a-8ad4-b2cd334d1004.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소갈비의 변신, 이색 소갈비 맛집은?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59091</link>
-            <guid>https://www.esquirekorea.co.kr/article/59091</guid>
-            <pubDate>Fri, 08 Oct 2021 09:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[버터를 발라 먹는 소갈비부터 돌판에 올린 소갈비, 갈비를 주문하면 갈비찜까지 나오는 이색 소...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/ac329337-87ff-477e-bc85-dc66d9c6b925.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

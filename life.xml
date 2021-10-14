@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 04:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 05:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로지텍 G X 라이엇 게임즈, '리그 오브 레전드' 컬렉션 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59275</link>
+            <guid>https://www.esquirekorea.co.kr/article/59275</guid>
+            <pubDate>Thu, 14 Oct 2021 05:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[11월 1일 출시 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/0f757a82-a2c8-4bad-873f-7b0dc5889f79.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kanye West 벽화, NFT 형태로 경매]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59269</link>
+            <guid>https://www.esquirekorea.co.kr/article/59269</guid>
+            <pubDate>Thu, 14 Oct 2021 05:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[최종 낙찰자는 QR 코드를 통해 벽화를 소유하게 된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/1764156b-9c8a-4b4b-90ed-1861a0e8eb78.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조정석의 슬기로운 단골 맛집 리스트 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/59267</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 13 Oct 2021 07:19:32 GMT</pubDate>
             <content:encoded><![CDATA[홈트용 밴드 하나만 있으면 집에서 등 운동을 즐길 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/09/9024b19c-195b-4489-a0dd-9119d997660c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[책 읽으러 나가자! 이색 독서 공간 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59166</link>
-            <guid>https://www.esquirekorea.co.kr/article/59166</guid>
-            <pubDate>Tue, 12 Oct 2021 09:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[잔디밭부터 한옥 카페까지 책 읽기에 가장 완벽한 곳을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/37c2f66c-b35a-4d92-a3f5-4d778e616e85.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DMC역 문화비축기지와 함께 가볼 만한 곳들]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59153</link>
-            <guid>https://www.esquirekorea.co.kr/article/59153</guid>
-            <pubDate>Sun, 10 Oct 2021 01:01:50 GMT</pubDate>
-            <content:encoded><![CDATA[문화 비축기지에서 자연과 함께 공연을 만끽하고 근처 타코야키, 소금구이집, 카페 그리고 집밥...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/b2ca691a-8d26-4021-92c2-e34ac79238d4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 04:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 05:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1205,6 +1205,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/9cd57e8a-5283-4c5d-9717-211f18c45922.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한국 힙합 최초의 메타버스 공연 개최 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59145</link>
+            <guid>https://www.esquirekorea.co.kr/article/59145</guid>
+            <pubDate>Thu, 14 Oct 2021 05:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[9일 저녁 7시에 개최된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/5836fd73-d6ab-4629-8a9e-a3343fe6b005.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아디다스, XBOX와의 협업 스니커즈 출시 예정 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59114</link>
             <guid>https://www.esquirekorea.co.kr/article/59114</guid>
@@ -1261,12 +1269,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/fac7f1af-ca5a-4a16-a374-92af35e8cb7e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아마존, 가정용 로봇 ‘아스트로’ 최초 공개 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58950</link>
-            <guid>https://www.esquirekorea.co.kr/article/58950</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[“아스트로, 맥주 한병만 가져와줘”]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/1ce31766-5bfd-4eef-89f6-3d0cc31b1349.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[조정석의 슬기로운 단골 맛집 리스트 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59267</link>
+            <guid>https://www.esquirekorea.co.kr/article/59267</guid>
+            <pubDate>Wed, 13 Oct 2021 11:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[입맛까지 완벽한 조정석의 매력적인 맛집들을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/64a6d24a-d4d5-4333-9943-8c943c423418.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 서울 웨이팅 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59234</link>
+            <guid>https://www.esquirekorea.co.kr/article/59234</guid>
+            <pubDate>Wed, 13 Oct 2021 10:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[기다릴 만한 가치가 충분한 한식, 중식, 양식 웨이팅 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/722991f9-c595-489c-bc8f-a5c33ba99fe2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[추운 날씨엔 서울, 인천, 제주 ‘뷰맛집’ 온수풀 호텔들 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1317,20 +1333,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/ada577aa-fc3a-4fba-903a-6f7101b7ff48.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[농심, ‘카구리 큰사발면’ 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59113</link>
-            <guid>https://www.esquirekorea.co.kr/article/59113</guid>
-            <pubDate>Sat, 09 Oct 2021 15:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[카레맛이 나는 너구리.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/e6551cfa-fd24-471a-8ad4-b2cd334d1004.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[로지텍 G X 라이엇 게임즈, '리그 오브 레전드' 컬렉션 출시 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59275</link>
+            <guid>https://www.esquirekorea.co.kr/article/59275</guid>
+            <pubDate>Thu, 14 Oct 2021 05:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[11월 1일 출시 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/0f757a82-a2c8-4bad-873f-7b0dc5889f79.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[소갈비의 변신, 이색 소갈비 맛집은? (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59091</link>
-            <guid>https://www.esquirekorea.co.kr/article/59091</guid>
-            <pubDate>Thu, 07 Oct 2021 16:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[버터를 발라 먹는 소갈비부터 돌판에 올린 소갈비, 갈비를 주문하면 갈비찜까지 나오는 이색 소...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/ac329337-87ff-477e-bc85-dc66d9c6b925.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Kanye West 벽화, NFT 형태로 경매 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59269</link>
+            <guid>https://www.esquirekorea.co.kr/article/59269</guid>
+            <pubDate>Thu, 14 Oct 2021 05:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[최종 낙찰자는 QR 코드를 통해 벽화를 소유하게 된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/1764156b-9c8a-4b4b-90ed-1861a0e8eb78.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조정석의 슬기로운 단골 맛집 리스트 5 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1379,22 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 13 Oct 2021 07:19:32 GMT</pubDate>
             <content:encoded><![CDATA[홈트용 밴드 하나만 있으면 집에서 등 운동을 즐길 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/09/9024b19c-195b-4489-a0dd-9119d997660c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[책 읽으러 나가자! 이색 독서 공간 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59166</link>
-            <guid>https://www.esquirekorea.co.kr/article/59166</guid>
-            <pubDate>Tue, 12 Oct 2021 09:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[잔디밭부터 한옥 카페까지 책 읽기에 가장 완벽한 곳을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/37c2f66c-b35a-4d92-a3f5-4d778e616e85.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DMC역 문화비축기지와 함께 가볼 만한 곳들 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59153</link>
-            <guid>https://www.esquirekorea.co.kr/article/59153</guid>
-            <pubDate>Sun, 10 Oct 2021 01:01:50 GMT</pubDate>
-            <content:encoded><![CDATA[문화 비축기지에서 자연과 함께 공연을 만끽하고 근처 타코야키, 소금구이집, 카페 그리고 집밥...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/b2ca691a-8d26-4021-92c2-e34ac79238d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미식가 양세형의 단골 맛집 리스트 5 (에스콰이어 코리아 ─ 피플)]]></title>
