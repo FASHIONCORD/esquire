@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 14:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 15:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1077,6 +1077,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[메르세데스 마이바흐 x 버질 아블로 '프로젝트 마이바흐' 전기차 예고 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59224</link>
+            <guid>https://www.esquirekorea.co.kr/article/59224</guid>
+            <pubDate>Thu, 14 Oct 2021 15:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[협업 장인 버질 아블로가 이번엔 메르세데스 마이바흐와 협업한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/686bc0bb-67c4-483a-824e-a1bad9cee33f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[F/W 패션 핵심 정리 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59163</link>
             <guid>https://www.esquirekorea.co.kr/article/59163</guid>
@@ -1131,14 +1139,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 08 Oct 2021 06:21:45 GMT</pubDate>
             <content:encoded><![CDATA[형형색색, 알록달록. 2021 F/W를 구성하는 다채로운 컬러 아이템의 향연.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/02/87b6b917-1d8f-4577-bf2a-8cec23ff1487.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘내가 정한 삶의 방향이 나를 만든다’ (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58847</link>
-            <guid>https://www.esquirekorea.co.kr/article/58847</guid>
-            <pubDate>Thu, 07 Oct 2021 23:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[자신이 원하는 삶을 구축하고 있는 3인의 마크 메이커 CL, 박성진, 지진희와 몽블랑의 새로...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/438d4e9f-6cf1-4420-8c81-abfe1f96b751.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새로운 시대를 담은 까르띠에 탱크 워치 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1525,6 +1525,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/07/42cb6b26-1c13-4f60-b0f6-1256f511b0f3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Eshop] 스타일 업하기 좋은 크로스백 (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59030</link>
+            <guid>https://www.esquirekorea.co.kr/article/59030</guid>
+            <pubDate>Thu, 14 Oct 2021 15:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[두 손은 편하고 포인트까지 되는 크로스백]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/1d14870b-9992-485a-a471-f006bf8d5ecc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Eshop] 미니멀하면서도 감각적인 초가을 데일리룩 (에스콰이어 코리아 ─ 이샵)]]></title>
             <link>https://www.esquirekorea.co.kr/article/58979</link>
             <guid>https://www.esquirekorea.co.kr/article/58979</guid>
@@ -1579,14 +1587,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 07 Oct 2021 16:26:33 GMT</pubDate>
             <content:encoded><![CDATA[장마철에만 입으라는 법은 없으니까.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/17/5e1c194a-8068-4921-bdbd-77c8edc74bb7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 여름의 끝자락, 얇고 가벼운 네트 룩 (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58530</link>
-            <guid>https://www.esquirekorea.co.kr/article/58530</guid>
-            <pubDate>Thu, 07 Oct 2021 16:26:33 GMT</pubDate>
-            <content:encoded><![CDATA[송송 뚫린 그물 같은 포인트]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/15/e9f829fc-fc6c-4ffb-9f31-ff2eaf484a03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
