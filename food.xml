@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 05:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 06:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버거킹, 반려견을 위한 '리얼 독퍼' 정식 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59273</link>
+            <guid>https://www.esquirekorea.co.kr/article/59273</guid>
+            <pubDate>Thu, 14 Oct 2021 06:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[드디어 정식 메뉴로 채택되었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/0fd6e1aa-f40c-4df2-be28-e06395e200d8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조정석의 슬기로운 단골 맛집 리스트 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/59267</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 12 Oct 2021 08:22:38 GMT</pubDate>
             <content:encoded><![CDATA[제주와 고창, 김제, 익산, 천안에서 찾은 인생 사진 건질 수 있는 핑크 뮬리 뷰 맛집 카페...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/310c54ff-1140-4588-acdd-5cc0be95c53a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주말에 찾기 좋은 농장 카페 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59118</link>
-            <guid>https://www.esquirekorea.co.kr/article/59118</guid>
-            <pubDate>Sun, 10 Oct 2021 01:01:34 GMT</pubDate>
-            <content:encoded><![CDATA[평화로운 뷰를 갖춘 농장에서 직접 수확한 농작물로 만든 디저트까지 맛보고 오자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/ada577aa-fc3a-4fba-903a-6f7101b7ff48.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

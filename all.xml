@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 05:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 06:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/fac7f1af-ca5a-4a16-a374-92af35e8cb7e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[버거킹, 반려견을 위한 '리얼 독퍼' 정식 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59273</link>
+            <guid>https://www.esquirekorea.co.kr/article/59273</guid>
+            <pubDate>Thu, 14 Oct 2021 06:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[드디어 정식 메뉴로 채택되었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/0fd6e1aa-f40c-4df2-be28-e06395e200d8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[조정석의 슬기로운 단골 맛집 리스트 5 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59267</link>
             <guid>https://www.esquirekorea.co.kr/article/59267</guid>
@@ -1325,12 +1333,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/310c54ff-1140-4588-acdd-5cc0be95c53a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[주말에 찾기 좋은 농장 카페 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59118</link>
-            <guid>https://www.esquirekorea.co.kr/article/59118</guid>
-            <pubDate>Fri, 08 Oct 2021 06:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[평화로운 뷰를 갖춘 농장에서 직접 수확한 농작물로 만든 디저트까지 맛보고 오자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/ada577aa-fc3a-4fba-903a-6f7101b7ff48.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[마블, <가디언즈오브갤럭시> 세계관 최강자 '아담 워록' 예고 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59276</link>
+            <guid>https://www.esquirekorea.co.kr/article/59276</guid>
+            <pubDate>Thu, 14 Oct 2021 06:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[영국 배우 윌 폴터가 캐스팅되었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/1de33149-973f-4698-b211-4e8021d0d9de.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로지텍 G X 라이엇 게임즈, '리그 오브 레전드' 컬렉션 출시 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 13 Oct 2021 08:23:32 GMT</pubDate>
             <content:encoded><![CDATA[이 시대의 마지막 맛객, 세 명의 택시 기사에게 직접 물어온 맛집 세 곳을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/d3296efc-1870-4e2a-94b4-4098a3172912.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡 여신 ‘이시영’도 즐기는 밴드 홈트레이닝 등 루틴 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59170</link>
-            <guid>https://www.esquirekorea.co.kr/article/59170</guid>
-            <pubDate>Wed, 13 Oct 2021 07:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[홈트용 밴드 하나만 있으면 집에서 등 운동을 즐길 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/09/9024b19c-195b-4489-a0dd-9119d997660c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미식가 양세형의 단골 맛집 리스트 5 (에스콰이어 코리아 ─ 피플)]]></title>
