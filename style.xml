@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 22:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 23:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[섀기 커트, 벨벳 추리닝, 근본 없는 화려함의 시대]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59241</link>
+            <guid>https://www.esquirekorea.co.kr/article/59241</guid>
+            <pubDate>Thu, 14 Oct 2021 23:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[섀기 커트를 해야만 했다. 2003년이었다. 섀기 커트라는 게 한국에 들어왔다. 일본에서 들...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/3d4489b4-60d7-4cd5-80d1-2fb86572dd64.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[샤넬 리미티드 구매 정책]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59225</link>
+            <guid>https://www.esquirekorea.co.kr/article/59225</guid>
+            <pubDate>Thu, 14 Oct 2021 23:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[있어도 못 산다? 이번 달부터 인당 1년에 딱 1개만 살 수 있는 샤넬 백.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/49bda0b4-5215-4a6c-96aa-54b9bd3feebe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메르세데스 마이바흐 x 버질 아블로 '프로젝트 마이바흐' 전기차 예고]]></title>
             <link>https://www.esquirekorea.co.kr/article/59224</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 12 Oct 2021 03:19:02 GMT</pubDate>
             <content:encoded><![CDATA[한정판으로만 출시될 예정이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/a89de95b-fc1e-42ca-ac3e-773feae0b222.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 변요한과 처치스의 새로운 로열 컬렉션의 극적인 만남]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59073</link>
-            <guid>https://www.esquirekorea.co.kr/article/59073</guid>
-            <pubDate>Fri, 08 Oct 2021 15:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[처치스의 새로운 로열 컬렉션을 선택한 배우 변요한을 만났다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/51934d3d-4450-4f50-95e7-05397fcce6d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올 가을 겨울을 채우는 이토록 다양한 컬러]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59003</link>
-            <guid>https://www.esquirekorea.co.kr/article/59003</guid>
-            <pubDate>Fri, 08 Oct 2021 06:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[형형색색, 알록달록. 2021 F/W를 구성하는 다채로운 컬러 아이템의 향연.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/02/87b6b917-1d8f-4577-bf2a-8cec23ff1487.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
