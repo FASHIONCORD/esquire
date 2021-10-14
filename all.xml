@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 07:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 08:23:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/fac7f1af-ca5a-4a16-a374-92af35e8cb7e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스페셜티 커피를 위한 그라인더 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59226</link>
+            <guid>https://www.esquirekorea.co.kr/article/59226</guid>
+            <pubDate>Thu, 14 Oct 2021 08:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[바라짜의 포르테 BG 전동 커피 그라인더를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/7d331e7f-7b6b-449a-9cec-e0079d4a99f4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[버거킹, 반려견을 위한 '리얼 독퍼' 정식 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59273</link>
             <guid>https://www.esquirekorea.co.kr/article/59273</guid>
@@ -1325,12 +1333,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/c644fdbc-18ef-403b-9bd5-330ba74448b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가을에 가기 좋은 핑크 뮬리 뷰 카페 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59127</link>
-            <guid>https://www.esquirekorea.co.kr/article/59127</guid>
-            <pubDate>Fri, 08 Oct 2021 06:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[제주와 고창, 김제, 익산, 천안에서 찾은 인생 사진 건질 수 있는 핑크 뮬리 뷰 맛집 카페...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/310c54ff-1140-4588-acdd-5cc0be95c53a.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김연경, 남현희에게? 배구, 펜싱, 양궁, 레슬링을 배울 수 있는 체육관들 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59278</link>
+            <guid>https://www.esquirekorea.co.kr/article/59278</guid>
+            <pubDate>Thu, 14 Oct 2021 08:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[올림픽의 감동을 직접 체험하고 싶다면? 펜싱, 배구, 양궁, 레슬링을 배울 수 있는 이색 체...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/06a0b3f9-cb34-4605-bd07-42855a1395ce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마블, <가디언즈오브갤럭시> 세계관 최강자 '아담 워록' 예고 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 13 Oct 2021 08:23:32 GMT</pubDate>
             <content:encoded><![CDATA[지난 2년 사이, 영화 주간지를 만들기 위한 기자의 업무 분장 방식은 확연히 변했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/e664a1c1-be4b-4ea3-acab-b431125931d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[택시 기사들의 논현동, 잠원동 맛집 3 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59171</link>
-            <guid>https://www.esquirekorea.co.kr/article/59171</guid>
-            <pubDate>Wed, 13 Oct 2021 08:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[이 시대의 마지막 맛객, 세 명의 택시 기사에게 직접 물어온 맛집 세 곳을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/d3296efc-1870-4e2a-94b4-4098a3172912.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미식가 양세형의 단골 맛집 리스트 5 (에스콰이어 코리아 ─ 피플)]]></title>
