@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 10:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 11:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 뜨는 동해 풀코스로 즐기기 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59302</link>
+            <guid>https://www.esquirekorea.co.kr/article/59302</guid>
+            <pubDate>Thu, 14 Oct 2021 11:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[KTX 동해역에서 내려 땅 보러 온 김에 자이아파트에서 최대 15분 역세권 맛집까지 즐기고 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/038e723a-2de9-4c5a-b192-1b89bed655db.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[롤스로이스, 셀라레트 박스 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/59298</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 14 Oct 2021 05:18:49 GMT</pubDate>
             <content:encoded><![CDATA[최종 낙찰자는 QR 코드를 통해 벽화를 소유하게 된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/1764156b-9c8a-4b4b-90ed-1861a0e8eb78.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조정석의 슬기로운 단골 맛집 리스트 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59267</link>
-            <guid>https://www.esquirekorea.co.kr/article/59267</guid>
-            <pubDate>Wed, 13 Oct 2021 11:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[입맛까지 완벽한 조정석의 매력적인 맛집들을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/64a6d24a-d4d5-4333-9943-8c943c423418.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

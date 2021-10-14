@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 10:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 11:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1205,6 +1205,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/9cd57e8a-5283-4c5d-9717-211f18c45922.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[현대자동차, 어린이 통학차량 ‘스타리아 킨더’ 출시 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59146</link>
+            <guid>https://www.esquirekorea.co.kr/article/59146</guid>
+            <pubDate>Thu, 14 Oct 2021 11:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[11인승과 15인승으로 구성되었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/b9405694-68dd-4f2d-92b1-c15a36c52c0b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한국 힙합 최초의 메타버스 공연 개최 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59145</link>
             <guid>https://www.esquirekorea.co.kr/article/59145</guid>
@@ -1261,12 +1269,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/7c875069-02b0-4c35-a713-f8cdb2590997.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[롤스로이스, 최초의 순수 전기차 '스펙터' 공개 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58951</link>
-            <guid>https://www.esquirekorea.co.kr/article/58951</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[2030년 이후 내연 엔진 제품의 생산 및 판매를 중단할 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/fac7f1af-ca5a-4a16-a374-92af35e8cb7e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[해태제과, ‘홈런볼 그릭요거트’ 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59297</link>
+            <guid>https://www.esquirekorea.co.kr/article/59297</guid>
+            <pubDate>Thu, 14 Oct 2021 11:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[그리스에서 직접 공수한 요거트를 사용한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/0f75c1d2-9aab-4a4d-8aa6-f9a50b67b12e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[건축상을 수상한 카페 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59279</link>
+            <guid>https://www.esquirekorea.co.kr/article/59279</guid>
+            <pubDate>Thu, 14 Oct 2021 10:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[예술적 영감을 불어넣어 줄 파주와 아산, 인천, 울산의 건축상을 수상한 카페 네 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/4ea8272a-abd5-47f9-b97d-22f2e49b6943.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스페셜티 커피를 위한 그라인더 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1317,20 +1333,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/d3296efc-1870-4e2a-94b4-4098a3172912.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[DMC역 문화비축기지와 함께 가볼 만한 곳들 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59153</link>
-            <guid>https://www.esquirekorea.co.kr/article/59153</guid>
-            <pubDate>Sun, 10 Oct 2021 01:01:50 GMT</pubDate>
-            <content:encoded><![CDATA[문화 비축기지에서 자연과 함께 공연을 만끽하고 근처 타코야키, 소금구이집, 카페 그리고 집밥...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/b2ca691a-8d26-4021-92c2-e34ac79238d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 대세는 밭뷰 카페 3 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59141</link>
-            <guid>https://www.esquirekorea.co.kr/article/59141</guid>
-            <pubDate>Sat, 09 Oct 2021 10:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[가을은 논멍 때리기 좋은 계절.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/c644fdbc-18ef-403b-9bd5-330ba74448b9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[지금 뜨는 동해 풀코스로 즐기기 5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59302</link>
+            <guid>https://www.esquirekorea.co.kr/article/59302</guid>
+            <pubDate>Thu, 14 Oct 2021 11:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[KTX 동해역에서 내려 땅 보러 온 김에 자이아파트에서 최대 15분 역세권 맛집까지 즐기고 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/038e723a-2de9-4c5a-b192-1b89bed655db.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[롤스로이스, 셀라레트 박스 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 14 Oct 2021 05:18:49 GMT</pubDate>
             <content:encoded><![CDATA[최종 낙찰자는 QR 코드를 통해 벽화를 소유하게 된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/1764156b-9c8a-4b4b-90ed-1861a0e8eb78.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조정석의 슬기로운 단골 맛집 리스트 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59267</link>
-            <guid>https://www.esquirekorea.co.kr/article/59267</guid>
-            <pubDate>Wed, 13 Oct 2021 11:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[입맛까지 완벽한 조정석의 매력적인 맛집들을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/64a6d24a-d4d5-4333-9943-8c943c423418.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[언더아머, ‘광고 대세’ 김연경, 현빈과 FW21 윈터 캠페인 공개 (에스콰이어 코리아 ─ 피플)]]></title>

@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 10:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 11:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해태제과, ‘홈런볼 그릭요거트’ 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59297</link>
+            <guid>https://www.esquirekorea.co.kr/article/59297</guid>
+            <pubDate>Thu, 14 Oct 2021 11:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[그리스에서 직접 공수한 요거트를 사용한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/0f75c1d2-9aab-4a4d-8aa6-f9a50b67b12e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[건축상을 수상한 카페 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59279</link>
+            <guid>https://www.esquirekorea.co.kr/article/59279</guid>
+            <pubDate>Thu, 14 Oct 2021 11:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[예술적 영감을 불어넣어 줄 파주와 아산, 인천, 울산의 건축상을 수상한 카페 네 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/4ea8272a-abd5-47f9-b97d-22f2e49b6943.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스페셜티 커피를 위한 그라인더]]></title>
             <link>https://www.esquirekorea.co.kr/article/59226</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 13 Oct 2021 10:21:19 GMT</pubDate>
             <content:encoded><![CDATA[이 시대의 마지막 맛객, 세 명의 택시 기사에게 직접 물어온 맛집 세 곳을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/d3296efc-1870-4e2a-94b4-4098a3172912.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DMC역 문화비축기지와 함께 가볼 만한 곳들]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59153</link>
-            <guid>https://www.esquirekorea.co.kr/article/59153</guid>
-            <pubDate>Wed, 13 Oct 2021 08:23:18 GMT</pubDate>
-            <content:encoded><![CDATA[문화 비축기지에서 자연과 함께 공연을 만끽하고 근처 타코야키, 소금구이집, 카페 그리고 집밥...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/b2ca691a-8d26-4021-92c2-e34ac79238d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 대세는 밭뷰 카페 3]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59141</link>
-            <guid>https://www.esquirekorea.co.kr/article/59141</guid>
-            <pubDate>Wed, 13 Oct 2021 07:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[가을은 논멍 때리기 좋은 계절.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/c644fdbc-18ef-403b-9bd5-330ba74448b9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
