@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 07:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 08:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1077,6 +1077,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[무신사, 넷플릭스와 협업 ‘오징어 게임’의 ‘초록색 체육복’ 출시 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59319</link>
+            <guid>https://www.esquirekorea.co.kr/article/59319</guid>
+            <pubDate>Fri, 15 Oct 2021 08:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[래플 이벤트를 통해 구매 가능.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/1575bcf0-de08-48a7-afde-a1e5020e3589.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[로고의 맛 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59286</link>
             <guid>https://www.esquirekorea.co.kr/article/59286</guid>
@@ -1131,14 +1139,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 08 Oct 2021 10:21:19 GMT</pubDate>
             <content:encoded><![CDATA[여름의 마지막, 가을의 시작에서 만난 2020 도쿄 올림픽 펜싱 남자 사브르 단체전 금메달리...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/72ab303d-3809-4223-8efc-5af3ee025550.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아디다스, XBOX와의 협업 스니커즈 출시 예정 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59114</link>
-            <guid>https://www.esquirekorea.co.kr/article/59114</guid>
-            <pubDate>Tue, 12 Oct 2021 03:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[XBOX 콘솔 출시 20주년을 기념해 출시된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/fd20d6c9-ed7e-4b33-bc4e-c43bca37892f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새로운 시대를 담은 까르띠에 탱크 워치 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1205,6 +1205,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/9cd57e8a-5283-4c5d-9717-211f18c45922.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[메르세데스 마이바흐 x 버질 아블로 '프로젝트 마이바흐' 전기차 예고 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59224</link>
+            <guid>https://www.esquirekorea.co.kr/article/59224</guid>
+            <pubDate>Thu, 14 Oct 2021 15:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[협업 장인 버질 아블로가 이번엔 메르세데스 마이바흐와 협업한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/686bc0bb-67c4-483a-824e-a1bad9cee33f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[현대자동차, 어린이 통학차량 ‘스타리아 킨더’ 출시 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59146</link>
             <guid>https://www.esquirekorea.co.kr/article/59146</guid>
@@ -1261,12 +1269,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/eb3b2b7d-c308-4ec5-bce5-f0c60970afd3.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA['어펜저스'가 맥주 파티를 연 이유는? (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59000</link>
-            <guid>https://www.esquirekorea.co.kr/article/59000</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[한국 펜싱 국가대표 선수 김정환, 구본길, 김준호, 오상욱이 도쿄 올림픽 이후 맥주 파티를 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/7c875069-02b0-4c35-a713-f8cdb2590997.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[롤스로이스, 셀라레트 박스 공개 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59298</link>
+            <guid>https://www.esquirekorea.co.kr/article/59298</guid>
+            <pubDate>Thu, 14 Oct 2021 10:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[기능과 디자인을 모두 갖춘 럭셔리 스토리지 박스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/8c41f1db-393c-4ad6-94a6-5e184d4f0e90.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해태제과, ‘홈런볼 그릭요거트’ 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1323,14 +1331,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 13 Oct 2021 09:19:34 GMT</pubDate>
             <content:encoded><![CDATA[쌀쌀해지는 계절에도 문제없는 호텔의 야외 온수풀 수영장들. 시티뷰, 오션뷰, 마운틴뷰는 즐거...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/f48db662-b6a9-4dba-abd0-710a3ab62ee9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[택시 기사들의 논현동, 잠원동 맛집 3 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59171</link>
-            <guid>https://www.esquirekorea.co.kr/article/59171</guid>
-            <pubDate>Wed, 13 Oct 2021 08:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[이 시대의 마지막 맛객, 세 명의 택시 기사에게 직접 물어온 맛집 세 곳을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/d3296efc-1870-4e2a-94b4-4098a3172912.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디즈니+, <나 홀로 집에> 리부트 <홈 스위트 홈 얼론> 공식 예고편 공개 (에스콰이어 코리아 ─ 라이프)]]></title>

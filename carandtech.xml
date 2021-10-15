@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 07:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 08:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메르세데스 마이바흐 x 버질 아블로 '프로젝트 마이바흐' 전기차 예고]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59224</link>
+            <guid>https://www.esquirekorea.co.kr/article/59224</guid>
+            <pubDate>Fri, 15 Oct 2021 08:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[협업 장인 버질 아블로가 이번엔 메르세데스 마이바흐와 협업한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/686bc0bb-67c4-483a-824e-a1bad9cee33f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현대자동차, 어린이 통학차량 ‘스타리아 킨더’ 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/59146</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Oct 2021 06:22:29 GMT</pubDate>
             <content:encoded><![CDATA[전혀 다른 3대의 컨버터블과 함께 가을을 즐기는 방법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/eb3b2b7d-c308-4ec5-bce5-f0c60970afd3.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA['어펜저스'가 맥주 파티를 연 이유는?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59000</link>
-            <guid>https://www.esquirekorea.co.kr/article/59000</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[한국 펜싱 국가대표 선수 김정환, 구본길, 김준호, 오상욱이 도쿄 올림픽 이후 맥주 파티를 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/7c875069-02b0-4c35-a713-f8cdb2590997.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
