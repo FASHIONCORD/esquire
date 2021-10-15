@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 11:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 12:30:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1333,6 +1333,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/f48db662-b6a9-4dba-abd0-710a3ab62ee9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[제철을 맞은 오징어 요리 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59350</link>
+            <guid>https://www.esquirekorea.co.kr/article/59350</guid>
+            <pubDate>Fri, 15 Oct 2021 12:29:56 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;오징어게임&gt;이 대세인 요즘이야말로 진짜 ‘오징어 시즌’이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/a5ef8147-aa88-4b27-8f70-cf83cec443f0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비틀즈 다큐멘터리 <비틀즈: 겟 백> 방영일 확정 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59346</link>
+            <guid>https://www.esquirekorea.co.kr/article/59346</guid>
+            <pubDate>Fri, 15 Oct 2021 12:29:56 GMT</pubDate>
+            <content:encoded><![CDATA[총 3부작으로 이루어진다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/c24950d4-161a-4c32-89a7-df80de26851a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이달의 소녀 김립과 츄의 색다른 순간 part.2 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59335</link>
             <guid>https://www.esquirekorea.co.kr/article/59335</guid>
@@ -1379,22 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 15 Oct 2021 02:33:30 GMT</pubDate>
             <content:encoded><![CDATA[크리스마스에 볼 영화 하나 추가요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/1b9c6c01-ac43-4c0e-88f8-66db2accdae1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가성비 좋은 새우 양식장 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59313</link>
-            <guid>https://www.esquirekorea.co.kr/article/59313</guid>
-            <pubDate>Fri, 15 Oct 2021 02:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[새우의 계절 가을이다. 새우를 구워서도 먹고, 튀겨서도 먹고, 라면에 넣어서도 먹을 수 있는...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/ad8242e0-6731-4755-bdac-ebbf33ef8d4f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 뜨는 동해 풀코스로 즐기기 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59302</link>
-            <guid>https://www.esquirekorea.co.kr/article/59302</guid>
-            <pubDate>Thu, 14 Oct 2021 11:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[KTX 동해역에서 내려 땅 보러 온 김에 자이아파트에서 최대 15분 역세권 맛집까지 즐기고 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/038e723a-2de9-4c5a-b192-1b89bed655db.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김연경, 남현희에게? 배구, 펜싱, 양궁, 레슬링을 배울 수 있는 체육관들 4 (에스콰이어 코리아 ─ 피플)]]></title>
