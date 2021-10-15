@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 09:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 10:27:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김연경, 남현희에게? 배구, 펜싱, 양궁, 레슬링을 배울 수 있는 체육관들 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59278</link>
+            <guid>https://www.esquirekorea.co.kr/article/59278</guid>
+            <pubDate>Fri, 15 Oct 2021 10:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[올림픽의 감동을 직접 체험하고 싶다면? 펜싱, 배구, 양궁, 레슬링을 배울 수 있는 이색 체...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/06a0b3f9-cb34-4605-bd07-42855a1395ce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조르지오 아르마니 2021 FW 컬렉션과 함께한 올림픽 금메달리스트 김정환과 오상욱]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59135</link>
+            <guid>https://www.esquirekorea.co.kr/article/59135</guid>
+            <pubDate>Fri, 15 Oct 2021 10:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[여름의 마지막, 가을의 시작에서 만난 2020 도쿄 올림픽 펜싱 남자 사브르 단체전 금메달리...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/72ab303d-3809-4223-8efc-5af3ee025550.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손흥민, 황희찬 나란히 프리미어리그(EPL) 주간 베스트 11 선정]]></title>
             <link>https://www.esquirekorea.co.kr/article/59056</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 05 Oct 2021 09:20:50 GMT</pubDate>
             <content:encoded><![CDATA[지드래곤부터 태양, 쌈디와 방탄소년단 RM까지. 미술을 사랑하는 스타들의 소장품을 소개한다....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/9adf31ea-f1eb-4b12-843a-3b883afd4412.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이규형이 배우 최민식 만난 썰?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58914</link>
-            <guid>https://www.esquirekorea.co.kr/article/58914</guid>
-            <pubDate>Sun, 03 Oct 2021 15:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[매력부자 이규형을 만나 최근 가장 행복했던 순간을 물어봤다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/fdbc287a-5ec8-4510-8704-ad50cee0a3b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[007의 적수가 되어 돌아온 라미 말렉을 만났다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58876</link>
-            <guid>https://www.esquirekorea.co.kr/article/58876</guid>
-            <pubDate>Sat, 02 Oct 2021 19:39:21 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;보헤미안 랩소디&gt; 속 프레디 머큐리 역으로 전 세계인의 눈길을 사로잡은 라미 말렉이 제임스...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/4ab8e46f-ba26-4b08-8a1d-5017c60a7709.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
