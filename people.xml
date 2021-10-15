@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 23:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 01:07:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손흥민, 황희찬 나란히 프리미어리그(EPL) 주간 베스트 11 선정]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59056</link>
+            <guid>https://www.esquirekorea.co.kr/article/59056</guid>
+            <pubDate>Fri, 15 Oct 2021 01:06:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021-2022 EPL 10월 첫째 주 주간 베스트 11에 올랐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/5bce60c1-e109-4a0f-afde-781e2647c4e1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<베놈> 주연이자 프로듀서인 톰 하디는 이미 시리즈 다음편을 기획하고 있다고 했다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59028</link>
+            <guid>https://www.esquirekorea.co.kr/article/59028</guid>
+            <pubDate>Fri, 15 Oct 2021 01:06:14 GMT</pubDate>
+            <content:encoded><![CDATA[영화에 대해서. 캐릭터에 대해서. 동료, 가족, 사워도우 카페에 대해서. 베놈과 스파이더맨의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/94998614-08cc-40ff-80d7-655fe491c472.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[언더아머, ‘광고 대세’ 김연경, 현빈과 FW21 윈터 캠페인 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/59017</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 02 Oct 2021 19:39:21 GMT</pubDate>
             <content:encoded><![CDATA[&lt;보헤미안 랩소디&gt; 속 프레디 머큐리 역으로 전 세계인의 눈길을 사로잡은 라미 말렉이 제임스...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/4ab8e46f-ba26-4b08-8a1d-5017c60a7709.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박찬욱의 우연과 필연의 세계]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58821</link>
-            <guid>https://www.esquirekorea.co.kr/article/58821</guid>
-            <pubDate>Sat, 02 Oct 2021 08:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[사진작가 박찬욱은 촉각을 곤두세우고 그날 그 장소의 빛이 만들어낸 익숙하지만 낯선 우연을 찾...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/48f35ca8-2a1e-4807-9928-712a6e49b887.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이규형이 선배들의 무대를 보지 않은 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58820</link>
-            <guid>https://www.esquirekorea.co.kr/article/58820</guid>
-            <pubDate>Fri, 01 Oct 2021 23:05:53 GMT</pubDate>
-            <content:encoded><![CDATA[이규형은 이번엔 형들의 헤드윅을 보지 않았다. 그가 완성한 헤드윅은 오로지 이규형만의 헤드윅...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/1663c3c2-ab9f-46f6-92a8-42688b94ae85.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
