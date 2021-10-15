@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 08:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 09:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을을 위한 새로운 향수]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59330</link>
+            <guid>https://www.esquirekorea.co.kr/article/59330</guid>
+            <pubDate>Fri, 15 Oct 2021 09:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[이 계절만을 기다렸다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/cd0638d8-fbd1-4b06-968e-3e2b650580bf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무신사, 넷플릭스와 협업 ‘오징어 게임’의 ‘초록색 체육복’ 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/59319</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 13 Oct 2021 15:20:22 GMT</pubDate>
             <content:encoded><![CDATA[야광 효과를 낼 수도 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/40c99648-e492-41b9-b967-ea168d3edf25.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조르지오 아르마니 2021 FW 컬렉션과 함께한 올림픽 금메달리스트 김정환과 오상욱]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59135</link>
-            <guid>https://www.esquirekorea.co.kr/article/59135</guid>
-            <pubDate>Tue, 12 Oct 2021 15:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[여름의 마지막, 가을의 시작에서 만난 2020 도쿄 올림픽 펜싱 남자 사브르 단체전 금메달리...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/72ab303d-3809-4223-8efc-5af3ee025550.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
