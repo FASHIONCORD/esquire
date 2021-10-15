@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 01:07:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 02:34:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니+, <나 홀로 집에> 리부트 <홈 스위트 홈 얼론> 공식 예고편 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59315</link>
+            <guid>https://www.esquirekorea.co.kr/article/59315</guid>
+            <pubDate>Fri, 15 Oct 2021 02:33:30 GMT</pubDate>
+            <content:encoded><![CDATA[크리스마스에 볼 영화 하나 추가요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/1b9c6c01-ac43-4c0e-88f8-66db2accdae1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가성비 좋은 새우 양식장 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59313</link>
+            <guid>https://www.esquirekorea.co.kr/article/59313</guid>
+            <pubDate>Fri, 15 Oct 2021 02:33:30 GMT</pubDate>
+            <content:encoded><![CDATA[새우의 계절 가을이다. 새우를 구워서도 먹고, 튀겨서도 먹고, 라면에 넣어서도 먹을 수 있는...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/ad8242e0-6731-4755-bdac-ebbf33ef8d4f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 뜨는 동해 풀코스로 즐기기 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/59302</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 14 Oct 2021 06:22:41 GMT</pubDate>
             <content:encoded><![CDATA[영국 배우 윌 폴터가 캐스팅되었다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/1de33149-973f-4698-b211-4e8021d0d9de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로지텍 G X 라이엇 게임즈, '리그 오브 레전드' 컬렉션 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59275</link>
-            <guid>https://www.esquirekorea.co.kr/article/59275</guid>
-            <pubDate>Thu, 14 Oct 2021 05:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[11월 1일 출시 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/0f757a82-a2c8-4bad-873f-7b0dc5889f79.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kanye West 벽화, NFT 형태로 경매]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59269</link>
-            <guid>https://www.esquirekorea.co.kr/article/59269</guid>
-            <pubDate>Thu, 14 Oct 2021 05:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[최종 낙찰자는 QR 코드를 통해 벽화를 소유하게 된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/1764156b-9c8a-4b4b-90ed-1861a0e8eb78.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
