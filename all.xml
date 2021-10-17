@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 06:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 07:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1333,6 +1333,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/64a6d24a-d4d5-4333-9943-8c943c423418.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이달의 소녀 김립과 츄의 화보 촬영 현장 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59355</link>
+            <guid>https://www.esquirekorea.co.kr/article/59355</guid>
+            <pubDate>Sun, 17 Oct 2021 07:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[이전에 보여준 적 없는 시크하고 강렬한 둘의 모습.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/d4ad67a3-ca09-47de-a7d8-579e6256c939.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LG전자, 식물생활가전 'LG 틔운' 출시 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59353</link>
             <guid>https://www.esquirekorea.co.kr/article/59353</guid>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 15 Oct 2021 09:20:02 GMT</pubDate>
             <content:encoded><![CDATA[핼러윈 한정 판매 예정.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/86b5bbdb-e0db-4bee-8c4a-1e2ea9caf4fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무신사, 넷플릭스와 협업 ‘오징어 게임’의 ‘초록색 체육복’ 출시 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59319</link>
-            <guid>https://www.esquirekorea.co.kr/article/59319</guid>
-            <pubDate>Fri, 15 Oct 2021 08:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[래플 이벤트를 통해 구매 가능.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/1575bcf0-de08-48a7-afde-a1e5020e3589.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김연경, 남현희에게? 배구, 펜싱, 양궁, 레슬링을 배울 수 있는 체육관들 4 (에스콰이어 코리아 ─ 피플)]]></title>
