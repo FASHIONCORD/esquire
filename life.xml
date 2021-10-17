@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 01:02:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 02:08:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자, 식물생활가전 'LG 틔운' 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59353</link>
+            <guid>https://www.esquirekorea.co.kr/article/59353</guid>
+            <pubDate>Sun, 17 Oct 2021 02:07:15 GMT</pubDate>
+            <content:encoded><![CDATA[씨앗 키트를 받아 볼 수 있는 정기 구독 서비스를 제공한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/265629ba-0110-4a7c-a098-23ef501e7c3a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아델, 6년 만의 새 정규 앨범 '30' 발매]]></title>
             <link>https://www.esquirekorea.co.kr/article/59351</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 15 Oct 2021 09:20:02 GMT</pubDate>
             <content:encoded><![CDATA[래플 이벤트를 통해 구매 가능.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/1575bcf0-de08-48a7-afde-a1e5020e3589.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, ‘기가비어’ 맥주 출시 예정]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59318</link>
-            <guid>https://www.esquirekorea.co.kr/article/59318</guid>
-            <pubDate>Fri, 15 Oct 2021 09:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[아쉽게도 실제 판매는 미정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/2f9bab10-b08f-41be-9d08-551b4b20231e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
