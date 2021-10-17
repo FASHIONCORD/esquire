@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 23:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Oct 2021 01:02:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/eb3b2b7d-c308-4ec5-bce5-f0c60970afd3.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[가성비 좋은 새우 양식장 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59313</link>
+            <guid>https://www.esquirekorea.co.kr/article/59313</guid>
+            <pubDate>Sun, 17 Oct 2021 01:00:43 GMT</pubDate>
+            <content:encoded><![CDATA[새우의 계절 가을이다. 새우를 구워서도 먹고, 튀겨서도 먹고, 라면에 넣어서도 먹을 수 있는...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/ad8242e0-6731-4755-bdac-ebbf33ef8d4f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지금 뜨는 동해 풀코스로 즐기기 5 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59302</link>
             <guid>https://www.esquirekorea.co.kr/article/59302</guid>
@@ -1323,14 +1331,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 13 Oct 2021 11:17:22 GMT</pubDate>
             <content:encoded><![CDATA[입맛까지 완벽한 조정석의 매력적인 맛집들을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/64a6d24a-d4d5-4333-9943-8c943c423418.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 서울 웨이팅 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59234</link>
-            <guid>https://www.esquirekorea.co.kr/article/59234</guid>
-            <pubDate>Wed, 13 Oct 2021 10:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[기다릴 만한 가치가 충분한 한식, 중식, 양식 웨이팅 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/722991f9-c595-489c-bc8f-a5c33ba99fe2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아델, 6년 만의 새 정규 앨범 '30' 발매 (에스콰이어 코리아 ─ 라이프)]]></title>
