@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 23:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 01:07:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신이 몰랐던 정호연에 대한 20가지 사실]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32570470&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32570470&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Mon, 18 Oct 2021 01:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMThfMTg3/MDAxNjM0NTE0NDUwMzc3.iHWgZYdiY5isTsNYChuqfcVdg1h4A7gpYdoGowY8zD0g.mc8BjubYCi1X1Fk3GyAWlJ6nIjMIJrEFWtf3s2YW6hEg.PNG/I7jz-gr7Tw92-2wGl6Llg0WOIS_Y.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021년 드림캐쳐의 여름 일상 part.1]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32168823&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Oct 2021 07:17:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMTlfMTg0/MDAxNjAzMDkwMzYxMTI3.7mfeqglc57u4NIpIgktycyXSs4jj8g3aIlKYZsorISAg.jziQh5fClbdMTpKeTtJFB84IEwcKeJsWh_qrCaczZ4kg.JPEG/IQXWJzvdJTRaXgK-l-Ieb-02Rljo.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데뷔 16년차인 단단한 배우 김보라]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=29619280&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=29619280&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 07:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMDVfMTIg/MDAxNjAxODgxNDczMTgz.xflhb3BNkJSEI88yFVwD4gTy0idU7_qTB0yDCeu6-4wg.RisQEzctdsL9_wa8W1SI4sQV2obXmrVBRQEx1BRX6P0g.PNG/IqBxWjlaGPp9qtLhxkWOoYtvs31Y.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
