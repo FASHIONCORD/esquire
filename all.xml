@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 08:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 09:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/eb3b2b7d-c308-4ec5-bce5-f0c60970afd3.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[하인즈, 핼로윈 맞아 ‘토마토의 피’ 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59322</link>
+            <guid>https://www.esquirekorea.co.kr/article/59322</guid>
+            <pubDate>Mon, 18 Oct 2021 09:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[핼러윈 한정 판매 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/86b5bbdb-e0db-4bee-8c4a-1e2ea9caf4fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[테슬라, ‘기가비어’ 맥주 출시 예정 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59318</link>
             <guid>https://www.esquirekorea.co.kr/article/59318</guid>
@@ -1323,14 +1331,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 14 Oct 2021 08:22:30 GMT</pubDate>
             <content:encoded><![CDATA[바라짜의 포르테 BG 전동 커피 그라인더를 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/7d331e7f-7b6b-449a-9cec-e0079d4a99f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버거킹, 반려견을 위한 '리얼 독퍼' 정식 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59273</link>
-            <guid>https://www.esquirekorea.co.kr/article/59273</guid>
-            <pubDate>Thu, 14 Oct 2021 06:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[드디어 정식 메뉴로 채택되었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/0fd6e1aa-f40c-4df2-be28-e06395e200d8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[운동하는 여자 혜리 하체 운동 루틴 4 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
