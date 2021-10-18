@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 07:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 08:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1333,6 +1333,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/0fd6e1aa-f40c-4df2-be28-e06395e200d8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[운동하는 여자 혜리 하체 운동 루틴 4 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59364</link>
+            <guid>https://www.esquirekorea.co.kr/article/59364</guid>
+            <pubDate>Mon, 18 Oct 2021 08:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[헬스장에서도, 홈트레이닝으로도 즐길 수 있는 하체 운동으로 다이어트를 시작해 보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/ca6da198-c4a1-4ac2-a31e-d085e525c6e0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이달의 소녀 김립과 츄의 화보 촬영 현장 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59355</link>
             <guid>https://www.esquirekorea.co.kr/article/59355</guid>
@@ -1378,7 +1386,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/59335</guid>
             <pubDate>Fri, 15 Oct 2021 09:20:02 GMT</pubDate>
             <content:encoded><![CDATA[시크한 매력을 마음껏 뽐낸 이달의 소녀 김립과 츄, 99즈의 첫 화보.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/91dcd2a5-58d6-4f5d-8384-5ddcc5ca0ea8.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/91dcd2a5-58d6-4f5d-8384-5ddcc5ca0ea8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이달의 소녀 김립과 츄의 색다른 순간 part.1 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1386,15 +1394,15 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/59334</guid>
             <pubDate>Fri, 15 Oct 2021 09:20:02 GMT</pubDate>
             <content:encoded><![CDATA[시크한 매력을 마음껏 뽐낸 이달의 소녀 김립과 츄, 99즈의 첫 화보.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/1222e739-04e4-492e-addd-afdc4ad49b9e.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/1222e739-04e4-492e-addd-afdc4ad49b9e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하인즈, 핼로윈 맞아 ‘토마토의 피’ 출시 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59322</link>
-            <guid>https://www.esquirekorea.co.kr/article/59322</guid>
-            <pubDate>Fri, 15 Oct 2021 09:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[핼러윈 한정 판매 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/86b5bbdb-e0db-4bee-8c4a-1e2ea9caf4fc.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[당신이 몰랐던 정호연에 대한 20가지 사실 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59317</link>
+            <guid>https://www.esquirekorea.co.kr/article/59317</guid>
+            <pubDate>Mon, 18 Oct 2021 08:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[‘새벽’ 연기를 위해 이것까지 해봤다?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/1a300021-0196-424c-b824-5e83012979d0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김연경, 남현희에게? 배구, 펜싱, 양궁, 레슬링을 배울 수 있는 체육관들 4 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1451,14 +1459,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 07 Oct 2021 16:24:48 GMT</pubDate>
             <content:encoded><![CDATA[한국 펜싱 국가대표 선수 김정환, 구본길, 김준호, 오상욱이 도쿄 올림픽 이후 맥주 파티를 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/7c875069-02b0-4c35-a713-f8cdb2590997.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[억! 소리나는 스타들의 아트 컬렉션 4 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58965</link>
-            <guid>https://www.esquirekorea.co.kr/article/58965</guid>
-            <pubDate>Thu, 07 Oct 2021 16:25:48 GMT</pubDate>
-            <content:encoded><![CDATA[지드래곤부터 태양, 쌈디와 방탄소년단 RM까지. 미술을 사랑하는 스타들의 소장품을 소개한다....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/9adf31ea-f1eb-4b12-843a-3b883afd4412.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[브루넬로 쿠치넬리 X 올리버 피플스 안경 컬렉션 출시 (에스콰이어 코리아 ─ 나우)]]></title>
