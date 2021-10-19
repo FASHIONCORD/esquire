@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 14:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 15:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 때로는 셔츠처럼, 때로는 아우터처럼]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59132</link>
+            <guid>https://www.esquirekorea.co.kr/article/59132</guid>
+            <pubDate>Tue, 19 Oct 2021 15:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[간절기 잇템, 셔켓 스타일링]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/1e97e668-7574-450a-8856-4b8ca0ee6096.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 시원하게 찢어진 데님 팬츠]]></title>
             <link>https://www.esquirekorea.co.kr/article/59074</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 15:20:08 GMT</pubDate>
             <content:encoded><![CDATA[기분 내고 싶을 때 꺼내는 포인트 컬러]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/22/8f055d08-2b29-4c15-a0b9-8edb9147a841.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 자연스러운 멋을 더해주는 레더]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58681</link>
-            <guid>https://www.esquirekorea.co.kr/article/58681</guid>
-            <pubDate>Thu, 07 Oct 2021 15:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[어떤 룩에도 잘 어울리는 ‘잇 백’]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/20/65c8e06d-2e66-4972-aa04-acd04ea26303.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
