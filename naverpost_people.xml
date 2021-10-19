@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 22:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 23:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신이 몰랐던 오영수에 대한 20가지 사실]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32585122&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32585122&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Tue, 19 Oct 2021 23:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMTlfMTgg/MDAxNjM0NjUxMDU4MTIy.dVAmJs68ob4DjzfUCKHRdFnCcMuS93cD4DnTkr4rAQQg.RvNIili949YK0z_QDEr6r1GQK2csU6shAa-GYXtz_E8g.PNG/IG6f5cQ4B242NP5PVq0SIBumIGMU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당신이 몰랐던 정호연에 대한 20가지 사실]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32570470&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Oct 2021 07:17:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMjFfMTA3/MDAxNjAzMjU4NTAzNzQ4.VdEwmzt2fO1tB8QsL16U3j4MZpZplJHS2Ve-D4Ln-9sg.VLAnv2y4gFegI3Q_XBQJNJpW8qZYpeXVttmwOPINinog.PNG/IqDz5AWU7jPGhDMSGepfOLSRdpMs.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추남(秋男)들의 반전매력]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=29741063&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=29741063&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 07:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMTlfMTg0/MDAxNjAzMDkwMzYxMTI3.7mfeqglc57u4NIpIgktycyXSs4jj8g3aIlKYZsorISAg.jziQh5fClbdMTpKeTtJFB84IEwcKeJsWh_qrCaczZ4kg.JPEG/IQXWJzvdJTRaXgK-l-Ieb-02Rljo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 22:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 23:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신이 몰랐던 오영수에 대한 20가지 사실]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59354</link>
+            <guid>https://www.esquirekorea.co.kr/article/59354</guid>
+            <pubDate>Tue, 19 Oct 2021 23:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;오징어 게임&gt;의 오일남으로 눈도장 제대로 찍은 ‘연극계의 전설’ 오영수에 대한 흥미로운 사...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/5736eacc-f10f-4f16-a706-475a3ceecb1e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이달의 소녀 김립과 츄의 색다른 순간 part.2]]></title>
             <link>https://www.esquirekorea.co.kr/article/59335</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 15 Oct 2021 01:06:14 GMT</pubDate>
             <content:encoded><![CDATA[영화에 대해서. 캐릭터에 대해서. 동료, 가족, 사워도우 카페에 대해서. 베놈과 스파이더맨의...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/94998614-08cc-40ff-80d7-655fe491c472.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언더아머, ‘광고 대세’ 김연경, 현빈과 FW21 윈터 캠페인 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59017</link>
-            <guid>https://www.esquirekorea.co.kr/article/59017</guid>
-            <pubDate>Thu, 14 Oct 2021 10:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 스포츠 브랜드 언더아머가 김연경, 현빈과 함께한 언더아머 FW21 윈터 캠페인을 공개...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/03/c48e8f76-198c-4fc0-8b7b-fe95450f2243.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
