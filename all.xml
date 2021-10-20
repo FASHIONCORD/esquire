@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 22:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 23:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1397,6 +1397,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/6ebe9202-b6f4-4efc-9949-75dd484f26ff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마동석 전국 팔도 맛집 리스트 5 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59415</link>
+            <guid>https://www.esquirekorea.co.kr/article/59415</guid>
+            <pubDate>Wed, 20 Oct 2021 06:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[마블 스튜디오의 &lt;이터널스&gt; ‘길가메시’로 돌아오는 배우 마동석의 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/c8a842f1-cf91-4cd3-9d50-fb0033f15c4e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이달의 소녀 김립과 츄의 화보 촬영 현장 공개 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59355</link>
             <guid>https://www.esquirekorea.co.kr/article/59355</guid>
@@ -1451,14 +1459,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 15 Oct 2021 10:25:11 GMT</pubDate>
             <content:encoded><![CDATA[여름의 마지막, 가을의 시작에서 만난 2020 도쿄 올림픽 펜싱 남자 사브르 단체전 금메달리...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/72ab303d-3809-4223-8efc-5af3ee025550.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손흥민, 황희찬 나란히 프리미어리그(EPL) 주간 베스트 11 선정 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59056</link>
-            <guid>https://www.esquirekorea.co.kr/article/59056</guid>
-            <pubDate>Fri, 15 Oct 2021 01:06:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021-2022 EPL 10월 첫째 주 주간 베스트 11에 올랐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/5bce60c1-e109-4a0f-afde-781e2647c4e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[브루넬로 쿠치넬리 X 올리버 피플스 안경 컬렉션 출시 (에스콰이어 코리아 ─ 나우)]]></title>
