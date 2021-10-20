@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 08:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 09:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이달의 소녀 김립과 츄의 화보 촬영 현장 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59355</link>
+            <guid>https://www.esquirekorea.co.kr/article/59355</guid>
+            <pubDate>Wed, 20 Oct 2021 09:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[이전에 보여준 적 없는 시크하고 강렬한 둘의 모습.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/d4ad67a3-ca09-47de-a7d8-579e6256c939.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당신이 몰랐던 오영수에 대한 20가지 사실]]></title>
             <link>https://www.esquirekorea.co.kr/article/59354</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 15 Oct 2021 01:06:14 GMT</pubDate>
             <content:encoded><![CDATA[2021-2022 EPL 10월 첫째 주 주간 베스트 11에 올랐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/5bce60c1-e109-4a0f-afde-781e2647c4e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<베놈> 주연이자 프로듀서인 톰 하디는 이미 시리즈 다음편을 기획하고 있다고 했다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59028</link>
-            <guid>https://www.esquirekorea.co.kr/article/59028</guid>
-            <pubDate>Fri, 15 Oct 2021 01:06:14 GMT</pubDate>
-            <content:encoded><![CDATA[영화에 대해서. 캐릭터에 대해서. 동료, 가족, 사워도우 카페에 대해서. 베놈과 스파이더맨의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/94998614-08cc-40ff-80d7-655fe491c472.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
