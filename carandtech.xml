@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 06:26:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 07:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롤스로이스, 셀라레트 박스 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59298</link>
+            <guid>https://www.esquirekorea.co.kr/article/59298</guid>
+            <pubDate>Wed, 20 Oct 2021 07:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[기능과 디자인을 모두 갖춘 럭셔리 스토리지 박스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/8c41f1db-393c-4ad6-94a6-5e184d4f0e90.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스페셜티 커피를 위한 그라인더]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59226</link>
+            <guid>https://www.esquirekorea.co.kr/article/59226</guid>
+            <pubDate>Wed, 20 Oct 2021 07:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[바라짜의 포르테 BG 전동 커피 그라인더를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/7d331e7f-7b6b-449a-9cec-e0079d4a99f4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로지텍 G X 라이엇 게임즈, '리그 오브 레전드' 컬렉션 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59275</link>
+            <guid>https://www.esquirekorea.co.kr/article/59275</guid>
+            <pubDate>Wed, 20 Oct 2021 07:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[11월 1일 출시 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/0f757a82-a2c8-4bad-873f-7b0dc5889f79.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메르세데스 마이바흐 x 버질 아블로 '프로젝트 마이바흐' 전기차 예고]]></title>
             <link>https://www.esquirekorea.co.kr/article/59224</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 13 Oct 2021 08:22:32 GMT</pubDate>
             <content:encoded><![CDATA[한정판으로만 출시될 예정이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/a89de95b-fc1e-42ca-ac3e-773feae0b222.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배달 로봇 ‘뉴비’, 도심 자율주행 첫 상용화]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59094</link>
-            <guid>https://www.esquirekorea.co.kr/article/59094</guid>
-            <pubDate>Tue, 12 Oct 2021 07:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[어두운 환경에서도 주행이 가능하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/c65395f1-2552-4a9c-be1e-51fac26632c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[복붙만을 위한 전용 키보드]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59049</link>
-            <guid>https://www.esquirekorea.co.kr/article/59049</guid>
-            <pubDate>Fri, 08 Oct 2021 06:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[Ctrl+C, Ctrl+V만을 위한 가장 작은 키보드가 공개됐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/2a7b129a-4646-4040-bd7d-b7b780d63a44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을을 조금 더 특별하게 만들어 줄 컨버터블 3대]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59044</link>
-            <guid>https://www.esquirekorea.co.kr/article/59044</guid>
-            <pubDate>Fri, 08 Oct 2021 06:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[전혀 다른 3대의 컨버터블과 함께 가을을 즐기는 방법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/eb3b2b7d-c308-4ec5-bce5-f0c60970afd3.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 06:26:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 07:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이달의 소녀 김립과 츄의 색다른 순간 part.1]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59334</link>
+            <guid>https://www.esquirekorea.co.kr/article/59334</guid>
+            <pubDate>Wed, 20 Oct 2021 07:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[시크한 매력을 마음껏 뽐낸 이달의 소녀 김립과 츄, 99즈의 첫 화보.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/1222e739-04e4-492e-addd-afdc4ad49b9e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을을 위한 새로운 향수]]></title>
             <link>https://www.esquirekorea.co.kr/article/59330</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 14 Oct 2021 10:20:16 GMT</pubDate>
             <content:encoded><![CDATA[2021년 가을과 겨울을 기록하는 10개의 키워드.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/09/0b1adcda-ba43-4ac8-baec-dceff0d2de67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키, 에어포스 1 익스페리멘탈 ‘할로윈’ 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59144</link>
-            <guid>https://www.esquirekorea.co.kr/article/59144</guid>
-            <pubDate>Wed, 13 Oct 2021 15:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[야광 효과를 낼 수도 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/40c99648-e492-41b9-b967-ea168d3edf25.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
