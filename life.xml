@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 14:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 15:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 애플 모든 기기에 사용 가능한 '광택용 천' 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59471</link>
+            <guid>https://www.esquirekorea.co.kr/article/59471</guid>
+            <pubDate>Wed, 20 Oct 2021 15:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[모든 애플 기기를 안전하고 깨끗하게.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/062c9928-743e-49d0-bc32-c18aaa9ffb3a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후지필름, 더 넓어진 스마트폰 프린터 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59470</link>
+            <guid>https://www.esquirekorea.co.kr/article/59470</guid>
+            <pubDate>Wed, 20 Oct 2021 15:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[콜라주 기능을 통해 자유로운 사진 배치가 가능하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/60afedd2-c773-440b-b16b-20d65b6aa9fc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꼼데가르송, 국내 첫 CDG 라인 팝업스토어 오픈]]></title>
             <link>https://www.esquirekorea.co.kr/article/59469</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 20 Oct 2021 06:24:31 GMT</pubDate>
             <content:encoded><![CDATA[청량리와 서촌, 역삼, 성수에서 찾은 불맛 가득, 양손으로 들고 뜯는 뼈구이 맛집 네 곳. ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/6ebe9202-b6f4-4efc-9949-75dd484f26ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[맛집 옆 맛집] 웨이팅 대박 왕십리 제일곱창 맛집 옆 곱창 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59386</link>
-            <guid>https://www.esquirekorea.co.kr/article/59386</guid>
-            <pubDate>Wed, 20 Oct 2021 06:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[소, 돼지 모두 모여있는 왕십리 곱창거리에서도 맛있다고 소문난 가게만 골랐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/b957411c-370e-4c6d-939e-815f06389737.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 꼭 가봐야 할 신상 카페 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59384</link>
-            <guid>https://www.esquirekorea.co.kr/article/59384</guid>
-            <pubDate>Wed, 20 Oct 2021 06:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[늦으면 무조건 웨이팅해야 할 디저트 맛집들을 모았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/7ea036f5-75fc-433f-89f2-184616174094.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
