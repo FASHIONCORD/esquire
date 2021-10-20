@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 03:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 04:26:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10월에 가볼 만한 미디어 전시 추천 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59365</link>
+            <guid>https://www.esquirekorea.co.kr/article/59365</guid>
+            <pubDate>Wed, 20 Oct 2021 04:25:30 GMT</pubDate>
+            <content:encoded><![CDATA[서울과 부산, 제주에서 찾은 인증샷 남기기 좋은 네 개의 미디어 전시.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/c5961930-5202-427c-b8c0-589243f064ce.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[운동하는 여자 혜리 하체 운동 루틴 4 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/59364</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 15 Oct 2021 09:20:02 GMT</pubDate>
             <content:encoded><![CDATA[시크한 매력을 마음껏 뽐낸 이달의 소녀 김립과 츄, 99즈의 첫 화보.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/91dcd2a5-58d6-4f5d-8384-5ddcc5ca0ea8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이달의 소녀 김립과 츄의 색다른 순간 part.1]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59334</link>
-            <guid>https://www.esquirekorea.co.kr/article/59334</guid>
-            <pubDate>Fri, 15 Oct 2021 09:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[시크한 매력을 마음껏 뽐낸 이달의 소녀 김립과 츄, 99즈의 첫 화보.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/1222e739-04e4-492e-addd-afdc4ad49b9e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
