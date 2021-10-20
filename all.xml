@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 07:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 08:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/a89de95b-fc1e-42ca-ac3e-773feae0b222.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[맛집 옆 맛집] 웨이팅 대박 왕십리 제일곱창 맛집 옆 곱창 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59386</link>
+            <guid>https://www.esquirekorea.co.kr/article/59386</guid>
+            <pubDate>Wed, 20 Oct 2021 06:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[소, 돼지 모두 모여있는 왕십리 곱창거리에서도 맛있다고 소문난 가게만 골랐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/b957411c-370e-4c6d-939e-815f06389737.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지금 꼭 가봐야 할 신상 카페 5 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59384</link>
             <guid>https://www.esquirekorea.co.kr/article/59384</guid>
@@ -1325,12 +1333,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/8c41f1db-393c-4ad6-94a6-5e184d4f0e90.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[해태제과, ‘홈런볼 그릭요거트’ 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59297</link>
-            <guid>https://www.esquirekorea.co.kr/article/59297</guid>
-            <pubDate>Thu, 14 Oct 2021 11:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[그리스에서 직접 공수한 요거트를 사용한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/0f75c1d2-9aab-4a4d-8aa6-f9a50b67b12e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[꼼데가르송, 국내 첫 CDG 라인 팝업스토어 오픈 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59469</link>
+            <guid>https://www.esquirekorea.co.kr/article/59469</guid>
+            <pubDate>Wed, 20 Oct 2021 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[11월 14일까지 진행된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/2767f354-efc9-493c-9c22-57234952cc16.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jaume Plensa, 허드슨 강에 올린 거대한 조각품 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59467</link>
+            <guid>https://www.esquirekorea.co.kr/article/59467</guid>
+            <pubDate>Wed, 20 Oct 2021 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[인간 내면의 평온을 담았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/6ab0b562-8c31-44cd-bca9-df3ee944660a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애플 '비츠 피트 프로' 출시 전망 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1379,22 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 20 Oct 2021 05:17:59 GMT</pubDate>
             <content:encoded><![CDATA[늦으면 무조건 웨이팅해야 할 디저트 맛집들을 모았다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/7ea036f5-75fc-433f-89f2-184616174094.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10월에 가볼 만한 미디어 전시 추천 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59365</link>
-            <guid>https://www.esquirekorea.co.kr/article/59365</guid>
-            <pubDate>Wed, 20 Oct 2021 04:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[서울과 부산, 제주에서 찾은 인증샷 남기기 좋은 네 개의 미디어 전시.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/c5961930-5202-427c-b8c0-589243f064ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[운동하는 여자 혜리 하체 운동 루틴 4 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59364</link>
-            <guid>https://www.esquirekorea.co.kr/article/59364</guid>
-            <pubDate>Mon, 18 Oct 2021 08:24:09 GMT</pubDate>
-            <content:encoded><![CDATA[헬스장에서도, 홈트레이닝으로도 즐길 수 있는 하체 운동으로 다이어트를 시작해 보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/ca6da198-c4a1-4ac2-a31e-d085e525c6e0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[당신이 몰랐던 오영수에 대한 20가지 사실 (에스콰이어 코리아 ─ 피플)]]></title>

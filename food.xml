@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 07:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 08:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[맛집 옆 맛집] 웨이팅 대박 왕십리 제일곱창 맛집 옆 곱창 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59386</link>
+            <guid>https://www.esquirekorea.co.kr/article/59386</guid>
+            <pubDate>Wed, 20 Oct 2021 08:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[소, 돼지 모두 모여있는 왕십리 곱창거리에서도 맛있다고 소문난 가게만 골랐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/b957411c-370e-4c6d-939e-815f06389737.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 꼭 가봐야 할 신상 카페 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/59384</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 15 Oct 2021 08:22:38 GMT</pubDate>
             <content:encoded><![CDATA[기능과 디자인을 모두 갖춘 럭셔리 스토리지 박스.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/8c41f1db-393c-4ad6-94a6-5e184d4f0e90.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해태제과, ‘홈런볼 그릭요거트’ 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59297</link>
-            <guid>https://www.esquirekorea.co.kr/article/59297</guid>
-            <pubDate>Thu, 14 Oct 2021 11:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[그리스에서 직접 공수한 요거트를 사용한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/0f75c1d2-9aab-4a4d-8aa6-f9a50b67b12e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
