@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 04:26:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 05:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 꼭 가봐야 할 신상 카페 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59384</link>
+            <guid>https://www.esquirekorea.co.kr/article/59384</guid>
+            <pubDate>Wed, 20 Oct 2021 05:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[늦으면 무조건 웨이팅해야 할 디저트 맛집들을 모았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/7ea036f5-75fc-433f-89f2-184616174094.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제철을 맞은 오징어 요리 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/59350</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 14 Oct 2021 11:16:09 GMT</pubDate>
             <content:encoded><![CDATA[그리스에서 직접 공수한 요거트를 사용한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/0f75c1d2-9aab-4a4d-8aa6-f9a50b67b12e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건축상을 수상한 카페 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59279</link>
-            <guid>https://www.esquirekorea.co.kr/article/59279</guid>
-            <pubDate>Thu, 14 Oct 2021 11:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[예술적 영감을 불어넣어 줄 파주와 아산, 인천, 울산의 건축상을 수상한 카페 네 곳.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/4ea8272a-abd5-47f9-b97d-22f2e49b6943.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
