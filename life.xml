@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 14:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 15:46:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화보 맛집 잔디밭 카페 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59529</link>
+            <guid>https://www.esquirekorea.co.kr/article/59529</guid>
+            <pubDate>Thu, 21 Oct 2021 15:45:43 GMT</pubDate>
+            <content:encoded><![CDATA[서울부터 양주, 춘천, 원주, 담양까지 독보적인 특색을 가진 잔디밭 카페를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/ace481bb-bca4-4883-87ee-d5738f274919.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 근교 불빛 축제 명소 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59527</link>
+            <guid>https://www.esquirekorea.co.kr/article/59527</guid>
+            <pubDate>Thu, 21 Oct 2021 15:45:43 GMT</pubDate>
+            <content:encoded><![CDATA[반짝이는 불빛이 가득한 밤을 걸어보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/1df729c8-3ef8-4484-ad4f-732b2a8945aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[래원은 '오징어 게임'에 참가할까?]]></title>
             <link>https://www.esquirekorea.co.kr/article/59526</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 21 Oct 2021 08:23:47 GMT</pubDate>
             <content:encoded><![CDATA[증빙자료를 반드시 지참해야 한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/be126a80-2c3d-4400-8a87-e8ea78b35397.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 애플 모든 기기에 사용 가능한 '광택용 천' 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59471</link>
-            <guid>https://www.esquirekorea.co.kr/article/59471</guid>
-            <pubDate>Wed, 20 Oct 2021 15:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[모든 애플 기기를 안전하고 깨끗하게.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/062c9928-743e-49d0-bc32-c18aaa9ffb3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후지필름, 더 넓어진 스마트폰 프린터 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59470</link>
-            <guid>https://www.esquirekorea.co.kr/article/59470</guid>
-            <pubDate>Wed, 20 Oct 2021 15:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[콜라주 기능을 통해 자유로운 사진 배치가 가능하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/60afedd2-c773-440b-b16b-20d65b6aa9fc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
