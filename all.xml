@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 07:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 08:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1077,6 +1077,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이달의 소녀 김립과 츄의 색다른 순간 part.2 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59335</link>
+            <guid>https://www.esquirekorea.co.kr/article/59335</guid>
+            <pubDate>Fri, 15 Oct 2021 09:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[시크한 매력을 마음껏 뽐낸 이달의 소녀 김립과 츄, 99즈의 첫 화보.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/91dcd2a5-58d6-4f5d-8384-5ddcc5ca0ea8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이달의 소녀 김립과 츄의 색다른 순간 part.1 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59334</link>
             <guid>https://www.esquirekorea.co.kr/article/59334</guid>
@@ -1131,14 +1139,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 14 Oct 2021 15:19:30 GMT</pubDate>
             <content:encoded><![CDATA[협업 장인 버질 아블로가 이번엔 메르세데스 마이바흐와 협업한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/686bc0bb-67c4-483a-824e-a1bad9cee33f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[F/W 패션 핵심 정리 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59163</link>
-            <guid>https://www.esquirekorea.co.kr/article/59163</guid>
-            <pubDate>Thu, 14 Oct 2021 10:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 가을과 겨울을 기록하는 10개의 키워드.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/09/0b1adcda-ba43-4ac8-baec-dceff0d2de67.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새로운 시대를 담은 까르띠에 탱크 워치 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/a89de95b-fc1e-42ca-ac3e-773feae0b222.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마동석 전국 팔도 맛집 리스트 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59415</link>
+            <guid>https://www.esquirekorea.co.kr/article/59415</guid>
+            <pubDate>Wed, 20 Oct 2021 06:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[마블 스튜디오의 &lt;이터널스&gt; ‘길가메시’로 돌아오는 배우 마동석의 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/c8a842f1-cf91-4cd3-9d50-fb0033f15c4e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서울 뼈구이 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59389</link>
             <guid>https://www.esquirekorea.co.kr/article/59389</guid>
@@ -1325,12 +1333,28 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/ad8242e0-6731-4755-bdac-ebbf33ef8d4f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지금 뜨는 동해 풀코스로 즐기기 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59302</link>
-            <guid>https://www.esquirekorea.co.kr/article/59302</guid>
-            <pubDate>Sat, 16 Oct 2021 21:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[KTX 동해역에서 내려 땅 보러 온 김에 자이아파트에서 최대 15분 역세권 맛집까지 즐기고 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/038e723a-2de9-4c5a-b192-1b89bed655db.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뜨끈한 국물 생각날 때 서울 나베 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59480</link>
+            <guid>https://www.esquirekorea.co.kr/article/59480</guid>
+            <pubDate>Thu, 21 Oct 2021 08:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[퇴근길에 먹으면 하루 피로 날려줄 뜨끈함.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/5db4f7b0-531b-446e-8c29-e6ffdad2b4e6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신이 몰랐던 이하늬에 대한 15가지 사실 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59476</link>
+            <guid>https://www.esquirekorea.co.kr/article/59476</guid>
+            <pubDate>Thu, 21 Oct 2021 08:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;원 더 우먼&gt;로 대활약 중인 배우 이하늬의 필모그래피부터 취미, 식성까지 알아보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/2b7d51b6-568f-4c19-9473-38d32712821c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[궁궐 체험, 오늘부터 백신 접종 완료자 대상으로 재개 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59472</link>
+            <guid>https://www.esquirekorea.co.kr/article/59472</guid>
+            <pubDate>Thu, 21 Oct 2021 08:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[증빙자료를 반드시 지참해야 한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/be126a80-2c3d-4400-8a87-e8ea78b35397.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애플, 애플 모든 기기에 사용 가능한 '광택용 천' 출시 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1373,28 +1397,11 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/ced081e2-d687-4516-b669-1eae4ffac37d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울 육개장 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59462</link>
-            <guid>https://www.esquirekorea.co.kr/article/59462</guid>
-            <pubDate>Wed, 20 Oct 2021 06:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[찬바람 불면 생각나는 망원동, 수유동, 신촌, 목동의 육개장 맛집 네 곳.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/31a653e3-123f-4cdc-9e0f-0eb4192de000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마동석 전국 팔도 맛집 리스트 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59415</link>
-            <guid>https://www.esquirekorea.co.kr/article/59415</guid>
-            <pubDate>Wed, 20 Oct 2021 06:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[마블 스튜디오의 &lt;이터널스&gt; ‘길가메시’로 돌아오는 배우 마동석의 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/c8a842f1-cf91-4cd3-9d50-fb0033f15c4e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 뼈구이 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59389</link>
-            <guid>https://www.esquirekorea.co.kr/article/59389</guid>
-            <pubDate>Wed, 20 Oct 2021 06:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[청량리와 서촌, 역삼, 성수에서 찾은 불맛 가득, 양손으로 들고 뜯는 뼈구이 맛집 네 곳. ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/6ebe9202-b6f4-4efc-9949-75dd484f26ff.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[스우파 리더들 비하인드 대방출! (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59446</link>
+            <guid>https://www.esquirekorea.co.kr/article/59446</guid>
+            <pubDate>Thu, 21 Oct 2021 08:24:02 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/a1c93bab-2682-494d-b394-2741f30a8b3e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스우파 리더들 빵 터진 사연은? (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1450,14 +1457,6 @@ The New MINI Countryman과 일상에
             <pubDate>Mon, 18 Oct 2021 08:25:03 GMT</pubDate>
             <content:encoded><![CDATA[‘새벽’ 연기를 위해 이것까지 해봤다?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/1a300021-0196-424c-b824-5e83012979d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김연경, 남현희에게? 배구, 펜싱, 양궁, 레슬링을 배울 수 있는 체육관들 4 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59278</link>
-            <guid>https://www.esquirekorea.co.kr/article/59278</guid>
-            <pubDate>Fri, 15 Oct 2021 10:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[올림픽의 감동을 직접 체험하고 싶다면? 펜싱, 배구, 양궁, 레슬링을 배울 수 있는 이색 체...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/06a0b3f9-cb34-4605-bd07-42855a1395ce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[브루넬로 쿠치넬리 X 올리버 피플스 안경 컬렉션 출시 (에스콰이어 코리아 ─ 나우)]]></title>

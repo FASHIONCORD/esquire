@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 07:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 08:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스우파 리더들 비하인드 대방출!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59446</link>
+            <guid>https://www.esquirekorea.co.kr/article/59446</guid>
+            <pubDate>Thu, 21 Oct 2021 08:24:02 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/19/a1c93bab-2682-494d-b394-2741f30a8b3e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스우파 리더들 빵 터진 사연은?]]></title>
             <link>https://www.esquirekorea.co.kr/article/59445</link>
@@ -61,14 +68,6 @@
             <pubDate>Mon, 18 Oct 2021 08:25:03 GMT</pubDate>
             <content:encoded><![CDATA[‘새벽’ 연기를 위해 이것까지 해봤다?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/1a300021-0196-424c-b824-5e83012979d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김연경, 남현희에게? 배구, 펜싱, 양궁, 레슬링을 배울 수 있는 체육관들 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59278</link>
-            <guid>https://www.esquirekorea.co.kr/article/59278</guid>
-            <pubDate>Fri, 15 Oct 2021 10:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[올림픽의 감동을 직접 체험하고 싶다면? 펜싱, 배구, 양궁, 레슬링을 배울 수 있는 이색 체...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/06a0b3f9-cb34-4605-bd07-42855a1395ce.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
