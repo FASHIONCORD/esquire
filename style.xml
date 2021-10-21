@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 10:23:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 11:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[르 라보, 신제품 '떼 마차 26' 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59348</link>
+            <guid>https://www.esquirekorea.co.kr/article/59348</guid>
+            <pubDate>Thu, 21 Oct 2021 11:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[2년 만에 선보이는 클래식 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/7c235d22-410f-4350-a5b9-573fd4cc2bef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차분한 이 계절을 닮은 클래식백]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59337</link>
+            <guid>https://www.esquirekorea.co.kr/article/59337</guid>
+            <pubDate>Thu, 21 Oct 2021 11:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[고요하고 차분하다. 가을의 클래식 백.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/c99776a7-1ac4-448b-8205-b6b912450c73.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이달의 소녀 김립과 츄의 색다른 순간 part.2]]></title>
             <link>https://www.esquirekorea.co.kr/article/59335</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 14 Oct 2021 23:18:43 GMT</pubDate>
             <content:encoded><![CDATA[섀기 커트를 해야만 했다. 2003년이었다. 섀기 커트라는 게 한국에 들어왔다. 일본에서 들...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/3d4489b4-60d7-4cd5-80d1-2fb86572dd64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬 리미티드 구매 정책]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59225</link>
-            <guid>https://www.esquirekorea.co.kr/article/59225</guid>
-            <pubDate>Thu, 14 Oct 2021 23:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[있어도 못 산다? 이번 달부터 인당 1년에 딱 1개만 살 수 있는 샤넬 백.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/49bda0b4-5215-4a6c-96aa-54b9bd3feebe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메르세데스 마이바흐 x 버질 아블로 '프로젝트 마이바흐' 전기차 예고]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59224</link>
-            <guid>https://www.esquirekorea.co.kr/article/59224</guid>
-            <pubDate>Thu, 14 Oct 2021 15:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[협업 장인 버질 아블로가 이번엔 메르세데스 마이바흐와 협업한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/686bc0bb-67c4-483a-824e-a1bad9cee33f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

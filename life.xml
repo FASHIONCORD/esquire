@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 10:23:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 11:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[래원은 '오징어 게임'에 참가할까?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59526</link>
+            <guid>https://www.esquirekorea.co.kr/article/59526</guid>
+            <pubDate>Thu, 21 Oct 2021 11:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[독보적인 플로우를 가진 래퍼 래원을 만나고 왔습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/baa989bb-7df7-46ee-8243-d75af878fefa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두 유 노 김치?' 시대의 종말과 <오징어 게임>]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59489</link>
+            <guid>https://www.esquirekorea.co.kr/article/59489</guid>
+            <pubDate>Thu, 21 Oct 2021 11:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;오징어 게임&gt;은 전 세계적인 현상이 됐다. 평가도 슬금슬금 바뀌기 시작했다. 비평적인 기사...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/9b02b017-3533-45dc-8c4b-e7590d4e6648.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드론 사진도 '예술'이 될 수 있을까?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59492</link>
+            <guid>https://www.esquirekorea.co.kr/article/59492</guid>
+            <pubDate>Thu, 21 Oct 2021 11:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[드론으로 촬영한 사진도 ‘예술’이 될 수 있을까? ‘드론 포토 어워즈 2021’에서 찾은 한...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/a4de4c6f-ecc9-484d-be8b-cb2160a7bb19.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뜨끈한 국물 생각날 때 서울 나베 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/59480</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 20 Oct 2021 15:22:28 GMT</pubDate>
             <content:encoded><![CDATA[콜라주 기능을 통해 자유로운 사진 배치가 가능하다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/60afedd2-c773-440b-b16b-20d65b6aa9fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꼼데가르송, 국내 첫 CDG 라인 팝업스토어 오픈]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59469</link>
-            <guid>https://www.esquirekorea.co.kr/article/59469</guid>
-            <pubDate>Wed, 20 Oct 2021 08:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[11월 14일까지 진행된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/2767f354-efc9-493c-9c22-57234952cc16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jaume Plensa, 허드슨 강에 올린 거대한 조각품 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59467</link>
-            <guid>https://www.esquirekorea.co.kr/article/59467</guid>
-            <pubDate>Wed, 20 Oct 2021 08:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[인간 내면의 평온을 담았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/6ab0b562-8c31-44cd-bca9-df3ee944660a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 '비츠 피트 프로' 출시 전망]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59465</link>
-            <guid>https://www.esquirekorea.co.kr/article/59465</guid>
-            <pubDate>Wed, 20 Oct 2021 06:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[더욱 빠른 페어링이 가능한 애플 H1칩을 탑재한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/ced081e2-d687-4516-b669-1eae4ffac37d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

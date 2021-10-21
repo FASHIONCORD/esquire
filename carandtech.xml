@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 10:23:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 11:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LG전자, 식물생활가전 'LG 틔운' 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59353</link>
+            <guid>https://www.esquirekorea.co.kr/article/59353</guid>
+            <pubDate>Thu, 21 Oct 2021 11:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[씨앗 키트를 받아 볼 수 있는 정기 구독 서비스를 제공한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/265629ba-0110-4a7c-a098-23ef501e7c3a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[테슬라, ‘기가비어’ 맥주 출시 예정]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59318</link>
+            <guid>https://www.esquirekorea.co.kr/article/59318</guid>
+            <pubDate>Thu, 21 Oct 2021 11:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[아쉽게도 실제 판매는 미정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/2f9bab10-b08f-41be-9d08-551b4b20231e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[롤스로이스, 셀라레트 박스 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/59298</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 14 Oct 2021 05:18:03 GMT</pubDate>
             <content:encoded><![CDATA[9일 저녁 7시에 개최된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/5836fd73-d6ab-4629-8a9e-a3343fe6b005.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아디다스, XBOX와의 협업 스니커즈 출시 예정]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59114</link>
-            <guid>https://www.esquirekorea.co.kr/article/59114</guid>
-            <pubDate>Wed, 13 Oct 2021 09:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[XBOX 콘솔 출시 20주년을 기념해 출시된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/fd20d6c9-ed7e-4b33-bc4e-c43bca37892f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디올 x 테크노짐, 홈 피트니스 컬렉션 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59095</link>
-            <guid>https://www.esquirekorea.co.kr/article/59095</guid>
-            <pubDate>Thu, 21 Oct 2021 10:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[한정판으로만 출시될 예정이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/a89de95b-fc1e-42ca-ac3e-773feae0b222.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
