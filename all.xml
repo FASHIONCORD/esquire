@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 09:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 10:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1205,14 +1205,6 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/9cd57e8a-5283-4c5d-9717-211f18c45922.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[테슬라, ‘기가비어’ 맥주 출시 예정 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59318</link>
-            <guid>https://www.esquirekorea.co.kr/article/59318</guid>
-            <pubDate>Sun, 17 Oct 2021 09:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[아쉽게도 실제 판매는 미정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/2f9bab10-b08f-41be-9d08-551b4b20231e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[롤스로이스, 셀라레트 박스 공개 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59298</link>
             <guid>https://www.esquirekorea.co.kr/article/59298</guid>
@@ -1267,6 +1259,14 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 12 Oct 2021 03:19:02 GMT</pubDate>
             <content:encoded><![CDATA[XBOX 콘솔 출시 20주년을 기념해 출시된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/fd20d6c9-ed7e-4b33-bc4e-c43bca37892f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디올 x 테크노짐, 홈 피트니스 컬렉션 공개 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59095</link>
+            <guid>https://www.esquirekorea.co.kr/article/59095</guid>
+            <pubDate>Thu, 21 Oct 2021 10:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[한정판으로만 출시될 예정이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/a89de95b-fc1e-42ca-ac3e-773feae0b222.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마동석 전국 팔도 맛집 리스트 5 (에스콰이어 코리아 ─ 푸드)]]></title>
