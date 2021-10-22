@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 08:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 09:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/b9405694-68dd-4f2d-92b1-c15a36c52c0b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[팔도, '미니 라임향 왕뚜껑' 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59482</link>
+            <guid>https://www.esquirekorea.co.kr/article/59482</guid>
+            <pubDate>Fri, 22 Oct 2021 09:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[온라인에서만 구매가 가능하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/2d9dcf6e-c97d-4358-b2a2-71dad3ad8092.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뜨끈한 국물 생각날 때 서울 나베 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59480</link>
             <guid>https://www.esquirekorea.co.kr/article/59480</guid>
@@ -1325,12 +1333,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/7ea036f5-75fc-433f-89f2-184616174094.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제철을 맞은 오징어 요리 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59350</link>
-            <guid>https://www.esquirekorea.co.kr/article/59350</guid>
-            <pubDate>Fri, 15 Oct 2021 12:29:56 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;오징어게임&gt;이 대세인 요즘이야말로 진짜 ‘오징어 시즌’이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/a5ef8147-aa88-4b27-8f70-cf83cec443f0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[바쁘다 바빠 현대인을 위한 스마트 전시 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59561</link>
+            <guid>https://www.esquirekorea.co.kr/article/59561</guid>
+            <pubDate>Fri, 22 Oct 2021 09:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[예술과 현대기술이 만난 오늘날의 똑똑한 전시장 풍경.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/b86b2737-cf6a-4281-8595-316d1da24cbb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재명 윤석열 홍준표..대선 후보들이 찾는 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 21 Oct 2021 15:45:43 GMT</pubDate>
             <content:encoded><![CDATA[서울부터 양주, 춘천, 원주, 담양까지 독보적인 특색을 가진 잔디밭 카페를 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/ace481bb-bca4-4883-87ee-d5738f274919.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 근교 불빛 축제 명소 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59527</link>
-            <guid>https://www.esquirekorea.co.kr/article/59527</guid>
-            <pubDate>Thu, 21 Oct 2021 15:45:43 GMT</pubDate>
-            <content:encoded><![CDATA[반짝이는 불빛이 가득한 밤을 걸어보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/1df729c8-3ef8-4484-ad4f-732b2a8945aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스우파 모니카 "문제를 풀자고 자신을 바꾸지 마세요" (에스콰이어 코리아 ─ 피플)]]></title>
