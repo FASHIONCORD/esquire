@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 01:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 02:38:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스우파 리헤이 "제 에너지는 몸 안에서 지진처럼 나와요"]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59547</link>
+            <guid>https://www.esquirekorea.co.kr/article/59547</guid>
+            <pubDate>Fri, 22 Oct 2021 02:36:43 GMT</pubDate>
+            <content:encoded><![CDATA[몸을 움직이는 것만으로 음악을 만들어낼 수 있는 사람들이 있다. 그들에게 우리가 바칠 것은 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/c5ba8478-997a-441d-a469-8f6b9678eabd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스우파 가비 "댄서들이 인정받는 세상을 물려주고 싶어요"]]></title>
             <link>https://www.esquirekorea.co.kr/article/59548</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Oct 2021 01:10:34 GMT</pubDate>
             <content:encoded><![CDATA[&lt;원 더 우먼&gt;로 대활약 중인 배우 이하늬의 필모그래피부터 취미, 식성까지 알아보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/2b7d51b6-568f-4c19-9473-38d32712821c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[존 바바토스와 함께한 배우 이동휘]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59455</link>
-            <guid>https://www.esquirekorea.co.kr/article/59455</guid>
-            <pubDate>Fri, 22 Oct 2021 01:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[로큰롤 무드가 대담하게 스며든 존 바바토스 그리고 배우 이동휘의 순간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/2a69f4af-52d8-4ebe-a10d-5e698982cf67.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
