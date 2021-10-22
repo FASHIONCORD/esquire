@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 16:30:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 17:25:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1205,6 +1205,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/9cd57e8a-5283-4c5d-9717-211f18c45922.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[후지필름, 더 넓어진 스마트폰 프린터 출시 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59470</link>
+            <guid>https://www.esquirekorea.co.kr/article/59470</guid>
+            <pubDate>Fri, 22 Oct 2021 17:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[콜라주 기능을 통해 자유로운 사진 배치가 가능하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/60afedd2-c773-440b-b16b-20d65b6aa9fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[애플 '비츠 피트 프로' 출시 전망 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59465</link>
             <guid>https://www.esquirekorea.co.kr/article/59465</guid>
@@ -1259,14 +1267,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 14 Oct 2021 15:19:30 GMT</pubDate>
             <content:encoded><![CDATA[협업 장인 버질 아블로가 이번엔 메르세데스 마이바흐와 협업한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/686bc0bb-67c4-483a-824e-a1bad9cee33f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대자동차, 어린이 통학차량 ‘스타리아 킨더’ 출시 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59146</link>
-            <guid>https://www.esquirekorea.co.kr/article/59146</guid>
-            <pubDate>Thu, 14 Oct 2021 11:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[11인승과 15인승으로 구성되었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/b9405694-68dd-4f2d-92b1-c15a36c52c0b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화보 맛집 잔디밭 카페 5 (에스콰이어 코리아 ─ 푸드)]]></title>
