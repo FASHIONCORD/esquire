@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 07:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 08:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스우파 모니카 "문제를 풀자고 자신을 바꾸지 마세요"]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59550</link>
+            <guid>https://www.esquirekorea.co.kr/article/59550</guid>
+            <pubDate>Fri, 22 Oct 2021 08:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[몸을 움직이는 것만으로 음악을 만들어낼 수 있는 사람들이 있다. 그들에게 우리가 바칠 것은 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/84b9c694-e580-4104-aa7f-b2b0d325e878.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스우파 리헤이 "제 에너지는 몸 안에서 지진처럼 나와요"]]></title>
             <link>https://www.esquirekorea.co.kr/article/59547</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Oct 2021 01:10:34 GMT</pubDate>
             <content:encoded><![CDATA[권나라는 연기를 통해 스스로를 사랑하는 법을 배웠다. 이제 그녀는 좋은 배우이자, 좋은 사람...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/a18ed233-bc73-435f-b825-41b29872b5b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신이 몰랐던 이하늬에 대한 15가지 사실]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59476</link>
-            <guid>https://www.esquirekorea.co.kr/article/59476</guid>
-            <pubDate>Fri, 22 Oct 2021 01:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;원 더 우먼&gt;로 대활약 중인 배우 이하늬의 필모그래피부터 취미, 식성까지 알아보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/2b7d51b6-568f-4c19-9473-38d32712821c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
