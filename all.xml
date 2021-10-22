@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 11:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 12:31:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/b9405694-68dd-4f2d-92b1-c15a36c52c0b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[화보 맛집 잔디밭 카페 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59529</link>
+            <guid>https://www.esquirekorea.co.kr/article/59529</guid>
+            <pubDate>Fri, 22 Oct 2021 12:29:42 GMT</pubDate>
+            <content:encoded><![CDATA[서울부터 양주, 춘천, 원주, 담양까지 독보적인 특색을 가진 잔디밭 카페를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/ace481bb-bca4-4883-87ee-d5738f274919.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[팔도, '미니 라임향 왕뚜껑' 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59482</link>
             <guid>https://www.esquirekorea.co.kr/article/59482</guid>
@@ -1323,14 +1331,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 20 Oct 2021 06:24:31 GMT</pubDate>
             <content:encoded><![CDATA[소, 돼지 모두 모여있는 왕십리 곱창거리에서도 맛있다고 소문난 가게만 골랐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/b957411c-370e-4c6d-939e-815f06389737.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 꼭 가봐야 할 신상 카페 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59384</link>
-            <guid>https://www.esquirekorea.co.kr/article/59384</guid>
-            <pubDate>Wed, 20 Oct 2021 05:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[늦으면 무조건 웨이팅해야 할 디저트 맛집들을 모았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/7ea036f5-75fc-433f-89f2-184616174094.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알고 보니 진짜 '먹깨비' 정경호가 다녀간 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
