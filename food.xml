@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 08:24:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 09:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재명 윤석열 홍준표..대선 후보들이 찾는 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59556</link>
+            <guid>https://www.esquirekorea.co.kr/article/59556</guid>
+            <pubDate>Sat, 23 Oct 2021 09:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[금강산도 식후경. 본격적인 대선을 앞두고 선거 운동으로 점점 바빠지는 요즘, 대선 후보들이 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/0e68c6a6-4296-476f-ab02-9ff63e4fbb5d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화보 맛집 잔디밭 카페 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/59529</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 20 Oct 2021 09:19:23 GMT</pubDate>
             <content:encoded><![CDATA[청량리와 서촌, 역삼, 성수에서 찾은 불맛 가득, 양손으로 들고 뜯는 뼈구이 맛집 네 곳. ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/6ebe9202-b6f4-4efc-9949-75dd484f26ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[맛집 옆 맛집] 웨이팅 대박 왕십리 제일곱창 맛집 옆 곱창 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59386</link>
-            <guid>https://www.esquirekorea.co.kr/article/59386</guid>
-            <pubDate>Wed, 20 Oct 2021 08:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[소, 돼지 모두 모여있는 왕십리 곱창거리에서도 맛있다고 소문난 가게만 골랐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/b957411c-370e-4c6d-939e-815f06389737.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
