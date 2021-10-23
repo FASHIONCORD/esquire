@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Oct 2021 09:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Oct 2021 10:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1333,6 +1333,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/6ebe9202-b6f4-4efc-9949-75dd484f26ff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NBA 주요 포스터를 담은 대형 책 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59571</link>
+            <guid>https://www.esquirekorea.co.kr/article/59571</guid>
+            <pubDate>Sat, 23 Oct 2021 10:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[4kg가 넘는 최초의 농구 경기 사진 모음집.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/9faf02f3-03bb-4f79-9889-234fd16f5e2f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG아트센터, 역삼동에서 마곡동으로 이전 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59569</link>
+            <guid>https://www.esquirekorea.co.kr/article/59569</guid>
+            <pubDate>Sat, 23 Oct 2021 10:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[연면적이 기존의 2배에 달한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/56490c72-43b5-4c53-a9ed-03155bb48467.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[알고 보니 진짜 '먹깨비' 정경호가 다녀간 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59566</link>
             <guid>https://www.esquirekorea.co.kr/article/59566</guid>
@@ -1379,22 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 22 Oct 2021 08:23:16 GMT</pubDate>
             <content:encoded><![CDATA[끝나지 않은 탈영병들의 이야기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/44230e1f-5174-42bd-83c9-572d0eb5c217.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, '갤럭시 워치4·버즈2 메종키츠네 에디션' 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59535</link>
-            <guid>https://www.esquirekorea.co.kr/article/59535</guid>
-            <pubDate>Fri, 22 Oct 2021 03:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[톰브라운에 이어 두 번째 협업.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/2d94fa5d-6f25-42fc-aed3-cb02120b6fba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[살아보는 여행을 위한 주택 개조 숙소 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59534</link>
-            <guid>https://www.esquirekorea.co.kr/article/59534</guid>
-            <pubDate>Fri, 22 Oct 2021 02:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[낡고 오래된 주택, 빌라가 주는 평온함을 느껴볼 시간이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/d45c3748-1196-44e3-aa35-c4de9c241164.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스우파 모니카 "문제를 풀자고 자신을 바꾸지 마세요" (에스콰이어 코리아 ─ 피플)]]></title>
