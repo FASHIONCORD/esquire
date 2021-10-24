@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 04:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 05:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/686bc0bb-67c4-483a-824e-a1bad9cee33f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[알고 보니 진짜 '먹깨비' 정경호가 다녀간 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59566</link>
+            <guid>https://www.esquirekorea.co.kr/article/59566</guid>
+            <pubDate>Fri, 22 Oct 2021 11:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;슬기로운 의사생활&gt;의 먹방 투톱, '김준완' 역을 맡은 정경호가 다녀간 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/550e7709-d6bb-4f51-97ef-4d48626eb75d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이재명 윤석열 홍준표..대선 후보들이 찾는 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59556</link>
             <guid>https://www.esquirekorea.co.kr/article/59556</guid>
@@ -1325,12 +1333,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/c8a842f1-cf91-4cd3-9d50-fb0033f15c4e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울 뼈구이 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59389</link>
-            <guid>https://www.esquirekorea.co.kr/article/59389</guid>
-            <pubDate>Wed, 20 Oct 2021 06:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[청량리와 서촌, 역삼, 성수에서 찾은 불맛 가득, 양손으로 들고 뜯는 뼈구이 맛집 네 곳. ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/17/6ebe9202-b6f4-4efc-9949-75dd484f26ff.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이달의 소녀 99즈 김립과 츄의 고등학교 시절 TMI는? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59573</link>
+            <guid>https://www.esquirekorea.co.kr/article/59573</guid>
+            <pubDate>Sun, 24 Oct 2021 05:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[찐친 케미 넘치는 이달의 소녀의 99즈, 김립과 츄를 만났습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/b8fee8aa-bd9d-4dd1-905d-5adc8272b613.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NBA 주요 포스터를 담은 대형 책 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 22 Oct 2021 08:23:16 GMT</pubDate>
             <content:encoded><![CDATA[배우는 감정을 다루는 직업이다. 어느 예술이나 감정을 다양한 방식으로 표현하지만, 연기만큼 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/2517c24e-72d6-4689-9f4e-30b18ded0041.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 오리지널 시리즈 <D.P.> 시즌 2 제작 확정 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59538</link>
-            <guid>https://www.esquirekorea.co.kr/article/59538</guid>
-            <pubDate>Fri, 22 Oct 2021 08:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[끝나지 않은 탈영병들의 이야기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/44230e1f-5174-42bd-83c9-572d0eb5c217.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스우파 아이키 "팀원들이 내가 누린 것을 누렸으면 좋겠어요" (에스콰이어 코리아 ─ 피플)]]></title>

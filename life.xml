@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 04:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 05:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이달의 소녀 99즈 김립과 츄의 고등학교 시절 TMI는?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59573</link>
+            <guid>https://www.esquirekorea.co.kr/article/59573</guid>
+            <pubDate>Sun, 24 Oct 2021 05:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[찐친 케미 넘치는 이달의 소녀의 99즈, 김립과 츄를 만났습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/b8fee8aa-bd9d-4dd1-905d-5adc8272b613.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NBA 주요 포스터를 담은 대형 책 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/59571</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Oct 2021 08:23:16 GMT</pubDate>
             <content:encoded><![CDATA[배우는 감정을 다루는 직업이다. 어느 예술이나 감정을 다양한 방식으로 표현하지만, 연기만큼 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/2517c24e-72d6-4689-9f4e-30b18ded0041.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 오리지널 시리즈 <D.P.> 시즌 2 제작 확정]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59538</link>
-            <guid>https://www.esquirekorea.co.kr/article/59538</guid>
-            <pubDate>Fri, 22 Oct 2021 08:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[끝나지 않은 탈영병들의 이야기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/44230e1f-5174-42bd-83c9-572d0eb5c217.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
