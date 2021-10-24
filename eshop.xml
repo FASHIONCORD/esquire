@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 14:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 15:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 스웻셔츠와 데님 팬츠의 조합]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59242</link>
+            <guid>https://www.esquirekorea.co.kr/article/59242</guid>
+            <pubDate>Sun, 24 Oct 2021 15:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[간단하지만 멋을 챙긴 간절기 코디]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/82f0008c-8ce5-4328-9fee-05a8649888da.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 편안함과 포근함이 공존하는 오버핏 니트]]></title>
             <link>https://www.esquirekorea.co.kr/article/59193</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Oct 2021 15:20:08 GMT</pubDate>
             <content:encoded><![CDATA[가벼움과 스타일리시함을 동시에]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/27/00c3635b-872b-4c06-b1ec-e873b69516ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 유니크함의 끝판왕, 에어백 팬츠]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58752</link>
-            <guid>https://www.esquirekorea.co.kr/article/58752</guid>
-            <pubDate>Thu, 07 Oct 2021 15:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[스타일부터 환경까지 생각할 수 있는 룩]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/d5d5ae71-5b55-4ec8-9b95-c5fba33ffa6b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
