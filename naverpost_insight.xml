@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ INSIGHT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 22:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 23:21:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[살아보는 여행을 위한 주택 개조 숙소 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32615661&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32615661&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Sun, 24 Oct 2021 23:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjVfMTEz/MDAxNjM1MDk1MjU3NDA1.ANl72UwwJj7gOvvNb0jynwUzDcf7AgLgGfTeD6UXufEg.SCXwJQ2SvESgryAw9WyFRmqSrMJunXJLaFLcirsosSMg.PNG/IRKdc14xZHBtV6DpLOpeUG3bNtAE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화보 맛집 잔디밭 카페 5]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32600664&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Oct 2021 16:23:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTZfMjA1/MDAxNjMxNzc3NzYyOTcw.ZtlWFTQga6beLPgiMpKQX5o8d4Lm22Z-3FAHEl37MNIg.GP14vmA78ikjy10sDmvOCySYtjZ0arG_kdRnCkMnOD4g.PNG/Il6jmiOMltSQoLblVxgv0IIB7n_Y.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인천 아라뱃길 따라 드라이브 코스 추천 5]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32371419&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32371419&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 16:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTRfMjg4/MDAxNjMxNjA4MDM2MjEx.ZVKct2xt23jVt2zy9xhJabqFJAFpZLbG6xknnef7Rjwg.9OvfzvIqN-hrFGiUytgZbIMuK51t8MEUa9ZwiiA7qmgg.PNG/IyKXqyfyYOTlIOTFWqMV6moxMppY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
