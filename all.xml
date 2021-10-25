@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 04:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 05:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1333,6 +1333,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/c8a842f1-cf91-4cd3-9d50-fb0033f15c4e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뜨끈한 솥밥의 계절, 서울 솥밥 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59576</link>
+            <guid>https://www.esquirekorea.co.kr/article/59576</guid>
+            <pubDate>Mon, 25 Oct 2021 05:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[뜨거운 김을 반참 삼아 즐기는 뜨끈한 솥밥 한 입.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/508121ba-2436-49e7-bb28-8d7ecaf0b335.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이달의 소녀 99즈 김립과 츄의 고등학교 시절 TMI는? (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59573</link>
             <guid>https://www.esquirekorea.co.kr/article/59573</guid>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 22 Oct 2021 08:23:16 GMT</pubDate>
             <content:encoded><![CDATA[연간 소비자물가 상승률 2%라는 통계청의 전망. 이 급격한 수치조차 너무 낮게 산정된 것 같...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/ae8c88f4-760e-461b-b798-dca9fa8e8752.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 이준혁이 말하는, 내가 '팝콘이'를 위한 게임을 만든 이유 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59542</link>
-            <guid>https://www.esquirekorea.co.kr/article/59542</guid>
-            <pubDate>Fri, 22 Oct 2021 08:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[배우는 감정을 다루는 직업이다. 어느 예술이나 감정을 다양한 방식으로 표현하지만, 연기만큼 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/2517c24e-72d6-4689-9f4e-30b18ded0041.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스우파 노제 "사람들이 따라하고 싶어지면 그게 트렌디죠" (에스콰이어 코리아 ─ 피플)]]></title>
