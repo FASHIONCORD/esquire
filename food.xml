@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 12:34:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 13:28:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BBQ, 가을 신메뉴 3종 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59568</link>
+            <guid>https://www.esquirekorea.co.kr/article/59568</guid>
+            <pubDate>Mon, 25 Oct 2021 13:26:29 GMT</pubDate>
+            <content:encoded><![CDATA[복고풍 감성을 입은 파격적인 비주얼이 인상적이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/997f4a52-1532-4781-97b2-1be4d556044e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알고 보니 진짜 '먹깨비' 정경호가 다녀간 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/59566</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Oct 2021 03:21:42 GMT</pubDate>
             <content:encoded><![CDATA[찬바람 불면 생각나는 망원동, 수유동, 신촌, 목동의 육개장 맛집 네 곳.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/31a653e3-123f-4cdc-9e0f-0eb4192de000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마동석 전국 팔도 맛집 리스트 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59415</link>
-            <guid>https://www.esquirekorea.co.kr/article/59415</guid>
-            <pubDate>Thu, 21 Oct 2021 08:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[마블 스튜디오의 &lt;이터널스&gt; ‘길가메시’로 돌아오는 배우 마동석의 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/c8a842f1-cf91-4cd3-9d50-fb0033f15c4e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
