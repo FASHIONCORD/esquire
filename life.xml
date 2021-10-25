@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 08:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 09:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임영웅 단골 맛집 리스트 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59598</link>
+            <guid>https://www.esquirekorea.co.kr/article/59598</guid>
+            <pubDate>Mon, 25 Oct 2021 09:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[임영웅이 최근까지 자주 찾는 단골 맛집부터 특별한 인연이 돈까스 레스토랑까지. 임영웅 맛집 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/c3afd0b3-324b-4366-bcfb-f6a75e5b6ed8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 달 만에 10kg 감량에 성공한 이영지의 홈트레이닝]]></title>
             <link>https://www.esquirekorea.co.kr/article/59591</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 23 Oct 2021 10:21:48 GMT</pubDate>
             <content:encoded><![CDATA[연면적이 기존의 2배에 달한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/56490c72-43b5-4c53-a9ed-03155bb48467.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알고 보니 진짜 '먹깨비' 정경호가 다녀간 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59566</link>
-            <guid>https://www.esquirekorea.co.kr/article/59566</guid>
-            <pubDate>Fri, 22 Oct 2021 11:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;슬기로운 의사생활&gt;의 먹방 투톱, '김준완' 역을 맡은 정경호가 다녀간 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/550e7709-d6bb-4f51-97ef-4d48626eb75d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
