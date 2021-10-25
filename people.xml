@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 06:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 07:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재명 윤석열 홍준표..대선 후보들이 찾는 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59556</link>
+            <guid>https://www.esquirekorea.co.kr/article/59556</guid>
+            <pubDate>Mon, 25 Oct 2021 07:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[금강산도 식후경. 본격적인 대선을 앞두고 선거 운동으로 점점 바빠지는 요즘, 대선 후보들이 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/0e68c6a6-4296-476f-ab02-9ff63e4fbb5d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스우파 허니제이 "제가 추구하는 건 '고급 섹시'거든요"]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59552</link>
+            <guid>https://www.esquirekorea.co.kr/article/59552</guid>
+            <pubDate>Mon, 25 Oct 2021 07:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[몸을 움직이는 것만으로 음악을 만들어낼 수 있는 사람들이 있다. 그들에게 우리가 바칠 것은 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/58320cb8-bcc9-4322-801e-62ca4f2b96d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스우파 노제 "사람들이 따라하고 싶어지면 그게 트렌디죠"]]></title>
             <link>https://www.esquirekorea.co.kr/article/59551</link>
@@ -48,28 +64,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/ede132c9-8fd7-4c65-b8a2-305ca8bdcc9f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스우파 리정 "힘들면 샤워하면서 울고 그러는 거죠 뭐"]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59546</link>
-            <guid>https://www.esquirekorea.co.kr/article/59546</guid>
-            <pubDate>Fri, 22 Oct 2021 01:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[몸을 움직이는 것만으로 음악을 만들어낼 수 있는 사람들이 있다. 그들에게 우리가 바칠 것은 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/4da51ea9-3898-4300-8d4f-bdf140189993.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[스우파 효진초이 "환경에 흔들리지 말고 믿으세요"]]></title>
             <link>https://www.esquirekorea.co.kr/article/59549</link>
             <guid>https://www.esquirekorea.co.kr/article/59549</guid>
             <pubDate>Fri, 22 Oct 2021 01:10:34 GMT</pubDate>
             <content:encoded><![CDATA[몸을 움직이는 것만으로 음악을 만들어낼 수 있는 사람들이 있다. 그들에게 우리가 바칠 것은 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/f4c36793-2ddd-4da4-9aa2-d7b468745cdd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[래원은 '오징어 게임'에 참가할까?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59526</link>
-            <guid>https://www.esquirekorea.co.kr/article/59526</guid>
-            <pubDate>Fri, 22 Oct 2021 01:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[독보적인 플로우를 가진 래퍼 래원을 만나고 왔습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/baa989bb-7df7-46ee-8243-d75af878fefa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

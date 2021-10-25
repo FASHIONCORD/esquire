@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 06:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 07:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 달 만에 10kg 감량에 성공한 이영지의 홈트레이닝]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59591</link>
+            <guid>https://www.esquirekorea.co.kr/article/59591</guid>
+            <pubDate>Mon, 25 Oct 2021 07:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[식이요법과 운동이 함께 이뤄진다면 당신도 홈트만으로 다이어트에 성공할 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/40adec1f-88ba-41d6-b303-8fddd6682627.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[단풍뷰 감성 숙소 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/59590</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Oct 2021 11:18:28 GMT</pubDate>
             <content:encoded><![CDATA[&lt;슬기로운 의사생활&gt;의 먹방 투톱, '김준완' 역을 맡은 정경호가 다녀간 맛집을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/550e7709-d6bb-4f51-97ef-4d48626eb75d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바쁘다 바빠 현대인을 위한 스마트 전시 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59561</link>
-            <guid>https://www.esquirekorea.co.kr/article/59561</guid>
-            <pubDate>Fri, 22 Oct 2021 09:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[예술과 현대기술이 만난 오늘날의 똑똑한 전시장 풍경.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/b86b2737-cf6a-4281-8595-316d1da24cbb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
