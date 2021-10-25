@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 05:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 06:26:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단풍뷰 감성 숙소 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59590</link>
+            <guid>https://www.esquirekorea.co.kr/article/59590</guid>
+            <pubDate>Mon, 25 Oct 2021 06:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[안동과 완주, 홍천, 무주에서 찾은 가을을 가장 완벽하게 즐길 수 있는 감성 숙소 네 곳. ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/a8303179-7bda-4875-aeb8-76fadd3fc8c7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[힙쟁이들의 슈퍼, 서울 그로서리 마켓 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59579</link>
+            <guid>https://www.esquirekorea.co.kr/article/59579</guid>
+            <pubDate>Mon, 25 Oct 2021 06:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[식료품 쇼핑과 함께 커피, 브런치, 와인까지 즐길 수 있는 성수, 서울역, 망원동, 용산의 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/cf2a6c3c-ecc1-47ff-9ee0-7bdc6167ddf6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뜨끈한 솥밥의 계절, 서울 솥밥 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/59576</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 22 Oct 2021 09:19:44 GMT</pubDate>
             <content:encoded><![CDATA[예술과 현대기술이 만난 오늘날의 똑똑한 전시장 풍경.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/b86b2737-cf6a-4281-8595-316d1da24cbb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명 윤석열 홍준표..대선 후보들이 찾는 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59556</link>
-            <guid>https://www.esquirekorea.co.kr/article/59556</guid>
-            <pubDate>Fri, 22 Oct 2021 08:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[금강산도 식후경. 본격적인 대선을 앞두고 선거 운동으로 점점 바빠지는 요즘, 대선 후보들이 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/0e68c6a6-4296-476f-ab02-9ff63e4fbb5d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 경제평론가가 물가에 쫄지 않는이유, 쫄지 말라고 하는 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59541</link>
-            <guid>https://www.esquirekorea.co.kr/article/59541</guid>
-            <pubDate>Fri, 22 Oct 2021 08:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[연간 소비자물가 상승률 2%라는 통계청의 전망. 이 급격한 수치조차 너무 낮게 산정된 것 같...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/ae8c88f4-760e-461b-b798-dca9fa8e8752.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
