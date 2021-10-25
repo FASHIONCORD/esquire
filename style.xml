@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 15:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 16:31:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, '갤럭시 워치4·버즈2 메종키츠네 에디션' 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59535</link>
+            <guid>https://www.esquirekorea.co.kr/article/59535</guid>
+            <pubDate>Mon, 25 Oct 2021 16:27:53 GMT</pubDate>
+            <content:encoded><![CDATA[톰브라운에 이어 두 번째 협업.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/2d94fa5d-6f25-42fc-aed3-cb02120b6fba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[래원은 '오징어 게임'에 참가할까?]]></title>
             <link>https://www.esquirekorea.co.kr/article/59526</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 20 Oct 2021 07:18:13 GMT</pubDate>
             <content:encoded><![CDATA[시크한 매력을 마음껏 뽐낸 이달의 소녀 김립과 츄, 99즈의 첫 화보.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/1222e739-04e4-492e-addd-afdc4ad49b9e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을을 위한 새로운 향수]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59330</link>
-            <guid>https://www.esquirekorea.co.kr/article/59330</guid>
-            <pubDate>Fri, 15 Oct 2021 09:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[이 계절만을 기다렸다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/cd0638d8-fbd1-4b06-968e-3e2b650580bf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
