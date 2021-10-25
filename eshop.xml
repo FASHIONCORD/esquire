@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 10:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 11:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 뻔하지 않은 매력적인 디테일]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59328</link>
+            <guid>https://www.esquirekorea.co.kr/article/59328</guid>
+            <pubDate>Mon, 25 Oct 2021 11:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[심플하지만 유니크한 디테일이 돋보이는 코디]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/43b763c3-1fb3-4ac6-b480-95ef41d2bce4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 스웻셔츠와 데님 팬츠의 조합]]></title>
             <link>https://www.esquirekorea.co.kr/article/59242</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 10 Oct 2021 16:28:47 GMT</pubDate>
             <content:encoded><![CDATA[손쉽게 멋을 내는 스타일링]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/f118f3b5-a9a7-4d58-9fb6-8aa6e68525bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 가을 맞이 필수템, 간절기 재킷]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58806</link>
-            <guid>https://www.esquirekorea.co.kr/article/58806</guid>
-            <pubDate>Thu, 07 Oct 2021 15:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[가벼움과 스타일리시함을 동시에]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/27/00c3635b-872b-4c06-b1ec-e873b69516ec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
