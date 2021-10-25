@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 22:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 23:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임영웅 단골 맛집 리스트 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59598</link>
+            <guid>https://www.esquirekorea.co.kr/article/59598</guid>
+            <pubDate>Mon, 25 Oct 2021 23:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[임영웅이 최근까지 자주 찾는 단골 맛집부터 특별한 인연이 돈까스 레스토랑까지. 임영웅 맛집 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/c3afd0b3-324b-4366-bcfb-f6a75e5b6ed8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이달의 소녀 99즈 김립과 츄의 고등학교 시절 TMI는?]]></title>
             <link>https://www.esquirekorea.co.kr/article/59573</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Oct 2021 02:36:43 GMT</pubDate>
             <content:encoded><![CDATA[몸을 움직이는 것만으로 음악을 만들어낼 수 있는 사람들이 있다. 그들에게 우리가 바칠 것은 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/c5ba8478-997a-441d-a469-8f6b9678eabd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스우파 가비 "댄서들이 인정받는 세상을 물려주고 싶어요"]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59548</link>
-            <guid>https://www.esquirekorea.co.kr/article/59548</guid>
-            <pubDate>Fri, 22 Oct 2021 01:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[몸을 움직이는 것만으로 음악을 만들어낼 수 있는 사람들이 있다. 그들에게 우리가 바칠 것은 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/ede132c9-8fd7-4c65-b8a2-305ca8bdcc9f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
