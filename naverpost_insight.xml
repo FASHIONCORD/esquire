@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ INSIGHT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 11:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 12:32:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단풍뷰 감성 숙소 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32629966&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32629966&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Tue, 26 Oct 2021 12:28:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjZfNDIg/MDAxNjM1MjQ3NjY5NjQw.pDMq4I_0B24nCcrrDAHZ1l9Oapb6iHjiFbu3JFhsB40g.jj-lijYf7lk_mG_ln9GJ4t96Fk3po4aI64qShEcVXWgg.PNG/I2r-8YS_wJi4_9BLW3aCvaDwaxl0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[살아보는 여행을 위한 주택 개조 숙소 4]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32615661&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Oct 2021 16:23:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTZfMTI2/MDAxNjMxNzg4OTQ3NTgw.6bBbTEQz8H0U3jzAt0ZzBNCGsLCbwNPJVhDp_Y9_LXwg.T8o5Zn0vrcuHbR3v2BkifA1ipshj-cb09rpm_jZ4ld4g.PNG/IA7Ah0tO61jUg3DTnDFQ1yfJxP14.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 맞아? 연휴에 즐기는 10만원대 동네 호캉스 4]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32385100&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32385100&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 16:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTZfMjA1/MDAxNjMxNzc3NzYyOTcw.ZtlWFTQga6beLPgiMpKQX5o8d4Lm22Z-3FAHEl37MNIg.GP14vmA78ikjy10sDmvOCySYtjZ0arG_kdRnCkMnOD4g.PNG/Il6jmiOMltSQoLblVxgv0IIB7n_Y.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
