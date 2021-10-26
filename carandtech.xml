@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 14:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 15:24:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헬리녹스, 라이카와 협업 한정판 컬렉션 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59536</link>
+            <guid>https://www.esquirekorea.co.kr/article/59536</guid>
+            <pubDate>Tue, 26 Oct 2021 15:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[오직 한국에서만 판매된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/7f4eab50-bd64-4543-ae6f-f62c7d5c5032.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자, '갤럭시 워치4·버즈2 메종키츠네 에디션' 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/59535</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 20 Oct 2021 07:18:34 GMT</pubDate>
             <content:encoded><![CDATA[기능과 디자인을 모두 갖춘 럭셔리 스토리지 박스.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/8c41f1db-393c-4ad6-94a6-5e184d4f0e90.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스페셜티 커피를 위한 그라인더]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59226</link>
-            <guid>https://www.esquirekorea.co.kr/article/59226</guid>
-            <pubDate>Wed, 20 Oct 2021 07:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[바라짜의 포르테 BG 전동 커피 그라인더를 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/7d331e7f-7b6b-449a-9cec-e0079d4a99f4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
