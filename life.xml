@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 10:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 11:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국방부 군 간부와 병사 두발 규정 차별 폐지]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59625</link>
+            <guid>https://www.esquirekorea.co.kr/article/59625</guid>
+            <pubDate>Tue, 26 Oct 2021 11:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[이르면 내달(11월)부터 적용될 가능성이 높다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/30aa5d9c-2251-4d69-a9f5-c080ac7761f6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삶과 디자인]]></title>
             <link>https://www.esquirekorea.co.kr/article/59513</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 25 Oct 2021 05:19:06 GMT</pubDate>
             <content:encoded><![CDATA[뜨거운 김을 반참 삼아 즐기는 뜨끈한 솥밥 한 입.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/508121ba-2436-49e7-bb28-8d7ecaf0b335.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이달의 소녀 99즈 김립과 츄의 고등학교 시절 TMI는?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59573</link>
-            <guid>https://www.esquirekorea.co.kr/article/59573</guid>
-            <pubDate>Sun, 24 Oct 2021 05:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[찐친 케미 넘치는 이달의 소녀의 99즈, 김립과 츄를 만났습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/b8fee8aa-bd9d-4dd1-905d-5adc8272b613.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
