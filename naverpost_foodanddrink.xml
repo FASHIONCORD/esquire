@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 22:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 23:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임영웅 단골 맛집 리스트 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32630994&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32630994&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Tue, 26 Oct 2021 23:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEwMjdfMjMy/MDAxNjM1MjcwMDMyMzQy.fCVurBvT34bczpU2klwenbGyxHskW2Jo4kVJ4CoZ6q0g.owI6QoIOE4Gyk8OS4SarwmmGizVLLFhS1b3zMynQxW8g.PNG/IjoL-Alc4aqPJFDqAEW_BSI6RzkY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 뜨는 동해 풀코스로 즐기기 5]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32608135&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 02 Oct 2021 12:26:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTFfMTk5/MDAxNjI4NjIwNTcyNjA5.kyteGY7-9s48VGN3fH37zfaX2MBCg9Kab11wn7AAxvQg.FHAvohEpfnAmJ3dmcsBs-EHqwA8vO6yjgmCLBDF3Djcg.PNG/IfAHksv4BOplpaPDG02nM9gMlrUY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조용한 바닷가, 주문진, 기장, 포항, 제주의 방파제 맛집 4]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32146798&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32146798&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Sat, 02 Oct 2021 12:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTFfMjQx/MDAxNjI4NjE5NzM5MDk5.Kh0-Cd2k4Ws4t_MmZQSzHLd_USCvSJkVR2qCV7Tz21gg.91knqtfsbIiAemYp27ZFrgLnbTiwmUHrJ-ndycHVO2Qg.PNG/ILrIX7b2GjivNRBztFzO8zCSUGTo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
