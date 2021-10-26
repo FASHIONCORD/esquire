@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 02:04:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 02:37:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[복붙만을 위한 전용 키보드]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59049</link>
+            <guid>https://www.esquirekorea.co.kr/article/59049</guid>
+            <pubDate>Tue, 26 Oct 2021 02:37:38 GMT</pubDate>
+            <content:encoded><![CDATA[Ctrl+C, Ctrl+V만을 위한 가장 작은 키보드가 공개됐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/2a7b129a-4646-4040-bd7d-b7b780d63a44.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나사 AR 그래픽 소설 '퍼스트 우먼' 출간]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58856</link>
+            <guid>https://www.esquirekorea.co.kr/article/58856</guid>
+            <pubDate>Tue, 26 Oct 2021 02:37:38 GMT</pubDate>
+            <content:encoded><![CDATA[QR코드를 통해 달 탐사 우주선을 3D로 체험해볼 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/75554ac3-a850-47b3-b525-9544d3840060.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브루넬로 쿠치넬리 X 올리버 피플스 안경 컬렉션 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/58855</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 01 Oct 2021 23:06:35 GMT</pubDate>
             <content:encoded><![CDATA[영화 '다크나이트'에서 등장한 배트모빌 텀블러가 초대형 레고로 등장했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/16/1972ae91-e98e-41c2-a62d-d1e73784ffa9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디올, 파리 생제르맹 FC 선수용 의상 협업]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58342</link>
-            <guid>https://www.esquirekorea.co.kr/article/58342</guid>
-            <pubDate>Fri, 01 Oct 2021 23:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[킴 존스가 이끄는 디올 맨이 파리 생제르맹 FC를 위한 포멀 룩&amp;캐주얼 룩을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/07/df23b63b-3553-4c1e-a447-1b6eb0fb066f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파리바게뜨, 감성 파라솔 세트 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58341</link>
-            <guid>https://www.esquirekorea.co.kr/article/58341</guid>
-            <pubDate>Fri, 01 Oct 2021 23:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[캠핑의 계절 9월을 맞아 파리바게뜨와 노르디스크가 협업한 감성 파라솔 세트가 출시되었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/07/42cb6b26-1c13-4f60-b0f6-1256f511b0f3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

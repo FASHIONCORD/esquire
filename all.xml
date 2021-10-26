@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 02:04:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 02:37:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1205,6 +1205,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/9cd57e8a-5283-4c5d-9717-211f18c45922.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[삼성전자, '갤럭시 워치4·버즈2 메종키츠네 에디션' 공개 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59535</link>
+            <guid>https://www.esquirekorea.co.kr/article/59535</guid>
+            <pubDate>Mon, 25 Oct 2021 16:27:53 GMT</pubDate>
+            <content:encoded><![CDATA[톰브라운에 이어 두 번째 협업.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/2d94fa5d-6f25-42fc-aed3-cb02120b6fba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[애플, 애플 모든 기기에 사용 가능한 '광택용 천' 출시 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59471</link>
             <guid>https://www.esquirekorea.co.kr/article/59471</guid>
@@ -1259,14 +1267,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 20 Oct 2021 07:18:34 GMT</pubDate>
             <content:encoded><![CDATA[바라짜의 포르테 BG 전동 커피 그라인더를 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/7d331e7f-7b6b-449a-9cec-e0079d4a99f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로지텍 G X 라이엇 게임즈, '리그 오브 레전드' 컬렉션 출시 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59275</link>
-            <guid>https://www.esquirekorea.co.kr/article/59275</guid>
-            <pubDate>Wed, 20 Oct 2021 07:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[11월 1일 출시 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/0f757a82-a2c8-4bad-873f-7b0dc5889f79.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BBQ, 가을 신메뉴 3종 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1333,6 +1333,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/31a653e3-123f-4cdc-9e0f-0eb4192de000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[삶과 디자인 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59513</link>
+            <guid>https://www.esquirekorea.co.kr/article/59513</guid>
+            <pubDate>Tue, 26 Oct 2021 02:36:55 GMT</pubDate>
+            <content:encoded><![CDATA[디자인이란 무엇일까.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/fec61d65-d872-4c85-8790-c9f246c63a57.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[힙한 요가, 힙한 명상 그리고 힙한 깨달음 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59511</link>
+            <guid>https://www.esquirekorea.co.kr/article/59511</guid>
+            <pubDate>Tue, 26 Oct 2021 02:36:55 GMT</pubDate>
+            <content:encoded><![CDATA[요가는 결국 흔들림의 연속일 뿐이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/fb295525-5a9a-484b-9d5f-952f3653e59f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[임영웅 단골 맛집 리스트 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59598</link>
             <guid>https://www.esquirekorea.co.kr/article/59598</guid>
@@ -1379,22 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sun, 24 Oct 2021 05:18:28 GMT</pubDate>
             <content:encoded><![CDATA[찐친 케미 넘치는 이달의 소녀의 99즈, 김립과 츄를 만났습니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/b8fee8aa-bd9d-4dd1-905d-5adc8272b613.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NBA 주요 포스터를 담은 대형 책 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59571</link>
-            <guid>https://www.esquirekorea.co.kr/article/59571</guid>
-            <pubDate>Sat, 23 Oct 2021 10:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[4kg가 넘는 최초의 농구 경기 사진 모음집.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/9faf02f3-03bb-4f79-9889-234fd16f5e2f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG아트센터, 역삼동에서 마곡동으로 이전 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59569</link>
-            <guid>https://www.esquirekorea.co.kr/article/59569</guid>
-            <pubDate>Sat, 23 Oct 2021 10:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[연면적이 기존의 2배에 달한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/56490c72-43b5-4c53-a9ed-03155bb48467.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임영웅 단골 맛집 리스트 4 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1461,6 +1461,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/c5ba8478-997a-441d-a469-8f6b9678eabd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[복붙만을 위한 전용 키보드 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59049</link>
+            <guid>https://www.esquirekorea.co.kr/article/59049</guid>
+            <pubDate>Tue, 26 Oct 2021 02:37:38 GMT</pubDate>
+            <content:encoded><![CDATA[Ctrl+C, Ctrl+V만을 위한 가장 작은 키보드가 공개됐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/2a7b129a-4646-4040-bd7d-b7b780d63a44.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나사 AR 그래픽 소설 '퍼스트 우먼' 출간 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/58856</link>
+            <guid>https://www.esquirekorea.co.kr/article/58856</guid>
+            <pubDate>Tue, 26 Oct 2021 02:37:38 GMT</pubDate>
+            <content:encoded><![CDATA[QR코드를 통해 달 탐사 우주선을 3D로 체험해볼 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/75554ac3-a850-47b3-b525-9544d3840060.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[브루넬로 쿠치넬리 X 올리버 피플스 안경 컬렉션 출시 (에스콰이어 코리아 ─ 나우)]]></title>
             <link>https://www.esquirekorea.co.kr/article/58855</link>
             <guid>https://www.esquirekorea.co.kr/article/58855</guid>
@@ -1507,22 +1523,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 01 Oct 2021 23:06:35 GMT</pubDate>
             <content:encoded><![CDATA[영화 '다크나이트'에서 등장한 배트모빌 텀블러가 초대형 레고로 등장했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/16/1972ae91-e98e-41c2-a62d-d1e73784ffa9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디올, 파리 생제르맹 FC 선수용 의상 협업 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58342</link>
-            <guid>https://www.esquirekorea.co.kr/article/58342</guid>
-            <pubDate>Fri, 01 Oct 2021 23:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[킴 존스가 이끄는 디올 맨이 파리 생제르맹 FC를 위한 포멀 룩&amp;캐주얼 룩을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/07/df23b63b-3553-4c1e-a447-1b6eb0fb066f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파리바게뜨, 감성 파라솔 세트 출시 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58341</link>
-            <guid>https://www.esquirekorea.co.kr/article/58341</guid>
-            <pubDate>Fri, 01 Oct 2021 23:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[캠핑의 계절 9월을 맞아 파리바게뜨와 노르디스크가 협업한 감성 파라솔 세트가 출시되었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/07/42cb6b26-1c13-4f60-b0f6-1256f511b0f3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 뻔하지 않은 매력적인 디테일 (에스콰이어 코리아 ─ 이샵)]]></title>

@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 02:04:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 02:37:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삶과 디자인]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59513</link>
+            <guid>https://www.esquirekorea.co.kr/article/59513</guid>
+            <pubDate>Tue, 26 Oct 2021 02:36:55 GMT</pubDate>
+            <content:encoded><![CDATA[디자인이란 무엇일까.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/fec61d65-d872-4c85-8790-c9f246c63a57.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[힙한 요가, 힙한 명상 그리고 힙한 깨달음]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59511</link>
+            <guid>https://www.esquirekorea.co.kr/article/59511</guid>
+            <pubDate>Tue, 26 Oct 2021 02:36:55 GMT</pubDate>
+            <content:encoded><![CDATA[요가는 결국 흔들림의 연속일 뿐이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/fb295525-5a9a-484b-9d5f-952f3653e59f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임영웅 단골 맛집 리스트 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/59598</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 24 Oct 2021 05:18:28 GMT</pubDate>
             <content:encoded><![CDATA[찐친 케미 넘치는 이달의 소녀의 99즈, 김립과 츄를 만났습니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/b8fee8aa-bd9d-4dd1-905d-5adc8272b613.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NBA 주요 포스터를 담은 대형 책 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59571</link>
-            <guid>https://www.esquirekorea.co.kr/article/59571</guid>
-            <pubDate>Sat, 23 Oct 2021 10:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[4kg가 넘는 최초의 농구 경기 사진 모음집.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/9faf02f3-03bb-4f79-9889-234fd16f5e2f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG아트센터, 역삼동에서 마곡동으로 이전]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59569</link>
-            <guid>https://www.esquirekorea.co.kr/article/59569</guid>
-            <pubDate>Sat, 23 Oct 2021 10:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[연면적이 기존의 2배에 달한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/56490c72-43b5-4c53-a9ed-03155bb48467.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

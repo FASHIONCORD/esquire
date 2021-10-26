@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 02:04:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 02:37:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, '갤럭시 워치4·버즈2 메종키츠네 에디션' 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59535</link>
+            <guid>https://www.esquirekorea.co.kr/article/59535</guid>
+            <pubDate>Tue, 26 Oct 2021 02:36:11 GMT</pubDate>
+            <content:encoded><![CDATA[톰브라운에 이어 두 번째 협업.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/2d94fa5d-6f25-42fc-aed3-cb02120b6fba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플, 애플 모든 기기에 사용 가능한 '광택용 천' 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/59471</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 20 Oct 2021 07:18:34 GMT</pubDate>
             <content:encoded><![CDATA[바라짜의 포르테 BG 전동 커피 그라인더를 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/7d331e7f-7b6b-449a-9cec-e0079d4a99f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로지텍 G X 라이엇 게임즈, '리그 오브 레전드' 컬렉션 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59275</link>
-            <guid>https://www.esquirekorea.co.kr/article/59275</guid>
-            <pubDate>Wed, 20 Oct 2021 07:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[11월 1일 출시 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/0f757a82-a2c8-4bad-873f-7b0dc5889f79.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
