@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 04:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 05:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세븐틴 힙합팀이 말하는 일상, 별명, 그리고 멤버들]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59606</link>
+            <guid>https://www.esquirekorea.co.kr/article/59606</guid>
+            <pubDate>Tue, 26 Oct 2021 05:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[세븐틴 힙합팀의 에스쿱스, 원우, 민규, 버논은 각자의 색깔이 뚜렷하다. 서로의 차이를 누구...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/dab4bcd2-94cb-4434-a7b5-80fa93da33af.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임영웅 단골 맛집 리스트 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/59598</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Oct 2021 08:24:00 GMT</pubDate>
             <content:encoded><![CDATA[몸을 움직이는 것만으로 음악을 만들어낼 수 있는 사람들이 있다. 그들에게 우리가 바칠 것은 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/84b9c694-e580-4104-aa7f-b2b0d325e878.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스우파 리헤이 "제 에너지는 몸 안에서 지진처럼 나와요"]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59547</link>
-            <guid>https://www.esquirekorea.co.kr/article/59547</guid>
-            <pubDate>Fri, 22 Oct 2021 02:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[몸을 움직이는 것만으로 음악을 만들어낼 수 있는 사람들이 있다. 그들에게 우리가 바칠 것은 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/c5ba8478-997a-441d-a469-8f6b9678eabd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
