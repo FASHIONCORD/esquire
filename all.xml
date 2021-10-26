@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 15:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 16:33:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -654,6 +654,7 @@
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30480866&amp;memberNo=40217187&amp;navigationType=push</guid>
             <pubDate>Thu, 07 Oct 2021 16:24:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDAxMTRfMjA5/MDAxNTc4OTY4NDE3OTIx.u_4cWrPQ0BC7OiFmLMJwu8PcLZQcSAzqS-sDFeygWJEg.FnlMsatg8PRVGV0sshnYtlw9wXVBHMuauKrgpj1aBMkg.JPEG/post_7807307990682501325.jpg?type=f40_40" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[저렴이부터 플렉스까지! 센스있는 남자 지갑 추천 (네이버 포스트 ─ 에스콰이어 코리아 ─ STYLE)]]></title>
