@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 09:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 10:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/7d331e7f-7b6b-449a-9cec-e0079d4a99f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뜨끈한 솥밥의 계절, 서울 솥밥 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59576</link>
+            <guid>https://www.esquirekorea.co.kr/article/59576</guid>
+            <pubDate>Mon, 25 Oct 2021 05:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[뜨거운 김을 반참 삼아 즐기는 뜨끈한 솥밥 한 입.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/508121ba-2436-49e7-bb28-8d7ecaf0b335.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BBQ, 가을 신메뉴 3종 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59568</link>
             <guid>https://www.esquirekorea.co.kr/article/59568</guid>
@@ -1323,14 +1331,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 22 Oct 2021 05:17:28 GMT</pubDate>
             <content:encoded><![CDATA[고소함을 가득 담은 한정판 신상 과자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/0a7374a7-5171-45ff-ad62-72b093e78a24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 육개장 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59462</link>
-            <guid>https://www.esquirekorea.co.kr/article/59462</guid>
-            <pubDate>Fri, 22 Oct 2021 03:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[찬바람 불면 생각나는 망원동, 수유동, 신촌, 목동의 육개장 맛집 네 곳.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/31a653e3-123f-4cdc-9e0f-0eb4192de000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삶과 디자인 (에스콰이어 코리아 ─ 라이프)]]></title>
