@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 01:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 02:04:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플, 애플 모든 기기에 사용 가능한 '광택용 천' 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59471</link>
+            <guid>https://www.esquirekorea.co.kr/article/59471</guid>
+            <pubDate>Tue, 26 Oct 2021 02:01:37 GMT</pubDate>
+            <content:encoded><![CDATA[모든 애플 기기를 안전하고 깨끗하게.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/062c9928-743e-49d0-bc32-c18aaa9ffb3a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[후지필름, 더 넓어진 스마트폰 프린터 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/59470</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 20 Oct 2021 07:18:34 GMT</pubDate>
             <content:encoded><![CDATA[11월 1일 출시 예정.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/0f757a82-a2c8-4bad-873f-7b0dc5889f79.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메르세데스 마이바흐 x 버질 아블로 '프로젝트 마이바흐' 전기차 예고]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59224</link>
-            <guid>https://www.esquirekorea.co.kr/article/59224</guid>
-            <pubDate>Fri, 15 Oct 2021 08:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[협업 장인 버질 아블로가 이번엔 메르세데스 마이바흐와 협업한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/686bc0bb-67c4-483a-824e-a1bad9cee33f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
