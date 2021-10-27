@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 09:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 10:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자, 갤럭시Z플립 3 '비스포크 에디션' 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59570</link>
+            <guid>https://www.esquirekorea.co.kr/article/59570</guid>
+            <pubDate>Wed, 27 Oct 2021 10:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[총 49가지의 새로운 조합을 만들 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/6cb6f26b-e764-4afc-9d21-3286f46c7a8e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헬리녹스, 라이카와 협업 한정판 컬렉션 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/59536</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Oct 2021 11:17:02 GMT</pubDate>
             <content:encoded><![CDATA[아쉽게도 실제 판매는 미정.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/2f9bab10-b08f-41be-9d08-551b4b20231e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롤스로이스, 셀라레트 박스 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59298</link>
-            <guid>https://www.esquirekorea.co.kr/article/59298</guid>
-            <pubDate>Wed, 20 Oct 2021 07:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[기능과 디자인을 모두 갖춘 럭셔리 스토리지 박스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/8c41f1db-393c-4ad6-94a6-5e184d4f0e90.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

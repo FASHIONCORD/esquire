@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 09:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 10:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1인승 전기비행기 '젯슨 원' 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59649</link>
+            <guid>https://www.esquirekorea.co.kr/article/59649</guid>
+            <pubDate>Wed, 27 Oct 2021 10:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[스마트폰을 연결해 전기로 작동하는 1인승 비행기 '젯슨 원'이 등장했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/f9547470-724f-4001-9a10-d2a58cfb8b7d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배러기프트샵 x 꼼데가르송 x 팀코믹스의 캡슐 컬렉션]]></title>
             <link>https://www.esquirekorea.co.kr/article/59648</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 25 Oct 2021 09:20:23 GMT</pubDate>
             <content:encoded><![CDATA[임영웅이 최근까지 자주 찾는 단골 맛집부터 특별한 인연이 돈까스 레스토랑까지. 임영웅 맛집 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/c3afd0b3-324b-4366-bcfb-f6a75e5b6ed8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 달 만에 10kg 감량에 성공한 이영지의 홈트레이닝]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59591</link>
-            <guid>https://www.esquirekorea.co.kr/article/59591</guid>
-            <pubDate>Mon, 25 Oct 2021 07:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[식이요법과 운동이 함께 이뤄진다면 당신도 홈트만으로 다이어트에 성공할 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/40adec1f-88ba-41d6-b303-8fddd6682627.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
