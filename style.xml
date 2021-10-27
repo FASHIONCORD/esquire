@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 06:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 07:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밤을 위한 코트]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59595</link>
+            <guid>https://www.esquirekorea.co.kr/article/59595</guid>
+            <pubDate>Wed, 27 Oct 2021 07:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[젖은 아스팔트와 텅 빈 불빛의 밤. 다시 코트를 꺼내 입었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/2a011d10-7840-4e76-9893-b5b012589478.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나이키, 2021 ‘망자의 날’ 컬렉션 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/59537</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Oct 2021 11:16:10 GMT</pubDate>
             <content:encoded><![CDATA[고요하고 차분하다. 가을의 클래식 백.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/c99776a7-1ac4-448b-8205-b6b912450c73.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이달의 소녀 김립과 츄의 색다른 순간 part.2]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59335</link>
-            <guid>https://www.esquirekorea.co.kr/article/59335</guid>
-            <pubDate>Thu, 21 Oct 2021 08:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[시크한 매력을 마음껏 뽐낸 이달의 소녀 김립과 츄, 99즈의 첫 화보.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/91dcd2a5-58d6-4f5d-8384-5ddcc5ca0ea8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

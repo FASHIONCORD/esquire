@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 06:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 07:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단풍뷰 감성 숙소 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59590</link>
+            <guid>https://www.esquirekorea.co.kr/article/59590</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[안동과 완주, 홍천, 무주에서 찾은 가을을 가장 완벽하게 즐길 수 있는 감성 숙소 네 곳. ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/a8303179-7bda-4875-aeb8-76fadd3fc8c7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[힙쟁이들의 슈퍼, 서울 그로서리 마켓 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/59579</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Oct 2021 09:19:15 GMT</pubDate>
             <content:encoded><![CDATA[온라인에서만 구매가 가능하다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/2d9dcf6e-c97d-4358-b2a2-71dad3ad8092.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뜨끈한 국물 생각날 때 서울 나베 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59480</link>
-            <guid>https://www.esquirekorea.co.kr/article/59480</guid>
-            <pubDate>Fri, 22 Oct 2021 07:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[퇴근길에 먹으면 하루 피로 날려줄 뜨끈함.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/5db4f7b0-531b-446e-8c29-e6ffdad2b4e6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 06:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 07:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1077,6 +1077,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[밤을 위한 코트 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59595</link>
+            <guid>https://www.esquirekorea.co.kr/article/59595</guid>
+            <pubDate>Wed, 27 Oct 2021 07:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[젖은 아스팔트와 텅 빈 불빛의 밤. 다시 코트를 꺼내 입었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/2a011d10-7840-4e76-9893-b5b012589478.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나이키, 2021 ‘망자의 날’ 컬렉션 출시 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59537</link>
             <guid>https://www.esquirekorea.co.kr/article/59537</guid>
@@ -1131,14 +1139,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 21 Oct 2021 11:16:10 GMT</pubDate>
             <content:encoded><![CDATA[고요하고 차분하다. 가을의 클래식 백.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/c99776a7-1ac4-448b-8205-b6b912450c73.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이달의 소녀 김립과 츄의 색다른 순간 part.2 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59335</link>
-            <guid>https://www.esquirekorea.co.kr/article/59335</guid>
-            <pubDate>Fri, 15 Oct 2021 09:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[시크한 매력을 마음껏 뽐낸 이달의 소녀 김립과 츄, 99즈의 첫 화보.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/18/91dcd2a5-58d6-4f5d-8384-5ddcc5ca0ea8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새로운 시대를 담은 까르띠에 탱크 워치 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/8c41f1db-393c-4ad6-94a6-5e184d4f0e90.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[단풍뷰 감성 숙소 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59590</link>
+            <guid>https://www.esquirekorea.co.kr/article/59590</guid>
+            <pubDate>Mon, 25 Oct 2021 06:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[안동과 완주, 홍천, 무주에서 찾은 가을을 가장 완벽하게 즐길 수 있는 감성 숙소 네 곳. ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/a8303179-7bda-4875-aeb8-76fadd3fc8c7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[힙쟁이들의 슈퍼, 서울 그로서리 마켓 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59579</link>
             <guid>https://www.esquirekorea.co.kr/article/59579</guid>
@@ -1325,12 +1333,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/2d9dcf6e-c97d-4358-b2a2-71dad3ad8092.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뜨끈한 국물 생각날 때 서울 나베 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59480</link>
-            <guid>https://www.esquirekorea.co.kr/article/59480</guid>
-            <pubDate>Thu, 21 Oct 2021 08:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[퇴근길에 먹으면 하루 피로 날려줄 뜨끈함.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/5db4f7b0-531b-446e-8c29-e6ffdad2b4e6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[배러기프트샵 x 꼼데가르송 x 팀코믹스의 캡슐 컬렉션 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59648</link>
+            <guid>https://www.esquirekorea.co.kr/article/59648</guid>
+            <pubDate>Wed, 27 Oct 2021 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[팀코믹스의 컬러풀한 그래픽 디자인이 들어간 티셔츠, 후디, 재킷으로 구성됐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/5707b5d7-0bcc-494b-9dc5-6eff5169c437.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개그맨 허경환의 맛집 리스트 5 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Mon, 25 Oct 2021 07:21:50 GMT</pubDate>
             <content:encoded><![CDATA[식이요법과 운동이 함께 이뤄진다면 당신도 홈트만으로 다이어트에 성공할 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/40adec1f-88ba-41d6-b303-8fddd6682627.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단풍뷰 감성 숙소 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59590</link>
-            <guid>https://www.esquirekorea.co.kr/article/59590</guid>
-            <pubDate>Mon, 25 Oct 2021 06:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[안동과 완주, 홍천, 무주에서 찾은 가을을 가장 완벽하게 즐길 수 있는 감성 숙소 네 곳. ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/a8303179-7bda-4875-aeb8-76fadd3fc8c7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세븐틴 힙합팀이 말하는 일상, 별명, 그리고 멤버들 (에스콰이어 코리아 ─ 피플)]]></title>
