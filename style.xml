@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 15:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 16:31:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삶과 디자인]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59513</link>
+            <guid>https://www.esquirekorea.co.kr/article/59513</guid>
+            <pubDate>Wed, 27 Oct 2021 16:28:12 GMT</pubDate>
+            <content:encoded><![CDATA[디자인이란 무엇일까.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/fec61d65-d872-4c85-8790-c9f246c63a57.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구찌의 100주년]]></title>
             <link>https://www.esquirekorea.co.kr/article/59603</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 23 Oct 2021 17:21:01 GMT</pubDate>
             <content:encoded><![CDATA[이전에 보여준 적 없는 시크하고 강렬한 둘의 모습.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/d4ad67a3-ca09-47de-a7d8-579e6256c939.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르 라보, 신제품 '떼 마차 26' 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59348</link>
-            <guid>https://www.esquirekorea.co.kr/article/59348</guid>
-            <pubDate>Thu, 21 Oct 2021 11:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[2년 만에 선보이는 클래식 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/7c235d22-410f-4350-a5b9-573fd4cc2bef.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
