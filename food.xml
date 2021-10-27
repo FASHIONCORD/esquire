@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 08:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 09:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임영웅 단골 맛집 리스트 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59598</link>
+            <guid>https://www.esquirekorea.co.kr/article/59598</guid>
+            <pubDate>Wed, 27 Oct 2021 09:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[임영웅이 최근까지 자주 찾는 단골 맛집부터 특별한 인연이 돈까스 레스토랑까지. 임영웅 맛집 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/c3afd0b3-324b-4366-bcfb-f6a75e5b6ed8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[단풍뷰 감성 숙소 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/59590</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Oct 2021 12:29:42 GMT</pubDate>
             <content:encoded><![CDATA[서울부터 양주, 춘천, 원주, 담양까지 독보적인 특색을 가진 잔디밭 카페를 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/ace481bb-bca4-4883-87ee-d5738f274919.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팔도, '미니 라임향 왕뚜껑' 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59482</link>
-            <guid>https://www.esquirekorea.co.kr/article/59482</guid>
-            <pubDate>Fri, 22 Oct 2021 09:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[온라인에서만 구매가 가능하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/2d9dcf6e-c97d-4358-b2a2-71dad3ad8092.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
