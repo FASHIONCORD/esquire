@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 23:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 01:01:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1333,6 +1333,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/0e68c6a6-4296-476f-ab02-9ff63e4fbb5d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전국 팔도 왕만두 맛지도 5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60652</link>
+            <guid>https://www.esquirekorea.co.kr/article/60652</guid>
+            <pubDate>Thu, 28 Oct 2021 01:00:08 GMT</pubDate>
+            <content:encoded><![CDATA[주먹보다 큰 동그란 왕 만두부터 속이 훤히 들여다보이는 얇은 피 만두까지 전국의 만두 맛집만...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/a01fa2ff-25bf-4e9d-b751-669e68cf152b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[1인승 전기비행기 '젯슨 원' 출시 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59649</link>
             <guid>https://www.esquirekorea.co.kr/article/59649</guid>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 26 Oct 2021 02:36:55 GMT</pubDate>
             <content:encoded><![CDATA[요가는 결국 흔들림의 연속일 뿐이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/fb295525-5a9a-484b-9d5f-952f3653e59f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임영웅 단골 맛집 리스트 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59598</link>
-            <guid>https://www.esquirekorea.co.kr/article/59598</guid>
-            <pubDate>Mon, 25 Oct 2021 09:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[임영웅이 최근까지 자주 찾는 단골 맛집부터 특별한 인연이 돈까스 레스토랑까지. 임영웅 맛집 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/c3afd0b3-324b-4366-bcfb-f6a75e5b6ed8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세븐틴 힙합팀이 말하는 일상, 별명, 그리고 멤버들 (에스콰이어 코리아 ─ 피플)]]></title>
