@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 03:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 04:28:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1077,6 +1077,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[반바지는 계속 된다 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59639</link>
+            <guid>https://www.esquirekorea.co.kr/article/59639</guid>
+            <pubDate>Thu, 28 Oct 2021 04:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[11월에 입는 쇼츠.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/9f6bb540-8273-49cd-9bda-fe109a57d2e5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삶과 디자인 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59513</link>
             <guid>https://www.esquirekorea.co.kr/article/59513</guid>
@@ -1131,14 +1139,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sun, 24 Oct 2021 18:20:57 GMT</pubDate>
             <content:encoded><![CDATA[11월 14일까지 진행된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/2767f354-efc9-493c-9c22-57234952cc16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이달의 소녀 김립과 츄의 화보 촬영 현장 공개 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59355</link>
-            <guid>https://www.esquirekorea.co.kr/article/59355</guid>
-            <pubDate>Sat, 23 Oct 2021 17:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[이전에 보여준 적 없는 시크하고 강렬한 둘의 모습.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/15/d4ad67a3-ca09-47de-a7d8-579e6256c939.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새로운 시대를 담은 까르띠에 탱크 워치 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/2f9bab10-b08f-41be-9d08-551b4b20231e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전국 팔도 왕만두 맛지도 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60652</link>
+            <guid>https://www.esquirekorea.co.kr/article/60652</guid>
+            <pubDate>Thu, 28 Oct 2021 01:00:08 GMT</pubDate>
+            <content:encoded><![CDATA[주먹보다 큰 동그란 왕 만두부터 속이 훤히 들여다보이는 얇은 피 만두까지 전국의 만두 맛집만...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/a01fa2ff-25bf-4e9d-b751-669e68cf152b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[개그맨 허경환의 맛집 리스트 5 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59630</link>
             <guid>https://www.esquirekorea.co.kr/article/59630</guid>
@@ -1325,12 +1333,36 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/550e7709-d6bb-4f51-97ef-4d48626eb75d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이재명 윤석열 홍준표..대선 후보들이 찾는 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59556</link>
-            <guid>https://www.esquirekorea.co.kr/article/59556</guid>
-            <pubDate>Fri, 22 Oct 2021 08:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[금강산도 식후경. 본격적인 대선을 앞두고 선거 운동으로 점점 바빠지는 요즘, 대선 후보들이 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/0e68c6a6-4296-476f-ab02-9ff63e4fbb5d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[피카소, 작품 11점 1억 1000만불에 낙찰 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60707</link>
+            <guid>https://www.esquirekorea.co.kr/article/60707</guid>
+            <pubDate>Thu, 28 Oct 2021 04:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[경매 수익금 중 일부는 미술 시장에 다시 투자될 예정이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/492a1cf3-9395-4f47-8bb7-08eb43b7dfa6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휠라, Flock Together와 하이킹 캡슐 출시 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60684</link>
+            <guid>https://www.esquirekorea.co.kr/article/60684</guid>
+            <pubDate>Thu, 28 Oct 2021 04:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[물총새의 블루, 그린, 오렌지 컬러를 담았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/8114e979-6010-4b6c-beff-9a42d279c24e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<백종원의 골목식당>, 4년 만에 종영 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60683</link>
+            <guid>https://www.esquirekorea.co.kr/article/60683</guid>
+            <pubDate>Thu, 28 Oct 2021 04:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[연내 200회를 전후로 막을 내릴 예정이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/8c6e3871-362c-4754-a08e-db1ce67f1bb8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을 여행자를 위한 북스테이 숙소 5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60682</link>
+            <guid>https://www.esquirekorea.co.kr/article/60682</guid>
+            <pubDate>Thu, 28 Oct 2021 04:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[파주, 평택, 의성, 춘천, 제주에서 책과 함께 보내는 안온한 하루.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/dc1b3f63-e15e-44be-a539-062f59721b75.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전국 팔도 왕만두 맛지도 5 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1363,38 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 27 Oct 2021 06:25:23 GMT</pubDate>
             <content:encoded><![CDATA[“바로 이 맛 아입니까” 외치게 만드는 허경환의 인천, 통영, 부산, 서울 맛집을 소개한다....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/37ceab65-5378-411f-b892-f002ed9043b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[별 헤는 밤, 우리의 밤 골프 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59512</link>
-            <guid>https://www.esquirekorea.co.kr/article/59512</guid>
-            <pubDate>Wed, 27 Oct 2021 06:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[뜨거운 햇살은 잠시 거부하련다. 가을바람 맞으며 즐기는 야간 라운드의 매력 속으로 GO!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/b61b91ed-65b0-456d-9747-ef08e36d33d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국방부 군 간부와 병사 두발 규정 차별 폐지 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59625</link>
-            <guid>https://www.esquirekorea.co.kr/article/59625</guid>
-            <pubDate>Tue, 26 Oct 2021 11:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[이르면 내달(11월)부터 적용될 가능성이 높다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/30aa5d9c-2251-4d69-a9f5-c080ac7761f6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삶과 디자인 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59513</link>
-            <guid>https://www.esquirekorea.co.kr/article/59513</guid>
-            <pubDate>Tue, 26 Oct 2021 02:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[디자인이란 무엇일까.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/fec61d65-d872-4c85-8790-c9f246c63a57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙한 요가, 힙한 명상 그리고 힙한 깨달음 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59511</link>
-            <guid>https://www.esquirekorea.co.kr/article/59511</guid>
-            <pubDate>Tue, 26 Oct 2021 02:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[요가는 결국 흔들림의 연속일 뿐이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/fb295525-5a9a-484b-9d5f-952f3653e59f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세븐틴 힙합팀이 말하는 일상, 별명, 그리고 멤버들 (에스콰이어 코리아 ─ 피플)]]></title>
