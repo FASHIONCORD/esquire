@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 14:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 15:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소더비, ‘세계 최초의 우표’ 경매 예정]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60737</link>
+            <guid>https://www.esquirekorea.co.kr/article/60737</guid>
+            <pubDate>Thu, 28 Oct 2021 15:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[예상 낙찰가는 약 96억원.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/38689170-75a7-495f-9b37-6e30cffdc2a0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<토이 스토리> 캐릭터 ‘버즈’의 이야기를 다룬 <라이트이어> 예고편 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/60736</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 28 Oct 2021 04:26:16 GMT</pubDate>
             <content:encoded><![CDATA[연내 200회를 전후로 막을 내릴 예정이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/8c6e3871-362c-4754-a08e-db1ce67f1bb8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 여행자를 위한 북스테이 숙소 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60682</link>
-            <guid>https://www.esquirekorea.co.kr/article/60682</guid>
-            <pubDate>Thu, 28 Oct 2021 04:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[파주, 평택, 의성, 춘천, 제주에서 책과 함께 보내는 안온한 하루.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/dc1b3f63-e15e-44be-a539-062f59721b75.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
