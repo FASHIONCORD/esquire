@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 10:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 11:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/2f9bab10-b08f-41be-9d08-551b4b20231e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전세계 최초로 한국에서 출시되는 코카콜라 신제품 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60685</link>
+            <guid>https://www.esquirekorea.co.kr/article/60685</guid>
+            <pubDate>Thu, 28 Oct 2021 11:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[기존의 유리 콜라병을 닮았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/0eede20b-7767-4219-a2c5-1aaccd728e48.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가을 여행자를 위한 북스테이 숙소 5 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60682</link>
             <guid>https://www.esquirekorea.co.kr/article/60682</guid>
@@ -1325,12 +1333,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/508121ba-2436-49e7-bb28-8d7ecaf0b335.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[BBQ, 가을 신메뉴 3종 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59568</link>
-            <guid>https://www.esquirekorea.co.kr/article/59568</guid>
-            <pubDate>Mon, 25 Oct 2021 13:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[복고풍 감성을 입은 파격적인 비주얼이 인상적이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/997f4a52-1532-4781-97b2-1be4d556044e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[<토이 스토리> 캐릭터 ‘버즈’의 이야기를 다룬 <라이트이어> 예고편 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60736</link>
+            <guid>https://www.esquirekorea.co.kr/article/60736</guid>
+            <pubDate>Thu, 28 Oct 2021 11:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[버즈의 성우는 크리스 에반스가 맡았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/9dd5ffed-28c2-4f12-af8b-24c2488342df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 <콰이어트 플레이스> 비디오 게임 출시 예정 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60735</link>
+            <guid>https://www.esquirekorea.co.kr/article/60735</guid>
+            <pubDate>Thu, 28 Oct 2021 11:18:55 GMT</pubDate>
+            <content:encoded><![CDATA["절대 소리 내지 마"]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/111b898b-c135-4176-bafd-9e65c05a245a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[깊은 국물의 맛과 최강의 조합! 서울 자가제면 우동집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1379,22 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 28 Oct 2021 04:26:16 GMT</pubDate>
             <content:encoded><![CDATA[파주, 평택, 의성, 춘천, 제주에서 책과 함께 보내는 안온한 하루.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/dc1b3f63-e15e-44be-a539-062f59721b75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전국 팔도 왕만두 맛지도 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60652</link>
-            <guid>https://www.esquirekorea.co.kr/article/60652</guid>
-            <pubDate>Thu, 28 Oct 2021 01:00:08 GMT</pubDate>
-            <content:encoded><![CDATA[주먹보다 큰 동그란 왕 만두부터 속이 훤히 들여다보이는 얇은 피 만두까지 전국의 만두 맛집만...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/a01fa2ff-25bf-4e9d-b751-669e68cf152b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1인승 전기비행기 '젯슨 원' 출시 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59649</link>
-            <guid>https://www.esquirekorea.co.kr/article/59649</guid>
-            <pubDate>Wed, 27 Oct 2021 10:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[스마트폰을 연결해 전기로 작동하는 1인승 비행기 '젯슨 원'이 등장했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/f9547470-724f-4001-9a10-d2a58cfb8b7d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개그맨 허경환의 맛집 리스트 5 (에스콰이어 코리아 ─ 피플)]]></title>

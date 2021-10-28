@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 10:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 11:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전세계 최초로 한국에서 출시되는 코카콜라 신제품]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60685</link>
+            <guid>https://www.esquirekorea.co.kr/article/60685</guid>
+            <pubDate>Thu, 28 Oct 2021 11:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[기존의 유리 콜라병을 닮았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/0eede20b-7767-4219-a2c5-1aaccd728e48.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을 여행자를 위한 북스테이 숙소 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/60682</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 26 Oct 2021 10:21:37 GMT</pubDate>
             <content:encoded><![CDATA[뜨거운 김을 반참 삼아 즐기는 뜨끈한 솥밥 한 입.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/508121ba-2436-49e7-bb28-8d7ecaf0b335.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BBQ, 가을 신메뉴 3종 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59568</link>
-            <guid>https://www.esquirekorea.co.kr/article/59568</guid>
-            <pubDate>Mon, 25 Oct 2021 13:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[복고풍 감성을 입은 파격적인 비주얼이 인상적이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/997f4a52-1532-4781-97b2-1be4d556044e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
