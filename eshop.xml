@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 17:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 18:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 쌀쌀한 가을에 잘 어울리는 스타디움 점퍼]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59453</link>
+            <guid>https://www.esquirekorea.co.kr/article/59453</guid>
+            <pubDate>Thu, 28 Oct 2021 18:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[편안함과 멋이 공존하는 스포티즘.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/f1e965d9-2266-4ced-a85a-214a94db7410.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 여름과 가을 사이, 반팔 니트]]></title>
             <link>https://www.esquirekorea.co.kr/article/59396</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 14 Oct 2021 15:21:58 GMT</pubDate>
             <content:encoded><![CDATA[두 손은 편하고 포인트까지 되는 크로스백]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/1d14870b-9992-485a-a471-f006bf8d5ecc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 미니멀하면서도 감각적인 초가을 데일리룩]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58979</link>
-            <guid>https://www.esquirekorea.co.kr/article/58979</guid>
-            <pubDate>Tue, 12 Oct 2021 15:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[차분한 올블랙으로 시크하게]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/01/ae36c157-5ff9-47b3-bedb-7d1c5551853e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
