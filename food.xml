@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 08:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 09:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을 여행자를 위한 북스테이 숙소 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60682</link>
+            <guid>https://www.esquirekorea.co.kr/article/60682</guid>
+            <pubDate>Thu, 28 Oct 2021 09:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[파주, 평택, 의성, 춘천, 제주에서 책과 함께 보내는 안온한 하루.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/dc1b3f63-e15e-44be-a539-062f59721b75.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전국 팔도 왕만두 맛지도 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/60652</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 25 Oct 2021 13:26:29 GMT</pubDate>
             <content:encoded><![CDATA[복고풍 감성을 입은 파격적인 비주얼이 인상적이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/997f4a52-1532-4781-97b2-1be4d556044e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알고 보니 진짜 '먹깨비' 정경호가 다녀간 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59566</link>
-            <guid>https://www.esquirekorea.co.kr/article/59566</guid>
-            <pubDate>Sun, 24 Oct 2021 05:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;슬기로운 의사생활&gt;의 먹방 투톱, '김준완' 역을 맡은 정경호가 다녀간 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/550e7709-d6bb-4f51-97ef-4d48626eb75d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

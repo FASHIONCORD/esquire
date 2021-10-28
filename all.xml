@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 08:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 09:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/2f9bab10-b08f-41be-9d08-551b4b20231e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가을 여행자를 위한 북스테이 숙소 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60682</link>
+            <guid>https://www.esquirekorea.co.kr/article/60682</guid>
+            <pubDate>Thu, 28 Oct 2021 04:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[파주, 평택, 의성, 춘천, 제주에서 책과 함께 보내는 안온한 하루.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/dc1b3f63-e15e-44be-a539-062f59721b75.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전국 팔도 왕만두 맛지도 5 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60652</link>
             <guid>https://www.esquirekorea.co.kr/article/60652</guid>
@@ -1325,12 +1333,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/997f4a52-1532-4781-97b2-1be4d556044e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[알고 보니 진짜 '먹깨비' 정경호가 다녀간 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59566</link>
-            <guid>https://www.esquirekorea.co.kr/article/59566</guid>
-            <pubDate>Fri, 22 Oct 2021 11:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;슬기로운 의사생활&gt;의 먹방 투톱, '김준완' 역을 맡은 정경호가 다녀간 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/550e7709-d6bb-4f51-97ef-4d48626eb75d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[깊은 국물의 맛과 최강의 조합! 서울 자가제면 우동집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60732</link>
+            <guid>https://www.esquirekorea.co.kr/article/60732</guid>
+            <pubDate>Thu, 28 Oct 2021 09:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[굵기도 길이도 다른 면에는 오랜 시간과 남다른 정성이 필요하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/ca69c3e9-a661-4c8a-b7c2-27e267ef7c69.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<에스콰이어> 에디터들이 뽑은 11월의 책 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 27 Oct 2021 10:22:59 GMT</pubDate>
             <content:encoded><![CDATA[스마트폰을 연결해 전기로 작동하는 1인승 비행기 '젯슨 원'이 등장했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/f9547470-724f-4001-9a10-d2a58cfb8b7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배러기프트샵 x 꼼데가르송 x 팀코믹스의 캡슐 컬렉션 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59648</link>
-            <guid>https://www.esquirekorea.co.kr/article/59648</guid>
-            <pubDate>Wed, 27 Oct 2021 07:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[팀코믹스의 컬러풀한 그래픽 디자인이 들어간 티셔츠, 후디, 재킷으로 구성됐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/5707b5d7-0bcc-494b-9dc5-6eff5169c437.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세븐틴 힙합팀이 말하는 일상, 별명, 그리고 멤버들 (에스콰이어 코리아 ─ 피플)]]></title>

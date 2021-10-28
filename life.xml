@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 08:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 09:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[깊은 국물의 맛과 최강의 조합! 서울 자가제면 우동집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60732</link>
+            <guid>https://www.esquirekorea.co.kr/article/60732</guid>
+            <pubDate>Thu, 28 Oct 2021 09:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[굵기도 길이도 다른 면에는 오랜 시간과 남다른 정성이 필요하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/ca69c3e9-a661-4c8a-b7c2-27e267ef7c69.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<에스콰이어> 에디터들이 뽑은 11월의 책 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/60728</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 27 Oct 2021 10:22:59 GMT</pubDate>
             <content:encoded><![CDATA[스마트폰을 연결해 전기로 작동하는 1인승 비행기 '젯슨 원'이 등장했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/f9547470-724f-4001-9a10-d2a58cfb8b7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배러기프트샵 x 꼼데가르송 x 팀코믹스의 캡슐 컬렉션]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59648</link>
-            <guid>https://www.esquirekorea.co.kr/article/59648</guid>
-            <pubDate>Wed, 27 Oct 2021 07:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[팀코믹스의 컬러풀한 그래픽 디자인이 들어간 티셔츠, 후디, 재킷으로 구성됐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/5707b5d7-0bcc-494b-9dc5-6eff5169c437.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
