@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 22:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 23:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1333,6 +1333,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/37ceab65-5378-411f-b892-f002ed9043b1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세이코, <원피스>에서 영감 얻은 리미티드 에디션 발표 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60781</link>
+            <guid>https://www.esquirekorea.co.kr/article/60781</guid>
+            <pubDate>Fri, 29 Oct 2021 23:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[루피, 조로, 상디를 포함한 5가지 캐릭터를 표현했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/d7d5e029-07b2-444e-ac6f-8be7acd94744.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서서 먹는 술집, 스탠딩 바 3 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60780</link>
             <guid>https://www.esquirekorea.co.kr/article/60780</guid>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 29 Oct 2021 06:24:58 GMT</pubDate>
             <content:encoded><![CDATA[바닷가 앞에서 먹는 조개구이부터 중독성 강한 돼지국밥까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/72c92c74-b0ed-470a-a511-5079e2b5082e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신이 몰랐던 한소희에 대한 15가지 사실 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60740</link>
-            <guid>https://www.esquirekorea.co.kr/article/60740</guid>
-            <pubDate>Fri, 29 Oct 2021 02:38:58 GMT</pubDate>
-            <content:encoded><![CDATA[알면 알수록 빠져든다? 넷플릭스 &lt;마이 네임&gt;으로 돌아온 매력적인 한소희에 대한 모든 것.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/b114283e-b4a8-482d-8de8-a92ac3b46f87.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개그맨 허경환의 맛집 리스트 5 (에스콰이어 코리아 ─ 피플)]]></title>
