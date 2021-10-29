@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 17:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 18:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서서 먹는 술집, 스탠딩 바 3]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60780</link>
+            <guid>https://www.esquirekorea.co.kr/article/60780</guid>
+            <pubDate>Fri, 29 Oct 2021 18:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[서서 먹는 커피, 고깃집에 이어 이번에는 술집이다. 타치구이, 타치노미라고 불리는 스탠딩 바...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/dba121f7-3977-4bcf-81fa-e7782b1fa18f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을이면 생각나는 뜨끈한 수제비 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/60778</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 29 Oct 2021 02:38:58 GMT</pubDate>
             <content:encoded><![CDATA[알면 알수록 빠져든다? 넷플릭스 &lt;마이 네임&gt;으로 돌아온 매력적인 한소희에 대한 모든 것.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/b114283e-b4a8-482d-8de8-a92ac3b46f87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소더비, ‘세계 최초의 우표’ 경매 예정]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60737</link>
-            <guid>https://www.esquirekorea.co.kr/article/60737</guid>
-            <pubDate>Thu, 28 Oct 2021 15:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[예상 낙찰가는 약 96억원.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/38689170-75a7-495f-9b37-6e30cffdc2a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
