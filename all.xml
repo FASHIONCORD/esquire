@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 06:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 07:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1077,6 +1077,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[매일, 나와 함께 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59555</link>
+            <guid>https://www.esquirekorea.co.kr/article/59555</guid>
+            <pubDate>Fri, 29 Oct 2021 07:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[포맨트 향수와 함께한 배우 위하준의 어느 보통날.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/30cdcfd4-49ad-4df3-a5bd-b13ab55096ca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[휠라, Flock Together와 하이킹 캡슐 출시 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60684</link>
             <guid>https://www.esquirekorea.co.kr/article/60684</guid>
@@ -1131,14 +1139,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 26 Oct 2021 03:19:48 GMT</pubDate>
             <content:encoded><![CDATA[영화 &lt;코코&gt;가 생각나는 디자인.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/8e844164-afbf-4ad2-8035-46fcfe75ec6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, '갤럭시 워치4·버즈2 메종키츠네 에디션' 공개 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59535</link>
-            <guid>https://www.esquirekorea.co.kr/article/59535</guid>
-            <pubDate>Mon, 25 Oct 2021 16:27:53 GMT</pubDate>
-            <content:encoded><![CDATA[톰브라운에 이어 두 번째 협업.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/2d94fa5d-6f25-42fc-aed3-cb02120b6fba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[갤럭시 워치4가 원형 디자인을 고수하는 까닭 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/2f9bab10-b08f-41be-9d08-551b4b20231e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[볼수록 매력 있는 재능 갑부 안보현 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60745</link>
+            <guid>https://www.esquirekorea.co.kr/article/60745</guid>
+            <pubDate>Fri, 29 Oct 2021 06:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[바닷가 앞에서 먹는 조개구이부터 중독성 강한 돼지국밥까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/72c92c74-b0ed-470a-a511-5079e2b5082e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[깊은 국물의 맛과 최강의 조합! 서울 자가제면 우동집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60732</link>
             <guid>https://www.esquirekorea.co.kr/article/60732</guid>
@@ -1325,12 +1333,28 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/37ceab65-5378-411f-b892-f002ed9043b1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[임영웅 단골 맛집 리스트 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59598</link>
-            <guid>https://www.esquirekorea.co.kr/article/59598</guid>
-            <pubDate>Mon, 25 Oct 2021 09:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[임영웅이 최근까지 자주 찾는 단골 맛집부터 특별한 인연이 돈까스 레스토랑까지. 임영웅 맛집 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/c3afd0b3-324b-4366-bcfb-f6a75e5b6ed8.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[가을이면 생각나는 뜨끈한 수제비 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60778</link>
+            <guid>https://www.esquirekorea.co.kr/article/60778</guid>
+            <pubDate>Fri, 29 Oct 2021 07:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[수제비 먹기 딱 좋은 날씨다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/598feafe-3270-4d59-acb9-083fa6b77ef7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오픈한 지 50년은 기본! 화교가 운영하는 서울 반세기 노포 중국집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60770</link>
+            <guid>https://www.esquirekorea.co.kr/article/60770</guid>
+            <pubDate>Fri, 29 Oct 2021 07:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[대방동과 을지로3가, 동소문동, 대조동에서 찾은 화교가 운영하는 ‘화상' 노포 맛집 네 곳을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/1b1e5033-3ce5-4e12-9eeb-e3d5f16ef04e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IPCC 6차 기후변화 보고서가 말하는 것_탄소중립이 곧 힘이다 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60757</link>
+            <guid>https://www.esquirekorea.co.kr/article/60757</guid>
+            <pubDate>Fri, 29 Oct 2021 07:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[3000페이지가 넘는 IPCC 6차 보고서에 실린 뜻을 한 마디로 줄이면 ‘벼랑 끝’이다. ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/9bca452f-e3f3-4381-ab23-62f52c92f97a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울 동남아 감성 카페 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1371,30 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 28 Oct 2021 15:22:03 GMT</pubDate>
             <content:encoded><![CDATA[예상 낙찰가는 약 96억원.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/38689170-75a7-495f-9b37-6e30cffdc2a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<토이 스토리> 캐릭터 ‘버즈’의 이야기를 다룬 <라이트이어> 예고편 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60736</link>
-            <guid>https://www.esquirekorea.co.kr/article/60736</guid>
-            <pubDate>Thu, 28 Oct 2021 11:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[버즈의 성우는 크리스 에반스가 맡았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/9dd5ffed-28c2-4f12-af8b-24c2488342df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <콰이어트 플레이스> 비디오 게임 출시 예정 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60735</link>
-            <guid>https://www.esquirekorea.co.kr/article/60735</guid>
-            <pubDate>Thu, 28 Oct 2021 11:18:55 GMT</pubDate>
-            <content:encoded><![CDATA["절대 소리 내지 마"]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/111b898b-c135-4176-bafd-9e65c05a245a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깊은 국물의 맛과 최강의 조합! 서울 자가제면 우동집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60732</link>
-            <guid>https://www.esquirekorea.co.kr/article/60732</guid>
-            <pubDate>Thu, 28 Oct 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[굵기도 길이도 다른 면에는 오랜 시간과 남다른 정성이 필요하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/ca69c3e9-a661-4c8a-b7c2-27e267ef7c69.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개그맨 허경환의 맛집 리스트 5 (에스콰이어 코리아 ─ 피플)]]></title>
