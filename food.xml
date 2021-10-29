@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 05:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 06:27:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[깊은 국물의 맛과 최강의 조합! 서울 자가제면 우동집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60732</link>
+            <guid>https://www.esquirekorea.co.kr/article/60732</guid>
+            <pubDate>Fri, 29 Oct 2021 06:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[굵기도 길이도 다른 면에는 오랜 시간과 남다른 정성이 필요하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/ca69c3e9-a661-4c8a-b7c2-27e267ef7c69.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[맥도날드 '스파이시 맥앤치즈 버거' 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60704</link>
+            <guid>https://www.esquirekorea.co.kr/article/60704</guid>
+            <pubDate>Fri, 29 Oct 2021 06:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[바로 내일부터 만나볼 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/8039b561-cad8-4426-bdc4-61d37b5898f8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[휴먼메이드, 무알코올 사케 'SWEET COWBOY' 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/60703</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 27 Oct 2021 09:20:48 GMT</pubDate>
             <content:encoded><![CDATA[임영웅이 최근까지 자주 찾는 단골 맛집부터 특별한 인연이 돈까스 레스토랑까지. 임영웅 맛집 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/c3afd0b3-324b-4366-bcfb-f6a75e5b6ed8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단풍뷰 감성 숙소 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59590</link>
-            <guid>https://www.esquirekorea.co.kr/article/59590</guid>
-            <pubDate>Wed, 27 Oct 2021 07:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[안동과 완주, 홍천, 무주에서 찾은 가을을 가장 완벽하게 즐길 수 있는 감성 숙소 네 곳. ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/a8303179-7bda-4875-aeb8-76fadd3fc8c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙쟁이들의 슈퍼, 서울 그로서리 마켓 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59579</link>
-            <guid>https://www.esquirekorea.co.kr/article/59579</guid>
-            <pubDate>Wed, 27 Oct 2021 06:24:36 GMT</pubDate>
-            <content:encoded><![CDATA[식료품 쇼핑과 함께 커피, 브런치, 와인까지 즐길 수 있는 성수, 서울역, 망원동, 용산의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/cf2a6c3c-ecc1-47ff-9ee0-7bdc6167ddf6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

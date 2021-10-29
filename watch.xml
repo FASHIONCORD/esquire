@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 와치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 05:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 06:27:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갤럭시 워치4가 원형 디자인을 고수하는 까닭]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59098</link>
+            <guid>https://www.esquirekorea.co.kr/article/59098</guid>
+            <pubDate>Fri, 29 Oct 2021 06:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[갤럭시 워치4는 새로움과 친근함이 공존하는 지대에 깃발을 꽂았다. 전부 바뀌었으면서도 전체적...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/8af3b849-b3c4-468a-8f0d-381732dce4b0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로운 시대를 담은 까르띠에 탱크 워치]]></title>
             <link>https://www.esquirekorea.co.kr/article/59075</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 04 Oct 2021 16:28:18 GMT</pubDate>
             <content:encoded><![CDATA[워치메이커로서의 샤넬. 그 대체 불가한 정체성과 우뚝한 존재감에 대하여.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/5469d86b-2a8b-4f9f-b1e5-731f26d3aaa6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성, ‘갤럭시 워치 4 클래식 톰 브라운 에디션' 한정 판매]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58763</link>
-            <guid>https://www.esquirekorea.co.kr/article/58763</guid>
-            <pubDate>Fri, 01 Oct 2021 23:03:38 GMT</pubDate>
-            <content:encoded><![CDATA[사전 응모자에 한해 구매 기회를 얻는다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/9cd57e8a-5283-4c5d-9717-211f18c45922.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

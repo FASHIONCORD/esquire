@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 05:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 06:27:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1141,6 +1141,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/2d94fa5d-6f25-42fc-aed3-cb02120b6fba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[갤럭시 워치4가 원형 디자인을 고수하는 까닭 (에스콰이어 코리아 ─ 와치)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59098</link>
+            <guid>https://www.esquirekorea.co.kr/article/59098</guid>
+            <pubDate>Fri, 29 Oct 2021 06:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[갤럭시 워치4는 새로움과 친근함이 공존하는 지대에 깃발을 꽂았다. 전부 바뀌었으면서도 전체적...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/07/8af3b849-b3c4-468a-8f0d-381732dce4b0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[새로운 시대를 담은 까르띠에 탱크 워치 (에스콰이어 코리아 ─ 와치)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59075</link>
             <guid>https://www.esquirekorea.co.kr/article/59075</guid>
@@ -1195,14 +1203,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 07 Oct 2021 16:24:35 GMT</pubDate>
             <content:encoded><![CDATA[워치메이커로서의 샤넬. 그 대체 불가한 정체성과 우뚝한 존재감에 대하여.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/5469d86b-2a8b-4f9f-b1e5-731f26d3aaa6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성, ‘갤럭시 워치 4 클래식 톰 브라운 에디션' 한정 판매 (에스콰이어 코리아 ─ 와치)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58763</link>
-            <guid>https://www.esquirekorea.co.kr/article/58763</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[사전 응모자에 한해 구매 기회를 얻는다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/24/9cd57e8a-5283-4c5d-9717-211f18c45922.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성전자, 갤럭시Z플립 3 '비스포크 에디션' 출시 (에스콰이어 코리아 ─ 카&테크)]]></title>
@@ -1269,6 +1269,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/2f9bab10-b08f-41be-9d08-551b4b20231e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[깊은 국물의 맛과 최강의 조합! 서울 자가제면 우동집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60732</link>
+            <guid>https://www.esquirekorea.co.kr/article/60732</guid>
+            <pubDate>Thu, 28 Oct 2021 09:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[굵기도 길이도 다른 면에는 오랜 시간과 남다른 정성이 필요하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/ca69c3e9-a661-4c8a-b7c2-27e267ef7c69.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[맥도날드 '스파이시 맥앤치즈 버거' 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60704</link>
+            <guid>https://www.esquirekorea.co.kr/article/60704</guid>
+            <pubDate>Fri, 29 Oct 2021 06:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[바로 내일부터 만나볼 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/8039b561-cad8-4426-bdc4-61d37b5898f8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[휴먼메이드, 무알코올 사케 'SWEET COWBOY' 공개 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60703</link>
             <guid>https://www.esquirekorea.co.kr/article/60703</guid>
@@ -1317,20 +1333,28 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/24/c3afd0b3-324b-4366-bcfb-f6a75e5b6ed8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[단풍뷰 감성 숙소 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59590</link>
-            <guid>https://www.esquirekorea.co.kr/article/59590</guid>
-            <pubDate>Mon, 25 Oct 2021 06:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[안동과 완주, 홍천, 무주에서 찾은 가을을 가장 완벽하게 즐길 수 있는 감성 숙소 네 곳. ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/a8303179-7bda-4875-aeb8-76fadd3fc8c7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[서울 동남아 감성 카페 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60750</link>
+            <guid>https://www.esquirekorea.co.kr/article/60750</guid>
+            <pubDate>Fri, 29 Oct 2021 06:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[비행기 타지 않고 떠날 수 있는 송파, 역삼, 연남, 동대문의 동남아 감성 가득한 카페 네 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/3d45de3d-162f-4cb2-bbf8-e1d16ba4c5bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[힙쟁이들의 슈퍼, 서울 그로서리 마켓 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59579</link>
-            <guid>https://www.esquirekorea.co.kr/article/59579</guid>
-            <pubDate>Mon, 25 Oct 2021 06:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[식료품 쇼핑과 함께 커피, 브런치, 와인까지 즐길 수 있는 성수, 서울역, 망원동, 용산의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/cf2a6c3c-ecc1-47ff-9ee0-7bdc6167ddf6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[래원 <원효대사 2021 Remix>, 신곡 <장예준 (張芮準)> 최초 공개! (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60749</link>
+            <guid>https://www.esquirekorea.co.kr/article/60749</guid>
+            <pubDate>Fri, 29 Oct 2021 06:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[신곡 ‘장예준 (張芮準)’과 ‘원효대사 2021 Remix’ 라이브를 에스콰이어에서 최초로 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/eb7c5e1c-aec1-4bb5-b942-3db1bac77308.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[볼수록 매력 있는 재능 갑부 안보현 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60745</link>
+            <guid>https://www.esquirekorea.co.kr/article/60745</guid>
+            <pubDate>Fri, 29 Oct 2021 06:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[바닷가 앞에서 먹는 조개구이부터 중독성 강한 돼지국밥까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/72c92c74-b0ed-470a-a511-5079e2b5082e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[당신이 몰랐던 한소희에 대한 15가지 사실 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1371,30 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 28 Oct 2021 09:20:15 GMT</pubDate>
             <content:encoded><![CDATA[굵기도 길이도 다른 면에는 오랜 시간과 남다른 정성이 필요하다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/ca69c3e9-a661-4c8a-b7c2-27e267ef7c69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<에스콰이어> 에디터들이 뽑은 11월의 책 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60728</link>
-            <guid>https://www.esquirekorea.co.kr/article/60728</guid>
-            <pubDate>Thu, 28 Oct 2021 08:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[중쇄를 거듭해 더 많은 사람이 읽었으면 하는 책들을 &lt;에스콰이어&gt; 에디터들이 골랐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/4ca461aa-5019-4c92-81c6-7964d535bdfc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피카소, 작품 11점 1억 1000만불에 낙찰 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60707</link>
-            <guid>https://www.esquirekorea.co.kr/article/60707</guid>
-            <pubDate>Thu, 28 Oct 2021 04:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[경매 수익금 중 일부는 미술 시장에 다시 투자될 예정이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/492a1cf3-9395-4f47-8bb7-08eb43b7dfa6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휠라, Flock Together와 하이킹 캡슐 출시 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60684</link>
-            <guid>https://www.esquirekorea.co.kr/article/60684</guid>
-            <pubDate>Thu, 28 Oct 2021 04:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[물총새의 블루, 그린, 오렌지 컬러를 담았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/8114e979-6010-4b6c-beff-9a42d279c24e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개그맨 허경환의 맛집 리스트 5 (에스콰이어 코리아 ─ 피플)]]></title>

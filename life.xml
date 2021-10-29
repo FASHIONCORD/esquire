@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 05:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 06:27:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 동남아 감성 카페 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60750</link>
+            <guid>https://www.esquirekorea.co.kr/article/60750</guid>
+            <pubDate>Fri, 29 Oct 2021 06:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[비행기 타지 않고 떠날 수 있는 송파, 역삼, 연남, 동대문의 동남아 감성 가득한 카페 네 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/3d45de3d-162f-4cb2-bbf8-e1d16ba4c5bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[래원 <원효대사 2021 Remix>, 신곡 <장예준 (張芮準)> 최초 공개!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60749</link>
+            <guid>https://www.esquirekorea.co.kr/article/60749</guid>
+            <pubDate>Fri, 29 Oct 2021 06:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[신곡 ‘장예준 (張芮準)’과 ‘원효대사 2021 Remix’ 라이브를 에스콰이어에서 최초로 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/eb7c5e1c-aec1-4bb5-b942-3db1bac77308.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[볼수록 매력 있는 재능 갑부 안보현 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60745</link>
+            <guid>https://www.esquirekorea.co.kr/article/60745</guid>
+            <pubDate>Fri, 29 Oct 2021 06:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[바닷가 앞에서 먹는 조개구이부터 중독성 강한 돼지국밥까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/72c92c74-b0ed-470a-a511-5079e2b5082e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당신이 몰랐던 한소희에 대한 15가지 사실]]></title>
             <link>https://www.esquirekorea.co.kr/article/60740</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 28 Oct 2021 09:20:15 GMT</pubDate>
             <content:encoded><![CDATA[굵기도 길이도 다른 면에는 오랜 시간과 남다른 정성이 필요하다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/ca69c3e9-a661-4c8a-b7c2-27e267ef7c69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<에스콰이어> 에디터들이 뽑은 11월의 책 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60728</link>
-            <guid>https://www.esquirekorea.co.kr/article/60728</guid>
-            <pubDate>Thu, 28 Oct 2021 08:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[중쇄를 거듭해 더 많은 사람이 읽었으면 하는 책들을 &lt;에스콰이어&gt; 에디터들이 골랐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/4ca461aa-5019-4c92-81c6-7964d535bdfc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피카소, 작품 11점 1억 1000만불에 낙찰]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60707</link>
-            <guid>https://www.esquirekorea.co.kr/article/60707</guid>
-            <pubDate>Thu, 28 Oct 2021 04:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[경매 수익금 중 일부는 미술 시장에 다시 투자될 예정이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/492a1cf3-9395-4f47-8bb7-08eb43b7dfa6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휠라, Flock Together와 하이킹 캡슐 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60684</link>
-            <guid>https://www.esquirekorea.co.kr/article/60684</guid>
-            <pubDate>Thu, 28 Oct 2021 04:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[물총새의 블루, 그린, 오렌지 컬러를 담았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/8114e979-6010-4b6c-beff-9a42d279c24e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
