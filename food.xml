@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 02:40:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 03:25:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[휴먼메이드, 무알코올 사케 'SWEET COWBOY' 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60703</link>
+            <guid>https://www.esquirekorea.co.kr/article/60703</guid>
+            <pubDate>Fri, 29 Oct 2021 03:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[모두가 즐길 수 있는 사케를 출시한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/078d93f0-3b07-4be2-a96b-141c941e6904.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전세계 최초로 한국에서 출시되는 코카콜라 신제품]]></title>
             <link>https://www.esquirekorea.co.kr/article/60685</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 27 Oct 2021 06:24:36 GMT</pubDate>
             <content:encoded><![CDATA[식료품 쇼핑과 함께 커피, 브런치, 와인까지 즐길 수 있는 성수, 서울역, 망원동, 용산의 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/cf2a6c3c-ecc1-47ff-9ee0-7bdc6167ddf6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뜨끈한 솥밥의 계절, 서울 솥밥 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59576</link>
-            <guid>https://www.esquirekorea.co.kr/article/59576</guid>
-            <pubDate>Tue, 26 Oct 2021 10:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[뜨거운 김을 반참 삼아 즐기는 뜨끈한 솥밥 한 입.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/508121ba-2436-49e7-bb28-8d7ecaf0b335.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
