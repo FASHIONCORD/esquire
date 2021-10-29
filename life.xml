@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 02:03:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 02:40:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신이 몰랐던 한소희에 대한 15가지 사실]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60740</link>
+            <guid>https://www.esquirekorea.co.kr/article/60740</guid>
+            <pubDate>Fri, 29 Oct 2021 02:38:58 GMT</pubDate>
+            <content:encoded><![CDATA[알면 알수록 빠져든다? 넷플릭스 &lt;마이 네임&gt;으로 돌아온 매력적인 한소희에 대한 모든 것.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/b114283e-b4a8-482d-8de8-a92ac3b46f87.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소더비, ‘세계 최초의 우표’ 경매 예정]]></title>
             <link>https://www.esquirekorea.co.kr/article/60737</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 28 Oct 2021 04:26:16 GMT</pubDate>
             <content:encoded><![CDATA[물총새의 블루, 그린, 오렌지 컬러를 담았다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/8114e979-6010-4b6c-beff-9a42d279c24e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<백종원의 골목식당>, 4년 만에 종영]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60683</link>
-            <guid>https://www.esquirekorea.co.kr/article/60683</guid>
-            <pubDate>Thu, 28 Oct 2021 04:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[연내 200회를 전후로 막을 내릴 예정이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/8c6e3871-362c-4754-a08e-db1ce67f1bb8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
