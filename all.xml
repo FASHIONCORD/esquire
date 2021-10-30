@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 23:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 00:59:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/2f9bab10-b08f-41be-9d08-551b4b20231e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[서울 동남아 감성 카페 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60750</link>
+            <guid>https://www.esquirekorea.co.kr/article/60750</guid>
+            <pubDate>Fri, 29 Oct 2021 06:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[비행기 타지 않고 떠날 수 있는 송파, 역삼, 연남, 동대문의 동남아 감성 가득한 카페 네 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/3d45de3d-162f-4cb2-bbf8-e1d16ba4c5bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[볼수록 매력 있는 재능 갑부 안보현 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60745</link>
             <guid>https://www.esquirekorea.co.kr/article/60745</guid>
@@ -1325,12 +1333,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/a01fa2ff-25bf-4e9d-b751-669e68cf152b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[개그맨 허경환의 맛집 리스트 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59630</link>
-            <guid>https://www.esquirekorea.co.kr/article/59630</guid>
-            <pubDate>Wed, 27 Oct 2021 06:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[“바로 이 맛 아입니까” 외치게 만드는 허경환의 인천, 통영, 부산, 서울 맛집을 소개한다....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/37ceab65-5378-411f-b892-f002ed9043b1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[LEGO, Yinka Ilori의 작품으로 무료 체험 공간 마련 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60783</link>
+            <guid>https://www.esquirekorea.co.kr/article/60783</guid>
+            <pubDate>Sat, 30 Oct 2021 00:57:33 GMT</pubDate>
+            <content:encoded><![CDATA[함께 만드는 꿈의 세탁소.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/71f69a43-95b1-41d2-8e59-2cdd5d9c31fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세이코, <원피스>에서 영감 얻은 리미티드 에디션 발표 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 29 Oct 2021 06:24:58 GMT</pubDate>
             <content:encoded><![CDATA[신곡 ‘장예준 (張芮準)’과 ‘원효대사 2021 Remix’ 라이브를 에스콰이어에서 최초로 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/eb7c5e1c-aec1-4bb5-b942-3db1bac77308.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[볼수록 매력 있는 재능 갑부 안보현 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60745</link>
-            <guid>https://www.esquirekorea.co.kr/article/60745</guid>
-            <pubDate>Fri, 29 Oct 2021 06:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[바닷가 앞에서 먹는 조개구이부터 중독성 강한 돼지국밥까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/72c92c74-b0ed-470a-a511-5079e2b5082e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개그맨 허경환의 맛집 리스트 5 (에스콰이어 코리아 ─ 피플)]]></title>
