@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 14:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 15:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1333,6 +1333,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/a01fa2ff-25bf-4e9d-b751-669e68cf152b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2021 서울 신상 수제버거 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60786</link>
+            <guid>https://www.esquirekorea.co.kr/article/60786</guid>
+            <pubDate>Sat, 30 Oct 2021 15:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[어느새 아는 곳만 찾아다니지는 않은가? 더 맛있고 가성비 좋은 새로운 수제버거집을 소개한다....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/c08bf19a-d510-4b57-9c03-97019644d1ce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[듄X APL, 한정판 신발 컬렉션 출시 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60784</link>
+            <guid>https://www.esquirekorea.co.kr/article/60784</guid>
+            <pubDate>Sat, 30 Oct 2021 15:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[영화 속에서 영감을 얻었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/88b933e6-9b7e-48f2-9dfa-d4281c249d14.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LEGO, Yinka Ilori의 작품으로 무료 체험 공간 마련 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60783</link>
             <guid>https://www.esquirekorea.co.kr/article/60783</guid>
@@ -1379,22 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 29 Oct 2021 07:21:41 GMT</pubDate>
             <content:encoded><![CDATA[3000페이지가 넘는 IPCC 6차 보고서에 실린 뜻을 한 마디로 줄이면 ‘벼랑 끝’이다. ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/9bca452f-e3f3-4381-ab23-62f52c92f97a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 동남아 감성 카페 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60750</link>
-            <guid>https://www.esquirekorea.co.kr/article/60750</guid>
-            <pubDate>Fri, 29 Oct 2021 06:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[비행기 타지 않고 떠날 수 있는 송파, 역삼, 연남, 동대문의 동남아 감성 가득한 카페 네 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/3d45de3d-162f-4cb2-bbf8-e1d16ba4c5bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[래원 <원효대사 2021 Remix>, 신곡 <장예준 (張芮準)> 최초 공개! (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60749</link>
-            <guid>https://www.esquirekorea.co.kr/article/60749</guid>
-            <pubDate>Fri, 29 Oct 2021 06:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[신곡 ‘장예준 (張芮準)’과 ‘원효대사 2021 Remix’ 라이브를 에스콰이어에서 최초로 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/eb7c5e1c-aec1-4bb5-b942-3db1bac77308.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개그맨 허경환의 맛집 리스트 5 (에스콰이어 코리아 ─ 피플)]]></title>
