@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 02:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 03:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/2f9bab10-b08f-41be-9d08-551b4b20231e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오픈한 지 50년은 기본! 화교가 운영하는 서울 반세기 노포 중국집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60770</link>
+            <guid>https://www.esquirekorea.co.kr/article/60770</guid>
+            <pubDate>Fri, 29 Oct 2021 07:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[대방동과 을지로3가, 동소문동, 대조동에서 찾은 화교가 운영하는 ‘화상' 노포 맛집 네 곳을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/1b1e5033-3ce5-4e12-9eeb-e3d5f16ef04e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서울 동남아 감성 카페 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60750</link>
             <guid>https://www.esquirekorea.co.kr/article/60750</guid>
@@ -1325,12 +1333,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/dc1b3f63-e15e-44be-a539-062f59721b75.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전국 팔도 왕만두 맛지도 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60652</link>
-            <guid>https://www.esquirekorea.co.kr/article/60652</guid>
-            <pubDate>Thu, 28 Oct 2021 01:00:08 GMT</pubDate>
-            <content:encoded><![CDATA[주먹보다 큰 동그란 왕 만두부터 속이 훤히 들여다보이는 얇은 피 만두까지 전국의 만두 맛집만...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/a01fa2ff-25bf-4e9d-b751-669e68cf152b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[IPCC 6차 기후변화 보고서가 말하는 것_인류멸망 시나리오? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60805</link>
+            <guid>https://www.esquirekorea.co.kr/article/60805</guid>
+            <pubDate>Sun, 31 Oct 2021 03:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[3000페이지가 넘는 IPCC 6차 보고서에 실린 뜻을 한 마디로 줄이면 ‘벼랑 끝’이다. ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/bc6a416b-afdc-4e80-97c4-60503ae37506.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 서울 신상 수제버거 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 29 Oct 2021 07:21:41 GMT</pubDate>
             <content:encoded><![CDATA[대방동과 을지로3가, 동소문동, 대조동에서 찾은 화교가 운영하는 ‘화상' 노포 맛집 네 곳을...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/1b1e5033-3ce5-4e12-9eeb-e3d5f16ef04e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IPCC 6차 기후변화 보고서가 말하는 것_탄소중립이 곧 힘이다 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60757</link>
-            <guid>https://www.esquirekorea.co.kr/article/60757</guid>
-            <pubDate>Fri, 29 Oct 2021 07:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[3000페이지가 넘는 IPCC 6차 보고서에 실린 뜻을 한 마디로 줄이면 ‘벼랑 끝’이다. ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/9bca452f-e3f3-4381-ab23-62f52c92f97a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개그맨 허경환의 맛집 리스트 5 (에스콰이어 코리아 ─ 피플)]]></title>
