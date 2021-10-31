@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Oct 2021 03:23:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Oct 2021 04:27:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/14/2f9bab10-b08f-41be-9d08-551b4b20231e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가을이면 생각나는 뜨끈한 수제비 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60778</link>
+            <guid>https://www.esquirekorea.co.kr/article/60778</guid>
+            <pubDate>Fri, 29 Oct 2021 07:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[수제비 먹기 딱 좋은 날씨다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/598feafe-3270-4d59-acb9-083fa6b77ef7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오픈한 지 50년은 기본! 화교가 운영하는 서울 반세기 노포 중국집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60770</link>
             <guid>https://www.esquirekorea.co.kr/article/60770</guid>
@@ -1325,12 +1333,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/0eede20b-7767-4219-a2c5-1aaccd728e48.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가을 여행자를 위한 북스테이 숙소 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60682</link>
-            <guid>https://www.esquirekorea.co.kr/article/60682</guid>
-            <pubDate>Thu, 28 Oct 2021 04:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[파주, 평택, 의성, 춘천, 제주에서 책과 함께 보내는 안온한 하루.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/dc1b3f63-e15e-44be-a539-062f59721b75.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[웨이팅 필수! 지금 가장 핫한 서울 전시 추천 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60808</link>
+            <guid>https://www.esquirekorea.co.kr/article/60808</guid>
+            <pubDate>Sun, 31 Oct 2021 04:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[오감만족 체험형 전시부터 미디어 전시, 블랙핑크 로제도 다녀간 인증샷 필수 전시회까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/8fe89e9e-ee5d-4023-818b-1282bf225b33.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IPCC 6차 기후변화 보고서가 말하는 것_인류멸망 시나리오? (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 29 Oct 2021 07:21:41 GMT</pubDate>
             <content:encoded><![CDATA[수제비 먹기 딱 좋은 날씨다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/598feafe-3270-4d59-acb9-083fa6b77ef7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈한 지 50년은 기본! 화교가 운영하는 서울 반세기 노포 중국집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60770</link>
-            <guid>https://www.esquirekorea.co.kr/article/60770</guid>
-            <pubDate>Fri, 29 Oct 2021 07:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[대방동과 을지로3가, 동소문동, 대조동에서 찾은 화교가 운영하는 ‘화상' 노포 맛집 네 곳을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/1b1e5033-3ce5-4e12-9eeb-e3d5f16ef04e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개그맨 허경환의 맛집 리스트 5 (에스콰이어 코리아 ─ 피플)]]></title>
