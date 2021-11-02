@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 08:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 09:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/ced081e2-d687-4516-b669-1eae4ffac37d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[서서 먹는 술집, 스탠딩 바 3 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60780</link>
+            <guid>https://www.esquirekorea.co.kr/article/60780</guid>
+            <pubDate>Tue, 02 Nov 2021 09:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[서서 먹는 커피, 고깃집에 이어 이번에는 술집이다. 타치구이, 타치노미라고 불리는 스탠딩 바...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/dba121f7-3977-4bcf-81fa-e7782b1fa18f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가을이면 생각나는 뜨끈한 수제비 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60778</link>
             <guid>https://www.esquirekorea.co.kr/article/60778</guid>
@@ -1325,12 +1333,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/078d93f0-3b07-4be2-a96b-141c941e6904.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전세계 최초로 한국에서 출시되는 코카콜라 신제품 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60685</link>
-            <guid>https://www.esquirekorea.co.kr/article/60685</guid>
-            <pubDate>Thu, 28 Oct 2021 11:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[기존의 유리 콜라병을 닮았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/0eede20b-7767-4219-a2c5-1aaccd728e48.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[내추럴 와인의 맥주 버전? 람빅을 즐길 수 있는 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60825</link>
+            <guid>https://www.esquirekorea.co.kr/article/60825</guid>
+            <pubDate>Tue, 02 Nov 2021 09:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[일반 맥주와 다른 람빅 맥주를 즐길 수 있는 서울, 인천 맛집과 술집들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/31/4cc5148a-d1c7-4b0a-9182-1637e88e5432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경기, 강원, 충청도가 만나는 용문천년시장 가볼 만한 곳 5 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sat, 30 Oct 2021 15:20:33 GMT</pubDate>
             <content:encoded><![CDATA[어느새 아는 곳만 찾아다니지는 않은가? 더 맛있고 가성비 좋은 새로운 수제버거집을 소개한다....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/c08bf19a-d510-4b57-9c03-97019644d1ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[듄X APL, 한정판 신발 컬렉션 출시 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60784</link>
-            <guid>https://www.esquirekorea.co.kr/article/60784</guid>
-            <pubDate>Sat, 30 Oct 2021 15:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[영화 속에서 영감을 얻었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/88b933e6-9b7e-48f2-9dfa-d4281c249d14.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개그맨 허경환의 맛집 리스트 5 (에스콰이어 코리아 ─ 피플)]]></title>
