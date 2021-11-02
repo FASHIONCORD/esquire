@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 07:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 08:25:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1525,6 +1525,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/c9d20cf4-5a97-4b31-9614-809f9885f100.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Eshop] 한 번에 끝내는 가을 셋업 코디 (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59545</link>
+            <guid>https://www.esquirekorea.co.kr/article/59545</guid>
+            <pubDate>Tue, 02 Nov 2021 08:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[위 아래 통일감이 주는 안정감.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/9c6a4907-ff82-48cd-a134-3057c5069ebf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Eshop] 쌀쌀한 가을에 잘 어울리는 스타디움 점퍼 (에스콰이어 코리아 ─ 이샵)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59453</link>
             <guid>https://www.esquirekorea.co.kr/article/59453</guid>
@@ -1579,14 +1587,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sun, 17 Oct 2021 15:23:20 GMT</pubDate>
             <content:encoded><![CDATA[무릎이 ‘포인트’]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/a69f8648-0280-4ca7-b905-93c8245c5aea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 스타일 업하기 좋은 크로스백 (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59030</link>
-            <guid>https://www.esquirekorea.co.kr/article/59030</guid>
-            <pubDate>Thu, 14 Oct 2021 15:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[두 손은 편하고 포인트까지 되는 크로스백]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/04/1d14870b-9992-485a-a471-f006bf8d5ecc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
