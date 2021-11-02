@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 14:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 15:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 뽐내기 좋은 계절의 니트 코디]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59602</link>
+            <guid>https://www.esquirekorea.co.kr/article/59602</guid>
+            <pubDate>Tue, 02 Nov 2021 15:24:04 GMT</pubDate>
+            <content:encoded><![CDATA[편안하고 내추럴한 느낌의 짜임 니트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/8fa1d56c-e94a-4252-a462-cc731df2a033.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 한 번에 끝내는 가을 셋업 코디]]></title>
             <link>https://www.esquirekorea.co.kr/article/59545</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Oct 2021 15:21:21 GMT</pubDate>
             <content:encoded><![CDATA[간절기 잇템, 셔켓 스타일링]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/1e97e668-7574-450a-8856-4b8ca0ee6096.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 시원하게 찢어진 데님 팬츠]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59074</link>
-            <guid>https://www.esquirekorea.co.kr/article/59074</guid>
-            <pubDate>Sun, 17 Oct 2021 15:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[무릎이 ‘포인트’]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/06/a69f8648-0280-4ca7-b905-93c8245c5aea.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

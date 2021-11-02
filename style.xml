@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 14:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 15:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[듄X APL, 한정판 신발 컬렉션 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60784</link>
+            <guid>https://www.esquirekorea.co.kr/article/60784</guid>
+            <pubDate>Tue, 02 Nov 2021 15:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[영화 속에서 영감을 얻었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/88b933e6-9b7e-48f2-9dfa-d4281c249d14.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[롱 코트를 슈트와 함께 다채롭게 입는 방법]]></title>
             <link>https://www.esquirekorea.co.kr/article/60761</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 28 Oct 2021 08:21:53 GMT</pubDate>
             <content:encoded><![CDATA[팀코믹스의 컬러풀한 그래픽 디자인이 들어간 티셔츠, 후디, 재킷으로 구성됐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/5707b5d7-0bcc-494b-9dc5-6eff5169c437.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반바지는 계속 된다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59639</link>
-            <guid>https://www.esquirekorea.co.kr/article/59639</guid>
-            <pubDate>Thu, 28 Oct 2021 04:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[11월에 입는 쇼츠.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/9f6bb540-8273-49cd-9bda-fe109a57d2e5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
