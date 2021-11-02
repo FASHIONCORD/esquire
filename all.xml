@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 18:26:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 19:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1205,6 +1205,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/5469d86b-2a8b-4f9f-b1e5-731f26d3aaa6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[1인승 전기비행기 '젯슨 원' 출시 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59649</link>
+            <guid>https://www.esquirekorea.co.kr/article/59649</guid>
+            <pubDate>Tue, 02 Nov 2021 19:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[스마트폰을 연결해 전기로 작동하는 1인승 비행기 '젯슨 원'이 등장했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/f9547470-724f-4001-9a10-d2a58cfb8b7d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[잘나가는 데는 다 이유가 있다 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59644</link>
             <guid>https://www.esquirekorea.co.kr/article/59644</guid>
@@ -1259,14 +1267,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 22 Oct 2021 17:23:36 GMT</pubDate>
             <content:encoded><![CDATA[콜라주 기능을 통해 자유로운 사진 배치가 가능하다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/60afedd2-c773-440b-b16b-20d65b6aa9fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 '비츠 피트 프로' 출시 전망 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59465</link>
-            <guid>https://www.esquirekorea.co.kr/article/59465</guid>
-            <pubDate>Fri, 22 Oct 2021 06:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[더욱 빠른 페어링이 가능한 애플 H1칩을 탑재한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/ced081e2-d687-4516-b669-1eae4ffac37d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서서 먹는 술집, 스탠딩 바 3 (에스콰이어 코리아 ─ 푸드)]]></title>
