@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 05:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 06:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬 리미티드 구매 정책]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59225</link>
+            <guid>https://www.esquirekorea.co.kr/article/59225</guid>
+            <pubDate>Tue, 02 Nov 2021 06:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[있어도 못 산다? 이번 달부터 인당 1년에 딱 1개만 살 수 있는 샤넬 백.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/49bda0b4-5215-4a6c-96aa-54b9bd3feebe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메르세데스 마이바흐 x 버질 아블로 '프로젝트 마이바흐' 전기차 예고]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59224</link>
+            <guid>https://www.esquirekorea.co.kr/article/59224</guid>
+            <pubDate>Tue, 02 Nov 2021 06:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[협업 장인 버질 아블로가 이번엔 메르세데스 마이바흐와 협업한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/12/686bc0bb-67c4-483a-824e-a1bad9cee33f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프랑스 <오징어게임> 체험관 열풍]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59050</link>
+            <guid>https://www.esquirekorea.co.kr/article/59050</guid>
+            <pubDate>Tue, 02 Nov 2021 06:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 인기 드라마 &lt;오징어게임&gt;에서 등장한 달고나 게임도 체험해볼 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/823f53bc-c465-48d9-8641-526cbd182ce0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[복붙만을 위한 전용 키보드]]></title>
             <link>https://www.esquirekorea.co.kr/article/59049</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 05 Oct 2021 03:23:55 GMT</pubDate>
             <content:encoded><![CDATA[에비수 로고가 그려진 셀비지 재킷이 메인.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/c9d20cf4-5a97-4b31-9614-809f9885f100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[농심켈로그 첵스 팥맛 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58725</link>
-            <guid>https://www.esquirekorea.co.kr/article/58725</guid>
-            <pubDate>Tue, 05 Oct 2021 03:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[가장 한국적인 시리얼이 탄생했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/691ff929-a992-4567-9c4e-88b1a130f7f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리복 x 임스 콜라보 운동화 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58514</link>
-            <guid>https://www.esquirekorea.co.kr/article/58514</guid>
-            <pubDate>Fri, 01 Oct 2021 23:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[임스 하우스, '케이스 스터디 No.8'의 색감을 입은 리복 x 임스 스니커즈가 탄생했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/14/0fdf6cb2-93b1-4d03-9334-a9f412498ea6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고, '다크나이트' 속 배트모빌 텀블러 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58513</link>
-            <guid>https://www.esquirekorea.co.kr/article/58513</guid>
-            <pubDate>Fri, 01 Oct 2021 23:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[영화 '다크나이트'에서 등장한 배트모빌 텀블러가 초대형 레고로 등장했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/16/1972ae91-e98e-41c2-a62d-d1e73784ffa9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
