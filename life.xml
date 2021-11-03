@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 07:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 08:26:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조지 콘도, 하우저앤워스 전시회]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60860</link>
+            <guid>https://www.esquirekorea.co.kr/article/60860</guid>
+            <pubDate>Wed, 03 Nov 2021 08:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[조지 콘도의 &lt;알 수 없는 진실의 이상&gt; 전시회가 12월 23일까지 런던의 하우저앤워스에서 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/921025aa-a9af-40bc-b5eb-61d10bd53983.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팔라스 x 반스 스케이트 하이 컬렉션]]></title>
             <link>https://www.esquirekorea.co.kr/article/60857</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 Nov 2021 07:20:06 GMT</pubDate>
             <content:encoded><![CDATA[한국 북디자인의 역사, 책의 역사, 출판의 역사를 만들어온 남자. 북디자이너 정병규의 책에 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/31/a3035c28-080b-46a4-8895-2e2475e9b2ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[줄 서서 먹는 일본식 해물 덮밥 카이센동 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60811</link>
-            <guid>https://www.esquirekorea.co.kr/article/60811</guid>
-            <pubDate>Mon, 01 Nov 2021 15:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[신선한 재료는 기본, 바다를 느낄 수 있는 서울 카이센동 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/3d0e80f9-3eb1-4241-8b5a-151372199b23.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
