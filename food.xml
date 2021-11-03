@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 05:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 06:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[줄 서서 먹는 일본식 해물 덮밥 카이센동 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60811</link>
+            <guid>https://www.esquirekorea.co.kr/article/60811</guid>
+            <pubDate>Wed, 03 Nov 2021 06:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[신선한 재료는 기본, 바다를 느낄 수 있는 서울 카이센동 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/3d0e80f9-3eb1-4241-8b5a-151372199b23.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팔도, 만능 비빔장 첨가한 '팔도비빔만두 왕교자' 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60785</link>
+            <guid>https://www.esquirekorea.co.kr/article/60785</guid>
+            <pubDate>Wed, 03 Nov 2021 06:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[고기만두와 팔도비빔장이 만났다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/917a4bc6-8636-44b5-a00e-c2e5a1f10da9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서서 먹는 술집, 스탠딩 바 3]]></title>
             <link>https://www.esquirekorea.co.kr/article/60780</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 29 Oct 2021 06:24:14 GMT</pubDate>
             <content:encoded><![CDATA[굵기도 길이도 다른 면에는 오랜 시간과 남다른 정성이 필요하다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/ca69c3e9-a661-4c8a-b7c2-27e267ef7c69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맥도날드 '스파이시 맥앤치즈 버거' 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60704</link>
-            <guid>https://www.esquirekorea.co.kr/article/60704</guid>
-            <pubDate>Fri, 29 Oct 2021 06:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[바로 내일부터 만나볼 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/8039b561-cad8-4426-bdc4-61d37b5898f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휴먼메이드, 무알코올 사케 'SWEET COWBOY' 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60703</link>
-            <guid>https://www.esquirekorea.co.kr/article/60703</guid>
-            <pubDate>Fri, 29 Oct 2021 03:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[모두가 즐길 수 있는 사케를 출시한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/078d93f0-3b07-4be2-a96b-141c941e6904.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

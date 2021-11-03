@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 05:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 06:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[환절기 속건조 완화에 도움이 되는 세안 후 루틴]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60841</link>
+            <guid>https://www.esquirekorea.co.kr/article/60841</guid>
+            <pubDate>Wed, 03 Nov 2021 06:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[세안 후 피부 속을 촉촉하게 채우는 수분 케어 루틴.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/b1c1f704-8da6-48a2-8182-fc8f25f2745d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴스가 패션을? CNN어패럴 비긴즈]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60832</link>
+            <guid>https://www.esquirekorea.co.kr/article/60832</guid>
+            <pubDate>Wed, 03 Nov 2021 06:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[CNN의 수많은 콘텐츠 중에서 패션이란 가능성을 찾아 CNN어패럴을 만든 기업은 다름 아닌 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/01/dff0f15e-0776-41ba-9be3-efa776022816.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[듄X APL, 한정판 신발 컬렉션 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/60784</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 29 Oct 2021 07:18:24 GMT</pubDate>
             <content:encoded><![CDATA[포맨트 향수와 함께한 배우 위하준의 어느 보통날.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/30cdcfd4-49ad-4df3-a5bd-b13ab55096ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휠라, Flock Together와 하이킹 캡슐 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60684</link>
-            <guid>https://www.esquirekorea.co.kr/article/60684</guid>
-            <pubDate>Thu, 28 Oct 2021 17:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[물총새의 블루, 그린, 오렌지 컬러를 담았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/8114e979-6010-4b6c-beff-9a42d279c24e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배러기프트샵 x 꼼데가르송 x 팀코믹스의 캡슐 컬렉션]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59648</link>
-            <guid>https://www.esquirekorea.co.kr/article/59648</guid>
-            <pubDate>Thu, 28 Oct 2021 08:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[팀코믹스의 컬러풀한 그래픽 디자인이 들어간 티셔츠, 후디, 재킷으로 구성됐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/5707b5d7-0bcc-494b-9dc5-6eff5169c437.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
