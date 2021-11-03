@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 11:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 12:33:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강렬한 존재감의 2021 f/w 루이 비통 아이템]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60847</link>
+            <guid>https://www.esquirekorea.co.kr/article/60847</guid>
+            <pubDate>Wed, 03 Nov 2021 12:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[루이 비통의 대담하고 강렬한 존재감.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/89b7c5c7-1c1f-4f9e-8e1e-38d8242e2d54.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[환절기 속건조 완화에 도움이 되는 세안 후 루틴]]></title>
             <link>https://www.esquirekorea.co.kr/article/60841</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 01 Nov 2021 02:06:56 GMT</pubDate>
             <content:encoded><![CDATA[사사롭고도 구체적인 코트에 관한 상식.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/bf99b51e-bace-4a76-a92c-a0e4ea6a027c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매일, 나와 함께]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59555</link>
-            <guid>https://www.esquirekorea.co.kr/article/59555</guid>
-            <pubDate>Fri, 29 Oct 2021 07:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[포맨트 향수와 함께한 배우 위하준의 어느 보통날.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/30cdcfd4-49ad-4df3-a5bd-b13ab55096ca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

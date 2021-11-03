@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 11:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 12:33:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내추럴 와인의 맥주 버전? 람빅을 즐길 수 있는 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60825</link>
+            <guid>https://www.esquirekorea.co.kr/article/60825</guid>
+            <pubDate>Wed, 03 Nov 2021 12:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[일반 맥주와 다른 람빅 맥주를 즐길 수 있는 서울, 인천 맛집과 술집들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/31/4cc5148a-d1c7-4b0a-9182-1637e88e5432.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경기, 강원, 충청도가 만나는 용문천년시장 가볼 만한 곳 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/60824</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 30 Oct 2021 00:57:19 GMT</pubDate>
             <content:encoded><![CDATA[비행기 타지 않고 떠날 수 있는 송파, 역삼, 연남, 동대문의 동남아 감성 가득한 카페 네 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/3d45de3d-162f-4cb2-bbf8-e1d16ba4c5bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[볼수록 매력 있는 재능 갑부 안보현 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60745</link>
-            <guid>https://www.esquirekorea.co.kr/article/60745</guid>
-            <pubDate>Fri, 29 Oct 2021 07:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[바닷가 앞에서 먹는 조개구이부터 중독성 강한 돼지국밥까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/72c92c74-b0ed-470a-a511-5079e2b5082e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
