@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 09:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 10:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크런치롤, 주술회전 캡슐 컬렉션 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60889</link>
+            <guid>https://www.esquirekorea.co.kr/article/60889</guid>
+            <pubDate>Wed, 03 Nov 2021 10:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[이타도리 유지, 고죠 사토루가 그려져있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/d7633e02-f604-477d-b187-40d35087207b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[숯불 닭구이 무한리필 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60864</link>
+            <guid>https://www.esquirekorea.co.kr/article/60864</guid>
+            <pubDate>Wed, 03 Nov 2021 10:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[양재, 공덕, 잠실에서 만난 춘천의 맛! 눈치 볼 필요 없이 맘껏 먹어주자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/99e26272-bccf-432a-b7a3-4d2fd404c5e3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조지 콘도, 하우저앤워스 전시회]]></title>
             <link>https://www.esquirekorea.co.kr/article/60860</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 02 Nov 2021 07:20:06 GMT</pubDate>
             <content:encoded><![CDATA[각 도의 특산물부터 음식까지 다양한 먹거리, 즐길 거리, 그리고 5일장까지 있는 용문천년시장...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/31/5660cd12-18b7-4a83-a8b7-051ce15077c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IPCC 6차 기후변화 보고서가 말하는 것_도시가 답이다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60819</link>
-            <guid>https://www.esquirekorea.co.kr/article/60819</guid>
-            <pubDate>Tue, 02 Nov 2021 07:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[3000페이지가 넘는 IPCC 6차 보고서에 실린 뜻을 한 마디로 줄이면 ‘벼랑 끝’이다. ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/da9e2daf-fdd9-45c5-bb26-36aef0973d1e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 1세대 북디자이너 정병규가 편집자, 출판사 사장, 신문 아트디렉터까지 했던 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60820</link>
-            <guid>https://www.esquirekorea.co.kr/article/60820</guid>
-            <pubDate>Tue, 02 Nov 2021 07:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[한국 북디자인의 역사, 책의 역사, 출판의 역사를 만들어온 남자. 북디자이너 정병규의 책에 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/31/a3035c28-080b-46a4-8895-2e2475e9b2ff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

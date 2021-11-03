@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 09:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 10:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제프 베이조스, 우주정거장 '오르비탈 리프' 건설 계획 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60710</link>
+            <guid>https://www.esquirekorea.co.kr/article/60710</guid>
+            <pubDate>Wed, 03 Nov 2021 10:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[우주의 복합 비지니스 파크를 꿈꾼다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/414b5e05-4fe9-446b-ae94-cb02094ce86d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[거부하기 어려운 매력을 가진 하이브리드 3대]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60660</link>
+            <guid>https://www.esquirekorea.co.kr/article/60660</guid>
+            <pubDate>Wed, 03 Nov 2021 10:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[단숨에 전기차 시대로 돌입할 줄 알았는데 의외로 하이브리드가 선전하고 있다. 절대 전기모터를...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/1c4fa350-c4f3-4d2f-aed0-640af4177054.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1인승 전기비행기 '젯슨 원' 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/59649</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 26 Oct 2021 02:36:11 GMT</pubDate>
             <content:encoded><![CDATA[톰브라운에 이어 두 번째 협업.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/2d94fa5d-6f25-42fc-aed3-cb02120b6fba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 애플 모든 기기에 사용 가능한 '광택용 천' 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59471</link>
-            <guid>https://www.esquirekorea.co.kr/article/59471</guid>
-            <pubDate>Tue, 26 Oct 2021 02:01:37 GMT</pubDate>
-            <content:encoded><![CDATA[모든 애플 기기를 안전하고 깨끗하게.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/062c9928-743e-49d0-bc32-c18aaa9ffb3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후지필름, 더 넓어진 스마트폰 프린터 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59470</link>
-            <guid>https://www.esquirekorea.co.kr/article/59470</guid>
-            <pubDate>Fri, 22 Oct 2021 17:23:36 GMT</pubDate>
-            <content:encoded><![CDATA[콜라주 기능을 통해 자유로운 사진 배치가 가능하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/60afedd2-c773-440b-b16b-20d65b6aa9fc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
