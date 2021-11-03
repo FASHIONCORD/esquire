@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 14:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 15:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1333,6 +1333,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/3d45de3d-162f-4cb2-bbf8-e1d16ba4c5bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[넷플릭스 X 발망, 협업 컬렉션 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60891</link>
+            <guid>https://www.esquirekorea.co.kr/article/60891</guid>
+            <pubDate>Wed, 03 Nov 2021 15:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[서부 영화의 특성을 살린 디자인이 돋보인다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/d523e62e-8811-4418-850f-bed5cbf56347.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[크런치롤, 주술회전 캡슐 컬렉션 출시 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60889</link>
             <guid>https://www.esquirekorea.co.kr/article/60889</guid>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 02 Nov 2021 09:19:49 GMT</pubDate>
             <content:encoded><![CDATA[일반 맥주와 다른 람빅 맥주를 즐길 수 있는 서울, 인천 맛집과 술집들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/31/4cc5148a-d1c7-4b0a-9182-1637e88e5432.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경기, 강원, 충청도가 만나는 용문천년시장 가볼 만한 곳 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60824</link>
-            <guid>https://www.esquirekorea.co.kr/article/60824</guid>
-            <pubDate>Tue, 02 Nov 2021 07:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[각 도의 특산물부터 음식까지 다양한 먹거리, 즐길 거리, 그리고 5일장까지 있는 용문천년시장...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/31/5660cd12-18b7-4a83-a8b7-051ce15077c4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금은 스테이씨 시대! (에스콰이어 코리아 ─ 피플)]]></title>
