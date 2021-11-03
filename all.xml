@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 08:26:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 09:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/60afedd2-c773-440b-b16b-20d65b6aa9fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[경기, 강원, 충청도가 만나는 용문천년시장 가볼 만한 곳 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60824</link>
+            <guid>https://www.esquirekorea.co.kr/article/60824</guid>
+            <pubDate>Tue, 02 Nov 2021 07:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[각 도의 특산물부터 음식까지 다양한 먹거리, 즐길 거리, 그리고 5일장까지 있는 용문천년시장...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/31/5660cd12-18b7-4a83-a8b7-051ce15077c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[줄 서서 먹는 일본식 해물 덮밥 카이센동 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60811</link>
             <guid>https://www.esquirekorea.co.kr/article/60811</guid>
@@ -1323,14 +1331,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 29 Oct 2021 06:24:58 GMT</pubDate>
             <content:encoded><![CDATA[바닷가 앞에서 먹는 조개구이부터 중독성 강한 돼지국밥까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/72c92c74-b0ed-470a-a511-5079e2b5082e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깊은 국물의 맛과 최강의 조합! 서울 자가제면 우동집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60732</link>
-            <guid>https://www.esquirekorea.co.kr/article/60732</guid>
-            <pubDate>Thu, 28 Oct 2021 09:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[굵기도 길이도 다른 면에는 오랜 시간과 남다른 정성이 필요하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/ca69c3e9-a661-4c8a-b7c2-27e267ef7c69.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조지 콘도, 하우저앤워스 전시회 (에스콰이어 코리아 ─ 라이프)]]></title>
