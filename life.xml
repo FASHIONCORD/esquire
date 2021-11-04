@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 02:07:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 03:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘MC민지’ 정준하가 야무지게 먹은 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60894</link>
+            <guid>https://www.esquirekorea.co.kr/article/60894</guid>
+            <pubDate>Thu, 04 Nov 2021 03:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[식신 정준하를 따라가 고민 없이 야무지게 먹을 수 있는 서울, 충주, 부산 맛집을 소개한다....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/b3565cd4-d1a2-43e2-a799-a44082940f83.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 X 발망, 협업 컬렉션 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/60891</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 03 Nov 2021 07:22:46 GMT</pubDate>
             <content:encoded><![CDATA[숫자가 된 사람들, 그리고 위드 코로나.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/a2329a33-d973-4a77-8ebc-452082e0db68.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내추럴 와인의 맥주 버전? 람빅을 즐길 수 있는 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60825</link>
-            <guid>https://www.esquirekorea.co.kr/article/60825</guid>
-            <pubDate>Tue, 02 Nov 2021 09:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[일반 맥주와 다른 람빅 맥주를 즐길 수 있는 서울, 인천 맛집과 술집들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/31/4cc5148a-d1c7-4b0a-9182-1637e88e5432.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
