@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 14:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 15:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1525,6 +1525,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/c9d20cf4-5a97-4b31-9614-809f9885f100.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[노다웃TV] 당신도 패션 화보 주인공이 될 수 있다! #매치스패션오디션 (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59623</link>
+            <guid>https://www.esquirekorea.co.kr/article/59623</guid>
+            <pubDate>Thu, 04 Nov 2021 15:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[매치스패션의 옷을 입은 사진을 인스타그램에 업로드하기만 하면 끝.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/811d3f15-f5f9-4e25-af75-732cce90c069.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Eshop] 뽐내기 좋은 계절의 니트 코디 (에스콰이어 코리아 ─ 이샵)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59602</link>
             <guid>https://www.esquirekorea.co.kr/article/59602</guid>
@@ -1579,14 +1587,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 21 Oct 2021 15:46:42 GMT</pubDate>
             <content:encoded><![CDATA[가을은 니트의 계절]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/11/2e359786-722d-4266-b965-666afcf669b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 때로는 셔츠처럼, 때로는 아우터처럼 (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59132</link>
-            <guid>https://www.esquirekorea.co.kr/article/59132</guid>
-            <pubDate>Tue, 19 Oct 2021 15:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[간절기 잇템, 셔켓 스타일링]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/08/1e97e668-7574-450a-8856-4b8ca0ee6096.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
