@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 12:33:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 13:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울우유, '비요뜨 링크' 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60890</link>
+            <guid>https://www.esquirekorea.co.kr/article/60890</guid>
+            <pubDate>Thu, 04 Nov 2021 13:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[초코링과 함께 화이트밀크, 다크초코 콘플레이크가 섞여있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/79003769-87c8-4839-be6a-a5dae5bd7032.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숯불 닭구이 무한리필 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/60864</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 31 Oct 2021 04:24:45 GMT</pubDate>
             <content:encoded><![CDATA[수제비 먹기 딱 좋은 날씨다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/598feafe-3270-4d59-acb9-083fa6b77ef7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈한 지 50년은 기본! 화교가 운영하는 서울 반세기 노포 중국집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60770</link>
-            <guid>https://www.esquirekorea.co.kr/article/60770</guid>
-            <pubDate>Sun, 31 Oct 2021 03:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[대방동과 을지로3가, 동소문동, 대조동에서 찾은 화교가 운영하는 ‘화상' 노포 맛집 네 곳을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/1b1e5033-3ce5-4e12-9eeb-e3d5f16ef04e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

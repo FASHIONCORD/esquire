@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 12:33:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 13:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/6cb6f26b-e764-4afc-9d21-3286f46c7a8e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[서울우유, '비요뜨 링크' 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60890</link>
+            <guid>https://www.esquirekorea.co.kr/article/60890</guid>
+            <pubDate>Thu, 04 Nov 2021 13:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[초코링과 함께 화이트밀크, 다크초코 콘플레이크가 섞여있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/79003769-87c8-4839-be6a-a5dae5bd7032.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[숯불 닭구이 무한리필 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60864</link>
             <guid>https://www.esquirekorea.co.kr/article/60864</guid>
@@ -1325,12 +1333,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/598feafe-3270-4d59-acb9-083fa6b77ef7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오픈한 지 50년은 기본! 화교가 운영하는 서울 반세기 노포 중국집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60770</link>
-            <guid>https://www.esquirekorea.co.kr/article/60770</guid>
-            <pubDate>Fri, 29 Oct 2021 07:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[대방동과 을지로3가, 동소문동, 대조동에서 찾은 화교가 운영하는 ‘화상' 노포 맛집 네 곳을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/1b1e5033-3ce5-4e12-9eeb-e3d5f16ef04e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[AI로 재현한 고인의 모습을 보며 불편함을 느끼는 나, 예민한가요? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60913</link>
+            <guid>https://www.esquirekorea.co.kr/article/60913</guid>
+            <pubDate>Thu, 04 Nov 2021 13:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[없던 윤리가 매일 새롭게 태어나는 사회에 살고 있다. &lt;에스콰이어 코리아&gt;는 지금까지 크게 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/c3270a66-5c42-413f-a18f-2e4785269b2d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[당근마켓, 당근페이 제주에서 첫 도입 시작 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 03 Nov 2021 10:22:19 GMT</pubDate>
             <content:encoded><![CDATA[양재, 공덕, 잠실에서 만난 춘천의 맛! 눈치 볼 필요 없이 맘껏 먹어주자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/99e26272-bccf-432a-b7a3-4d2fd404c5e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조지 콘도, 하우저앤워스 전시회 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60860</link>
-            <guid>https://www.esquirekorea.co.kr/article/60860</guid>
-            <pubDate>Wed, 03 Nov 2021 08:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[조지 콘도의 &lt;알 수 없는 진실의 이상&gt; 전시회가 12월 23일까지 런던의 하우저앤워스에서 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/921025aa-a9af-40bc-b5eb-61d10bd53983.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금은 스테이씨 시대! (에스콰이어 코리아 ─ 피플)]]></title>
