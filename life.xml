@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 05:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 06:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당근마켓, 당근페이 제주에서 첫 도입 시작]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60908</link>
+            <guid>https://www.esquirekorea.co.kr/article/60908</guid>
+            <pubDate>Thu, 04 Nov 2021 06:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[이전보다 더 쉽고 빨라지는 당근거래.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/28b74ec3-7ff0-4903-a2e7-0d984fd7450d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을의 담양 여행 풀코스 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/60907</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 03 Nov 2021 08:25:11 GMT</pubDate>
             <content:encoded><![CDATA[조지 콘도의 &lt;알 수 없는 진실의 이상&gt; 전시회가 12월 23일까지 런던의 하우저앤워스에서 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/921025aa-a9af-40bc-b5eb-61d10bd53983.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팔라스 x 반스 스케이트 하이 컬렉션]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60857</link>
-            <guid>https://www.esquirekorea.co.kr/article/60857</guid>
-            <pubDate>Wed, 03 Nov 2021 07:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[버섯이 그려진 스케이트 하이 컬렉션?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/49867fbe-e69c-40ae-9085-9f5a19a5de5c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

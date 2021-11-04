@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 05:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 06:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1205,6 +1205,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/5469d86b-2a8b-4f9f-b1e5-731f26d3aaa6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[슈퍼카보다 보기 어려운 차가 있다고? part.1 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60846</link>
+            <guid>https://www.esquirekorea.co.kr/article/60846</guid>
+            <pubDate>Thu, 04 Nov 2021 06:23:10 GMT</pubDate>
+            <content:encoded><![CDATA[희소성으로 따지면 여느 슈퍼카 부럽지 않다. 돈은 물론 시간과 노력을 쏟아야 겨우 손에 넣을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/9f777663-9af9-4c94-914a-3793f747708d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뭉친 근육을 풀어주는 가장 확실한 마사지건 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59478</link>
             <guid>https://www.esquirekorea.co.kr/article/59478</guid>
@@ -1259,14 +1267,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 27 Oct 2021 10:22:01 GMT</pubDate>
             <content:encoded><![CDATA[총 49가지의 새로운 조합을 만들 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/6cb6f26b-e764-4afc-9d21-3286f46c7a8e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헬리녹스, 라이카와 협업 한정판 컬렉션 출시 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59536</link>
-            <guid>https://www.esquirekorea.co.kr/article/59536</guid>
-            <pubDate>Tue, 26 Oct 2021 15:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[오직 한국에서만 판매된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/7f4eab50-bd64-4543-ae6f-f62c7d5c5032.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[숯불 닭구이 무한리필 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1333,6 +1333,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/1b1e5033-3ce5-4e12-9eeb-e3d5f16ef04e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[당근마켓, 당근페이 제주에서 첫 도입 시작 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60908</link>
+            <guid>https://www.esquirekorea.co.kr/article/60908</guid>
+            <pubDate>Thu, 04 Nov 2021 06:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[이전보다 더 쉽고 빨라지는 당근거래.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/28b74ec3-7ff0-4903-a2e7-0d984fd7450d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가을의 담양 여행 풀코스 5 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60907</link>
             <guid>https://www.esquirekorea.co.kr/article/60907</guid>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 03 Nov 2021 08:25:11 GMT</pubDate>
             <content:encoded><![CDATA[조지 콘도의 &lt;알 수 없는 진실의 이상&gt; 전시회가 12월 23일까지 런던의 하우저앤워스에서 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/921025aa-a9af-40bc-b5eb-61d10bd53983.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팔라스 x 반스 스케이트 하이 컬렉션 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60857</link>
-            <guid>https://www.esquirekorea.co.kr/article/60857</guid>
-            <pubDate>Wed, 03 Nov 2021 07:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[버섯이 그려진 스케이트 하이 컬렉션?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/49867fbe-e69c-40ae-9085-9f5a19a5de5c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금은 스테이씨 시대! (에스콰이어 코리아 ─ 피플)]]></title>
