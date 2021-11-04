@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 03:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 04:27:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팔라스 x 반스 스케이트 하이 컬렉션]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60857</link>
+            <guid>https://www.esquirekorea.co.kr/article/60857</guid>
+            <pubDate>Thu, 04 Nov 2021 04:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[버섯이 그려진 스케이트 하이 컬렉션?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/49867fbe-e69c-40ae-9085-9f5a19a5de5c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강렬한 존재감의 2021 f/w 루이 비통 아이템]]></title>
             <link>https://www.esquirekorea.co.kr/article/60847</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 01 Nov 2021 15:20:28 GMT</pubDate>
             <content:encoded><![CDATA[공식 발매일은 현재 미정.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/b9815d68-a64f-4b52-82a6-e247e5f57e57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사소하지만 궁금했던 코트에 관한 상식]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60726</link>
-            <guid>https://www.esquirekorea.co.kr/article/60726</guid>
-            <pubDate>Mon, 01 Nov 2021 02:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[사사롭고도 구체적인 코트에 관한 상식.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/bf99b51e-bace-4a76-a92c-a0e4ea6a027c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

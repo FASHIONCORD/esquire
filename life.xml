@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 03:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 04:27:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인생 노을 뷰 맛집 6]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60903</link>
+            <guid>https://www.esquirekorea.co.kr/article/60903</guid>
+            <pubDate>Thu, 04 Nov 2021 04:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[오랜만에 느껴보는 저녁 시간을 황홀하게 보낼 수 있는 인생 노을 뷰 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/420add42-91aa-4e0d-acc5-7980f20d2306.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘MC민지’ 정준하가 야무지게 먹은 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/60894</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 03 Nov 2021 07:22:46 GMT</pubDate>
             <content:encoded><![CDATA[140여 년 한국의 사진사를 볼 수 있는 국내 최초의 공공 미술관이 탄생할 예정이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/6fe12602-de11-47c9-aec7-7ce5efb4695f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위드 코로나, 그리고 숫자가 된 사람들]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60838</link>
-            <guid>https://www.esquirekorea.co.kr/article/60838</guid>
-            <pubDate>Wed, 03 Nov 2021 07:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[숫자가 된 사람들, 그리고 위드 코로나.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/a2329a33-d973-4a77-8ebc-452082e0db68.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
