@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 04:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 05:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숯불 닭구이 무한리필 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60864</link>
+            <guid>https://www.esquirekorea.co.kr/article/60864</guid>
+            <pubDate>Thu, 04 Nov 2021 05:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[양재, 공덕, 잠실에서 만난 춘천의 맛! 눈치 볼 필요 없이 맘껏 먹어주자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/99e26272-bccf-432a-b7a3-4d2fd404c5e3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내추럴 와인의 맥주 버전? 람빅을 즐길 수 있는 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/60825</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 31 Oct 2021 03:21:06 GMT</pubDate>
             <content:encoded><![CDATA[대방동과 을지로3가, 동소문동, 대조동에서 찾은 화교가 운영하는 ‘화상' 노포 맛집 네 곳을...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/1b1e5033-3ce5-4e12-9eeb-e3d5f16ef04e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 동남아 감성 카페 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60750</link>
-            <guid>https://www.esquirekorea.co.kr/article/60750</guid>
-            <pubDate>Sat, 30 Oct 2021 00:57:19 GMT</pubDate>
-            <content:encoded><![CDATA[비행기 타지 않고 떠날 수 있는 송파, 역삼, 연남, 동대문의 동남아 감성 가득한 카페 네 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/3d45de3d-162f-4cb2-bbf8-e1d16ba4c5bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

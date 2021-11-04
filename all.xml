@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 04:27:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 05:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/21/7f4eab50-bd64-4543-ae6f-f62c7d5c5032.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[숯불 닭구이 무한리필 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60864</link>
+            <guid>https://www.esquirekorea.co.kr/article/60864</guid>
+            <pubDate>Wed, 03 Nov 2021 10:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[양재, 공덕, 잠실에서 만난 춘천의 맛! 눈치 볼 필요 없이 맘껏 먹어주자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/99e26272-bccf-432a-b7a3-4d2fd404c5e3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[내추럴 와인의 맥주 버전? 람빅을 즐길 수 있는 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60825</link>
             <guid>https://www.esquirekorea.co.kr/article/60825</guid>
@@ -1325,12 +1333,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/1b1e5033-3ce5-4e12-9eeb-e3d5f16ef04e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울 동남아 감성 카페 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60750</link>
-            <guid>https://www.esquirekorea.co.kr/article/60750</guid>
-            <pubDate>Fri, 29 Oct 2021 06:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[비행기 타지 않고 떠날 수 있는 송파, 역삼, 연남, 동대문의 동남아 감성 가득한 카페 네 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/3d45de3d-162f-4cb2-bbf8-e1d16ba4c5bc.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[가을의 담양 여행 풀코스 5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60907</link>
+            <guid>https://www.esquirekorea.co.kr/article/60907</guid>
+            <pubDate>Thu, 04 Nov 2021 05:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[사계절 내내 멋지지만 특히 가을에는 더욱 그림 같은 담양을 풀코스로 즐겨보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/585ed6aa-d681-4c09-944a-3be3b61c49b0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인생 노을 뷰 맛집 6 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 03 Nov 2021 07:22:46 GMT</pubDate>
             <content:encoded><![CDATA[버섯이 그려진 스케이트 하이 컬렉션?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/49867fbe-e69c-40ae-9085-9f5a19a5de5c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시, '서울사진미술관' 착공 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60856</link>
-            <guid>https://www.esquirekorea.co.kr/article/60856</guid>
-            <pubDate>Wed, 03 Nov 2021 07:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[140여 년 한국의 사진사를 볼 수 있는 국내 최초의 공공 미술관이 탄생할 예정이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/6fe12602-de11-47c9-aec7-7ce5efb4695f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금은 스테이씨 시대! (에스콰이어 코리아 ─ 피플)]]></title>

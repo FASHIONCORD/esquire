@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 04:27:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 05:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을의 담양 여행 풀코스 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60907</link>
+            <guid>https://www.esquirekorea.co.kr/article/60907</guid>
+            <pubDate>Thu, 04 Nov 2021 05:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[사계절 내내 멋지지만 특히 가을에는 더욱 그림 같은 담양을 풀코스로 즐겨보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/585ed6aa-d681-4c09-944a-3be3b61c49b0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인생 노을 뷰 맛집 6]]></title>
             <link>https://www.esquirekorea.co.kr/article/60903</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 03 Nov 2021 07:22:46 GMT</pubDate>
             <content:encoded><![CDATA[버섯이 그려진 스케이트 하이 컬렉션?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/49867fbe-e69c-40ae-9085-9f5a19a5de5c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시, '서울사진미술관' 착공]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60856</link>
-            <guid>https://www.esquirekorea.co.kr/article/60856</guid>
-            <pubDate>Wed, 03 Nov 2021 07:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[140여 년 한국의 사진사를 볼 수 있는 국내 최초의 공공 미술관이 탄생할 예정이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/6fe12602-de11-47c9-aec7-7ce5efb4695f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
