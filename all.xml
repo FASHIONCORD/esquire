@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 12:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 13:28:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/6cb6f26b-e764-4afc-9d21-3286f46c7a8e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국물 요리 맛집, 대구탕 전문점 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60927</link>
+            <guid>https://www.esquirekorea.co.kr/article/60927</guid>
+            <pubDate>Fri, 05 Nov 2021 07:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[찬바람이 불면 생각나는 겨울철 대구탕 가게를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/8808d802-dbed-4a4d-a1f4-3ebfa86b2ee4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[리세스, 뉴 수퍼 킹 초콜릿 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60911</link>
             <guid>https://www.esquirekorea.co.kr/article/60911</guid>
@@ -1323,14 +1331,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 02 Nov 2021 07:20:06 GMT</pubDate>
             <content:encoded><![CDATA[각 도의 특산물부터 음식까지 다양한 먹거리, 즐길 거리, 그리고 5일장까지 있는 용문천년시장...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/31/5660cd12-18b7-4a83-a8b7-051ce15077c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[줄 서서 먹는 일본식 해물 덮밥 카이센동 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60811</link>
-            <guid>https://www.esquirekorea.co.kr/article/60811</guid>
-            <pubDate>Mon, 01 Nov 2021 15:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[신선한 재료는 기본, 바다를 느낄 수 있는 서울 카이센동 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/3d0e80f9-3eb1-4241-8b5a-151372199b23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<듄>의 초기 스토리보드 경매 예정 (에스콰이어 코리아 ─ 라이프)]]></title>
