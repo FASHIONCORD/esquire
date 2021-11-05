@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 08:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 09:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/6cb6f26b-e764-4afc-9d21-3286f46c7a8e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[리세스, 뉴 수퍼 킹 초콜릿 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60911</link>
+            <guid>https://www.esquirekorea.co.kr/article/60911</guid>
+            <pubDate>Fri, 05 Nov 2021 09:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[대용량의 신상 초콜릿이 출시된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/70caf80e-c037-46d7-930e-121b2a8dbb15.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인생 노을 뷰 맛집 6 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60903</link>
             <guid>https://www.esquirekorea.co.kr/article/60903</guid>
@@ -1325,12 +1333,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/3d0e80f9-3eb1-4241-8b5a-151372199b23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[팔도, 만능 비빔장 첨가한 '팔도비빔만두 왕교자' 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60785</link>
-            <guid>https://www.esquirekorea.co.kr/article/60785</guid>
-            <pubDate>Wed, 03 Nov 2021 06:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[고기만두와 팔도비빔장이 만났다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/917a4bc6-8636-44b5-a00e-c2e5a1f10da9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[남해 가볼 만한 곳 5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60962</link>
+            <guid>https://www.esquirekorea.co.kr/article/60962</guid>
+            <pubDate>Fri, 05 Nov 2021 09:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[탁 트인 오션뷰는 기본! 신상 카페와 맛집부터 인생 사진 건질 수 있는 정원과 목장까지. 자...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/cb9bd15e-3916-40ce-82b3-32f73d690391.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[낯선 세계로 초대하는 이색 전시 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 04 Nov 2021 16:30:34 GMT</pubDate>
             <content:encoded><![CDATA[&lt;해리 포터&gt; 덕후들 주목.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/e062130e-018f-48ae-a526-f547cdc5e9d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI로 재현한 고인의 모습을 보며 불편함을 느끼는 나, 예민한가요? (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60913</link>
-            <guid>https://www.esquirekorea.co.kr/article/60913</guid>
-            <pubDate>Thu, 04 Nov 2021 13:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[없던 윤리가 매일 새롭게 태어나는 사회에 살고 있다. &lt;에스콰이어 코리아&gt;는 지금까지 크게 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/c3270a66-5c42-413f-a18f-2e4785269b2d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금은 스테이씨 시대! (에스콰이어 코리아 ─ 피플)]]></title>

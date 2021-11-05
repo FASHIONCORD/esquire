@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 08:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 09:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남해 가볼 만한 곳 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60962</link>
+            <guid>https://www.esquirekorea.co.kr/article/60962</guid>
+            <pubDate>Fri, 05 Nov 2021 09:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[탁 트인 오션뷰는 기본! 신상 카페와 맛집부터 인생 사진 건질 수 있는 정원과 목장까지. 자...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/cb9bd15e-3916-40ce-82b3-32f73d690391.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낯선 세계로 초대하는 이색 전시 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/60957</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 04 Nov 2021 16:30:34 GMT</pubDate>
             <content:encoded><![CDATA[&lt;해리 포터&gt; 덕후들 주목.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/e062130e-018f-48ae-a526-f547cdc5e9d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI로 재현한 고인의 모습을 보며 불편함을 느끼는 나, 예민한가요?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60913</link>
-            <guid>https://www.esquirekorea.co.kr/article/60913</guid>
-            <pubDate>Thu, 04 Nov 2021 13:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[없던 윤리가 매일 새롭게 태어나는 사회에 살고 있다. &lt;에스콰이어 코리아&gt;는 지금까지 크게 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/c3270a66-5c42-413f-a18f-2e4785269b2d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

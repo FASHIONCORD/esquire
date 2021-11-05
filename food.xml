@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 08:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 09:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리세스, 뉴 수퍼 킹 초콜릿 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60911</link>
+            <guid>https://www.esquirekorea.co.kr/article/60911</guid>
+            <pubDate>Fri, 05 Nov 2021 09:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[대용량의 신상 초콜릿이 출시된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/70caf80e-c037-46d7-930e-121b2a8dbb15.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인생 노을 뷰 맛집 6]]></title>
             <link>https://www.esquirekorea.co.kr/article/60903</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 03 Nov 2021 06:23:23 GMT</pubDate>
             <content:encoded><![CDATA[신선한 재료는 기본, 바다를 느낄 수 있는 서울 카이센동 맛집을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/3d0e80f9-3eb1-4241-8b5a-151372199b23.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팔도, 만능 비빔장 첨가한 '팔도비빔만두 왕교자' 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60785</link>
-            <guid>https://www.esquirekorea.co.kr/article/60785</guid>
-            <pubDate>Wed, 03 Nov 2021 06:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[고기만두와 팔도비빔장이 만났다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/917a4bc6-8636-44b5-a00e-c2e5a1f10da9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
