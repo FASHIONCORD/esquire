@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 15:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 16:32:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 X 발망, 협업 컬렉션 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60891</link>
+            <guid>https://www.esquirekorea.co.kr/article/60891</guid>
+            <pubDate>Fri, 05 Nov 2021 16:28:33 GMT</pubDate>
+            <content:encoded><![CDATA[서부 영화의 특성을 살린 디자인이 돋보인다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/d523e62e-8811-4418-850f-bed5cbf56347.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두툼한 솔의 청키 더비 슈즈]]></title>
             <link>https://www.esquirekorea.co.kr/article/60877</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 Nov 2021 06:21:52 GMT</pubDate>
             <content:encoded><![CDATA[코트와 슈트를 입는 새로운 격식.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/5ae4996c-7984-4647-95d9-b3aa027bd1be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신이 몰랐던 한소희에 대한 15가지 사실]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60740</link>
-            <guid>https://www.esquirekorea.co.kr/article/60740</guid>
-            <pubDate>Tue, 02 Nov 2021 02:07:32 GMT</pubDate>
-            <content:encoded><![CDATA[알면 알수록 빠져든다? 넷플릭스 &lt;마이 네임&gt;으로 돌아온 매력적인 한소희에 대한 모든 것.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/b114283e-b4a8-482d-8de8-a92ac3b46f87.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
