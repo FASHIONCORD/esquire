@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 18:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 19:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 근교 섬 여행 인천 대청도 가볼 만한 곳 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60971</link>
+            <guid>https://www.esquirekorea.co.kr/article/60971</guid>
+            <pubDate>Fri, 05 Nov 2021 19:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[한국의 ‘사하라사막’으로 불리는 모래사막부터 스위스가 생각나는 아름다운 절벽까지. 해외여행 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/849e1b56-57c2-44c2-8d76-34900240749c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pepsi x Polaroid 즉석카메라 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/60966</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 05 Nov 2021 08:24:14 GMT</pubDate>
             <content:encoded><![CDATA[국내 아름다운 단풍길을 맘껏 내달릴 수 있는 가을의 명소 단풍로드 4곳.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/4b804513-9e51-44a6-ac47-122d9b72c016.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국물 요리 맛집, 대구탕 전문점 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60927</link>
-            <guid>https://www.esquirekorea.co.kr/article/60927</guid>
-            <pubDate>Fri, 05 Nov 2021 07:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[찬바람이 불면 생각나는 겨울철 대구탕 가게를 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/8808d802-dbed-4a4d-a1f4-3ebfa86b2ee4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
