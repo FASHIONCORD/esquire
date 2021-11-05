@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 06:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 07:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘MC민지’ 정준하가 야무지게 먹은 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60894</link>
+            <guid>https://www.esquirekorea.co.kr/article/60894</guid>
+            <pubDate>Fri, 05 Nov 2021 07:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[식신 정준하를 따라가 고민 없이 야무지게 먹을 수 있는 서울, 충주, 부산 맛집을 소개한다....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/b3565cd4-d1a2-43e2-a799-a44082940f83.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울우유, '비요뜨 링크' 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/60890</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 Nov 2021 09:19:35 GMT</pubDate>
             <content:encoded><![CDATA[서서 먹는 커피, 고깃집에 이어 이번에는 술집이다. 타치구이, 타치노미라고 불리는 스탠딩 바...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/dba121f7-3977-4bcf-81fa-e7782b1fa18f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을이면 생각나는 뜨끈한 수제비 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60778</link>
-            <guid>https://www.esquirekorea.co.kr/article/60778</guid>
-            <pubDate>Sun, 31 Oct 2021 04:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[수제비 먹기 딱 좋은 날씨다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/598feafe-3270-4d59-acb9-083fa6b77ef7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

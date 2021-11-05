@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 06:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 07:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/6cb6f26b-e764-4afc-9d21-3286f46c7a8e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘MC민지’ 정준하가 야무지게 먹은 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60894</link>
+            <guid>https://www.esquirekorea.co.kr/article/60894</guid>
+            <pubDate>Thu, 04 Nov 2021 03:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[식신 정준하를 따라가 고민 없이 야무지게 먹을 수 있는 서울, 충주, 부산 맛집을 소개한다....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/b3565cd4-d1a2-43e2-a799-a44082940f83.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서울우유, '비요뜨 링크' 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60890</link>
             <guid>https://www.esquirekorea.co.kr/article/60890</guid>
@@ -1325,12 +1333,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/dba121f7-3977-4bcf-81fa-e7782b1fa18f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가을이면 생각나는 뜨끈한 수제비 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60778</link>
-            <guid>https://www.esquirekorea.co.kr/article/60778</guid>
-            <pubDate>Fri, 29 Oct 2021 07:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[수제비 먹기 딱 좋은 날씨다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/598feafe-3270-4d59-acb9-083fa6b77ef7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[국물 요리 맛집, 대구탕 전문점 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60927</link>
+            <guid>https://www.esquirekorea.co.kr/article/60927</guid>
+            <pubDate>Fri, 05 Nov 2021 07:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[찬바람이 불면 생각나는 겨울철 대구탕 가게를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/8808d802-dbed-4a4d-a1f4-3ebfa86b2ee4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조던 x 헬리녹스 협업 ‘체어 원’ 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60925</link>
+            <guid>https://www.esquirekorea.co.kr/article/60925</guid>
+            <pubDate>Fri, 05 Nov 2021 07:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[조던 브랜드 최초 한국 브랜드와의 협업.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/cf35f5c7-6783-4479-9fd2-fa43033dadb8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[르크루제가 출시한 ‘해리 포터’ 컬렉션 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1379,22 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 04 Nov 2021 03:21:37 GMT</pubDate>
             <content:encoded><![CDATA[식신 정준하를 따라가 고민 없이 야무지게 먹을 수 있는 서울, 충주, 부산 맛집을 소개한다....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/b3565cd4-d1a2-43e2-a799-a44082940f83.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 X 발망, 협업 컬렉션 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60891</link>
-            <guid>https://www.esquirekorea.co.kr/article/60891</guid>
-            <pubDate>Wed, 03 Nov 2021 15:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[서부 영화의 특성을 살린 디자인이 돋보인다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/d523e62e-8811-4418-850f-bed5cbf56347.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크런치롤, 주술회전 캡슐 컬렉션 출시 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60889</link>
-            <guid>https://www.esquirekorea.co.kr/article/60889</guid>
-            <pubDate>Wed, 03 Nov 2021 10:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[이타도리 유지, 고죠 사토루가 그려져있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/d7633e02-f604-477d-b187-40d35087207b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금은 스테이씨 시대! (에스콰이어 코리아 ─ 피플)]]></title>
