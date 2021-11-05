@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 07:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 08:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두툼한 솔의 청키 더비 슈즈]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60877</link>
+            <guid>https://www.esquirekorea.co.kr/article/60877</guid>
+            <pubDate>Fri, 05 Nov 2021 08:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[단정하기만 했던 더비 슈즈의 일탈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/5c7bc690-af3f-4a3d-b74d-4ea505d8967c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팔라스 x 반스 스케이트 하이 컬렉션]]></title>
             <link>https://www.esquirekorea.co.kr/article/60857</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 Nov 2021 02:07:32 GMT</pubDate>
             <content:encoded><![CDATA[알면 알수록 빠져든다? 넷플릭스 &lt;마이 네임&gt;으로 돌아온 매력적인 한소희에 대한 모든 것.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/b114283e-b4a8-482d-8de8-a92ac3b46f87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오프 화이트 x 나이키 협업 ‘에어 포스1 미드’ 이미지 유출]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60734</link>
-            <guid>https://www.esquirekorea.co.kr/article/60734</guid>
-            <pubDate>Mon, 01 Nov 2021 15:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[공식 발매일은 현재 미정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/b9815d68-a64f-4b52-82a6-e247e5f57e57.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

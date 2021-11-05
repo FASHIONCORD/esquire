@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 07:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 08:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1077,6 +1077,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[두툼한 솔의 청키 더비 슈즈 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60877</link>
+            <guid>https://www.esquirekorea.co.kr/article/60877</guid>
+            <pubDate>Fri, 05 Nov 2021 08:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[단정하기만 했던 더비 슈즈의 일탈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/5c7bc690-af3f-4a3d-b74d-4ea505d8967c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[팔라스 x 반스 스케이트 하이 컬렉션 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60857</link>
             <guid>https://www.esquirekorea.co.kr/article/60857</guid>
@@ -1131,14 +1139,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 02 Nov 2021 02:07:32 GMT</pubDate>
             <content:encoded><![CDATA[알면 알수록 빠져든다? 넷플릭스 &lt;마이 네임&gt;으로 돌아온 매력적인 한소희에 대한 모든 것.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/b114283e-b4a8-482d-8de8-a92ac3b46f87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오프 화이트 x 나이키 협업 ‘에어 포스1 미드’ 이미지 유출 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60734</link>
-            <guid>https://www.esquirekorea.co.kr/article/60734</guid>
-            <pubDate>Mon, 01 Nov 2021 15:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[공식 발매일은 현재 미정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/b9815d68-a64f-4b52-82a6-e247e5f57e57.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[갤럭시 워치4가 원형 디자인을 고수하는 까닭 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/6cb6f26b-e764-4afc-9d21-3286f46c7a8e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인생 노을 뷰 맛집 6 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60903</link>
+            <guid>https://www.esquirekorea.co.kr/article/60903</guid>
+            <pubDate>Thu, 04 Nov 2021 04:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[오랜만에 느껴보는 저녁 시간을 황홀하게 보낼 수 있는 인생 노을 뷰 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/420add42-91aa-4e0d-acc5-7980f20d2306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘MC민지’ 정준하가 야무지게 먹은 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60894</link>
             <guid>https://www.esquirekorea.co.kr/article/60894</guid>
@@ -1325,12 +1333,36 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/917a4bc6-8636-44b5-a00e-c2e5a1f10da9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서서 먹는 술집, 스탠딩 바 3 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60780</link>
-            <guid>https://www.esquirekorea.co.kr/article/60780</guid>
-            <pubDate>Tue, 02 Nov 2021 09:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[서서 먹는 커피, 고깃집에 이어 이번에는 술집이다. 타치구이, 타치노미라고 불리는 스탠딩 바...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/dba121f7-3977-4bcf-81fa-e7782b1fa18f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[낯선 세계로 초대하는 이색 전시 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60957</link>
+            <guid>https://www.esquirekorea.co.kr/article/60957</guid>
+            <pubDate>Fri, 05 Nov 2021 08:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[신세계가 열린 듯 색다른 관점이 돋보인다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/b32b70a4-2dd6-4551-8b69-826d5197eac6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인스타가 있기 전부터 인스타의 왕이었던 '앤디 워홀'의 전시가 열린다 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60946</link>
+            <guid>https://www.esquirekorea.co.kr/article/60946</guid>
+            <pubDate>Fri, 05 Nov 2021 08:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[앤디 워홀에게 인스타그램을 배워라.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/0b136749-5326-4142-8a9f-4b79b319b314.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 돼지 동그랑땡 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60943</link>
+            <guid>https://www.esquirekorea.co.kr/article/60943</guid>
+            <pubDate>Fri, 05 Nov 2021 08:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[돼지 등심을 동그랗게 말아 냉동한 후 먹기 좋은 두께로 썰어 고추장 양념을 발라 내어주는 돼...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/f6b045c8-3de5-4f1b-8e19-4a29f3701d77.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벚꽃길 대신 단풍길 드라이브 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60928</link>
+            <guid>https://www.esquirekorea.co.kr/article/60928</guid>
+            <pubDate>Fri, 05 Nov 2021 08:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[국내 아름다운 단풍길을 맘껏 내달릴 수 있는 가을의 명소 단풍로드 4곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/4b804513-9e51-44a6-ac47-122d9b72c016.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국물 요리 맛집, 대구탕 전문점 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1363,38 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 04 Nov 2021 13:26:45 GMT</pubDate>
             <content:encoded><![CDATA[없던 윤리가 매일 새롭게 태어나는 사회에 살고 있다. &lt;에스콰이어 코리아&gt;는 지금까지 크게 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/c3270a66-5c42-413f-a18f-2e4785269b2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당근마켓, 당근페이 제주에서 첫 도입 시작 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60908</link>
-            <guid>https://www.esquirekorea.co.kr/article/60908</guid>
-            <pubDate>Thu, 04 Nov 2021 06:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[이전보다 더 쉽고 빨라지는 당근거래.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/94a455b1-794d-4f22-a395-8febd9e8a154.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을의 담양 여행 풀코스 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60907</link>
-            <guid>https://www.esquirekorea.co.kr/article/60907</guid>
-            <pubDate>Thu, 04 Nov 2021 05:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[사계절 내내 멋지지만 특히 가을에는 더욱 그림 같은 담양을 풀코스로 즐겨보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/585ed6aa-d681-4c09-944a-3be3b61c49b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인생 노을 뷰 맛집 6 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60903</link>
-            <guid>https://www.esquirekorea.co.kr/article/60903</guid>
-            <pubDate>Thu, 04 Nov 2021 04:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[오랜만에 느껴보는 저녁 시간을 황홀하게 보낼 수 있는 인생 노을 뷰 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/420add42-91aa-4e0d-acc5-7980f20d2306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘MC민지’ 정준하가 야무지게 먹은 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60894</link>
-            <guid>https://www.esquirekorea.co.kr/article/60894</guid>
-            <pubDate>Thu, 04 Nov 2021 03:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[식신 정준하를 따라가 고민 없이 야무지게 먹을 수 있는 서울, 충주, 부산 맛집을 소개한다....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/b3565cd4-d1a2-43e2-a799-a44082940f83.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금은 스테이씨 시대! (에스콰이어 코리아 ─ 피플)]]></title>
