@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 09:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 10:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1333,6 +1333,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/30/3d0e80f9-3eb1-4241-8b5a-151372199b23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<듄>의 초기 스토리보드 경매 예정 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60965</link>
+            <guid>https://www.esquirekorea.co.kr/article/60965</guid>
+            <pubDate>Fri, 05 Nov 2021 10:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[50년 전에 만들어졌다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/b1d6320a-0df9-4ef4-9d5b-5c40964af7fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[남해 가볼 만한 곳 5 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60962</link>
             <guid>https://www.esquirekorea.co.kr/article/60962</guid>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 05 Nov 2021 07:20:28 GMT</pubDate>
             <content:encoded><![CDATA[조던 브랜드 최초 한국 브랜드와의 협업.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/cf35f5c7-6783-4479-9fd2-fa43033dadb8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르크루제가 출시한 ‘해리 포터’ 컬렉션 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60923</link>
-            <guid>https://www.esquirekorea.co.kr/article/60923</guid>
-            <pubDate>Thu, 04 Nov 2021 16:30:34 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;해리 포터&gt; 덕후들 주목.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/e062130e-018f-48ae-a526-f547cdc5e9d0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금은 스테이씨 시대! (에스콰이어 코리아 ─ 피플)]]></title>
