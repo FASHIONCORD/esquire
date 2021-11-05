@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 17:26:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 18:26:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pepsi x Polaroid 즉석카메라 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60966</link>
+            <guid>https://www.esquirekorea.co.kr/article/60966</guid>
+            <pubDate>Fri, 05 Nov 2021 18:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[블루 컬러가 레트로 감성을 불러일으킨다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/bf0e1d3f-da73-46cb-bbf8-b3f88d536e5f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<듄>의 초기 스토리보드 경매 예정]]></title>
             <link>https://www.esquirekorea.co.kr/article/60965</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 05 Nov 2021 07:20:28 GMT</pubDate>
             <content:encoded><![CDATA[찬바람이 불면 생각나는 겨울철 대구탕 가게를 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/8808d802-dbed-4a4d-a1f4-3ebfa86b2ee4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조던 x 헬리녹스 협업 ‘체어 원’ 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60925</link>
-            <guid>https://www.esquirekorea.co.kr/article/60925</guid>
-            <pubDate>Fri, 05 Nov 2021 07:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[조던 브랜드 최초 한국 브랜드와의 협업.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/cf35f5c7-6783-4479-9fd2-fa43033dadb8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 17:26:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 18:26:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맹렬한 기세로 나아가는 스테이씨]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60649</link>
+            <guid>https://www.esquirekorea.co.kr/article/60649</guid>
+            <pubDate>Fri, 05 Nov 2021 18:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[‘음이탈’이 날지언정 소리 높여 라이브를 한다. 팬들과 수시로 소통하며 하하하 웃는다. 맹렬...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/17f661a5-e0a9-40a3-b282-96a522e0b01a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금은 스테이씨 시대!]]></title>
             <link>https://www.esquirekorea.co.kr/article/59641</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 25 Oct 2021 09:21:08 GMT</pubDate>
             <content:encoded><![CDATA[찐친 케미 넘치는 이달의 소녀의 99즈, 김립과 츄를 만났습니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/b8fee8aa-bd9d-4dd1-905d-5adc8272b613.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명 윤석열 홍준표..대선 후보들이 찾는 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59556</link>
-            <guid>https://www.esquirekorea.co.kr/article/59556</guid>
-            <pubDate>Mon, 25 Oct 2021 07:22:38 GMT</pubDate>
-            <content:encoded><![CDATA[금강산도 식후경. 본격적인 대선을 앞두고 선거 운동으로 점점 바빠지는 요즘, 대선 후보들이 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/0e68c6a6-4296-476f-ab02-9ff63e4fbb5d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
