@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 14:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 15:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[용산 아모레퍼시픽미술관 관람 후 근처 가볼 만한 곳 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60974</link>
+            <guid>https://www.esquirekorea.co.kr/article/60974</guid>
+            <pubDate>Sat, 06 Nov 2021 15:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2일 개막한 아모레퍼시픽미술관(APMA) 전시 ‘메리 코스 : 빛을 담은 회화’를 본 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/d8cf4f5d-f4e2-469f-87cd-97cafe4b3023.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서대문 안산자락길 근처 가볼 만한 곳 6]]></title>
             <link>https://www.esquirekorea.co.kr/article/60972</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 05 Nov 2021 08:24:14 GMT</pubDate>
             <content:encoded><![CDATA[앤디 워홀에게 인스타그램을 배워라.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/0b136749-5326-4142-8a9f-4b79b319b314.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 돼지 동그랑땡 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60943</link>
-            <guid>https://www.esquirekorea.co.kr/article/60943</guid>
-            <pubDate>Fri, 05 Nov 2021 08:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[돼지 등심을 동그랗게 말아 냉동한 후 먹기 좋은 두께로 썰어 고추장 양념을 발라 내어주는 돼...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/f6b045c8-3de5-4f1b-8e19-4a29f3701d77.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
