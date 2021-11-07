@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 18:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 19:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/6cb6f26b-e764-4afc-9d21-3286f46c7a8e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[남해 가볼 만한 곳 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60962</link>
+            <guid>https://www.esquirekorea.co.kr/article/60962</guid>
+            <pubDate>Fri, 05 Nov 2021 09:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[탁 트인 오션뷰는 기본! 신상 카페와 맛집부터 인생 사진 건질 수 있는 정원과 목장까지. 자...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/cb9bd15e-3916-40ce-82b3-32f73d690391.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서울 돼지 동그랑땡 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60943</link>
             <guid>https://www.esquirekorea.co.kr/article/60943</guid>
@@ -1323,14 +1331,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 03 Nov 2021 10:22:19 GMT</pubDate>
             <content:encoded><![CDATA[양재, 공덕, 잠실에서 만난 춘천의 맛! 눈치 볼 필요 없이 맘껏 먹어주자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/99e26272-bccf-432a-b7a3-4d2fd404c5e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내추럴 와인의 맥주 버전? 람빅을 즐길 수 있는 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60825</link>
-            <guid>https://www.esquirekorea.co.kr/article/60825</guid>
-            <pubDate>Tue, 02 Nov 2021 09:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[일반 맥주와 다른 람빅 맥주를 즐길 수 있는 서울, 인천 맛집과 술집들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/31/4cc5148a-d1c7-4b0a-9182-1637e88e5432.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[불멍하기 좋은 벽난로 감성 숙소 4 (에스콰이어 코리아 ─ 라이프)]]></title>
