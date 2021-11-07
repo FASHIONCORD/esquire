@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 06:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 07:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[불멍하기 좋은 벽난로 감성 숙소 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60981</link>
+            <guid>https://www.esquirekorea.co.kr/article/60981</guid>
+            <pubDate>Sun, 07 Nov 2021 07:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[양평과 전주, 천안, 영월, 강릉에서 찾은 추운 겨울 실내에서 ‘불멍’하기 좋은 감성 숙소 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/c8c8c6e6-389f-4772-8d56-bc34689ae0a6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[용산 아모레퍼시픽미술관 관람 후 근처 가볼 만한 곳 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/60974</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 05 Nov 2021 08:24:14 GMT</pubDate>
             <content:encoded><![CDATA[신세계가 열린 듯 색다른 관점이 돋보인다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/b32b70a4-2dd6-4551-8b69-826d5197eac6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인스타가 있기 전부터 인스타의 왕이었던 '앤디 워홀'의 전시가 열린다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60946</link>
-            <guid>https://www.esquirekorea.co.kr/article/60946</guid>
-            <pubDate>Fri, 05 Nov 2021 08:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[앤디 워홀에게 인스타그램을 배워라.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/0b136749-5326-4142-8a9f-4b79b319b314.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
