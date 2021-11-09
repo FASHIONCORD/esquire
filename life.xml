@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 07:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 08:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비투비 이민혁 신곡 '알아(GOOD NIGHT)' 라이브 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60990</link>
+            <guid>https://www.esquirekorea.co.kr/article/60990</guid>
+            <pubDate>Tue, 09 Nov 2021 08:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[비투비 래퍼 이민혁의 노래 클라쓰(?) 제대로 보여주는 신곡 '알아(GOOD NIGHT)'...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/311e17b4-b4e1-450a-95ae-9f5823b08cd4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔플라잉 팬들이 "아 진짜요"만 하는 이유는? 엔플라잉 인터뷰!]]></title>
             <link>https://www.esquirekorea.co.kr/article/60989</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 05 Nov 2021 10:22:24 GMT</pubDate>
             <content:encoded><![CDATA[50년 전에 만들어졌다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/b1d6320a-0df9-4ef4-9d5b-5c40964af7fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남해 가볼 만한 곳 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60962</link>
-            <guid>https://www.esquirekorea.co.kr/article/60962</guid>
-            <pubDate>Fri, 05 Nov 2021 09:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[탁 트인 오션뷰는 기본! 신상 카페와 맛집부터 인생 사진 건질 수 있는 정원과 목장까지. 자...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/cb9bd15e-3916-40ce-82b3-32f73d690391.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
