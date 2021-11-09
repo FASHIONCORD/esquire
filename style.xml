@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 16:35:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 17:29:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레고, 슈퍼 마리오 시리즈 루이지 맨션 세트 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60910</link>
+            <guid>https://www.esquirekorea.co.kr/article/60910</guid>
+            <pubDate>Tue, 09 Nov 2021 17:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[내년 1월 1일 출시될 예정이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/917a7a42-5ed5-4541-9d9a-fe30604912b2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베이프 X 질레트 첫 협업 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/60892</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 03 Nov 2021 06:22:15 GMT</pubDate>
             <content:encoded><![CDATA[CNN의 수많은 콘텐츠 중에서 패션이란 가능성을 찾아 CNN어패럴을 만든 기업은 다름 아닌 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/01/dff0f15e-0776-41ba-9be3-efa776022816.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[듄X APL, 한정판 신발 컬렉션 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60784</link>
-            <guid>https://www.esquirekorea.co.kr/article/60784</guid>
-            <pubDate>Tue, 02 Nov 2021 15:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[영화 속에서 영감을 얻었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/29/88b933e6-9b7e-48f2-9dfa-d4281c249d14.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
