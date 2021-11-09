@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 08:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 09:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈퍼카보다 보기 어려운 차가 있다고? part.2]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60881</link>
+            <guid>https://www.esquirekorea.co.kr/article/60881</guid>
+            <pubDate>Tue, 09 Nov 2021 09:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[희소성으로 따지면 여느 슈퍼카 부럽지 않다. 돈은 물론 시간과 노력을 쏟아야 겨우 손에 넣을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/89394906-4675-4dbb-aa26-e7e82af5f040.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슈퍼카보다 보기 어려운 차가 있다고? part.1]]></title>
             <link>https://www.esquirekorea.co.kr/article/60846</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 01 Nov 2021 02:08:04 GMT</pubDate>
             <content:encoded><![CDATA[캐스퍼는 경차에 대한 고정관념을 바꾸기 위해 태어났다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/ac5da8e1-2798-4296-a032-d6dc72a7c255.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 갤럭시Z플립 3 '비스포크 에디션' 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59570</link>
-            <guid>https://www.esquirekorea.co.kr/article/59570</guid>
-            <pubDate>Wed, 27 Oct 2021 10:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[총 49가지의 새로운 조합을 만들 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/6cb6f26b-e764-4afc-9d21-3286f46c7a8e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
