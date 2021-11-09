@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 22:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 23:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벚꽃길 대신 단풍길 드라이브 4 (네이버 포스트 ─ 에스콰이어 코리아 ─ INSIGHT)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32715922&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32715922&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Tue, 09 Nov 2021 23:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMDlfMTI1/MDAxNjM2NDIyMDQzMjk0.v1bXVh6GeXqrhqwmfu40ckYviPEDcSS0jh4N16RTNPkg.JhA8joGZloKpKAEJcEqYqgMPuX47H59P2mg7cZqKvGMg.PNG/IxzbWsxiurmj2SFY7r10g5I8Q64Y.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을의 담양 여행 풀코스 5 (네이버 포스트 ─ 에스콰이어 코리아 ─ INSIGHT)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32713431&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Oct 2021 16:23:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjNfMTA4/MDAxNjMyMzk1NDEzMTE0.57Ni5wDmWObcDmpiOFQu-fxLe9TfSXuPdcDLo6AOuXog.WYRMemhBmgF9MzbVqOVEnv6lBjI-5O5cq7APYDXuoKgg.PNG/IqTCOSlQrBGfnliWFB-yNCam9c5k.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선선한 가을에 만난 이국적인 등산 코스 5 (네이버 포스트 ─ 에스콰이어 코리아 ─ INSIGHT)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32409750&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32409750&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 16:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MjFfMjgy/MDAxNjMyMTk5NDUwNDE5.7zhGFE8pwpgs1I5Rw-_pQsVp6gu_o8SNizZVDkfJXT0g.sgiGruewzrJLiw3zDy1wFeyIw8mG809wO-CNLJJahJYg.PNG/ISxmElhEJhn3gSBeeEWx_BxzwO3E.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인생 노을 뷰 맛집 6 (네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&DRINK)]]></title>
