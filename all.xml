@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 15:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 16:33:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1525,6 +1525,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/c9d20cf4-5a97-4b31-9614-809f9885f100.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Eshop] 색다른 매력, 재킷 포인트 '카라' (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60661</link>
+            <guid>https://www.esquirekorea.co.kr/article/60661</guid>
+            <pubDate>Wed, 10 Nov 2021 16:33:03 GMT</pubDate>
+            <content:encoded><![CDATA[깔끔한 컬러 매치로 완성한 간절기 코디.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/28662703-5119-49bd-9437-d4b7d93e876c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[노다웃TV] 당신도 패션 화보 주인공이 될 수 있다! #매치스패션오디션 (에스콰이어 코리아 ─ 이샵)]]></title>
             <link>https://www.esquirekorea.co.kr/article/59623</link>
             <guid>https://www.esquirekorea.co.kr/article/59623</guid>
@@ -1579,14 +1587,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sun, 24 Oct 2021 15:22:37 GMT</pubDate>
             <content:encoded><![CDATA[간단하지만 멋을 챙긴 간절기 코디]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/13/82f0008c-8ce5-4328-9fee-05a8649888da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 편안함과 포근함이 공존하는 오버핏 니트 (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59193</link>
-            <guid>https://www.esquirekorea.co.kr/article/59193</guid>
-            <pubDate>Thu, 21 Oct 2021 15:46:42 GMT</pubDate>
-            <content:encoded><![CDATA[가을은 니트의 계절]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/11/2e359786-722d-4266-b965-666afcf669b7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
