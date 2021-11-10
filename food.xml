@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 17:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 18:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[향긋한 바질 요리 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61062</link>
+            <guid>https://www.esquirekorea.co.kr/article/61062</guid>
+            <pubDate>Wed, 10 Nov 2021 18:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[건강한 초록 맛 바질 요리가 다시 떠오르고 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/e913318c-43cc-415a-96a9-9060b9ee26fa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울 데판야끼 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/61044</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 09 Nov 2021 06:23:15 GMT</pubDate>
             <content:encoded><![CDATA[달콤한 초코링과 짭짤한 땅콩링이 섞였다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/44947d60-4ec0-408a-883a-7811c4359a31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남해 가볼 만한 곳 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60962</link>
-            <guid>https://www.esquirekorea.co.kr/article/60962</guid>
-            <pubDate>Sun, 07 Nov 2021 19:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[탁 트인 오션뷰는 기본! 신상 카페와 맛집부터 인생 사진 건질 수 있는 정원과 목장까지. 자...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/cb9bd15e-3916-40ce-82b3-32f73d690391.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
