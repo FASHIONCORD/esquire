@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 08:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 09:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도봉산 아래 우이동 맛집 리스트 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61065</link>
+            <guid>https://www.esquirekorea.co.kr/article/61065</guid>
+            <pubDate>Wed, 10 Nov 2021 09:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[더 추워지기 전에 꼭 가봐야 할 우이동 북한산둘레길 아래 꿀맛 맛집.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/99a9acc6-263c-46a6-9299-8e9ed61b497e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[향긋한 바질 요리 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61062</link>
+            <guid>https://www.esquirekorea.co.kr/article/61062</guid>
+            <pubDate>Wed, 10 Nov 2021 09:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[건강한 초록 맛 바질 요리가 다시 떠오르고 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/e913318c-43cc-415a-96a9-9060b9ee26fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['타짜' 12월 1일 디지털 리마스팅 재개봉 확정]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61047</link>
+            <guid>https://www.esquirekorea.co.kr/article/61047</guid>
+            <pubDate>Wed, 10 Nov 2021 09:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[약 15년만에 돌아오는 '타짜'를 극장에서 만나보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/1b9b0b14-7541-4aab-b3fa-9e0d6fd1b7b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울 데판야끼 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/61044</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 09 Nov 2021 08:24:17 GMT</pubDate>
             <content:encoded><![CDATA[비투비 래퍼 이민혁의 노래 클라쓰(?) 제대로 보여주는 신곡 '알아(GOOD NIGHT)'...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/311e17b4-b4e1-450a-95ae-9f5823b08cd4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔플라잉 팬들이 "아 진짜요"만 하는 이유는? 엔플라잉 인터뷰!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60989</link>
-            <guid>https://www.esquirekorea.co.kr/article/60989</guid>
-            <pubDate>Tue, 09 Nov 2021 06:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[엔플라잉이 첫 정규 리패키지 앨범 'TURBULENCE' 활동 후 에스콰이어를 만났습니다. ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/99a052eb-35ff-487d-bd47-562d6996104f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불멍하기 좋은 벽난로 감성 숙소 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60981</link>
-            <guid>https://www.esquirekorea.co.kr/article/60981</guid>
-            <pubDate>Sun, 07 Nov 2021 07:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[양평과 전주, 천안, 영월, 강릉에서 찾은 추운 겨울 실내에서 ‘불멍’하기 좋은 감성 숙소 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/c8c8c6e6-389f-4772-8d56-bc34689ae0a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[용산 아모레퍼시픽미술관 관람 후 근처 가볼 만한 곳 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60974</link>
-            <guid>https://www.esquirekorea.co.kr/article/60974</guid>
-            <pubDate>Sat, 06 Nov 2021 15:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2일 개막한 아모레퍼시픽미술관(APMA) 전시 ‘메리 코스 : 빛을 담은 회화’를 본 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/d8cf4f5d-f4e2-469f-87cd-97cafe4b3023.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

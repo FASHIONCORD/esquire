@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 08:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 09:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 데판야끼 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61044</link>
+            <guid>https://www.esquirekorea.co.kr/article/61044</guid>
+            <pubDate>Wed, 10 Nov 2021 09:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[커다란 철판에 한우, 랍스터, 새우 등을 구워 먹는 즉석요리로, 특별한 날 찾아간다면 더욱더...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/f7499903-031b-4b83-b2a0-35f0e5c97a47.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버거킹이 출시한 신메뉴 퍼플 서울]]></title>
             <link>https://www.esquirekorea.co.kr/article/61040</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 07 Nov 2021 19:16:02 GMT</pubDate>
             <content:encoded><![CDATA[탁 트인 오션뷰는 기본! 신상 카페와 맛집부터 인생 사진 건질 수 있는 정원과 목장까지. 자...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/cb9bd15e-3916-40ce-82b3-32f73d690391.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 돼지 동그랑땡 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60943</link>
-            <guid>https://www.esquirekorea.co.kr/article/60943</guid>
-            <pubDate>Sun, 07 Nov 2021 07:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[돼지 등심을 동그랗게 말아 냉동한 후 먹기 좋은 두께로 썰어 고추장 양념을 발라 내어주는 돼...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/f6b045c8-3de5-4f1b-8e19-4a29f3701d77.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
