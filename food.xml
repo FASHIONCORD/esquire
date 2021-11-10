@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 03:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 04:27:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘11월 제철 생선 특선’ 서울 광어회 맛집 총정리 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61003</link>
+            <guid>https://www.esquirekorea.co.kr/article/61003</guid>
+            <pubDate>Wed, 10 Nov 2021 04:26:01 GMT</pubDate>
+            <content:encoded><![CDATA[가을과 겨울이 마주하는 11월, 바다에는 한가득 제철 생선들이 차고 넘친다. 첫 번째는 '광...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/07/49b2cbfa-6071-42cf-a012-09479ec9730b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불멍하기 좋은 벽난로 감성 숙소 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60981</link>
+            <guid>https://www.esquirekorea.co.kr/article/60981</guid>
+            <pubDate>Wed, 10 Nov 2021 04:26:01 GMT</pubDate>
+            <content:encoded><![CDATA[양평과 전주, 천안, 영월, 강릉에서 찾은 추운 겨울 실내에서 ‘불멍’하기 좋은 감성 숙소 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/c8c8c6e6-389f-4772-8d56-bc34689ae0a6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[용산 아모레퍼시픽미술관 관람 후 근처 가볼 만한 곳 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/60974</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 05 Nov 2021 09:20:42 GMT</pubDate>
             <content:encoded><![CDATA[대용량의 신상 초콜릿이 출시된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/70caf80e-c037-46d7-930e-121b2a8dbb15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인생 노을 뷰 맛집 6]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60903</link>
-            <guid>https://www.esquirekorea.co.kr/article/60903</guid>
-            <pubDate>Fri, 05 Nov 2021 08:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[오랜만에 느껴보는 저녁 시간을 황홀하게 보낼 수 있는 인생 노을 뷰 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/420add42-91aa-4e0d-acc5-7980f20d2306.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘MC민지’ 정준하가 야무지게 먹은 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60894</link>
-            <guid>https://www.esquirekorea.co.kr/article/60894</guid>
-            <pubDate>Fri, 05 Nov 2021 07:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[식신 정준하를 따라가 고민 없이 야무지게 먹을 수 있는 서울, 충주, 부산 맛집을 소개한다....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/b3565cd4-d1a2-43e2-a799-a44082940f83.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

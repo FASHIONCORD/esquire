@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 03:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 04:27:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송은 신사옥을 건축한 H&DM의 피에르 드뫼롱을 만나다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60999</link>
+            <guid>https://www.esquirekorea.co.kr/article/60999</guid>
+            <pubDate>Wed, 10 Nov 2021 04:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[송은문화재단의 신사옥이 도산대로에 문을 열었다. 겉에서 보면 무뚝뚝해 보이는 이 건물은 가까...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/07/7c4574a7-8a16-48cc-b83f-11c74f25dea3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<유미의 세포들> & 넷플릭스 <마이네임> 안보현의 홈트레이닝 운동 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60993</link>
+            <guid>https://www.esquirekorea.co.kr/article/60993</guid>
+            <pubDate>Wed, 10 Nov 2021 04:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[안보현이 집에서 직접 즐기는 홈트 운동 루틴을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/2c92600a-35e8-40bf-9a12-476a1d32799e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비투비 이민혁 신곡 '알아(GOOD NIGHT)' 라이브 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/60990</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 05 Nov 2021 19:17:59 GMT</pubDate>
             <content:encoded><![CDATA[한국의 ‘사하라사막’으로 불리는 모래사막부터 스위스가 생각나는 아름다운 절벽까지. 해외여행 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/849e1b56-57c2-44c2-8d76-34900240749c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pepsi x Polaroid 즉석카메라 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60966</link>
-            <guid>https://www.esquirekorea.co.kr/article/60966</guid>
-            <pubDate>Fri, 05 Nov 2021 18:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[블루 컬러가 레트로 감성을 불러일으킨다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/bf0e1d3f-da73-46cb-bbf8-b3f88d536e5f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<듄>의 초기 스토리보드 경매 예정]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60965</link>
-            <guid>https://www.esquirekorea.co.kr/article/60965</guid>
-            <pubDate>Fri, 05 Nov 2021 10:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[50년 전에 만들어졌다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/b1d6320a-0df9-4ef4-9d5b-5c40964af7fc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
