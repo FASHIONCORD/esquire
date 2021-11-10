@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 07:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 08:25:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버거킹이 출시한 신메뉴 퍼플 서울]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61040</link>
+            <guid>https://www.esquirekorea.co.kr/article/61040</guid>
+            <pubDate>Wed, 10 Nov 2021 08:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[인도네시아 전역의 버거킹에서 맛볼 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/2190eac3-9ddb-42ff-b43f-2775d82a6e37.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[種(종)切(절)熟(숙)火(화)' 현대 육식의 트렌드를 만드는 4가지 절대요소]]></title>
             <link>https://www.esquirekorea.co.kr/article/61005</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 07 Nov 2021 07:20:02 GMT</pubDate>
             <content:encoded><![CDATA[돼지 등심을 동그랗게 말아 냉동한 후 먹기 좋은 두께로 썰어 고추장 양념을 발라 내어주는 돼...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/f6b045c8-3de5-4f1b-8e19-4a29f3701d77.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국물 요리 맛집, 대구탕 전문점 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60927</link>
-            <guid>https://www.esquirekorea.co.kr/article/60927</guid>
-            <pubDate>Fri, 05 Nov 2021 13:25:42 GMT</pubDate>
-            <content:encoded><![CDATA[찬바람이 불면 생각나는 겨울철 대구탕 가게를 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/8808d802-dbed-4a4d-a1f4-3ebfa86b2ee4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

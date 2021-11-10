@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 07:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 08:25:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/ac5da8e1-2798-4296-a032-d6dc72a7c255.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[버거킹이 출시한 신메뉴 퍼플 서울 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61040</link>
+            <guid>https://www.esquirekorea.co.kr/article/61040</guid>
+            <pubDate>Wed, 10 Nov 2021 08:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[인도네시아 전역의 버거킹에서 맛볼 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/2190eac3-9ddb-42ff-b43f-2775d82a6e37.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[種(종)切(절)熟(숙)火(화)' 현대 육식의 트렌드를 만드는 4가지 절대요소 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61005</link>
             <guid>https://www.esquirekorea.co.kr/article/61005</guid>
@@ -1325,12 +1333,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/f6b045c8-3de5-4f1b-8e19-4a29f3701d77.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국물 요리 맛집, 대구탕 전문점 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60927</link>
-            <guid>https://www.esquirekorea.co.kr/article/60927</guid>
-            <pubDate>Fri, 05 Nov 2021 07:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[찬바람이 불면 생각나는 겨울철 대구탕 가게를 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/8808d802-dbed-4a4d-a1f4-3ebfa86b2ee4.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[서울 데판야끼 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61044</link>
+            <guid>https://www.esquirekorea.co.kr/article/61044</guid>
+            <pubDate>Wed, 10 Nov 2021 08:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[커다란 철판에 한우, 랍스터, 새우 등을 구워 먹는 즉석요리로, 특별한 날 찾아간다면 더욱더...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/f7499903-031b-4b83-b2a0-35f0e5c97a47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘11월 제철 생선 특선’ 서울 광어회 맛집 총정리 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sat, 06 Nov 2021 15:20:35 GMT</pubDate>
             <content:encoded><![CDATA[지난 2일 개막한 아모레퍼시픽미술관(APMA) 전시 ‘메리 코스 : 빛을 담은 회화’를 본 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/d8cf4f5d-f4e2-469f-87cd-97cafe4b3023.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서대문 안산자락길 근처 가볼 만한 곳 6 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60972</link>
-            <guid>https://www.esquirekorea.co.kr/article/60972</guid>
-            <pubDate>Sat, 06 Nov 2021 02:34:38 GMT</pubDate>
-            <content:encoded><![CDATA[산책로가 잘 조성되어 있어 부담 없이 거닐 수 있는 안산자락길과 산책 후 들르기 좋은 근처 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/6ead2641-c09e-440a-b571-4e13b1ba555d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[당신이 몰랐던 한소희에 대한 15가지 사실 (에스콰이어 코리아 ─ 피플)]]></title>
