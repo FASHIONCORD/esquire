@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 06:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 07:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[種(종)切(절)熟(숙)火(화)' 현대 육식의 트렌드를 만드는 4가지 절대요소]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61005</link>
+            <guid>https://www.esquirekorea.co.kr/article/61005</guid>
+            <pubDate>Wed, 10 Nov 2021 07:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[21세기 첨단 육식 문화를 결정짓는 4가지 요소는 품종, 컷, 숙성 그리고 불이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/926df382-1a5b-4734-ac3d-fcb3e16ac04e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘11월 제철 생선 특선’ 서울 광어회 맛집 총정리 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/61003</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 05 Nov 2021 13:25:42 GMT</pubDate>
             <content:encoded><![CDATA[찬바람이 불면 생각나는 겨울철 대구탕 가게를 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/8808d802-dbed-4a4d-a1f4-3ebfa86b2ee4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리세스, 뉴 수퍼 킹 초콜릿 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60911</link>
-            <guid>https://www.esquirekorea.co.kr/article/60911</guid>
-            <pubDate>Fri, 05 Nov 2021 09:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[대용량의 신상 초콜릿이 출시된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/70caf80e-c037-46d7-930e-121b2a8dbb15.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

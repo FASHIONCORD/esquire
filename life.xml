@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 06:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 07:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘11월 제철 생선 특선’ 서울 광어회 맛집 총정리 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61003</link>
+            <guid>https://www.esquirekorea.co.kr/article/61003</guid>
+            <pubDate>Wed, 10 Nov 2021 07:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[가을과 겨울이 마주하는 11월, 바다에는 한가득 제철 생선들이 차고 넘친다. 첫 번째는 '광...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/07/49b2cbfa-6071-42cf-a012-09479ec9730b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송은 신사옥을 건축한 H&DM의 피에르 드뫼롱을 만나다]]></title>
             <link>https://www.esquirekorea.co.kr/article/60999</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 06 Nov 2021 02:34:38 GMT</pubDate>
             <content:encoded><![CDATA[산책로가 잘 조성되어 있어 부담 없이 거닐 수 있는 안산자락길과 산책 후 들르기 좋은 근처 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/6ead2641-c09e-440a-b571-4e13b1ba555d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 근교 섬 여행 인천 대청도 가볼 만한 곳 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60971</link>
-            <guid>https://www.esquirekorea.co.kr/article/60971</guid>
-            <pubDate>Fri, 05 Nov 2021 19:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[한국의 ‘사하라사막’으로 불리는 모래사막부터 스위스가 생각나는 아름다운 절벽까지. 해외여행 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/849e1b56-57c2-44c2-8d76-34900240749c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
