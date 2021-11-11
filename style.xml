@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 09:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 10:25:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조던 x 헬리녹스 협업 ‘체어 원’ 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60925</link>
+            <guid>https://www.esquirekorea.co.kr/article/60925</guid>
+            <pubDate>Thu, 11 Nov 2021 10:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[조던 브랜드 최초 한국 브랜드와의 협업.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/cf35f5c7-6783-4479-9fd2-fa43033dadb8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레고, 슈퍼 마리오 시리즈 루이지 맨션 세트 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/60910</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 03 Nov 2021 06:22:15 GMT</pubDate>
             <content:encoded><![CDATA[세안 후 피부 속을 촉촉하게 채우는 수분 케어 루틴.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/b1c1f704-8da6-48a2-8182-fc8f25f2745d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스가 패션을? CNN어패럴 비긴즈]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60832</link>
-            <guid>https://www.esquirekorea.co.kr/article/60832</guid>
-            <pubDate>Wed, 03 Nov 2021 06:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[CNN의 수많은 콘텐츠 중에서 패션이란 가능성을 찾아 CNN어패럴을 만든 기업은 다름 아닌 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/01/dff0f15e-0776-41ba-9be3-efa776022816.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
