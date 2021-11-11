@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 02:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 03:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Xbox x Gucci 협업 예고]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61082</link>
+            <guid>https://www.esquirekorea.co.kr/article/61082</guid>
+            <pubDate>Thu, 11 Nov 2021 03:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[협업을 암시하는 멘션을 주고받았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/246bfee1-7f53-4e6e-b06a-69c8ed423057.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전시를 통해 공개되는 인사동 출토 유물 1,755점]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61080</link>
+            <guid>https://www.esquirekorea.co.kr/article/61080</guid>
+            <pubDate>Thu, 11 Nov 2021 03:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[당시 과학기술의 면모를 볼 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/2ba43473-b9f2-46d7-bfd8-1a71deb80c15.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신사동에서 압구정동 사이 새로 오픈한 신상 바 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/61075</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 10 Nov 2021 08:24:06 GMT</pubDate>
             <content:encoded><![CDATA[커다란 철판에 한우, 랍스터, 새우 등을 구워 먹는 즉석요리로, 특별한 날 찾아간다면 더욱더...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/f7499903-031b-4b83-b2a0-35f0e5c97a47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘11월 제철 생선 특선’ 서울 광어회 맛집 총정리 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61003</link>
-            <guid>https://www.esquirekorea.co.kr/article/61003</guid>
-            <pubDate>Wed, 10 Nov 2021 07:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[가을과 겨울이 마주하는 11월, 바다에는 한가득 제철 생선들이 차고 넘친다. 첫 번째는 '광...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/07/49b2cbfa-6071-42cf-a012-09479ec9730b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송은 신사옥을 건축한 H&DM의 피에르 드뫼롱을 만나다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60999</link>
-            <guid>https://www.esquirekorea.co.kr/article/60999</guid>
-            <pubDate>Wed, 10 Nov 2021 04:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[송은문화재단의 신사옥이 도산대로에 문을 열었다. 겉에서 보면 무뚝뚝해 보이는 이 건물은 가까...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/07/7c4574a7-8a16-48cc-b83f-11c74f25dea3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
