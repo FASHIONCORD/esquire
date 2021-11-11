@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 14:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 15:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동해에서 부산까지 호텔 컨셉 카페 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61108</link>
+            <guid>https://www.esquirekorea.co.kr/article/61108</guid>
+            <pubDate>Thu, 11 Nov 2021 15:23:07 GMT</pubDate>
+            <content:encoded><![CDATA[색다른 영감을 불러줄 전국 각지의 호텔 컨셉 카페를 찾아가봤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/40219fdc-b3b5-4d28-b622-8de7d321056c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3억 6천만원에 낙찰된 영화 ‘캐스트 어웨이’의 배구공 ‘윌슨’]]></title>
             <link>https://www.esquirekorea.co.kr/article/61101</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 Nov 2021 03:22:43 GMT</pubDate>
             <content:encoded><![CDATA[당시 과학기술의 면모를 볼 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/2ba43473-b9f2-46d7-bfd8-1a71deb80c15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신사동에서 압구정동 사이 새로 오픈한 신상 바 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61075</link>
-            <guid>https://www.esquirekorea.co.kr/article/61075</guid>
-            <pubDate>Wed, 10 Nov 2021 15:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[이제 주야장천 콸콸콸!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/da72e918-2666-4149-b709-3a3dd1f13227.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
