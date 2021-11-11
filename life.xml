@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 11:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 12:32:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3억 6천만원에 낙찰된 영화 ‘캐스트 어웨이’의 배구공 ‘윌슨’]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61101</link>
+            <guid>https://www.esquirekorea.co.kr/article/61101</guid>
+            <pubDate>Thu, 11 Nov 2021 12:31:30 GMT</pubDate>
+            <content:encoded><![CDATA[예상 낙찰가보다 4배 높은 금액.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/a6712be2-7bb6-445c-bb36-0b4b4c3923e0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘오징어 게임' 시즌 2 제작 확정]]></title>
             <link>https://www.esquirekorea.co.kr/article/61099</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 10 Nov 2021 15:22:13 GMT</pubDate>
             <content:encoded><![CDATA[이제 주야장천 콸콸콸!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/da72e918-2666-4149-b709-3a3dd1f13227.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 인생 김치찌개 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61069</link>
-            <guid>https://www.esquirekorea.co.kr/article/61069</guid>
-            <pubDate>Wed, 10 Nov 2021 15:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[김치를 더 맛있게 먹는 법! 겨울 준비로 좋은 김치찌개 5대 맛집을 선정해봤다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/ad9a53de-3d55-4fdd-8817-844110e231ed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
