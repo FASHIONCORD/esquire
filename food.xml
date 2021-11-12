@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 15:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 16:34:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘땡땡거리 맛집’ 서울 기찻길 옆 낭만 식당들 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61086</link>
+            <guid>https://www.esquirekorea.co.kr/article/61086</guid>
+            <pubDate>Fri, 12 Nov 2021 16:30:46 GMT</pubDate>
+            <content:encoded><![CDATA[아직 서울에도 ‘땡땡’ 소리를 들을 수 있는 기찻길 건널목들이 있다. 그 바로 옆에서 신호음...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/2f2b6d97-8972-4f39-ad72-bf18b61e6106.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 벤티 x 오뚜기 '멜팅참깨라떼' 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/61083</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 10 Nov 2021 08:23:52 GMT</pubDate>
             <content:encoded><![CDATA[인도네시아 전역의 버거킹에서 맛볼 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/2190eac3-9ddb-42ff-b43f-2775d82a6e37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[種(종)切(절)熟(숙)火(화)' 현대 육식의 트렌드를 만드는 4가지 절대요소]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61005</link>
-            <guid>https://www.esquirekorea.co.kr/article/61005</guid>
-            <pubDate>Wed, 10 Nov 2021 07:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[21세기 첨단 육식 문화를 결정짓는 4가지 요소는 품종, 컷, 숙성 그리고 불이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/926df382-1a5b-4734-ac3d-fcb3e16ac04e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
