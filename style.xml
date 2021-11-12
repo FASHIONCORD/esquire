@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 14:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 15:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[휠라 x 헤리티지플로스 '나이트 드리프트'컬렉션 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60963</link>
+            <guid>https://www.esquirekorea.co.kr/article/60963</guid>
+            <pubDate>Fri, 12 Nov 2021 15:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[모터스포츠에 영감을 받았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/9c7b6291-a7a1-411a-8aa3-8236e099f88d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조던 x 헬리녹스 협업 ‘체어 원’ 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/60925</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 03 Nov 2021 12:28:58 GMT</pubDate>
             <content:encoded><![CDATA[루이 비통의 대담하고 강렬한 존재감.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/89b7c5c7-1c1f-4f9e-8e1e-38d8242e2d54.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환절기 속건조 완화에 도움이 되는 세안 후 루틴]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60841</link>
-            <guid>https://www.esquirekorea.co.kr/article/60841</guid>
-            <pubDate>Wed, 03 Nov 2021 06:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[세안 후 피부 속을 촉촉하게 채우는 수분 케어 루틴.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/b1c1f704-8da6-48a2-8182-fc8f25f2745d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
