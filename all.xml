@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 05:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 06:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1205,6 +1205,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/5469d86b-2a8b-4f9f-b1e5-731f26d3aaa6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[당근마켓, 당근페이 제주에서 첫 도입 시작 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60908</link>
+            <guid>https://www.esquirekorea.co.kr/article/60908</guid>
+            <pubDate>Fri, 12 Nov 2021 06:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[이전보다 더 쉽고 빨라지는 당근거래.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/94a455b1-794d-4f22-a395-8febd9e8a154.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[슈퍼카보다 보기 어려운 차가 있다고? part.2 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60881</link>
             <guid>https://www.esquirekorea.co.kr/article/60881</guid>
@@ -1259,14 +1267,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 02 Nov 2021 01:01:50 GMT</pubDate>
             <content:encoded><![CDATA[자연흡기와 전기모터를 둘다 가진 스포츠카 브랜드는 포르쉐 밖에 없다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/aac85555-f8cd-41b5-9271-0c81fe08ffe3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경차 시장을 뒤집기 위해 나타난 캐스퍼 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59584</link>
-            <guid>https://www.esquirekorea.co.kr/article/59584</guid>
-            <pubDate>Mon, 01 Nov 2021 02:08:04 GMT</pubDate>
-            <content:encoded><![CDATA[캐스퍼는 경차에 대한 고정관념을 바꾸기 위해 태어났다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/23/ac5da8e1-2798-4296-a032-d6dc72a7c255.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신사동에서 압구정동 사이 새로 오픈한 신상 바 4 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1333,6 +1333,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/07/49b2cbfa-6071-42cf-a012-09479ec9730b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[바카라가 선보이는 크리스털 피카츄 피규어 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61114</link>
+            <guid>https://www.esquirekorea.co.kr/article/61114</guid>
+            <pubDate>Fri, 12 Nov 2021 06:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[포켓몬 탄생 25주년을 기념한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/b25b1168-0687-4fc4-8133-4b6fd8faa71b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스 제작 <원피스> 실사 드라마 배우 목록 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61113</link>
+            <guid>https://www.esquirekorea.co.kr/article/61113</guid>
+            <pubDate>Fri, 12 Nov 2021 06:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[원작가인 '오다 에치로가' 프로듀서로 참여한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/58340abf-efba-410e-a36b-a5d138ce9ca3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[저녁 산책하기 좋은 불광천 가볼 만한 곳 5 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61109</link>
             <guid>https://www.esquirekorea.co.kr/article/61109</guid>
@@ -1379,22 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 11 Nov 2021 07:20:08 GMT</pubDate>
             <content:encoded><![CDATA[아직 서울에도 ‘땡땡’ 소리를 들을 수 있는 기찻길 건널목들이 있다. 그 바로 옆에서 신호음...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/2f2b6d97-8972-4f39-ad72-bf18b61e6106.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙에서 독점 생중계되는 스우파 피날레 콘서트 서울 공연 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61084</link>
-            <guid>https://www.esquirekorea.co.kr/article/61084</guid>
-            <pubDate>Thu, 11 Nov 2021 07:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[티켓 오픈 1분만에 전 석이 매진됐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/481e61b1-1c5f-449a-a384-d65934718e97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Xbox x Gucci 협업 예고 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61082</link>
-            <guid>https://www.esquirekorea.co.kr/article/61082</guid>
-            <pubDate>Thu, 11 Nov 2021 03:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[협업을 암시하는 멘션을 주고받았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/246bfee1-7f53-4e6e-b06a-69c8ed423057.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[래원 <원효대사 2021 Remix>, 신곡 <장예준 (張芮準)> 최초 공개! (에스콰이어 코리아 ─ 피플)]]></title>
