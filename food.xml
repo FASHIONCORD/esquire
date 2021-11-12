@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 08:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 09:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 벤티 x 오뚜기 '멜팅참깨라떼' 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61083</link>
+            <guid>https://www.esquirekorea.co.kr/article/61083</guid>
+            <pubDate>Fri, 12 Nov 2021 09:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[12월 한 달 동안 만나볼 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/ec256483-841f-45a4-99db-a5b8144987f0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신사동에서 압구정동 사이 새로 오픈한 신상 바 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/61075</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 10 Nov 2021 07:20:17 GMT</pubDate>
             <content:encoded><![CDATA[21세기 첨단 육식 문화를 결정짓는 4가지 요소는 품종, 컷, 숙성 그리고 불이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/08/926df382-1a5b-4734-ac3d-fcb3e16ac04e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘11월 제철 생선 특선’ 서울 광어회 맛집 총정리 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61003</link>
-            <guid>https://www.esquirekorea.co.kr/article/61003</guid>
-            <pubDate>Wed, 10 Nov 2021 04:26:01 GMT</pubDate>
-            <content:encoded><![CDATA[가을과 겨울이 마주하는 11월, 바다에는 한가득 제철 생선들이 차고 넘친다. 첫 번째는 '광...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/07/49b2cbfa-6071-42cf-a012-09479ec9730b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
