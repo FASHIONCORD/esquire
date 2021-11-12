@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 06:26:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 07:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘MC민지’ 정준하가 야무지게 먹은 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60894</link>
+            <guid>https://www.esquirekorea.co.kr/article/60894</guid>
+            <pubDate>Fri, 12 Nov 2021 07:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[식신 정준하를 따라가 고민 없이 야무지게 먹을 수 있는 서울, 충주, 부산 맛집을 소개한다....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/b3565cd4-d1a2-43e2-a799-a44082940f83.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[래원 <원효대사 2021 Remix>, 신곡 <장예준 (張芮準)> 최초 공개!]]></title>
             <link>https://www.esquirekorea.co.kr/article/60749</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 28 Oct 2021 10:22:48 GMT</pubDate>
             <content:encoded><![CDATA['예(Ye)'로 이름을 바꾼 칸예 웨스트가 캘리포니아 시미 밸리에 지을 학교 이름은 '돈다 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/ae1e06e1-56fd-44e1-8650-e68a4e821d3e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐틴 힙합팀이 밝힌 서로에게 부러운 능력치]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59619</link>
-            <guid>https://www.esquirekorea.co.kr/article/59619</guid>
-            <pubDate>Thu, 28 Oct 2021 10:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[세븐틴 힙합팀의 에스쿱스, 원우, 민규, 버논은 각자의 색깔이 뚜렷하다. 서로의 차이를 누구...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/ccf5a078-f7f9-48e0-a7ae-4afd4c1d6602.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
