@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 07:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 08:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국의 패스트푸드 체인 아비스 ‘감자튀김 맛 보드카’ 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61100</link>
+            <guid>https://www.esquirekorea.co.kr/article/61100</guid>
+            <pubDate>Sat, 13 Nov 2021 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[한정판으로 출시된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/4fd17fd0-cf14-451d-9558-5961267b9515.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘땡땡거리 맛집’ 서울 기찻길 옆 낭만 식당들 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/61086</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 10 Nov 2021 09:21:15 GMT</pubDate>
             <content:encoded><![CDATA[커다란 철판에 한우, 랍스터, 새우 등을 구워 먹는 즉석요리로, 특별한 날 찾아간다면 더욱더...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/f7499903-031b-4b83-b2a0-35f0e5c97a47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버거킹이 출시한 신메뉴 퍼플 서울]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61040</link>
-            <guid>https://www.esquirekorea.co.kr/article/61040</guid>
-            <pubDate>Wed, 10 Nov 2021 08:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[인도네시아 전역의 버거킹에서 맛볼 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/2190eac3-9ddb-42ff-b43f-2775d82a6e37.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
