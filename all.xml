@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 03:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 04:28:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1333,6 +1333,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/2190eac3-9ddb-42ff-b43f-2775d82a6e37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[믿고 보는 식객 끝판왕 허영만의 단골 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61131</link>
+            <guid>https://www.esquirekorea.co.kr/article/61131</guid>
+            <pubDate>Sat, 13 Nov 2021 04:26:25 GMT</pubDate>
+            <content:encoded><![CDATA[방송 프로그램 ‘식객 허영만의 백반기행’에 나오는 식당이 아니라 허영만 화백이 직접 다니는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/40aad290-d063-4995-8434-a6927fbe3224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[비행기를 생각한다 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61123</link>
             <guid>https://www.esquirekorea.co.kr/article/61123</guid>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 11 Nov 2021 12:31:30 GMT</pubDate>
             <content:encoded><![CDATA[예상 낙찰가보다 4배 높은 금액.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/a6712be2-7bb6-445c-bb36-0b4b4c3923e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오징어 게임' 시즌 2 제작 확정 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61099</link>
-            <guid>https://www.esquirekorea.co.kr/article/61099</guid>
-            <pubDate>Thu, 11 Nov 2021 10:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[확실한 건 '성기훈'은 다시 돌아온다는 것.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/a136c0ac-a319-4be1-a835-58f42fe98a6d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘MC민지’ 정준하가 야무지게 먹은 맛집 5 (에스콰이어 코리아 ─ 피플)]]></title>
