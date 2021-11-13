@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 14:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 15:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[300여년의 역사를 담은 향기]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60986</link>
+            <guid>https://www.esquirekorea.co.kr/article/60986</guid>
+            <pubDate>Sat, 13 Nov 2021 15:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[눈으로 보이는 향기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/99de79c8-e318-4e21-8574-e8296f17f1b6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[휠라 x 헤리티지플로스 '나이트 드리프트'컬렉션 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/60963</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 04 Nov 2021 04:24:05 GMT</pubDate>
             <content:encoded><![CDATA[버섯이 그려진 스케이트 하이 컬렉션?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/49867fbe-e69c-40ae-9085-9f5a19a5de5c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강렬한 존재감의 2021 f/w 루이 비통 아이템]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60847</link>
-            <guid>https://www.esquirekorea.co.kr/article/60847</guid>
-            <pubDate>Wed, 03 Nov 2021 12:28:58 GMT</pubDate>
-            <content:encoded><![CDATA[루이 비통의 대담하고 강렬한 존재감.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/89b7c5c7-1c1f-4f9e-8e1e-38d8242e2d54.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
