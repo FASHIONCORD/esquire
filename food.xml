@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 08:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 09:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동해에서 부산까지 호텔 컨셉 카페 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61108</link>
+            <guid>https://www.esquirekorea.co.kr/article/61108</guid>
+            <pubDate>Sat, 13 Nov 2021 09:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[색다른 영감을 불러줄 전국 각지의 호텔 컨셉 카페를 찾아가봤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/40219fdc-b3b5-4d28-b622-8de7d321056c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국의 패스트푸드 체인 아비스 ‘감자튀김 맛 보드카’ 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/61100</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 10 Nov 2021 18:21:07 GMT</pubDate>
             <content:encoded><![CDATA[건강한 초록 맛 바질 요리가 다시 떠오르고 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/e913318c-43cc-415a-96a9-9060b9ee26fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 데판야끼 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61044</link>
-            <guid>https://www.esquirekorea.co.kr/article/61044</guid>
-            <pubDate>Wed, 10 Nov 2021 09:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[커다란 철판에 한우, 랍스터, 새우 등을 구워 먹는 즉석요리로, 특별한 날 찾아간다면 더욱더...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/f7499903-031b-4b83-b2a0-35f0e5c97a47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
