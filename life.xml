@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 02:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 03:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['쿠팡플레이'가 주최하는 콜드플레이 단독 온라인 콘서트]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61139</link>
+            <guid>https://www.esquirekorea.co.kr/article/61139</guid>
+            <pubDate>Sun, 14 Nov 2021 03:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[12월 4일 생중계된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/0f0da6b0-220f-47da-bbb0-938fe5c4865e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['싫어요' 수치 비공개로 전환하는 유튜브]]></title>
             <link>https://www.esquirekorea.co.kr/article/61136</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 12 Nov 2021 06:24:44 GMT</pubDate>
             <content:encoded><![CDATA[원작가인 '오다 에치로가' 프로듀서로 참여한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/58340abf-efba-410e-a36b-a5d138ce9ca3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저녁 산책하기 좋은 불광천 가볼 만한 곳 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61109</link>
-            <guid>https://www.esquirekorea.co.kr/article/61109</guid>
-            <pubDate>Fri, 12 Nov 2021 04:26:44 GMT</pubDate>
-            <content:encoded><![CDATA[휴식할 겸 들르기 좋은 카페, 돌아가는 길에 든든하고 맛있게 배를 채울 맛집과 펍까지. 기분...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/3f2e15db-3818-4e50-8fb7-5f3a8d9d6fa3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

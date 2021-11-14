@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 02:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 03:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[믿고 보는 식객 끝판왕 허영만의 단골 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61131</link>
+            <guid>https://www.esquirekorea.co.kr/article/61131</guid>
+            <pubDate>Sun, 14 Nov 2021 03:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[방송 프로그램 ‘식객 허영만의 백반기행’에 나오는 식당이 아니라 허영만 화백이 직접 다니는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/40aad290-d063-4995-8434-a6927fbe3224.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동해에서 부산까지 호텔 컨셉 카페 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/61108</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 Nov 2021 03:21:56 GMT</pubDate>
             <content:encoded><![CDATA[더 추워지기 전에 꼭 가봐야 할 우이동 북한산둘레길 아래 꿀맛 맛집.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/99a9acc6-263c-46a6-9299-8e9ed61b497e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[향긋한 바질 요리 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61062</link>
-            <guid>https://www.esquirekorea.co.kr/article/61062</guid>
-            <pubDate>Wed, 10 Nov 2021 18:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[건강한 초록 맛 바질 요리가 다시 떠오르고 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/e913318c-43cc-415a-96a9-9060b9ee26fa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
