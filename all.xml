@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 01:01:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 02:06:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1077,6 +1077,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이 계절에 입기 좋은 니트 베스트 12 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61033</link>
+            <guid>https://www.esquirekorea.co.kr/article/61033</guid>
+            <pubDate>Mon, 15 Nov 2021 02:02:35 GMT</pubDate>
+            <content:encoded><![CDATA[이 계절에 입기 좋은 각양각색 니트 베스트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/fbc86543-f611-431d-8bc6-5096ab8f1c62.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[300여년의 역사를 담은 향기 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60986</link>
             <guid>https://www.esquirekorea.co.kr/article/60986</guid>
@@ -1131,14 +1139,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 05 Nov 2021 08:22:21 GMT</pubDate>
             <content:encoded><![CDATA[단정하기만 했던 더비 슈즈의 일탈.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/5c7bc690-af3f-4a3d-b74d-4ea505d8967c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팔라스 x 반스 스케이트 하이 컬렉션 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60857</link>
-            <guid>https://www.esquirekorea.co.kr/article/60857</guid>
-            <pubDate>Wed, 03 Nov 2021 07:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[버섯이 그려진 스케이트 하이 컬렉션?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/49867fbe-e69c-40ae-9085-9f5a19a5de5c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[갤럭시 워치4가 원형 디자인을 고수하는 까닭 (에스콰이어 코리아 ─ 와치)]]></title>
