@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 06:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 07:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[변신의 귀재 윤계상 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61140</link>
+            <guid>https://www.esquirekorea.co.kr/article/61140</guid>
+            <pubDate>Mon, 15 Nov 2021 07:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[작품마다 다양한 변신을 거듭해 화제를 불러 모으는 윤계상. 그는 어떤 식당을 다녀갔을까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/6ce5eaa2-5e49-4a02-b3b7-e50e3fe2b4db.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[믿고 보는 식객 끝판왕 허영만의 단골 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/61131</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 Nov 2021 08:23:43 GMT</pubDate>
             <content:encoded><![CDATA[김치를 더 맛있게 먹는 법! 겨울 준비로 좋은 김치찌개 5대 맛집을 선정해봤다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/ad9a53de-3d55-4fdd-8817-844110e231ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도봉산 아래 우이동 맛집 리스트 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61065</link>
-            <guid>https://www.esquirekorea.co.kr/article/61065</guid>
-            <pubDate>Thu, 11 Nov 2021 03:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[더 추워지기 전에 꼭 가봐야 할 우이동 북한산둘레길 아래 꿀맛 맛집.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/99a9acc6-263c-46a6-9299-8e9ed61b497e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

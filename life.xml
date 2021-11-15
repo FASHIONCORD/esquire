@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 06:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 07:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추운 겨울도 문제없는 야외 온천 리조트 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61150</link>
+            <guid>https://www.esquirekorea.co.kr/article/61150</guid>
+            <pubDate>Mon, 15 Nov 2021 07:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[가족은 물론 연인과 가기도 좋은 청송, 제천, 울진, 양양에 위치한 야외 온천을 즐길 수 있...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/8e548920-2978-45c1-9d43-80d45942774c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['쿠팡플레이'가 주최하는 콜드플레이 단독 온라인 콘서트]]></title>
             <link>https://www.esquirekorea.co.kr/article/61139</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 12 Nov 2021 06:24:44 GMT</pubDate>
             <content:encoded><![CDATA[포켓몬 탄생 25주년을 기념한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/b25b1168-0687-4fc4-8133-4b6fd8faa71b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 제작 <원피스> 실사 드라마 배우 목록 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61113</link>
-            <guid>https://www.esquirekorea.co.kr/article/61113</guid>
-            <pubDate>Fri, 12 Nov 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[원작가인 '오다 에치로가' 프로듀서로 참여한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/58340abf-efba-410e-a36b-a5d138ce9ca3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

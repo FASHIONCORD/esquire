@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 06:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 07:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/aac85555-f8cd-41b5-9271-0c81fe08ffe3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[변신의 귀재 윤계상 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61140</link>
+            <guid>https://www.esquirekorea.co.kr/article/61140</guid>
+            <pubDate>Mon, 15 Nov 2021 07:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[작품마다 다양한 변신을 거듭해 화제를 불러 모으는 윤계상. 그는 어떤 식당을 다녀갔을까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/6ce5eaa2-5e49-4a02-b3b7-e50e3fe2b4db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[믿고 보는 식객 끝판왕 허영만의 단골 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61131</link>
             <guid>https://www.esquirekorea.co.kr/article/61131</guid>
@@ -1325,12 +1333,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/ad9a53de-3d55-4fdd-8817-844110e231ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[도봉산 아래 우이동 맛집 리스트 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61065</link>
-            <guid>https://www.esquirekorea.co.kr/article/61065</guid>
-            <pubDate>Wed, 10 Nov 2021 09:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[더 추워지기 전에 꼭 가봐야 할 우이동 북한산둘레길 아래 꿀맛 맛집.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/99a9acc6-263c-46a6-9299-8e9ed61b497e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[추운 겨울도 문제없는 야외 온천 리조트 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61150</link>
+            <guid>https://www.esquirekorea.co.kr/article/61150</guid>
+            <pubDate>Mon, 15 Nov 2021 07:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[가족은 물론 연인과 가기도 좋은 청송, 제천, 울진, 양양에 위치한 야외 온천을 즐길 수 있...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/8e548920-2978-45c1-9d43-80d45942774c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['쿠팡플레이'가 주최하는 콜드플레이 단독 온라인 콘서트 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 12 Nov 2021 06:24:44 GMT</pubDate>
             <content:encoded><![CDATA[포켓몬 탄생 25주년을 기념한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/b25b1168-0687-4fc4-8133-4b6fd8faa71b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 제작 <원피스> 실사 드라마 배우 목록 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61113</link>
-            <guid>https://www.esquirekorea.co.kr/article/61113</guid>
-            <pubDate>Fri, 12 Nov 2021 06:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[원작가인 '오다 에치로가' 프로듀서로 참여한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/58340abf-efba-410e-a36b-a5d138ce9ca3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘MC민지’ 정준하가 야무지게 먹은 맛집 5 (에스콰이어 코리아 ─ 피플)]]></title>
