@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 14:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 15:24:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코트를 위한 향수]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61053</link>
+            <guid>https://www.esquirekorea.co.kr/article/61053</guid>
+            <pubDate>Mon, 15 Nov 2021 15:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[코트에 스며든 짙은 향기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/fc4aaf16-ed33-45b1-b253-5ad6cb5ae3b5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 계절에 입기 좋은 니트 베스트 12]]></title>
             <link>https://www.esquirekorea.co.kr/article/61033</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 05 Nov 2021 16:28:33 GMT</pubDate>
             <content:encoded><![CDATA[서부 영화의 특성을 살린 디자인이 돋보인다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/d523e62e-8811-4418-850f-bed5cbf56347.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두툼한 솔의 청키 더비 슈즈]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60877</link>
-            <guid>https://www.esquirekorea.co.kr/article/60877</guid>
-            <pubDate>Fri, 05 Nov 2021 08:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[단정하기만 했던 더비 슈즈의 일탈.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/5c7bc690-af3f-4a3d-b74d-4ea505d8967c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
