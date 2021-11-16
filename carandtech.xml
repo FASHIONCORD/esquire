@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 02:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 03:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포드, 커스텀 전기 트럭 ‘F-100 일루미네이터 콘셉트’ 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60924</link>
+            <guid>https://www.esquirekorea.co.kr/article/60924</guid>
+            <pubDate>Tue, 16 Nov 2021 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[머스탱의 전기 모터를 이식했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/21abcf3a-ff34-4c37-b1dd-4449ba9ea5e0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카니예 웨스트의 와이오밍 트럭 & SUV 경매 등장]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60909</link>
+            <guid>https://www.esquirekorea.co.kr/article/60909</guid>
+            <pubDate>Tue, 16 Nov 2021 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[그의 포드 컬렉션을 만나볼 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/b5756f23-f2ae-4949-9c1b-1d44b6edf9d6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당근마켓, 당근페이 제주에서 첫 도입 시작]]></title>
             <link>https://www.esquirekorea.co.kr/article/60908</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 03 Nov 2021 10:21:28 GMT</pubDate>
             <content:encoded><![CDATA[단숨에 전기차 시대로 돌입할 줄 알았는데 의외로 하이브리드가 선전하고 있다. 절대 전기모터를...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/1c4fa350-c4f3-4d2f-aed0-640af4177054.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1인승 전기비행기 '젯슨 원' 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59649</link>
-            <guid>https://www.esquirekorea.co.kr/article/59649</guid>
-            <pubDate>Tue, 02 Nov 2021 19:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[스마트폰을 연결해 전기로 작동하는 1인승 비행기 '젯슨 원'이 등장했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/f9547470-724f-4001-9a10-d2a58cfb8b7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘나가는 데는 다 이유가 있다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59644</link>
-            <guid>https://www.esquirekorea.co.kr/article/59644</guid>
-            <pubDate>Tue, 02 Nov 2021 01:01:50 GMT</pubDate>
-            <content:encoded><![CDATA[자연흡기와 전기모터를 둘다 가진 스포츠카 브랜드는 포르쉐 밖에 없다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/aac85555-f8cd-41b5-9271-0c81fe08ffe3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

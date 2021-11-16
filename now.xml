@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 02:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 03:23:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1인승 전기비행기 '젯슨 원' 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59649</link>
+            <guid>https://www.esquirekorea.co.kr/article/59649</guid>
+            <pubDate>Tue, 16 Nov 2021 03:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[스마트폰을 연결해 전기로 작동하는 1인승 비행기 '젯슨 원'이 등장했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/f9547470-724f-4001-9a10-d2a58cfb8b7d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배러기프트샵 x 꼼데가르송 x 팀코믹스의 캡슐 컬렉션]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59648</link>
+            <guid>https://www.esquirekorea.co.kr/article/59648</guid>
+            <pubDate>Tue, 16 Nov 2021 03:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[팀코믹스의 컬러풀한 그래픽 디자인이 들어간 티셔츠, 후디, 재킷으로 구성됐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/5707b5d7-0bcc-494b-9dc5-6eff5169c437.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤넬 리미티드 구매 정책]]></title>
             <link>https://www.esquirekorea.co.kr/article/59225</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 12 Oct 2021 05:18:48 GMT</pubDate>
             <content:encoded><![CDATA[이탈리아 건축과 고전 영화에서 영감을 받은 새로운 아이웨어가 탄생했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/db3ceb4b-ea19-4f58-ae71-beb6ea42c92d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 iOS15 새로운 기능]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58727</link>
-            <guid>https://www.esquirekorea.co.kr/article/58727</guid>
-            <pubDate>Tue, 12 Oct 2021 05:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[쉐어플레이부터 다인 페이스타임까지 색다른 기능이 추가되었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/1b74cde7-9ed3-4b80-b111-9f2915f61de4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팔라스와 에비수의 두 번째 콜라보]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58726</link>
-            <guid>https://www.esquirekorea.co.kr/article/58726</guid>
-            <pubDate>Tue, 05 Oct 2021 03:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[에비수 로고가 그려진 셀비지 재킷이 메인.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/23/c9d20cf4-5a97-4b31-9614-809f9885f100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

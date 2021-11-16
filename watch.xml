@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 와치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 02:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 03:23:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시계의 얼굴]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59160</link>
+            <guid>https://www.esquirekorea.co.kr/article/59160</guid>
+            <pubDate>Tue, 16 Nov 2021 03:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[더 가까이 보고 싶다. 지금 우리가 주목해야 할 시계 8.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/09/3c52adc4-87f7-4439-84ad-878c29933d77.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[갤럭시 워치4가 원형 디자인을 고수하는 까닭]]></title>
             <link>https://www.esquirekorea.co.kr/article/59098</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 05 Oct 2021 15:04:10 GMT</pubDate>
             <content:encoded><![CDATA[다채롭게 조명했다. 론진의 절정과도 같은 컬렉션.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/2b341cd7-ae7a-4a80-a018-ad3268cbe5cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워치메이커로서의 샤넬]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58840</link>
-            <guid>https://www.esquirekorea.co.kr/article/58840</guid>
-            <pubDate>Mon, 04 Oct 2021 16:28:18 GMT</pubDate>
-            <content:encoded><![CDATA[워치메이커로서의 샤넬. 그 대체 불가한 정체성과 우뚝한 존재감에 대하여.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/5469d86b-2a8b-4f9f-b1e5-731f26d3aaa6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
