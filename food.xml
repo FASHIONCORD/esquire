@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 06:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 07:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 뜨는 용산공원 근처 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61162</link>
+            <guid>https://www.esquirekorea.co.kr/article/61162</guid>
+            <pubDate>Tue, 16 Nov 2021 07:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[공원만 들렀다 가기엔 아쉽다면 주목하자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/e8bed3b5-6ae7-4362-98cc-8a6c2e61badc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추운 겨울도 문제없는 야외 온천 리조트 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/61150</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 12 Nov 2021 09:21:24 GMT</pubDate>
             <content:encoded><![CDATA[12월 한 달 동안 만나볼 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/ec256483-841f-45a4-99db-a5b8144987f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신사동에서 압구정동 사이 새로 오픈한 신상 바 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61075</link>
-            <guid>https://www.esquirekorea.co.kr/article/61075</guid>
-            <pubDate>Fri, 12 Nov 2021 04:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[이제 주야장천 콸콸콸!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/da72e918-2666-4149-b709-3a3dd1f13227.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
