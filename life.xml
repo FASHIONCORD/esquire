@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 05:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 06:25:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수산시장에서 '호구' 잡히지 않고 좋은 횟감 고르는 법 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61177</link>
+            <guid>https://www.esquirekorea.co.kr/article/61177</guid>
+            <pubDate>Tue, 16 Nov 2021 06:24:04 GMT</pubDate>
+            <content:encoded><![CDATA[무작정 상인들이 권하는 생선 대신 싱싱한 횟감을 고르는 방법을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/3238bd05-edee-4e5b-9fb0-06d46e5c4838.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찬 바람이 부는 지금 먹기 좋은 조개찜 서울 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/61165</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 13 Nov 2021 07:20:55 GMT</pubDate>
             <content:encoded><![CDATA[6,785개 피스로 이루어졌다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/5e42b653-8543-444a-8a24-10f7e5e7836d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[믿고 보는 식객 끝판왕 허영만의 단골 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61131</link>
-            <guid>https://www.esquirekorea.co.kr/article/61131</guid>
-            <pubDate>Sat, 13 Nov 2021 04:26:25 GMT</pubDate>
-            <content:encoded><![CDATA[방송 프로그램 ‘식객 허영만의 백반기행’에 나오는 식당이 아니라 허영만 화백이 직접 다니는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/40aad290-d063-4995-8434-a6927fbe3224.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
