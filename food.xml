@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 09:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 10:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국순당과 해태아이스크림의 만남 '국순당 쌀 바밤바밤' 막걸리 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61217</link>
+            <guid>https://www.esquirekorea.co.kr/article/61217</guid>
+            <pubDate>Wed, 17 Nov 2021 10:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[쌀 막걸리에 바밤바 아이스크림이 더해졌다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/3b344b63-89b8-4c0f-b1ca-39510e16f736.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 난리 난 서울 감태 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61199</link>
+            <guid>https://www.esquirekorea.co.kr/article/61199</guid>
+            <pubDate>Wed, 17 Nov 2021 10:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[독특한 식감과 맛으로 미식가들 사이에서 소문난 감태 요리를 맛보러 떠나자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/05324807-c07b-43bf-8c3f-2837b0811cb4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수산시장에서 '호구' 잡히지 않고 좋은 횟감 고르는 법 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61177</link>
+            <guid>https://www.esquirekorea.co.kr/article/61177</guid>
+            <pubDate>Wed, 17 Nov 2021 10:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[무작정 상인들이 권하는 생선 대신 싱싱한 횟감을 고르는 방법을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/3238bd05-edee-4e5b-9fb0-06d46e5c4838.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찬 바람이 부는 지금 먹기 좋은 조개찜 서울 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/61165</link>
@@ -46,30 +70,6 @@
             <pubDate>Sun, 14 Nov 2021 03:21:10 GMT</pubDate>
             <content:encoded><![CDATA[방송 프로그램 ‘식객 허영만의 백반기행’에 나오는 식당이 아니라 허영만 화백이 직접 다니는 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/40aad290-d063-4995-8434-a6927fbe3224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동해에서 부산까지 호텔 컨셉 카페 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61108</link>
-            <guid>https://www.esquirekorea.co.kr/article/61108</guid>
-            <pubDate>Sat, 13 Nov 2021 09:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[색다른 영감을 불러줄 전국 각지의 호텔 컨셉 카페를 찾아가봤다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/40219fdc-b3b5-4d28-b622-8de7d321056c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국의 패스트푸드 체인 아비스 ‘감자튀김 맛 보드카’ 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61100</link>
-            <guid>https://www.esquirekorea.co.kr/article/61100</guid>
-            <pubDate>Sat, 13 Nov 2021 08:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[한정판으로 출시된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/4fd17fd0-cf14-451d-9558-5961267b9515.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘땡땡거리 맛집’ 서울 기찻길 옆 낭만 식당들 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61086</link>
-            <guid>https://www.esquirekorea.co.kr/article/61086</guid>
-            <pubDate>Fri, 12 Nov 2021 16:30:46 GMT</pubDate>
-            <content:encoded><![CDATA[아직 서울에도 ‘땡땡’ 소리를 들을 수 있는 기찻길 건널목들이 있다. 그 바로 옆에서 신호음...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/2f2b6d97-8972-4f39-ad72-bf18b61e6106.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
