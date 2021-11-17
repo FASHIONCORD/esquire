@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 07:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 08:26:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1333,6 +1333,30 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/2f2b6d97-8972-4f39-ad72-bf18b61e6106.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[러시아 히비니에서 즐기는 스키 영상 보러가기 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61219</link>
+            <guid>https://www.esquirekorea.co.kr/article/61219</guid>
+            <pubDate>Wed, 17 Nov 2021 08:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[국내 스키장 시즌권이 오픈했다. 러시아의 최극단 지역 '히비니'에서 보드를 즐기는 인스타그래...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/e9a1674f-d80a-435a-80c3-55b1e7f22070.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스와로브스키 아톰(Astro Boy) 피규어 개시 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61218</link>
+            <guid>https://www.esquirekorea.co.kr/article/61218</guid>
+            <pubDate>Wed, 17 Nov 2021 08:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[머리부터 발끝까지 스와로브스키가 아닌 곳이 없다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/28d0edb1-b0bf-483a-8f1b-9655c80c226b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공간 활용을 극대화한 고래를 닮은 트레일러 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61214</link>
+            <guid>https://www.esquirekorea.co.kr/article/61214</guid>
+            <pubDate>Wed, 17 Nov 2021 08:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[캠핑 모드에서는 침대 하나가 더 들어갈 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/db7fb694-19f7-4f2a-a80b-ae27336a638c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[요즘 난리 난 서울 감태 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61199</link>
             <guid>https://www.esquirekorea.co.kr/article/61199</guid>
@@ -1371,30 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 16 Nov 2021 03:21:54 GMT</pubDate>
             <content:encoded><![CDATA['DUMB DUMB' 노래를 틀어놓고 춤과 운동을 동시에 즐겨보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/1278af27-9e5e-472a-af3d-435f238fbe57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추운 겨울도 문제없는 야외 온천 리조트 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61150</link>
-            <guid>https://www.esquirekorea.co.kr/article/61150</guid>
-            <pubDate>Mon, 15 Nov 2021 07:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[가족은 물론 연인과 가기도 좋은 청송, 제천, 울진, 양양에 위치한 야외 온천을 즐길 수 있...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/8e548920-2978-45c1-9d43-80d45942774c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['쿠팡플레이'가 주최하는 콜드플레이 단독 온라인 콘서트 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61139</link>
-            <guid>https://www.esquirekorea.co.kr/article/61139</guid>
-            <pubDate>Sun, 14 Nov 2021 03:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[12월 4일 생중계된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/0f0da6b0-220f-47da-bbb0-938fe5c4865e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['싫어요' 수치 비공개로 전환하는 유튜브 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61136</link>
-            <guid>https://www.esquirekorea.co.kr/article/61136</guid>
-            <pubDate>Sat, 13 Nov 2021 09:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[크리에이터를 보호하기 위한 정책이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/a8525a57-a630-4b7f-84e3-d6133af6687b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘MC민지’ 정준하가 야무지게 먹은 맛집 5 (에스콰이어 코리아 ─ 피플)]]></title>
