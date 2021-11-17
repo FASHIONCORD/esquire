@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 03:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 04:28:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/1c4fa350-c4f3-4d2f-aed0-640af4177054.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[찬 바람이 부는 지금 먹기 좋은 조개찜 서울 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61165</link>
+            <guid>https://www.esquirekorea.co.kr/article/61165</guid>
+            <pubDate>Tue, 16 Nov 2021 03:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[조개찜 먹으러 바닷가까지 갈 필요 없다. 서울 곳곳에 숨은 조개찜 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/2b5d9978-d632-4613-ad88-4dea3d3a7576.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[요즘 뜨는 용산공원 근처 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61162</link>
             <guid>https://www.esquirekorea.co.kr/article/61162</guid>
@@ -1325,12 +1333,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/2f2b6d97-8972-4f39-ad72-bf18b61e6106.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더 벤티 x 오뚜기 '멜팅참깨라떼' 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61083</link>
-            <guid>https://www.esquirekorea.co.kr/article/61083</guid>
-            <pubDate>Fri, 12 Nov 2021 09:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[12월 한 달 동안 만나볼 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/10/ec256483-841f-45a4-99db-a5b8144987f0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[요즘 난리 난 서울 감태 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61199</link>
+            <guid>https://www.esquirekorea.co.kr/article/61199</guid>
+            <pubDate>Wed, 17 Nov 2021 04:27:06 GMT</pubDate>
+            <content:encoded><![CDATA[독특한 식감과 맛으로 미식가들 사이에서 소문난 감태 요리를 맛보러 떠나자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/05324807-c07b-43bf-8c3f-2837b0811cb4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수산시장에서 '호구' 잡히지 않고 좋은 횟감 고르는 법 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sat, 13 Nov 2021 09:20:34 GMT</pubDate>
             <content:encoded><![CDATA[크리에이터를 보호하기 위한 정책이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/a8525a57-a630-4b7f-84e3-d6133af6687b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고에서 출시하는 스타워즈 'AT-AT 세트' (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61135</link>
-            <guid>https://www.esquirekorea.co.kr/article/61135</guid>
-            <pubDate>Sat, 13 Nov 2021 07:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[6,785개 피스로 이루어졌다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/5e42b653-8543-444a-8a24-10f7e5e7836d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘MC민지’ 정준하가 야무지게 먹은 맛집 5 (에스콰이어 코리아 ─ 피플)]]></title>
