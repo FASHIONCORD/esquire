@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 08:26:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 09:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스웨이드 슈즈의 계절]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61172</link>
+            <guid>https://www.esquirekorea.co.kr/article/61172</guid>
+            <pubDate>Wed, 17 Nov 2021 09:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[스웨이드 슈즈를 신는 11월.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/34829518-5e2f-41af-b494-ebb67cbe07b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올겨울엔 이런 장갑들]]></title>
             <link>https://www.esquirekorea.co.kr/article/61154</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 Nov 2021 10:20:38 GMT</pubDate>
             <content:encoded><![CDATA[조던 브랜드 최초 한국 브랜드와의 협업.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/cf35f5c7-6783-4479-9fd2-fa43033dadb8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레고, 슈퍼 마리오 시리즈 루이지 맨션 세트 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60910</link>
-            <guid>https://www.esquirekorea.co.kr/article/60910</guid>
-            <pubDate>Tue, 09 Nov 2021 17:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[내년 1월 1일 출시될 예정이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/917a7a42-5ed5-4541-9d9a-fe30604912b2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

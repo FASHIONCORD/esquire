@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 08:26:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 09:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[건축상 받은 제주 숙소와 카페 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61243</link>
+            <guid>https://www.esquirekorea.co.kr/article/61243</guid>
+            <pubDate>Wed, 17 Nov 2021 09:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[올해로 17회를 맞은 제주 건축문화축제의 수상작, 제주의 숙소와 카페에서 누리는 특별한 시간...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/403ecce8-5fd1-45f5-8316-5f24c67dac96.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연신내 옆 구파발 가볼 만한 곳 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61223</link>
+            <guid>https://www.esquirekorea.co.kr/article/61223</guid>
+            <pubDate>Wed, 17 Nov 2021 09:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[서울 은평구에서 가장 시끌벅적한 곳이 연신내라면, 여유로우면서도 재미있는 공간들이 곳곳에 있...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/895e8bf5-55b7-450b-90da-070eaae093d8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아 히비니에서 즐기는 스키 영상 보러가기]]></title>
             <link>https://www.esquirekorea.co.kr/article/61219</link>
@@ -37,7 +53,7 @@
             <guid>https://www.esquirekorea.co.kr/article/61199</guid>
             <pubDate>Wed, 17 Nov 2021 04:27:06 GMT</pubDate>
             <content:encoded><![CDATA[독특한 식감과 맛으로 미식가들 사이에서 소문난 감태 요리를 맛보러 떠나자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/05324807-c07b-43bf-8c3f-2837b0811cb4.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/05324807-c07b-43bf-8c3f-2837b0811cb4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수산시장에서 '호구' 잡히지 않고 좋은 횟감 고르는 법 4]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 16 Nov 2021 03:21:54 GMT</pubDate>
             <content:encoded><![CDATA[조개찜 먹으러 바닷가까지 갈 필요 없다. 서울 곳곳에 숨은 조개찜 맛집을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/2b5d9978-d632-4613-ad88-4dea3d3a7576.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 뜨는 용산공원 근처 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61162</link>
-            <guid>https://www.esquirekorea.co.kr/article/61162</guid>
-            <pubDate>Tue, 16 Nov 2021 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[공원만 들렀다 가기엔 아쉽다면 주목하자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/e8bed3b5-6ae7-4362-98cc-8a6c2e61badc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[춤도 추고, 살도 빼고 전소미 'DUMB DUMB' 다이어트 댄스 안무 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61161</link>
-            <guid>https://www.esquirekorea.co.kr/article/61161</guid>
-            <pubDate>Tue, 16 Nov 2021 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA['DUMB DUMB' 노래를 틀어놓고 춤과 운동을 동시에 즐겨보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/1278af27-9e5e-472a-af3d-435f238fbe57.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
