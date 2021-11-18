@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 09:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 10:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔플라잉 팬들이 "아 진짜요"만 하는 이유는? 엔플라잉 인터뷰!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60989</link>
+            <guid>https://www.esquirekorea.co.kr/article/60989</guid>
+            <pubDate>Thu, 18 Nov 2021 10:23:22 GMT</pubDate>
+            <content:encoded><![CDATA[엔플라잉이 첫 정규 리패키지 앨범 'TURBULENCE' 활동 후 에스콰이어를 만났습니다. ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/99a052eb-35ff-487d-bd47-562d6996104f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘MC민지’ 정준하가 야무지게 먹은 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/60894</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 28 Oct 2021 10:22:48 GMT</pubDate>
             <content:encoded><![CDATA[“바로 이 맛 아입니까” 외치게 만드는 허경환의 인천, 통영, 부산, 서울 맛집을 소개한다....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/37ceab65-5378-411f-b892-f002ed9043b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칸예 웨스트가 학교를 설립한다고?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59626</link>
-            <guid>https://www.esquirekorea.co.kr/article/59626</guid>
-            <pubDate>Thu, 28 Oct 2021 10:22:48 GMT</pubDate>
-            <content:encoded><![CDATA['예(Ye)'로 이름을 바꾼 칸예 웨스트가 캘리포니아 시미 밸리에 지을 학교 이름은 '돈다 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/ae1e06e1-56fd-44e1-8650-e68a4e821d3e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
