@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 02:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 03:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벚꽃길 대신 단풍길 드라이브 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60928</link>
+            <guid>https://www.esquirekorea.co.kr/article/60928</guid>
+            <pubDate>Thu, 18 Nov 2021 03:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[국내 아름다운 단풍길을 맘껏 내달릴 수 있는 가을의 명소 단풍로드 4곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/448d41a5-9b8d-480c-9516-742cf853c6f7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포드, 커스텀 전기 트럭 ‘F-100 일루미네이터 콘셉트’ 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/60924</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 03 Nov 2021 10:21:28 GMT</pubDate>
             <content:encoded><![CDATA[우주의 복합 비지니스 파크를 꿈꾼다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/414b5e05-4fe9-446b-ae94-cb02094ce86d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거부하기 어려운 매력을 가진 하이브리드 3대]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60660</link>
-            <guid>https://www.esquirekorea.co.kr/article/60660</guid>
-            <pubDate>Wed, 03 Nov 2021 10:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[단숨에 전기차 시대로 돌입할 줄 알았는데 의외로 하이브리드가 선전하고 있다. 절대 전기모터를...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/1c4fa350-c4f3-4d2f-aed0-640af4177054.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

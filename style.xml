@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 02:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 03:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발렌시아가의 더 해커 프로젝트]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61185</link>
+            <guid>https://www.esquirekorea.co.kr/article/61185</guid>
+            <pubDate>Thu, 18 Nov 2021 03:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[발렌시아가이면서 발렌시아가가 아닌, 그래서 더 발렌시아가다운 더 해커 프로젝트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/b402a030-f4f1-45d1-bd17-21e935329e4c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스웨이드 슈즈의 계절]]></title>
             <link>https://www.esquirekorea.co.kr/article/61172</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 12 Nov 2021 15:19:52 GMT</pubDate>
             <content:encoded><![CDATA[모터스포츠에 영감을 받았다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/9c7b6291-a7a1-411a-8aa3-8236e099f88d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조던 x 헬리녹스 협업 ‘체어 원’ 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60925</link>
-            <guid>https://www.esquirekorea.co.kr/article/60925</guid>
-            <pubDate>Thu, 11 Nov 2021 10:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[조던 브랜드 최초 한국 브랜드와의 협업.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/04/cf35f5c7-6783-4479-9fd2-fa43033dadb8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
