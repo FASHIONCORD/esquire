@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 05:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 06:25:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4억 7천만 원에 낙찰된 애플의 첫 컴퓨터 '애플 1']]></title>
+            <link>https://www.esquirekorea.co.kr/article/61138</link>
+            <guid>https://www.esquirekorea.co.kr/article/61138</guid>
+            <pubDate>Thu, 18 Nov 2021 06:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[스티브 잡스가 직접 조립한 모델이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/d2a2a552-c35b-4cbf-a925-e5d9796983d9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 기업 ALI 테크놀로지 내년 '하늘을 나는 오토바이' 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61048</link>
+            <guid>https://www.esquirekorea.co.kr/article/61048</guid>
+            <pubDate>Thu, 18 Nov 2021 06:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[아파트 1~2층 높이까지 날고, 가격은 한화 약 8억1000만원이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/d50a2ad1-6454-42a4-824a-64c40087460e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[벚꽃길 대신 단풍길 드라이브 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/60928</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 04 Nov 2021 06:23:10 GMT</pubDate>
             <content:encoded><![CDATA[희소성으로 따지면 여느 슈퍼카 부럽지 않다. 돈은 물론 시간과 노력을 쏟아야 겨우 손에 넣을...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/9f777663-9af9-4c94-914a-3793f747708d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭉친 근육을 풀어주는 가장 확실한 마사지건]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59478</link>
-            <guid>https://www.esquirekorea.co.kr/article/59478</guid>
-            <pubDate>Thu, 04 Nov 2021 03:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;에스콰이어&gt;가 선정한 마사지건.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/3dd037c4-4806-4dd2-afdf-7332538bee9b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제프 베이조스, 우주정거장 '오르비탈 리프' 건설 계획 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60710</link>
-            <guid>https://www.esquirekorea.co.kr/article/60710</guid>
-            <pubDate>Wed, 03 Nov 2021 10:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[우주의 복합 비지니스 파크를 꿈꾼다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/414b5e05-4fe9-446b-ae94-cb02094ce86d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
