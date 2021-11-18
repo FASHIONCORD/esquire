@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 14:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 15:23:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 나만의 무드를 담은 트렌치코트]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60949</link>
+            <guid>https://www.esquirekorea.co.kr/article/60949</guid>
+            <pubDate>Thu, 18 Nov 2021 15:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[가을 멋쟁이의 필수템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/5843da15-7928-4f02-8d0d-23457246c5b1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 은은하게 섹시한 수트 코디]]></title>
             <link>https://www.esquirekorea.co.kr/article/60880</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 Nov 2021 08:25:00 GMT</pubDate>
             <content:encoded><![CDATA[위 아래 통일감이 주는 안정감.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/9c6a4907-ff82-48cd-a134-3057c5069ebf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 쌀쌀한 가을에 잘 어울리는 스타디움 점퍼]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59453</link>
-            <guid>https://www.esquirekorea.co.kr/article/59453</guid>
-            <pubDate>Thu, 28 Oct 2021 18:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[편안함과 멋이 공존하는 스포티즘.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/20/f1e965d9-2266-4ced-a85a-214a94db7410.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
