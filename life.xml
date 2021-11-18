@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 03:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 04:28:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<세서미 스트리트> 첫 한국계 캐릭터 '지영' 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61252</link>
+            <guid>https://www.esquirekorea.co.kr/article/61252</guid>
+            <pubDate>Thu, 18 Nov 2021 04:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[11월 25일 첫 등장할 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/7109694d-3261-4a04-ad21-d8f1eb063a92.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강원도 정선 가볼 만한 곳 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61251</link>
+            <guid>https://www.esquirekorea.co.kr/article/61251</guid>
+            <pubDate>Thu, 18 Nov 2021 04:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[건강한 여행을 계획한다면 필수로 알아야 할 맛집과 카페 그리고 치유의 수목원까지 정선 여행을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/f3b7d695-f776-4e8a-9403-fec79902b547.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[건축상 받은 제주 숙소와 카페 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/61243</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 17 Nov 2021 04:27:06 GMT</pubDate>
             <content:encoded><![CDATA[독특한 식감과 맛으로 미식가들 사이에서 소문난 감태 요리를 맛보러 떠나자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/05324807-c07b-43bf-8c3f-2837b0811cb4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수산시장에서 '호구' 잡히지 않고 좋은 횟감 고르는 법 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61177</link>
-            <guid>https://www.esquirekorea.co.kr/article/61177</guid>
-            <pubDate>Tue, 16 Nov 2021 06:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[무작정 상인들이 권하는 생선 대신 싱싱한 횟감을 고르는 방법을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/3238bd05-edee-4e5b-9fb0-06d46e5c4838.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬 바람이 부는 지금 먹기 좋은 조개찜 서울 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61165</link>
-            <guid>https://www.esquirekorea.co.kr/article/61165</guid>
-            <pubDate>Tue, 16 Nov 2021 03:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[조개찜 먹으러 바닷가까지 갈 필요 없다. 서울 곳곳에 숨은 조개찜 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/2b5d9978-d632-4613-ad88-4dea3d3a7576.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
