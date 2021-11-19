@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 03:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 04:27:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애니메이션 <귀멸의 칼날>이 그려진 항공기 등장]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61277</link>
+            <guid>https://www.esquirekorea.co.kr/article/61277</guid>
+            <pubDate>Fri, 19 Nov 2021 04:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[기내에서 26개의 에피소드 감상도 가능하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/a6e614ef-0a7a-468f-998a-286a5816e106.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 서울시 건축상 수상작 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61276</link>
+            <guid>https://www.esquirekorea.co.kr/article/61276</guid>
+            <pubDate>Fri, 19 Nov 2021 04:25:54 GMT</pubDate>
+            <content:encoded><![CDATA[올해로 39회를 맞은 ‘서울시 건축상’에는 학교부터 회사, 공공주택, 숲속 쉼터에 이르기까지...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/9f30f9ec-c14b-416b-9836-1af45c6b5239.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다시 만나는 궁, 경복궁 근처 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/61261</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 17 Nov 2021 09:20:40 GMT</pubDate>
             <content:encoded><![CDATA[올해로 17회를 맞은 제주 건축문화축제의 수상작, 제주의 숙소와 카페에서 누리는 특별한 시간...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/403ecce8-5fd1-45f5-8316-5f24c67dac96.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연신내 옆 구파발 가볼 만한 곳 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61223</link>
-            <guid>https://www.esquirekorea.co.kr/article/61223</guid>
-            <pubDate>Wed, 17 Nov 2021 09:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[서울 은평구에서 가장 시끌벅적한 곳이 연신내라면, 여유로우면서도 재미있는 공간들이 곳곳에 있...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/895e8bf5-55b7-450b-90da-070eaae093d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아 히비니에서 즐기는 스키 영상 보러가기]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61219</link>
-            <guid>https://www.esquirekorea.co.kr/article/61219</guid>
-            <pubDate>Wed, 17 Nov 2021 08:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[국내 스키장 시즌권이 오픈했다. 러시아의 최극단 지역 '히비니'에서 보드를 즐기는 인스타그래...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/e9a1674f-d80a-435a-80c3-55b1e7f22070.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

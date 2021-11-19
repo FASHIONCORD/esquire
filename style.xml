@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 03:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 04:27:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[커다란 코트를 가뿐하게 입는다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61210</link>
+            <guid>https://www.esquirekorea.co.kr/article/61210</guid>
+            <pubDate>Fri, 19 Nov 2021 04:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[커다란 코트를 가뿐하게 입는다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/4faf9e88-893e-4da6-88bb-27db46a01c9b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[발렌시아가의 더 해커 프로젝트]]></title>
             <link>https://www.esquirekorea.co.kr/article/61185</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 13 Nov 2021 15:19:17 GMT</pubDate>
             <content:encoded><![CDATA[눈으로 보이는 향기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/99de79c8-e318-4e21-8574-e8296f17f1b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휠라 x 헤리티지플로스 '나이트 드리프트'컬렉션 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60963</link>
-            <guid>https://www.esquirekorea.co.kr/article/60963</guid>
-            <pubDate>Fri, 12 Nov 2021 15:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[모터스포츠에 영감을 받았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/9c7b6291-a7a1-411a-8aa3-8236e099f88d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
