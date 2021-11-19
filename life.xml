@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 11:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 12:32:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[11월에 볼만한 전시 ‘이건 프란츠’와 근처 맛집 추천 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61317</link>
+            <guid>https://www.esquirekorea.co.kr/article/61317</guid>
+            <pubDate>Fri, 19 Nov 2021 12:31:13 GMT</pubDate>
+            <content:encoded><![CDATA[파운드리 서울 갤러리와 가까우면서 끝내 주게 맛있는 곳들만 모았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/09961b0e-f9a5-4c47-911c-36ffc8582648.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127, 트와이스, 이승철, 이문세 놓치지 말아야 할 대면 콘서트 7]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61303</link>
+            <guid>https://www.esquirekorea.co.kr/article/61303</guid>
+            <pubDate>Fri, 19 Nov 2021 12:31:13 GMT</pubDate>
+            <content:encoded><![CDATA[위드 코로나로 바뀐 이후 대형 뮤지션들의 대면 콘서트 소식이 줄을 잇는다. 톱 아이돌 NCT...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/c3d95c01-7b56-4f53-a8ee-d7323f669fa2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['해리 포터'의 주인공들이 다시 뭉친다]]></title>
             <link>https://www.esquirekorea.co.kr/article/61287</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 18 Nov 2021 06:24:16 GMT</pubDate>
             <content:encoded><![CDATA[먹을거리, 볼거리가 가득했던 경남에서의 여정은 힐링 그 자체였다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/0c202d47-e37d-4f4e-9e04-0ba862adb054.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<세서미 스트리트> 첫 한국계 캐릭터 '지영' 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61252</link>
-            <guid>https://www.esquirekorea.co.kr/article/61252</guid>
-            <pubDate>Thu, 18 Nov 2021 04:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[11월 25일 첫 등장할 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/7109694d-3261-4a04-ad21-d8f1eb063a92.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강원도 정선 가볼 만한 곳 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61251</link>
-            <guid>https://www.esquirekorea.co.kr/article/61251</guid>
-            <pubDate>Thu, 18 Nov 2021 04:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[건강한 여행을 계획한다면 필수로 알아야 할 맛집과 카페 그리고 치유의 수목원까지 정선 여행을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/f3b7d695-f776-4e8a-9403-fec79902b547.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

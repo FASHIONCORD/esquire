@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 11:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 12:32:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시 만나는 궁, 경복궁 근처 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61261</link>
+            <guid>https://www.esquirekorea.co.kr/article/61261</guid>
+            <pubDate>Fri, 19 Nov 2021 12:30:30 GMT</pubDate>
+            <content:encoded><![CDATA[경복궁이 활기를 되찾고 있다. 다시 궁의 아름다운 야경을 즐길 수 있고 특히 4년간의 복원을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/17fd499a-d15d-4d69-bb4f-a3ddbaa2a288.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오리온에서 선보이는 까만색 풍선껌 '와우 블랙레몬']]></title>
+            <link>https://www.esquirekorea.co.kr/article/61256</link>
+            <guid>https://www.esquirekorea.co.kr/article/61256</guid>
+            <pubDate>Fri, 19 Nov 2021 12:30:30 GMT</pubDate>
+            <content:encoded><![CDATA[상큼한 레몬 셔벗 맛.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/430444a5-d93b-47a0-b455-af8ab09446e5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강원도 정선 가볼 만한 곳 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/61251</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 17 Nov 2021 10:22:21 GMT</pubDate>
             <content:encoded><![CDATA[무작정 상인들이 권하는 생선 대신 싱싱한 횟감을 고르는 방법을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/3238bd05-edee-4e5b-9fb0-06d46e5c4838.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬 바람이 부는 지금 먹기 좋은 조개찜 서울 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61165</link>
-            <guid>https://www.esquirekorea.co.kr/article/61165</guid>
-            <pubDate>Wed, 17 Nov 2021 04:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[조개찜 먹으러 바닷가까지 갈 필요 없다. 서울 곳곳에 숨은 조개찜 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/2b5d9978-d632-4613-ad88-4dea3d3a7576.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 뜨는 용산공원 근처 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61162</link>
-            <guid>https://www.esquirekorea.co.kr/article/61162</guid>
-            <pubDate>Tue, 16 Nov 2021 07:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[공원만 들렀다 가기엔 아쉽다면 주목하자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/e8bed3b5-6ae7-4362-98cc-8a6c2e61badc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
