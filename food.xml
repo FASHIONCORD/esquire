@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 04:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 05:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강원도 정선 가볼 만한 곳 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61251</link>
+            <guid>https://www.esquirekorea.co.kr/article/61251</guid>
+            <pubDate>Fri, 19 Nov 2021 05:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[건강한 여행을 계획한다면 필수로 알아야 할 맛집과 카페 그리고 치유의 수목원까지 정선 여행을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/f3b7d695-f776-4e8a-9403-fec79902b547.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[건축상 받은 제주 숙소와 카페 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61243</link>
+            <guid>https://www.esquirekorea.co.kr/article/61243</guid>
+            <pubDate>Fri, 19 Nov 2021 05:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[올해로 17회를 맞은 제주 건축문화축제의 수상작, 제주의 숙소와 카페에서 누리는 특별한 시간...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/403ecce8-5fd1-45f5-8316-5f24c67dac96.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연신내 옆 구파발 가볼 만한 곳 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/61223</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 16 Nov 2021 07:20:02 GMT</pubDate>
             <content:encoded><![CDATA[공원만 들렀다 가기엔 아쉽다면 주목하자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/e8bed3b5-6ae7-4362-98cc-8a6c2e61badc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추운 겨울도 문제없는 야외 온천 리조트 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61150</link>
-            <guid>https://www.esquirekorea.co.kr/article/61150</guid>
-            <pubDate>Tue, 16 Nov 2021 03:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[가족은 물론 연인과 가기도 좋은 청송, 제천, 울진, 양양에 위치한 야외 온천을 즐길 수 있...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/8e548920-2978-45c1-9d43-80d45942774c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[변신의 귀재 윤계상 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61140</link>
-            <guid>https://www.esquirekorea.co.kr/article/61140</guid>
-            <pubDate>Mon, 15 Nov 2021 07:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[작품마다 다양한 변신을 거듭해 화제를 불러 모으는 윤계상. 그는 어떤 식당을 다녀갔을까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/6ce5eaa2-5e49-4a02-b3b7-e50e3fe2b4db.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
