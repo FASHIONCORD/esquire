@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 02:08:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 03:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연신내 옆 구파발 가볼 만한 곳 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61223</link>
+            <guid>https://www.esquirekorea.co.kr/article/61223</guid>
+            <pubDate>Fri, 19 Nov 2021 03:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[서울 은평구에서 가장 시끌벅적한 곳이 연신내라면, 여유로우면서도 재미있는 공간들이 곳곳에 있...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/895e8bf5-55b7-450b-90da-070eaae093d8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국순당과 해태아이스크림의 만남 '국순당 쌀 바밤바밤' 막걸리 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/61217</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 15 Nov 2021 07:20:08 GMT</pubDate>
             <content:encoded><![CDATA[작품마다 다양한 변신을 거듭해 화제를 불러 모으는 윤계상. 그는 어떤 식당을 다녀갔을까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/6ce5eaa2-5e49-4a02-b3b7-e50e3fe2b4db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[믿고 보는 식객 끝판왕 허영만의 단골 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61131</link>
-            <guid>https://www.esquirekorea.co.kr/article/61131</guid>
-            <pubDate>Sun, 14 Nov 2021 03:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[방송 프로그램 ‘식객 허영만의 백반기행’에 나오는 식당이 아니라 허영만 화백이 직접 다니는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/40aad290-d063-4995-8434-a6927fbe3224.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

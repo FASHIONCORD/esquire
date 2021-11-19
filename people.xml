@@ -4,17 +4,9 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 02:08:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 03:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[비투비 이민혁 신곡 '알아(GOOD NIGHT)' 라이브 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60990</link>
-            <guid>https://www.esquirekorea.co.kr/article/60990</guid>
-            <pubDate>Fri, 19 Nov 2021 02:07:12 GMT</pubDate>
-            <content:encoded><![CDATA[비투비 래퍼 이민혁의 노래 클라쓰(?) 제대로 보여주는 신곡 '알아(GOOD NIGHT)'...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/311e17b4-b4e1-450a-95ae-9f5823b08cd4.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[엔플라잉 팬들이 "아 진짜요"만 하는 이유는? 엔플라잉 인터뷰!]]></title>
             <link>https://www.esquirekorea.co.kr/article/60989</link>
@@ -70,6 +62,14 @@
             <pubDate>Wed, 03 Nov 2021 06:24:22 GMT</pubDate>
             <content:encoded><![CDATA[‘음이탈’이 날지언정 소리 높여 라이브를 한다. 팬들과 수시로 소통하며 하하하 웃는다. 맹렬...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/f0cad66f-92c5-4192-a85b-6758c2a8298b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개그맨 허경환의 맛집 리스트 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59630</link>
+            <guid>https://www.esquirekorea.co.kr/article/59630</guid>
+            <pubDate>Fri, 19 Nov 2021 03:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[“바로 이 맛 아입니까” 외치게 만드는 허경환의 인천, 통영, 부산, 서울 맛집을 소개한다....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/37ceab65-5378-411f-b892-f002ed9043b1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

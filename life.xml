@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 02:08:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 03:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시 만나는 궁, 경복궁 근처 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61261</link>
+            <guid>https://www.esquirekorea.co.kr/article/61261</guid>
+            <pubDate>Fri, 19 Nov 2021 03:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[경복궁이 활기를 되찾고 있다. 다시 궁의 아름다운 야경을 즐길 수 있고 특히 4년간의 복원을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/17fd499a-d15d-4d69-bb4f-a3ddbaa2a288.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브랜드 200주년 기념 소설 출간한 루이 비통]]></title>
             <link>https://www.esquirekorea.co.kr/article/61255</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 17 Nov 2021 08:23:56 GMT</pubDate>
             <content:encoded><![CDATA[국내 스키장 시즌권이 오픈했다. 러시아의 최극단 지역 '히비니'에서 보드를 즐기는 인스타그래...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/e9a1674f-d80a-435a-80c3-55b1e7f22070.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스와로브스키 아톰(Astro Boy) 피규어 개시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61218</link>
-            <guid>https://www.esquirekorea.co.kr/article/61218</guid>
-            <pubDate>Wed, 17 Nov 2021 08:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[머리부터 발끝까지 스와로브스키가 아닌 곳이 없다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/28d0edb1-b0bf-483a-8f1b-9655c80c226b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 02:08:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 03:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/9f777663-9af9-4c94-914a-3793f747708d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연신내 옆 구파발 가볼 만한 곳 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61223</link>
+            <guid>https://www.esquirekorea.co.kr/article/61223</guid>
+            <pubDate>Wed, 17 Nov 2021 09:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[서울 은평구에서 가장 시끌벅적한 곳이 연신내라면, 여유로우면서도 재미있는 공간들이 곳곳에 있...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/895e8bf5-55b7-450b-90da-070eaae093d8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국순당과 해태아이스크림의 만남 '국순당 쌀 바밤바밤' 막걸리 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61217</link>
             <guid>https://www.esquirekorea.co.kr/article/61217</guid>
@@ -1325,12 +1333,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/6ce5eaa2-5e49-4a02-b3b7-e50e3fe2b4db.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[믿고 보는 식객 끝판왕 허영만의 단골 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61131</link>
-            <guid>https://www.esquirekorea.co.kr/article/61131</guid>
-            <pubDate>Sat, 13 Nov 2021 04:26:25 GMT</pubDate>
-            <content:encoded><![CDATA[방송 프로그램 ‘식객 허영만의 백반기행’에 나오는 식당이 아니라 허영만 화백이 직접 다니는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/40aad290-d063-4995-8434-a6927fbe3224.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[다시 만나는 궁, 경복궁 근처 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61261</link>
+            <guid>https://www.esquirekorea.co.kr/article/61261</guid>
+            <pubDate>Fri, 19 Nov 2021 03:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[경복궁이 활기를 되찾고 있다. 다시 궁의 아름다운 야경을 즐길 수 있고 특히 4년간의 복원을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/17fd499a-d15d-4d69-bb4f-a3ddbaa2a288.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[브랜드 200주년 기념 소설 출간한 루이 비통 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1389,22 +1397,6 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/e9a1674f-d80a-435a-80c3-55b1e7f22070.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스와로브스키 아톰(Astro Boy) 피규어 개시 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61218</link>
-            <guid>https://www.esquirekorea.co.kr/article/61218</guid>
-            <pubDate>Wed, 17 Nov 2021 08:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[머리부터 발끝까지 스와로브스키가 아닌 곳이 없다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/28d0edb1-b0bf-483a-8f1b-9655c80c226b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비투비 이민혁 신곡 '알아(GOOD NIGHT)' 라이브 공개 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60990</link>
-            <guid>https://www.esquirekorea.co.kr/article/60990</guid>
-            <pubDate>Fri, 19 Nov 2021 02:07:12 GMT</pubDate>
-            <content:encoded><![CDATA[비투비 래퍼 이민혁의 노래 클라쓰(?) 제대로 보여주는 신곡 '알아(GOOD NIGHT)'...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/311e17b4-b4e1-450a-95ae-9f5823b08cd4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[엔플라잉 팬들이 "아 진짜요"만 하는 이유는? 엔플라잉 인터뷰! (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60989</link>
             <guid>https://www.esquirekorea.co.kr/article/60989</guid>
@@ -1459,6 +1451,14 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 03 Nov 2021 06:24:22 GMT</pubDate>
             <content:encoded><![CDATA[‘음이탈’이 날지언정 소리 높여 라이브를 한다. 팬들과 수시로 소통하며 하하하 웃는다. 맹렬...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/f0cad66f-92c5-4192-a85b-6758c2a8298b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개그맨 허경환의 맛집 리스트 5 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59630</link>
+            <guid>https://www.esquirekorea.co.kr/article/59630</guid>
+            <pubDate>Fri, 19 Nov 2021 03:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[“바로 이 맛 아입니까” 외치게 만드는 허경환의 인천, 통영, 부산, 서울 맛집을 소개한다....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/37ceab65-5378-411f-b892-f002ed9043b1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1인승 전기비행기 '젯슨 원' 출시 (에스콰이어 코리아 ─ 나우)]]></title>
