@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 19:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 20:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/94a455b1-794d-4f22-a395-8febd9e8a154.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[11/22은 '김치의 날' 각양각색 김치요리 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61326</link>
+            <guid>https://www.esquirekorea.co.kr/article/61326</guid>
+            <pubDate>Sat, 20 Nov 2021 14:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[11월 22일, 김치의 날을 맞아 준비했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/97db193e-9b51-4602-b4d2-c8de4a2bef08.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[겨울 추위를 달래줄 농심의 신제품 '사천백짬뽕' (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61322</link>
             <guid>https://www.esquirekorea.co.kr/article/61322</guid>
@@ -1323,14 +1331,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 17 Nov 2021 09:20:40 GMT</pubDate>
             <content:encoded><![CDATA[서울 은평구에서 가장 시끌벅적한 곳이 연신내라면, 여유로우면서도 재미있는 공간들이 곳곳에 있...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/895e8bf5-55b7-450b-90da-070eaae093d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국순당과 해태아이스크림의 만남 '국순당 쌀 바밤바밤' 막걸리 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61217</link>
-            <guid>https://www.esquirekorea.co.kr/article/61217</guid>
-            <pubDate>Wed, 17 Nov 2021 10:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[쌀 막걸리에 바밤바 아이스크림이 더해졌다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/3b344b63-89b8-4c0f-b1ca-39510e16f736.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[11/22은 '김치의 날' 각양각색 김치요리 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
