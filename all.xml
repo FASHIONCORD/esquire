@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 01:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 02:03:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1269,6 +1269,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/89394906-4675-4dbb-aa26-e7e82af5f040.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[11월에 볼만한 전시 ‘이건 프란츠’와 근처 맛집 추천 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61317</link>
+            <guid>https://www.esquirekorea.co.kr/article/61317</guid>
+            <pubDate>Fri, 19 Nov 2021 12:31:13 GMT</pubDate>
+            <content:encoded><![CDATA[파운드리 서울 갤러리와 가까우면서 끝내 주게 맛있는 곳들만 모았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/09961b0e-f9a5-4c47-911c-36ffc8582648.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[다시 만나는 궁, 경복궁 근처 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61261</link>
             <guid>https://www.esquirekorea.co.kr/article/61261</guid>
@@ -1325,12 +1333,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/05324807-c07b-43bf-8c3f-2837b0811cb4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[수산시장에서 '호구' 잡히지 않고 좋은 횟감 고르는 법 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61177</link>
-            <guid>https://www.esquirekorea.co.kr/article/61177</guid>
-            <pubDate>Tue, 16 Nov 2021 06:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[무작정 상인들이 권하는 생선 대신 싱싱한 횟감을 고르는 방법을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/3238bd05-edee-4e5b-9fb0-06d46e5c4838.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[잠실 롯데월드타워에 '샤넬 아이스링크' 오픈 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61321</link>
+            <guid>https://www.esquirekorea.co.kr/article/61321</guid>
+            <pubDate>Sat, 20 Nov 2021 02:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬의 N°5 테마로 아이스링크장이 꾸며진다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/02fdabe7-a335-4791-87c2-0fe9e22bd63f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[11월에 볼만한 전시 ‘이건 프란츠’와 근처 맛집 추천 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 18 Nov 2021 10:22:38 GMT</pubDate>
             <content:encoded><![CDATA[무려 320페이지로 구성되었다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/a2cbd0fb-b655-4bfe-ac83-cb2a654c99fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[통영, 합천, 산청까지 경남 힐링 여행 코스 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61253</link>
-            <guid>https://www.esquirekorea.co.kr/article/61253</guid>
-            <pubDate>Thu, 18 Nov 2021 06:24:16 GMT</pubDate>
-            <content:encoded><![CDATA[먹을거리, 볼거리가 가득했던 경남에서의 여정은 힐링 그 자체였다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/0c202d47-e37d-4f4e-9e04-0ba862adb054.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비투비 이민혁 신곡 '알아(GOOD NIGHT)' 라이브 공개 (에스콰이어 코리아 ─ 피플)]]></title>
