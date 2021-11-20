@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 04:28:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 05:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우주에 다녀온 IWC 시계 한화 약 4억 8000만원에 낙찰, 수익은 기부]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61216</link>
+            <guid>https://www.esquirekorea.co.kr/article/61216</guid>
+            <pubDate>Sat, 20 Nov 2021 05:18:17 GMT</pubDate>
+            <content:encoded><![CDATA['인스퍼레이션4' 미션으로 한화 약 2831억원이 모였다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/8bd30dce-33c9-42b1-9abb-311c710e9d17.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공간 활용을 극대화한 고래를 닮은 트레일러]]></title>
             <link>https://www.esquirekorea.co.kr/article/61214</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 12 Nov 2021 06:23:53 GMT</pubDate>
             <content:encoded><![CDATA[이전보다 더 쉽고 빨라지는 당근거래.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/94a455b1-794d-4f22-a395-8febd9e8a154.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼카보다 보기 어려운 차가 있다고? part.2]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60881</link>
-            <guid>https://www.esquirekorea.co.kr/article/60881</guid>
-            <pubDate>Tue, 09 Nov 2021 09:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[희소성으로 따지면 여느 슈퍼카 부럽지 않다. 돈은 물론 시간과 노력을 쏟아야 겨우 손에 넣을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/89394906-4675-4dbb-aa26-e7e82af5f040.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

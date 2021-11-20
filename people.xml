@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 04:28:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 05:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러블리즈 류수정 'OHAYO MY NIGHT' 라이브 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61116</link>
+            <guid>https://www.esquirekorea.co.kr/article/61116</guid>
+            <pubDate>Sat, 20 Nov 2021 05:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[류수정의 맑은 음색과 탄탄한 가창력이 그대로 묻어나는 디핵, 파테코 'OHAYO MY NIG...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/4c4fd88a-d4bb-4839-b6d6-0ae999fb5d18.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비투비 이민혁 신곡 '알아(GOOD NIGHT)' 라이브 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/60990</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 05 Nov 2021 18:24:28 GMT</pubDate>
             <content:encoded><![CDATA[‘음이탈’이 날지언정 소리 높여 라이브를 한다. 팬들과 수시로 소통하며 하하하 웃는다. 맹렬...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/17f661a5-e0a9-40a3-b282-96a522e0b01a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금은 스테이씨 시대!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59641</link>
-            <guid>https://www.esquirekorea.co.kr/article/59641</guid>
-            <pubDate>Wed, 03 Nov 2021 06:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[‘음이탈’이 날지언정 소리 높여 라이브를 한다. 팬들과 수시로 소통하며 하하하 웃는다. 맹렬...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/f0cad66f-92c5-4192-a85b-6758c2a8298b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
