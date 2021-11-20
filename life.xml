@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 13:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 14:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[11/22은 '김치의 날' 각양각색 김치요리 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61326</link>
+            <guid>https://www.esquirekorea.co.kr/article/61326</guid>
+            <pubDate>Sat, 20 Nov 2021 14:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[11월 22일, 김치의 날을 맞아 준비했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/97db193e-9b51-4602-b4d2-c8de4a2bef08.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[412억원에 낙찰된 프리다 칼로의 마지막 자화상]]></title>
             <link>https://www.esquirekorea.co.kr/article/61323</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 19 Nov 2021 04:25:54 GMT</pubDate>
             <content:encoded><![CDATA[올해로 39회를 맞은 ‘서울시 건축상’에는 학교부터 회사, 공공주택, 숲속 쉼터에 이르기까지...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/9f30f9ec-c14b-416b-9836-1af45c6b5239.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 만나는 궁, 경복궁 근처 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61261</link>
-            <guid>https://www.esquirekorea.co.kr/article/61261</guid>
-            <pubDate>Fri, 19 Nov 2021 03:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[경복궁이 활기를 되찾고 있다. 다시 궁의 아름다운 야경을 즐길 수 있고 특히 4년간의 복원을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/17fd499a-d15d-4d69-bb4f-a3ddbaa2a288.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
