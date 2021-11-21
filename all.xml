@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 14:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 15:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1525,6 +1525,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/db3ceb4b-ea19-4f58-ae71-beb6ea42c92d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Eshop] 캐주얼함의 진수, 가죽 재킷 (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61091</link>
+            <guid>https://www.esquirekorea.co.kr/article/61091</guid>
+            <pubDate>Sun, 21 Nov 2021 15:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[실내외에서도 패셔너블함은 놓칠 수 없으니까.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/e87b3643-feee-455b-a136-c938529a5bd4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Eshop] 나만의 무드를 담은 트렌치코트 (에스콰이어 코리아 ─ 이샵)]]></title>
             <link>https://www.esquirekorea.co.kr/article/60949</link>
             <guid>https://www.esquirekorea.co.kr/article/60949</guid>
@@ -1579,14 +1587,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 02 Nov 2021 15:24:04 GMT</pubDate>
             <content:encoded><![CDATA[편안하고 내추럴한 느낌의 짜임 니트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/8fa1d56c-e94a-4252-a462-cc731df2a033.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 한 번에 끝내는 가을 셋업 코디 (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59545</link>
-            <guid>https://www.esquirekorea.co.kr/article/59545</guid>
-            <pubDate>Tue, 02 Nov 2021 08:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[위 아래 통일감이 주는 안정감.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/22/9c6a4907-ff82-48cd-a134-3057c5069ebf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
