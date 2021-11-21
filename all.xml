@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 02:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 03:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1333,6 +1333,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/895e8bf5-55b7-450b-90da-070eaae093d8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[서울 야경 보기 좋은 인왕산과 근처 가볼 곳 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61336</link>
+            <guid>https://www.esquirekorea.co.kr/article/61336</guid>
+            <pubDate>Sun, 21 Nov 2021 03:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[정상까지 올라가지 않아도 근사한 야경을 볼 수 있다는 게 팩트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/8dbeb168-2d8d-429f-bdc3-ce22cafb3a7d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[11/22은 '김치의 날' 각양각색 김치요리 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61326</link>
             <guid>https://www.esquirekorea.co.kr/article/61326</guid>
@@ -1387,14 +1395,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 19 Nov 2021 04:25:54 GMT</pubDate>
             <content:encoded><![CDATA[기내에서 26개의 에피소드 감상도 가능하다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/a6e614ef-0a7a-468f-998a-286a5816e106.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 서울시 건축상 수상작 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61276</link>
-            <guid>https://www.esquirekorea.co.kr/article/61276</guid>
-            <pubDate>Fri, 19 Nov 2021 04:25:54 GMT</pubDate>
-            <content:encoded><![CDATA[올해로 39회를 맞은 ‘서울시 건축상’에는 학교부터 회사, 공공주택, 숲속 쉼터에 이르기까지...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/9f30f9ec-c14b-416b-9836-1af45c6b5239.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러블리즈 류수정 'OHAYO MY NIGHT' 라이브 공개 (에스콰이어 코리아 ─ 피플)]]></title>
