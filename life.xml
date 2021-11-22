@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 05:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 06:27:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과잉진료하는 치과에서 호구 잡히지 않는 법 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61354</link>
+            <guid>https://www.esquirekorea.co.kr/article/61354</guid>
+            <pubDate>Mon, 22 Nov 2021 06:25:01 GMT</pubDate>
+            <content:encoded><![CDATA[스케일링하러 갔다가 잇몸치료, 임플란트 등 치료를 제안받았다고? 아래와 같은 치과는 되도록이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/21/5473a960-021b-4cdc-9ac7-1392acb20a0e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사진 찍으러 가기 좋은 은하수 명소와 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/61348</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 20 Nov 2021 06:23:45 GMT</pubDate>
             <content:encoded><![CDATA[자신의 얼굴 위에 남편을 그린 이유는?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/46c68c5e-1839-4ba1-92cf-52755c0dd7b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠실 롯데월드타워에 '샤넬 아이스링크' 오픈]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61321</link>
-            <guid>https://www.esquirekorea.co.kr/article/61321</guid>
-            <pubDate>Sat, 20 Nov 2021 02:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬의 N°5 테마로 아이스링크장이 꾸며진다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/02fdabe7-a335-4791-87c2-0fe9e22bd63f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
