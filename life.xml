@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 06:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 07:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위드코로나 시대에 기대하는 요가 페스티벌]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61376</link>
+            <guid>https://www.esquirekorea.co.kr/article/61376</guid>
+            <pubDate>Mon, 22 Nov 2021 07:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[건강과 힐링 그리고 자유를 만끽할 수 있는 웰니스 축제]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/a2e0a213-7676-4e04-a0ea-4ba1bd606eee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연말 모임 하기 좋은 서울 베이징덕 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61355</link>
+            <guid>https://www.esquirekorea.co.kr/article/61355</guid>
+            <pubDate>Mon, 22 Nov 2021 07:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[연말 모임 장소로 추천하는 프라이빗 룸이 있는 서울의 베이징덕 맛집 네 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/21/d42ba630-9f66-4447-8faa-c89b21f6b895.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[과잉진료하는 치과에서 호구 잡히지 않는 법 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/61354</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 21 Nov 2021 03:21:29 GMT</pubDate>
             <content:encoded><![CDATA[정상까지 올라가지 않아도 근사한 야경을 볼 수 있다는 게 팩트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/8dbeb168-2d8d-429f-bdc3-ce22cafb3a7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11/22은 '김치의 날' 각양각색 김치요리 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61326</link>
-            <guid>https://www.esquirekorea.co.kr/article/61326</guid>
-            <pubDate>Sat, 20 Nov 2021 14:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[11월 22일, 김치의 날을 맞아 준비했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/97db193e-9b51-4602-b4d2-c8de4a2bef08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[412억원에 낙찰된 프리다 칼로의 마지막 자화상]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61323</link>
-            <guid>https://www.esquirekorea.co.kr/article/61323</guid>
-            <pubDate>Sat, 20 Nov 2021 06:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[자신의 얼굴 위에 남편을 그린 이유는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/46c68c5e-1839-4ba1-92cf-52755c0dd7b6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
