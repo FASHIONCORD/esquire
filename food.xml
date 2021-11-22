@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 04:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 05:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아늑함의 끝, 코타츠 카페 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61339</link>
+            <guid>https://www.esquirekorea.co.kr/article/61339</guid>
+            <pubDate>Mon, 22 Nov 2021 05:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[서울과 부여, 부산, 제주의 추운 겨울이면 생각나는 아늑하고 따뜻한 코타츠가 있는 카페 네 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/5d7f60ed-45d2-4e9d-84e7-c92d1d073394.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울 야경 보기 좋은 인왕산과 근처 가볼 곳 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/61336</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 19 Nov 2021 05:18:47 GMT</pubDate>
             <content:encoded><![CDATA[건강한 여행을 계획한다면 필수로 알아야 할 맛집과 카페 그리고 치유의 수목원까지 정선 여행을...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/f3b7d695-f776-4e8a-9403-fec79902b547.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건축상 받은 제주 숙소와 카페 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61243</link>
-            <guid>https://www.esquirekorea.co.kr/article/61243</guid>
-            <pubDate>Fri, 19 Nov 2021 05:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[올해로 17회를 맞은 제주 건축문화축제의 수상작, 제주의 숙소와 카페에서 누리는 특별한 시간...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/403ecce8-5fd1-45f5-8316-5f24c67dac96.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
