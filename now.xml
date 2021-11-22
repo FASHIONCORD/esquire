@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 03:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 04:28:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팔라스 x 반스 스케이트 하이 컬렉션]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60857</link>
+            <guid>https://www.esquirekorea.co.kr/article/60857</guid>
+            <pubDate>Mon, 22 Nov 2021 04:27:23 GMT</pubDate>
+            <content:encoded><![CDATA[버섯이 그려진 스케이트 하이 컬렉션?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/49867fbe-e69c-40ae-9085-9f5a19a5de5c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울시, '서울사진미술관' 착공]]></title>
+            <link>https://www.esquirekorea.co.kr/article/60856</link>
+            <guid>https://www.esquirekorea.co.kr/article/60856</guid>
+            <pubDate>Mon, 22 Nov 2021 04:27:23 GMT</pubDate>
+            <content:encoded><![CDATA[140여 년 한국의 사진사를 볼 수 있는 국내 최초의 공공 미술관이 탄생할 예정이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/6fe12602-de11-47c9-aec7-7ce5efb4695f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1인승 전기비행기 '젯슨 원' 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/59649</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 26 Oct 2021 02:37:38 GMT</pubDate>
             <content:encoded><![CDATA[Ctrl+C, Ctrl+V만을 위한 가장 작은 키보드가 공개됐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/05/2a7b129a-4646-4040-bd7d-b7b780d63a44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나사 AR 그래픽 소설 '퍼스트 우먼' 출간]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58856</link>
-            <guid>https://www.esquirekorea.co.kr/article/58856</guid>
-            <pubDate>Tue, 26 Oct 2021 02:37:38 GMT</pubDate>
-            <content:encoded><![CDATA[QR코드를 통해 달 탐사 우주선을 3D로 체험해볼 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/75554ac3-a850-47b3-b525-9544d3840060.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브루넬로 쿠치넬리 X 올리버 피플스 안경 컬렉션 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58855</link>
-            <guid>https://www.esquirekorea.co.kr/article/58855</guid>
-            <pubDate>Tue, 12 Oct 2021 05:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[이탈리아 건축과 고전 영화에서 영감을 받은 새로운 아이웨어가 탄생했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/28/db3ceb4b-ea19-4f58-ae71-beb6ea42c92d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
