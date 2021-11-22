@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 23:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 01:03:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[믿고 보는 식객 끝판왕 허영만의 단골 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61131</link>
+            <guid>https://www.esquirekorea.co.kr/article/61131</guid>
+            <pubDate>Mon, 22 Nov 2021 01:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[방송 프로그램 ‘식객 허영만의 백반기행’에 나오는 식당이 아니라 허영만 화백이 직접 다니는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/40aad290-d063-4995-8434-a6927fbe3224.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러블리즈 류수정 'OHAYO MY NIGHT' 라이브 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/61116</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 05 Nov 2021 19:18:46 GMT</pubDate>
             <content:encoded><![CDATA[알면 알수록 빠져든다? 넷플릭스 &lt;마이 네임&gt;으로 돌아온 매력적인 한소희에 대한 모든 것.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/b114283e-b4a8-482d-8de8-a92ac3b46f87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맹렬한 기세로 나아가는 스테이씨]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60649</link>
-            <guid>https://www.esquirekorea.co.kr/article/60649</guid>
-            <pubDate>Fri, 05 Nov 2021 18:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[‘음이탈’이 날지언정 소리 높여 라이브를 한다. 팬들과 수시로 소통하며 하하하 웃는다. 맹렬...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/26/17f661a5-e0a9-40a3-b282-96a522e0b01a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

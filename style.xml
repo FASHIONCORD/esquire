@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 23:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 01:03:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스와로브스키와 협업한 나이키 에어 포스 1 로우]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61213</link>
+            <guid>https://www.esquirekorea.co.kr/article/61213</guid>
+            <pubDate>Mon, 22 Nov 2021 00:59:44 GMT</pubDate>
+            <content:encoded><![CDATA[패널을 탈부착할 수 있는 드라이버도 함께 증정한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/0fdbad48-9b09-4d8c-b1db-12b56083ecac.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[커다란 코트를 가뿐하게 입는다]]></title>
             <link>https://www.esquirekorea.co.kr/article/61210</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 15 Nov 2021 02:02:35 GMT</pubDate>
             <content:encoded><![CDATA[이 계절에 입기 좋은 각양각색 니트 베스트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/fbc86543-f611-431d-8bc6-5096ab8f1c62.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[300여년의 역사를 담은 향기]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60986</link>
-            <guid>https://www.esquirekorea.co.kr/article/60986</guid>
-            <pubDate>Sat, 13 Nov 2021 15:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[눈으로 보이는 향기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/06/99de79c8-e318-4e21-8574-e8296f17f1b6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
