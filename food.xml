@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 08:28:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 09:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연어와 와인 페어링 박스 출시, 씨푸드프롬노르웨이와 위키드와이프 협업]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61346</link>
+            <guid>https://www.esquirekorea.co.kr/article/61346</guid>
+            <pubDate>Mon, 22 Nov 2021 09:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[노르웨이수산물위원회의 원산지 인증 브랜드 ‘씨푸드프롬노르웨이’와 와인솔루션플랫폼 ‘위키드와이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/20/5abe71f8-869d-459d-8443-397611176a7c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아늑함의 끝, 코타츠 카페 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/61339</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 19 Nov 2021 12:30:30 GMT</pubDate>
             <content:encoded><![CDATA[상큼한 레몬 셔벗 맛.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/430444a5-d93b-47a0-b455-af8ab09446e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강원도 정선 가볼 만한 곳 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61251</link>
-            <guid>https://www.esquirekorea.co.kr/article/61251</guid>
-            <pubDate>Fri, 19 Nov 2021 05:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[건강한 여행을 계획한다면 필수로 알아야 할 맛집과 카페 그리고 치유의 수목원까지 정선 여행을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/f3b7d695-f776-4e8a-9403-fec79902b547.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
