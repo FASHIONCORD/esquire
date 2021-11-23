@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 14:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 15:25:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 시크한 매력의 여자 수트 코디]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61124</link>
+            <guid>https://www.esquirekorea.co.kr/article/61124</guid>
+            <pubDate>Tue, 23 Nov 2021 15:25:20 GMT</pubDate>
+            <content:encoded><![CDATA[수트 코디에 캐주얼한 포인트 더하기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/d3a72bc8-e219-4689-b803-02a45afa5f3e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 캐주얼함의 진수, 가죽 재킷]]></title>
             <link>https://www.esquirekorea.co.kr/article/61091</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 04 Nov 2021 15:22:48 GMT</pubDate>
             <content:encoded><![CDATA[매치스패션의 옷을 입은 사진을 인스타그램에 업로드하기만 하면 끝.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/811d3f15-f5f9-4e25-af75-732cce90c069.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 뽐내기 좋은 계절의 니트 코디]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59602</link>
-            <guid>https://www.esquirekorea.co.kr/article/59602</guid>
-            <pubDate>Tue, 02 Nov 2021 15:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[편안하고 내추럴한 느낌의 짜임 니트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/8fa1d56c-e94a-4252-a462-cc731df2a033.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
