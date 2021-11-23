@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 02:07:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 03:23:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1421,6 +1421,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/5d7f60ed-45d2-4e9d-84e7-c92d1d073394.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NCT 127, 트와이스, 이승철, 이문세 놓치지 말아야 할 대면 콘서트 7 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61303</link>
+            <guid>https://www.esquirekorea.co.kr/article/61303</guid>
+            <pubDate>Tue, 23 Nov 2021 03:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[위드 코로나로 바뀐 이후 대형 뮤지션들의 대면 콘서트 소식이 줄을 잇는다. 톱 아이돌 NCT...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/c3d95c01-7b56-4f53-a8ee-d7323f669fa2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[변신의 귀재 윤계상 맛집 5 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61140</link>
             <guid>https://www.esquirekorea.co.kr/article/61140</guid>
@@ -1475,14 +1483,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 12 Nov 2021 04:26:54 GMT</pubDate>
             <content:encoded><![CDATA[신곡 ‘장예준 (張芮準)’과 ‘원효대사 2021 Remix’ 라이브를 에스콰이어에서 최초로 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/eb7c5e1c-aec1-4bb5-b942-3db1bac77308.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[볼수록 매력 있는 재능 갑부 안보현 맛집 4 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60745</link>
-            <guid>https://www.esquirekorea.co.kr/article/60745</guid>
-            <pubDate>Thu, 11 Nov 2021 11:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[바닷가 앞에서 먹는 조개구이부터 중독성 강한 돼지국밥까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/28/72c92c74-b0ed-470a-a511-5079e2b5082e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팔라스 x 반스 스케이트 하이 컬렉션 (에스콰이어 코리아 ─ 나우)]]></title>
