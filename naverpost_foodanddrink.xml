@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 22:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 23:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아늑함의 끝, 코타츠 카페 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32813071&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32813071&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Tue, 23 Nov 2021 23:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjNfOCAg/MDAxNjM3NjU0MDQ1MDI3.5VMrutLzwgRM7nCl_Yev5JV1fhVOycUJL4Bntf5-q4wg.o1clx-5uW7pqoSEK_Bx_6_CGmPA2v2BQxFZm0WtJpeMg.PNG/I_8jv9fOjrN6d8i3dknymeMxpizI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다시 만나는 궁, 경복궁 근처 맛집 5]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32788912&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 02 Oct 2021 12:26:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MzBfMzEg/MDAxNjMwMjU3NzI5NzU0.vYtSAIsIDpslzqaxypcKRXOhH02cvnK--NBQC6QRx00g.GUyZNcQBJEfhlrJKtzrDPQrDBzFEyX4BJtKhG8qJ6JIg.PNG/Iz8QfBadIq5YpEHcPyJFNOstWxt8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데백화점 동탄점 맛집 가이드북 11]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32263028&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32263028&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Sat, 02 Oct 2021 12:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MzBfMTY2/MDAxNjMwMjU3MzUyMzUw.8GAWVUiVhEz0pBZ_wscjG6wXcMNq60m_HyVd2qbHqVwg.kMO3ekzOpjaLXJN8MS9G6a027QDcjk_EfzM_bHG8zBIg.PNG/Ip0hVXZbbsdUpLeVK9FD5G0-qcjQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
