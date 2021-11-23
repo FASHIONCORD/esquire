@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 06:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 07:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사진 찍으러 가기 좋은 은하수 명소와 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61348</link>
+            <guid>https://www.esquirekorea.co.kr/article/61348</guid>
+            <pubDate>Tue, 23 Nov 2021 07:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[아름다운 은하수와 맛집이 있는 강원도와 영남의 명소 네 곳을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/20/9f7e14d0-0761-4f7d-a045-c91430c39549.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가상화폐 비트코인, 이더리움, 리플, 에이다로 결제 가능한 서울 식당 2]]></title>
             <link>https://www.esquirekorea.co.kr/article/61347</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 20 Nov 2021 02:01:35 GMT</pubDate>
             <content:encoded><![CDATA[파운드리 서울 갤러리와 가까우면서 끝내 주게 맛있는 곳들만 모았다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/09961b0e-f9a5-4c47-911c-36ffc8582648.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 만나는 궁, 경복궁 근처 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61261</link>
-            <guid>https://www.esquirekorea.co.kr/article/61261</guid>
-            <pubDate>Fri, 19 Nov 2021 12:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[경복궁이 활기를 되찾고 있다. 다시 궁의 아름다운 야경을 즐길 수 있고 특히 4년간의 복원을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/17fd499a-d15d-4d69-bb4f-a3ddbaa2a288.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
