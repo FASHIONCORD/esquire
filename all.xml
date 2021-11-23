@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 05:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 06:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1293,6 +1293,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/b5756f23-f2ae-4949-9c1b-1d44b6edf9d6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가상화폐 비트코인, 이더리움, 리플, 에이다로 결제 가능한 서울 식당 2 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61347</link>
+            <guid>https://www.esquirekorea.co.kr/article/61347</guid>
+            <pubDate>Mon, 22 Nov 2021 04:26:27 GMT</pubDate>
+            <content:encoded><![CDATA[약수 ‘치맛살’에서 고기를, 이태원 ‘더젤’에서 와인을 가상화폐로 이용할 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/8a0169a8-accc-4a35-b8a1-7a6a9bf2a17b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연어와 와인 페어링 박스 출시, 씨푸드프롬노르웨이와 위키드와이프 협업 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61346</link>
             <guid>https://www.esquirekorea.co.kr/article/61346</guid>
@@ -1347,14 +1355,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 19 Nov 2021 03:22:27 GMT</pubDate>
             <content:encoded><![CDATA[경복궁이 활기를 되찾고 있다. 다시 궁의 아름다운 야경을 즐길 수 있고 특히 4년간의 복원을...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/17fd499a-d15d-4d69-bb4f-a3ddbaa2a288.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오리온에서 선보이는 까만색 풍선껌 '와우 블랙레몬' (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61256</link>
-            <guid>https://www.esquirekorea.co.kr/article/61256</guid>
-            <pubDate>Fri, 19 Nov 2021 12:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[상큼한 레몬 셔벗 맛.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/430444a5-d93b-47a0-b455-af8ab09446e5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리스마스 시즌 한정 호텔 케이크 모음.ZIP (에스콰이어 코리아 ─ 라이프)]]></title>
