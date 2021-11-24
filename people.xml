@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 08:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 09:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원진아가 북한 소녀와 팜므파탈 연기를 동시에 했던 이유]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61325</link>
+            <guid>https://www.esquirekorea.co.kr/article/61325</guid>
+            <pubDate>Wed, 24 Nov 2021 09:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[배역들 뒤의 원진아. 그 사람이 이렇게 매력적인지 미처 몰랐다고 그녀에게 말했다. 본인 스스...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/f8947caa-6b44-4645-a5a0-57cd4fedbb4e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<지옥> 원진아의 실제 성격은 한마디로 '에너제틱'이다]]></title>
             <link>https://www.esquirekorea.co.kr/article/61324</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 18 Nov 2021 10:23:22 GMT</pubDate>
             <content:encoded><![CDATA[엔플라잉이 첫 정규 리패키지 앨범 'TURBULENCE' 활동 후 에스콰이어를 만났습니다. ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/99a052eb-35ff-487d-bd47-562d6996104f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘MC민지’ 정준하가 야무지게 먹은 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60894</link>
-            <guid>https://www.esquirekorea.co.kr/article/60894</guid>
-            <pubDate>Fri, 12 Nov 2021 07:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[식신 정준하를 따라가 고민 없이 야무지게 먹을 수 있는 서울, 충주, 부산 맛집을 소개한다....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/b3565cd4-d1a2-43e2-a799-a44082940f83.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

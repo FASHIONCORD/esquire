@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 08:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 09:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크리스마스 시즌 한정 호텔 케이크 모음.ZIP]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61377</link>
+            <guid>https://www.esquirekorea.co.kr/article/61377</guid>
+            <pubDate>Wed, 24 Nov 2021 09:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[이번 성탄절 케이크는 너로 정했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/0efa2547-5b44-46a4-8604-38b4e13b0f8d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연말 모임 하기 좋은 서울 베이징덕 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/61355</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 20 Nov 2021 20:20:36 GMT</pubDate>
             <content:encoded><![CDATA[11월 22일, 김치의 날을 맞아 준비했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/97db193e-9b51-4602-b4d2-c8de4a2bef08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울 추위를 달래줄 농심의 신제품 '사천백짬뽕']]></title>
-            <link>https://www.esquirekorea.co.kr/article/61322</link>
-            <guid>https://www.esquirekorea.co.kr/article/61322</guid>
-            <pubDate>Sat, 20 Nov 2021 05:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[국물까지 다 먹어도 345kcal.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/c2813a96-8650-4c33-ad8a-74af7dfa88b4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

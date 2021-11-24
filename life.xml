@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 08:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 09:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 3대 웹툰 '신노갓'을 공개한 넷플릭스]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61461</link>
+            <guid>https://www.esquirekorea.co.kr/article/61461</guid>
+            <pubDate>Wed, 24 Nov 2021 09:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[바로 오늘 공개된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/d1cf9865-6b1e-485c-9004-37b511c787b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고양이가 있는 술집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/61435</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 23 Nov 2021 07:20:24 GMT</pubDate>
             <content:encoded><![CDATA[경복궁 뜰은 누가 청소할까? 문화유산을 아끼는 이들의 이야기를 만나보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/b0513186-cde2-4066-9cf7-b667abeaec52.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스 시즌 한정 호텔 케이크 모음.ZIP]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61377</link>
-            <guid>https://www.esquirekorea.co.kr/article/61377</guid>
-            <pubDate>Mon, 22 Nov 2021 09:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[이번 성탄절 케이크는 너로 정했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/0efa2547-5b44-46a4-8604-38b4e13b0f8d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
