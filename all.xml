@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 12:33:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 13:28:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1293,6 +1293,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/d50a2ad1-6454-42a4-824a-64c40087460e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[고양이가 있는 술집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61435</link>
+            <guid>https://www.esquirekorea.co.kr/article/61435</guid>
+            <pubDate>Wed, 24 Nov 2021 08:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[맥주, 칵테일, 위스키까지! 고양이를 만날 수 있는 분위기 좋은 술집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/3da76180-7ee4-4ba4-8954-8f213d0433a4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오픈런 필수 디저트 카페 5 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61430</link>
             <guid>https://www.esquirekorea.co.kr/article/61430</guid>
@@ -1349,12 +1357,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/20/5abe71f8-869d-459d-8443-397611176a7c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아늑함의 끝, 코타츠 카페 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61339</link>
-            <guid>https://www.esquirekorea.co.kr/article/61339</guid>
-            <pubDate>Sun, 21 Nov 2021 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[서울과 부여, 부산, 제주의 추운 겨울이면 생각나는 아늑하고 따뜻한 코타츠가 있는 카페 네 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/5d7f60ed-45d2-4e9d-84e7-c92d1d073394.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NFT로 판매되는 래퍼 2Pac의 미공개 사진 모음 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61473</link>
+            <guid>https://www.esquirekorea.co.kr/article/61473</guid>
+            <pubDate>Wed, 24 Nov 2021 13:26:24 GMT</pubDate>
+            <content:encoded><![CDATA[데뷔 앨범 발매 파티에서 찍힌 사진들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/f9a26684-cd38-47f4-9cf9-d09cfeee26a5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스마트 TV 전용 앱을 출시한 틱톡 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1411,14 +1419,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 24 Nov 2021 06:24:30 GMT</pubDate>
             <content:encoded><![CDATA[정서가 머무는 공간을 만드는 사람에 대하여.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/514bfece-d64c-43f5-ae21-ee5c78f00065.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유품 처분 판매장에서 한화 약 3만 6000원에 산 그림이 한화로 약 595억원이라고? (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61388</link>
-            <guid>https://www.esquirekorea.co.kr/article/61388</guid>
-            <pubDate>Wed, 24 Nov 2021 05:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[굳이 따지자면 약 165만 배의 수익률이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/c4002345-fa02-4a27-aee6-90f3d9cd5102.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[원진아가 북한 소녀와 팜므파탈 연기를 동시에 했던 이유 (에스콰이어 코리아 ─ 피플)]]></title>

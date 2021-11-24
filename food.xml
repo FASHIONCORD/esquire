@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 12:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 13:28:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고양이가 있는 술집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61435</link>
+            <guid>https://www.esquirekorea.co.kr/article/61435</guid>
+            <pubDate>Wed, 24 Nov 2021 13:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[맥주, 칵테일, 위스키까지! 고양이를 만날 수 있는 분위기 좋은 술집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/3da76180-7ee4-4ba4-8954-8f213d0433a4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오픈런 필수 디저트 카페 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/61430</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 22 Nov 2021 09:20:48 GMT</pubDate>
             <content:encoded><![CDATA[노르웨이수산물위원회의 원산지 인증 브랜드 ‘씨푸드프롬노르웨이’와 와인솔루션플랫폼 ‘위키드와이...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/20/5abe71f8-869d-459d-8443-397611176a7c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아늑함의 끝, 코타츠 카페 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61339</link>
-            <guid>https://www.esquirekorea.co.kr/article/61339</guid>
-            <pubDate>Mon, 22 Nov 2021 05:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[서울과 부여, 부산, 제주의 추운 겨울이면 생각나는 아늑하고 따뜻한 코타츠가 있는 카페 네 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/5d7f60ed-45d2-4e9d-84e7-c92d1d073394.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

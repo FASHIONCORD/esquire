@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 12:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 13:28:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NFT로 판매되는 래퍼 2Pac의 미공개 사진 모음]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61473</link>
+            <guid>https://www.esquirekorea.co.kr/article/61473</guid>
+            <pubDate>Wed, 24 Nov 2021 13:26:24 GMT</pubDate>
+            <content:encoded><![CDATA[데뷔 앨범 발매 파티에서 찍힌 사진들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/f9a26684-cd38-47f4-9cf9-d09cfeee26a5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스마트 TV 전용 앱을 출시한 틱톡]]></title>
             <link>https://www.esquirekorea.co.kr/article/61466</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 24 Nov 2021 06:24:30 GMT</pubDate>
             <content:encoded><![CDATA[정서가 머무는 공간을 만드는 사람에 대하여.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/514bfece-d64c-43f5-ae21-ee5c78f00065.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유품 처분 판매장에서 한화 약 3만 6000원에 산 그림이 한화로 약 595억원이라고?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61388</link>
-            <guid>https://www.esquirekorea.co.kr/article/61388</guid>
-            <pubDate>Wed, 24 Nov 2021 05:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[굳이 따지자면 약 165만 배의 수익률이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/c4002345-fa02-4a27-aee6-90f3d9cd5102.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
