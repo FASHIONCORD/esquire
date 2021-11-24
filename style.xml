@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 04:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 05:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['갤럭시 워치4 · 버즈2 우영미 에디션' 한정 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61320</link>
+            <guid>https://www.esquirekorea.co.kr/article/61320</guid>
+            <pubDate>Wed, 24 Nov 2021 05:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[우영미 디자이너가 직접 제작에 참여했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/14268ba4-0e10-4115-8a63-8a5b44ea1ed2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포르쉐코리아가 선보인 '아트 따릉이']]></title>
             <link>https://www.esquirekorea.co.kr/article/61275</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 17 Nov 2021 09:18:53 GMT</pubDate>
             <content:encoded><![CDATA[스웨이드 슈즈를 신는 11월.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/34829518-5e2f-41af-b494-ebb67cbe07b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올겨울엔 이런 장갑들]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61154</link>
-            <guid>https://www.esquirekorea.co.kr/article/61154</guid>
-            <pubDate>Tue, 16 Nov 2021 15:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[장갑의 따뜻한 변주.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/13/1a7e2086-24ed-4d7d-b84f-e18ff790cb03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
