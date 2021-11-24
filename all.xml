@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 07:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 08:25:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1357,6 +1357,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/c2813a96-8650-4c33-ad8a-74af7dfa88b4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[고양이가 있는 술집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61435</link>
+            <guid>https://www.esquirekorea.co.kr/article/61435</guid>
+            <pubDate>Wed, 24 Nov 2021 08:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[맥주, 칵테일, 위스키까지! 고양이를 만날 수 있는 분위기 좋은 술집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/3da76180-7ee4-4ba4-8954-8f213d0433a4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오픈런 필수 디저트 카페 5 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61430</link>
             <guid>https://www.esquirekorea.co.kr/article/61430</guid>
@@ -1411,14 +1419,6 @@ The New MINI Countryman과 일상에
             <pubDate>Mon, 22 Nov 2021 09:21:04 GMT</pubDate>
             <content:encoded><![CDATA[이번 성탄절 케이크는 너로 정했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/0efa2547-5b44-46a4-8604-38b4e13b0f8d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위드코로나 시대에 기대하는 요가 페스티벌 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61376</link>
-            <guid>https://www.esquirekorea.co.kr/article/61376</guid>
-            <pubDate>Mon, 22 Nov 2021 07:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[건강과 힐링 그리고 자유를 만끽할 수 있는 웰니스 축제]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/a2e0a213-7676-4e04-a0ea-4ba1bd606eee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<지옥> 원진아의 실제 성격은 한마디로 '에너제틱'이다 (에스콰이어 코리아 ─ 피플)]]></title>
