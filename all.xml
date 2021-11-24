@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 09:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 10:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1293,6 +1293,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/d50a2ad1-6454-42a4-824a-64c40087460e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오픈런 필수 디저트 카페 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61430</link>
+            <guid>https://www.esquirekorea.co.kr/article/61430</guid>
+            <pubDate>Wed, 24 Nov 2021 07:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[오픈하자 마자 달려가야 하는 성수, 연남, 충무로, 대치동의 독특한 콘셉트 카페.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/bf762a24-a1c5-4ea6-88a1-d8950c15710e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[달동네 아닌 맛동네! 성북동 북정마을 맛집 여행 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61397</link>
+            <guid>https://www.esquirekorea.co.kr/article/61397</guid>
+            <pubDate>Wed, 24 Nov 2021 06:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[서울 같지 않은 포근한 동네 북정마을 한 바퀴 둘러보고 배도 든든히 채워주고 오자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/999c9456-6e65-4a26-9473-d8db1de2c102.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[크리스마스 시즌 한정 호텔 케이크 모음.ZIP (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61377</link>
             <guid>https://www.esquirekorea.co.kr/article/61377</guid>
@@ -1341,20 +1357,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/5d7f60ed-45d2-4e9d-84e7-c92d1d073394.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울 야경 보기 좋은 인왕산과 근처 가볼 곳 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61336</link>
-            <guid>https://www.esquirekorea.co.kr/article/61336</guid>
-            <pubDate>Sun, 21 Nov 2021 03:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[정상까지 올라가지 않아도 근사한 야경을 볼 수 있다는 게 팩트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/8dbeb168-2d8d-429f-bdc3-ce22cafb3a7d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[스마트 TV 전용 앱을 출시한 틱톡 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61466</link>
+            <guid>https://www.esquirekorea.co.kr/article/61466</guid>
+            <pubDate>Wed, 24 Nov 2021 10:22:34 GMT</pubDate>
+            <content:encoded><![CDATA['포유'기능과 팔로잉 피드를 대형 스크린에서 즐길 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/1e095cec-0a64-4eb7-b9d9-5e7c75a57fe9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[11/22은 '김치의 날' 각양각색 김치요리 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61326</link>
-            <guid>https://www.esquirekorea.co.kr/article/61326</guid>
-            <pubDate>Sat, 20 Nov 2021 14:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[11월 22일, 김치의 날을 맞아 준비했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/97db193e-9b51-4602-b4d2-c8de4a2bef08.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[고고학자들이 발견한 가장 오래된 조개 구슬 보석 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61464</link>
+            <guid>https://www.esquirekorea.co.kr/article/61464</guid>
+            <pubDate>Wed, 24 Nov 2021 10:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[인류 역사상 가장 오래된 장신구.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/b08bb40f-ca78-44c7-8948-e80f4f363f27.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버 3대 웹툰 '신노갓'을 공개한 넷플릭스 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1403,22 +1419,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 24 Nov 2021 05:19:43 GMT</pubDate>
             <content:encoded><![CDATA[굳이 따지자면 약 165만 배의 수익률이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/c4002345-fa02-4a27-aee6-90f3d9cd5102.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경북 포항에 오픈한 국내 첫 체험형 조형물 '스페이스워크' (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61386</link>
-            <guid>https://www.esquirekorea.co.kr/article/61386</guid>
-            <pubDate>Tue, 23 Nov 2021 07:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[총 길이 333m로 진도 6.5의 지진에도 견딜 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/48b2847a-3744-4dd1-8daa-5135f20b82d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재단 아름지기가 20주년을 맞아 출간한 책 <커넥팅(CONNECTING)> (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61378</link>
-            <guid>https://www.esquirekorea.co.kr/article/61378</guid>
-            <pubDate>Tue, 23 Nov 2021 07:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[경복궁 뜰은 누가 청소할까? 문화유산을 아끼는 이들의 이야기를 만나보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/b0513186-cde2-4066-9cf7-b667abeaec52.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[원진아가 북한 소녀와 팜므파탈 연기를 동시에 했던 이유 (에스콰이어 코리아 ─ 피플)]]></title>

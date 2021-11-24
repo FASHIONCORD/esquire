@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 09:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 10:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스마트 TV 전용 앱을 출시한 틱톡]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61466</link>
+            <guid>https://www.esquirekorea.co.kr/article/61466</guid>
+            <pubDate>Wed, 24 Nov 2021 10:22:34 GMT</pubDate>
+            <content:encoded><![CDATA['포유'기능과 팔로잉 피드를 대형 스크린에서 즐길 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/1e095cec-0a64-4eb7-b9d9-5e7c75a57fe9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고고학자들이 발견한 가장 오래된 조개 구슬 보석]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61464</link>
+            <guid>https://www.esquirekorea.co.kr/article/61464</guid>
+            <pubDate>Wed, 24 Nov 2021 10:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[인류 역사상 가장 오래된 장신구.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/b08bb40f-ca78-44c7-8948-e80f4f363f27.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버 3대 웹툰 '신노갓'을 공개한 넷플릭스]]></title>
             <link>https://www.esquirekorea.co.kr/article/61461</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 24 Nov 2021 05:19:43 GMT</pubDate>
             <content:encoded><![CDATA[굳이 따지자면 약 165만 배의 수익률이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/c4002345-fa02-4a27-aee6-90f3d9cd5102.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경북 포항에 오픈한 국내 첫 체험형 조형물 '스페이스워크']]></title>
-            <link>https://www.esquirekorea.co.kr/article/61386</link>
-            <guid>https://www.esquirekorea.co.kr/article/61386</guid>
-            <pubDate>Tue, 23 Nov 2021 07:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[총 길이 333m로 진도 6.5의 지진에도 견딜 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/48b2847a-3744-4dd1-8daa-5135f20b82d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재단 아름지기가 20주년을 맞아 출간한 책 <커넥팅(CONNECTING)>]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61378</link>
-            <guid>https://www.esquirekorea.co.kr/article/61378</guid>
-            <pubDate>Tue, 23 Nov 2021 07:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[경복궁 뜰은 누가 청소할까? 문화유산을 아끼는 이들의 이야기를 만나보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/b0513186-cde2-4066-9cf7-b667abeaec52.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
