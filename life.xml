@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 06:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 07:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오픈런 필수 디저트 카페 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61430</link>
+            <guid>https://www.esquirekorea.co.kr/article/61430</guid>
+            <pubDate>Wed, 24 Nov 2021 07:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[오픈하자 마자 달려가야 하는 성수, 연남, 충무로, 대치동의 독특한 콘셉트 카페.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/bf762a24-a1c5-4ea6-88a1-d8950c15710e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[달동네 아닌 맛동네! 성북동 북정마을 맛집 여행 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/61397</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 22 Nov 2021 07:20:43 GMT</pubDate>
             <content:encoded><![CDATA[건강과 힐링 그리고 자유를 만끽할 수 있는 웰니스 축제]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/a2e0a213-7676-4e04-a0ea-4ba1bd606eee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말 모임 하기 좋은 서울 베이징덕 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61355</link>
-            <guid>https://www.esquirekorea.co.kr/article/61355</guid>
-            <pubDate>Mon, 22 Nov 2021 07:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[연말 모임 장소로 추천하는 프라이빗 룸이 있는 서울의 베이징덕 맛집 네 곳.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/21/d42ba630-9f66-4447-8faa-c89b21f6b895.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
