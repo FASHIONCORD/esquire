@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 05:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 06:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[달동네 아닌 맛동네! 성북동 북정마을 맛집 여행 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61397</link>
+            <guid>https://www.esquirekorea.co.kr/article/61397</guid>
+            <pubDate>Wed, 24 Nov 2021 06:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[서울 같지 않은 포근한 동네 북정마을 한 바퀴 둘러보고 배도 든든히 채워주고 오자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/999c9456-6e65-4a26-9473-d8db1de2c102.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공간을 만드는 사람의 에티튜드 (attitude)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61391</link>
+            <guid>https://www.esquirekorea.co.kr/article/61391</guid>
+            <pubDate>Wed, 24 Nov 2021 06:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[정서가 머무는 공간을 만드는 사람에 대하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/514bfece-d64c-43f5-ae21-ee5c78f00065.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유품 처분 판매장에서 한화 약 3만 6000원에 산 그림이 한화로 약 595억원이라고?]]></title>
             <link>https://www.esquirekorea.co.kr/article/61388</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 22 Nov 2021 07:20:43 GMT</pubDate>
             <content:encoded><![CDATA[연말 모임 장소로 추천하는 프라이빗 룸이 있는 서울의 베이징덕 맛집 네 곳.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/21/d42ba630-9f66-4447-8faa-c89b21f6b895.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과잉진료하는 치과에서 호구 잡히지 않는 법 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61354</link>
-            <guid>https://www.esquirekorea.co.kr/article/61354</guid>
-            <pubDate>Mon, 22 Nov 2021 06:25:01 GMT</pubDate>
-            <content:encoded><![CDATA[스케일링하러 갔다가 잇몸치료, 임플란트 등 치료를 제안받았다고? 아래와 같은 치과는 되도록이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/21/5473a960-021b-4cdc-9ac7-1392acb20a0e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사진 찍으러 가기 좋은 은하수 명소와 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61348</link>
-            <guid>https://www.esquirekorea.co.kr/article/61348</guid>
-            <pubDate>Mon, 22 Nov 2021 04:26:27 GMT</pubDate>
-            <content:encoded><![CDATA[아름다운 은하수와 맛집이 있는 강원도와 영남의 명소 네 곳을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/20/9f7e14d0-0761-4f7d-a045-c91430c39549.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
