@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 14:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 15:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코앞으로 다가온 2021 연말 콘서트 기대작 6]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61475</link>
+            <guid>https://www.esquirekorea.co.kr/article/61475</guid>
+            <pubDate>Wed, 24 Nov 2021 15:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[한 해 동안 고생한 우리에게 주는 선물 같은 뮤지컬, 클래식, 발레 공연들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/6f4bf9f2-8387-4b67-9de5-7daf85c49de3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NFT로 판매되는 래퍼 2Pac의 미공개 사진 모음]]></title>
             <link>https://www.esquirekorea.co.kr/article/61473</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 24 Nov 2021 06:24:30 GMT</pubDate>
             <content:encoded><![CDATA[서울 같지 않은 포근한 동네 북정마을 한 바퀴 둘러보고 배도 든든히 채워주고 오자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/999c9456-6e65-4a26-9473-d8db1de2c102.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공간을 만드는 사람의 에티튜드 (attitude)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61391</link>
-            <guid>https://www.esquirekorea.co.kr/article/61391</guid>
-            <pubDate>Wed, 24 Nov 2021 06:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[정서가 머무는 공간을 만드는 사람에 대하여.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/514bfece-d64c-43f5-ae21-ee5c78f00065.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
