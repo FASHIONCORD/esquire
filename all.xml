@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 02:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 03:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1101,6 +1101,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[배우 이상엽의 요즘 향수 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61296</link>
+            <guid>https://www.esquirekorea.co.kr/article/61296</guid>
+            <pubDate>Thu, 25 Nov 2021 03:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[존 바바토스 아티산과 함께 한 배우 이상엽의 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/e6a186d1-cc70-4c3c-a7a2-6c43885005ea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['갤럭시 워치4 · 버즈2 우영미 에디션' 한정 출시 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61320</link>
             <guid>https://www.esquirekorea.co.kr/article/61320</guid>
@@ -1155,14 +1163,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 18 Nov 2021 03:19:48 GMT</pubDate>
             <content:encoded><![CDATA[발렌시아가이면서 발렌시아가가 아닌, 그래서 더 발렌시아가다운 더 해커 프로젝트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/b402a030-f4f1-45d1-bd17-21e935329e4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스웨이드 슈즈의 계절 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61172</link>
-            <guid>https://www.esquirekorea.co.kr/article/61172</guid>
-            <pubDate>Wed, 17 Nov 2021 09:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[스웨이드 슈즈를 신는 11월.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/34829518-5e2f-41af-b494-ebb67cbe07b8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시계의 얼굴 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1293,6 +1293,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/d50a2ad1-6454-42a4-824a-64c40087460e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<지옥>으로 새롭게 돌아온 유아인 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61483</link>
+            <guid>https://www.esquirekorea.co.kr/article/61483</guid>
+            <pubDate>Thu, 25 Nov 2021 03:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[육해공 가리지 않고 모조리 섭렵했다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/db402724-a011-42a0-8660-cf34d4127fca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크루그 2008년의 창조물을 들다 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61226</link>
+            <guid>https://www.esquirekorea.co.kr/article/61226</guid>
+            <pubDate>Thu, 25 Nov 2021 03:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[크루그에서 ‘2008년의 창조물’ 샴페인 세트를 출시했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/6a96c2fc-0c55-4f7c-9b15-88a8b2d2db2b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[고양이가 있는 술집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61435</link>
             <guid>https://www.esquirekorea.co.kr/article/61435</guid>
@@ -1341,20 +1357,36 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/20/9f7e14d0-0761-4f7d-a045-c91430c39549.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가상화폐 비트코인, 이더리움, 리플, 에이다로 결제 가능한 서울 식당 2 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61347</link>
-            <guid>https://www.esquirekorea.co.kr/article/61347</guid>
-            <pubDate>Mon, 22 Nov 2021 04:26:27 GMT</pubDate>
-            <content:encoded><![CDATA[약수 ‘치맛살’에서 고기를, 이태원 ‘더젤’에서 와인을 가상화폐로 이용할 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/8a0169a8-accc-4a35-b8a1-7a6a9bf2a17b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[서울 근교 신상 리버뷰 카페 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61489</link>
+            <guid>https://www.esquirekorea.co.kr/article/61489</guid>
+            <pubDate>Thu, 25 Nov 2021 03:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[드라이브 겸 다녀오기 좋은 양평과 가평의 탁 트인 리버뷰를 자랑하는 신상 카페 네 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/cdb8ad41-e9c2-4054-8a33-9f431c5e2baa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연어와 와인 페어링 박스 출시, 씨푸드프롬노르웨이와 위키드와이프 협업 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61346</link>
-            <guid>https://www.esquirekorea.co.kr/article/61346</guid>
-            <pubDate>Mon, 22 Nov 2021 04:26:27 GMT</pubDate>
-            <content:encoded><![CDATA[노르웨이수산물위원회의 원산지 인증 브랜드 ‘씨푸드프롬노르웨이’와 와인솔루션플랫폼 ‘위키드와이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/20/5abe71f8-869d-459d-8443-397611176a7c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[서울시립미술관 올해 마지막 전시 보고 서소문 가볼 만한 곳 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61486</link>
+            <guid>https://www.esquirekorea.co.kr/article/61486</guid>
+            <pubDate>Thu, 25 Nov 2021 03:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[서울시립미술관에서 올해 마지막 전시 ‘경로를 재탐색합니다’, ‘자연스러운 인간’을 오픈한다....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/eb20cd15-f8e1-4794-9f84-983bb71670e8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 붕어빵 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61485</link>
+            <guid>https://www.esquirekorea.co.kr/article/61485</guid>
+            <pubDate>Thu, 25 Nov 2021 03:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[광장시장과 이대, 종로 3가, 성신여대의 먼 길을 굳이 찾아가서 맛봐야 할 붕어빵 맛집 네 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/ba7c409f-4087-4b12-b9c3-913cd20e9ee1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<지옥>으로 새롭게 돌아온 유아인 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61483</link>
+            <guid>https://www.esquirekorea.co.kr/article/61483</guid>
+            <pubDate>Thu, 25 Nov 2021 03:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[육해공 가리지 않고 모조리 섭렵했다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/db402724-a011-42a0-8660-cf34d4127fca.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코앞으로 다가온 2021 연말 콘서트 기대작 6 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1387,38 +1419,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 24 Nov 2021 10:22:34 GMT</pubDate>
             <content:encoded><![CDATA[인류 역사상 가장 오래된 장신구.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/b08bb40f-ca78-44c7-8948-e80f4f363f27.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 3대 웹툰 '신노갓'을 공개한 넷플릭스 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61461</link>
-            <guid>https://www.esquirekorea.co.kr/article/61461</guid>
-            <pubDate>Wed, 24 Nov 2021 09:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[바로 오늘 공개된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/d1cf9865-6b1e-485c-9004-37b511c787b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고양이가 있는 술집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61435</link>
-            <guid>https://www.esquirekorea.co.kr/article/61435</guid>
-            <pubDate>Wed, 24 Nov 2021 08:24:25 GMT</pubDate>
-            <content:encoded><![CDATA[맥주, 칵테일, 위스키까지! 고양이를 만날 수 있는 분위기 좋은 술집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/3da76180-7ee4-4ba4-8954-8f213d0433a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈런 필수 디저트 카페 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61430</link>
-            <guid>https://www.esquirekorea.co.kr/article/61430</guid>
-            <pubDate>Wed, 24 Nov 2021 07:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[오픈하자 마자 달려가야 하는 성수, 연남, 충무로, 대치동의 독특한 콘셉트 카페.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/bf762a24-a1c5-4ea6-88a1-d8950c15710e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달동네 아닌 맛동네! 성북동 북정마을 맛집 여행 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61397</link>
-            <guid>https://www.esquirekorea.co.kr/article/61397</guid>
-            <pubDate>Wed, 24 Nov 2021 06:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[서울 같지 않은 포근한 동네 북정마을 한 바퀴 둘러보고 배도 든든히 채워주고 오자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/999c9456-6e65-4a26-9473-d8db1de2c102.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[원진아가 북한 소녀와 팜므파탈 연기를 동시에 했던 이유 (에스콰이어 코리아 ─ 피플)]]></title>

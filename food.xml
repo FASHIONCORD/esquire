@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 02:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 03:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<지옥>으로 새롭게 돌아온 유아인 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61483</link>
+            <guid>https://www.esquirekorea.co.kr/article/61483</guid>
+            <pubDate>Thu, 25 Nov 2021 03:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[육해공 가리지 않고 모조리 섭렵했다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/db402724-a011-42a0-8660-cf34d4127fca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크루그 2008년의 창조물을 들다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61226</link>
+            <guid>https://www.esquirekorea.co.kr/article/61226</guid>
+            <pubDate>Thu, 25 Nov 2021 03:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[크루그에서 ‘2008년의 창조물’ 샴페인 세트를 출시했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/6a96c2fc-0c55-4f7c-9b15-88a8b2d2db2b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고양이가 있는 술집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/61435</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 23 Nov 2021 07:20:11 GMT</pubDate>
             <content:encoded><![CDATA[아름다운 은하수와 맛집이 있는 강원도와 영남의 명소 네 곳을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/20/9f7e14d0-0761-4f7d-a045-c91430c39549.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가상화폐 비트코인, 이더리움, 리플, 에이다로 결제 가능한 서울 식당 2]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61347</link>
-            <guid>https://www.esquirekorea.co.kr/article/61347</guid>
-            <pubDate>Tue, 23 Nov 2021 06:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[약수 ‘치맛살’에서 고기를, 이태원 ‘더젤’에서 와인을 가상화폐로 이용할 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/8a0169a8-accc-4a35-b8a1-7a6a9bf2a17b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연어와 와인 페어링 박스 출시, 씨푸드프롬노르웨이와 위키드와이프 협업]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61346</link>
-            <guid>https://www.esquirekorea.co.kr/article/61346</guid>
-            <pubDate>Mon, 22 Nov 2021 09:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[노르웨이수산물위원회의 원산지 인증 브랜드 ‘씨푸드프롬노르웨이’와 와인솔루션플랫폼 ‘위키드와이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/20/5abe71f8-869d-459d-8443-397611176a7c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 02:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 03:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 이상엽의 요즘 향수]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61296</link>
+            <guid>https://www.esquirekorea.co.kr/article/61296</guid>
+            <pubDate>Thu, 25 Nov 2021 03:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[존 바바토스 아티산과 함께 한 배우 이상엽의 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/e6a186d1-cc70-4c3c-a7a2-6c43885005ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['갤럭시 워치4 · 버즈2 우영미 에디션' 한정 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/61320</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 18 Nov 2021 03:19:48 GMT</pubDate>
             <content:encoded><![CDATA[발렌시아가이면서 발렌시아가가 아닌, 그래서 더 발렌시아가다운 더 해커 프로젝트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/b402a030-f4f1-45d1-bd17-21e935329e4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스웨이드 슈즈의 계절]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61172</link>
-            <guid>https://www.esquirekorea.co.kr/article/61172</guid>
-            <pubDate>Wed, 17 Nov 2021 09:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[스웨이드 슈즈를 신는 11월.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/34829518-5e2f-41af-b494-ebb67cbe07b8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
