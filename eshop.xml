@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 09:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 10:26:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 찬바람 불 땐 카디건]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61180</link>
+            <guid>https://www.esquirekorea.co.kr/article/61180</guid>
+            <pubDate>Thu, 25 Nov 2021 10:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[없던 분위기도 만들어주는 카디건 코디.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/612a647e-2172-44a5-a604-c2afda0cf662.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 시크한 매력의 여자 수트 코디]]></title>
             <link>https://www.esquirekorea.co.kr/article/61124</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 10 Nov 2021 16:33:03 GMT</pubDate>
             <content:encoded><![CDATA[깔끔한 컬러 매치로 완성한 간절기 코디.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/27/28662703-5119-49bd-9437-d4b7d93e876c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[노다웃TV] 당신도 패션 화보 주인공이 될 수 있다! #매치스패션오디션]]></title>
-            <link>https://www.esquirekorea.co.kr/article/59623</link>
-            <guid>https://www.esquirekorea.co.kr/article/59623</guid>
-            <pubDate>Thu, 04 Nov 2021 15:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[매치스패션의 옷을 입은 사진을 인스타그램에 업로드하기만 하면 끝.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/25/811d3f15-f5f9-4e25-af75-732cce90c069.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
