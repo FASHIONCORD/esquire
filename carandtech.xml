@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 06:26:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 07:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가상화폐 비트코인, 이더리움, 리플, 에이다로 결제 가능한 서울 식당 2]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61347</link>
+            <guid>https://www.esquirekorea.co.kr/article/61347</guid>
+            <pubDate>Thu, 25 Nov 2021 07:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[약수 ‘치맛살’에서 고기를, 이태원 ‘더젤’에서 와인을 가상화폐로 이용할 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/8a0169a8-accc-4a35-b8a1-7a6a9bf2a17b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['갤럭시 워치4 · 버즈2 우영미 에디션' 한정 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/61320</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 18 Nov 2021 06:22:52 GMT</pubDate>
             <content:encoded><![CDATA[스티브 잡스가 직접 조립한 모델이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/d2a2a552-c35b-4cbf-a925-e5d9796983d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 기업 ALI 테크놀로지 내년 '하늘을 나는 오토바이' 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61048</link>
-            <guid>https://www.esquirekorea.co.kr/article/61048</guid>
-            <pubDate>Thu, 18 Nov 2021 06:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[아파트 1~2층 높이까지 날고, 가격은 한화 약 8억1000만원이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/09/d50a2ad1-6454-42a4-824a-64c40087460e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
