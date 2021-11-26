@@ -4,17 +4,9 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 23:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 01:02:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[위드코로나 시대에 기대하는 요가 페스티벌]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61376</link>
-            <guid>https://www.esquirekorea.co.kr/article/61376</guid>
-            <pubDate>Thu, 25 Nov 2021 15:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[건강과 힐링 그리고 자유를 만끽할 수 있는 웰니스 축제]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/a2e0a213-7676-4e04-a0ea-4ba1bd606eee.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[배우 이상엽의 요즘 향수]]></title>
             <link>https://www.esquirekorea.co.kr/article/61296</link>
@@ -70,6 +62,14 @@
             <pubDate>Fri, 19 Nov 2021 04:24:08 GMT</pubDate>
             <content:encoded><![CDATA[커다란 코트를 가뿐하게 입는다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/4faf9e88-893e-4da6-88bb-27db46a01c9b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발렌시아가의 더 해커 프로젝트]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61185</link>
+            <guid>https://www.esquirekorea.co.kr/article/61185</guid>
+            <pubDate>Fri, 26 Nov 2021 00:58:03 GMT</pubDate>
+            <content:encoded><![CDATA[발렌시아가이면서 발렌시아가가 아닌, 그래서 더 발렌시아가다운 더 해커 프로젝트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/b402a030-f4f1-45d1-bd17-21e935329e4c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
