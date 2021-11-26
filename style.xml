@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 06:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 07:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[특별한 홀리데이의 세계로]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61452</link>
+            <guid>https://www.esquirekorea.co.kr/article/61452</guid>
+            <pubDate>Fri, 26 Nov 2021 07:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[가상 인플루언서 로지와 함께하는 홀리데이의 다양한 순간들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/2401a689-4f04-4523-84a5-6a10648b0d32.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공간을 만드는 사람의 에티튜드 (attitude)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61391</link>
+            <guid>https://www.esquirekorea.co.kr/article/61391</guid>
+            <pubDate>Fri, 26 Nov 2021 07:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[정서가 머무는 공간을 만드는 사람에 대하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/514bfece-d64c-43f5-ae21-ee5c78f00065.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위드코로나 시대에 기대하는 요가 페스티벌]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61376</link>
+            <guid>https://www.esquirekorea.co.kr/article/61376</guid>
+            <pubDate>Fri, 26 Nov 2021 07:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[건강과 힐링 그리고 자유를 만끽할 수 있는 웰니스 축제]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/a2e0a213-7676-4e04-a0ea-4ba1bd606eee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 이상엽의 요즘 향수]]></title>
             <link>https://www.esquirekorea.co.kr/article/61296</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 22 Nov 2021 03:19:19 GMT</pubDate>
             <content:encoded><![CDATA[여행 가방의 완성형.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/98c7a59a-3648-439b-aba6-c557a15ca2e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스와로브스키와 협업한 나이키 에어 포스 1 로우]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61213</link>
-            <guid>https://www.esquirekorea.co.kr/article/61213</guid>
-            <pubDate>Mon, 22 Nov 2021 00:59:44 GMT</pubDate>
-            <content:encoded><![CDATA[패널을 탈부착할 수 있는 드라이버도 함께 증정한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/0fdbad48-9b09-4d8c-b1db-12b56083ecac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커다란 코트를 가뿐하게 입는다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61210</link>
-            <guid>https://www.esquirekorea.co.kr/article/61210</guid>
-            <pubDate>Fri, 19 Nov 2021 04:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[커다란 코트를 가뿐하게 입는다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/4faf9e88-893e-4da6-88bb-27db46a01c9b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발렌시아가의 더 해커 프로젝트]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61185</link>
-            <guid>https://www.esquirekorea.co.kr/article/61185</guid>
-            <pubDate>Fri, 26 Nov 2021 00:58:03 GMT</pubDate>
-            <content:encoded><![CDATA[발렌시아가이면서 발렌시아가가 아닌, 그래서 더 발렌시아가다운 더 해커 프로젝트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/b402a030-f4f1-45d1-bd17-21e935329e4c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

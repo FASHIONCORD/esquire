@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 06:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 07:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 붕어빵 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61485</link>
+            <guid>https://www.esquirekorea.co.kr/article/61485</guid>
+            <pubDate>Fri, 26 Nov 2021 07:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[광장시장과 이대, 종로 3가, 성신여대의 먼 길을 굳이 찾아가서 맛봐야 할 붕어빵 맛집 네 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/ba7c409f-4087-4b12-b9c3-913cd20e9ee1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<지옥>으로 새롭게 돌아온 유아인 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/61483</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 24 Nov 2021 02:04:17 GMT</pubDate>
             <content:encoded><![CDATA[연말 모임 장소로 추천하는 프라이빗 룸이 있는 서울의 베이징덕 맛집 네 곳.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/21/d42ba630-9f66-4447-8faa-c89b21f6b895.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사진 찍으러 가기 좋은 은하수 명소와 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61348</link>
-            <guid>https://www.esquirekorea.co.kr/article/61348</guid>
-            <pubDate>Tue, 23 Nov 2021 07:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[아름다운 은하수와 맛집이 있는 강원도와 영남의 명소 네 곳을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/20/9f7e14d0-0761-4f7d-a045-c91430c39549.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

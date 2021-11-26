@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 06:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 07:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[롯데제과 ‘돝-짝대기 돼지바’ 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61501</link>
+            <guid>https://www.esquirekorea.co.kr/article/61501</guid>
+            <pubDate>Fri, 26 Nov 2021 07:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[우도의 명물 땅콩과 백년초 잼이 들어갔다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/e2204eb4-dc1f-4eea-9e45-4beab23a8ecf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노홍철 x 헬리녹스 협업 컬렉션 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61500</link>
+            <guid>https://www.esquirekorea.co.kr/article/61500</guid>
+            <pubDate>Fri, 26 Nov 2021 07:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[노홍철이 직접 판매한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/92575e03-1287-4fcf-9c8b-719d1a33515b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누리호의 실패가 '성공적인 실패'인 이유]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61490</link>
+            <guid>https://www.esquirekorea.co.kr/article/61490</guid>
+            <pubDate>Fri, 26 Nov 2021 07:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[누리호, 그 성공적인 실패.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/99d17c37-fdbc-4b29-9bae-ba72f1e0c779.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울 근교 신상 리버뷰 카페 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/61489</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 24 Nov 2021 15:21:51 GMT</pubDate>
             <content:encoded><![CDATA[한 해 동안 고생한 우리에게 주는 선물 같은 뮤지컬, 클래식, 발레 공연들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/6f4bf9f2-8387-4b67-9de5-7daf85c49de3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT로 판매되는 래퍼 2Pac의 미공개 사진 모음]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61473</link>
-            <guid>https://www.esquirekorea.co.kr/article/61473</guid>
-            <pubDate>Wed, 24 Nov 2021 13:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[데뷔 앨범 발매 파티에서 찍힌 사진들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/f9a26684-cd38-47f4-9cf9-d09cfeee26a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스마트 TV 전용 앱을 출시한 틱톡]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61466</link>
-            <guid>https://www.esquirekorea.co.kr/article/61466</guid>
-            <pubDate>Wed, 24 Nov 2021 10:22:34 GMT</pubDate>
-            <content:encoded><![CDATA['포유'기능과 팔로잉 피드를 대형 스크린에서 즐길 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/1e095cec-0a64-4eb7-b9d9-5e7c75a57fe9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고고학자들이 발견한 가장 오래된 조개 구슬 보석]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61464</link>
-            <guid>https://www.esquirekorea.co.kr/article/61464</guid>
-            <pubDate>Fri, 26 Nov 2021 01:00:37 GMT</pubDate>
-            <content:encoded><![CDATA[인류 역사상 가장 오래된 장신구.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/b08bb40f-ca78-44c7-8948-e80f4f363f27.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
