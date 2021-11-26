@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 13:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 14:20:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1293,6 +1293,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/d2a2a552-c35b-4cbf-a925-e5d9796983d9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022 미쉐린 가이드에 새로 등재된 맛집 7 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61503</link>
+            <guid>https://www.esquirekorea.co.kr/article/61503</guid>
+            <pubDate>Fri, 26 Nov 2021 11:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[해외여행이 여의치 않은 시기에도 레스토랑이 계속 문을 열었고 그덕에 많은 이들이 서울에서 세...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/4b762ff6-3231-4eae-9aec-bcbed9933060.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[롯데제과 ‘돝-짝대기 돼지바’ 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61501</link>
+            <guid>https://www.esquirekorea.co.kr/article/61501</guid>
+            <pubDate>Fri, 26 Nov 2021 07:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[우도의 명물 땅콩과 백년초 잼이 들어갔다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/e2204eb4-dc1f-4eea-9e45-4beab23a8ecf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서울 근교 신상 리버뷰 카페 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61489</link>
             <guid>https://www.esquirekorea.co.kr/article/61489</guid>
@@ -1339,22 +1355,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 24 Nov 2021 08:24:25 GMT</pubDate>
             <content:encoded><![CDATA[맥주, 칵테일, 위스키까지! 고양이를 만날 수 있는 분위기 좋은 술집을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/3da76180-7ee4-4ba4-8954-8f213d0433a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈런 필수 디저트 카페 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61430</link>
-            <guid>https://www.esquirekorea.co.kr/article/61430</guid>
-            <pubDate>Wed, 24 Nov 2021 07:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[오픈하자 마자 달려가야 하는 성수, 연남, 충무로, 대치동의 독특한 콘셉트 카페.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/bf762a24-a1c5-4ea6-88a1-d8950c15710e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달동네 아닌 맛동네! 성북동 북정마을 맛집 여행 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61397</link>
-            <guid>https://www.esquirekorea.co.kr/article/61397</guid>
-            <pubDate>Wed, 24 Nov 2021 06:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[서울 같지 않은 포근한 동네 북정마을 한 바퀴 둘러보고 배도 든든히 채워주고 오자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/999c9456-6e65-4a26-9473-d8db1de2c102.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 미쉐린 가이드에 새로 등재된 맛집 7 (에스콰이어 코리아 ─ 라이프)]]></title>
