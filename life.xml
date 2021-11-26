@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 07:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 08:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠사마 야요이의 ‘호박’ 서울옥션에서 올해 국내 최고가 기록]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61502</link>
+            <guid>https://www.esquirekorea.co.kr/article/61502</guid>
+            <pubDate>Fri, 26 Nov 2021 08:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[낙찰가는 54억 5천만원.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/c9d833b4-4c0e-4628-a289-0da9ed1bf8c5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[롯데제과 ‘돝-짝대기 돼지바’ 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/61501</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 25 Nov 2021 03:21:52 GMT</pubDate>
             <content:encoded><![CDATA[육해공 가리지 않고 모조리 섭렵했다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/db402724-a011-42a0-8660-cf34d4127fca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코앞으로 다가온 2021 연말 콘서트 기대작 6]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61475</link>
-            <guid>https://www.esquirekorea.co.kr/article/61475</guid>
-            <pubDate>Wed, 24 Nov 2021 15:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[한 해 동안 고생한 우리에게 주는 선물 같은 뮤지컬, 클래식, 발레 공연들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/6f4bf9f2-8387-4b67-9de5-7daf85c49de3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
