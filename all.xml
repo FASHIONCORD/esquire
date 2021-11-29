@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 16:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 17:30:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1421,6 +1421,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/e2204eb4-dc1f-4eea-9e45-4beab23a8ecf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국힙 원톱 개코 "정말 운이 좋았다는 생각을 한다" (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61318</link>
+            <guid>https://www.esquirekorea.co.kr/article/61318</guid>
+            <pubDate>Mon, 29 Nov 2021 17:29:32 GMT</pubDate>
+            <content:encoded><![CDATA[‘G.O.A.T’의 칭호는 아무에게나 붙일 수 없고 아무나 쓸 수도 없다. 그러나 개코에게 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/305925b8-19d8-4c0a-ae89-ff5611b508d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[남궁민이 본인 출연작을 보며 자기 연기를 따라 해보는 이유 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61315</link>
             <guid>https://www.esquirekorea.co.kr/article/61315</guid>
@@ -1475,14 +1483,6 @@ The New MINI Countryman과 일상에
             <pubDate>Mon, 22 Nov 2021 01:02:23 GMT</pubDate>
             <content:encoded><![CDATA[방송 프로그램 ‘식객 허영만의 백반기행’에 나오는 식당이 아니라 허영만 화백이 직접 다니는 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/40aad290-d063-4995-8434-a6927fbe3224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러블리즈 류수정 'OHAYO MY NIGHT' 라이브 공개 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61116</link>
-            <guid>https://www.esquirekorea.co.kr/article/61116</guid>
-            <pubDate>Sat, 20 Nov 2021 05:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[류수정의 맑은 음색과 탄탄한 가창력이 그대로 묻어나는 디핵, 파테코 'OHAYO MY NIG...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/4c4fd88a-d4bb-4839-b6d6-0ae999fb5d18.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팔라스 x 반스 스케이트 하이 컬렉션 (에스콰이어 코리아 ─ 나우)]]></title>
