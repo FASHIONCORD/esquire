@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 06:27:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 07:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울 제철 굴짬뽕 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61546</link>
+            <guid>https://www.esquirekorea.co.kr/article/61546</guid>
+            <pubDate>Mon, 29 Nov 2021 07:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[제철 맞아 금값된 굴을 듬뿍~! 굴짬뽕은 겨울에 먹어야 제 맛.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/e7eea1e8-630d-4cbc-b4ce-d0369788021b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슈프림과 스키틀즈의 협업 컬렉션 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/61542</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 25 Nov 2021 03:21:10 GMT</pubDate>
             <content:encoded><![CDATA[육해공 가리지 않고 모조리 섭렵했다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/db402724-a011-42a0-8660-cf34d4127fca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크루그 2008년의 창조물을 들다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61226</link>
-            <guid>https://www.esquirekorea.co.kr/article/61226</guid>
-            <pubDate>Thu, 25 Nov 2021 03:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[크루그에서 ‘2008년의 창조물’ 샴페인 세트를 출시했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/6a96c2fc-0c55-4f7c-9b15-88a8b2d2db2b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
