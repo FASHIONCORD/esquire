@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 02:07:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 03:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울 제철 굴짬뽕 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61546</link>
+            <guid>https://www.esquirekorea.co.kr/article/61546</guid>
+            <pubDate>Mon, 29 Nov 2021 03:21:57 GMT</pubDate>
+            <content:encoded><![CDATA[제철 맞아 금값된 굴을 듬뿍~! 굴짬뽕은 겨울에 먹어야 제 맛.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/e7eea1e8-630d-4cbc-b4ce-d0369788021b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울이면 찾아오는 불청객 수족냉증 대표 유발 원인 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/61543</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 07:20:39 GMT</pubDate>
             <content:encoded><![CDATA[노홍철이 직접 판매한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/92575e03-1287-4fcf-9c8b-719d1a33515b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누리호의 실패가 '성공적인 실패'인 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61490</link>
-            <guid>https://www.esquirekorea.co.kr/article/61490</guid>
-            <pubDate>Fri, 26 Nov 2021 07:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[누리호, 그 성공적인 실패.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/99d17c37-fdbc-4b29-9bae-ba72f1e0c779.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
