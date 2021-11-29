@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 11:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 12:34:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1101,6 +1101,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[위켄드 <Starboy> 5주년 기념 세븐스헤븐과 협업 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61541</link>
+            <guid>https://www.esquirekorea.co.kr/article/61541</guid>
+            <pubDate>Fri, 26 Nov 2021 17:25:40 GMT</pubDate>
+            <content:encoded><![CDATA[앨범의 상징인 십자가와 벼락 모양을 볼 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/49314233-c0ae-46f3-b62f-451cf535e4a5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[소셜 미디어의 중단을 선언한 러쉬 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61540</link>
             <guid>https://www.esquirekorea.co.kr/article/61540</guid>
@@ -1155,14 +1163,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 25 Nov 2021 03:20:01 GMT</pubDate>
             <content:encoded><![CDATA[존 바바토스 아티산과 함께 한 배우 이상엽의 시간.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/e6a186d1-cc70-4c3c-a7a2-6c43885005ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['갤럭시 워치4 · 버즈2 우영미 에디션' 한정 출시 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61320</link>
-            <guid>https://www.esquirekorea.co.kr/article/61320</guid>
-            <pubDate>Wed, 24 Nov 2021 05:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[우영미 디자이너가 직접 제작에 참여했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/14268ba4-0e10-4115-8a63-8a5b44ea1ed2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시계의 얼굴 (에스콰이어 코리아 ─ 와치)]]></title>
