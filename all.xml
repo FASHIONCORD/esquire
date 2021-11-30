@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 05:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 06:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1293,6 +1293,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/23b81ff5-b744-4cf2-93f1-c2e23708bcfb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022 미쉐린 가이드 서울 선정 완료! 새로운 뷰 맛집은? (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61561</link>
+            <guid>https://www.esquirekorea.co.kr/article/61561</guid>
+            <pubDate>Mon, 29 Nov 2021 07:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[올해 6번째로 발간된 ‘미쉐린 가이드 서울’의 2022 버전 뷰 맛집을 꼽아봤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/8cedfa5f-71e9-40a6-84a7-b5e7ec2c9f74.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[겨울 제철 굴짬뽕 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61546</link>
             <guid>https://www.esquirekorea.co.kr/article/61546</guid>
@@ -1349,12 +1357,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/ba7c409f-4087-4b12-b9c3-913cd20e9ee1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<지옥>으로 새롭게 돌아온 유아인 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61483</link>
-            <guid>https://www.esquirekorea.co.kr/article/61483</guid>
-            <pubDate>Thu, 25 Nov 2021 03:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[육해공 가리지 않고 모조리 섭렵했다!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/db402724-a011-42a0-8660-cf34d4127fca.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[오래된 보광동의 이유 있는 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61618</link>
+            <guid>https://www.esquirekorea.co.kr/article/61618</guid>
+            <pubDate>Tue, 30 Nov 2021 06:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[용산, 이태원, 해방촌에 가려진 숨은 보석 보광동에서 진짜 맛집 탐방을 다녀오자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/2d20b1d7-6963-4ae6-88f4-1452cf07f964.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마츠다의 한국 맛집 일기 5 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1411,14 +1419,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 26 Nov 2021 17:25:40 GMT</pubDate>
             <content:encoded><![CDATA[손발이 유난히 시려 일상생활이 어렵다면? 수족냉증을 일으키는 대표 원인을 알아보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/7b710420-5cd2-46d7-b0a6-343d93712ff6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위켄드 <Starboy> 5주년 기념 세븐스헤븐과 협업 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61541</link>
-            <guid>https://www.esquirekorea.co.kr/article/61541</guid>
-            <pubDate>Fri, 26 Nov 2021 17:25:40 GMT</pubDate>
-            <content:encoded><![CDATA[앨범의 상징인 십자가와 벼락 모양을 볼 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/49314233-c0ae-46f3-b62f-451cf535e4a5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쇼미 프로듀서 개코 "멘털 관리는 체력 단련 같은 것" (에스콰이어 코리아 ─ 피플)]]></title>

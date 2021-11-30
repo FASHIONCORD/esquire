@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 05:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 06:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오래된 보광동의 이유 있는 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61618</link>
+            <guid>https://www.esquirekorea.co.kr/article/61618</guid>
+            <pubDate>Tue, 30 Nov 2021 06:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[용산, 이태원, 해방촌에 가려진 숨은 보석 보광동에서 진짜 맛집 탐방을 다녀오자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/2d20b1d7-6963-4ae6-88f4-1452cf07f964.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마츠다의 한국 맛집 일기 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/61608</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 17:25:40 GMT</pubDate>
             <content:encoded><![CDATA[손발이 유난히 시려 일상생활이 어렵다면? 수족냉증을 일으키는 대표 원인을 알아보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/7b710420-5cd2-46d7-b0a6-343d93712ff6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위켄드 <Starboy> 5주년 기념 세븐스헤븐과 협업]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61541</link>
-            <guid>https://www.esquirekorea.co.kr/article/61541</guid>
-            <pubDate>Fri, 26 Nov 2021 17:25:40 GMT</pubDate>
-            <content:encoded><![CDATA[앨범의 상징인 십자가와 벼락 모양을 볼 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/49314233-c0ae-46f3-b62f-451cf535e4a5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
