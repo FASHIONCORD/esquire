@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 02:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 03:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[업계 최초로 무인편의점에 AI카메라 도입한 GS25]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61471</link>
+            <guid>https://www.esquirekorea.co.kr/article/61471</guid>
+            <pubDate>Tue, 30 Nov 2021 03:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[신규 개설되는 모든 GS25 무인 편의점에 설치된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/847541b0-dfd9-40ab-b4a5-9abb78637551.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스마트 TV 전용 앱을 출시한 틱톡]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61466</link>
+            <guid>https://www.esquirekorea.co.kr/article/61466</guid>
+            <pubDate>Tue, 30 Nov 2021 03:17:52 GMT</pubDate>
+            <content:encoded><![CDATA['포유'기능과 팔로잉 피드를 대형 스크린에서 즐길 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/1e095cec-0a64-4eb7-b9d9-5e7c75a57fe9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경북 포항에 오픈한 국내 첫 체험형 조형물 '스페이스워크']]></title>
             <link>https://www.esquirekorea.co.kr/article/61386</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 22 Nov 2021 06:24:11 GMT</pubDate>
             <content:encoded><![CDATA[특별한 의미를 담아 365개 한정판으로 제작했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/23b81ff5-b744-4cf2-93f1-c2e23708bcfb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우주에 다녀온 IWC 시계 한화 약 4억 8000만원에 낙찰, 수익은 기부]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61216</link>
-            <guid>https://www.esquirekorea.co.kr/article/61216</guid>
-            <pubDate>Sat, 20 Nov 2021 05:18:17 GMT</pubDate>
-            <content:encoded><![CDATA['인스퍼레이션4' 미션으로 한화 약 2831억원이 모였다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/8bd30dce-33c9-42b1-9abb-311c710e9d17.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공간 활용을 극대화한 고래를 닮은 트레일러]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61214</link>
-            <guid>https://www.esquirekorea.co.kr/article/61214</guid>
-            <pubDate>Fri, 19 Nov 2021 04:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[캠핑 모드에서는 침대 하나가 더 들어갈 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/16/db7fb694-19f7-4f2a-a80b-ae27336a638c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

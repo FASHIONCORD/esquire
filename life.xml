@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 02:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 03:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마츠다의 한국 맛집 일기 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61608</link>
+            <guid>https://www.esquirekorea.co.kr/article/61608</guid>
+            <pubDate>Tue, 30 Nov 2021 03:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;에스콰이어&gt;가 한국을 사랑하는 일본 일러스트레이터 마츠다에게 여행이 재개된다면 꼭 먹고 싶...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/a8e93fb3-6dbb-483e-a2ab-9f02f907560c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프로야구는 과거의 영광을 되찾을 수 있을까?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61570</link>
+            <guid>https://www.esquirekorea.co.kr/article/61570</guid>
+            <pubDate>Tue, 30 Nov 2021 03:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[‘국민타자’ 이승엽이 잊히는 날.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/27/58d455a9-b525-4fa6-b8d1-ba84991e88e6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호텔 뷔페가 2만원? ‘예약 필수’ 가성비 호텔 뷔페 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/61568</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 17:25:40 GMT</pubDate>
             <content:encoded><![CDATA[앨범의 상징인 십자가와 벼락 모양을 볼 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/49314233-c0ae-46f3-b62f-451cf535e4a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애니메이션 영화계의 거장 미야자키 하야오의 신작]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61538</link>
-            <guid>https://www.esquirekorea.co.kr/article/61538</guid>
-            <pubDate>Fri, 26 Nov 2021 17:25:40 GMT</pubDate>
-            <content:encoded><![CDATA[엄청난 스케일의 판타지물 예고.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/6533cf83-d23e-4c15-b514-3b9d3b9cdd6c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 미쉐린 가이드에 새로 등재된 맛집 7]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61503</link>
-            <guid>https://www.esquirekorea.co.kr/article/61503</guid>
-            <pubDate>Fri, 26 Nov 2021 11:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[해외여행이 여의치 않은 시기에도 레스토랑이 계속 문을 열었고 그덕에 많은 이들이 서울에서 세...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/4b762ff6-3231-4eae-9aec-bcbed9933060.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
