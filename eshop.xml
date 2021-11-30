@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 14:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 15:25:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 스타일과 기능을 한 번에, 바람막이 스타일링]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61359</link>
+            <guid>https://www.esquirekorea.co.kr/article/61359</guid>
+            <pubDate>Tue, 30 Nov 2021 15:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[편한고 멋스러운 바람막이.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/70ea9bd5-86f5-4966-9d0a-f45ebd6aed36.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 니트의 무한 매력]]></title>
             <link>https://www.esquirekorea.co.kr/article/61310</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 16 Nov 2021 16:27:47 GMT</pubDate>
             <content:encoded><![CDATA[브이넥 니트를 매치하면 금상첨화.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/08d63064-c6e3-4402-b504-10d86669c874.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 가죽 재킷에 캐주얼 한 스푼]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60862</link>
-            <guid>https://www.esquirekorea.co.kr/article/60862</guid>
-            <pubDate>Sun, 14 Nov 2021 15:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[캐주얼한 매력으로 재해석한 가죽 재킷.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/02/063502f1-bf05-40ae-a8f5-abddb4780710.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
