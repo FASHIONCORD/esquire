@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 01:58:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 02:25:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1101,6 +1101,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[새로운 디지털 세상 속으로 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61383</link>
+            <guid>https://www.esquirekorea.co.kr/article/61383</guid>
+            <pubDate>Tue, 30 Nov 2021 02:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[모델 아이린이 표현한 디지털 세상.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/193a0775-40ee-4e67-a99a-bee864faf933.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[슈프림과 스키틀즈의 협업 컬렉션 공개 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61542</link>
             <guid>https://www.esquirekorea.co.kr/article/61542</guid>
@@ -1157,12 +1165,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/514bfece-d64c-43f5-ae21-ee5c78f00065.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[위드코로나 시대에 기대하는 요가 페스티벌 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61376</link>
-            <guid>https://www.esquirekorea.co.kr/article/61376</guid>
-            <pubDate>Fri, 26 Nov 2021 07:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[건강과 힐링 그리고 자유를 만끽할 수 있는 웰니스 축제]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/a2e0a213-7676-4e04-a0ea-4ba1bd606eee.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[대담하고 우아한 남자의 다이아몬드 (에스콰이어 코리아 ─ 와치)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59181</link>
+            <guid>https://www.esquirekorea.co.kr/article/59181</guid>
+            <pubDate>Tue, 30 Nov 2021 02:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[대체 불가한 다이아몬드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/d3bfd08e-0487-4b2d-9324-986aff109ecd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시계의 얼굴 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1219,14 +1227,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 07 Oct 2021 16:24:35 GMT</pubDate>
             <content:encoded><![CDATA[제임스 본드, 그리고 그의 시계들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/d349accd-2161-4a1e-999e-97dedfa5c8e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[절정과 같은 론진의 워치 컬렉션 (에스콰이어 코리아 ─ 와치)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58875</link>
-            <guid>https://www.esquirekorea.co.kr/article/58875</guid>
-            <pubDate>Thu, 07 Oct 2021 16:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[다채롭게 조명했다. 론진의 절정과도 같은 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/2b341cd7-ae7a-4a80-a018-ad3268cbe5cf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경북 포항에 오픈한 국내 첫 체험형 조형물 '스페이스워크' (에스콰이어 코리아 ─ 카&테크)]]></title>
@@ -1421,6 +1421,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/4b762ff6-3231-4eae-9aec-bcbed9933060.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쇼미 프로듀서 개코 "멘털 관리는 체력 단련 같은 것" (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61319</link>
+            <guid>https://www.esquirekorea.co.kr/article/61319</guid>
+            <pubDate>Tue, 30 Nov 2021 02:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[‘G.O.A.T’의 칭호는 아무에게나 붙일 수 없고 아무나 쓸 수도 없다. 그러나 개코에게 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/2e41e352-971c-4d54-8b91-0cd34eb1b932.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국힙 원톱 개코 "정말 운이 좋았다는 생각을 한다" (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61318</link>
             <guid>https://www.esquirekorea.co.kr/article/61318</guid>
@@ -1475,14 +1483,6 @@ The New MINI Countryman과 일상에
             <pubDate>Mon, 22 Nov 2021 06:25:43 GMT</pubDate>
             <content:encoded><![CDATA[작품마다 다양한 변신을 거듭해 화제를 불러 모으는 윤계상. 그는 어떤 식당을 다녀갔을까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/23/6ce5eaa2-5e49-4a02-b3b7-e50e3fe2b4db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[믿고 보는 식객 끝판왕 허영만의 단골 맛집 4 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61131</link>
-            <guid>https://www.esquirekorea.co.kr/article/61131</guid>
-            <pubDate>Mon, 22 Nov 2021 01:02:23 GMT</pubDate>
-            <content:encoded><![CDATA[방송 프로그램 ‘식객 허영만의 백반기행’에 나오는 식당이 아니라 허영만 화백이 직접 다니는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/40aad290-d063-4995-8434-a6927fbe3224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팔라스 x 반스 스케이트 하이 컬렉션 (에스콰이어 코리아 ─ 나우)]]></title>

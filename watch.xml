@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 와치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 01:58:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 02:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대담하고 우아한 남자의 다이아몬드]]></title>
+            <link>https://www.esquirekorea.co.kr/article/59181</link>
+            <guid>https://www.esquirekorea.co.kr/article/59181</guid>
+            <pubDate>Tue, 30 Nov 2021 02:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[대체 불가한 다이아몬드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202110/10/d3bfd08e-0487-4b2d-9324-986aff109ecd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시계의 얼굴]]></title>
             <link>https://www.esquirekorea.co.kr/article/59160</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 06 Oct 2021 15:19:30 GMT</pubDate>
             <content:encoded><![CDATA[제임스 본드, 그리고 그의 시계들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/d349accd-2161-4a1e-999e-97dedfa5c8e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[절정과 같은 론진의 워치 컬렉션]]></title>
-            <link>https://www.esquirekorea.co.kr/article/58875</link>
-            <guid>https://www.esquirekorea.co.kr/article/58875</guid>
-            <pubDate>Tue, 05 Oct 2021 15:04:10 GMT</pubDate>
-            <content:encoded><![CDATA[다채롭게 조명했다. 론진의 절정과도 같은 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/29/2b341cd7-ae7a-4a80-a018-ad3268cbe5cf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
