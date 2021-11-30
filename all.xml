@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 10:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 11:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1357,6 +1357,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/ba7c409f-4087-4b12-b9c3-913cd20e9ee1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[헨드릭스 진을 가장 우아하게 즐길 수 있는 게이밍 라운지체어 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61640</link>
+            <guid>https://www.esquirekorea.co.kr/article/61640</guid>
+            <pubDate>Tue, 30 Nov 2021 11:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[즐거운 보드게임과 함께 달콤한 진 한 잔.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/431afbb0-0dbd-489e-92ac-ec78ac9ce0a7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오래된 보광동의 이유 있는 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/61618</link>
             <guid>https://www.esquirekorea.co.kr/article/61618</guid>
@@ -1411,14 +1419,6 @@ The New MINI Countryman과 일상에
             <pubDate>Mon, 29 Nov 2021 03:21:57 GMT</pubDate>
             <content:encoded><![CDATA[제철 맞아 금값된 굴을 듬뿍~! 굴짬뽕은 겨울에 먹어야 제 맛.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/e7eea1e8-630d-4cbc-b4ce-d0369788021b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울이면 찾아오는 불청객 수족냉증 대표 유발 원인 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61543</link>
-            <guid>https://www.esquirekorea.co.kr/article/61543</guid>
-            <pubDate>Fri, 26 Nov 2021 17:25:40 GMT</pubDate>
-            <content:encoded><![CDATA[손발이 유난히 시려 일상생활이 어렵다면? 수족냉증을 일으키는 대표 원인을 알아보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/7b710420-5cd2-46d7-b0a6-343d93712ff6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쇼미 프로듀서 개코 "멘털 관리는 체력 단련 같은 것" (에스콰이어 코리아 ─ 피플)]]></title>
