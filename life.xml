@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 23:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 01:07:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발렌시아가가 만든 남다른 코스터]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61641</link>
+            <guid>https://www.esquirekorea.co.kr/article/61641</guid>
+            <pubDate>Wed, 01 Dec 2021 01:05:24 GMT</pubDate>
+            <content:encoded><![CDATA[실버 톤의 스테인리스스틸 위에 로고를 새겼다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/54b1440d-cd14-46e8-8036-263338f0fa18.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헨드릭스 진을 가장 우아하게 즐길 수 있는 게이밍 라운지체어]]></title>
             <link>https://www.esquirekorea.co.kr/article/61640</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Nov 2021 07:22:35 GMT</pubDate>
             <content:encoded><![CDATA[올해 6번째로 발간된 ‘미쉐린 가이드 서울’의 2022 버전 뷰 맛집을 꼽아봤다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/8cedfa5f-71e9-40a6-84a7-b5e7ec2c9f74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울 제철 굴짬뽕 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61546</link>
-            <guid>https://www.esquirekorea.co.kr/article/61546</guid>
-            <pubDate>Mon, 29 Nov 2021 03:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[제철 맞아 금값된 굴을 듬뿍~! 굴짬뽕은 겨울에 먹어야 제 맛.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/e7eea1e8-630d-4cbc-b4ce-d0369788021b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
