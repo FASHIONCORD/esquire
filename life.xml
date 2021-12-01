@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 08:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 09:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[케이스티파이 <오징어게임> 컬렉션]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61654</link>
+            <guid>https://www.esquirekorea.co.kr/article/61654</guid>
+            <pubDate>Wed, 01 Dec 2021 09:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;오징어게임&gt;의 유니폼, 경호원 심지어 영희 얼굴이 박힌 케이스티파이 스마트폰 케이스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/12c7a8bb-945d-4486-b821-c32ade0b6b46.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[발렌시아가가 만든 남다른 코스터]]></title>
             <link>https://www.esquirekorea.co.kr/article/61641</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 30 Nov 2021 01:01:33 GMT</pubDate>
             <content:encoded><![CDATA[몽골 전통 주택 ‘게르'에서 특별한 하룻밤을 보낼 수 있는 숙소 네 곳을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/b0a92970-40c4-47a9-9d80-9ec9baa051f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 미쉐린 가이드 서울 선정 완료! 새로운 뷰 맛집은?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61561</link>
-            <guid>https://www.esquirekorea.co.kr/article/61561</guid>
-            <pubDate>Mon, 29 Nov 2021 07:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[올해 6번째로 발간된 ‘미쉐린 가이드 서울’의 2022 버전 뷰 맛집을 꼽아봤다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/8cedfa5f-71e9-40a6-84a7-b5e7ec2c9f74.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

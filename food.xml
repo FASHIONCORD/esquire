@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 08:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 09:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제주, 양평, 임실의 이색 몽골 게르 숙소 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61566</link>
+            <guid>https://www.esquirekorea.co.kr/article/61566</guid>
+            <pubDate>Wed, 01 Dec 2021 09:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[몽골 전통 주택 ‘게르'에서 특별한 하룻밤을 보낼 수 있는 숙소 네 곳을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/b0a92970-40c4-47a9-9d80-9ec9baa051f8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 미쉐린 가이드 서울 선정 완료! 새로운 뷰 맛집은?]]></title>
             <link>https://www.esquirekorea.co.kr/article/61561</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 08:23:38 GMT</pubDate>
             <content:encoded><![CDATA[서울시립미술관에서 올해 마지막 전시 ‘경로를 재탐색합니다’, ‘자연스러운 인간’을 오픈한다....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/eb20cd15-f8e1-4794-9f84-983bb71670e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 붕어빵 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61485</link>
-            <guid>https://www.esquirekorea.co.kr/article/61485</guid>
-            <pubDate>Fri, 26 Nov 2021 07:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[광장시장과 이대, 종로 3가, 성신여대의 먼 길을 굳이 찾아가서 맛봐야 할 붕어빵 맛집 네 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/ba7c409f-4087-4b12-b9c3-913cd20e9ee1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
