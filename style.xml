@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 01:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 02:39:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스웨터의 왕]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61635</link>
+            <guid>https://www.esquirekorea.co.kr/article/61635</guid>
+            <pubDate>Wed, 01 Dec 2021 02:35:58 GMT</pubDate>
+            <content:encoded><![CDATA[살결보다 부드러운 캐시미어 스웨터 8.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/ad335bc9-35f1-4ca3-a6d8-3a0a49617870.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포터 x 이웃집 토토로 협업 컬렉션 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/61627</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Nov 2021 03:20:10 GMT</pubDate>
             <content:encoded><![CDATA[소셜미디어 환경이 개선될 때까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/ddb56da4-8ca5-4e74-bf94-b3467614ac10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HOLIDAY DREAM]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61363</link>
-            <guid>https://www.esquirekorea.co.kr/article/61363</guid>
-            <pubDate>Sun, 28 Nov 2021 15:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[꿈속의 한 장면처럼 기억될 우리의 홀리데이 드림.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/87191eb1-ab86-43c9-8352-d716e250452e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
