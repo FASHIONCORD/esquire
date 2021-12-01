@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 09:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 10:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2013년 한정 제작된 F&F 슈프림 x 롤렉스 서브마리너 매물 등장]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61651</link>
+            <guid>https://www.esquirekorea.co.kr/article/61651</guid>
+            <pubDate>Wed, 01 Dec 2021 10:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[다이얼에 붉은색 'FUCK EM' 텍스트와 케이스 후면 슈프림 로고가 각인되어 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/59b7b50e-ce54-46c8-9f3a-4345891f37b0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스웨터의 왕]]></title>
             <link>https://www.esquirekorea.co.kr/article/61635</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Nov 2021 12:30:27 GMT</pubDate>
             <content:encoded><![CDATA[앨범의 상징인 십자가와 벼락 모양을 볼 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/49314233-c0ae-46f3-b62f-451cf535e4a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소셜 미디어의 중단을 선언한 러쉬]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61540</link>
-            <guid>https://www.esquirekorea.co.kr/article/61540</guid>
-            <pubDate>Mon, 29 Nov 2021 03:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[소셜미디어 환경이 개선될 때까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/ddb56da4-8ca5-4e74-bf94-b3467614ac10.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
