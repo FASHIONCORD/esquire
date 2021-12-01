@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 15:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 16:34:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EVERYDAY HOLIDAY]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61368</link>
+            <guid>https://www.esquirekorea.co.kr/article/61368</guid>
+            <pubDate>Wed, 01 Dec 2021 16:30:45 GMT</pubDate>
+            <content:encoded><![CDATA[평범한 하루를 특별하게 보내는 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e34bda4a-39de-42cc-bcf1-474c1ae5c4d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['죽은 원두도 살린다'는 발뮤다의 커피메이커]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61580</link>
+            <guid>https://www.esquirekorea.co.kr/article/61580</guid>
+            <pubDate>Wed, 01 Dec 2021 16:30:45 GMT</pubDate>
+            <content:encoded><![CDATA[집념의 한 잔.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/a1717423-e40d-4583-8e33-f93ff011f331.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아우디 Q4 e-트론 공개, ‘6천만원대’ ‘520km’]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61509</link>
+            <guid>https://www.esquirekorea.co.kr/article/61509</guid>
+            <pubDate>Wed, 01 Dec 2021 16:30:45 GMT</pubDate>
+            <content:encoded><![CDATA[아우디코리아가 순수 전기 SUV Q4 e-트론을 공개하며 또 한번 기술을 통한 진보를 입증했...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/0aaa4a69-4392-494a-abf3-2254f07c97a4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인스타그램에 올린 사진 따로 삭제할 수 있는 기능 추가]]></title>
             <link>https://www.esquirekorea.co.kr/article/61472</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 25 Nov 2021 07:19:47 GMT</pubDate>
             <content:encoded><![CDATA[약수 ‘치맛살’에서 고기를, 이태원 ‘더젤’에서 와인을 가상화폐로 이용할 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/8a0169a8-accc-4a35-b8a1-7a6a9bf2a17b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['갤럭시 워치4 · 버즈2 우영미 에디션' 한정 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61320</link>
-            <guid>https://www.esquirekorea.co.kr/article/61320</guid>
-            <pubDate>Wed, 24 Nov 2021 07:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[우영미 디자이너가 직접 제작에 참여했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/14268ba4-0e10-4115-8a63-8a5b44ea1ed2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 셀프 수리 서비스 발표]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61288</link>
-            <guid>https://www.esquirekorea.co.kr/article/61288</guid>
-            <pubDate>Wed, 24 Nov 2021 07:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[미국에서 먼저 실행될 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/b768c5dc-6271-4d34-b4cc-3b64cc4922a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버버리와 DAB 모터스의 협업 전기 바이크]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61286</link>
-            <guid>https://www.esquirekorea.co.kr/article/61286</guid>
-            <pubDate>Wed, 24 Nov 2021 06:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[최고급 가죽 소재를 사용했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/883ca172-84a0-456c-a85b-b42f4c3817a9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
