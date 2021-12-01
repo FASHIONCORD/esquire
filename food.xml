@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 10:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 11:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마츠다의 한국 맛집 일기 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61608</link>
+            <guid>https://www.esquirekorea.co.kr/article/61608</guid>
+            <pubDate>Wed, 01 Dec 2021 11:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;에스콰이어&gt;가 한국을 사랑하는 일본 일러스트레이터 마츠다에게 여행이 재개된다면 꼭 먹고 싶...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/29/a8e93fb3-6dbb-483e-a2ab-9f02f907560c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호텔 뷔페가 2만원? ‘예약 필수’ 가성비 호텔 뷔페 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61568</link>
+            <guid>https://www.esquirekorea.co.kr/article/61568</guid>
+            <pubDate>Wed, 01 Dec 2021 11:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[조금만 찾아 보면 합리적인 가격으로 일급 호텔의 뷔페를 그대로 즐길 수 있다. 서울과 부산 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/27/88a6d4cc-5e80-4d05-bb22-4750144357e1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제주, 양평, 임실의 이색 몽골 게르 숙소 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/61566</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 26 Nov 2021 14:19:07 GMT</pubDate>
             <content:encoded><![CDATA[우도의 명물 땅콩과 백년초 잼이 들어갔다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/e2204eb4-dc1f-4eea-9e45-4beab23a8ecf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 근교 신상 리버뷰 카페 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61489</link>
-            <guid>https://www.esquirekorea.co.kr/article/61489</guid>
-            <pubDate>Fri, 26 Nov 2021 11:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[드라이브 겸 다녀오기 좋은 양평과 가평의 탁 트인 리버뷰를 자랑하는 신상 카페 네 곳.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/cdb8ad41-e9c2-4054-8a33-9f431c5e2baa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시립미술관 올해 마지막 전시 보고 서소문 가볼 만한 곳 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61486</link>
-            <guid>https://www.esquirekorea.co.kr/article/61486</guid>
-            <pubDate>Fri, 26 Nov 2021 08:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[서울시립미술관에서 올해 마지막 전시 ‘경로를 재탐색합니다’, ‘자연스러운 인간’을 오픈한다....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/eb20cd15-f8e1-4794-9f84-983bb71670e8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 10:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 11:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인스타그램에 올린 사진 따로 삭제할 수 있는 기능 추가]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61472</link>
+            <guid>https://www.esquirekorea.co.kr/article/61472</guid>
+            <pubDate>Wed, 01 Dec 2021 11:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[이제 잘못 올린 사진만 삭제하면 된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/705aa211-2e64-4b17-a2fe-47b58cd7b05d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[업계 최초로 무인편의점에 AI카메라 도입한 GS25]]></title>
             <link>https://www.esquirekorea.co.kr/article/61471</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 24 Nov 2021 06:23:31 GMT</pubDate>
             <content:encoded><![CDATA[최고급 가죽 소재를 사용했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/883ca172-84a0-456c-a85b-b42f4c3817a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포르쉐코리아가 선보인 '아트 따릉이']]></title>
-            <link>https://www.esquirekorea.co.kr/article/61275</link>
-            <guid>https://www.esquirekorea.co.kr/article/61275</guid>
-            <pubDate>Mon, 22 Nov 2021 06:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[특별한 의미를 담아 365개 한정판으로 제작했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/18/23b81ff5-b744-4cf2-93f1-c2e23708bcfb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

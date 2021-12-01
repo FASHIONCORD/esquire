@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 10:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 11:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EVERYDAY HOLIDAY]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61368</link>
+            <guid>https://www.esquirekorea.co.kr/article/61368</guid>
+            <pubDate>Wed, 01 Dec 2021 11:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[평범한 하루를 특별하게 보내는 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e34bda4a-39de-42cc-bcf1-474c1ae5c4d5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2013년 한정 제작된 F&F 슈프림 x 롤렉스 서브마리너 매물 등장]]></title>
             <link>https://www.esquirekorea.co.kr/article/61651</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Nov 2021 16:29:39 GMT</pubDate>
             <content:encoded><![CDATA[사이클링 장갑, 바라클라바를 포함한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/5eadd554-9fc0-4fe5-93d0-d9bc7918ae71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위켄드 <Starboy> 5주년 기념 세븐스헤븐과 협업]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61541</link>
-            <guid>https://www.esquirekorea.co.kr/article/61541</guid>
-            <pubDate>Mon, 29 Nov 2021 12:30:27 GMT</pubDate>
-            <content:encoded><![CDATA[앨범의 상징인 십자가와 벼락 모양을 볼 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/49314233-c0ae-46f3-b62f-451cf535e4a5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

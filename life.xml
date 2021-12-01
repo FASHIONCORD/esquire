@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 10:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 11:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과천 경마장 렛츠런파크 근처 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61660</link>
+            <guid>https://www.esquirekorea.co.kr/article/61660</guid>
+            <pubDate>Wed, 01 Dec 2021 11:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[1년 만에 활기 띤 렛츠런파크에 과몰입했다면? 허기진 배를 채워줄 맛집을 찾아갈 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/670520fb-4feb-4680-a9bd-900e7b9225f8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[286개의 피스로 제작된 레고 조던]]></title>
+            <link>https://www.esquirekorea.co.kr/article/61655</link>
+            <guid>https://www.esquirekorea.co.kr/article/61655</guid>
+            <pubDate>Wed, 01 Dec 2021 11:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[에어 조던 1 시카고를 그대로 빼닮은 레고가 등장했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/ce75b2db-bc36-4092-bb22-a6e786a8880e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[케이스티파이 <오징어게임> 컬렉션]]></title>
             <link>https://www.esquirekorea.co.kr/article/61654</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 30 Nov 2021 03:18:43 GMT</pubDate>
             <content:encoded><![CDATA[‘국민타자’ 이승엽이 잊히는 날.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/27/58d455a9-b525-4fa6-b8d1-ba84991e88e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호텔 뷔페가 2만원? ‘예약 필수’ 가성비 호텔 뷔페 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61568</link>
-            <guid>https://www.esquirekorea.co.kr/article/61568</guid>
-            <pubDate>Tue, 30 Nov 2021 01:01:33 GMT</pubDate>
-            <content:encoded><![CDATA[조금만 찾아 보면 합리적인 가격으로 일급 호텔의 뷔페를 그대로 즐길 수 있다. 서울과 부산 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/27/88a6d4cc-5e80-4d05-bb22-4750144357e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제주, 양평, 임실의 이색 몽골 게르 숙소 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61566</link>
-            <guid>https://www.esquirekorea.co.kr/article/61566</guid>
-            <pubDate>Tue, 30 Nov 2021 01:01:33 GMT</pubDate>
-            <content:encoded><![CDATA[몽골 전통 주택 ‘게르'에서 특별한 하룻밤을 보낼 수 있는 숙소 네 곳을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/26/b0a92970-40c4-47a9-9d80-9ec9baa051f8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
