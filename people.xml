@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 02:35:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 21:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넉살 "전 까데호 형들한테 세뇌당한 게 분명해요."]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66541</link>
+            <guid>https://www.esquirekorea.co.kr/article/66541</guid>
+            <pubDate>Tue, 24 May 2022 21:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[넉살이 인디 신에서 가장 도발적인 잼 세션 밴드 까데호와 함께 돌아왔다. 메트로놈 템포도 맞...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/20eaf1c9-67a2-40c1-b838-93f6edf5de5b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구교환 "저한테 희극과 비극은 늘 공존하는 것 같아요. 오히려 나누기가 어려운 거."]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66515</link>
+            <guid>https://www.esquirekorea.co.kr/article/66515</guid>
+            <pubDate>Tue, 24 May 2022 21:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[엉뚱한 답을 내놓을지언정 상투어로 답하거나 얼버무리는 법은 알지 못한다. 그 자신의 연기처럼...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/8822f0aa-008f-44e0-8f23-45df57c549c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넉살 "까데호는 정말 미친 사람들이에요. 이게 정말 맞나 싶어요."]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66531</link>
+            <guid>https://www.esquirekorea.co.kr/article/66531</guid>
+            <pubDate>Tue, 24 May 2022 21:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[넉살이 인디 신에서 가장 도발적인 잼 세션 밴드 까데호와 함께 돌아왔다. 메트로놈 템포도 맞...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/cf47486f-07bb-4411-afab-239b45b91f82.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구교환이 계속 신인상을 받고 싶다고 한 이유]]></title>
             <link>https://www.esquirekorea.co.kr/article/66516</link>
@@ -44,29 +68,6 @@
             <pubDate>Tue, 24 May 2022 02:34:39 GMT</pubDate>
             <content:encoded><![CDATA[일론 머스크에 이어 스눕독도 탐낸다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/33342c7b-9924-41ff-a52e-78abdae7e5f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ENGINEERING DREAMS]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66268</link>
-            <guid>https://www.esquirekorea.co.kr/article/66268</guid>
-            <pubDate>Tue, 24 May 2022 02:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[IWC 시계 오너이자 유용욱바베큐연구소를 이끌고 있는 유용욱 소장을 만났다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/13601190-57db-4a50-93da-ccca7cb332e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[B.I가 얼굴에서 가장 마음에 드는 부분은?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66201</link>
-            <guid>https://www.esquirekorea.co.kr/article/66201</guid>
-            <pubDate>Tue, 24 May 2022 02:34:39 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/06/28edab93-b13d-48f4-b47d-1c1ae8346214.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PSY 싸이가 다녀간 전국구 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66163</link>
-            <guid>https://www.esquirekorea.co.kr/article/66163</guid>
-            <pubDate>Tue, 24 May 2022 02:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[5년만에 정규 앨범 ‘싸다9’로 돌아온 PSY 싸이! 한식파라는 싸이가 다녀간 전국구 맛집을 소...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/76ddd75e-16b9-4a21-b48f-ba6a788edfda.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
