@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 22:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 09:27:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“추앙한다” 손석구에 대해 몰랐던 사실 12]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66609</link>
+            <guid>https://www.esquirekorea.co.kr/article/66609</guid>
+            <pubDate>Wed, 25 May 2022 09:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;나의 해방일지&gt;에서 마성의 ‘구 씨’ 역을 맡은 배우 손석구에 대해 샅샅이 파헤쳐 보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/1fbe9161-8ac7-4d9d-aa35-fbd55f0460fa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[셀린느가 만든 200만원짜리 강아지 밥그릇]]></title>
             <link>https://www.esquirekorea.co.kr/article/66598</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 24 May 2022 02:34:28 GMT</pubDate>
             <content:encoded><![CDATA[축하할 일, 즐거운 일 많은 계절에 혼자 떠나기 좋은 숙소.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/c33cd6ff-1d99-451d-b38b-0285af992b67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이클 잭슨, 미공개 곡 포함된 스페셜 에디션 발매]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66505</link>
-            <guid>https://www.esquirekorea.co.kr/article/66505</guid>
-            <pubDate>Tue, 24 May 2022 02:34:28 GMT</pubDate>
-            <content:encoded><![CDATA[‘Thriller’ 40주년 기념.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/19/a9f6405e-a7ed-4887-807e-ca1938de9543.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

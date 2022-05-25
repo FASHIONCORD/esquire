@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 22:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 09:27:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjNfMTM1/MDAxNjQwMjAxMDM2NzIz.mVKK6nO3h-a_gGDqOgYpjMs5mH0EtjLm_UznPxV7y5cg.QP4RdKrxKo4E8wnFIhm-VpkAGBMYpf5ueN1qxllnmkgg.PNG/IRT6TacQbmL86k2ZfP8dK0QtPONU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가벼운 남자 봄 스타일링 (네이버 포스트 ─ 에스콰이어 코리아 ─ ESHOP)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33845291&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33845291&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Wed, 25 May 2022 09:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MjNfMjE2/MDAxNjUzMjk1OTMxMzgw.3oZewP8KN1oGJnp2jpP48VQ_4nBBYdjS6Regf2ixK0Ug.kbeSi-V96D_2MmAmkmFH1T6DxDriTQplxw7cK9vaSOIg.JPEG/Ip9IRV5olNFGToFMPXW91Qw_EkiI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[소년미 가득 넘치는 남친룩 (네이버 포스트 ─ 에스콰이어 코리아 ─ ESHOP)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33845249&amp;memberNo=40217187&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33845249&amp;memberNo=40217187&amp;navigationType=push</guid>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 24 May 2022 02:32:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDhfMTI1/MDAxNjQ5NDA5NzI0NTEy.XfREbXHYwEptnmtFu6We17Z7KjKCR8oryax6CECmSkkg.5Lo3iDWrQKGg1cYPKFBToRhohA2-KNR-Mf5ZmJt26Zkg.JPEG/IsCnBF0eyTJaIDyNeSPu23Xu6j4E.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옷장 속 묵혀둔 데님을 꺼내야할 때 (네이버 포스트 ─ 에스콰이어 코리아 ─ ESHOP)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33597007&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33597007&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Tue, 24 May 2022 02:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MDhfMjUx/MDAxNjQ5NDA4ODg4NzA3.mVTS2H5mODBs5RLG6XPgbikGR92FPERHwh0wj3XQBpAg.t_JA02gepl-_AovjI1vXeEaOsPjnVbOckA8GkHvlNAkg.JPEG/IF_hTVdJ7b5_UuQvuU07IMw4V9yw.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드롱기, 도슨트의 오감을 깨우다 (네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE)]]></title>
@@ -1261,68 +1261,68 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202109/30/d349accd-2161-4a1e-999e-97dedfa5c8e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[EVERYDAY HOLIDAY (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61368</link>
-            <guid>https://www.esquirekorea.co.kr/article/61368</guid>
-            <pubDate>Wed, 01 Dec 2021 11:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[평범한 하루를 특별하게 보내는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/30/e34bda4a-39de-42cc-bcf1-474c1ae5c4d5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[집에서 만들어 즐기는 수제 맥주, LG 홈브루 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66103</link>
+            <guid>https://www.esquirekorea.co.kr/article/66103</guid>
+            <pubDate>Tue, 24 May 2022 02:33:47 GMT</pubDate>
+            <content:encoded><![CDATA[신혼 부부를 위한 홈술 로망템 LG 홈브루]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/17/8f4bb25e-a794-404e-bca5-4288c8506e2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['죽은 원두도 살린다'는 발뮤다의 커피메이커 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61580</link>
-            <guid>https://www.esquirekorea.co.kr/article/61580</guid>
-            <pubDate>Wed, 01 Dec 2021 16:30:45 GMT</pubDate>
-            <content:encoded><![CDATA[집념의 한 잔.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202112/01/a1717423-e40d-4583-8e33-f93ff011f331.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[SK텔레콤 2G 서비스 종료 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66434</link>
+            <guid>https://www.esquirekorea.co.kr/article/66434</guid>
+            <pubDate>Wed, 25 May 2022 09:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[더 이상 011로 시작하는 번호를 사용할 수 없다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/17/b80e7d9e-a266-447e-aa31-0c5901342e69.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아우디 Q4 e-트론 공개, ‘6천만원대’ ‘520km’ (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61509</link>
-            <guid>https://www.esquirekorea.co.kr/article/61509</guid>
-            <pubDate>Wed, 01 Dec 2021 16:30:45 GMT</pubDate>
-            <content:encoded><![CDATA[아우디코리아가 순수 전기 SUV Q4 e-트론을 공개하며 또 한번 기술을 통한 진보를 입증했...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/25/0aaa4a69-4392-494a-abf3-2254f07c97a4.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[가볍지만 스마트한 선택, 레노버 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66367</link>
+            <guid>https://www.esquirekorea.co.kr/article/66367</guid>
+            <pubDate>Wed, 25 May 2022 09:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[성능과 휴대성 모두 잡은 초경량 고효율 노트북.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/16/5c2756ce-8525-4071-b538-760cd27556eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인스타그램에 올린 사진 따로 삭제할 수 있는 기능 추가 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61472</link>
-            <guid>https://www.esquirekorea.co.kr/article/61472</guid>
-            <pubDate>Wed, 01 Dec 2021 11:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[이제 잘못 올린 사진만 삭제하면 된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/705aa211-2e64-4b17-a2fe-47b58cd7b05d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[UFO 공개 청문회 진행하는 미국 의회 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66373</link>
+            <guid>https://www.esquirekorea.co.kr/article/66373</guid>
+            <pubDate>Wed, 25 May 2022 09:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[미확인 비행 물체 143건에 대해.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/cc80d523-c896-468b-bb0b-94ab641e41e8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[업계 최초로 무인편의점에 AI카메라 도입한 GS25 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61471</link>
-            <guid>https://www.esquirekorea.co.kr/article/61471</guid>
-            <pubDate>Tue, 30 Nov 2021 03:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[신규 개설되는 모든 GS25 무인 편의점에 설치된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/847541b0-dfd9-40ab-b4a5-9abb78637551.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[구글 '거리 뷰' 진화된 '몰입형 뷰' 기능 도입 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66372</link>
+            <guid>https://www.esquirekorea.co.kr/article/66372</guid>
+            <pubDate>Wed, 25 May 2022 09:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[세계 곳곳의 랜드마크가 눈앞에 펼쳐진다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/8ff4f453-6d7a-4769-aec6-f770e80848b1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스마트 TV 전용 앱을 출시한 틱톡 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61466</link>
-            <guid>https://www.esquirekorea.co.kr/article/61466</guid>
-            <pubDate>Tue, 30 Nov 2021 03:17:52 GMT</pubDate>
-            <content:encoded><![CDATA['포유'기능과 팔로잉 피드를 대형 스크린에서 즐길 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/24/1e095cec-0a64-4eb7-b9d9-5e7c75a57fe9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[인스타그램 프로필에 NFT 적용 기능 테스트 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66350</link>
+            <guid>https://www.esquirekorea.co.kr/article/66350</guid>
+            <pubDate>Wed, 25 May 2022 09:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[페이스북에도 NFT 기능 출시할 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/12/a8a30413-9816-4fec-928a-f044cc9475b0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[경북 포항에 오픈한 국내 첫 체험형 조형물 '스페이스워크' (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61386</link>
-            <guid>https://www.esquirekorea.co.kr/article/61386</guid>
-            <pubDate>Sat, 27 Nov 2021 15:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[총 길이 333m로 진도 6.5의 지진에도 견딜 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/48b2847a-3744-4dd1-8daa-5135f20b82d1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[서울에서 열리는 세계 최고 전기차 경주대회 서울 E-프리 2022 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66338</link>
+            <guid>https://www.esquirekorea.co.kr/article/66338</guid>
+            <pubDate>Wed, 25 May 2022 09:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[22대의 차량과 22명의 드라이버가 참가한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/864aaf25-e903-40d6-b6cc-4d748b50b1cd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가상화폐 비트코인, 이더리움, 리플, 에이다로 결제 가능한 서울 식당 2 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61347</link>
-            <guid>https://www.esquirekorea.co.kr/article/61347</guid>
-            <pubDate>Thu, 25 Nov 2021 07:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[약수 ‘치맛살’에서 고기를, 이태원 ‘더젤’에서 와인을 가상화폐로 이용할 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/8a0169a8-accc-4a35-b8a1-7a6a9bf2a17b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[메타버스에서 만나는 스포티파이 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66158</link>
+            <guid>https://www.esquirekorea.co.kr/article/66158</guid>
+            <pubDate>Wed, 25 May 2022 09:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[자신만의 비트를 만들어 공유할 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/cbf7083b-a779-4219-bb56-5c002f30e6df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스시로 100엔 초밥 사라진다 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1389,6 +1389,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/564d5b11-d21e-4c4b-b979-a71c3b1541d9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“추앙한다” 손석구에 대해 몰랐던 사실 12 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66609</link>
+            <guid>https://www.esquirekorea.co.kr/article/66609</guid>
+            <pubDate>Wed, 25 May 2022 09:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;나의 해방일지&gt;에서 마성의 ‘구 씨’ 역을 맡은 배우 손석구에 대해 샅샅이 파헤쳐 보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/1fbe9161-8ac7-4d9d-aa35-fbd55f0460fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[셀린느가 만든 200만원짜리 강아지 밥그릇 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/66598</link>
             <guid>https://www.esquirekorea.co.kr/article/66598</guid>
@@ -1445,12 +1453,36 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/c33cd6ff-1d99-451d-b38b-0285af992b67.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마이클 잭슨, 미공개 곡 포함된 스페셜 에디션 발매 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66505</link>
-            <guid>https://www.esquirekorea.co.kr/article/66505</guid>
-            <pubDate>Tue, 24 May 2022 02:34:28 GMT</pubDate>
-            <content:encoded><![CDATA[‘Thriller’ 40주년 기념.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/19/a9f6405e-a7ed-4887-807e-ca1938de9543.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[<안나라수마나라> 지창욱 "그래서 사막을 달릴 수 있는 바이크를 샀지요." (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66581</link>
+            <guid>https://www.esquirekorea.co.kr/article/66581</guid>
+            <pubDate>Wed, 25 May 2022 09:26:20 GMT</pubDate>
+            <content:encoded><![CDATA[지창욱과 차기작 얘기를 하다 문득 정신을 차리고 보니 우린 연기라는 기예의 미래에 대해 이야...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/98bd4b5a-296f-498b-ade4-2be1a0061506.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“추앙한다” 손석구에 대해 몰랐던 사실 12 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66609</link>
+            <guid>https://www.esquirekorea.co.kr/article/66609</guid>
+            <pubDate>Wed, 25 May 2022 09:26:20 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;나의 해방일지&gt;에서 마성의 ‘구 씨’ 역을 맡은 배우 손석구에 대해 샅샅이 파헤쳐 보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/1fbe9161-8ac7-4d9d-aa35-fbd55f0460fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<안나라수마나라> 지창욱 "이야기 중 일부는 제 얘기라고 생각했어요" (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66580</link>
+            <guid>https://www.esquirekorea.co.kr/article/66580</guid>
+            <pubDate>Wed, 25 May 2022 09:26:20 GMT</pubDate>
+            <content:encoded><![CDATA[지창욱과 차기작 얘기를 하다 문득 정신을 차리고 보니 우린 연기라는 기예의 미래에 대해 이야...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/5b02e1fb-57f6-420a-954a-8fe713f821f0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이주영이 <브로커> 시나리오 받고 먼저 한 일은? (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66551</link>
+            <guid>https://www.esquirekorea.co.kr/article/66551</guid>
+            <pubDate>Tue, 24 May 2022 21:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[최근 풋살에 푹 빠진 이주영을 만나 지나온 필모그래피와 앞으로 기대하는 것들에 대해 이야기를...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/2ee3a46c-2f29-4cf2-8b45-de64628bc34a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넉살 "전 까데호 형들한테 세뇌당한 게 분명해요." (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1483,36 +1515,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 24 May 2022 02:34:39 GMT</pubDate>
             <content:encoded><![CDATA[엉뚱한 답을 내놓을지언정 상투어로 답하거나 얼버무리는 법은 알지 못한다. 그 자신의 연기처럼...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/e64fb724-e4f0-46db-8e77-7f23c9a5ce29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지창욱이 작품을 고르는 기준은? (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66522</link>
-            <guid>https://www.esquirekorea.co.kr/article/66522</guid>
-            <pubDate>Tue, 24 May 2022 02:34:39 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/19/ecd67466-a62c-4883-bde0-3822acc1bd31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이클 잭슨, 미공개 곡 포함된 스페셜 에디션 발매 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66505</link>
-            <guid>https://www.esquirekorea.co.kr/article/66505</guid>
-            <pubDate>Tue, 24 May 2022 02:34:28 GMT</pubDate>
-            <content:encoded><![CDATA[‘Thriller’ 40주년 기념.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/19/a9f6405e-a7ed-4887-807e-ca1938de9543.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구교환이 군만두에게 보낸 메시지는? (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66484</link>
-            <guid>https://www.esquirekorea.co.kr/article/66484</guid>
-            <pubDate>Tue, 24 May 2022 02:34:39 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/19/de14c343-e928-4f67-bb0b-67d93b5bc9db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터 제가 살게요 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66458</link>
-            <guid>https://www.esquirekorea.co.kr/article/66458</guid>
-            <pubDate>Tue, 24 May 2022 02:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[일론 머스크에 이어 스눕독도 탐낸다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/33342c7b-9924-41ff-a52e-78abdae7e5f8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스시로 100엔 초밥 사라진다 (에스콰이어 코리아 ─ 나우)]]></title>
@@ -1579,68 +1581,68 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/10/0f3ac661-0dce-4b5d-a81b-dd755075f7ad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Eshop] 스타일과 기능을 한 번에, 바람막이 스타일링 (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61359</link>
-            <guid>https://www.esquirekorea.co.kr/article/61359</guid>
-            <pubDate>Tue, 30 Nov 2021 15:25:49 GMT</pubDate>
-            <content:encoded><![CDATA[편한고 멋스러운 바람막이.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/22/70ea9bd5-86f5-4966-9d0a-f45ebd6aed36.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[Eshop] 기본에 충실한 셋업 룩 (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66361</link>
+            <guid>https://www.esquirekorea.co.kr/article/66361</guid>
+            <pubDate>Wed, 25 May 2022 09:27:15 GMT</pubDate>
+            <content:encoded><![CDATA[활용도까지 챙긴 셋업]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/54ff9fb3-023f-41ae-bb63-5e2140c8a298.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Eshop] 니트의 무한 매력 (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61310</link>
-            <guid>https://www.esquirekorea.co.kr/article/61310</guid>
-            <pubDate>Sun, 28 Nov 2021 16:29:52 GMT</pubDate>
-            <content:encoded><![CDATA[스타일과 보온을 한 번에 챙기는 집업 니트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/19/07fcbe27-545a-4438-9e2a-c11deb581505.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[Eshop] 봄 니트 코디 참고서 (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66099</link>
+            <guid>https://www.esquirekorea.co.kr/article/66099</guid>
+            <pubDate>Wed, 25 May 2022 09:27:15 GMT</pubDate>
+            <content:encoded><![CDATA[확실한 포인트를 더하고 싶을 땐 ‘패턴’]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/b13d3277-aefa-4c47-bd64-36510191538c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Eshop] 짧게 흘러가는 가을에 가장 잘 어울리는 트렌치코트 (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61236</link>
-            <guid>https://www.esquirekorea.co.kr/article/61236</guid>
-            <pubDate>Thu, 25 Nov 2021 19:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[유난스럽지 않고, 멋스러운 트렌치코트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/17/7e9f38fd-c40a-404d-9300-351a585cdc6f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[Eshop] 개성 넘치는 애나멜 아우터 (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66228</link>
+            <guid>https://www.esquirekorea.co.kr/article/66228</guid>
+            <pubDate>Wed, 25 May 2022 09:27:15 GMT</pubDate>
+            <content:encoded><![CDATA[경쾌하고 산뜻한 에나멜 광택]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/1de5967a-b869-4010-9c77-4f7448ad2261.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Eshop] 찬바람 불 땐 카디건 (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61180</link>
-            <guid>https://www.esquirekorea.co.kr/article/61180</guid>
-            <pubDate>Thu, 25 Nov 2021 10:26:33 GMT</pubDate>
-            <content:encoded><![CDATA[없던 분위기도 만들어주는 카디건 코디.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/15/612a647e-2172-44a5-a604-c2afda0cf662.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[Eshop] 간절기에 화사한 니트로 완벽 대비 (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66181</link>
+            <guid>https://www.esquirekorea.co.kr/article/66181</guid>
+            <pubDate>Wed, 25 May 2022 09:27:15 GMT</pubDate>
+            <content:encoded><![CDATA[보기만 해도 봄이 온 것 같은 컬러 활용하기]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/06/4da0c69b-f835-4ffa-a662-5a83fb315f98.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Eshop] 시크한 매력의 여자 수트 코디 (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61124</link>
-            <guid>https://www.esquirekorea.co.kr/article/61124</guid>
-            <pubDate>Tue, 23 Nov 2021 15:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[수트 코디에 캐주얼한 포인트 더하기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/12/d3a72bc8-e219-4689-b803-02a45afa5f3e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[Eshop] 새로운 감각의 데님 스커트 (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66117</link>
+            <guid>https://www.esquirekorea.co.kr/article/66117</guid>
+            <pubDate>Wed, 25 May 2022 09:27:15 GMT</pubDate>
+            <content:encoded><![CDATA[90년대와 2000년대 초반으로 돌아간 것만 같은 데님 스타일]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/8f2feb88-116a-4437-bdb5-9a87bd8e8674.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Eshop] 캐주얼함의 진수, 가죽 재킷 (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/61091</link>
-            <guid>https://www.esquirekorea.co.kr/article/61091</guid>
-            <pubDate>Sun, 21 Nov 2021 15:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[실내외에서도 패셔너블함은 놓칠 수 없으니까.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/11/e87b3643-feee-455b-a136-c938529a5bd4.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[Eshop] 멋쟁이들의 필수템 트렌치코트 (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66018</link>
+            <guid>https://www.esquirekorea.co.kr/article/66018</guid>
+            <pubDate>Wed, 25 May 2022 09:27:15 GMT</pubDate>
+            <content:encoded><![CDATA[가볍고, 멋스럽고 활용도 높은 아우터]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/4d98b1b1-b25a-4cfa-9698-4aac3e0840f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Eshop] 나만의 무드를 담은 트렌치코트 (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60949</link>
-            <guid>https://www.esquirekorea.co.kr/article/60949</guid>
-            <pubDate>Thu, 18 Nov 2021 15:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[가을 멋쟁이의 필수템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/05/5843da15-7928-4f02-8d0d-23457246c5b1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[Eshop] 사랑스러운 봄맞이 코디 (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/65933</link>
+            <guid>https://www.esquirekorea.co.kr/article/65933</guid>
+            <pubDate>Wed, 25 May 2022 09:27:15 GMT</pubDate>
+            <content:encoded><![CDATA[발랄함을 더해줄 메리제인 슈즈까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/98567ebd-b1e6-4eb9-953e-133f2bbf2d6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Eshop] 은은하게 섹시한 수트 코디 (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/60880</link>
-            <guid>https://www.esquirekorea.co.kr/article/60880</guid>
-            <pubDate>Tue, 16 Nov 2021 16:27:47 GMT</pubDate>
-            <content:encoded><![CDATA[브이넥 니트를 매치하면 금상첨화.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202111/03/08d63064-c6e3-4402-b504-10d86669c874.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[Eshop] 봄에 뭐 입지? (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/65364</link>
+            <guid>https://www.esquirekorea.co.kr/article/65364</guid>
+            <pubDate>Wed, 25 May 2022 09:27:15 GMT</pubDate>
+            <content:encoded><![CDATA[체크 패턴의 그레이 재킷을 꺼내야 할 때]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/27/6f79b04a-8aa9-43af-a460-8f81029d01f2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
