@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 13:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 19:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폴로셔츠라는 아이콘]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66676</link>
+            <guid>https://www.esquirekorea.co.kr/article/66676</guid>
+            <pubDate>Thu, 26 May 2022 19:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[랄프 로렌은 리졸리와 함께 &lt;폴로셔츠&gt; 북을 발간한다. 1972년 이래 랄프 로렌의 상징이 되어온...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/ef7a3360-57fd-498a-8135-37a4d7dfd77e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[개인 브랜드 론칭을 앞둔 손흥민 선수]]></title>
             <link>https://www.esquirekorea.co.kr/article/66672</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 24 May 2022 21:19:14 GMT</pubDate>
             <content:encoded><![CDATA[자크뮈스와 나이키의 첫 만남부터 엘엠씨와 뉴에라의 두 번째 만남까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/17/a34dba35-ae07-4c62-b347-fe1435b83caf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자라와 루이지 빌라시뇨르가 만든 옷]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66441</link>
-            <guid>https://www.esquirekorea.co.kr/article/66441</guid>
-            <pubDate>Tue, 24 May 2022 02:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[루이지 빌라시뇨르는 지금 이 세상에 필요한 옷을 만든다. 그에게 삶과 옷에 대한 이야기를 들...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/17/fef6dcdc-6965-495a-9664-099e7dbbd5c3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 13:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 19:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1133,6 +1133,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[폴로셔츠라는 아이콘 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66676</link>
+            <guid>https://www.esquirekorea.co.kr/article/66676</guid>
+            <pubDate>Thu, 26 May 2022 19:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[랄프 로렌은 리졸리와 함께 &lt;폴로셔츠&gt; 북을 발간한다. 1972년 이래 랄프 로렌의 상징이 되어온...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/ef7a3360-57fd-498a-8135-37a4d7dfd77e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[개인 브랜드 론칭을 앞둔 손흥민 선수 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/66672</link>
             <guid>https://www.esquirekorea.co.kr/article/66672</guid>
@@ -1187,14 +1195,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 24 May 2022 21:19:14 GMT</pubDate>
             <content:encoded><![CDATA[자크뮈스와 나이키의 첫 만남부터 엘엠씨와 뉴에라의 두 번째 만남까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/17/a34dba35-ae07-4c62-b347-fe1435b83caf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자라와 루이지 빌라시뇨르가 만든 옷 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66441</link>
-            <guid>https://www.esquirekorea.co.kr/article/66441</guid>
-            <pubDate>Tue, 24 May 2022 02:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[루이지 빌라시뇨르는 지금 이 세상에 필요한 옷을 만든다. 그에게 삶과 옷에 대한 이야기를 들...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/17/fef6dcdc-6965-495a-9664-099e7dbbd5c3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ENGINEERING DREAMS (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1515,6 +1515,38 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/e64fb724-e4f0-46db-8e77-7f23c9a5ce29.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[예비군 동원훈련이 2년 만에 재개된다 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66613</link>
+            <guid>https://www.esquirekorea.co.kr/article/66613</guid>
+            <pubDate>Thu, 26 May 2022 11:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[예비군복을 어디에 두었더라?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/d22c5501-9acc-4793-a0d9-25cccb592529.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알고 보니 칼국수 성지. 성수동 칼국수 맛집 5 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66553</link>
+            <guid>https://www.esquirekorea.co.kr/article/66553</guid>
+            <pubDate>Thu, 26 May 2022 11:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[이열치열. 올여름엔 면치기 하러 성수동으로 떠나보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/22/a304be3e-9977-4177-9c2d-28b57904f3af.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드디어 내한공연 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66492</link>
+            <guid>https://www.esquirekorea.co.kr/article/66492</guid>
+            <pubDate>Thu, 26 May 2022 19:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[매진되기 전에 예매하자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/946cb9a4-39e5-4503-9994-95719049de09.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국의 두 번째 특별자치도로 출범 예정인 강원도 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66488</link>
+            <guid>https://www.esquirekorea.co.kr/article/66488</guid>
+            <pubDate>Thu, 26 May 2022 19:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[628년 만에 강원특별자치도라는 행정 명칭으로 바뀌게 된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/3a211b38-de18-422c-be33-ef0dac84a150.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스시로 100엔 초밥 사라진다 (에스콰이어 코리아 ─ 나우)]]></title>
             <link>https://www.esquirekorea.co.kr/article/66459</link>
             <guid>https://www.esquirekorea.co.kr/article/66459</guid>
@@ -1545,38 +1577,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 24 May 2022 21:22:24 GMT</pubDate>
             <content:encoded><![CDATA[20세기 미술품 역사상 최고가를 경신했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/19afd605-5560-4a8b-ac62-3915da3aaef4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어송라이터 앤더슨 팩 영화감독 데뷔 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66337</link>
-            <guid>https://www.esquirekorea.co.kr/article/66337</guid>
-            <pubDate>Tue, 24 May 2022 21:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[앤더슨 팩의 실제 아들이 영화 속 주인공의 아들로 등장한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/d27ebca0-df3c-4765-9f6c-ffabf7533f43.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스톤 아일랜드 x 슈프림 콜라보 소식 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66300</link>
-            <guid>https://www.esquirekorea.co.kr/article/66300</guid>
-            <pubDate>Tue, 24 May 2022 21:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[5월 12일 슈프림 웹사이트에서 구매 가능.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/10/f225c9ab-c3cf-41b5-aeed-eff66493b22a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티웨이항공, 국제선 항공권 프로모션 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66298</link>
-            <guid>https://www.esquirekorea.co.kr/article/66298</guid>
-            <pubDate>Tue, 24 May 2022 21:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[항공권 예약 변경 수수료 면제에 PCR 검사 할인까지?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/10/56978a02-0887-4a83-a821-f6efa73a4d0a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4만원대에 팔린 고대 로마시대 유물 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66297</link>
-            <guid>https://www.esquirekorea.co.kr/article/66297</guid>
-            <pubDate>Tue, 24 May 2022 21:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[19세기 독일 바이에른 왕가의 수집품이던 대리석 흉상이 미국의 골동품 수집가에 의해 발견됐다....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/10/0f3ac661-0dce-4b5d-a81b-dd755075f7ad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 기본에 충실한 셋업 룩 (에스콰이어 코리아 ─ 이샵)]]></title>
