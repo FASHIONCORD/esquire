@@ -4,9 +4,32 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 18:32:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 23:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보난자 커피 서울 상륙! 뉴욕과 베를린, 코펜하겐의 핫한 커피가 있는 곳은?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66751</link>
+            <guid>https://www.esquirekorea.co.kr/article/66751</guid>
+            <pubDate>Fri, 27 May 2022 23:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[베를린 3대 로스터리 보난자 커피와 더 반 커피부터 미국, 영국, 덴마크의 유명 로스터리 원두...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/d181e43a-5116-49ca-ab8a-dd9c7103748e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본의 베테랑 신문기자가 '시티팝 붐'을 보며 느낀 것]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66744</link>
+            <guid>https://www.esquirekorea.co.kr/article/66744</guid>
+            <pubDate>Fri, 27 May 2022 23:22:25 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/a5e7b274-e6fb-45f6-9b81-fd9ee9aa340d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올해 해운대해수욕장은 언제 개장할까?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66738</link>
+            <guid>https://www.esquirekorea.co.kr/article/66738</guid>
+            <pubDate>Fri, 27 May 2022 23:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[해운대를 비롯한 부산 대표 해수욕장 7곳 개장일 정리.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/337d279d-1304-48f3-ac4d-8d1cef3a1429.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최고 고객을 위한 프라이빗 부티크 선보이는 샤넬]]></title>
             <link>https://www.esquirekorea.co.kr/article/66726</link>
@@ -45,29 +68,6 @@
             <pubDate>Thu, 26 May 2022 11:21:14 GMT</pubDate>
             <content:encoded><![CDATA[바로 내일부터 관람 가능하다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/15a11d40-d83c-4cdd-b2d0-b82fd2f71937.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개인 브랜드 론칭을 앞둔 손흥민 선수]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66672</link>
-            <guid>https://www.esquirekorea.co.kr/article/66672</guid>
-            <pubDate>Thu, 26 May 2022 11:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[NOS7 공식 인스타그램에 따르면 론칭일은 6월 17일로 예상된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/8733d773-f0ce-48b2-beb2-c4fbccf193af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[망원시장 신상 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66656</link>
-            <guid>https://www.esquirekorea.co.kr/article/66656</guid>
-            <pubDate>Thu, 26 May 2022 11:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[망원역 2번 출구로 나와 한 바퀴 걸어보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/7355c99d-ed39-4423-aad2-06528028832c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왜 마블 영화의 새 프랜차이즈 성공률은 DC보다 월등히 높을까?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66633</link>
-            <guid>https://www.esquirekorea.co.kr/article/66633</guid>
-            <pubDate>Thu, 26 May 2022 11:21:14 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/f8208bdb-66ca-4a27-9d58-1e834561e17b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
