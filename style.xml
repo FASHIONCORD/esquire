@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 09:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 11:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전시회에 등장한 다이애나 전 영국 왕세자비 결혼식 왕관]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66678</link>
+            <guid>https://www.esquirekorea.co.kr/article/66678</guid>
+            <pubDate>Fri, 27 May 2022 11:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[1960년대 이후 대중에게 처음 공개된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/46aa8f37-b5a8-49e7-8ac9-98ede28ce385.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폴로셔츠라는 아이콘]]></title>
             <link>https://www.esquirekorea.co.kr/article/66676</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 26 May 2022 11:20:08 GMT</pubDate>
             <content:encoded><![CDATA[샤넬의 아이코닉한 워치 컬렉션에 샤넬 로고를 대담하게 장식했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/66e01d1a-28aa-454e-be93-7beb6cd4bd07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언제 봐도 신선한 협업 소식]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66455</link>
-            <guid>https://www.esquirekorea.co.kr/article/66455</guid>
-            <pubDate>Tue, 24 May 2022 21:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[자크뮈스와 나이키의 첫 만남부터 엘엠씨와 뉴에라의 두 번째 만남까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/17/a34dba35-ae07-4c62-b347-fe1435b83caf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

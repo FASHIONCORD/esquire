@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 09:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 11:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최고 고객을 위한 프라이빗 부티크 선보이는 샤넬]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66726</link>
+            <guid>https://www.esquirekorea.co.kr/article/66726</guid>
+            <pubDate>Fri, 27 May 2022 11:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[2023년부터 오픈할 예정이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/b42dbab4-8d37-405a-82f3-8bdf4330a763.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Daily Paper X Beats 90년대 그라피티 담은 이어버드 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/66723</link>
@@ -60,14 +68,6 @@
             <guid>https://www.esquirekorea.co.kr/article/66633</guid>
             <pubDate>Thu, 26 May 2022 11:21:14 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/f8208bdb-66ca-4a27-9d58-1e834561e17b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키 50주년 메시지의 가장 중요한 키워드는 ‘포용’과 ‘여성’]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66623</link>
-            <guid>https://www.esquirekorea.co.kr/article/66623</guid>
-            <pubDate>Thu, 26 May 2022 11:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최대의 스포츠 브랜드는 그 탄생부터 '포용'을 택했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/e8d52926-56cd-427e-9747-b323adbaa171.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
