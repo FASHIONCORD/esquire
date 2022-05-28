@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 23:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 17:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리츠 X 오레오 한정판 콜라보 제품 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66728</link>
+            <guid>https://www.esquirekorea.co.kr/article/66728</guid>
+            <pubDate>Sat, 28 May 2022 17:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[1000개 한정으로 판매된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/95f8aa01-a96b-4c0b-93ad-d19921303be0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소맥 맛 재현한 '갓생 폭탄맥주' 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66721</link>
+            <guid>https://www.esquirekorea.co.kr/article/66721</guid>
+            <pubDate>Sat, 28 May 2022 17:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[섞을 필요 없이 한 캔으로 즐기는 소맥.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/d5d875a6-bc21-45d3-aa53-2e3d50086b07.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장비 욕심 자극하는 크롬하츠의 트러플 커터]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66679</link>
+            <guid>https://www.esquirekorea.co.kr/article/66679</guid>
+            <pubDate>Sat, 28 May 2022 17:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[은은하게 새겨진 고딕 십자가 문양이 돋보인다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/76b84a93-17d6-4c63-a234-c259751a8956.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[망원시장 신상 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/66656</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 26 May 2022 11:21:06 GMT</pubDate>
             <content:encoded><![CDATA[축하할 일, 즐거운 일 많은 계절에 혼자 떠나기 좋은 숙소.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/c33cd6ff-1d99-451d-b38b-0285af992b67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역대급 웨이팅! 소문난 신상 디저트 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66481</link>
-            <guid>https://www.esquirekorea.co.kr/article/66481</guid>
-            <pubDate>Thu, 26 May 2022 11:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[조금 기다려도 괜찮아.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/b4b68cc2-9434-4e75-b338-8622d373fa3f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스시로 100엔 초밥 사라진다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66459</link>
-            <guid>https://www.esquirekorea.co.kr/article/66459</guid>
-            <pubDate>Tue, 24 May 2022 02:33:47 GMT</pubDate>
-            <content:encoded><![CDATA[이젠 100엔으로 뭘 먹지?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/17/e270536f-b250-4274-93b2-86d3f1903e06.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동동주 맛집! 전통 민속주점 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66452</link>
-            <guid>https://www.esquirekorea.co.kr/article/66452</guid>
-            <pubDate>Tue, 24 May 2022 02:33:47 GMT</pubDate>
-            <content:encoded><![CDATA[막걸리 한 잔에 추억이 방울방울. 대학 분위기 물씬 나는 전통 민속주점을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/17/cdf4a683-422f-44b1-823b-c04653ef738b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
