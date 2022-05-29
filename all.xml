@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 17:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 20:27:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1260,6 +1260,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/03/34e9ffae-9ab4-4b7a-983d-5425ca2b23bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[최초 자체 설계 캠퍼스 공개한 구글 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66539</link>
+            <guid>https://www.esquirekorea.co.kr/article/66539</guid>
+            <pubDate>Sun, 29 May 2022 20:24:13 GMT</pubDate>
+            <content:encoded><![CDATA[90,000개의 태양 전지 패널로 만들어진 지붕이 돋보인다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/3efe1e11-e9cf-498c-99b8-730e094e8523.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삼성 갤럭시 버즈 2 포켓볼 이어폰 케이스 출시 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/66537</link>
             <guid>https://www.esquirekorea.co.kr/article/66537</guid>
@@ -1314,14 +1322,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 25 May 2022 09:24:08 GMT</pubDate>
             <content:encoded><![CDATA[세계 곳곳의 랜드마크가 눈앞에 펼쳐진다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/8ff4f453-6d7a-4769-aec6-f770e80848b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램 프로필에 NFT 적용 기능 테스트 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66350</link>
-            <guid>https://www.esquirekorea.co.kr/article/66350</guid>
-            <pubDate>Wed, 25 May 2022 09:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[페이스북에도 NFT 기능 출시할 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/12/a8a30413-9816-4fec-928a-f044cc9475b0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리츠 X 오레오 한정판 콜라보 제품 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1514,6 +1514,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/20eaf1c9-67a2-40c1-b838-93f6edf5de5b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[득점왕 손흥민이 받게 될 보너스는 얼마? (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66614</link>
+            <guid>https://www.esquirekorea.co.kr/article/66614</guid>
+            <pubDate>Thu, 26 May 2022 11:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[우리의 손흥민 득점도 왕 보너스도 왕이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/a224c06c-2ede-4a65-b886-6f8028d51d72.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[예비군 동원훈련이 2년 만에 재개된다 (에스콰이어 코리아 ─ 나우)]]></title>
             <link>https://www.esquirekorea.co.kr/article/66613</link>
             <guid>https://www.esquirekorea.co.kr/article/66613</guid>
@@ -1568,14 +1576,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 24 May 2022 21:19:14 GMT</pubDate>
             <content:encoded><![CDATA[자크뮈스와 나이키의 첫 만남부터 엘엠씨와 뉴에라의 두 번째 만남까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/17/a34dba35-ae07-4c62-b347-fe1435b83caf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역대 최고가에 낙찰된 앤디 워홀의 마릴린 먼로 초상화 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66340</link>
-            <guid>https://www.esquirekorea.co.kr/article/66340</guid>
-            <pubDate>Tue, 24 May 2022 21:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[20세기 미술품 역사상 최고가를 경신했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/19afd605-5560-4a8b-ac62-3915da3aaef4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 가벼운 남자 봄 스타일링 (에스콰이어 코리아 ─ 이샵)]]></title>

@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 17:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 20:27:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[득점왕 손흥민이 받게 될 보너스는 얼마?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66614</link>
+            <guid>https://www.esquirekorea.co.kr/article/66614</guid>
+            <pubDate>Sun, 29 May 2022 20:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[우리의 손흥민 득점도 왕 보너스도 왕이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/a224c06c-2ede-4a65-b886-6f8028d51d72.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예비군 동원훈련이 2년 만에 재개된다]]></title>
             <link>https://www.esquirekorea.co.kr/article/66613</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 24 May 2022 21:22:24 GMT</pubDate>
             <content:encoded><![CDATA[자크뮈스와 나이키의 첫 만남부터 엘엠씨와 뉴에라의 두 번째 만남까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/17/a34dba35-ae07-4c62-b347-fe1435b83caf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역대 최고가에 낙찰된 앤디 워홀의 마릴린 먼로 초상화]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66340</link>
-            <guid>https://www.esquirekorea.co.kr/article/66340</guid>
-            <pubDate>Tue, 24 May 2022 21:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[20세기 미술품 역사상 최고가를 경신했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/19afd605-5560-4a8b-ac62-3915da3aaef4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
