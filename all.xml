@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 07:26:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 17:27:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1578,6 +1578,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/19afd605-5560-4a8b-ac62-3915da3aaef4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Eshop] 가벼운 남자 봄 스타일링 (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66465</link>
+            <guid>https://www.esquirekorea.co.kr/article/66465</guid>
+            <pubDate>Sun, 29 May 2022 17:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[안경부터 가디건, 캔버스백  조합으로 완성]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/11805727-f487-4d58-822e-65691cabc02b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Eshop] 소년미 가득 넘치는 남친룩 (에스콰이어 코리아 ─ 이샵)]]></title>
             <link>https://www.esquirekorea.co.kr/article/66395</link>
             <guid>https://www.esquirekorea.co.kr/article/66395</guid>
@@ -1632,14 +1640,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 25 May 2022 09:27:15 GMT</pubDate>
             <content:encoded><![CDATA[가볍고, 멋스럽고 활용도 높은 아우터]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/4d98b1b1-b25a-4cfa-9698-4aac3e0840f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 사랑스러운 봄맞이 코디 (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/65933</link>
-            <guid>https://www.esquirekorea.co.kr/article/65933</guid>
-            <pubDate>Wed, 25 May 2022 09:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[발랄함을 더해줄 메리제인 슈즈까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202204/29/98567ebd-b1e6-4eb9-953e-133f2bbf2d6e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
