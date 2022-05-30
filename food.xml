@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 03:44:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 07:27:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보난자 커피 서울 상륙! 뉴욕과 베를린, 코펜하겐의 핫한 커피가 있는 곳은?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66751</link>
+            <guid>https://www.esquirekorea.co.kr/article/66751</guid>
+            <pubDate>Mon, 30 May 2022 07:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[베를린 3대 로스터리 보난자 커피와 더 반 커피부터 미국, 영국, 덴마크의 유명 로스터리 원두...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/d181e43a-5116-49ca-ab8a-dd9c7103748e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서브웨이, 버거킹 등 감자튀김 판매 일시 중단]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66747</link>
+            <guid>https://www.esquirekorea.co.kr/article/66747</guid>
+            <pubDate>Mon, 30 May 2022 07:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[또 '감튀 대란'?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/4bbbcaa0-790e-477e-bba2-048dee17b022.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리츠 X 오레오 한정판 콜라보 제품 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/66728</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 26 May 2022 11:21:06 GMT</pubDate>
             <content:encoded><![CDATA[이열치열. 올여름엔 면치기 하러 성수동으로 떠나보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/22/a304be3e-9977-4177-9c2d-28b57904f3af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스퀴즈 브루어리 '말표 배 에일' 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66538</link>
-            <guid>https://www.esquirekorea.co.kr/article/66538</guid>
-            <pubDate>Thu, 26 May 2022 11:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[달콤하고 시원한 배의 풍미와 탄산감.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/37aa3c69-f221-47d6-8b75-a4228a026907.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무소음 힐링 숙소 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66517</link>
-            <guid>https://www.esquirekorea.co.kr/article/66517</guid>
-            <pubDate>Thu, 26 May 2022 11:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[축하할 일, 즐거운 일 많은 계절에 혼자 떠나기 좋은 숙소.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/c33cd6ff-1d99-451d-b38b-0285af992b67.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
