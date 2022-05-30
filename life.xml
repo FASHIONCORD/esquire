@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 09:28:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 14:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인플레이션은 이미 도래해 있다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66792</link>
+            <guid>https://www.esquirekorea.co.kr/article/66792</guid>
+            <pubDate>Mon, 30 May 2022 14:20:57 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/29/f97e9eb9-97cc-4b4d-86a1-d0b28148acdb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울숲 나들이 후 즐기는 와인 한 잔. 서울숲 일대 와인바 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/66789</link>
@@ -60,14 +67,6 @@
             <pubDate>Sat, 28 May 2022 17:22:26 GMT</pubDate>
             <content:encoded><![CDATA[변압기, 신호등, 가로등, 표지판, 버스정류장 부스 파손 비용을 정리해 봤다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/dbeb3249-f715-4d60-bb36-db230bd64b00.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보난자 커피 서울 상륙! 뉴욕과 베를린, 코펜하겐의 핫한 커피가 있는 곳은?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66751</link>
-            <guid>https://www.esquirekorea.co.kr/article/66751</guid>
-            <pubDate>Fri, 27 May 2022 23:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[베를린 3대 로스터리 보난자 커피와 더 반 커피부터 미국, 영국, 덴마크의 유명 로스터리 원두...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/d181e43a-5116-49ca-ab8a-dd9c7103748e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
