@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 19:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 17:35:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계 최초 터치스크린 디스플레이 내장된 기계식 키보드]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66540</link>
+            <guid>https://www.esquirekorea.co.kr/article/66540</guid>
+            <pubDate>Tue, 31 May 2022 17:34:11 GMT</pubDate>
+            <content:encoded><![CDATA[자유롭게 커스텀도 할 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/676dfe20-c63f-43dc-8c0d-e469a53c6240.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최초 자체 설계 캠퍼스 공개한 구글]]></title>
             <link>https://www.esquirekorea.co.kr/article/66539</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 25 May 2022 09:24:08 GMT</pubDate>
             <content:encoded><![CDATA[미확인 비행 물체 143건에 대해.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/cc80d523-c896-468b-bb0b-94ab641e41e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 '거리 뷰' 진화된 '몰입형 뷰' 기능 도입]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66372</link>
-            <guid>https://www.esquirekorea.co.kr/article/66372</guid>
-            <pubDate>Wed, 25 May 2022 09:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[세계 곳곳의 랜드마크가 눈앞에 펼쳐진다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/8ff4f453-6d7a-4769-aec6-f770e80848b1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

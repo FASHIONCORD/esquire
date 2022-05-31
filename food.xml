@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 19:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 17:35:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도심 속에서 즐기는! 낭만적인 수상 보트 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66781</link>
+            <guid>https://www.esquirekorea.co.kr/article/66781</guid>
+            <pubDate>Tue, 31 May 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[노을 지는 석양 뷰, 반짝이는 야경 뷰와 함께 낭만적인 보트 여행을 떠나보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/28/417dbb1f-e972-4e1e-9504-6c7b837981f9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보난자 커피 서울 상륙! 뉴욕과 베를린, 코펜하겐의 핫한 커피가 있는 곳은?]]></title>
             <link>https://www.esquirekorea.co.kr/article/66751</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 27 May 2022 09:25:44 GMT</pubDate>
             <content:encoded><![CDATA[여기만 가도 성공! 장미 활짝 핀 올림픽공원 갔다가 가보기 좋은 성내동 맛집 A-to-Z.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/5ed82dcd-034e-424d-b97a-ba46a85be1ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알고 보니 칼국수 성지. 성수동 칼국수 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66553</link>
-            <guid>https://www.esquirekorea.co.kr/article/66553</guid>
-            <pubDate>Thu, 26 May 2022 11:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[이열치열. 올여름엔 면치기 하러 성수동으로 떠나보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/22/a304be3e-9977-4177-9c2d-28b57904f3af.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 19:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 17:35:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 다리가 길어 보이는 트렌디한 크롭 재킷]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66529</link>
+            <guid>https://www.esquirekorea.co.kr/article/66529</guid>
+            <pubDate>Tue, 31 May 2022 17:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[키가 작은 사람도 스타일리시하게 입을 수 있는 재킷]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/0ec2c579-e971-4fdf-9e60-8f16f2d93c57.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 가벼운 남자 봄 스타일링]]></title>
             <link>https://www.esquirekorea.co.kr/article/66465</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 25 May 2022 09:27:15 GMT</pubDate>
             <content:encoded><![CDATA[90년대와 2000년대 초반으로 돌아간 것만 같은 데님 스타일]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/8f2feb88-116a-4437-bdb5-9a87bd8e8674.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 멋쟁이들의 필수템 트렌치코트]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66018</link>
-            <guid>https://www.esquirekorea.co.kr/article/66018</guid>
-            <pubDate>Wed, 25 May 2022 09:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[가볍고, 멋스럽고 활용도 높은 아우터]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/02/4d98b1b1-b25a-4cfa-9698-4aac3e0840f4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

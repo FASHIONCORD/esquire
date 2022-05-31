@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 19:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 17:35:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Daily Paper X Beats 90년대 그라피티 담은 이어버드 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66723</link>
+            <guid>https://www.esquirekorea.co.kr/article/66723</guid>
+            <pubDate>Tue, 31 May 2022 17:33:54 GMT</pubDate>
+            <content:encoded><![CDATA[레드와 블랙 포인트가 돋보인다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/75c2b62d-61a6-4637-91f8-cdf52f2a2c2e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장비 욕심 자극하는 크롬하츠의 트러플 커터]]></title>
             <link>https://www.esquirekorea.co.kr/article/66679</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 26 May 2022 11:20:08 GMT</pubDate>
             <content:encoded><![CDATA[배우 지성의 모든 시간 속에 브라이틀링의 내비타이머가 존재한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/fdac5c8f-a8fe-4734-a07f-a0226d81ffa6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디올 봄 2023 맨즈 캡슐 컬렉션 라이브 생중계]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66536</link>
-            <guid>https://www.esquirekorea.co.kr/article/66536</guid>
-            <pubDate>Thu, 26 May 2022 11:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[20일 금요일 오후 12시, 미국 로스앤젤레스에서 열리는 킴 존스의 DIOR 컬렉션 &lt;에스콰이어&gt; ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/2edd1dcb-a6b8-4387-81de-076d136a7427.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

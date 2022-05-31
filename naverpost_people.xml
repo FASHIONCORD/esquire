@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 19:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 17:35:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“추앙한다” 손석구에 대해 몰랐던 사실 12]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33889125&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33889125&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 May 2022 17:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MzFfMjgx/MDAxNjUzOTgzNDg1NzU2.oZvbCMF25C-6BQVQ0MX3StXVKY7x-zOf3HamyTIlAcAg.jcTo3I9ZdOdltbSRR5KUPBdlg_QFujyE2gJBGZxV198g.JPEG/ICG3rs4oSVvI7iYbnH_saJprAgMM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드롱기, 도슨트의 오감을 깨우다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33502359&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Oct 2021 07:17:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMjFfMTY2/MDAxNjExMTk4NTUyOTYx.hH6V9UcRLNRCixfb0ey7zM0ge7a5M5WzMN5py3VIfSEg.KUCFLkd8vN-DgVkmonQg3u0wOKzFUjaVQUS1V4Zmyr8g.JPEG/IhFBpgZ7FsDrNk4dOE3x2xy1ngZw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<스위트홈> 고민시의 매력적인 화보와 인터뷰]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30528862&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30528862&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 07:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMjFfMjg3/MDAxNjExMTU1MTM2MTk3.4IGGFO_RW6uNDQNHrUa2dWWCgzZwkuGAlXo1Ww8zyoMg.MJPST9RLrNCDixDRyN10I0i_ruowgacpRn4yFlkozOog.PNG/Ixz94W-GELRSr6Ik0VtBRlpbzspQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
