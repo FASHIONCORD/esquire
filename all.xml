@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 17:35:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 18:28:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1389,6 +1389,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/5ed82dcd-034e-424d-b97a-ba46a85be1ae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[왜 우리는 아무 것도 없고 고된 사막 여행을 굳이 그리워할까? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66791</link>
+            <guid>https://www.esquirekorea.co.kr/article/66791</guid>
+            <pubDate>Tue, 31 May 2022 18:26:27 GMT</pubDate>
+            <content:encoded><![CDATA[작열하는 태양이 삽시간에 기력을 빼앗고 모래바람이 기관지를 괴롭히는 곳. 그리고 말 그대로, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/29/a762cf08-8b58-45d5-a30f-c5756d3d9e73.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인플레이션은 이미 도래해 있다 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/66792</link>
             <guid>https://www.esquirekorea.co.kr/article/66792</guid>
@@ -1440,14 +1448,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/66774</guid>
             <pubDate>Sat, 28 May 2022 17:22:26 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/a75f610f-3c5d-4338-8580-09217560e4bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음주운전, 교통사고 등으로 도로 시설물 파손 시 변상 금액 정리 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66752</link>
-            <guid>https://www.esquirekorea.co.kr/article/66752</guid>
-            <pubDate>Sat, 28 May 2022 17:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[변압기, 신호등, 가로등, 표지판, 버스정류장 부스 파손 비용을 정리해 봤다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/dbeb3249-f715-4d60-bb36-db230bd64b00.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<초록을거머쥔우리는> 잔나비 최정훈 "이번 앨범은 집에서 기타 앰프도 없이 작업했어요." (에스콰이어 코리아 ─ 피플)]]></title>
