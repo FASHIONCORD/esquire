@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 10:29:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 18:31:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최고 고객을 위한 프라이빗 부티크 선보이는 샤넬]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66726</link>
+            <guid>https://www.esquirekorea.co.kr/article/66726</guid>
+            <pubDate>Wed, 01 Jun 2022 18:29:04 GMT</pubDate>
+            <content:encoded><![CDATA[2023년부터 오픈할 예정이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/b42dbab4-8d37-405a-82f3-8bdf4330a763.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Daily Paper X Beats 90년대 그라피티 담은 이어버드 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/66723</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 26 May 2022 11:20:08 GMT</pubDate>
             <content:encoded><![CDATA[닥터마틴을 신은 유태오의 8가지 믹스매치 룩.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/b8d63633-44a9-476c-99c7-2378567d3fe0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지성과 함께하는 여정]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66478</link>
-            <guid>https://www.esquirekorea.co.kr/article/66478</guid>
-            <pubDate>Thu, 26 May 2022 11:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[배우 지성의 모든 시간 속에 브라이틀링의 내비타이머가 존재한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/fdac5c8f-a8fe-4734-a07f-a0226d81ffa6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

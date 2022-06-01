@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 10:29:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 18:31:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올림픽공원에서 만나는 <유미의 세포들 2>]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66814</link>
+            <guid>https://www.esquirekorea.co.kr/article/66814</guid>
+            <pubDate>Wed, 01 Jun 2022 18:30:53 GMT</pubDate>
+            <content:encoded><![CDATA[랜덤 띠부띠부씰 받는 방법은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/62b08091-bdc2-4ce4-aa3f-ca9caf973d12.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왜 우리는 아무 것도 없고 고된 사막 여행을 굳이 그리워할까?]]></title>
             <link>https://www.esquirekorea.co.kr/article/66791</link>
@@ -60,13 +68,6 @@
             <pubDate>Sat, 28 May 2022 17:22:26 GMT</pubDate>
             <content:encoded><![CDATA[노을 지는 석양 뷰, 반짝이는 야경 뷰와 함께 낭만적인 보트 여행을 떠나보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/28/417dbb1f-e972-4e1e-9504-6c7b837981f9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갓세븐 마크 화보 패션필름 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66774</link>
-            <guid>https://www.esquirekorea.co.kr/article/66774</guid>
-            <pubDate>Sat, 28 May 2022 17:22:26 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/a75f610f-3c5d-4338-8580-09217560e4bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
