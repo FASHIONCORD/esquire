@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 23:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 04:08:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경매에 등장한 라이카의 황금 카메라]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66597</link>
+            <guid>https://www.esquirekorea.co.kr/article/66597</guid>
+            <pubDate>Wed, 01 Jun 2022 04:05:57 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계에 단 하나만 존재한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/8db5218d-d2e4-47dd-becd-b3c26c54eed3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세계 최초 터치스크린 디스플레이 내장된 기계식 키보드]]></title>
             <link>https://www.esquirekorea.co.kr/article/66540</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 25 May 2022 09:24:08 GMT</pubDate>
             <content:encoded><![CDATA[성능과 휴대성 모두 잡은 초경량 고효율 노트북.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/16/5c2756ce-8525-4071-b538-760cd27556eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UFO 공개 청문회 진행하는 미국 의회]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66373</link>
-            <guid>https://www.esquirekorea.co.kr/article/66373</guid>
-            <pubDate>Wed, 25 May 2022 09:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[미확인 비행 물체 143건에 대해.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/cc80d523-c896-468b-bb0b-94ab641e41e8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
