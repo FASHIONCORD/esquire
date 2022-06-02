@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 04:56:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 08:29:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1133,6 +1133,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[서머 타임 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66742</link>
+            <guid>https://www.esquirekorea.co.kr/article/66742</guid>
+            <pubDate>Thu, 02 Jun 2022 08:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[여름의 문턱에서 시간은 더디게만 흘렀다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/6a1d9288-c68b-4833-8c1c-2d55f3ab02b9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[최고 고객을 위한 프라이빗 부티크 선보이는 샤넬 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/66726</link>
             <guid>https://www.esquirekorea.co.kr/article/66726</guid>
@@ -1187,14 +1195,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 26 May 2022 11:20:08 GMT</pubDate>
             <content:encoded><![CDATA[세계 최대의 스포츠 브랜드는 그 탄생부터 '포용'을 택했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/e8d52926-56cd-427e-9747-b323adbaa171.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유태오라는 새로운 장르 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66438</link>
-            <guid>https://www.esquirekorea.co.kr/article/66438</guid>
-            <pubDate>Thu, 26 May 2022 11:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[닥터마틴을 신은 유태오의 8가지 믹스매치 룩.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/b8d63633-44a9-476c-99c7-2378567d3fe0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[커넥티드 칼리버 E4와 위하준의 강렬한 만남 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1451,6 +1451,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/28/417dbb1f-e972-4e1e-9504-6c7b837981f9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<파친코>의 목사 남편 노상현이 이기자 부대를 나온 이유 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66649</link>
+            <guid>https://www.esquirekorea.co.kr/article/66649</guid>
+            <pubDate>Thu, 02 Jun 2022 08:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[노상현은 &lt;파친코&gt;라는 기회를 잡았음에도 들뜨지 않는다. 대신 그는 어떻게 살아야 하는지, 어디...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/43d7534d-466b-454e-ba6a-d14035a56a11.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<초록을거머쥔우리는> 잔나비 최정훈 "이번 앨범은 집에서 기타 앰프도 없이 작업했어요." (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/66520</link>
             <guid>https://www.esquirekorea.co.kr/article/66520</guid>
@@ -1505,14 +1513,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 24 May 2022 21:21:24 GMT</pubDate>
             <content:encoded><![CDATA[최근 풋살에 푹 빠진 이주영을 만나 지나온 필모그래피와 앞으로 기대하는 것들에 대해 이야기를...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/2ee3a46c-2f29-4cf2-8b45-de64628bc34a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넉살 "전 까데호 형들한테 세뇌당한 게 분명해요." (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66541</link>
-            <guid>https://www.esquirekorea.co.kr/article/66541</guid>
-            <pubDate>Tue, 24 May 2022 21:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[넉살이 인디 신에서 가장 도발적인 잼 세션 밴드 까데호와 함께 돌아왔다. 메트로놈 템포도 맞...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/20eaf1c9-67a2-40c1-b838-93f6edf5de5b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[득점왕 손흥민이 받게 될 보너스는 얼마? (에스콰이어 코리아 ─ 나우)]]></title>

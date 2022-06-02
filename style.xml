@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 04:56:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 08:29:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서머 타임]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66742</link>
+            <guid>https://www.esquirekorea.co.kr/article/66742</guid>
+            <pubDate>Thu, 02 Jun 2022 08:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[여름의 문턱에서 시간은 더디게만 흘렀다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/6a1d9288-c68b-4833-8c1c-2d55f3ab02b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최고 고객을 위한 프라이빗 부티크 선보이는 샤넬]]></title>
             <link>https://www.esquirekorea.co.kr/article/66726</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 26 May 2022 11:20:08 GMT</pubDate>
             <content:encoded><![CDATA[세계 최대의 스포츠 브랜드는 그 탄생부터 '포용'을 택했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/e8d52926-56cd-427e-9747-b323adbaa171.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유태오라는 새로운 장르]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66438</link>
-            <guid>https://www.esquirekorea.co.kr/article/66438</guid>
-            <pubDate>Thu, 26 May 2022 11:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[닥터마틴을 신은 유태오의 8가지 믹스매치 룩.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/b8d63633-44a9-476c-99c7-2378567d3fe0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
