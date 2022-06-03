@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 12:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 15:27:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 가장 아름다운 소년들]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66750</link>
+            <guid>https://www.esquirekorea.co.kr/article/66750</guid>
+            <pubDate>Fri, 03 Jun 2022 15:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[각자의 꿈을 꾸는 내일의 얼굴.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/cd7c002b-f157-4ff8-9f3b-09883c21aaca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하체 운동하는 날]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66794</link>
+            <guid>https://www.esquirekorea.co.kr/article/66794</guid>
+            <pubDate>Fri, 03 Jun 2022 15:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[반바지 입을 준비가 됐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/29/6dc2fbfd-5086-45e9-ac34-340bdf0df4a5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[갓세븐 마크 화보 패션필름 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/66774</link>
@@ -53,22 +69,6 @@
             <pubDate>Fri, 27 May 2022 11:17:56 GMT</pubDate>
             <content:encoded><![CDATA[1960년대 이후 대중에게 처음 공개된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/46aa8f37-b5a8-49e7-8ac9-98ede28ce385.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폴로셔츠라는 아이콘]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66676</link>
-            <guid>https://www.esquirekorea.co.kr/article/66676</guid>
-            <pubDate>Thu, 26 May 2022 19:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[랄프 로렌은 리졸리와 함께 &lt;폴로셔츠&gt; 북을 발간한다. 1972년 이래 랄프 로렌의 상징이 되어온...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/ef7a3360-57fd-498a-8135-37a4d7dfd77e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개인 브랜드 론칭을 앞둔 손흥민 선수]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66672</link>
-            <guid>https://www.esquirekorea.co.kr/article/66672</guid>
-            <pubDate>Thu, 26 May 2022 11:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[NOS7 공식 인스타그램에 따르면 론칭일은 6월 17일로 예상된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/8733d773-f0ce-48b2-beb2-c4fbccf193af.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
