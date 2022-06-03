@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 19:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 05:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초여름밤을 제대로 만끽하게 해줄 아이템 50 part.1]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66764</link>
+            <guid>https://www.esquirekorea.co.kr/article/66764</guid>
+            <pubDate>Fri, 03 Jun 2022 05:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[자신만의 확고한 취향을 가진 사람들에게 두루 물었다. ‘초여름 밤 특유의 운치, 당신이 그것을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/b3dc688c-2e4d-4c2f-88a6-815e009a435a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하이메 아욘의 새로운 암체어에 꼭 앉아봐야 하는 이유]]></title>
             <link>https://www.esquirekorea.co.kr/article/66893</link>
@@ -60,14 +68,6 @@
             <guid>https://www.esquirekorea.co.kr/article/66792</guid>
             <pubDate>Mon, 30 May 2022 14:20:57 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/29/f97e9eb9-97cc-4b4d-86a1-d0b28148acdb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울숲 나들이 후 즐기는 와인 한 잔. 서울숲 일대 와인바 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66789</link>
-            <guid>https://www.esquirekorea.co.kr/article/66789</guid>
-            <pubDate>Mon, 30 May 2022 08:29:43 GMT</pubDate>
-            <content:encoded><![CDATA[흥을 돋우는 와인은 물론 허기를 채울 식사 메뉴도 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/28/8696f940-91c8-41d8-9f27-68840cf62eac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

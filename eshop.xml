@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 19:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 05:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 힙한 무드가 느껴지는 데미지 니트]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66571</link>
+            <guid>https://www.esquirekorea.co.kr/article/66571</guid>
+            <pubDate>Fri, 03 Jun 2022 05:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[봄에는 가벼운 니트 한 장이면 끝]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/18f12ad6-bd89-40eb-aefe-7d4ea78d010f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 다리가 길어 보이는 트렌디한 크롭 재킷]]></title>
             <link>https://www.esquirekorea.co.kr/article/66529</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 25 May 2022 09:27:15 GMT</pubDate>
             <content:encoded><![CDATA[보기만 해도 봄이 온 것 같은 컬러 활용하기]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/06/4da0c69b-f835-4ffa-a662-5a83fb315f98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 새로운 감각의 데님 스커트]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66117</link>
-            <guid>https://www.esquirekorea.co.kr/article/66117</guid>
-            <pubDate>Wed, 25 May 2022 09:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[90년대와 2000년대 초반으로 돌아간 것만 같은 데님 스타일]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/8f2feb88-116a-4437-bdb5-9a87bd8e8674.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
