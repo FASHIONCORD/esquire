@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 11:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 12:35:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1133,6 +1133,13 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[갓세븐 마크 화보 패션필름 공개 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66774</link>
+            <guid>https://www.esquirekorea.co.kr/article/66774</guid>
+            <pubDate>Fri, 03 Jun 2022 12:33:41 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/a75f610f-3c5d-4338-8580-09217560e4bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서머 타임 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/66742</link>
             <guid>https://www.esquirekorea.co.kr/article/66742</guid>
@@ -1187,14 +1194,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 26 May 2022 11:20:08 GMT</pubDate>
             <content:encoded><![CDATA[NOS7 공식 인스타그램에 따르면 론칭일은 6월 17일로 예상된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/8733d773-f0ce-48b2-beb2-c4fbccf193af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키 50주년 메시지의 가장 중요한 키워드는 ‘포용’과 ‘여성’ (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66623</link>
-            <guid>https://www.esquirekorea.co.kr/article/66623</guid>
-            <pubDate>Thu, 26 May 2022 11:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최대의 스포츠 브랜드는 그 탄생부터 '포용'을 택했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/e8d52926-56cd-427e-9747-b323adbaa171.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[커넥티드 칼리버 E4와 위하준의 강렬한 만남 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1261,6 +1260,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/f338401c-bad2-4014-9e70-7fdd2a46080c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마세라티, 컨버터블 슈퍼카 MC20 ‘첼로’ 최초 공개 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66746</link>
+            <guid>https://www.esquirekorea.co.kr/article/66746</guid>
+            <pubDate>Fri, 03 Jun 2022 12:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[하늘을 나는 듯한 역동적 주행.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/ae759ce6-99f3-43dd-84e9-eef5fe8aee78.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[경매에 등장한 라이카의 황금 카메라 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/66597</link>
             <guid>https://www.esquirekorea.co.kr/article/66597</guid>
@@ -1317,12 +1324,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/17/b80e7d9e-a266-447e-aa31-0c5901342e69.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가볍지만 스마트한 선택, 레노버 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66367</link>
-            <guid>https://www.esquirekorea.co.kr/article/66367</guid>
-            <pubDate>Wed, 25 May 2022 09:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[성능과 휴대성 모두 잡은 초경량 고효율 노트북.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/16/5c2756ce-8525-4071-b538-760cd27556eb.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[초여름밤을 제대로 만끽하게 해줄 아이템 50 part.1 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66764</link>
+            <guid>https://www.esquirekorea.co.kr/article/66764</guid>
+            <pubDate>Fri, 03 Jun 2022 05:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[자신만의 확고한 취향을 가진 사람들에게 두루 물었다. ‘초여름 밤 특유의 운치, 당신이 그것을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/b3dc688c-2e4d-4c2f-88a6-815e009a435a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쉼을 전해주는 제주 풀멍 코스 5 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1379,14 +1386,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 27 May 2022 23:22:25 GMT</pubDate>
             <content:encoded><![CDATA[베를린 3대 로스터리 보난자 커피와 더 반 커피부터 미국, 영국, 덴마크의 유명 로스터리 원두...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/d181e43a-5116-49ca-ab8a-dd9c7103748e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서브웨이, 버거킹 등 감자튀김 판매 일시 중단 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66747</link>
-            <guid>https://www.esquirekorea.co.kr/article/66747</guid>
-            <pubDate>Mon, 30 May 2022 07:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[또 '감튀 대란'?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/4bbbcaa0-790e-477e-bba2-048dee17b022.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[초여름밤을 제대로 만끽하게 해줄 아이템 50 part.1 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1451,6 +1450,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/29/f97e9eb9-97cc-4b4d-86a1-d0b28148acdb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<초록을거머쥔우리는> 잔나비 최정훈 "그냥 전 모든 걸 그리워하는 것 같아요." (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66523</link>
+            <guid>https://www.esquirekorea.co.kr/article/66523</guid>
+            <pubDate>Fri, 03 Jun 2022 12:35:10 GMT</pubDate>
+            <content:encoded><![CDATA[젠하이저 ‘모멘텀 트루 와이어리스 3’ 무선 이어폰이 5월에 국내 출시됐다. 실제로 젠하이저의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/be80b39d-1f2f-4f68-b1be-0266217d0db3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<파친코>의 목사 남편 노상현이 이기자 부대를 나온 이유 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/66649</link>
             <guid>https://www.esquirekorea.co.kr/article/66649</guid>
@@ -1505,14 +1512,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 25 May 2022 09:26:20 GMT</pubDate>
             <content:encoded><![CDATA[지창욱과 차기작 얘기를 하다 문득 정신을 차리고 보니 우린 연기라는 기예의 미래에 대해 이야...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/5b02e1fb-57f6-420a-954a-8fe713f821f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주영이 <브로커> 시나리오 받고 먼저 한 일은? (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66551</link>
-            <guid>https://www.esquirekorea.co.kr/article/66551</guid>
-            <pubDate>Tue, 24 May 2022 21:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[최근 풋살에 푹 빠진 이주영을 만나 지나온 필모그래피와 앞으로 기대하는 것들에 대해 이야기를...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/2ee3a46c-2f29-4cf2-8b45-de64628bc34a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[득점왕 손흥민이 받게 될 보너스는 얼마? (에스콰이어 코리아 ─ 나우)]]></title>

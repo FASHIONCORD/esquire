@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 11:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 12:35:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갓세븐 마크 화보 패션필름 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66774</link>
+            <guid>https://www.esquirekorea.co.kr/article/66774</guid>
+            <pubDate>Fri, 03 Jun 2022 12:33:41 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/a75f610f-3c5d-4338-8580-09217560e4bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서머 타임]]></title>
             <link>https://www.esquirekorea.co.kr/article/66742</link>
@@ -62,14 +69,6 @@
             <pubDate>Thu, 26 May 2022 11:20:08 GMT</pubDate>
             <content:encoded><![CDATA[NOS7 공식 인스타그램에 따르면 론칭일은 6월 17일로 예상된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/8733d773-f0ce-48b2-beb2-c4fbccf193af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이키 50주년 메시지의 가장 중요한 키워드는 ‘포용’과 ‘여성’]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66623</link>
-            <guid>https://www.esquirekorea.co.kr/article/66623</guid>
-            <pubDate>Thu, 26 May 2022 11:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최대의 스포츠 브랜드는 그 탄생부터 '포용'을 택했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/e8d52926-56cd-427e-9747-b323adbaa171.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

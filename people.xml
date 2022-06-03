@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 11:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 12:35:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<초록을거머쥔우리는> 잔나비 최정훈 "그냥 전 모든 걸 그리워하는 것 같아요."]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66523</link>
+            <guid>https://www.esquirekorea.co.kr/article/66523</guid>
+            <pubDate>Fri, 03 Jun 2022 12:35:10 GMT</pubDate>
+            <content:encoded><![CDATA[젠하이저 ‘모멘텀 트루 와이어리스 3’ 무선 이어폰이 5월에 국내 출시됐다. 실제로 젠하이저의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/be80b39d-1f2f-4f68-b1be-0266217d0db3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<파친코>의 목사 남편 노상현이 이기자 부대를 나온 이유]]></title>
             <link>https://www.esquirekorea.co.kr/article/66649</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 25 May 2022 09:26:20 GMT</pubDate>
             <content:encoded><![CDATA[지창욱과 차기작 얘기를 하다 문득 정신을 차리고 보니 우린 연기라는 기예의 미래에 대해 이야...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/5b02e1fb-57f6-420a-954a-8fe713f821f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주영이 <브로커> 시나리오 받고 먼저 한 일은?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66551</link>
-            <guid>https://www.esquirekorea.co.kr/article/66551</guid>
-            <pubDate>Wed, 25 May 2022 09:26:20 GMT</pubDate>
-            <content:encoded><![CDATA[최근 풋살에 푹 빠진 이주영을 만나 지나온 필모그래피와 앞으로 기대하는 것들에 대해 이야기를...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/2ee3a46c-2f29-4cf2-8b45-de64628bc34a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

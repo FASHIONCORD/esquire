@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 11:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 12:35:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초여름밤을 제대로 만끽하게 해줄 아이템 50 part.1]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66764</link>
+            <guid>https://www.esquirekorea.co.kr/article/66764</guid>
+            <pubDate>Fri, 03 Jun 2022 12:34:17 GMT</pubDate>
+            <content:encoded><![CDATA[자신만의 확고한 취향을 가진 사람들에게 두루 물었다. ‘초여름 밤 특유의 운치, 당신이 그것을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/b3dc688c-2e4d-4c2f-88a6-815e009a435a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쉼을 전해주는 제주 풀멍 코스 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/66836</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 30 May 2022 07:27:02 GMT</pubDate>
             <content:encoded><![CDATA[베를린 3대 로스터리 보난자 커피와 더 반 커피부터 미국, 영국, 덴마크의 유명 로스터리 원두...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/d181e43a-5116-49ca-ab8a-dd9c7103748e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서브웨이, 버거킹 등 감자튀김 판매 일시 중단]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66747</link>
-            <guid>https://www.esquirekorea.co.kr/article/66747</guid>
-            <pubDate>Mon, 30 May 2022 07:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[또 '감튀 대란'?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/4bbbcaa0-790e-477e-bba2-048dee17b022.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
