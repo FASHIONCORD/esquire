@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 05:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 07:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1515,6 +1515,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/5b02e1fb-57f6-420a-954a-8fe713f821f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[본관에 이어 관저 내부까지 관람 가능한 청와대 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66673</link>
+            <guid>https://www.esquirekorea.co.kr/article/66673</guid>
+            <pubDate>Sat, 04 Jun 2022 07:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[바로 내일부터 관람 가능하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/15a11d40-d83c-4cdd-b2d0-b82fd2f71937.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[개인 브랜드 론칭을 앞둔 손흥민 선수 (에스콰이어 코리아 ─ 나우)]]></title>
             <link>https://www.esquirekorea.co.kr/article/66672</link>
             <guid>https://www.esquirekorea.co.kr/article/66672</guid>
@@ -1569,14 +1577,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 24 May 2022 02:33:47 GMT</pubDate>
             <content:encoded><![CDATA[이젠 100엔으로 뭘 먹지?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/17/e270536f-b250-4274-93b2-86d3f1903e06.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터 제가 살게요 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66458</link>
-            <guid>https://www.esquirekorea.co.kr/article/66458</guid>
-            <pubDate>Tue, 24 May 2022 02:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[일론 머스크에 이어 스눕독도 탐낸다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/33342c7b-9924-41ff-a52e-78abdae7e5f8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 힙한 무드가 느껴지는 데미지 니트 (에스콰이어 코리아 ─ 이샵)]]></title>
