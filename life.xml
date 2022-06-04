@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 21:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 05:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사진을 좋아한다면 꼭 가야하는 서울의 전시들 3]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66935</link>
+            <guid>https://www.esquirekorea.co.kr/article/66935</guid>
+            <pubDate>Sat, 04 Jun 2022 05:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[서울에서 해외 거장들의 사진전부터 한국 상업사진의 역사를 담은 전시까지 볼 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/abd4dba8-7bfc-43de-a171-98ba4d7f3873.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초여름밤을 제대로 만끽하게 해줄 아이템 50 part.2]]></title>
             <link>https://www.esquirekorea.co.kr/article/66765</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 02 Jun 2022 19:17:03 GMT</pubDate>
             <content:encoded><![CDATA[BTS 지민이 다녀온 스누피가든부터 한라산 아래 호텔까지 '풀멍' 필요할 때 찾아가보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/e7523c4c-7276-4066-b744-43ed7d245483.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원소주 X GS25 팝업스토어 'GS WON' 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66816</link>
-            <guid>https://www.esquirekorea.co.kr/article/66816</guid>
-            <pubDate>Thu, 02 Jun 2022 19:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[한정 패키지와 브랜드 콜라보 굿즈를 만나볼 기회.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/c2ec02da-ac7f-4214-ba2b-70895a8b6b42.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
