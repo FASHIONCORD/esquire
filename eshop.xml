@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 18:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 17:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 두 가지 느낌을 한 번에]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66636</link>
+            <guid>https://www.esquirekorea.co.kr/article/66636</guid>
+            <pubDate>Sun, 05 Jun 2022 17:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[셔츠와 니트를 레이어드 한 것 같은 니트 셔츠]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/92461c0f-5a43-4863-a3a8-74607a832aa5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 힙한 무드가 느껴지는 데미지 니트]]></title>
             <link>https://www.esquirekorea.co.kr/article/66571</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 25 May 2022 09:27:15 GMT</pubDate>
             <content:encoded><![CDATA[경쾌하고 산뜻한 에나멜 광택]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/1de5967a-b869-4010-9c77-4f7448ad2261.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 간절기에 화사한 니트로 완벽 대비]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66181</link>
-            <guid>https://www.esquirekorea.co.kr/article/66181</guid>
-            <pubDate>Wed, 25 May 2022 09:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[보기만 해도 봄이 온 것 같은 컬러 활용하기]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/06/4da0c69b-f835-4ffa-a662-5a83fb315f98.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

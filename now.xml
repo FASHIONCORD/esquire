@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 18:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 17:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울숲 나들이 후 즐기는 와인 한 잔. 서울숲 일대 와인바 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66789</link>
+            <guid>https://www.esquirekorea.co.kr/article/66789</guid>
+            <pubDate>Sun, 05 Jun 2022 17:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[흥을 돋우는 와인은 물론 허기를 채울 식사 메뉴도 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/28/8696f940-91c8-41d8-9f27-68840cf62eac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올해 해운대해수욕장은 언제 개장할까?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66738</link>
+            <guid>https://www.esquirekorea.co.kr/article/66738</guid>
+            <pubDate>Sun, 05 Jun 2022 17:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[해운대를 비롯한 부산 대표 해수욕장 7곳 개장일 정리.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/337d279d-1304-48f3-ac4d-8d1cef3a1429.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장비 욕심 자극하는 크롬하츠의 트러플 커터]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66679</link>
+            <guid>https://www.esquirekorea.co.kr/article/66679</guid>
+            <pubDate>Sun, 05 Jun 2022 17:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[은은하게 새겨진 고딕 십자가 문양이 돋보인다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/76b84a93-17d6-4c63-a234-c259751a8956.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[본관에 이어 관저 내부까지 관람 가능한 청와대]]></title>
             <link>https://www.esquirekorea.co.kr/article/66673</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 26 May 2022 19:21:20 GMT</pubDate>
             <content:encoded><![CDATA[이열치열. 올여름엔 면치기 하러 성수동으로 떠나보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/22/a304be3e-9977-4177-9c2d-28b57904f3af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 내한공연]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66492</link>
-            <guid>https://www.esquirekorea.co.kr/article/66492</guid>
-            <pubDate>Thu, 26 May 2022 19:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[매진되기 전에 예매하자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/946cb9a4-39e5-4503-9994-95719049de09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국의 두 번째 특별자치도로 출범 예정인 강원도]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66488</link>
-            <guid>https://www.esquirekorea.co.kr/article/66488</guid>
-            <pubDate>Thu, 26 May 2022 19:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[628년 만에 강원특별자치도라는 행정 명칭으로 바뀌게 된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/3a211b38-de18-422c-be33-ef0dac84a150.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스시로 100엔 초밥 사라진다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66459</link>
-            <guid>https://www.esquirekorea.co.kr/article/66459</guid>
-            <pubDate>Tue, 24 May 2022 21:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[이젠 100엔으로 뭘 먹지?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/17/e270536f-b250-4274-93b2-86d3f1903e06.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
