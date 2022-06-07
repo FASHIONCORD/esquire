@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 와치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 03:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 11:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일상의 품격을 중시하는, 요즘 클래식]]></title>
+            <link>https://www.esquirekorea.co.kr/article/64918</link>
+            <guid>https://www.esquirekorea.co.kr/article/64918</guid>
+            <pubDate>Tue, 07 Jun 2022 11:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[과거와 현재가 만나 더욱 강렬하고 대담해진 해밀턴의 새로운 타임피스, 재즈마스터 오픈 하트 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/0fe894b7-3761-42e5-bca1-7dc218206179.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 워치메이킹 캡슐 컬렉션 ‘샤넬 원티드’]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66436</link>
+            <guid>https://www.esquirekorea.co.kr/article/66436</guid>
+            <pubDate>Tue, 07 Jun 2022 11:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬의 아이코닉한 워치 컬렉션에 샤넬 로고를 대담하게 장식했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/66e01d1a-28aa-454e-be93-7beb6cd4bd07.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[커넥티드 칼리버 E4와 위하준의 강렬한 만남]]></title>
             <link>https://www.esquirekorea.co.kr/article/66437</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 25 May 2022 11:19:17 GMT</pubDate>
             <content:encoded><![CDATA[지난 2년간 디지털로만 개최된 워치스앤원더스 제네바가 드디어 피지컬 이벤트로 돌아왔다. 이전보...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/06/456e45f7-d3db-42a0-ab56-4f8611883e45.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워치스앤원더스 2022에서 만난 몽블랑]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66130</link>
-            <guid>https://www.esquirekorea.co.kr/article/66130</guid>
-            <pubDate>Wed, 25 May 2022 11:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2년간 디지털로만 개최된 워치스앤원더스 제네바가 드디어 피지컬 이벤트로 돌아왔다. 이전보...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/13a07a95-1c88-4d86-aa2c-73584dee0266.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워치스앤원더스 2022에서 만난 샤넬 워치]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66129</link>
-            <guid>https://www.esquirekorea.co.kr/article/66129</guid>
-            <pubDate>Wed, 25 May 2022 11:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2년간 디지털로만 개최된 워치스앤원더스 제네바가 드디어 피지컬 이벤트로 돌아왔다. 이전보...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/04/f338401c-bad2-4014-9e70-7fdd2a46080c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 03:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 11:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 이주영의 친구들이 이주영을 '영미'라고 부르는 이유]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66682</link>
+            <guid>https://www.esquirekorea.co.kr/article/66682</guid>
+            <pubDate>Tue, 07 Jun 2022 11:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[두려움도, 괴로움도, 들뜨는 마음도, 품고 있기 벅찰 정도의 사랑도, 이주영은 모두 직시하고 싶...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/21fd6951-56ef-4919-ab77-6b87d4175698.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<초록을거머쥔우리는> 잔나비 최정훈 "그냥 전 모든 걸 그리워하는 것 같아요."]]></title>
             <link>https://www.esquirekorea.co.kr/article/66523</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 25 May 2022 09:26:20 GMT</pubDate>
             <content:encoded><![CDATA[&lt;나의 해방일지&gt;에서 마성의 ‘구 씨’ 역을 맡은 배우 손석구에 대해 샅샅이 파헤쳐 보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/1fbe9161-8ac7-4d9d-aa35-fbd55f0460fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<안나라수마나라> 지창욱 "이야기 중 일부는 제 얘기라고 생각했어요"]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66580</link>
-            <guid>https://www.esquirekorea.co.kr/article/66580</guid>
-            <pubDate>Wed, 25 May 2022 09:26:20 GMT</pubDate>
-            <content:encoded><![CDATA[지창욱과 차기작 얘기를 하다 문득 정신을 차리고 보니 우린 연기라는 기예의 미래에 대해 이야...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/5b02e1fb-57f6-420a-954a-8fe713f821f0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
