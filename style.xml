@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 18:34:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 03:24:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[펜디가 선보인 스왑 컬렉션, 펜다체]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66959</link>
+            <guid>https://www.esquirekorea.co.kr/article/66959</guid>
+            <pubDate>Tue, 07 Jun 2022 03:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[펜디와 베르사체의 도발적인 이름, 펜다체 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/99985fb4-7265-48c2-bbee-81e46627403f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[커다란 반바지를 다양하게 입는 방법]]></title>
             <link>https://www.esquirekorea.co.kr/article/66955</link>
@@ -60,14 +68,6 @@
             <guid>https://www.esquirekorea.co.kr/article/66774</guid>
             <pubDate>Fri, 03 Jun 2022 12:33:41 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/a75f610f-3c5d-4338-8580-09217560e4bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서머 타임]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66742</link>
-            <guid>https://www.esquirekorea.co.kr/article/66742</guid>
-            <pubDate>Thu, 02 Jun 2022 08:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[여름의 문턱에서 시간은 더디게만 흘렀다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/6a1d9288-c68b-4833-8c1c-2d55f3ab02b9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
