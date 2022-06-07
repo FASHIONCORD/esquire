@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 14:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 19:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 완벽한 봄 모멘트 장착 완료!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66741</link>
+            <guid>https://www.esquirekorea.co.kr/article/66741</guid>
+            <pubDate>Tue, 07 Jun 2022 19:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[핑크색으로 봄에 어울리는 코디 완성]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/a3dc9b85-ee19-4c54-8bca-011709741358.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 두 가지 느낌을 한 번에]]></title>
             <link>https://www.esquirekorea.co.kr/article/66636</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 25 May 2022 09:27:15 GMT</pubDate>
             <content:encoded><![CDATA[확실한 포인트를 더하고 싶을 땐 ‘패턴’]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/b13d3277-aefa-4c47-bd64-36510191538c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 개성 넘치는 애나멜 아우터]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66228</link>
-            <guid>https://www.esquirekorea.co.kr/article/66228</guid>
-            <pubDate>Wed, 25 May 2022 09:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[경쾌하고 산뜻한 에나멜 광택]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/1de5967a-b869-4010-9c77-4f7448ad2261.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

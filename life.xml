@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 14:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 19:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반려동물과 함께하는 야외 축제]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66982</link>
+            <guid>https://www.esquirekorea.co.kr/article/66982</guid>
+            <pubDate>Tue, 07 Jun 2022 19:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[어질리티 게임부터 인생네컷까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/8c4c9222-126f-4623-acf3-76c00e018e99.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청와대 개방 후 첫 단독 공연 선보이는 가수 비]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66974</link>
+            <guid>https://www.esquirekorea.co.kr/article/66974</guid>
+            <pubDate>Tue, 07 Jun 2022 19:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[공연을 제대로 즐기기 위해 3가지 필수 준비물을 꼭 확인하자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/05/b9ec39c1-67dc-4db3-97d4-920a11fb2778.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울 속 미국, 서울 도심에서 느끼는 미국 감성 공간 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/66963</link>
@@ -53,22 +69,6 @@
             <pubDate>Sat, 04 Jun 2022 05:16:57 GMT</pubDate>
             <content:encoded><![CDATA[서울에서 해외 거장들의 사진전부터 한국 상업사진의 역사를 담은 전시까지 볼 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/abd4dba8-7bfc-43de-a171-98ba4d7f3873.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초여름밤을 제대로 만끽하게 해줄 아이템 50 part.2]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66765</link>
-            <guid>https://www.esquirekorea.co.kr/article/66765</guid>
-            <pubDate>Fri, 03 Jun 2022 15:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[자신만의 확고한 취향을 가진 사람들에게 두루 물었다. ‘초여름 밤 특유의 운치, 당신이 그것을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/a2a1917b-eadb-4950-91dc-83523f3a1bcb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘 밤 홍대 클럽에 갈 생각이라면 답은 여기. PART 2]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66925</link>
-            <guid>https://www.esquirekorea.co.kr/article/66925</guid>
-            <pubDate>Fri, 03 Jun 2022 15:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[757일 만에 영업 제한이 풀렸다. 기다렸다는 듯 밤거리로 쏟아져 나온 클러버들은 과연 어디로 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/ee65e5d9-83a2-4df0-a526-6eb9e9dffe43.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

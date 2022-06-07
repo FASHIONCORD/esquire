@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 14:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 19:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1386,6 +1386,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/28/417dbb1f-e972-4e1e-9504-6c7b837981f9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[반려동물과 함께하는 야외 축제 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66982</link>
+            <guid>https://www.esquirekorea.co.kr/article/66982</guid>
+            <pubDate>Tue, 07 Jun 2022 19:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[어질리티 게임부터 인생네컷까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/8c4c9222-126f-4623-acf3-76c00e018e99.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청와대 개방 후 첫 단독 공연 선보이는 가수 비 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66974</link>
+            <guid>https://www.esquirekorea.co.kr/article/66974</guid>
+            <pubDate>Tue, 07 Jun 2022 19:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[공연을 제대로 즐기기 위해 3가지 필수 준비물을 꼭 확인하자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/05/b9ec39c1-67dc-4db3-97d4-920a11fb2778.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서울 속 미국, 서울 도심에서 느끼는 미국 감성 공간 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/66963</link>
             <guid>https://www.esquirekorea.co.kr/article/66963</guid>
@@ -1431,22 +1447,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sat, 04 Jun 2022 05:16:57 GMT</pubDate>
             <content:encoded><![CDATA[서울에서 해외 거장들의 사진전부터 한국 상업사진의 역사를 담은 전시까지 볼 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/abd4dba8-7bfc-43de-a171-98ba4d7f3873.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초여름밤을 제대로 만끽하게 해줄 아이템 50 part.2 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66765</link>
-            <guid>https://www.esquirekorea.co.kr/article/66765</guid>
-            <pubDate>Fri, 03 Jun 2022 15:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[자신만의 확고한 취향을 가진 사람들에게 두루 물었다. ‘초여름 밤 특유의 운치, 당신이 그것을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/a2a1917b-eadb-4950-91dc-83523f3a1bcb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘 밤 홍대 클럽에 갈 생각이라면 답은 여기. PART 2 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66925</link>
-            <guid>https://www.esquirekorea.co.kr/article/66925</guid>
-            <pubDate>Fri, 03 Jun 2022 15:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[757일 만에 영업 제한이 풀렸다. 기다렸다는 듯 밤거리로 쏟아져 나온 클러버들은 과연 어디로 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/ee65e5d9-83a2-4df0-a526-6eb9e9dffe43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배우 이주영의 친구들이 이주영을 '영미'라고 부르는 이유 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1577,6 +1577,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/d22c5501-9acc-4793-a0d9-25cccb592529.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Eshop] 완벽한 봄 모멘트 장착 완료! (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66741</link>
+            <guid>https://www.esquirekorea.co.kr/article/66741</guid>
+            <pubDate>Tue, 07 Jun 2022 19:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[핑크색으로 봄에 어울리는 코디 완성]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/a3dc9b85-ee19-4c54-8bca-011709741358.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Eshop] 두 가지 느낌을 한 번에 (에스콰이어 코리아 ─ 이샵)]]></title>
             <link>https://www.esquirekorea.co.kr/article/66636</link>
             <guid>https://www.esquirekorea.co.kr/article/66636</guid>
@@ -1631,14 +1639,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 25 May 2022 09:27:15 GMT</pubDate>
             <content:encoded><![CDATA[확실한 포인트를 더하고 싶을 땐 ‘패턴’]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/b13d3277-aefa-4c47-bd64-36510191538c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 개성 넘치는 애나멜 아우터 (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66228</link>
-            <guid>https://www.esquirekorea.co.kr/article/66228</guid>
-            <pubDate>Wed, 25 May 2022 09:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[경쾌하고 산뜻한 에나멜 광택]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/09/1de5967a-b869-4010-9c77-4f7448ad2261.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
