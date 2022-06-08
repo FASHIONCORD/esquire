@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 19:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 01:30:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해 당신의 첫 번째 티셔츠는 무엇인가요?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66807</link>
+            <guid>https://www.esquirekorea.co.kr/article/66807</guid>
+            <pubDate>Wed, 08 Jun 2022 01:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[내가 사랑한 티셔츠.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/05/cd9877fd-b54e-4837-a4c5-c2b715ee21c4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[펜디가 선보인 스왑 컬렉션, 펜다체]]></title>
             <link>https://www.esquirekorea.co.kr/article/66959</link>
@@ -61,13 +69,6 @@
             <pubDate>Fri, 03 Jun 2022 15:23:09 GMT</pubDate>
             <content:encoded><![CDATA[반바지 입을 준비가 됐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/29/6dc2fbfd-5086-45e9-ac34-340bdf0df4a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갓세븐 마크 화보 패션필름 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66774</link>
-            <guid>https://www.esquirekorea.co.kr/article/66774</guid>
-            <pubDate>Fri, 03 Jun 2022 12:33:41 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/a75f610f-3c5d-4338-8580-09217560e4bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
