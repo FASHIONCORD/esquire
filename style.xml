@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 05:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 16:28:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이클 조던이 새겨진 에어 조던 1 미드]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66975</link>
+            <guid>https://www.esquirekorea.co.kr/article/66975</guid>
+            <pubDate>Wed, 08 Jun 2022 16:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[은은하게 드러나는 홀로그램 속 마이클 조던.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/05/2d6dc2e6-b78b-44c1-85d4-c838fd2cbf66.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해 당신의 첫 번째 티셔츠는 무엇인가요?]]></title>
             <link>https://www.esquirekorea.co.kr/article/66807</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 03 Jun 2022 15:23:09 GMT</pubDate>
             <content:encoded><![CDATA[각자의 꿈을 꾸는 내일의 얼굴.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/cd7c002b-f157-4ff8-9f3b-09883c21aaca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하체 운동하는 날]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66794</link>
-            <guid>https://www.esquirekorea.co.kr/article/66794</guid>
-            <pubDate>Fri, 03 Jun 2022 15:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[반바지 입을 준비가 됐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/29/6dc2fbfd-5086-45e9-ac34-340bdf0df4a5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
