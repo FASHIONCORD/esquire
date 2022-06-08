@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 와치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 16:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 18:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지성과 함께하는 여정]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66478</link>
+            <guid>https://www.esquirekorea.co.kr/article/66478</guid>
+            <pubDate>Wed, 08 Jun 2022 18:21:57 GMT</pubDate>
+            <content:encoded><![CDATA[배우 지성의 모든 시간 속에 브라이틀링의 내비타이머가 존재한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/fdac5c8f-a8fe-4734-a07f-a0226d81ffa6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일상의 품격을 중시하는, 요즘 클래식]]></title>
             <link>https://www.esquirekorea.co.kr/article/64918</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 25 May 2022 11:19:17 GMT</pubDate>
             <content:encoded><![CDATA[지난 2년간 디지털로만 개최된 워치스앤원더스 제네바가 드디어 피지컬 이벤트로 돌아왔다. 이전보...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/07/c5d080a5-555f-49f6-a159-acec1a40841f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워치스앤원더스 2022에서 만난 에르메스 워치]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66179</link>
-            <guid>https://www.esquirekorea.co.kr/article/66179</guid>
-            <pubDate>Wed, 25 May 2022 11:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2년간 디지털로만 개최된 워치스앤원더스 제네바가 드디어 피지컬 이벤트로 돌아왔다. 이전보...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/06/456e45f7-d3db-42a0-ab56-4f8611883e45.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

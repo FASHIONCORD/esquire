@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 16:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 18:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주말 드라이브 코스, 평택 이색 데이트 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66922</link>
+            <guid>https://www.esquirekorea.co.kr/article/66922</guid>
+            <pubDate>Wed, 08 Jun 2022 18:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[6월에만 즐길 수 있는 체리 따기 체험부터 데이트 풀코스까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/2efad897-6960-4f7e-a7ed-356017f5f40b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당 충전 필요할 때 크로핀 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/66919</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 02 Jun 2022 19:16:51 GMT</pubDate>
             <content:encoded><![CDATA[자연이 들려주는 소리와 풍경을 감상하며 즐기는 당일치기 여행 코스.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/28/1d306e95-9893-4b9e-b77a-8956d88b1cd6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도심 속에서 즐기는! 낭만적인 수상 보트 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66781</link>
-            <guid>https://www.esquirekorea.co.kr/article/66781</guid>
-            <pubDate>Tue, 31 May 2022 17:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[노을 지는 석양 뷰, 반짝이는 야경 뷰와 함께 낭만적인 보트 여행을 떠나보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/28/417dbb1f-e972-4e1e-9504-6c7b837981f9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

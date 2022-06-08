@@ -4,9 +4,24 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 16:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 18:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[갓세븐 마크 화보 패션필름 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66774</link>
+            <guid>https://www.esquirekorea.co.kr/article/66774</guid>
+            <pubDate>Wed, 08 Jun 2022 18:22:55 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/a75f610f-3c5d-4338-8580-09217560e4bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이주영 "연기, 영화를 사랑하는 마음이 제 스스로도 벅찰 정도일 때가 있어요."]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66697</link>
+            <guid>https://www.esquirekorea.co.kr/article/66697</guid>
+            <pubDate>Wed, 08 Jun 2022 18:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[두려움도, 괴로움도, 들뜨는 마음도, 품고 있기 벅찰 정도의 사랑도, 이주영은 모두 직시하고 싶...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/f206b640-ff8a-4dde-8331-2402c2f3fa08.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 이주영의 친구들이 이주영을 '영미'라고 부르는 이유]]></title>
             <link>https://www.esquirekorea.co.kr/article/66682</link>
@@ -54,22 +69,6 @@
             <pubDate>Thu, 26 May 2022 22:21:57 GMT</pubDate>
             <content:encoded><![CDATA[우리의 손흥민 득점도 왕 보너스도 왕이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/a224c06c-2ede-4a65-b886-6f8028d51d72.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<안나라수마나라> 지창욱 "그래서 사막을 달릴 수 있는 바이크를 샀지요."]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66581</link>
-            <guid>https://www.esquirekorea.co.kr/article/66581</guid>
-            <pubDate>Wed, 25 May 2022 09:26:20 GMT</pubDate>
-            <content:encoded><![CDATA[지창욱과 차기작 얘기를 하다 문득 정신을 차리고 보니 우린 연기라는 기예의 미래에 대해 이야...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/98bd4b5a-296f-498b-ade4-2be1a0061506.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“추앙한다” 손석구에 대해 몰랐던 사실 12]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66609</link>
-            <guid>https://www.esquirekorea.co.kr/article/66609</guid>
-            <pubDate>Wed, 25 May 2022 09:26:20 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;나의 해방일지&gt;에서 마성의 ‘구 씨’ 역을 맡은 배우 손석구에 대해 샅샅이 파헤쳐 보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/1fbe9161-8ac7-4d9d-aa35-fbd55f0460fa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
