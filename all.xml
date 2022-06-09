@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 19:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 20:28:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1387,6 +1387,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/28/1d306e95-9893-4b9e-b77a-8956d88b1cd6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['스완즈바'로 더욱 완벽해진 럭셔리 서점 애술린 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67032</link>
+            <guid>https://www.esquirekorea.co.kr/article/67032</guid>
+            <pubDate>Thu, 09 Jun 2022 20:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[백조처럼 우아하게 즐기는 서울.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/2366cb36-3caa-47a5-991f-f5d24baa1502.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성행하는 중고거래, ‘이것들’ 팔면 징역이나 벌금을 낼 수 있다고? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66990</link>
+            <guid>https://www.esquirekorea.co.kr/article/66990</guid>
+            <pubDate>Thu, 09 Jun 2022 20:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[당근마켓, 중고나라 등에서 절대! 팔면 안 되는 물건 6가지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/ea9a45d4-c79a-4e7a-bbd9-9a1bc2f83732.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2년 만에 돌아오는 송도 맥주축제 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/66985</link>
             <guid>https://www.esquirekorea.co.kr/article/66985</guid>
@@ -1432,22 +1448,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/66951</guid>
             <pubDate>Sun, 05 Jun 2022 17:16:04 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/b43b4e86-7828-441a-8f58-839bb6446106.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국의 발리 영흥도, 가볼 만한 곳 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66950</link>
-            <guid>https://www.esquirekorea.co.kr/article/66950</guid>
-            <pubDate>Tue, 07 Jun 2022 03:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[영흥도와 함께 가볼 만한 카페와 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/7128a813-f766-4ce7-8c87-d793c805e9d1.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[고교생 서바이벌  ‘하이스코어' 예능 탄생 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66945</link>
-            <guid>https://www.esquirekorea.co.kr/article/66945</guid>
-            <pubDate>Tue, 07 Jun 2022 03:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[김연경·위하준 멘토 지원사격]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/619ddcf6-1aac-419f-8f2e-d586cd0f71b2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[재시·재아 자매, 프랑스 프리미엄 워터 에비앙과 함께 한 여름 화보 공개 (에스콰이어 코리아 ─ 피플)]]></title>
