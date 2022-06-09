@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 03:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 18:28:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1577,6 +1577,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/24/d22c5501-9acc-4793-a0d9-25cccb592529.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Eshop] 편안함과 멋, 화사함까지 갖춘 셋업 코디 (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66797</link>
+            <guid>https://www.esquirekorea.co.kr/article/66797</guid>
+            <pubDate>Thu, 09 Jun 2022 18:28:38 GMT</pubDate>
+            <content:encoded><![CDATA[일상 속 편하고 멋스러운 트레이닝 셋업]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/3660a6ee-1428-47d2-a118-e093fd209800.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Eshop] 완벽한 봄 모멘트 장착 완료! (에스콰이어 코리아 ─ 이샵)]]></title>
             <link>https://www.esquirekorea.co.kr/article/66741</link>
             <guid>https://www.esquirekorea.co.kr/article/66741</guid>
@@ -1631,14 +1639,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 25 May 2022 09:27:15 GMT</pubDate>
             <content:encoded><![CDATA[활용도까지 챙긴 셋업]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/13/54ff9fb3-023f-41ae-bb63-5e2140c8a298.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 봄 니트 코디 참고서 (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66099</link>
-            <guid>https://www.esquirekorea.co.kr/article/66099</guid>
-            <pubDate>Wed, 25 May 2022 09:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[확실한 포인트를 더하고 싶을 땐 ‘패턴’]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/b13d3277-aefa-4c47-bd64-36510191538c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
