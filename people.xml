@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 03:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 03:26:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마크가 맠, 단호맠, 마키푸 중 마음에 드는 별명은?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66951</link>
+            <guid>https://www.esquirekorea.co.kr/article/66951</guid>
+            <pubDate>Sat, 11 Jun 2022 03:25:43 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/b43b4e86-7828-441a-8f58-839bb6446106.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재시·재아 자매, 프랑스 프리미엄 워터 에비앙과 함께 한 여름 화보 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/66905</link>
@@ -61,14 +68,6 @@
             <pubDate>Sat, 28 May 2022 17:22:38 GMT</pubDate>
             <content:encoded><![CDATA[젠하이저 ‘모멘텀 트루 와이어리스 3’ 무선 이어폰이 5월에 국내 출시됐다. 실제로 젠하이저의...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/19f34f48-5178-4e86-8325-9cfd555fad0b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<파친코> 감독들이 배우 노상현에게 말해준 그를 발탁한 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66640</link>
-            <guid>https://www.esquirekorea.co.kr/article/66640</guid>
-            <pubDate>Thu, 26 May 2022 22:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[노상현은 &lt;파친코&gt;라는 기회를 잡았음에도 들뜨지 않는다. 대신 그는 어떻게 살아야 하는지, 어디...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/ad40a82a-cc43-4dd4-9e87-306321c4fbd6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

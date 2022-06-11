@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 03:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 03:26:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름에 차기 좋은 버클이 예쁜 벨트]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66976</link>
+            <guid>https://www.esquirekorea.co.kr/article/66976</guid>
+            <pubDate>Sat, 11 Jun 2022 03:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[벨트의 대담한 얼굴.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/eef73a4b-3383-4c00-944e-aeeb32b801cf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서머 네크리스의 미학]]></title>
             <link>https://www.esquirekorea.co.kr/article/66977</link>
@@ -61,14 +69,6 @@
             <pubDate>Sun, 05 Jun 2022 17:16:04 GMT</pubDate>
             <content:encoded><![CDATA[깨끗한 턱을 위한 셰이빙 루틴.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/76a0bf49-f95b-41a9-b100-2c3af3f79422.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초여름밤을 제대로 만끽하게 해줄 아이템 50 part.1]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66764</link>
-            <guid>https://www.esquirekorea.co.kr/article/66764</guid>
-            <pubDate>Sun, 05 Jun 2022 17:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[자신만의 확고한 취향을 가진 사람들에게 두루 물었다. ‘초여름 밤 특유의 운치, 당신이 그것을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/b3dc688c-2e4d-4c2f-88a6-815e009a435a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
