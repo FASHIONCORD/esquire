@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 14:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 20:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칭따오, 한정판 놀이 맥주 '신동엽 라거 캔’ 3종 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67047</link>
+            <guid>https://www.esquirekorea.co.kr/article/67047</guid>
+            <pubDate>Sat, 11 Jun 2022 20:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[맥주 맛은 원래 노는 맛.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/d57ceea0-ad49-4e0b-b7df-4b21f93adfbe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울 속 미국, 서울 도심에서 느끼는 미국 감성 공간 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/66963</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 03 Jun 2022 12:34:17 GMT</pubDate>
             <content:encoded><![CDATA[자신만의 확고한 취향을 가진 사람들에게 두루 물었다. ‘초여름 밤 특유의 운치, 당신이 그것을...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/b3dc688c-2e4d-4c2f-88a6-815e009a435a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쉼을 전해주는 제주 풀멍 코스 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66836</link>
-            <guid>https://www.esquirekorea.co.kr/article/66836</guid>
-            <pubDate>Thu, 02 Jun 2022 19:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[BTS 지민이 다녀온 스누피가든부터 한라산 아래 호텔까지 '풀멍' 필요할 때 찾아가보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/e7523c4c-7276-4066-b744-43ed7d245483.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
