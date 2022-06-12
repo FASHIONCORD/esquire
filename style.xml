@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 09:26:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 11:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에스콰이어와 발란사가 함께 만든 티셔츠]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66992</link>
+            <guid>https://www.esquirekorea.co.kr/article/66992</guid>
+            <pubDate>Sun, 12 Jun 2022 11:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;에스콰이어&gt;와 사운즈샵 발란사가 만났다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/4a5fc6f5-c527-4ece-8431-072637271dc6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름에 차기 좋은 버클이 예쁜 벨트]]></title>
             <link>https://www.esquirekorea.co.kr/article/66976</link>
@@ -61,14 +69,6 @@
             <guid>https://www.esquirekorea.co.kr/article/66951</guid>
             <pubDate>Sun, 05 Jun 2022 17:16:04 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/b43b4e86-7828-441a-8f58-839bb6446106.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[턱드름 방지하는 면도 루틴]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66663</link>
-            <guid>https://www.esquirekorea.co.kr/article/66663</guid>
-            <pubDate>Sun, 05 Jun 2022 17:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[깨끗한 턱을 위한 셰이빙 루틴.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/76a0bf49-f95b-41a9-b100-2c3af3f79422.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
