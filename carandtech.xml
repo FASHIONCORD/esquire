@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 20:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 09:29:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프랑스의 오디오 명가 드비알레에서 사운드바 영역에 손을 댄 이유]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66844</link>
+            <guid>https://www.esquirekorea.co.kr/article/66844</guid>
+            <pubDate>Mon, 13 Jun 2022 09:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[사운드바도 하이엔드가 되나요.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/8574ffbb-c05c-479b-a818-ae59d96c7ca0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 주목해야 할 자동차 3]]></title>
             <link>https://www.esquirekorea.co.kr/article/66596</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 27 May 2022 23:21:05 GMT</pubDate>
             <content:encoded><![CDATA[뮤 홀로그램 스티커의 주인공은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/d9629655-abd5-49c4-92b3-52e5eed41fc0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커넥티드 칼리버 E4와 위하준의 강렬한 만남]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66437</link>
-            <guid>https://www.esquirekorea.co.kr/article/66437</guid>
-            <pubDate>Fri, 27 May 2022 23:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[연결되는 순간 펼쳐지는 무적의 퍼포먼스. 배우 위하준이 말하는 커넥티드 칼리버 E4에 대하여.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/19/fc5e6768-d168-4849-9d4f-e6ffa33eb8da.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
