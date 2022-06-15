@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 07:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 11:27:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진취적인 요즘 남자를 위한 향수]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67002</link>
+            <guid>https://www.esquirekorea.co.kr/article/67002</guid>
+            <pubDate>Wed, 15 Jun 2022 11:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[블루 드 샤넬에서 새로운 광고 필름을 공개했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/4b46da1a-4475-4c26-8098-b863101e0ff9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스콰이어와 발란사가 함께 만든 티셔츠]]></title>
             <link>https://www.esquirekorea.co.kr/article/66992</link>
@@ -62,13 +70,6 @@
             <pubDate>Sun, 05 Jun 2022 17:16:04 GMT</pubDate>
             <content:encoded><![CDATA[큼지막한 쇼츠를 오늘 기분과 날씨에 따라 입는다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/050a3af5-68a4-4982-ab95-2e6c0002d909.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마크가 맠, 단호맠, 마키푸 중 마음에 드는 별명은?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66951</link>
-            <guid>https://www.esquirekorea.co.kr/article/66951</guid>
-            <pubDate>Sun, 05 Jun 2022 17:16:04 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/b43b4e86-7828-441a-8f58-839bb6446106.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
