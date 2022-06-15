@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 20:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 07:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 새 앨범 'Yet To Come’ 티저 영상 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67044</link>
+            <guid>https://www.esquirekorea.co.kr/article/67044</guid>
+            <pubDate>Wed, 15 Jun 2022 07:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[뮤비 티저 CGV에서도 오프라인 상영]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/b7f0d4f2-b1d7-4ef9-8799-b0ebeea446a7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 백악관 방문 영상 공개한 조 바이든 대통령]]></title>
             <link>https://www.esquirekorea.co.kr/article/66984</link>
@@ -60,14 +68,6 @@
             <pubDate>Fri, 03 Jun 2022 12:35:10 GMT</pubDate>
             <content:encoded><![CDATA[젠하이저 ‘모멘텀 트루 와이어리스 3’ 무선 이어폰이 5월에 국내 출시됐다. 실제로 젠하이저의...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/be80b39d-1f2f-4f68-b1be-0266217d0db3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<파친코>의 목사 남편 노상현이 이기자 부대를 나온 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66649</link>
-            <guid>https://www.esquirekorea.co.kr/article/66649</guid>
-            <pubDate>Thu, 02 Jun 2022 08:29:01 GMT</pubDate>
-            <content:encoded><![CDATA[노상현은 &lt;파친코&gt;라는 기회를 잡았음에도 들뜨지 않는다. 대신 그는 어떻게 살아야 하는지, 어디...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/43d7534d-466b-454e-ba6a-d14035a56a11.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

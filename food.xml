@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 20:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 07:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 비주얼 추앙해요. 진귀한 디저트 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67135</link>
+            <guid>https://www.esquirekorea.co.kr/article/67135</guid>
+            <pubDate>Wed, 15 Jun 2022 07:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[예술 작품인가 디저트인가. 신기하고 아름다운 디저트 세계.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/6cd0a696-ed28-47da-8766-2e1a3d2809e5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[곧 열리는 신촌물총축제! 주변 핫한 술집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67124</link>
+            <guid>https://www.esquirekorea.co.kr/article/67124</guid>
+            <pubDate>Wed, 15 Jun 2022 07:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[3년 만에 돌아온 신촌물총축제! 시원한 물총 축제와 공연을 즐긴 후 가볼 만한 주변 술집을 소...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/0bc09bb6-161b-42b6-8e49-4f0fca9f1627.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 이태원에서 가장 아름다운 책방 ‘그래픽’과 함께 가볼 만한 공간은?]]></title>
             <link>https://www.esquirekorea.co.kr/article/67115</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 11 Jun 2022 03:25:19 GMT</pubDate>
             <content:encoded><![CDATA[자신만의 확고한 취향을 가진 사람들에게 두루 물었다. ‘초여름 밤 특유의 운치, 당신이 그것을...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/a2a1917b-eadb-4950-91dc-83523f3a1bcb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주말 드라이브 코스, 평택 이색 데이트 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66922</link>
-            <guid>https://www.esquirekorea.co.kr/article/66922</guid>
-            <pubDate>Wed, 08 Jun 2022 18:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[6월에만 즐길 수 있는 체리 따기 체험부터 데이트 풀코스까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/2efad897-6960-4f7e-a7ed-356017f5f40b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당 충전 필요할 때 크로핀 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66919</link>
-            <guid>https://www.esquirekorea.co.kr/article/66919</guid>
-            <pubDate>Sat, 04 Jun 2022 05:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[디저트 배 따로! 달달한 크로핀 맛집 투어할 시간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/02/e5e5c2be-9eaa-44ef-a675-896dee86f3d5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
