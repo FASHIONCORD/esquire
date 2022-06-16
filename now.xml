@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 11:27:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 07:44:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 여의도 상공을 수놓은 ‘IWC 탑건 드론쇼’]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67018</link>
+            <guid>https://www.esquirekorea.co.kr/article/67018</guid>
+            <pubDate>Thu, 16 Jun 2022 07:43:54 GMT</pubDate>
+            <content:encoded><![CDATA[지난 6월 3일, IWC가 파일럿 워치 ‘탑건’ 라인 신제품 출시를 기념하며 환상적인 드론쇼를 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/174617a2-13b6-44eb-b80c-6171ca155dcc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마이클 조던이 새겨진 에어 조던 1 미드]]></title>
             <link>https://www.esquirekorea.co.kr/article/66975</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 05 Jun 2022 17:21:54 GMT</pubDate>
             <content:encoded><![CDATA[해운대를 비롯한 부산 대표 해수욕장 7곳 개장일 정리.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/337d279d-1304-48f3-ac4d-8d1cef3a1429.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장비 욕심 자극하는 크롬하츠의 트러플 커터]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66679</link>
-            <guid>https://www.esquirekorea.co.kr/article/66679</guid>
-            <pubDate>Sun, 05 Jun 2022 17:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[은은하게 새겨진 고딕 십자가 문양이 돋보인다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/76b84a93-17d6-4c63-a234-c259751a8956.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
