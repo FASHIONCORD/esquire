@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 07:44:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 13:38:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전문가들의 입에서 '와우' 소리가 나오게 만든 8개의 요리]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67140</link>
+            <guid>https://www.esquirekorea.co.kr/article/67140</guid>
+            <pubDate>Thu, 16 Jun 2022 13:37:07 GMT</pubDate>
+            <content:encoded><![CDATA[뭔가를 먹으면서 좀처럼 놀랄 일이 없는 사람들, 셰프이거나 미식 기자이거나 미식 잡지의 편집...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/11/1b1e737e-54cf-40df-8f78-b6b82aa79beb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 비주얼 추앙해요. 진귀한 디저트 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/67135</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 11 Jun 2022 03:25:19 GMT</pubDate>
             <content:encoded><![CDATA[진정한 다운타우너는 맛도 멋도 포기할 수 없다. 다운타우너의 주인공들을 만나 직접 들어본 브...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/42e2f017-42f5-4362-9294-762942aa076e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초여름밤을 제대로 만끽하게 해줄 아이템 50 part.2]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66765</link>
-            <guid>https://www.esquirekorea.co.kr/article/66765</guid>
-            <pubDate>Sat, 11 Jun 2022 03:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[자신만의 확고한 취향을 가진 사람들에게 두루 물었다. ‘초여름 밤 특유의 운치, 당신이 그것을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/a2a1917b-eadb-4950-91dc-83523f3a1bcb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
