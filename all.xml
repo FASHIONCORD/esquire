@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 13:38:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 18:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1578,6 +1578,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/28/8696f940-91c8-41d8-9f27-68840cf62eac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Eshop] 스타일리시하게, 트렌디하게 (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66827</link>
+            <guid>https://www.esquirekorea.co.kr/article/66827</guid>
+            <pubDate>Thu, 16 Jun 2022 18:27:34 GMT</pubDate>
+            <content:encoded><![CDATA[아침저녁으로 실용성 높은 데일리룩]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/84fdee14-e8e5-400d-97cd-b8bd45b3c45c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Eshop] 아우터 챙겨 입는 여름 멋쟁이 (에스콰이어 코리아 ─ 이샵)]]></title>
             <link>https://www.esquirekorea.co.kr/article/66929</link>
             <guid>https://www.esquirekorea.co.kr/article/66929</guid>
@@ -1632,14 +1640,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 31 May 2022 17:35:49 GMT</pubDate>
             <content:encoded><![CDATA[키가 작은 사람도 스타일리시하게 입을 수 있는 재킷]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/0ec2c579-e971-4fdf-9e60-8f16f2d93c57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 가벼운 남자 봄 스타일링 (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66465</link>
-            <guid>https://www.esquirekorea.co.kr/article/66465</guid>
-            <pubDate>Sun, 29 May 2022 17:27:32 GMT</pubDate>
-            <content:encoded><![CDATA[안경부터 가디건, 캔버스백  조합으로 완성]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/18/11805727-f487-4d58-822e-65691cabc02b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
