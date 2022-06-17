@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 05:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 09:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 비주얼 추앙해요. 진귀한 디저트 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67135</link>
+            <guid>https://www.esquirekorea.co.kr/article/67135</guid>
+            <pubDate>Fri, 17 Jun 2022 09:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[예술 작품인가 디저트인가. 신기하고 아름다운 디저트 세계.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/6cd0a696-ed28-47da-8766-2e1a3d2809e5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신나는 여름 음악과 함께 부캐로 돌아온 홍석천]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67126</link>
+            <guid>https://www.esquirekorea.co.kr/article/67126</guid>
+            <pubDate>Fri, 17 Jun 2022 09:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[힘든 시기를 이겨내고 다같이 춤추자는 메시지를 담았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/8b6ad9a6-a068-4db5-8a79-e4ce436d01c0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세계적인 음악 레이블 데카와 전속 계약한 음악감독 정재일]]></title>
             <link>https://www.esquirekorea.co.kr/article/67127</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 11 Jun 2022 03:26:21 GMT</pubDate>
             <content:encoded><![CDATA[SNS 피드를 미국 감성으로 채우고 싶다면 다음 4곳을 방문해보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/47b7ab0e-c316-46ff-9260-004057f95238.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 시내에서 경험하는 나이 지긋한 빈티지 호텔 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66933</link>
-            <guid>https://www.esquirekorea.co.kr/article/66933</guid>
-            <pubDate>Tue, 07 Jun 2022 11:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[세월이 만든 빈티지 호텔에서의 하룻밤.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/d1cc927a-99d3-4893-803b-e29fb8adffe1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울숲 나들이 후 즐기는 와인 한 잔. 서울숲 일대 와인바 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66789</link>
-            <guid>https://www.esquirekorea.co.kr/article/66789</guid>
-            <pubDate>Sun, 05 Jun 2022 17:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[흥을 돋우는 와인은 물론 허기를 채울 식사 메뉴도 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/28/8696f940-91c8-41d8-9f27-68840cf62eac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

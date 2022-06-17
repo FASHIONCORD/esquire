@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 05:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 09:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몽클레르의 한 축을 이끄는 조나단 앤더슨과의 인터뷰]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67077</link>
+            <guid>https://www.esquirekorea.co.kr/article/67077</guid>
+            <pubDate>Fri, 17 Jun 2022 09:24:16 GMT</pubDate>
+            <content:encoded><![CDATA[라벨을 보지 않아도 누가 만들었는지 알 수 있는 옷이 있다. 조나단 앤더슨은 본인 컬렉션에서...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/bd71cd4a-0daa-43e8-8de0-23779c2398e6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단·유튜브, 'MyBTStory' 챌린지 진행]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67045</link>
+            <guid>https://www.esquirekorea.co.kr/article/67045</guid>
+            <pubDate>Fri, 17 Jun 2022 09:24:16 GMT</pubDate>
+            <content:encoded><![CDATA[방탄소년단과의 추억을 담은 유튜브 쇼츠 제작해 참여 가능]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/786aeab0-7989-4bb3-9b77-5f708085990a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 새 앨범 'Yet To Come’ 티저 영상 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/67044</link>
@@ -52,22 +68,6 @@
             <pubDate>Wed, 08 Jun 2022 18:22:55 GMT</pubDate>
             <content:encoded><![CDATA[두려움도, 괴로움도, 들뜨는 마음도, 품고 있기 벅찰 정도의 사랑도, 이주영은 모두 직시하고 싶...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/f206b640-ff8a-4dde-8331-2402c2f3fa08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 이주영의 친구들이 이주영을 '영미'라고 부르는 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66682</link>
-            <guid>https://www.esquirekorea.co.kr/article/66682</guid>
-            <pubDate>Tue, 07 Jun 2022 11:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[두려움도, 괴로움도, 들뜨는 마음도, 품고 있기 벅찰 정도의 사랑도, 이주영은 모두 직시하고 싶...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/21fd6951-56ef-4919-ab77-6b87d4175698.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<초록을거머쥔우리는> 잔나비 최정훈 "그냥 전 모든 걸 그리워하는 것 같아요."]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66523</link>
-            <guid>https://www.esquirekorea.co.kr/article/66523</guid>
-            <pubDate>Fri, 03 Jun 2022 12:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[젠하이저 ‘모멘텀 트루 와이어리스 3’ 무선 이어폰이 5월에 국내 출시됐다. 실제로 젠하이저의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/be80b39d-1f2f-4f68-b1be-0266217d0db3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

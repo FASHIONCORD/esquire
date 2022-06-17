@@ -4,9 +4,24 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 05:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 09:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배스킨라빈스 '꼬부기 컨테이너' 사전예약 실시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67160</link>
+            <guid>https://www.esquirekorea.co.kr/article/67160</guid>
+            <pubDate>Fri, 17 Jun 2022 09:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[사전 예약하면 할인가로 구매할 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/69f98355-694a-4a2e-8d6c-d9468d18ca56.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크루그의 170번째 심포니가 탄생했다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67145</link>
+            <guid>https://www.esquirekorea.co.kr/article/67145</guid>
+            <pubDate>Fri, 17 Jun 2022 09:23:54 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/12/47b32fca-3eeb-43fc-b59c-18d08aad5d25.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전문가들의 입에서 '와우' 소리가 나오게 만든 8개의 요리]]></title>
             <link>https://www.esquirekorea.co.kr/article/67140</link>
@@ -54,22 +69,6 @@
             <pubDate>Sat, 11 Jun 2022 03:25:19 GMT</pubDate>
             <content:encoded><![CDATA[SNS 피드를 미국 감성으로 채우고 싶다면 다음 4곳을 방문해보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/47b7ab0e-c316-46ff-9260-004057f95238.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국의 발리 영흥도, 가볼 만한 곳 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66950</link>
-            <guid>https://www.esquirekorea.co.kr/article/66950</guid>
-            <pubDate>Sat, 11 Jun 2022 03:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[영흥도와 함께 가볼 만한 카페와 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/7128a813-f766-4ce7-8c87-d793c805e9d1.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[다운타우너가 이야기하는 다운타우너가 궁금하다면?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66928</link>
-            <guid>https://www.esquirekorea.co.kr/article/66928</guid>
-            <pubDate>Sat, 11 Jun 2022 03:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[진정한 다운타우너는 맛도 멋도 포기할 수 없다. 다운타우너의 주인공들을 만나 직접 들어본 브...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/42e2f017-42f5-4362-9294-762942aa076e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
