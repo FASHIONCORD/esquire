@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 09:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 20:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1387,6 +1387,38 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/47b7ab0e-c316-46ff-9260-004057f95238.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[18년마다 돌아오는 우주쇼를 한국에서도 볼 수 있다 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67257</link>
+            <guid>https://www.esquirekorea.co.kr/article/67257</guid>
+            <pubDate>Fri, 17 Jun 2022 20:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[행성 정렬을 보고 싶다면 여의도로.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/10baf140-89d4-48b7-9d8c-e99e85c59bde.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단, 팀 활동과 개인 활동 병행 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67223</link>
+            <guid>https://www.esquirekorea.co.kr/article/67223</guid>
+            <pubDate>Fri, 17 Jun 2022 20:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[개인 활동 첫 주자는 제이홉.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/b17e3886-46bc-45a4-a07d-5978b18aab21.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스, 60억원 상금 걸고 실제 ‘오징어 게임’ 대회 개최 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67217</link>
+            <guid>https://www.esquirekorea.co.kr/article/67217</guid>
+            <pubDate>Fri, 17 Jun 2022 20:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[전세계 456명 참가자 모집.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/8df662fd-85d2-45cf-bd91-399892f69906.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나 확진자 7일 격리 의무 해제 여부 발표 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67161</link>
+            <guid>https://www.esquirekorea.co.kr/article/67161</guid>
+            <pubDate>Fri, 17 Jun 2022 20:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[전문 태스크포스를 구성해 의논 중이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/d01b18d9-57b7-435a-bc45-581a632685e8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[배스킨라빈스 '꼬부기 컨테이너' 사전예약 실시 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67160</link>
             <guid>https://www.esquirekorea.co.kr/article/67160</guid>
@@ -1419,36 +1451,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/6cd0a696-ed28-47da-8766-2e1a3d2809e5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세계적인 음악 레이블 데카와 전속 계약한 음악감독 정재일 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67127</link>
-            <guid>https://www.esquirekorea.co.kr/article/67127</guid>
-            <pubDate>Mon, 13 Jun 2022 09:27:37 GMT</pubDate>
-            <content:encoded><![CDATA[한국인 최초로 '2021 할리우드 뮤직 인 어워즈' TV 쇼 &amp; 드라마 부문에서 수상한 음악감독.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/22d8223c-0bf4-4838-85ee-3f6b56ecd4eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신나는 여름 음악과 함께 부캐로 돌아온 홍석천 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67126</link>
-            <guid>https://www.esquirekorea.co.kr/article/67126</guid>
-            <pubDate>Mon, 13 Jun 2022 09:27:37 GMT</pubDate>
-            <content:encoded><![CDATA[힘든 시기를 이겨내고 다같이 춤추자는 메시지를 담았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/8b6ad9a6-a068-4db5-8a79-e4ce436d01c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 이태원에서 가장 아름다운 책방 ‘그래픽’과 함께 가볼 만한 공간은? (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67115</link>
-            <guid>https://www.esquirekorea.co.kr/article/67115</guid>
-            <pubDate>Mon, 13 Jun 2022 09:27:26 GMT</pubDate>
-            <content:encoded><![CDATA[최근 경리단길에서 가장 떠들썩한 공간은 의외로 책방이다. 경리단길답게 주변에 좋은 곳들도 많...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/34617130-4341-4471-988b-5f95ee6ca5a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘 밤 압구정 클럽에 갈 생각이라면 답은 여기. PART 3 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67105</link>
-            <guid>https://www.esquirekorea.co.kr/article/67105</guid>
-            <pubDate>Sat, 11 Jun 2022 03:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[757일 만에 영업 제한이 풀렸다. 기다렸다는 듯 밤거리로 쏟아져 나온 클러버들은 과연 어디로 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/ca1c2424-a431-49ce-8275-e56031f9c06c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2022 방탄소년단 페스타 진행 중! 이 기간엔 약속도 잡지 마! (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67117</link>
+            <guid>https://www.esquirekorea.co.kr/article/67117</guid>
+            <pubDate>Fri, 17 Jun 2022 20:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[매일이 즐거운 방탄소년단 떡밥 파티.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/54308353-5930-4392-b8ea-95e51f24a5f1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[몽클레르의 한 축을 이끄는 조나단 앤더슨과의 인터뷰 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1505,12 +1513,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/a75f610f-3c5d-4338-8580-09217560e4bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이주영 "연기, 영화를 사랑하는 마음이 제 스스로도 벅찰 정도일 때가 있어요." (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66697</link>
-            <guid>https://www.esquirekorea.co.kr/article/66697</guid>
-            <pubDate>Wed, 08 Jun 2022 18:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[두려움도, 괴로움도, 들뜨는 마음도, 품고 있기 벅찰 정도의 사랑도, 이주영은 모두 직시하고 싶...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/26/f206b640-ff8a-4dde-8331-2402c2f3fa08.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[18년마다 돌아오는 우주쇼를 한국에서도 볼 수 있다 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67257</link>
+            <guid>https://www.esquirekorea.co.kr/article/67257</guid>
+            <pubDate>Fri, 17 Jun 2022 20:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[행성 정렬을 보고 싶다면 여의도로.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/10baf140-89d4-48b7-9d8c-e99e85c59bde.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오롯이 나에게만 집중할 수 있는 서울의 고상한 사색공간 4 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67137</link>
+            <guid>https://www.esquirekorea.co.kr/article/67137</guid>
+            <pubDate>Wed, 15 Jun 2022 11:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[낯선 곳에서 생각에 잠기고 싶을 때.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/7187c8db-808f-4768-bcfc-b0e59315e892.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이 비주얼 추앙해요. 진귀한 디저트 맛집 4 (에스콰이어 코리아 ─ 나우)]]></title>
@@ -1559,22 +1575,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sat, 11 Jun 2022 03:26:21 GMT</pubDate>
             <content:encoded><![CDATA[방명록은 안녕, 이제는 싸이타운 광장에서.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/05/79347099-0677-4d5b-a4b6-6f0ab55b4537.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실종 아동 찾기 위한 앰버 경고 시스템 도입한 인스타그램 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66972</link>
-            <guid>https://www.esquirekorea.co.kr/article/66972</guid>
-            <pubDate>Sat, 11 Jun 2022 03:26:21 GMT</pubDate>
-            <content:encoded><![CDATA[경고 알람을 공유하거나 반복적으로 게시할 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/05/14c04806-f4ed-4a1d-94e9-13dc5552bab8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 속 미국, 서울 도심에서 느끼는 미국 감성 공간 4 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66963</link>
-            <guid>https://www.esquirekorea.co.kr/article/66963</guid>
-            <pubDate>Tue, 07 Jun 2022 03:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[SNS 피드를 미국 감성으로 채우고 싶다면 다음 4곳을 방문해보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/47b7ab0e-c316-46ff-9260-004057f95238.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 스타일리시하게, 트렌디하게 (에스콰이어 코리아 ─ 이샵)]]></title>
