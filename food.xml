@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 14:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 21:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배스킨라빈스, 멜론과 신제품 '메롱멜론' 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67222</link>
+            <guid>https://www.esquirekorea.co.kr/article/67222</guid>
+            <pubDate>Sat, 18 Jun 2022 21:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[멜론과 다양한 이벤트 선보일 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/76f1357b-aa62-43b6-9eb1-afe5eb132324.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름이면 생각나는 밥도둑, 서울 간장게장 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67202</link>
+            <guid>https://www.esquirekorea.co.kr/article/67202</guid>
+            <pubDate>Sat, 18 Jun 2022 21:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[간장게장 먹으러 여수까지 가지 않아도 된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/b2e050e4-6502-4dd9-82bf-1e3e5d151085.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배스킨라빈스 '꼬부기 컨테이너' 사전예약 실시]]></title>
             <link>https://www.esquirekorea.co.kr/article/67160</link>
@@ -53,22 +69,6 @@
             <pubDate>Mon, 13 Jun 2022 09:27:26 GMT</pubDate>
             <content:encoded><![CDATA[최근 경리단길에서 가장 떠들썩한 공간은 의외로 책방이다. 경리단길답게 주변에 좋은 곳들도 많...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/34617130-4341-4471-988b-5f95ee6ca5a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칭따오, 한정판 놀이 맥주 '신동엽 라거 캔’ 3종 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67047</link>
-            <guid>https://www.esquirekorea.co.kr/article/67047</guid>
-            <pubDate>Sat, 11 Jun 2022 20:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[맥주 맛은 원래 노는 맛.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/d57ceea0-ad49-4e0b-b7df-4b21f93adfbe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 속 미국, 서울 도심에서 느끼는 미국 감성 공간 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66963</link>
-            <guid>https://www.esquirekorea.co.kr/article/66963</guid>
-            <pubDate>Sat, 11 Jun 2022 03:25:19 GMT</pubDate>
-            <content:encoded><![CDATA[SNS 피드를 미국 감성으로 채우고 싶다면 다음 4곳을 방문해보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/47b7ab0e-c316-46ff-9260-004057f95238.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
