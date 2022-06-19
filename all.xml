@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 14:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 16:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1577,6 +1577,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/05/79347099-0677-4d5b-a4b6-6f0ab55b4537.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Eshop] 미니멀룩의 대명사 올블랙 코디 (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67036</link>
+            <guid>https://www.esquirekorea.co.kr/article/67036</guid>
+            <pubDate>Sun, 19 Jun 2022 16:25:09 GMT</pubDate>
+            <content:encoded><![CDATA[시크한 느낌은 덤]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/4b04230d-2d09-44fd-a733-76d6f71c2c77.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Eshop] 스타일리시하게, 트렌디하게 (에스콰이어 코리아 ─ 이샵)]]></title>
             <link>https://www.esquirekorea.co.kr/article/66827</link>
             <guid>https://www.esquirekorea.co.kr/article/66827</guid>
@@ -1631,14 +1639,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 03 Jun 2022 05:20:31 GMT</pubDate>
             <content:encoded><![CDATA[봄에는 가벼운 니트 한 장이면 끝]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/18f12ad6-bd89-40eb-aefe-7d4ea78d010f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 다리가 길어 보이는 트렌디한 크롭 재킷 (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66529</link>
-            <guid>https://www.esquirekorea.co.kr/article/66529</guid>
-            <pubDate>Tue, 31 May 2022 17:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[키가 작은 사람도 스타일리시하게 입을 수 있는 재킷]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/0ec2c579-e971-4fdf-9e60-8f16f2d93c57.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
