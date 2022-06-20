@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 22:24:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 20:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화성에서 발견된 인간이 만든 쓰레기]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67290</link>
+            <guid>https://www.esquirekorea.co.kr/article/67290</guid>
+            <pubDate>Mon, 20 Jun 2022 20:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[이번이 처음이 아니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/ec01c029-809a-4e31-82a2-da99591ab6f4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애니메이션으로 돌아온 윌벤져스]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67288</link>
+            <guid>https://www.esquirekorea.co.kr/article/67288</guid>
+            <pubDate>Mon, 20 Jun 2022 20:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[6월 23일 CGV에서 개봉한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/7986f34b-deae-407a-b34d-c35ee9dd8be1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름 데이트 필수 코스! 서울 계곡 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/67286</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 17 Jun 2022 20:21:19 GMT</pubDate>
             <content:encoded><![CDATA[전문 태스크포스를 구성해 의논 중이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/d01b18d9-57b7-435a-bc45-581a632685e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배스킨라빈스 '꼬부기 컨테이너' 사전예약 실시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67160</link>
-            <guid>https://www.esquirekorea.co.kr/article/67160</guid>
-            <pubDate>Thu, 16 Jun 2022 13:37:18 GMT</pubDate>
-            <content:encoded><![CDATA[사전 예약하면 할인가로 구매할 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/69f98355-694a-4a2e-8d6c-d9468d18ca56.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스파이더맨: 노 웨이 홈' 확장판 9월 개봉 확정]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67159</link>
-            <guid>https://www.esquirekorea.co.kr/article/67159</guid>
-            <pubDate>Thu, 16 Jun 2022 13:37:18 GMT</pubDate>
-            <content:encoded><![CDATA[토비 맥과이어와 그린 고블린의 재대결?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/90642a3e-4e60-485f-8e33-861a08acd72b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

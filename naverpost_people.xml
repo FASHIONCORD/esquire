@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 22:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 20:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독 인터뷰] 손석구가 일부러 몸을 불리기 위해 초콜릿을 먹은 이유]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33991987&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33991987&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Mon, 20 Jun 2022 20:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjBfMjIx/MDAxNjU1NzA1MzYxODI0.IK-Wdx7_W8PvkkgeU5I9OFJEiidZUkieuzaOCKbv-b0g.PmrKlyNSh-yQPQ0Ciq6ocHuAqvIGipIciwIoaB-fNQYg.JPEG/IgWs55MmlP2SMDRerxyJ-PC1B-uM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“추앙한다” 손석구에 대해 몰랐던 사실 12]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33889125&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Oct 2021 07:17:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTAyMDRfMTM0/MDAxNjEyNDIyNzQ1MzI2.OesXQFEHSQM8imGSNulvJmKjDSqqA2o8kqi8rAE0C4Ig.v_jSCuou9dBgFFN30Kz5R-uP92iZ9TVS0nBWF-NwFQsg.JPEG/I8eJo_HBehTMZQUJSu-zz6JlEH2U.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이동국, 파나소닉 의자를 만나다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30579339&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30579339&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 07:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAxMjFfMTY2/MDAxNjExMTk4NTUyOTYx.hH6V9UcRLNRCixfb0ey7zM0ge7a5M5WzMN5py3VIfSEg.KUCFLkd8vN-DgVkmonQg3u0wOKzFUjaVQUS1V4Zmyr8g.JPEG/IhFBpgZ7FsDrNk4dOE3x2xy1ngZw.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

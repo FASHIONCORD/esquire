@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 22:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 20:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해외에서 가장 핫한 치킨 버거 국내 출시하는 KFC]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67289</link>
+            <guid>https://www.esquirekorea.co.kr/article/67289</guid>
+            <pubDate>Mon, 20 Jun 2022 20:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[KFC 내 판매율 1위를 기록한 버거.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/86175eba-10d3-4f50-9246-54dae50847ff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름 데이트 필수 코스! 서울 계곡 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67286</link>
+            <guid>https://www.esquirekorea.co.kr/article/67286</guid>
+            <pubDate>Mon, 20 Jun 2022 20:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[벌써부터 더운 날씨! 시원한 계곡물에 발 담그고 몸보신과 함께 여름을 만끽해 보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/28d70d05-2ef0-4770-b4a8-fc542f19010b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[커피 한 모금, 경치 한 모금. 서울 속 뷰 맛집 카페 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67265</link>
+            <guid>https://www.esquirekorea.co.kr/article/67265</guid>
+            <pubDate>Mon, 20 Jun 2022 20:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[경치 한잔할래요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/a13aaef3-cf7c-4bb7-ada4-6a0f0b38a053.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배스킨라빈스, 멜론과 신제품 '메롱멜론' 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/67222</link>
@@ -45,30 +69,6 @@
             <pubDate>Thu, 16 Jun 2022 13:37:07 GMT</pubDate>
             <content:encoded><![CDATA[뭔가를 먹으면서 좀처럼 놀랄 일이 없는 사람들, 셰프이거나 미식 기자이거나 미식 잡지의 편집...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/11/1b1e737e-54cf-40df-8f78-b6b82aa79beb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 비주얼 추앙해요. 진귀한 디저트 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67135</link>
-            <guid>https://www.esquirekorea.co.kr/article/67135</guid>
-            <pubDate>Wed, 15 Jun 2022 07:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[예술 작품인가 디저트인가. 신기하고 아름다운 디저트 세계.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/6cd0a696-ed28-47da-8766-2e1a3d2809e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[곧 열리는 신촌물총축제! 주변 핫한 술집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67124</link>
-            <guid>https://www.esquirekorea.co.kr/article/67124</guid>
-            <pubDate>Wed, 15 Jun 2022 07:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[3년 만에 돌아온 신촌물총축제! 시원한 물총 축제와 공연을 즐긴 후 가볼 만한 주변 술집을 소...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/0bc09bb6-161b-42b6-8e49-4f0fca9f1627.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 이태원에서 가장 아름다운 책방 ‘그래픽’과 함께 가볼 만한 공간은?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67115</link>
-            <guid>https://www.esquirekorea.co.kr/article/67115</guid>
-            <pubDate>Mon, 13 Jun 2022 09:27:26 GMT</pubDate>
-            <content:encoded><![CDATA[최근 경리단길에서 가장 떠들썩한 공간은 의외로 책방이다. 경리단길답게 주변에 좋은 곳들도 많...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/34617130-4341-4471-988b-5f95ee6ca5a3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

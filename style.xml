@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 22:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 20:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[젊음을 불사르는 여름밤]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67074</link>
+            <guid>https://www.esquirekorea.co.kr/article/67074</guid>
+            <pubDate>Mon, 20 Jun 2022 20:20:26 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/3dcd9f99-966e-460d-b80f-8d0639f0dfab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진취적인 요즘 남자를 위한 향수]]></title>
             <link>https://www.esquirekorea.co.kr/article/67002</link>
@@ -62,14 +69,6 @@
             <pubDate>Tue, 07 Jun 2022 03:22:58 GMT</pubDate>
             <content:encoded><![CDATA[펜디와 베르사체의 도발적인 이름, 펜다체 컬렉션.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/99985fb4-7265-48c2-bbee-81e46627403f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커다란 반바지를 다양하게 입는 방법]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66955</link>
-            <guid>https://www.esquirekorea.co.kr/article/66955</guid>
-            <pubDate>Sun, 05 Jun 2022 17:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[큼지막한 쇼츠를 오늘 기분과 날씨에 따라 입는다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/050a3af5-68a4-4982-ab95-2e6c0002d909.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
