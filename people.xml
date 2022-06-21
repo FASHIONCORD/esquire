@@ -4,9 +4,23 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 08:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 14:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손석구가 생각하는 장첸 VS 강해상 대결의 승자는?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67298</link>
+            <guid>https://www.esquirekorea.co.kr/article/67298</guid>
+            <pubDate>Tue, 21 Jun 2022 14:19:49 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/331da3ff-1b58-45ae-b6eb-904ad52ca2bf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장혁이 밝히는 <추노> 삶은 계란 오열씬 탄생 비하인드 스토리]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67292</link>
+            <guid>https://www.esquirekorea.co.kr/article/67292</guid>
+            <pubDate>Tue, 21 Jun 2022 14:19:49 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/c339abe5-520c-4c2b-8951-6897d82ea634.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독 인터뷰] 손석구는 2m짜리 감정의 원을 그리고 그 안에서 자유롭다]]></title>
             <link>https://www.esquirekorea.co.kr/article/67279</link>
@@ -53,22 +67,6 @@
             <pubDate>Fri, 17 Jun 2022 09:24:16 GMT</pubDate>
             <content:encoded><![CDATA[라벨을 보지 않아도 누가 만들었는지 알 수 있는 옷이 있다. 조나단 앤더슨은 본인 컬렉션에서...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/bd71cd4a-0daa-43e8-8de0-23779c2398e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단·유튜브, 'MyBTStory' 챌린지 진행]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67045</link>
-            <guid>https://www.esquirekorea.co.kr/article/67045</guid>
-            <pubDate>Fri, 17 Jun 2022 09:24:16 GMT</pubDate>
-            <content:encoded><![CDATA[방탄소년단과의 추억을 담은 유튜브 쇼츠 제작해 참여 가능]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/786aeab0-7989-4bb3-9b77-5f708085990a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 새 앨범 'Yet To Come’ 티저 영상 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67044</link>
-            <guid>https://www.esquirekorea.co.kr/article/67044</guid>
-            <pubDate>Wed, 15 Jun 2022 07:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[뮤비 티저 CGV에서도 오프라인 상영]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/b7f0d4f2-b1d7-4ef9-8799-b0ebeea446a7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
