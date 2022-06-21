@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 20:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 08:33:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국의 발리 영흥도, 가볼 만한 곳 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33992228&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33992228&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Tue, 21 Jun 2022 08:28:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjBfNzUg/MDAxNjU1NzA4OTcwNzc2.ustwxfxtui-_DSc4pSADFxxcBuf09D-V9dr28DcZWy8g.qAEbOdvYuWz6LF_5xSdF8neM9sFcDojwqffMWwVsnowg.GIF/IqOV8iCcDE2g9i_E1ZY9TipkMOcU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주말 드라이브 코스, 평택 이색 데이트 5]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33957904&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 May 2022 02:32:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDRfMjU2/MDAxNjQxMjIzMTAyNjI5.-YowOhwz4dWoIyz-h93AYtifyVpMcdcjOIBYymAH1vQg.7ki1pWjoPnD4SI8f-RgE4IYpC4WROAblpFPhatKd0Tcg.PNG/I2j4JHtr15O7lrtc_NsoOU42NHfk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말 연초에 나들이 가기 좋은 신상 맛집 5]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33059341&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33059341&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Tue, 24 May 2022 02:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMDNfNzkg/MDAxNjQxMjExNjgzMzc1.0V5v5K2rMeiKqk56WoBTS1eORB7ElVJk9oEA81IF05Eg.iwVXH78zZEfafF54zp6N5umuCLOFlhXrEvxgLmtnlnUg.PNG/Ic0__6mpnoPdDgVm1WUp_TiueOHQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
