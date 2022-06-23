@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 01:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 05:29:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 강한나가 <붉은 단심>이 이전의 작품들과 달랐다고 말하는 이유]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67308</link>
+            <guid>https://www.esquirekorea.co.kr/article/67308</guid>
+            <pubDate>Thu, 23 Jun 2022 05:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[도전적인 사람은 아니지만, 도전을 하고 싶어 하는 사람. 배우 강한나는 스스로를 모순된 문장으...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/8b692b9a-4d07-4170-91bd-bf37b32ab1f2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손석구가 생각하는 장첸 VS 강해상 대결의 승자는?]]></title>
             <link>https://www.esquirekorea.co.kr/article/67298</link>
@@ -59,14 +67,6 @@
             <pubDate>Fri, 17 Jun 2022 20:21:28 GMT</pubDate>
             <content:encoded><![CDATA[매일이 즐거운 방탄소년단 떡밥 파티.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/54308353-5930-4392-b8ea-95e51f24a5f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몽클레르의 한 축을 이끄는 조나단 앤더슨과의 인터뷰]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67077</link>
-            <guid>https://www.esquirekorea.co.kr/article/67077</guid>
-            <pubDate>Fri, 17 Jun 2022 09:24:16 GMT</pubDate>
-            <content:encoded><![CDATA[라벨을 보지 않아도 누가 만들었는지 알 수 있는 옷이 있다. 조나단 앤더슨은 본인 컬렉션에서...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/bd71cd4a-0daa-43e8-8de0-23779c2398e6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

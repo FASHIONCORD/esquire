@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 01:34:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 05:29:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 캐주얼하면서 힙하게 ‘캐트릿 코디’]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67102</link>
+            <guid>https://www.esquirekorea.co.kr/article/67102</guid>
+            <pubDate>Thu, 23 Jun 2022 05:29:45 GMT</pubDate>
+            <content:encoded><![CDATA[‘Music is my life’ 헤드셋이 포인트]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/04333571-e23a-4cba-8061-3ff655325f4d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 미니멀룩의 대명사 올블랙 코디]]></title>
             <link>https://www.esquirekorea.co.kr/article/67036</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 05 Jun 2022 17:22:07 GMT</pubDate>
             <content:encoded><![CDATA[셔츠와 니트를 레이어드 한 것 같은 니트 셔츠]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/25/92461c0f-5a43-4863-a3a8-74607a832aa5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 힙한 무드가 느껴지는 데미지 니트]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66571</link>
-            <guid>https://www.esquirekorea.co.kr/article/66571</guid>
-            <pubDate>Fri, 03 Jun 2022 05:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[봄에는 가벼운 니트 한 장이면 끝]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/18f12ad6-bd89-40eb-aefe-7d4ea78d010f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
