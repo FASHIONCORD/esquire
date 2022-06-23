@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 14:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 01:34:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카카오, ‘제휴 탁송 콜’ 중개 서비스 이달 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66900</link>
+            <guid>https://www.esquirekorea.co.kr/article/66900</guid>
+            <pubDate>Thu, 23 Jun 2022 01:29:53 GMT</pubDate>
+            <content:encoded><![CDATA[이번엔 ‘탁송콜’ 대리시장 뛰어든다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/01/68b1cdac-eed7-45f2-b6a7-5d61f786c302.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프랑스의 오디오 명가 드비알레에서 사운드바 영역에 손을 댄 이유]]></title>
             <link>https://www.esquirekorea.co.kr/article/66844</link>
@@ -61,14 +69,6 @@
             <pubDate>Sun, 29 May 2022 20:24:13 GMT</pubDate>
             <content:encoded><![CDATA[90,000개의 태양 전지 패널로 만들어진 지붕이 돋보인다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/3efe1e11-e9cf-498c-99b8-730e094e8523.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 갤럭시 버즈 2 포켓볼 이어폰 케이스 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66537</link>
-            <guid>https://www.esquirekorea.co.kr/article/66537</guid>
-            <pubDate>Fri, 27 May 2022 23:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[뮤 홀로그램 스티커의 주인공은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/d9629655-abd5-49c4-92b3-52e5eed41fc0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

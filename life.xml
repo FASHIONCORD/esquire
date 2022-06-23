@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 14:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 01:34:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바다 보며 한 잔! 전국 해변 포차 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67297</link>
+            <guid>https://www.esquirekorea.co.kr/article/67297</guid>
+            <pubDate>Thu, 23 Jun 2022 01:30:44 GMT</pubDate>
+            <content:encoded><![CDATA[바다를 안주 삼아 한잔하기 좋은 해변 포차를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/e54d45cb-252a-4d71-9ba2-ee79a4358939.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아에서 완전히 철수하는 코카콜라]]></title>
             <link>https://www.esquirekorea.co.kr/article/67291</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 17 Jun 2022 20:21:19 GMT</pubDate>
             <content:encoded><![CDATA[개인 활동 첫 주자는 제이홉.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/b17e3886-46bc-45a4-a07d-5978b18aab21.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스, 60억원 상금 걸고 실제 ‘오징어 게임’ 대회 개최]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67217</link>
-            <guid>https://www.esquirekorea.co.kr/article/67217</guid>
-            <pubDate>Fri, 17 Jun 2022 20:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[전세계 456명 참가자 모집.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/8df662fd-85d2-45cf-bd91-399892f69906.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
