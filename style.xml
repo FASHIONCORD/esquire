@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 21:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 06:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몽클레르의 한 축을 이끄는 조나단 앤더슨과의 인터뷰]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67077</link>
+            <guid>https://www.esquirekorea.co.kr/article/67077</guid>
+            <pubDate>Fri, 24 Jun 2022 06:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[라벨을 보지 않아도 누가 만들었는지 알 수 있는 옷이 있다. 조나단 앤더슨은 본인 컬렉션에서...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/bd71cd4a-0daa-43e8-8de0-23779c2398e6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[젊음을 불사르는 여름밤]]></title>
             <link>https://www.esquirekorea.co.kr/article/67074</link>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 08 Jun 2022 01:26:46 GMT</pubDate>
             <content:encoded><![CDATA[내가 사랑한 티셔츠.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/05/cd9877fd-b54e-4837-a4c5-c2b715ee21c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펜디가 선보인 스왑 컬렉션, 펜다체]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66959</link>
-            <guid>https://www.esquirekorea.co.kr/article/66959</guid>
-            <pubDate>Tue, 07 Jun 2022 03:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[펜디와 베르사체의 도발적인 이름, 펜다체 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/04/99985fb4-7265-48c2-bbee-81e46627403f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

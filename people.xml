@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 21:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 06:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 강한나는 "너무 좋아해요"라고 단숨에 두 번 연달아 말했다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67328</link>
+            <guid>https://www.esquirekorea.co.kr/article/67328</guid>
+            <pubDate>Fri, 24 Jun 2022 06:24:33 GMT</pubDate>
+            <content:encoded><![CDATA[도전적인 사람은 아니지만, 도전을 하고 싶어 하는 사람. 배우 강한나는 스스로를 모순된 문장으...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/ddf9c148-702b-4011-a67f-ae93b1ba4cfa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<나의 별에게 2>로 돌아온 손우현 X 김강민 첫 단독 화보 풀버전 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67322</link>
+            <guid>https://www.esquirekorea.co.kr/article/67322</guid>
+            <pubDate>Fri, 24 Jun 2022 06:24:33 GMT</pubDate>
+            <content:encoded><![CDATA[지난 주 공개된 그들의 패션 필름은 '에스콰이어 유튜브'에서도 만날 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/f7434371-b506-4006-ae91-018e82a758ef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 강한나가 <붉은 단심>이 이전의 작품들과 달랐다고 말하는 이유]]></title>
             <link>https://www.esquirekorea.co.kr/article/67308</link>
@@ -52,21 +68,6 @@
             <pubDate>Mon, 20 Jun 2022 20:22:58 GMT</pubDate>
             <content:encoded><![CDATA[개인 활동 첫 주자는 제이홉.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/b17e3886-46bc-45a4-a07d-5978b18aab21.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<나의 별에게> 시즌2 손우현, 김강민 화보 패션필름 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67186</link>
-            <guid>https://www.esquirekorea.co.kr/article/67186</guid>
-            <pubDate>Sat, 18 Jun 2022 14:26:31 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/566678a8-55ba-4524-b025-4a9bef817ab0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 방탄소년단 페스타 진행 중! 이 기간엔 약속도 잡지 마!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67117</link>
-            <guid>https://www.esquirekorea.co.kr/article/67117</guid>
-            <pubDate>Fri, 17 Jun 2022 20:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[매일이 즐거운 방탄소년단 떡밥 파티.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/54308353-5930-4392-b8ea-95e51f24a5f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

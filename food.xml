@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 21:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 06:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바다 보며 한 잔! 전국 해변 포차 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67297</link>
+            <guid>https://www.esquirekorea.co.kr/article/67297</guid>
+            <pubDate>Fri, 24 Jun 2022 06:23:44 GMT</pubDate>
+            <content:encoded><![CDATA[바다를 안주 삼아 한잔하기 좋은 해변 포차를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/e54d45cb-252a-4d71-9ba2-ee79a4358939.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아에서 완전히 철수하는 코카콜라]]></title>
             <link>https://www.esquirekorea.co.kr/article/67291</link>
@@ -62,13 +70,6 @@
             <pubDate>Fri, 17 Jun 2022 09:23:54 GMT</pubDate>
             <content:encoded><![CDATA[사전 예약하면 할인가로 구매할 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/69f98355-694a-4a2e-8d6c-d9468d18ca56.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크루그의 170번째 심포니가 탄생했다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67145</link>
-            <guid>https://www.esquirekorea.co.kr/article/67145</guid>
-            <pubDate>Fri, 17 Jun 2022 09:23:54 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/12/47b32fca-3eeb-43fc-b59c-18d08aad5d25.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
