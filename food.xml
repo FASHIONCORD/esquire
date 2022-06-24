@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 15:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 23:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[용산구 어디까지 가봤니? 다시 만난 용산구 신상 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67315</link>
+            <guid>https://www.esquirekorea.co.kr/article/67315</guid>
+            <pubDate>Fri, 24 Jun 2022 23:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[이미 접수한 줄 알았던 한남동-이태원-해방촌 일대가 새로워졌다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/cb10b71a-4ca1-4970-b61a-8c33c7cdfbbc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바다 보며 한 잔! 전국 해변 포차 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/67297</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 18 Jun 2022 21:18:20 GMT</pubDate>
             <content:encoded><![CDATA[간장게장 먹으러 여수까지 가지 않아도 된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/b2e050e4-6502-4dd9-82bf-1e3e5d151085.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배스킨라빈스 '꼬부기 컨테이너' 사전예약 실시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67160</link>
-            <guid>https://www.esquirekorea.co.kr/article/67160</guid>
-            <pubDate>Fri, 17 Jun 2022 09:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[사전 예약하면 할인가로 구매할 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/69f98355-694a-4a2e-8d6c-d9468d18ca56.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
