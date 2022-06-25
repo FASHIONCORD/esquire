@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 23:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 05:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가장 비싼 국산차 G90 롱휠베이스에 숨은 디테일 4가지.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66966</link>
+            <guid>https://www.esquirekorea.co.kr/article/66966</guid>
+            <pubDate>Sat, 25 Jun 2022 05:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[제네시스 G90 LWB는 사람을 두 번 놀라게 한다. 첫 번째는 가격, 두 번째는 그 가격을 뛰어...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/05/3491bcbf-fb47-46e0-9f7f-be3927eded1f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국의 발리 영흥도, 가볼 만한 곳 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66950</link>
+            <guid>https://www.esquirekorea.co.kr/article/66950</guid>
+            <pubDate>Sat, 25 Jun 2022 05:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[영흥도와 함께 가볼 만한 카페와 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/7128a813-f766-4ce7-8c87-d793c805e9d1.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[카카오, ‘제휴 탁송 콜’ 중개 서비스 이달 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/66900</link>
@@ -53,22 +69,6 @@
             <pubDate>Wed, 01 Jun 2022 04:05:57 GMT</pubDate>
             <content:encoded><![CDATA[전 세계에 단 하나만 존재한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/8db5218d-d2e4-47dd-becd-b3c26c54eed3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 최초 터치스크린 디스플레이 내장된 기계식 키보드]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66540</link>
-            <guid>https://www.esquirekorea.co.kr/article/66540</guid>
-            <pubDate>Tue, 31 May 2022 17:34:11 GMT</pubDate>
-            <content:encoded><![CDATA[자유롭게 커스텀도 할 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/676dfe20-c63f-43dc-8c0d-e469a53c6240.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최초 자체 설계 캠퍼스 공개한 구글]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66539</link>
-            <guid>https://www.esquirekorea.co.kr/article/66539</guid>
-            <pubDate>Sun, 29 May 2022 20:24:13 GMT</pubDate>
-            <content:encoded><![CDATA[90,000개의 태양 전지 패널로 만들어진 지붕이 돋보인다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/3efe1e11-e9cf-498c-99b8-730e094e8523.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
