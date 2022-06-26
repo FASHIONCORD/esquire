@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 14:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 18:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 한끗 차이가 주는 무드]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67214</link>
+            <guid>https://www.esquirekorea.co.kr/article/67214</guid>
+            <pubDate>Sun, 26 Jun 2022 18:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[답답함 없이 시원한 넥 라인]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/16/936a1e42-655e-41f0-bbfe-642fb42a7315.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 가벼워진 옷차림, 풍성해지는 액세서리]]></title>
             <link>https://www.esquirekorea.co.kr/article/67155</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 09 Jun 2022 18:28:38 GMT</pubDate>
             <content:encoded><![CDATA[일상 속 편하고 멋스러운 트레이닝 셋업]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/3660a6ee-1428-47d2-a118-e093fd209800.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 완벽한 봄 모멘트 장착 완료!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66741</link>
-            <guid>https://www.esquirekorea.co.kr/article/66741</guid>
-            <pubDate>Tue, 07 Jun 2022 19:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[핑크색으로 봄에 어울리는 코디 완성]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/a3dc9b85-ee19-4c54-8bca-011709741358.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
