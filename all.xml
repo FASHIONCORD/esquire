@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 18:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 19:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1387,6 +1387,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/76f1357b-aa62-43b6-9eb1-afe5eb132324.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[영화 <듄2> 새로운 라인업으로 등장한 배우 레아 세이두 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67453</link>
+            <guid>https://www.esquirekorea.co.kr/article/67453</guid>
+            <pubDate>Sun, 26 Jun 2022 19:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 10월 20일 극장 개봉할 예정이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/cea4f2ef-322b-4dda-aabd-87aafcfec9a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영화 관람료 인상하는 메가박스 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67452</link>
             <guid>https://www.esquirekorea.co.kr/article/67452</guid>
@@ -1440,14 +1448,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 24 Jun 2022 23:20:36 GMT</pubDate>
             <content:encoded><![CDATA[팬들 만나고 싶어 계약 결심.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/b3a4e138-4bc1-4c4f-9b63-9e01fd14a4d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특가 항공권 판매하는 티웨이항공 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67369</link>
-            <guid>https://www.esquirekorea.co.kr/article/67369</guid>
-            <pubDate>Fri, 24 Jun 2022 23:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 혜택을 받을 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/e4160e99-a500-4e3d-b673-c5eb86d34a4f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[황희찬은 패스의 즐거움을 다시 알게 됐다고 말했다 (에스콰이어 코리아 ─ 피플)]]></title>
