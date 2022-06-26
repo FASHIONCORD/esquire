@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 11:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 07:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기상천외한 숙소 공모전 개최하는 에어비앤비]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67451</link>
+            <guid>https://www.esquirekorea.co.kr/article/67451</guid>
+            <pubDate>Sun, 26 Jun 2022 07:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[100명을 대상으로 120억 규모의 지원금을 제공한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/600fbc4c-c3e7-42a6-97fc-50f65425ebef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[건대입구역 업데이트! 신상 힙플레이스 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67448</link>
+            <guid>https://www.esquirekorea.co.kr/article/67448</guid>
+            <pubDate>Sun, 26 Jun 2022 07:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[오픈한지 얼마 되지 않은 따끈따끈한 와인바부터 카페, 술집까지 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/11719536-9bd8-412b-a715-e0464ef0cd69.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘서울 KTX 30분’ 아산 풀코스 여행 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/67439</link>
@@ -53,21 +69,6 @@
             <pubDate>Fri, 24 Jun 2022 06:24:23 GMT</pubDate>
             <content:encoded><![CDATA[버거의 새로운 유행은 새우다. 새우를 다져 만든 패티부터 통새우까지 다양한 방식으로 만든 새...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/20f04335-efc8-4d43-9627-bb69e1bf02d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[용산구 어디까지 가봤니? 다시 만난 용산구 신상 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67315</link>
-            <guid>https://www.esquirekorea.co.kr/article/67315</guid>
-            <pubDate>Fri, 24 Jun 2022 06:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[이미 접수한 줄 알았던 한남동-이태원-해방촌 일대가 새로워졌다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/cb10b71a-4ca1-4970-b61a-8c33c7cdfbbc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손석구가 생각하는 장첸 VS 강해상 대결의 승자는?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67298</link>
-            <guid>https://www.esquirekorea.co.kr/article/67298</guid>
-            <pubDate>Fri, 24 Jun 2022 06:24:23 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/331da3ff-1b58-45ae-b6eb-904ad52ca2bf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
