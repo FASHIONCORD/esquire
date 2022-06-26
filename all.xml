@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 11:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 14:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1323,12 +1323,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/8db5218d-d2e4-47dd-becd-b3c26c54eed3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[요즘 대세 ‘새우버거’가 궁금하다면 꼭 가봐야 할 곳 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67317</link>
+            <guid>https://www.esquirekorea.co.kr/article/67317</guid>
+            <pubDate>Fri, 24 Jun 2022 06:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[버거의 새로운 유행은 새우다. 새우를 다져 만든 패티부터 통새우까지 다양한 방식으로 만든 새...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/20f04335-efc8-4d43-9627-bb69e1bf02d8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[용산구 어디까지 가봤니? 다시 만난 용산구 신상 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67315</link>
             <guid>https://www.esquirekorea.co.kr/article/67315</guid>
             <pubDate>Fri, 24 Jun 2022 06:24:23 GMT</pubDate>
             <content:encoded><![CDATA[이미 접수한 줄 알았던 한남동-이태원-해방촌 일대가 새로워졌다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/cb10b71a-4ca1-4970-b61a-8c33c7cdfbbc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/26/cb10b71a-4ca1-4970-b61a-8c33c7cdfbbc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바다 보며 한 잔! 전국 해변 포차 4 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1379,12 +1387,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/76f1357b-aa62-43b6-9eb1-afe5eb132324.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여름이면 생각나는 밥도둑, 서울 간장게장 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67202</link>
-            <guid>https://www.esquirekorea.co.kr/article/67202</guid>
-            <pubDate>Sat, 18 Jun 2022 21:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[간장게장 먹으러 여수까지 가지 않아도 된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/14/b2e050e4-6502-4dd9-82bf-1e3e5d151085.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[영화 관람료 인상하는 메가박스 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67452</link>
+            <guid>https://www.esquirekorea.co.kr/article/67452</guid>
+            <pubDate>Sun, 26 Jun 2022 14:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[7월 4일부터 적용된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/53fc64c5-a6ae-46ea-bac7-6415fdd660d9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기상천외한 숙소 공모전 개최하는 에어비앤비 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1440,14 +1448,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 24 Jun 2022 23:20:36 GMT</pubDate>
             <content:encoded><![CDATA[다양한 혜택을 받을 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/e4160e99-a500-4e3d-b673-c5eb86d34a4f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 대세 ‘새우버거’가 궁금하다면 꼭 가봐야 할 곳 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67317</link>
-            <guid>https://www.esquirekorea.co.kr/article/67317</guid>
-            <pubDate>Fri, 24 Jun 2022 06:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[버거의 새로운 유행은 새우다. 새우를 다져 만든 패티부터 통새우까지 다양한 방식으로 만든 새...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/20f04335-efc8-4d43-9627-bb69e1bf02d8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[황희찬은 패스의 즐거움을 다시 알게 됐다고 말했다 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1512,6 +1512,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/db88694c-d0b8-4339-b3da-9f4c9784f0bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[용산구 어디까지 가봤니? 다시 만난 용산구 신상 맛집 4 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67315</link>
+            <guid>https://www.esquirekorea.co.kr/article/67315</guid>
+            <pubDate>Fri, 24 Jun 2022 06:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[이미 접수한 줄 알았던 한남동-이태원-해방촌 일대가 새로워졌다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/26/cb10b71a-4ca1-4970-b61a-8c33c7cdfbbc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[러시아에서 완전히 철수하는 코카콜라 (에스콰이어 코리아 ─ 나우)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67291</link>
             <guid>https://www.esquirekorea.co.kr/article/67291</guid>
@@ -1566,14 +1574,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 15 Jun 2022 11:25:08 GMT</pubDate>
             <content:encoded><![CDATA[낯선 곳에서 생각에 잠기고 싶을 때.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/7187c8db-808f-4768-bcfc-b0e59315e892.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 비주얼 추앙해요. 진귀한 디저트 맛집 4 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67135</link>
-            <guid>https://www.esquirekorea.co.kr/article/67135</guid>
-            <pubDate>Wed, 15 Jun 2022 07:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[예술 작품인가 디저트인가. 신기하고 아름다운 디저트 세계.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/6cd0a696-ed28-47da-8766-2e1a3d2809e5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 가벼워진 옷차림, 풍성해지는 액세서리 (에스콰이어 코리아 ─ 이샵)]]></title>
