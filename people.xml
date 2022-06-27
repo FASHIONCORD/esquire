@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 05:01:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 09:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김연경, 국내 리그 복귀한다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67395</link>
+            <guid>https://www.esquirekorea.co.kr/article/67395</guid>
+            <pubDate>Mon, 27 Jun 2022 09:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[팬들 만나고 싶어 계약 결심.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/b3a4e138-4bc1-4c4f-9b63-9e01fd14a4d6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이제 황희찬에게 남은 것은 마지막 세 걸음의 체력이다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67281</link>
+            <guid>https://www.esquirekorea.co.kr/article/67281</guid>
+            <pubDate>Mon, 27 Jun 2022 09:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[황희찬은 체력이 충분하지만 체력이 필요하다고 말했다. 볼을 끌고 전력으로 질주한 뒤 박스 안...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/addfbbb5-de71-4c62-ad40-10ab16466ac1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[황희찬은 패스의 즐거움을 다시 알게 됐다고 말했다]]></title>
             <link>https://www.esquirekorea.co.kr/article/67280</link>
@@ -52,22 +68,6 @@
             <guid>https://www.esquirekorea.co.kr/article/67292</guid>
             <pubDate>Tue, 21 Jun 2022 14:19:49 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/c339abe5-520c-4c2b-8951-6897d82ea634.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독 인터뷰] 손석구는 2m짜리 감정의 원을 그리고 그 안에서 자유롭다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67279</link>
-            <guid>https://www.esquirekorea.co.kr/article/67279</guid>
-            <pubDate>Mon, 20 Jun 2022 20:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[만약 농구선수였다면, 그는 NBA에 드래프트될 감정 조건을 갖췄다. 2m가 넘는다는 감정의 파고...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/269e63f7-71c9-4bf4-a23d-701843c70ca3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독 인터뷰] 손석구가 일부러 몸을 불리기 위해 초콜릿을 먹은 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67260</link>
-            <guid>https://www.esquirekorea.co.kr/article/67260</guid>
-            <pubDate>Mon, 20 Jun 2022 20:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[만약 농구선수였다면, 그는 NBA에 드래프트될 감정 조건을 갖췄다. 2m가 넘는다는 감정의 파고...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/db88694c-d0b8-4339-b3da-9f4c9784f0bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
