@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 07:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 17:31:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고든 램지 버거가 여름 한정 출시하는 애플망고빙수의 가격은?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67497</link>
+            <guid>https://www.esquirekorea.co.kr/article/67497</guid>
+            <pubDate>Tue, 28 Jun 2022 17:29:39 GMT</pubDate>
+            <content:encoded><![CDATA[하루 20개만 판매하고, 가격은 4만 5천원이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/ec7f75de-6db3-4e3d-bfad-550f744388c9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[있지(ITZY) 콘셉트 포토 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67487</link>
+            <guid>https://www.esquirekorea.co.kr/article/67487</guid>
+            <pubDate>Tue, 28 Jun 2022 17:29:39 GMT</pubDate>
+            <content:encoded><![CDATA[있지의 미니 앨범은 7월 15일 발매된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/fce7720d-d5b9-4024-82a1-433395722968.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[개봉 앞둔 '엘비스' 사운드트랙 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/67483</link>
@@ -51,22 +67,6 @@
             <guid>https://www.esquirekorea.co.kr/article/67465</guid>
             <pubDate>Mon, 27 Jun 2022 09:19:30 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/26/08b49603-464a-439f-8c17-3120784e0089.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칼, 도끼, 톱, 2차대전 때 쓰였던 천막만 들고 캠핑을 다닌다는 사람들을 따라가 봤다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67458</link>
-            <guid>https://www.esquirekorea.co.kr/article/67458</guid>
-            <pubDate>Mon, 27 Jun 2022 09:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[하룻밤 동안 지도 위에서 사라졌다 돌아오기로 했다. 잘 벼린 도끼와 캔버스 텐트, 철제 반합처...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/25/c2a075d3-472c-42bd-b7d1-5a03fcf10326.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <듄2> 새로운 라인업으로 등장한 배우 레아 세이두]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67453</link>
-            <guid>https://www.esquirekorea.co.kr/article/67453</guid>
-            <pubDate>Sun, 26 Jun 2022 19:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 10월 20일 극장 개봉할 예정이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/cea4f2ef-322b-4dda-aabd-87aafcfec9a8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
