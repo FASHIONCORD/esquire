@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 06:26:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 07:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[C타입 케이블 통일 여부 결정하는 EU]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66981</link>
+            <guid>https://www.esquirekorea.co.kr/article/66981</guid>
+            <pubDate>Tue, 28 Jun 2022 07:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[앞으로 출시될 아이폰에도 영향을 준다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/29a8e6e2-1b4f-45fa-8288-40a55ebc6b3c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가장 비싼 국산차 G90 롱휠베이스에 숨은 디테일 4가지.]]></title>
             <link>https://www.esquirekorea.co.kr/article/66966</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 03 Jun 2022 12:34:02 GMT</pubDate>
             <content:encoded><![CDATA[하늘을 나는 듯한 역동적 주행.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/ae759ce6-99f3-43dd-84e9-eef5fe8aee78.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경매에 등장한 라이카의 황금 카메라]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66597</link>
-            <guid>https://www.esquirekorea.co.kr/article/66597</guid>
-            <pubDate>Wed, 01 Jun 2022 04:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계에 단 하나만 존재한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/23/8db5218d-d2e4-47dd-becd-b3c26c54eed3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
