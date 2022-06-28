@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ ESHOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 09:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 01:51:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캐주얼과 클래식한 무드가 한 번에]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34031256&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34031256&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Tue, 28 Jun 2022 01:48:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjdfMTYx/MDAxNjU2MzE2NTY4NDUy.sm6wz6tu4VZz0AVKuVCMQuhWCdKgBE-ebIWXfAjVEwQg.uh_Mtf1wrjZr9WFV2OLA_I50CRnogV-6qcF8jq2eztAg.JPEG/IFDLouB9YVeGxTvdGOVZY6KC2NzY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뒤로 도는 순간, 진가를 발휘하는 티셔츠]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34031152&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 May 2022 02:32:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTdfMjMg/MDAxNjUyNzUxNDg0MDIw.5ZLqQ8oyT40Ysr30BQ0THZnzowjVfh6uDBn62p647rMg.qXRoM0ol_Am_5BmgClEW5q0KAQYCmbAuwqcSEkFLfkQg.JPEG/I5gklX9C2-ZyV5NNl7uQONdMmUAQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개성 넘치는 애나멜 아우터]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33809865&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33809865&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Tue, 24 May 2022 02:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTdfMjU3/MDAxNjUyNzUwNTkyNDA0.7RoRrSgUMlVpEuDd4BHzemzSkjh_0zlqK3SUfhZnRTwg.NxeNVCjQK1hTsxBqFknQrBINn6adiBNyyFFX486jE4Eg.JPEG/IMzksua3AhO3P4Q_sQq6CTr3uvCs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
