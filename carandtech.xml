@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 17:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 11:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메타, 명품 아바타 스토어 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67396</link>
+            <guid>https://www.esquirekorea.co.kr/article/67396</guid>
+            <pubDate>Wed, 29 Jun 2022 11:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[내 아바타는 프라다를 입는다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/58bef529-1583-4e2e-bd2b-e442acd114aa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자율주행 로봇배달 실증사업 참여하는 세븐일레븐]]></title>
             <link>https://www.esquirekorea.co.kr/article/67158</link>
@@ -61,14 +69,6 @@
             <guid>https://www.esquirekorea.co.kr/article/66596</guid>
             <pubDate>Tue, 07 Jun 2022 11:16:39 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/49109e65-ef9d-4483-a101-77650d363c5c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음주운전, 교통사고 등으로 도로 시설물 파손 시 변상 금액 정리]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66752</link>
-            <guid>https://www.esquirekorea.co.kr/article/66752</guid>
-            <pubDate>Tue, 07 Jun 2022 11:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[변압기, 신호등, 가로등, 표지판, 버스정류장 부스 파손 비용을 정리해 봤다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/27/dbeb3249-f715-4d60-bb36-db230bd64b00.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

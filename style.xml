@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 17:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 11:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IWC의 탑건 신제품 기념 드론쇼]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67238</link>
+            <guid>https://www.esquirekorea.co.kr/article/67238</guid>
+            <pubDate>Wed, 29 Jun 2022 11:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[IWC가 밝힌 서울 밤하늘.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/15/77b403c3-fccc-40a1-bfcd-cf5e0a930b61.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름을 더 여름답게 만드는 액세서리]]></title>
             <link>https://www.esquirekorea.co.kr/article/67148</link>
@@ -61,14 +69,6 @@
             <pubDate>Sat, 11 Jun 2022 03:23:45 GMT</pubDate>
             <content:encoded><![CDATA[벨트의 대담한 얼굴.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/eef73a4b-3383-4c00-944e-aeeb32b801cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서머 네크리스의 미학]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66977</link>
-            <guid>https://www.esquirekorea.co.kr/article/66977</guid>
-            <pubDate>Thu, 09 Jun 2022 03:25:47 GMT</pubDate>
-            <content:encoded><![CDATA[몸을 따라 흐르는 가느다란 네크리스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/bf70e2b8-2eb6-43a7-8aec-58d22736053b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

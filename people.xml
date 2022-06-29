@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 17:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 11:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소울 장인, 커버 장인 그렉. 이제는 화보 장인]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67443</link>
+            <guid>https://www.esquirekorea.co.kr/article/67443</guid>
+            <pubDate>Wed, 29 Jun 2022 11:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;천국의 계단&gt; OST &lt;보고싶다&gt;, &lt;이태원 클라쓰&gt; OST &lt;가호&gt; 등 커버 장인 그렉형의 에스콰이어...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/79d86d03-c66e-40f0-a30b-850562491bb3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[갓세븐 마크 "제가 성장이 좀 느린 편이라, 남성미도 이제야 조금씩 생기는 것 같아요."]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67361</link>
+            <guid>https://www.esquirekorea.co.kr/article/67361</guid>
+            <pubDate>Wed, 29 Jun 2022 11:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[마크는 ‘늘 지금처럼 편하게 흘러가는 대로 살고 싶다’고 했다. 끊임없이 자기 관리를 하고, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/37d7184a-e184-485d-894a-c0b775dc5673.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마크가 슬쩍 귀띔해준 갓세븐의 새 앨범과 본인의 솔로 앨범 콘셉트]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67359</link>
+            <guid>https://www.esquirekorea.co.kr/article/67359</guid>
+            <pubDate>Wed, 29 Jun 2022 11:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[마크는 ‘늘 지금처럼 편하게 흘러가는 대로 살고 싶다’고 했다. 끊임없이 자기 관리를 하고, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/8d09fb80-b51d-423b-ab9b-7e584dbc0a1f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김연경, 국내 리그 복귀한다]]></title>
             <link>https://www.esquirekorea.co.kr/article/67395</link>
@@ -46,28 +70,6 @@
             <pubDate>Fri, 24 Jun 2022 06:24:33 GMT</pubDate>
             <content:encoded><![CDATA[지난 주 공개된 그들의 패션 필름은 '에스콰이어 유튜브'에서도 만날 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/f7434371-b506-4006-ae91-018e82a758ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 강한나가 <붉은 단심>이 이전의 작품들과 달랐다고 말하는 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67308</link>
-            <guid>https://www.esquirekorea.co.kr/article/67308</guid>
-            <pubDate>Thu, 23 Jun 2022 05:28:39 GMT</pubDate>
-            <content:encoded><![CDATA[도전적인 사람은 아니지만, 도전을 하고 싶어 하는 사람. 배우 강한나는 스스로를 모순된 문장으...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/8b692b9a-4d07-4170-91bd-bf37b32ab1f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손석구가 생각하는 장첸 VS 강해상 대결의 승자는?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67298</link>
-            <guid>https://www.esquirekorea.co.kr/article/67298</guid>
-            <pubDate>Tue, 21 Jun 2022 14:19:49 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/18/331da3ff-1b58-45ae-b6eb-904ad52ca2bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장혁이 밝히는 <추노> 삶은 계란 오열씬 탄생 비하인드 스토리]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67292</link>
-            <guid>https://www.esquirekorea.co.kr/article/67292</guid>
-            <pubDate>Tue, 21 Jun 2022 14:19:49 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/c339abe5-520c-4c2b-8951-6897d82ea634.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
