@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 09:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 12:40:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[젠틀몬스터 X 손흥민 팝업 스토어 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67590</link>
+            <guid>https://www.esquirekorea.co.kr/article/67590</guid>
+            <pubDate>Thu, 30 Jun 2022 12:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[7월 5일부터 8월 8일까지 팝업 운영.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/b078dc66-f52b-4ea4-b9a1-0641d0727052.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[황희찬 영감을 받아 힙합 응원가 발매]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67588</link>
+            <guid>https://www.esquirekorea.co.kr/article/67588</guid>
+            <pubDate>Thu, 30 Jun 2022 12:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[힙합과 축구가 만났다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/e63a92ec-b9f5-4e64-8a34-a29b06c5b819.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[죽기 전에 꼭 가봐야 할 드라이브 코스 7]]></title>
             <link>https://www.esquirekorea.co.kr/article/67405</link>
@@ -53,22 +69,6 @@
             <pubDate>Tue, 28 Jun 2022 17:29:39 GMT</pubDate>
             <content:encoded><![CDATA[하루 20개만 판매하고, 가격은 4만 5천원이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/ec7f75de-6db3-4e3d-bfad-550f744388c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[있지(ITZY) 콘셉트 포토 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67487</link>
-            <guid>https://www.esquirekorea.co.kr/article/67487</guid>
-            <pubDate>Tue, 28 Jun 2022 17:29:39 GMT</pubDate>
-            <content:encoded><![CDATA[있지의 미니 앨범은 7월 15일 발매된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/fce7720d-d5b9-4024-82a1-433395722968.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개봉 앞둔 '엘비스' 사운드트랙 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67483</link>
-            <guid>https://www.esquirekorea.co.kr/article/67483</guid>
-            <pubDate>Tue, 28 Jun 2022 01:50:16 GMT</pubDate>
-            <content:encoded><![CDATA[엘비스 프레슬리의 목소리도 들을 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/767f3c2e-ae36-4985-8af5-2f5c7292d371.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
