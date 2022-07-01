@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 21:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 22:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1260,6 +1260,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/08/54240b61-f2d8-4068-8758-e0b45d7766cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[기상천외한 숙소 공모전 개최하는 에어비앤비 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67451</link>
+            <guid>https://www.esquirekorea.co.kr/article/67451</guid>
+            <pubDate>Wed, 29 Jun 2022 21:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[100명을 대상으로 120억 규모의 지원금을 제공한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/600fbc4c-c3e7-42a6-97fc-50f65425ebef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[메타, 명품 아바타 스토어 출시 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67396</link>
             <guid>https://www.esquirekorea.co.kr/article/67396</guid>
@@ -1314,13 +1322,6 @@ The New MINI Countryman과 일상에
             <pubDate>Mon, 13 Jun 2022 09:26:45 GMT</pubDate>
             <content:encoded><![CDATA[사운드바도 하이엔드가 되나요.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/8574ffbb-c05c-479b-a818-ae59d96c7ca0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 주목해야 할 자동차 3 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66596</link>
-            <guid>https://www.esquirekorea.co.kr/article/66596</guid>
-            <pubDate>Tue, 07 Jun 2022 11:16:39 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/30/49109e65-ef9d-4483-a101-77650d363c5c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[섬 속의 섬, 우도에서 즐기는 풀 코스 5 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1578,6 +1579,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/17/86175eba-10d3-4f50-9246-54dae50847ff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Eshop] 개성을 표현하는 잇템. 레오파드 (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67306</link>
+            <guid>https://www.esquirekorea.co.kr/article/67306</guid>
+            <pubDate>Fri, 01 Jul 2022 22:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[가벼운 포인트를 줄 수 있는 손쉬운 레오파드 코디]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/10ab9dff-6a90-4c5b-8952-84c357fb7677.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Eshop] 태양을 피하는 방법 (에스콰이어 코리아 ─ 이샵)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67268</link>
             <guid>https://www.esquirekorea.co.kr/article/67268</guid>
@@ -1632,14 +1641,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 15 Jun 2022 11:27:12 GMT</pubDate>
             <content:encoded><![CDATA[캐주얼하게, 실내외 온도 차이로부터 지켜줄 바람막이]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/4bc016ea-3675-4ca9-8b94-40b33ab46bf7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 사랑스러운 블라우스 코디 (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66897</link>
-            <guid>https://www.esquirekorea.co.kr/article/66897</guid>
-            <pubDate>Sun, 12 Jun 2022 20:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[플라워 패턴까지 입으면 봄 무드 물씬]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/01/e35baddf-a564-43f7-aa40-591b7a56372e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
