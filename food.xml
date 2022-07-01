@@ -4,9 +4,32 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 12:40:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 15:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[섬 속의 섬, 우도에서 즐기는 풀 코스 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67608</link>
+            <guid>https://www.esquirekorea.co.kr/article/67608</guid>
+            <pubDate>Fri, 01 Jul 2022 15:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[우도의 진가는 하루를 온전히 보냈을 때 드러난다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/78775ca0-da3e-40b4-9fd0-aa87ed679afe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울의 진짜 경치를 즐길 수 있는 바(Bar) 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67568</link>
+            <guid>https://www.esquirekorea.co.kr/article/67568</guid>
+            <pubDate>Fri, 01 Jul 2022 15:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[본격적으로 시작된 나이트라이프! 서울의 야경을 보며 술을 즐길 수 있는 바를 추천한다. 데이트...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/56268e69-5205-4aad-9f01-c6948f0fa098.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제로 탄산음료는 왜 이제야 대세가 되었을까?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67531</link>
+            <guid>https://www.esquirekorea.co.kr/article/67531</guid>
+            <pubDate>Fri, 01 Jul 2022 15:24:21 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/e3855d73-9b26-42eb-8cd2-957ac9e90373.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[본앤브레드 정상원과 이탈리아 국대 푸주한 다리오 체키니 갈라 디너 이야기]]></title>
             <link>https://www.esquirekorea.co.kr/article/67532</link>
@@ -46,30 +69,6 @@
             <pubDate>Tue, 28 Jun 2022 01:50:01 GMT</pubDate>
             <content:encoded><![CDATA[오픈한지 얼마 되지 않은 따끈따끈한 와인바부터 카페, 술집까지 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/11719536-9bd8-412b-a715-e0464ef0cd69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘서울 KTX 30분’ 아산 풀코스 여행 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67439</link>
-            <guid>https://www.esquirekorea.co.kr/article/67439</guid>
-            <pubDate>Tue, 28 Jun 2022 01:50:01 GMT</pubDate>
-            <content:encoded><![CDATA[KTX 타고 아산 가서 한적한 풀코스 여행을 즐겨보자. 여름 분위기 물씬 풍기는 숙소부터 카페...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/25/152c9b0e-3df2-4812-9c1d-d025e49645a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북미에서만 팔던 꼬북칩 플레이밍 라임맛 국내 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67370</link>
-            <guid>https://www.esquirekorea.co.kr/article/67370</guid>
-            <pubDate>Mon, 27 Jun 2022 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[중독성 강한 이국적인 맛.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/a84a3a02-ce3a-46b8-a2bc-a773a893680c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 상 가득 꽉 채운 맛, 제주 한상차림 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67336</link>
-            <guid>https://www.esquirekorea.co.kr/article/67336</guid>
-            <pubDate>Mon, 27 Jun 2022 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[제주도의 맛있는 밥과 반찬으로 상다리가 부러질지도 모른다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/b0c58ed0-f82f-4516-b965-a849424654cb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
