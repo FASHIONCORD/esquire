@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 22:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 16:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자크뮈스의 수영복]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67578</link>
+            <guid>https://www.esquirekorea.co.kr/article/67578</guid>
+            <pubDate>Sat, 02 Jul 2022 16:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[여름날의 스윔 쇼츠.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/c2a7b320-e23d-40d7-b6ba-41de61f3479e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남자의 보디컨셔스 룩]]></title>
             <link>https://www.esquirekorea.co.kr/article/67474</link>
@@ -62,13 +70,6 @@
             <pubDate>Fri, 24 Jun 2022 06:22:39 GMT</pubDate>
             <content:encoded><![CDATA[라벨을 보지 않아도 누가 만들었는지 알 수 있는 옷이 있다. 조나단 앤더슨은 본인 컬렉션에서...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/bd71cd4a-0daa-43e8-8de0-23779c2398e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젊음을 불사르는 여름밤]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67074</link>
-            <guid>https://www.esquirekorea.co.kr/article/67074</guid>
-            <pubDate>Mon, 20 Jun 2022 20:20:26 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/09/3dcd9f99-966e-460d-b80f-8d0639f0dfab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

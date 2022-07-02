@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 22:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 16:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['킹 받는' 맛을 지닌 팝콘이 등장했다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67654</link>
+            <guid>https://www.esquirekorea.co.kr/article/67654</guid>
+            <pubDate>Sat, 02 Jul 2022 16:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[킹뚜껑맛 시즈닝을 버무린 팝콘.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/4a023df9-68ff-4ce9-bd42-1960b1a29741.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소름 돋는 타짜 연기! 강하늘 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67626</link>
+            <guid>https://www.esquirekorea.co.kr/article/67626</guid>
+            <pubDate>Sat, 02 Jul 2022 16:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[불의의 사건으로 교도소에 갇혀 타짜가 된 사법연수생. 강하늘이 강렬하고 파격적인 연기로 돌아...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/47141e18-59f4-4eca-afc3-5379b8a59376.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[섬 속의 섬, 우도에서 즐기는 풀 코스 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/67608</link>
@@ -53,22 +69,6 @@
             <pubDate>Thu, 30 Jun 2022 09:19:14 GMT</pubDate>
             <content:encoded><![CDATA[오리지널 맛과 착한 맛으로 구성된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/07bd4a2d-0248-4727-bd79-1171f33be337.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프랑스 파리를 그대로 옮긴 서울 속 파리 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67471</link>
-            <guid>https://www.esquirekorea.co.kr/article/67471</guid>
-            <pubDate>Thu, 30 Jun 2022 09:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[파리의 낭만이 그립다면 다음 4곳을 방문해보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/8b910c2e-e8b9-4467-8674-688616fd6817.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건대입구역 업데이트! 신상 힙플레이스 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67448</link>
-            <guid>https://www.esquirekorea.co.kr/article/67448</guid>
-            <pubDate>Tue, 28 Jun 2022 01:50:01 GMT</pubDate>
-            <content:encoded><![CDATA[오픈한지 얼마 되지 않은 따끈따끈한 와인바부터 카페, 술집까지 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/11719536-9bd8-412b-a715-e0464ef0cd69.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
