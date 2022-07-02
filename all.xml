@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 16:28:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 19:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1261,6 +1261,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/08/54240b61-f2d8-4068-8758-e0b45d7766cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인류역사상 가장 사랑 받아온 턴테이블의 50주년 기념 한정판 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67457</link>
+            <guid>https://www.esquirekorea.co.kr/article/67457</guid>
+            <pubDate>Sat, 02 Jul 2022 19:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[그냥 SL-1200 말고, 기왕이면 50주년 기념 모델로.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/25/5c0dc2aa-540b-49f3-bb12-f60f13026408.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기상천외한 숙소 공모전 개최하는 에어비앤비 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67451</link>
             <guid>https://www.esquirekorea.co.kr/article/67451</guid>
@@ -1315,14 +1323,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 23 Jun 2022 01:29:53 GMT</pubDate>
             <content:encoded><![CDATA[이번엔 ‘탁송콜’ 대리시장 뛰어든다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/01/68b1cdac-eed7-45f2-b6a7-5d61f786c302.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프랑스의 오디오 명가 드비알레에서 사운드바 영역에 손을 댄 이유 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66844</link>
-            <guid>https://www.esquirekorea.co.kr/article/66844</guid>
-            <pubDate>Mon, 13 Jun 2022 09:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[사운드바도 하이엔드가 되나요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/31/8574ffbb-c05c-479b-a818-ae59d96c7ca0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['킹 받는' 맛을 지닌 팝콘이 등장했다 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1388,6 +1388,30 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/07bd4a2d-0248-4727-bd79-1171f33be337.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[감성과 트렌드를 동시에! 2022 신상 에스프레소 바 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67712</link>
+            <guid>https://www.esquirekorea.co.kr/article/67712</guid>
+            <pubDate>Sat, 02 Jul 2022 19:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[서서 먹는 에스프레소 바가 트렌드라고 하지만 감성을 포기할 수는 없다. 유럽에 온 것 같은 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/47350019-3d3f-4401-b709-7efc0868313d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 신상 삼겹살 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67698</link>
+            <guid>https://www.esquirekorea.co.kr/article/67698</guid>
+            <pubDate>Sat, 02 Jul 2022 19:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[계속 되는 비에 축축 처지지만 빗소리를 듣고 있으니 삼겹살이 떠오른다. 그래서 준비했다, 따끈...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/3a127b51-bb4e-40bb-91bf-a59bc3d5fda9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이곳은 뮤지엄이 아니다 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67696</link>
+            <guid>https://www.esquirekorea.co.kr/article/67696</guid>
+            <pubDate>Sat, 02 Jul 2022 19:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[몽블랑의 고향 독일 함부르크에 개관한 몽블랑 하우스(Montblanc Haus)에서 글쓰기에 대한 가치,...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/2ae458c0-6533-4986-95fa-4c48df13de00.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS 개최 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67679</link>
             <guid>https://www.esquirekorea.co.kr/article/67679</guid>
@@ -1426,30 +1450,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 01 Jul 2022 15:24:21 GMT</pubDate>
             <content:encoded><![CDATA[우도의 진가는 하루를 온전히 보냈을 때 드러난다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/78775ca0-da3e-40b4-9fd0-aa87ed679afe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젠틀몬스터 X 손흥민 팝업 스토어 출시 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67590</link>
-            <guid>https://www.esquirekorea.co.kr/article/67590</guid>
-            <pubDate>Thu, 30 Jun 2022 12:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[7월 5일부터 8월 8일까지 팝업 운영.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/b078dc66-f52b-4ea4-b9a1-0641d0727052.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황희찬 영감을 받아 힙합 응원가 발매 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67588</link>
-            <guid>https://www.esquirekorea.co.kr/article/67588</guid>
-            <pubDate>Thu, 30 Jun 2022 12:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[힙합과 축구가 만났다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/e63a92ec-b9f5-4e64-8a34-a29b06c5b819.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[죽기 전에 꼭 가봐야 할 드라이브 코스 7 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67405</link>
-            <guid>https://www.esquirekorea.co.kr/article/67405</guid>
-            <pubDate>Wed, 29 Jun 2022 21:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[달리기만 해도 저절로 기분이 좋아지는  전 세계 유명 드라이브 코스 7개를 골랐다. 아름다운 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/258ca470-56e3-4e51-9ec2-66e76272bec3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손우현, 김강민이 생각하는 깻잎논쟁은? (에스콰이어 코리아 ─ 피플)]]></title>
