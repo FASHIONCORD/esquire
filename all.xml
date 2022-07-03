@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 08:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 16:27:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1261,6 +1261,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/08/54240b61-f2d8-4068-8758-e0b45d7766cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[포르쉐 30대를 번갈아 탈 수 있는 곳이 있다고? (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67535</link>
+            <guid>https://www.esquirekorea.co.kr/article/67535</guid>
+            <pubDate>Sun, 03 Jul 2022 16:25:47 GMT</pubDate>
+            <content:encoded><![CDATA[30여 대의 포르쉐를 번갈아 탈 수 있다면 그곳이 천국 아닐까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/722c784e-e17c-4c40-98e5-f148a640e8b2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인류역사상 가장 사랑 받아온 턴테이블의 50주년 기념 한정판 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67457</link>
             <guid>https://www.esquirekorea.co.kr/article/67457</guid>
@@ -1315,14 +1323,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sat, 25 Jun 2022 05:17:02 GMT</pubDate>
             <content:encoded><![CDATA[영흥도와 함께 가볼 만한 카페와 맛집을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/7128a813-f766-4ce7-8c87-d793c805e9d1.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, ‘제휴 탁송 콜’ 중개 서비스 이달 출시 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66900</link>
-            <guid>https://www.esquirekorea.co.kr/article/66900</guid>
-            <pubDate>Thu, 23 Jun 2022 01:29:53 GMT</pubDate>
-            <content:encoded><![CDATA[이번엔 ‘탁송콜’ 대리시장 뛰어든다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/01/68b1cdac-eed7-45f2-b6a7-5d61f786c302.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['킹 받는' 맛을 지닌 팝콘이 등장했다 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1580,6 +1580,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/8ab25f48-cfa2-41d7-bf5b-d3561eaa9c64.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Eshop] 뒤로 도는 순간, 진가를 발휘하는 티셔츠 (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67377</link>
+            <guid>https://www.esquirekorea.co.kr/article/67377</guid>
+            <pubDate>Sun, 03 Jul 2022 16:27:26 GMT</pubDate>
+            <content:encoded><![CDATA[여름 느낌 물씬 풍기는 프린팅]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/09e2f9a1-cd09-4bfd-b1c4-676679b11f77.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Eshop] 개성을 표현하는 잇템. 레오파드 (에스콰이어 코리아 ─ 이샵)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67306</link>
             <guid>https://www.esquirekorea.co.kr/article/67306</guid>
@@ -1634,14 +1642,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 16 Jun 2022 18:27:34 GMT</pubDate>
             <content:encoded><![CDATA[아침저녁으로 실용성 높은 데일리룩]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/84fdee14-e8e5-400d-97cd-b8bd45b3c45c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 아우터 챙겨 입는 여름 멋쟁이 (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66929</link>
-            <guid>https://www.esquirekorea.co.kr/article/66929</guid>
-            <pubDate>Wed, 15 Jun 2022 11:27:12 GMT</pubDate>
-            <content:encoded><![CDATA[캐주얼하게, 실내외 온도 차이로부터 지켜줄 바람막이]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/4bc016ea-3675-4ca9-8b94-40b33ab46bf7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

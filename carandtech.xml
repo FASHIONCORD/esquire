@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 08:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 16:27:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포르쉐 30대를 번갈아 탈 수 있는 곳이 있다고?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67535</link>
+            <guid>https://www.esquirekorea.co.kr/article/67535</guid>
+            <pubDate>Sun, 03 Jul 2022 16:25:47 GMT</pubDate>
+            <content:encoded><![CDATA[30여 대의 포르쉐를 번갈아 탈 수 있다면 그곳이 천국 아닐까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/722c784e-e17c-4c40-98e5-f148a640e8b2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인류역사상 가장 사랑 받아온 턴테이블의 50주년 기념 한정판]]></title>
             <link>https://www.esquirekorea.co.kr/article/67457</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 25 Jun 2022 05:17:02 GMT</pubDate>
             <content:encoded><![CDATA[영흥도와 함께 가볼 만한 카페와 맛집을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/7128a813-f766-4ce7-8c87-d793c805e9d1.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오, ‘제휴 탁송 콜’ 중개 서비스 이달 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66900</link>
-            <guid>https://www.esquirekorea.co.kr/article/66900</guid>
-            <pubDate>Thu, 23 Jun 2022 01:29:53 GMT</pubDate>
-            <content:encoded><![CDATA[이번엔 ‘탁송콜’ 대리시장 뛰어든다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/01/68b1cdac-eed7-45f2-b6a7-5d61f786c302.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
