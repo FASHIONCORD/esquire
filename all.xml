@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 22:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 05:32:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1325,6 +1325,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/7128a813-f766-4ce7-8c87-d793c805e9d1.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[2022 신상 삼겹살 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67698</link>
+            <guid>https://www.esquirekorea.co.kr/article/67698</guid>
+            <pubDate>Sat, 02 Jul 2022 19:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[계속 되는 비에 축축 처지지만 빗소리를 듣고 있으니 삼겹살이 떠오른다. 그래서 준비했다, 따끈...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/3a127b51-bb4e-40bb-91bf-a59bc3d5fda9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['킹 받는' 맛을 지닌 팝콘이 등장했다 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67654</link>
             <guid>https://www.esquirekorea.co.kr/article/67654</guid>
@@ -1380,12 +1388,28 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/ec7f75de-6db3-4e3d-bfad-550f744388c9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[동대문 엽기 떡볶이 밀키트 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67482</link>
-            <guid>https://www.esquirekorea.co.kr/article/67482</guid>
-            <pubDate>Thu, 30 Jun 2022 09:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[오리지널 맛과 착한 맛으로 구성된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/07bd4a2d-0248-4727-bd79-1171f33be337.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[잠원 한강 수영장 개장! 주변 가볼 만한 곳 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67725</link>
+            <guid>https://www.esquirekorea.co.kr/article/67725</guid>
+            <pubDate>Mon, 04 Jul 2022 05:31:26 GMT</pubDate>
+            <content:encoded><![CDATA[3년 만에 한강 수영장이 돌아왔다. 수영장 갔다가 데이트 코스로 가기 좋은 맛집, 카페를 소개...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/8b25dd1d-81ad-42f1-b08e-4364707dd2d7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[천문대는 별을 보러 가는 곳이 아니다 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67316</link>
+            <guid>https://www.esquirekorea.co.kr/article/67316</guid>
+            <pubDate>Mon, 04 Jul 2022 05:31:26 GMT</pubDate>
+            <content:encoded><![CDATA[까마득한 옛날부터 사람들은 왜 밤하늘을 올려다봤을까?  시인과 화가들이 별이 가득한 밤을 헤...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/ad42523d-3ac1-4f68-b275-82d6d845ef88.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[짜장면 본연의 모습? 된장짜장 맛집 4. (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67713</link>
+            <guid>https://www.esquirekorea.co.kr/article/67713</guid>
+            <pubDate>Mon, 04 Jul 2022 05:31:26 GMT</pubDate>
+            <content:encoded><![CDATA[춘장이 아닌 된장을 사용한 짜장면도 있다. 독특한 모습만큼 풍미가 훨씬 뛰어나다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/e2d3bab6-3c76-411b-ad2a-d33f9f7f837d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[감성과 트렌드를 동시에! 2022 신상 에스프레소 바 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1428,28 +1452,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/43933927-eaaf-41bf-9ef7-c57e04cf4121.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[소름 돋는 타짜 연기! 강하늘 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67626</link>
-            <guid>https://www.esquirekorea.co.kr/article/67626</guid>
-            <pubDate>Fri, 01 Jul 2022 21:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[불의의 사건으로 교도소에 갇혀 타짜가 된 사법연수생. 강하늘이 강렬하고 파격적인 연기로 돌아...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/47141e18-59f4-4eca-afc3-5379b8a59376.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번역은 하나은행, 하나은행역입니다. (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67609</link>
-            <guid>https://www.esquirekorea.co.kr/article/67609</guid>
-            <pubDate>Fri, 01 Jul 2022 21:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[10월부터 을지로입구역이 하나은행역과 역명을 함께 사용한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/9ffbdc4e-f2df-4522-9b55-d43f7a02c88e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[섬 속의 섬, 우도에서 즐기는 풀 코스 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67608</link>
-            <guid>https://www.esquirekorea.co.kr/article/67608</guid>
-            <pubDate>Fri, 01 Jul 2022 15:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[우도의 진가는 하루를 온전히 보냈을 때 드러난다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/78775ca0-da3e-40b4-9fd0-aa87ed679afe.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[맛잘알 NCT DREAM 팬들의 맛집 대탐험 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67584</link>
+            <guid>https://www.esquirekorea.co.kr/article/67584</guid>
+            <pubDate>Mon, 04 Jul 2022 05:31:37 GMT</pubDate>
+            <content:encoded><![CDATA[트위터에 해시태그만 입력하면 맛집이 따라온다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/26ec389c-0728-481f-a547-e7d5a7c958dc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[손우현, 김강민이 생각하는 깻잎논쟁은? (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1506,14 +1514,6 @@ The New MINI Countryman과 일상에
             <pubDate>Mon, 27 Jun 2022 09:19:39 GMT</pubDate>
             <content:encoded><![CDATA[황희찬은 체력이 충분하지만 체력이 필요하다고 말했다. 볼을 끌고 전력으로 질주한 뒤 박스 안...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/addfbbb5-de71-4c62-ad40-10ab16466ac1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황희찬은 패스의 즐거움을 다시 알게 됐다고 말했다 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67280</link>
-            <guid>https://www.esquirekorea.co.kr/article/67280</guid>
-            <pubDate>Fri, 24 Jun 2022 23:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[황희찬은 체력이 충분하지만 체력이 필요하다고 말했다. 볼을 끌고 전력으로 질주한 뒤 박스 안...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/d11e5dad-7863-4af6-9c1f-2cc6ed7bbaf9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이번역은 하나은행, 하나은행역입니다. (에스콰이어 코리아 ─ 나우)]]></title>

@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 22:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 05:32:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맛잘알 NCT DREAM 팬들의 맛집 대탐험]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67584</link>
+            <guid>https://www.esquirekorea.co.kr/article/67584</guid>
+            <pubDate>Mon, 04 Jul 2022 05:31:37 GMT</pubDate>
+            <content:encoded><![CDATA[트위터에 해시태그만 입력하면 맛집이 따라온다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/26ec389c-0728-481f-a547-e7d5a7c958dc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손우현, 김강민이 생각하는 깻잎논쟁은?]]></title>
             <link>https://www.esquirekorea.co.kr/article/67490</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 27 Jun 2022 09:19:39 GMT</pubDate>
             <content:encoded><![CDATA[황희찬은 체력이 충분하지만 체력이 필요하다고 말했다. 볼을 끌고 전력으로 질주한 뒤 박스 안...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/addfbbb5-de71-4c62-ad40-10ab16466ac1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황희찬은 패스의 즐거움을 다시 알게 됐다고 말했다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67280</link>
-            <guid>https://www.esquirekorea.co.kr/article/67280</guid>
-            <pubDate>Fri, 24 Jun 2022 23:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[황희찬은 체력이 충분하지만 체력이 필요하다고 말했다. 볼을 끌고 전력으로 질주한 뒤 박스 안...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/21/d11e5dad-7863-4af6-9c1f-2cc6ed7bbaf9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
