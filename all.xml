@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 05:32:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 10:27:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1261,6 +1261,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/08/54240b61-f2d8-4068-8758-e0b45d7766cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[죽기 전에 꼭 가봐야 할 드라이브 코스 7 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67405</link>
+            <guid>https://www.esquirekorea.co.kr/article/67405</guid>
+            <pubDate>Mon, 04 Jul 2022 10:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[달리기만 해도 저절로 기분이 좋아지는  전 세계 유명 드라이브 코스 7개를 골랐다. 아름다운 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/258ca470-56e3-4e51-9ec2-66e76272bec3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[포르쉐 30대를 번갈아 탈 수 있는 곳이 있다고? (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67535</link>
             <guid>https://www.esquirekorea.co.kr/article/67535</guid>
@@ -1315,14 +1323,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sat, 25 Jun 2022 05:17:02 GMT</pubDate>
             <content:encoded><![CDATA[제네시스 G90 LWB는 사람을 두 번 놀라게 한다. 첫 번째는 가격, 두 번째는 그 가격을 뛰어...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/05/3491bcbf-fb47-46e0-9f7f-be3927eded1f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국의 발리 영흥도, 가볼 만한 곳 4 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66950</link>
-            <guid>https://www.esquirekorea.co.kr/article/66950</guid>
-            <pubDate>Sat, 25 Jun 2022 05:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[영흥도와 함께 가볼 만한 카페와 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/03/7128a813-f766-4ce7-8c87-d793c805e9d1.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 신상 삼겹살 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
