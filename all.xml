@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 13:48:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 19:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1388,6 +1388,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/e3855d73-9b26-42eb-8cd2-957ac9e90373.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[GS25 포켓몬스터 교통카드 출시 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67750</link>
+            <guid>https://www.esquirekorea.co.kr/article/67750</guid>
+            <pubDate>Tue, 05 Jul 2022 19:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[스티커를 붙여 꾸밀 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/d53994a0-88ac-4b3c-be30-67db3223af1a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아시아 최초 서울 프리즈에 참여하는 100여 개의 갤러리 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67735</link>
             <guid>https://www.esquirekorea.co.kr/article/67735</guid>
@@ -1442,14 +1450,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sat, 02 Jul 2022 19:19:26 GMT</pubDate>
             <content:encoded><![CDATA[계속 되는 비에 축축 처지지만 빗소리를 듣고 있으니 삼겹살이 떠오른다. 그래서 준비했다, 따끈...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/3a127b51-bb4e-40bb-91bf-a59bc3d5fda9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이곳은 뮤지엄이 아니다 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67696</link>
-            <guid>https://www.esquirekorea.co.kr/article/67696</guid>
-            <pubDate>Sat, 02 Jul 2022 19:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[몽블랑의 고향 독일 함부르크에 개관한 몽블랑 하우스(Montblanc Haus)에서 글쓰기에 대한 가치,...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/2ae458c0-6533-4986-95fa-4c48df13de00.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[맛잘알 NCT DREAM 팬들의 맛집 대탐험 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1580,6 +1580,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/600fbc4c-c3e7-42a6-97fc-50f65425ebef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Eshop] 캐주얼과 클래식한 무드가 한 번에 (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67432</link>
+            <guid>https://www.esquirekorea.co.kr/article/67432</guid>
+            <pubDate>Tue, 05 Jul 2022 19:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[여름에 활용하기 좋은 하프 팬츠]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/88d3f78c-4a83-4a72-9282-b747aa735077.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Eshop] 뒤로 도는 순간, 진가를 발휘하는 티셔츠 (에스콰이어 코리아 ─ 이샵)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67377</link>
             <guid>https://www.esquirekorea.co.kr/article/67377</guid>
@@ -1634,14 +1642,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sun, 19 Jun 2022 16:25:09 GMT</pubDate>
             <content:encoded><![CDATA[시크한 느낌은 덤]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/4b04230d-2d09-44fd-a733-76d6f71c2c77.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 스타일리시하게, 트렌디하게 (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66827</link>
-            <guid>https://www.esquirekorea.co.kr/article/66827</guid>
-            <pubDate>Thu, 16 Jun 2022 18:27:34 GMT</pubDate>
-            <content:encoded><![CDATA[아침저녁으로 실용성 높은 데일리룩]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/84fdee14-e8e5-400d-97cd-b8bd45b3c45c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
