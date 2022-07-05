@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 21:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 13:48:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['킹 받는' 맛을 지닌 팝콘이 등장했다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67654</link>
+            <guid>https://www.esquirekorea.co.kr/article/67654</guid>
+            <pubDate>Tue, 05 Jul 2022 13:48:36 GMT</pubDate>
+            <content:encoded><![CDATA[킹뚜껑맛 시즈닝을 버무린 팝콘.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/4a023df9-68ff-4ce9-bd42-1960b1a29741.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이번역은 하나은행, 하나은행역입니다.]]></title>
             <link>https://www.esquirekorea.co.kr/article/67609</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 29 Jun 2022 21:22:28 GMT</pubDate>
             <content:encoded><![CDATA[100명을 대상으로 120억 규모의 지원금을 제공한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/600fbc4c-c3e7-42a6-97fc-50f65425ebef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장문 노트 기능 시범 운영하는 트위터]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67450</link>
-            <guid>https://www.esquirekorea.co.kr/article/67450</guid>
-            <pubDate>Mon, 27 Jun 2022 09:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[시범 국가도 확대할 계획이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/8ab25f48-cfa2-41d7-bf5b-d3561eaa9c64.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

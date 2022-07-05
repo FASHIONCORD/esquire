@@ -4,16 +4,32 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 21:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 13:48:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아시아 최초 서울 프리즈에 참여하는 100여 개의 갤러리]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67735</link>
+            <guid>https://www.esquirekorea.co.kr/article/67735</guid>
+            <pubDate>Tue, 05 Jul 2022 13:47:13 GMT</pubDate>
+            <content:encoded><![CDATA[프리즈 마스터즈, 메인, 포커스 아시아 섹션으로 나누어 진행한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/721be0b6-3900-4f58-bbc1-80eba2194c44.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국인 최초 로에베 공예상 받은 정다혜 작가]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67733</link>
+            <guid>https://www.esquirekorea.co.kr/article/67733</guid>
+            <pubDate>Tue, 05 Jul 2022 13:47:13 GMT</pubDate>
+            <content:encoded><![CDATA[작품은 서울공예박물관에서 만나볼 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/ad5dbe58-3265-41ff-8141-04471a08a2c3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잠원 한강 수영장 개장! 주변 가볼 만한 곳 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/67725</link>
             <guid>https://www.esquirekorea.co.kr/article/67725</guid>
             <pubDate>Mon, 04 Jul 2022 05:31:26 GMT</pubDate>
             <content:encoded><![CDATA[3년 만에 한강 수영장이 돌아왔다. 수영장 갔다가 데이트 코스로 가기 좋은 맛집, 카페를 소개...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/8b25dd1d-81ad-42f1-b08e-4364707dd2d7.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/8b25dd1d-81ad-42f1-b08e-4364707dd2d7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[천문대는 별을 보러 가는 곳이 아니다]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 02 Jul 2022 19:19:26 GMT</pubDate>
             <content:encoded><![CDATA[몽블랑의 고향 독일 함부르크에 개관한 몽블랑 하우스(Montblanc Haus)에서 글쓰기에 대한 가치,...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/2ae458c0-6533-4986-95fa-4c48df13de00.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS 개최]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67679</link>
-            <guid>https://www.esquirekorea.co.kr/article/67679</guid>
-            <pubDate>Fri, 01 Jul 2022 21:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[5년만에 SM엔터테인먼트 합동 콘서트가 열린다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/87953ccd-17b6-4670-9bd0-4c6308bf6c01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신이 톰 크루즈에 대해 몰랐던 사실 12가지]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67663</link>
-            <guid>https://www.esquirekorea.co.kr/article/67663</guid>
-            <pubDate>Fri, 01 Jul 2022 21:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;탑건: 매버릭&gt;으로 돌아온 톰 크루즈. 40년째 전성기만 달리고 있는 그의 매력을 파헤쳐 보자....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/43933927-eaaf-41bf-9ef7-c57e04cf4121.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

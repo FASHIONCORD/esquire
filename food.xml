@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 21:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 13:48:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[짜장면 본연의 모습? 된장짜장 맛집 4.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67713</link>
+            <guid>https://www.esquirekorea.co.kr/article/67713</guid>
+            <pubDate>Tue, 05 Jul 2022 13:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[춘장이 아닌 된장을 사용한 짜장면도 있다. 독특한 모습만큼 풍미가 훨씬 뛰어나다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/e2d3bab6-3c76-411b-ad2a-d33f9f7f837d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감성과 트렌드를 동시에! 2022 신상 에스프레소 바 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67712</link>
+            <guid>https://www.esquirekorea.co.kr/article/67712</guid>
+            <pubDate>Tue, 05 Jul 2022 13:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[서서 먹는 에스프레소 바가 트렌드라고 하지만 감성을 포기할 수는 없다. 유럽에 온 것 같은 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/47350019-3d3f-4401-b709-7efc0868313d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 신상 삼겹살 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/67698</link>
@@ -53,22 +69,6 @@
             <guid>https://www.esquirekorea.co.kr/article/67531</guid>
             <pubDate>Fri, 01 Jul 2022 15:24:21 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/e3855d73-9b26-42eb-8cd2-957ac9e90373.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[본앤브레드 정상원과 이탈리아 국대 푸주한 다리오 체키니 갈라 디너 이야기]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67532</link>
-            <guid>https://www.esquirekorea.co.kr/article/67532</guid>
-            <pubDate>Thu, 30 Jun 2022 09:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[고기를 진심으로 다루는 한국과 이탈리아의 두 남자가 만나 거대한 연회를 열었다. 그보다 멋진...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/3a5cacfc-714d-480c-861e-91028ad543a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고든 램지 버거가 여름 한정 출시하는 애플망고빙수의 가격은?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67497</link>
-            <guid>https://www.esquirekorea.co.kr/article/67497</guid>
-            <pubDate>Thu, 30 Jun 2022 09:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[하루 20개만 판매하고, 가격은 4만 5천원이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/ec7f75de-6db3-4e3d-bfad-550f744388c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
