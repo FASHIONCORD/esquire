@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 04:53:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 11:32:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국물 요리 생각날때 2022 신상 라멘 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67791</link>
+            <guid>https://www.esquirekorea.co.kr/article/67791</guid>
+            <pubDate>Wed, 06 Jul 2022 11:31:36 GMT</pubDate>
+            <content:encoded><![CDATA[계속되는 비에 뜨끈한 국물이 자꾸 생각난다. 깊고 진한 맛의 국물로는 라멘을 빼놓을 수 없는...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/476853d2-4ca8-4231-a87d-fb84e62ef08e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컴백 하루 앞두고 전곡 미리듣기 공개한 위너]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67752</link>
+            <guid>https://www.esquirekorea.co.kr/article/67752</guid>
+            <pubDate>Wed, 06 Jul 2022 11:31:36 GMT</pubDate>
+            <content:encoded><![CDATA[멤버들의 유쾌한 작업기가 함께 공개됐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/5cff84d8-51a9-4be6-bf26-0236b083cfc0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[26년 만에 극장판으로 돌아오는 슬램덩크]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67751</link>
+            <guid>https://www.esquirekorea.co.kr/article/67751</guid>
+            <pubDate>Wed, 06 Jul 2022 11:31:36 GMT</pubDate>
+            <content:encoded><![CDATA[7월 7일부터 캐릭터 포스터가 공개된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/f4c22971-f9d8-4d48-863b-d33acf6d96ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GS25 포켓몬스터 교통카드 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/67750</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 04 Jul 2022 05:31:26 GMT</pubDate>
             <content:encoded><![CDATA[까마득한 옛날부터 사람들은 왜 밤하늘을 올려다봤을까?  시인과 화가들이 별이 가득한 밤을 헤...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/ad42523d-3ac1-4f68-b275-82d6d845ef88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짜장면 본연의 모습? 된장짜장 맛집 4.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67713</link>
-            <guid>https://www.esquirekorea.co.kr/article/67713</guid>
-            <pubDate>Mon, 04 Jul 2022 05:31:26 GMT</pubDate>
-            <content:encoded><![CDATA[춘장이 아닌 된장을 사용한 짜장면도 있다. 독특한 모습만큼 풍미가 훨씬 뛰어나다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/e2d3bab6-3c76-411b-ad2a-d33f9f7f837d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감성과 트렌드를 동시에! 2022 신상 에스프레소 바 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67712</link>
-            <guid>https://www.esquirekorea.co.kr/article/67712</guid>
-            <pubDate>Sat, 02 Jul 2022 19:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[서서 먹는 에스프레소 바가 트렌드라고 하지만 감성을 포기할 수는 없다. 유럽에 온 것 같은 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/47350019-3d3f-4401-b709-7efc0868313d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 신상 삼겹살 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67698</link>
-            <guid>https://www.esquirekorea.co.kr/article/67698</guid>
-            <pubDate>Sat, 02 Jul 2022 19:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[계속 되는 비에 축축 처지지만 빗소리를 듣고 있으니 삼겹살이 떠오른다. 그래서 준비했다, 따끈...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/3a127b51-bb4e-40bb-91bf-a59bc3d5fda9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

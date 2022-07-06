@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 04:53:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 11:32:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[출시 앞둔 애플워치 8 새로운 기능 탑재]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67589</link>
+            <guid>https://www.esquirekorea.co.kr/article/67589</guid>
+            <pubDate>Wed, 06 Jul 2022 11:29:18 GMT</pubDate>
+            <content:encoded><![CDATA[저전력 모두 추가.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/5b75f33f-1aed-4b2b-9c3d-f63227f1924c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[죽기 전에 꼭 가봐야 할 드라이브 코스 7]]></title>
             <link>https://www.esquirekorea.co.kr/article/67405</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Jun 2022 07:18:34 GMT</pubDate>
             <content:encoded><![CDATA[앞으로 출시될 아이폰에도 영향을 준다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/29a8e6e2-1b4f-45fa-8288-40a55ebc6b3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 비싼 국산차 G90 롱휠베이스에 숨은 디테일 4가지.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66966</link>
-            <guid>https://www.esquirekorea.co.kr/article/66966</guid>
-            <pubDate>Sat, 25 Jun 2022 05:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[제네시스 G90 LWB는 사람을 두 번 놀라게 한다. 첫 번째는 가격, 두 번째는 그 가격을 뛰어...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/05/3491bcbf-fb47-46e0-9f7f-be3927eded1f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

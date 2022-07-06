@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 04:53:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 11:32:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1261,6 +1261,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/08/54240b61-f2d8-4068-8758-e0b45d7766cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[출시 앞둔 애플워치 8 새로운 기능 탑재 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67589</link>
+            <guid>https://www.esquirekorea.co.kr/article/67589</guid>
+            <pubDate>Wed, 06 Jul 2022 11:29:18 GMT</pubDate>
+            <content:encoded><![CDATA[저전력 모두 추가.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/5b75f33f-1aed-4b2b-9c3d-f63227f1924c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[죽기 전에 꼭 가봐야 할 드라이브 코스 7 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67405</link>
             <guid>https://www.esquirekorea.co.kr/article/67405</guid>
@@ -1315,14 +1323,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 28 Jun 2022 07:18:34 GMT</pubDate>
             <content:encoded><![CDATA[앞으로 출시될 아이폰에도 영향을 준다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/29a8e6e2-1b4f-45fa-8288-40a55ebc6b3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 비싼 국산차 G90 롱휠베이스에 숨은 디테일 4가지. (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66966</link>
-            <guid>https://www.esquirekorea.co.kr/article/66966</guid>
-            <pubDate>Sat, 25 Jun 2022 05:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[제네시스 G90 LWB는 사람을 두 번 놀라게 한다. 첫 번째는 가격, 두 번째는 그 가격을 뛰어...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/05/3491bcbf-fb47-46e0-9f7f-be3927eded1f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[짜장면 본연의 모습? 된장짜장 맛집 4. (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1388,6 +1388,30 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/28/e3855d73-9b26-42eb-8cd2-957ac9e90373.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국물 요리 생각날때 2022 신상 라멘 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67791</link>
+            <guid>https://www.esquirekorea.co.kr/article/67791</guid>
+            <pubDate>Wed, 06 Jul 2022 11:31:36 GMT</pubDate>
+            <content:encoded><![CDATA[계속되는 비에 뜨끈한 국물이 자꾸 생각난다. 깊고 진한 맛의 국물로는 라멘을 빼놓을 수 없는...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/476853d2-4ca8-4231-a87d-fb84e62ef08e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컴백 하루 앞두고 전곡 미리듣기 공개한 위너 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67752</link>
+            <guid>https://www.esquirekorea.co.kr/article/67752</guid>
+            <pubDate>Wed, 06 Jul 2022 11:31:36 GMT</pubDate>
+            <content:encoded><![CDATA[멤버들의 유쾌한 작업기가 함께 공개됐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/5cff84d8-51a9-4be6-bf26-0236b083cfc0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[26년 만에 극장판으로 돌아오는 슬램덩크 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67751</link>
+            <guid>https://www.esquirekorea.co.kr/article/67751</guid>
+            <pubDate>Wed, 06 Jul 2022 11:31:36 GMT</pubDate>
+            <content:encoded><![CDATA[7월 7일부터 캐릭터 포스터가 공개된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/f4c22971-f9d8-4d48-863b-d33acf6d96ea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[GS25 포켓몬스터 교통카드 출시 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67750</link>
             <guid>https://www.esquirekorea.co.kr/article/67750</guid>
@@ -1426,30 +1450,6 @@ The New MINI Countryman과 일상에
             <pubDate>Mon, 04 Jul 2022 05:31:26 GMT</pubDate>
             <content:encoded><![CDATA[까마득한 옛날부터 사람들은 왜 밤하늘을 올려다봤을까?  시인과 화가들이 별이 가득한 밤을 헤...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/ad42523d-3ac1-4f68-b275-82d6d845ef88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짜장면 본연의 모습? 된장짜장 맛집 4. (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67713</link>
-            <guid>https://www.esquirekorea.co.kr/article/67713</guid>
-            <pubDate>Mon, 04 Jul 2022 05:31:26 GMT</pubDate>
-            <content:encoded><![CDATA[춘장이 아닌 된장을 사용한 짜장면도 있다. 독특한 모습만큼 풍미가 훨씬 뛰어나다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/e2d3bab6-3c76-411b-ad2a-d33f9f7f837d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감성과 트렌드를 동시에! 2022 신상 에스프레소 바 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67712</link>
-            <guid>https://www.esquirekorea.co.kr/article/67712</guid>
-            <pubDate>Sat, 02 Jul 2022 19:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[서서 먹는 에스프레소 바가 트렌드라고 하지만 감성을 포기할 수는 없다. 유럽에 온 것 같은 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/47350019-3d3f-4401-b709-7efc0868313d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 신상 삼겹살 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67698</link>
-            <guid>https://www.esquirekorea.co.kr/article/67698</guid>
-            <pubDate>Sat, 02 Jul 2022 19:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[계속 되는 비에 축축 처지지만 빗소리를 듣고 있으니 삼겹살이 떠오른다. 그래서 준비했다, 따끈...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/3a127b51-bb4e-40bb-91bf-a59bc3d5fda9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[젠틀몬스터 X 손흥민 팝업 스토어 출시 (에스콰이어 코리아 ─ 피플)]]></title>
