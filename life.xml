@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 11:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 05:31:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<에스콰이어> 에디터들이 꼽은 이 달의 책]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67795</link>
+            <guid>https://www.esquirekorea.co.kr/article/67795</guid>
+            <pubDate>Thu, 07 Jul 2022 05:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[중쇄를 거듭해 더 많은 사람이 읽었으면 하는 책들을 &lt;에스콰이어&gt; 에디터들이 골랐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/12260bbb-dd1f-4609-8845-92db5a3059de.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[떠나자. 치맥의 성지로!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67792</link>
+            <guid>https://www.esquirekorea.co.kr/article/67792</guid>
+            <pubDate>Thu, 07 Jul 2022 05:29:20 GMT</pubDate>
+            <content:encoded><![CDATA[3년 만에 대구 치맥 페스티벌이 열린다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/c731478f-3d97-46e0-8699-85115be26df9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국물 요리 생각날때 2022 신상 라멘 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/67791</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 05 Jul 2022 13:47:13 GMT</pubDate>
             <content:encoded><![CDATA[작품은 서울공예박물관에서 만나볼 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/ad5dbe58-3265-41ff-8141-04471a08a2c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠원 한강 수영장 개장! 주변 가볼 만한 곳 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67725</link>
-            <guid>https://www.esquirekorea.co.kr/article/67725</guid>
-            <pubDate>Mon, 04 Jul 2022 05:31:26 GMT</pubDate>
-            <content:encoded><![CDATA[3년 만에 한강 수영장이 돌아왔다. 수영장 갔다가 데이트 코스로 가기 좋은 맛집, 카페를 소개...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/8b25dd1d-81ad-42f1-b08e-4364707dd2d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천문대는 별을 보러 가는 곳이 아니다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67316</link>
-            <guid>https://www.esquirekorea.co.kr/article/67316</guid>
-            <pubDate>Mon, 04 Jul 2022 05:31:26 GMT</pubDate>
-            <content:encoded><![CDATA[까마득한 옛날부터 사람들은 왜 밤하늘을 올려다봤을까?  시인과 화가들이 별이 가득한 밤을 헤...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/ad42523d-3ac1-4f68-b275-82d6d845ef88.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

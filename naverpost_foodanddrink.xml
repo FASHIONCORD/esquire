@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 11:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 05:31:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[건대입구역 업데이트! 신상 힙플레이스 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34078387&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34078387&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 07 Jul 2022 05:27:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDVfOTgg/MDAxNjU2OTk3MDc1NzAw.Abb9_19mwwaEFZOIJRZ_DEE06cnQH27pLWpdf3l-XiIg.GYiuktXtg3qImF-mX81gPMl19GUnb46lcH5qU85aLIEg.JPEG/IUlreWnikM-wwbtkn_MDSMgXk_wk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 상 가득 꽉 채운 맛, 제주 한상차림 맛집 4]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34036784&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 May 2022 02:32:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMThfMTkx/MDAxNjQ1MTk0MjMwNTIy.aX1oHFr-tS4NtPbL0uinBFnyDHIhqV0FJGrnUcJntX8g.7zOq7XghIn7a3tOOwt4IZBq6l31iNOOtgxeUFR_QklYg.PNG/Iv4u1EE11ZiOBZmGzbspRa-wruPY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예약제 프라이빗 카페 4]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33306387&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33306387&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Tue, 24 May 2022 02:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTdfNTcg/MDAxNjQ1MDUzMTY1NDEy.LU7Mx28vH72KrUYetNita9EyzpT4acAutalCqi_7Z98g.znKEOYqYRefzalCfKhFE4XNzneY4bEzHJ_1BXUtdOVIg.PNG/Ih-bYKQSqSchkgQe5399YXFLJbQc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
