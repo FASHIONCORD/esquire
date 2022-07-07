@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 05:31:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 15:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BMW M이 50주년을 기념하는 방법]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67692</link>
+            <guid>https://www.esquirekorea.co.kr/article/67692</guid>
+            <pubDate>Thu, 07 Jul 2022 15:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[50년 전에도 지금도 BMW M은 자신만의 길을 간다. 강력하게.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/10b50f91-4e81-4d1c-a00b-11df3f1c73b4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[출시 앞둔 애플워치 8 새로운 기능 탑재]]></title>
             <link>https://www.esquirekorea.co.kr/article/67589</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Jun 2022 17:28:44 GMT</pubDate>
             <content:encoded><![CDATA[주스 하나도 배달해준다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/5f6189da-778a-4cd3-8187-70e0a851042a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[C타입 케이블 통일 여부 결정하는 EU]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66981</link>
-            <guid>https://www.esquirekorea.co.kr/article/66981</guid>
-            <pubDate>Tue, 28 Jun 2022 07:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[앞으로 출시될 아이폰에도 영향을 준다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/06/29a8e6e2-1b4f-45fa-8288-40a55ebc6b3c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

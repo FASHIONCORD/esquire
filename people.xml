@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 05:31:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 15:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<나의 별에게 2> 두 주인공, 손우현 X 김강민 화보 B컷 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67592</link>
+            <guid>https://www.esquirekorea.co.kr/article/67592</guid>
+            <pubDate>Thu, 07 Jul 2022 15:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[A컷 못지 않은 그들의 B컷을 공개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/b33f3368-c24e-49a2-8988-ac29d0f7d274.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[젠틀몬스터 X 손흥민 팝업 스토어 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/67590</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 29 Jun 2022 11:18:21 GMT</pubDate>
             <content:encoded><![CDATA[마크는 ‘늘 지금처럼 편하게 흘러가는 대로 살고 싶다’고 했다. 끊임없이 자기 관리를 하고, ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/8d09fb80-b51d-423b-ab9b-7e584dbc0a1f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김연경, 국내 리그 복귀한다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67395</link>
-            <guid>https://www.esquirekorea.co.kr/article/67395</guid>
-            <pubDate>Mon, 27 Jun 2022 09:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[팬들 만나고 싶어 계약 결심.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/b3a4e138-4bc1-4c4f-9b63-9e01fd14a4d6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

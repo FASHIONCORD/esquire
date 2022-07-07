@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 05:31:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 15:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해변을 위한 옷]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67624</link>
+            <guid>https://www.esquirekorea.co.kr/article/67624</guid>
+            <pubDate>Thu, 07 Jul 2022 15:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[여름이 내게로 왔다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/b4205c68-14c6-4093-bb99-7baf6a268f5b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<나의 별에게 2> 두 주인공, 손우현 X 김강민 화보 B컷 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/67592</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Jun 2022 17:27:25 GMT</pubDate>
             <content:encoded><![CDATA[여름을 기다려온 이유.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/12/a299c3ef-dca0-46a4-aa5d-2ac5c54b890a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코드의 결합, 아디다스 X 구찌 컬렉션]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67113</link>
-            <guid>https://www.esquirekorea.co.kr/article/67113</guid>
-            <pubDate>Sun, 26 Jun 2022 18:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[마침내 공개 된 아디다스 X 구찌 컬렉션 협업에 사람들이 열광하는 이유.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/11/be5dba81-178a-442a-a77c-357dd846c3e3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

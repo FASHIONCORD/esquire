@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 05:31:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 15:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 확신의 컬러, 그레이 팬츠 코디]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67475</link>
+            <guid>https://www.esquirekorea.co.kr/article/67475</guid>
+            <pubDate>Thu, 07 Jul 2022 15:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[쿨하면서도 시크한 무드]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/fa3a98b6-4ddc-444c-8776-d2bac3bd2234.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 캐주얼과 클래식한 무드가 한 번에]]></title>
             <link>https://www.esquirekorea.co.kr/article/67432</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 23 Jun 2022 05:29:45 GMT</pubDate>
             <content:encoded><![CDATA[‘Music is my life’ 헤드셋이 포인트]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/04333571-e23a-4cba-8061-3ff655325f4d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 미니멀룩의 대명사 올블랙 코디]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67036</link>
-            <guid>https://www.esquirekorea.co.kr/article/67036</guid>
-            <pubDate>Sun, 19 Jun 2022 16:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[시크한 느낌은 덤]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/4b04230d-2d09-44fd-a733-76d6f71c2c77.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
