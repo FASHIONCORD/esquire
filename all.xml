@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 10:29:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 17:31:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1389,6 +1389,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/3a127b51-bb4e-40bb-91bf-a59bc3d5fda9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[하이브 예능 '인더숲:우정여행' 포스터 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67826</link>
+            <guid>https://www.esquirekorea.co.kr/article/67826</guid>
+            <pubDate>Fri, 08 Jul 2022 17:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[박서준, 픽보이, 최우식, 박형식, 방탄소년단 뷔가 함께한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/a40c2485-7621-4d2e-be08-9fef6135d1a4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[최종 후보작 발표한 제1회 청룡시리즈어워즈 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67816</link>
             <guid>https://www.esquirekorea.co.kr/article/67816</guid>
@@ -1443,14 +1451,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 06 Jul 2022 11:31:36 GMT</pubDate>
             <content:encoded><![CDATA[멤버들의 유쾌한 작업기가 함께 공개됐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/5cff84d8-51a9-4be6-bf26-0236b083cfc0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[26년 만에 극장판으로 돌아오는 슬램덩크 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67751</link>
-            <guid>https://www.esquirekorea.co.kr/article/67751</guid>
-            <pubDate>Wed, 06 Jul 2022 11:31:36 GMT</pubDate>
-            <content:encoded><![CDATA[7월 7일부터 캐릭터 포스터가 공개된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/f4c22971-f9d8-4d48-863b-d33acf6d96ea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<나의 별에게 2> 두 주인공, 손우현 X 김강민 화보 B컷 공개 (에스콰이어 코리아 ─ 피플)]]></title>
