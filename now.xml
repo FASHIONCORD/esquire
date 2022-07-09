@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 06:27:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 18:25:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[떠나자. 치맥의 성지로!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67792</link>
+            <guid>https://www.esquirekorea.co.kr/article/67792</guid>
+            <pubDate>Sat, 09 Jul 2022 18:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[3년 만에 대구 치맥 페스티벌이 열린다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/c731478f-3d97-46e0-8699-85115be26df9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보성녹돈 버거 출시한 맥도날드]]></title>
             <link>https://www.esquirekorea.co.kr/article/67736</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 02 Jul 2022 16:27:58 GMT</pubDate>
             <content:encoded><![CDATA[우도의 진가는 하루를 온전히 보냈을 때 드러난다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/78775ca0-da3e-40b4-9fd0-aa87ed679afe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전웅태 선수가 근대5종 월드컵 파이널 개인전에서 1위를 기록했다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67502</link>
-            <guid>https://www.esquirekorea.co.kr/article/67502</guid>
-            <pubDate>Sat, 02 Jul 2022 16:27:58 GMT</pubDate>
-            <content:encoded><![CDATA[2위는 서창완 선수가 차지했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/78099300-438c-4dca-9d92-9e363c1525ef.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
