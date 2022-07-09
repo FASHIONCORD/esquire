@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 20:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 06:27:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울의 진짜 경치를 즐길 수 있는 바(Bar) 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34084342&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34084342&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Sat, 09 Jul 2022 06:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MDZfMjcw/MDAxNjU3MDg0NjQ5MTU1.z-K378U0V1DEyNIOVDbeVdfGaw45EggLvDlCQlwneWsg.R0UWw_om_uO2o99EHp2ezxV-GHcBFaJQ0ZTcQjHzzksg.JPEG/IVy4EXJWYR0UWmfOqsAMyCWVp6bY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[건대입구역 업데이트! 신상 힙플레이스 4]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34078387&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 May 2022 02:32:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMjJfODMg/MDAxNjQ1NTEyNTE1MTQy.w_HdugsisCWgOJIgq_dqSR8aToP6a5-uCu7zDXHO-Ugg.5v1Ibg7Z9ZuhfxG2FhnNN1-BWK3PSYfwzkY7cyQkJYog.PNG/IT0SfJe5kK8DNNd-ruTBYtVWL9Sc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이색벅스! 독특한 공간에서 만나는 국내 스타벅스 매장 5]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33319006&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33319006&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Tue, 24 May 2022 02:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMThfMTkx/MDAxNjQ1MTk0MjMwNTIy.aX1oHFr-tS4NtPbL0uinBFnyDHIhqV0FJGrnUcJntX8g.7zOq7XghIn7a3tOOwt4IZBq6l31iNOOtgxeUFR_QklYg.PNG/Iv4u1EE11ZiOBZmGzbspRa-wruPY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
