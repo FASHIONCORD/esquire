@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 18:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 23:24:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[편의점도 택시처럼 '심야할증']]></title>
+            <link>https://www.esquirekorea.co.kr/article/67858</link>
+            <guid>https://www.esquirekorea.co.kr/article/67858</guid>
+            <pubDate>Sat, 09 Jul 2022 23:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[새벽시간엔 물건값 5% 더.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/8db3810d-eebb-4790-9cfe-d66bcb973d22.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['NBA 2K23' 커버 모델은 농구 황제 마이클 조던]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67827</link>
+            <guid>https://www.esquirekorea.co.kr/article/67827</guid>
+            <pubDate>Sat, 09 Jul 2022 23:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[그의 등번호 23번을 기념하는 'NBA 2K'의 2023년 버전이 사전 판매를 시작했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/bf30ffd6-1986-46c9-8fbd-bfeff551ffa2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하이브 예능 '인더숲:우정여행' 포스터 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/67826</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 07 Jul 2022 05:29:20 GMT</pubDate>
             <content:encoded><![CDATA[3년 만에 대구 치맥 페스티벌이 열린다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/c731478f-3d97-46e0-8699-85115be26df9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국물 요리 생각날때 2022 신상 라멘 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67791</link>
-            <guid>https://www.esquirekorea.co.kr/article/67791</guid>
-            <pubDate>Wed, 06 Jul 2022 11:31:36 GMT</pubDate>
-            <content:encoded><![CDATA[계속되는 비에 뜨끈한 국물이 자꾸 생각난다. 깊고 진한 맛의 국물로는 라멘을 빼놓을 수 없는...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/476853d2-4ca8-4231-a87d-fb84e62ef08e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴백 하루 앞두고 전곡 미리듣기 공개한 위너]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67752</link>
-            <guid>https://www.esquirekorea.co.kr/article/67752</guid>
-            <pubDate>Wed, 06 Jul 2022 11:31:36 GMT</pubDate>
-            <content:encoded><![CDATA[멤버들의 유쾌한 작업기가 함께 공개됐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/5cff84d8-51a9-4be6-bf26-0236b083cfc0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
