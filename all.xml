@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 15:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 21:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1325,6 +1325,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/5f6189da-778a-4cd3-8187-70e0a851042a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[편의점도 택시처럼 '심야할증' (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67858</link>
+            <guid>https://www.esquirekorea.co.kr/article/67858</guid>
+            <pubDate>Sat, 09 Jul 2022 23:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[새벽시간엔 물건값 5% 더.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/8db3810d-eebb-4790-9cfe-d66bcb973d22.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[1위만 15번째인 핫도그 먹기 대회 우승자 등장 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67815</link>
             <guid>https://www.esquirekorea.co.kr/article/67815</guid>
@@ -1379,14 +1387,6 @@ The New MINI Countryman과 일상에
             <pubDate>Mon, 04 Jul 2022 05:31:26 GMT</pubDate>
             <content:encoded><![CDATA[3년 만에 한강 수영장이 돌아왔다. 수영장 갔다가 데이트 코스로 가기 좋은 맛집, 카페를 소개...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/8b25dd1d-81ad-42f1-b08e-4364707dd2d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짜장면 본연의 모습? 된장짜장 맛집 4. (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67713</link>
-            <guid>https://www.esquirekorea.co.kr/article/67713</guid>
-            <pubDate>Mon, 04 Jul 2022 05:31:26 GMT</pubDate>
-            <content:encoded><![CDATA[춘장이 아닌 된장을 사용한 짜장면도 있다. 독특한 모습만큼 풍미가 훨씬 뛰어나다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/e2d3bab6-3c76-411b-ad2a-d33f9f7f837d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[편의점도 택시처럼 '심야할증' (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1581,6 +1581,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/78775ca0-da3e-40b4-9fd0-aa87ed679afe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Eshop] 쿨한 바이커 쇼츠, 레깅스 코디 (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67579</link>
+            <guid>https://www.esquirekorea.co.kr/article/67579</guid>
+            <pubDate>Sun, 10 Jul 2022 21:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[간절기에 재킷 하나는 필수]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/e62c8f55-b236-444c-9846-1b4654ac08e9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Eshop] 확신의 컬러, 그레이 팬츠 코디 (에스콰이어 코리아 ─ 이샵)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67475</link>
             <guid>https://www.esquirekorea.co.kr/article/67475</guid>
@@ -1635,14 +1643,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 23 Jun 2022 18:32:57 GMT</pubDate>
             <content:encoded><![CDATA[액세서리를 활용한 트렌디한 룩]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/24f61a72-e572-4230-a7bb-5f3997976ee3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 캐주얼하면서 힙하게 ‘캐트릿 코디’ (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67102</link>
-            <guid>https://www.esquirekorea.co.kr/article/67102</guid>
-            <pubDate>Thu, 23 Jun 2022 05:29:45 GMT</pubDate>
-            <content:encoded><![CDATA[‘Music is my life’ 헤드셋이 포인트]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/10/04333571-e23a-4cba-8061-3ff655325f4d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
