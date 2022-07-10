@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 08:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 09:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1위만 15번째인 핫도그 먹기 대회 우승자 등장]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67815</link>
+            <guid>https://www.esquirekorea.co.kr/article/67815</guid>
+            <pubDate>Sun, 10 Jul 2022 09:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[10분 동안 63개의 핫도그를 먹었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/f72178be-0b4d-46f4-baff-484e9accab4a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[항공사 최초 맥주 출시한 아시아나항공]]></title>
             <link>https://www.esquirekorea.co.kr/article/67814</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 05 Jul 2022 13:47:00 GMT</pubDate>
             <content:encoded><![CDATA[춘장이 아닌 된장을 사용한 짜장면도 있다. 독특한 모습만큼 풍미가 훨씬 뛰어나다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/e2d3bab6-3c76-411b-ad2a-d33f9f7f837d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감성과 트렌드를 동시에! 2022 신상 에스프레소 바 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67712</link>
-            <guid>https://www.esquirekorea.co.kr/article/67712</guid>
-            <pubDate>Tue, 05 Jul 2022 13:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[서서 먹는 에스프레소 바가 트렌드라고 하지만 감성을 포기할 수는 없다. 유럽에 온 것 같은 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/47350019-3d3f-4401-b709-7efc0868313d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
