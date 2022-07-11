@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 18:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 21:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바퀴달린 집, 쉐보레 타호를 4가지 키워드로 파헤치기]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67730</link>
+            <guid>https://www.esquirekorea.co.kr/article/67730</guid>
+            <pubDate>Mon, 11 Jul 2022 21:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[바퀴 달린 집을 갖고 싶은가? 그렇다면 최고의 선택은 쉐보레 타호다. 넉넉한 출력, 성인 7명...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/ddb3c424-4e83-4abd-8119-0e9c2d2b4727.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BMW M이 50주년을 기념하는 방법]]></title>
             <link>https://www.esquirekorea.co.kr/article/67692</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 29 Jun 2022 11:17:19 GMT</pubDate>
             <content:encoded><![CDATA[내 아바타는 프라다를 입는다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/58bef529-1583-4e2e-bd2b-e442acd114aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자율주행 로봇배달 실증사업 참여하는 세븐일레븐]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67158</link>
-            <guid>https://www.esquirekorea.co.kr/article/67158</guid>
-            <pubDate>Tue, 28 Jun 2022 17:28:44 GMT</pubDate>
-            <content:encoded><![CDATA[주스 하나도 배달해준다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/13/5f6189da-778a-4cd3-8187-70e0a851042a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
