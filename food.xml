@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 21:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 11:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[분위기 좋은 2022 신상 주점 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67870</link>
+            <guid>https://www.esquirekorea.co.kr/article/67870</guid>
+            <pubDate>Mon, 11 Jul 2022 11:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[간단한 안주에 시원한 술 한 잔. 퇴근 테라피가 절실한 요즘. 취향을 저격할 다양한 무드의 주...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/e0c88903-05a8-41e9-8800-05c10c62980d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[평양냉면 말고 새로운 여름 별미를 원한다면? 이젠 중국냉면. 미식에 진심인 인스타그래머 4명이 추천한 서울의 중국냉면 맛집]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67862</link>
+            <guid>https://www.esquirekorea.co.kr/article/67862</guid>
+            <pubDate>Mon, 11 Jul 2022 11:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[알싸하고 담백한 중국냉면의 계절이 왔다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/10/a4abf8d3-45cb-49de-81ba-1ff33941da3a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[편의점도 택시처럼 '심야할증']]></title>
             <link>https://www.esquirekorea.co.kr/article/67858</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 08 Jul 2022 10:27:57 GMT</pubDate>
             <content:encoded><![CDATA[일반 막걸리보다 도수가 2배 이상 높다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/a9ea9263-15d8-4091-8540-a8bb29a4230b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보성녹돈 버거 출시한 맥도날드]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67736</link>
-            <guid>https://www.esquirekorea.co.kr/article/67736</guid>
-            <pubDate>Thu, 07 Jul 2022 05:28:40 GMT</pubDate>
-            <content:encoded><![CDATA[쇠고기 대신 돼지고기, 양상추 대신 양배추를 넣었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/e395999b-13c9-4259-b855-c1aa39b5de83.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠원 한강 수영장 개장! 주변 가볼 만한 곳 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67725</link>
-            <guid>https://www.esquirekorea.co.kr/article/67725</guid>
-            <pubDate>Thu, 07 Jul 2022 05:28:40 GMT</pubDate>
-            <content:encoded><![CDATA[3년 만에 한강 수영장이 돌아왔다. 수영장 갔다가 데이트 코스로 가기 좋은 맛집, 카페를 소개...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/8b25dd1d-81ad-42f1-b08e-4364707dd2d7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 와치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 21:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 11:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[물 속으로 뛰어든 시계]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66892</link>
+            <guid>https://www.esquirekorea.co.kr/article/66892</guid>
+            <pubDate>Mon, 11 Jul 2022 11:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[여름을 유영하는 다이버 워치.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/01/d46e827f-19a0-415d-a473-6dbed975f1fb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ENGINEERING DREAMS part. 2]]></title>
             <link>https://www.esquirekorea.co.kr/article/66837</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 25 May 2022 11:19:17 GMT</pubDate>
             <content:encoded><![CDATA[IWC 시계 오너이자 유용욱바베큐연구소를 이끌고 있는 유용욱 소장을 만났다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/13601190-57db-4a50-93da-ccca7cb332e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워치스앤원더스 2022에서 만난 그랜드 세이코]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66216</link>
-            <guid>https://www.esquirekorea.co.kr/article/66216</guid>
-            <pubDate>Wed, 25 May 2022 11:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2년간 디지털로만 개최된 워치스앤원더스 제네바가 드디어 피지컬 이벤트로 돌아왔다. 이전보...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/08/54240b61-f2d8-4068-8758-e0b45d7766cc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

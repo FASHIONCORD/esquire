@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 21:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 11:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS 개최]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67679</link>
+            <guid>https://www.esquirekorea.co.kr/article/67679</guid>
+            <pubDate>Mon, 11 Jul 2022 11:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[5년만에 SM엔터테인먼트 합동 콘서트가 열린다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/87953ccd-17b6-4670-9bd0-4c6308bf6c01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소름 돋는 타짜 연기! 강하늘 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67626</link>
+            <guid>https://www.esquirekorea.co.kr/article/67626</guid>
+            <pubDate>Mon, 11 Jul 2022 11:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[불의의 사건으로 교도소에 갇혀 타짜가 된 사법연수생. 강하늘이 강렬하고 파격적인 연기로 돌아...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/47141e18-59f4-4eca-afc3-5379b8a59376.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<나의 별에게 2> 두 주인공, 손우현 X 김강민 화보 B컷 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/67592</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 29 Jun 2022 11:18:21 GMT</pubDate>
             <content:encoded><![CDATA[&lt;천국의 계단&gt; OST &lt;보고싶다&gt;, &lt;이태원 클라쓰&gt; OST &lt;가호&gt; 등 커버 장인 그렉형의 에스콰이어...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/79d86d03-c66e-40f0-a30b-850562491bb3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갓세븐 마크 "제가 성장이 좀 느린 편이라, 남성미도 이제야 조금씩 생기는 것 같아요."]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67361</link>
-            <guid>https://www.esquirekorea.co.kr/article/67361</guid>
-            <pubDate>Wed, 29 Jun 2022 11:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[마크는 ‘늘 지금처럼 편하게 흘러가는 대로 살고 싶다’고 했다. 끊임없이 자기 관리를 하고, ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/37d7184a-e184-485d-894a-c0b775dc5673.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마크가 슬쩍 귀띔해준 갓세븐의 새 앨범과 본인의 솔로 앨범 콘셉트]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67359</link>
-            <guid>https://www.esquirekorea.co.kr/article/67359</guid>
-            <pubDate>Wed, 29 Jun 2022 11:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[마크는 ‘늘 지금처럼 편하게 흘러가는 대로 살고 싶다’고 했다. 끊임없이 자기 관리를 하고, ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/8d09fb80-b51d-423b-ab9b-7e584dbc0a1f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
