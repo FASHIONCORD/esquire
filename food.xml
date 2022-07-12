@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 21:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 13:46:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[완벽한 데이트 코스! 전시와 함께 즐기는 카페 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67885</link>
+            <guid>https://www.esquirekorea.co.kr/article/67885</guid>
+            <pubDate>Tue, 12 Jul 2022 13:43:45 GMT</pubDate>
+            <content:encoded><![CDATA[덥고 습한 날씨에 이리저리 돌아다니기도 싫고, '카페나 가자!'라는 소리만 나오는 요즘. 전시와...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/09/402763ea-5f4f-4baa-b873-b6f1430532bb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[분위기 좋은 2022 신상 주점 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/67870</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Jul 2022 10:27:57 GMT</pubDate>
             <content:encoded><![CDATA[계속되는 비에 뜨끈한 국물이 자꾸 생각난다. 깊고 진한 맛의 국물로는 라멘을 빼놓을 수 없는...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/476853d2-4ca8-4231-a87d-fb84e62ef08e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유통업계 최초로 '백걸리' 판매하는 CU]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67749</link>
-            <guid>https://www.esquirekorea.co.kr/article/67749</guid>
-            <pubDate>Fri, 08 Jul 2022 10:27:57 GMT</pubDate>
-            <content:encoded><![CDATA[일반 막걸리보다 도수가 2배 이상 높다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/a9ea9263-15d8-4091-8540-a8bb29a4230b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
