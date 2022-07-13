@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 08:28:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 11:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1517,6 +1517,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/79d86d03-c66e-40f0-a30b-850562491bb3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[최종 후보작 발표한 제1회 청룡시리즈어워즈 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67816</link>
+            <guid>https://www.esquirekorea.co.kr/article/67816</guid>
+            <pubDate>Wed, 13 Jul 2022 11:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[최종 수상자를 가리는 2차 네티즌 투표는 오는 7월 17일까지 진행한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/6424c5f1-c8dd-4f8d-843e-defa4abda68e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[1위만 15번째인 핫도그 먹기 대회 우승자 등장 (에스콰이어 코리아 ─ 나우)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67815</link>
             <guid>https://www.esquirekorea.co.kr/article/67815</guid>
@@ -1571,14 +1579,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 07 Jul 2022 23:22:08 GMT</pubDate>
             <content:encoded><![CDATA[28위에서 1위까지 올랐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/c89d818d-5698-4362-b324-c8d62666d8c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국인 최초 로에베 공예상 받은 정다혜 작가 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67733</link>
-            <guid>https://www.esquirekorea.co.kr/article/67733</guid>
-            <pubDate>Tue, 05 Jul 2022 13:47:13 GMT</pubDate>
-            <content:encoded><![CDATA[작품은 서울공예박물관에서 만나볼 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/ad5dbe58-3265-41ff-8141-04471a08a2c3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 여름에도 청재킷을 챙겨야 하는 이유 (에스콰이어 코리아 ─ 이샵)]]></title>
