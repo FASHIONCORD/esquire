@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 04:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 07:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1325,6 +1325,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/58bef529-1583-4e2e-bd2b-e442acd114aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[비도 오고 그래서, 전통주 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67886</link>
+            <guid>https://www.esquirekorea.co.kr/article/67886</guid>
+            <pubDate>Tue, 12 Jul 2022 18:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[비 오는 날이면 유독 생각나는 곳, 우리 술을 다채롭게 선보이는 전통주 맛집.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/09/751a53de-26e7-458e-a893-fe45832ce3a9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[완벽한 데이트 코스! 전시와 함께 즐기는 카페 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67885</link>
             <guid>https://www.esquirekorea.co.kr/article/67885</guid>
@@ -1381,12 +1389,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/c731478f-3d97-46e0-8699-85115be26df9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국물 요리 생각날때 2022 신상 라멘 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67791</link>
-            <guid>https://www.esquirekorea.co.kr/article/67791</guid>
-            <pubDate>Wed, 06 Jul 2022 11:31:36 GMT</pubDate>
-            <content:encoded><![CDATA[계속되는 비에 뜨끈한 국물이 자꾸 생각난다. 깊고 진한 맛의 국물로는 라멘을 빼놓을 수 없는...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/476853d2-4ca8-4231-a87d-fb84e62ef08e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[다이나믹듀오, 허성현과 술 한잔! 그들이 술 먹을때 생각나는 노래방 18번은? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67900</link>
+            <guid>https://www.esquirekorea.co.kr/article/67900</guid>
+            <pubDate>Wed, 13 Jul 2022 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[힙합보단 발라드를 부르는 다이나믹듀오와 허성현을 만나보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/75f6adf6-6c67-4f21-bf61-60b7d926e99b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윔블던 테니스 14세부 조세혁 우승 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67899</link>
+            <guid>https://www.esquirekorea.co.kr/article/67899</guid>
+            <pubDate>Wed, 13 Jul 2022 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[신설된 14세부에서 초대 우승을 차지했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/d62ada2e-befb-4b95-b8f1-d7dfe1f4562a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비도 오고 그래서, 전통주 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1435,22 +1451,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sat, 09 Jul 2022 23:22:55 GMT</pubDate>
             <content:encoded><![CDATA[새벽시간엔 물건값 5% 더.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/8db3810d-eebb-4790-9cfe-d66bcb973d22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['NBA 2K23' 커버 모델은 농구 황제 마이클 조던 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67827</link>
-            <guid>https://www.esquirekorea.co.kr/article/67827</guid>
-            <pubDate>Sat, 09 Jul 2022 23:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[그의 등번호 23번을 기념하는 'NBA 2K'의 2023년 버전이 사전 판매를 시작했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/bf30ffd6-1986-46c9-8fbd-bfeff551ffa2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브 예능 '인더숲:우정여행' 포스터 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67826</link>
-            <guid>https://www.esquirekorea.co.kr/article/67826</guid>
-            <pubDate>Fri, 08 Jul 2022 17:29:46 GMT</pubDate>
-            <content:encoded><![CDATA[박서준, 픽보이, 최우식, 박형식, 방탄소년단 뷔가 함께한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/a40c2485-7621-4d2e-be08-9fef6135d1a4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS 개최 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1517,6 +1517,30 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/79d86d03-c66e-40f0-a30b-850562491bb3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[1위만 15번째인 핫도그 먹기 대회 우승자 등장 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67815</link>
+            <guid>https://www.esquirekorea.co.kr/article/67815</guid>
+            <pubDate>Fri, 08 Jul 2022 09:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[10분 동안 63개의 핫도그를 먹었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/f72178be-0b4d-46f4-baff-484e9accab4a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[항공사 최초 맥주 출시한 아시아나항공 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67814</link>
+            <guid>https://www.esquirekorea.co.kr/article/67814</guid>
+            <pubDate>Sat, 09 Jul 2022 06:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[아시아나항공과 코리아 브루어스 콜렉티브, CU의 합작이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/a04e4981-371f-4a09-a27f-b1501cf0f8a2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크가 8월에 컴백한다. (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67805</link>
+            <guid>https://www.esquirekorea.co.kr/article/67805</guid>
+            <pubDate>Wed, 13 Jul 2022 07:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[1년 10개월 만이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/a15e900a-c8ca-4c36-93bc-c3304b3624a2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[떠나자. 치맥의 성지로! (에스콰이어 코리아 ─ 나우)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67792</link>
             <guid>https://www.esquirekorea.co.kr/article/67792</guid>
@@ -1555,30 +1579,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 05 Jul 2022 13:47:13 GMT</pubDate>
             <content:encoded><![CDATA[작품은 서울공예박물관에서 만나볼 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/ad5dbe58-3265-41ff-8141-04471a08a2c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킹 받는' 맛을 지닌 팝콘이 등장했다 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67654</link>
-            <guid>https://www.esquirekorea.co.kr/article/67654</guid>
-            <pubDate>Sat, 02 Jul 2022 16:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[킹뚜껑맛 시즈닝을 버무린 팝콘.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/4a023df9-68ff-4ce9-bd42-1960b1a29741.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번역은 하나은행, 하나은행역입니다. (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67609</link>
-            <guid>https://www.esquirekorea.co.kr/article/67609</guid>
-            <pubDate>Fri, 01 Jul 2022 21:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[10월부터 을지로입구역이 하나은행역과 역명을 함께 사용한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/9ffbdc4e-f2df-4522-9b55-d43f7a02c88e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[섬 속의 섬, 우도에서 즐기는 풀 코스 5 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67608</link>
-            <guid>https://www.esquirekorea.co.kr/article/67608</guid>
-            <pubDate>Fri, 01 Jul 2022 15:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[우도의 진가는 하루를 온전히 보냈을 때 드러난다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/78775ca0-da3e-40b4-9fd0-aa87ed679afe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 여름에도 청재킷을 챙겨야 하는 이유 (에스콰이어 코리아 ─ 이샵)]]></title>

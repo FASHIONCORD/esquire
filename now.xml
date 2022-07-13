@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 04:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 07:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1위만 15번째인 핫도그 먹기 대회 우승자 등장]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67815</link>
+            <guid>https://www.esquirekorea.co.kr/article/67815</guid>
+            <pubDate>Wed, 13 Jul 2022 07:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[10분 동안 63개의 핫도그를 먹었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/f72178be-0b4d-46f4-baff-484e9accab4a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[항공사 최초 맥주 출시한 아시아나항공]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67814</link>
+            <guid>https://www.esquirekorea.co.kr/article/67814</guid>
+            <pubDate>Wed, 13 Jul 2022 07:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[아시아나항공과 코리아 브루어스 콜렉티브, CU의 합작이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/a04e4981-371f-4a09-a27f-b1501cf0f8a2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크가 8월에 컴백한다.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67805</link>
+            <guid>https://www.esquirekorea.co.kr/article/67805</guid>
+            <pubDate>Wed, 13 Jul 2022 07:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[1년 10개월 만이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/a15e900a-c8ca-4c36-93bc-c3304b3624a2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[떠나자. 치맥의 성지로!]]></title>
             <link>https://www.esquirekorea.co.kr/article/67792</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 07 Jul 2022 23:22:08 GMT</pubDate>
             <content:encoded><![CDATA[작품은 서울공예박물관에서 만나볼 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/ad5dbe58-3265-41ff-8141-04471a08a2c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킹 받는' 맛을 지닌 팝콘이 등장했다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67654</link>
-            <guid>https://www.esquirekorea.co.kr/article/67654</guid>
-            <pubDate>Tue, 05 Jul 2022 13:48:36 GMT</pubDate>
-            <content:encoded><![CDATA[킹뚜껑맛 시즈닝을 버무린 팝콘.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/4a023df9-68ff-4ce9-bd42-1960b1a29741.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번역은 하나은행, 하나은행역입니다.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67609</link>
-            <guid>https://www.esquirekorea.co.kr/article/67609</guid>
-            <pubDate>Sat, 02 Jul 2022 16:27:58 GMT</pubDate>
-            <content:encoded><![CDATA[10월부터 을지로입구역이 하나은행역과 역명을 함께 사용한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/9ffbdc4e-f2df-4522-9b55-d43f7a02c88e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[섬 속의 섬, 우도에서 즐기는 풀 코스 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67608</link>
-            <guid>https://www.esquirekorea.co.kr/article/67608</guid>
-            <pubDate>Sat, 02 Jul 2022 16:27:58 GMT</pubDate>
-            <content:encoded><![CDATA[우도의 진가는 하루를 온전히 보냈을 때 드러난다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/78775ca0-da3e-40b4-9fd0-aa87ed679afe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

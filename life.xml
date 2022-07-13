@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 04:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 07:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다이나믹듀오, 허성현과 술 한잔! 그들이 술 먹을때 생각나는 노래방 18번은?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67900</link>
+            <guid>https://www.esquirekorea.co.kr/article/67900</guid>
+            <pubDate>Wed, 13 Jul 2022 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[힙합보단 발라드를 부르는 다이나믹듀오와 허성현을 만나보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/75f6adf6-6c67-4f21-bf61-60b7d926e99b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윔블던 테니스 14세부 조세혁 우승]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67899</link>
+            <guid>https://www.esquirekorea.co.kr/article/67899</guid>
+            <pubDate>Wed, 13 Jul 2022 07:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[신설된 14세부에서 초대 우승을 차지했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/d62ada2e-befb-4b95-b8f1-d7dfe1f4562a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비도 오고 그래서, 전통주 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/67886</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 09 Jul 2022 23:22:55 GMT</pubDate>
             <content:encoded><![CDATA[새벽시간엔 물건값 5% 더.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/8db3810d-eebb-4790-9cfe-d66bcb973d22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['NBA 2K23' 커버 모델은 농구 황제 마이클 조던]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67827</link>
-            <guid>https://www.esquirekorea.co.kr/article/67827</guid>
-            <pubDate>Sat, 09 Jul 2022 23:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[그의 등번호 23번을 기념하는 'NBA 2K'의 2023년 버전이 사전 판매를 시작했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/bf30ffd6-1986-46c9-8fbd-bfeff551ffa2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브 예능 '인더숲:우정여행' 포스터 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67826</link>
-            <guid>https://www.esquirekorea.co.kr/article/67826</guid>
-            <pubDate>Fri, 08 Jul 2022 17:29:46 GMT</pubDate>
-            <content:encoded><![CDATA[박서준, 픽보이, 최우식, 박형식, 방탄소년단 뷔가 함께한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/a40c2485-7621-4d2e-be08-9fef6135d1a4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
