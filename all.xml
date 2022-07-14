@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 11:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 16:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1261,6 +1261,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/13601190-57db-4a50-93da-ccca7cb332e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전동화에 진심인 볼보가 출시한 새로운 PHEV (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67739</link>
+            <guid>https://www.esquirekorea.co.kr/article/67739</guid>
+            <pubDate>Thu, 14 Jul 2022 16:33:40 GMT</pubDate>
+            <content:encoded><![CDATA[볼보는 행동으로 말한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/60469299-d65c-4797-a65d-5342e7a6944c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[바퀴달린 집, 쉐보레 타호를 4가지 키워드로 파헤치기 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67730</link>
             <guid>https://www.esquirekorea.co.kr/article/67730</guid>
@@ -1315,14 +1323,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 29 Jun 2022 21:22:28 GMT</pubDate>
             <content:encoded><![CDATA[100명을 대상으로 120억 규모의 지원금을 제공한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/600fbc4c-c3e7-42a6-97fc-50f65425ebef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 명품 아바타 스토어 출시 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67396</link>
-            <guid>https://www.esquirekorea.co.kr/article/67396</guid>
-            <pubDate>Wed, 29 Jun 2022 11:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[내 아바타는 프라다를 입는다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/58bef529-1583-4e2e-bd2b-e442acd114aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NFT버거 '보어드 버거' 두번째 매장 서울 상륙 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1453,6 +1453,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/09/402763ea-5f4f-4baa-b873-b6f1430532bb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[블랙핑크가 8월에 컴백한다. (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67805</link>
+            <guid>https://www.esquirekorea.co.kr/article/67805</guid>
+            <pubDate>Wed, 13 Jul 2022 07:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[1년 10개월 만이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/a15e900a-c8ca-4c36-93bc-c3304b3624a2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컴백 하루 앞두고 전곡 미리듣기 공개한 위너 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67752</link>
+            <guid>https://www.esquirekorea.co.kr/article/67752</guid>
+            <pubDate>Thu, 14 Jul 2022 16:36:43 GMT</pubDate>
+            <content:encoded><![CDATA[멤버들의 유쾌한 작업기가 함께 공개됐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/5cff84d8-51a9-4be6-bf26-0236b083cfc0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SMTOWN LIVE 2022 : SMCU EXPRESS 개최 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67679</link>
             <guid>https://www.esquirekorea.co.kr/article/67679</guid>
@@ -1499,22 +1515,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 30 Jun 2022 09:19:35 GMT</pubDate>
             <content:encoded><![CDATA[&lt;나의 별에게2&gt; 두 주인공, 손우현과 김강민의 댓글 인터뷰.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/22d6f268-76f7-4e2e-814b-e865f4f0b1f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[있지(ITZY) 콘셉트 포토 공개 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67487</link>
-            <guid>https://www.esquirekorea.co.kr/article/67487</guid>
-            <pubDate>Tue, 28 Jun 2022 17:29:39 GMT</pubDate>
-            <content:encoded><![CDATA[있지의 미니 앨범은 7월 15일 발매된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/fce7720d-d5b9-4024-82a1-433395722968.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소울 장인, 커버 장인 그렉. 이제는 화보 장인 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67443</link>
-            <guid>https://www.esquirekorea.co.kr/article/67443</guid>
-            <pubDate>Wed, 29 Jun 2022 11:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;천국의 계단&gt; OST &lt;보고싶다&gt;, &lt;이태원 클라쓰&gt; OST &lt;가호&gt; 등 커버 장인 그렉형의 에스콰이어...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/79d86d03-c66e-40f0-a30b-850562491bb3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최종 후보작 발표한 제1회 청룡시리즈어워즈 (에스콰이어 코리아 ─ 나우)]]></title>
