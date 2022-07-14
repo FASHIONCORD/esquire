@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 03:55:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 10:29:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NFT버거 '보어드 버거' 두번째 매장 서울 상륙]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67921</link>
+            <guid>https://www.esquirekorea.co.kr/article/67921</guid>
+            <pubDate>Thu, 14 Jul 2022 10:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[한 달에 1번 무료로 메뉴를 제공받을 수 있다?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/b1cc87ff-c488-4fc6-adf4-7714728bc1c0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그린 와인 또는 '비뉴 베르드'를 제대로 아는 방법]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67893</link>
+            <guid>https://www.esquirekorea.co.kr/article/67893</guid>
+            <pubDate>Thu, 14 Jul 2022 10:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[보이는 것은 다 그린이다. 그러나 당신이 알고 있는 그런 초록은 아니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/c7f99c06-4e1d-44c7-8fa2-071e58e14246.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비도 오고 그래서, 전통주 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/67886</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 10 Jul 2022 09:18:36 GMT</pubDate>
             <content:encoded><![CDATA[10분 동안 63개의 핫도그를 먹었다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/f72178be-0b4d-46f4-baff-484e9accab4a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[항공사 최초 맥주 출시한 아시아나항공]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67814</link>
-            <guid>https://www.esquirekorea.co.kr/article/67814</guid>
-            <pubDate>Sat, 09 Jul 2022 06:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[아시아나항공과 코리아 브루어스 콜렉티브, CU의 합작이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/a04e4981-371f-4a09-a27f-b1501cf0f8a2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[떠나자. 치맥의 성지로!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67792</link>
-            <guid>https://www.esquirekorea.co.kr/article/67792</guid>
-            <pubDate>Fri, 08 Jul 2022 10:27:57 GMT</pubDate>
-            <content:encoded><![CDATA[3년 만에 대구 치맥 페스티벌이 열린다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/c731478f-3d97-46e0-8699-85115be26df9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
