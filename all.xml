@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 08:30:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 11:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1261,6 +1261,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/13601190-57db-4a50-93da-ccca7cb332e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[당신이 몰랐던 람보르기니에 대한 이야기 5 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67756</link>
+            <guid>https://www.esquirekorea.co.kr/article/67756</guid>
+            <pubDate>Fri, 15 Jul 2022 11:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[프란체스코 람보르기니 아시아 총괄이 깜짝 공개했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/1a15cb02-f313-45d5-9aba-b67879292515.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전동화에 진심인 볼보가 출시한 새로운 PHEV (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67739</link>
             <guid>https://www.esquirekorea.co.kr/article/67739</guid>
@@ -1315,14 +1323,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sat, 02 Jul 2022 19:17:07 GMT</pubDate>
             <content:encoded><![CDATA[그냥 SL-1200 말고, 기왕이면 50주년 기념 모델로.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/25/5c0dc2aa-540b-49f3-bb12-f60f13026408.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기상천외한 숙소 공모전 개최하는 에어비앤비 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67451</link>
-            <guid>https://www.esquirekorea.co.kr/article/67451</guid>
-            <pubDate>Wed, 29 Jun 2022 21:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[100명을 대상으로 120억 규모의 지원금을 제공한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/600fbc4c-c3e7-42a6-97fc-50f65425ebef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NFT버거 '보어드 버거' 두번째 매장 서울 상륙 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1389,6 +1389,30 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/f72178be-0b4d-46f4-baff-484e9accab4a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KT, 노래 듣고 제목·가수 맞히는 ‘기가지니 송퀴즈’ 출시 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68022</link>
+            <guid>https://www.esquirekorea.co.kr/article/68022</guid>
+            <pubDate>Fri, 15 Jul 2022 11:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[술자리에서 즐기기 좋은 음악 퀴즈 서비스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/9aebae1f-ce07-49fc-b6e8-944660c0840f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국의 알프스 소백산! 단양 여행 풀코스 5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68015</link>
+            <guid>https://www.esquirekorea.co.kr/article/68015</guid>
+            <pubDate>Fri, 15 Jul 2022 11:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[여름 트레킹 즐기러 단양으로 여행을 떠나보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/934798b3-02a4-46c7-b7e4-518d6c1e256c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['이상한 변호사 우영우' 박은빈에 대해 당신이 몰랐던 사실 12 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68007</link>
+            <guid>https://www.esquirekorea.co.kr/article/68007</guid>
+            <pubDate>Fri, 15 Jul 2022 11:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[실제 박은빈과 가장 반대되는 캐릭터는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/ffe668d5-bebc-45d7-99c8-9e55c01e26e3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['이상한 변호사 우영우', 미국에서 리메이크 제안 받다 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/68001</link>
             <guid>https://www.esquirekorea.co.kr/article/68001</guid>
@@ -1427,30 +1451,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 14 Jul 2022 17:30:55 GMT</pubDate>
             <content:encoded><![CDATA[술 한 잔에 책 한 장, 낭만 그 자체.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/78c0950b-7e26-4f0a-ad91-ca0aafe07102.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에미상 남우주연상 후보에 오른 배우 이정재 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67959</link>
-            <guid>https://www.esquirekorea.co.kr/article/67959</guid>
-            <pubDate>Thu, 14 Jul 2022 10:25:52 GMT</pubDate>
-            <content:encoded><![CDATA[아시아 국적 배우와 비영어권 드라마가 남우주연상과 작품상 후보에 오른 건 이번이 처음이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/cfa8db39-f1e8-4e07-9e38-d337a67bf7d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경기 북부 유일의 특급 호텔 '소노캄 고양' 호캉스 후기 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67945</link>
-            <guid>https://www.esquirekorea.co.kr/article/67945</guid>
-            <pubDate>Thu, 14 Jul 2022 10:25:52 GMT</pubDate>
-            <content:encoded><![CDATA[소노캄 고양으로 떠나는 도심 속 바캉스]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/8a4c90db-7690-4592-acb2-898a3c45569d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상에서 가장 얇은 손목시계 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67923</link>
-            <guid>https://www.esquirekorea.co.kr/article/67923</guid>
-            <pubDate>Thu, 14 Jul 2022 03:55:04 GMT</pubDate>
-            <content:encoded><![CDATA[다이얼부터 케이스 백까지 다 합쳐도 1.75mm.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/70d86e31-53cf-4514-9f9d-308754b6bddf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다이나믹듀오, 허성현과 술 한잔! 그들이 술 먹을때 생각나는 노래방 18번은? (에스콰이어 코리아 ─ 피플)]]></title>

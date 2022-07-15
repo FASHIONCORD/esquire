@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 08:30:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 11:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KT, 노래 듣고 제목·가수 맞히는 ‘기가지니 송퀴즈’ 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68022</link>
+            <guid>https://www.esquirekorea.co.kr/article/68022</guid>
+            <pubDate>Fri, 15 Jul 2022 11:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[술자리에서 즐기기 좋은 음악 퀴즈 서비스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/9aebae1f-ce07-49fc-b6e8-944660c0840f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국의 알프스 소백산! 단양 여행 풀코스 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68015</link>
+            <guid>https://www.esquirekorea.co.kr/article/68015</guid>
+            <pubDate>Fri, 15 Jul 2022 11:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[여름 트레킹 즐기러 단양으로 여행을 떠나보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/934798b3-02a4-46c7-b7e4-518d6c1e256c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['이상한 변호사 우영우' 박은빈에 대해 당신이 몰랐던 사실 12]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68007</link>
+            <guid>https://www.esquirekorea.co.kr/article/68007</guid>
+            <pubDate>Fri, 15 Jul 2022 11:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[실제 박은빈과 가장 반대되는 캐릭터는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/ffe668d5-bebc-45d7-99c8-9e55c01e26e3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['이상한 변호사 우영우', 미국에서 리메이크 제안 받다]]></title>
             <link>https://www.esquirekorea.co.kr/article/68001</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 14 Jul 2022 17:30:55 GMT</pubDate>
             <content:encoded><![CDATA[술 한 잔에 책 한 장, 낭만 그 자체.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/78c0950b-7e26-4f0a-ad91-ca0aafe07102.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에미상 남우주연상 후보에 오른 배우 이정재]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67959</link>
-            <guid>https://www.esquirekorea.co.kr/article/67959</guid>
-            <pubDate>Thu, 14 Jul 2022 10:25:52 GMT</pubDate>
-            <content:encoded><![CDATA[아시아 국적 배우와 비영어권 드라마가 남우주연상과 작품상 후보에 오른 건 이번이 처음이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/cfa8db39-f1e8-4e07-9e38-d337a67bf7d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경기 북부 유일의 특급 호텔 '소노캄 고양' 호캉스 후기]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67945</link>
-            <guid>https://www.esquirekorea.co.kr/article/67945</guid>
-            <pubDate>Thu, 14 Jul 2022 10:25:52 GMT</pubDate>
-            <content:encoded><![CDATA[소노캄 고양으로 떠나는 도심 속 바캉스]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/8a4c90db-7690-4592-acb2-898a3c45569d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상에서 가장 얇은 손목시계]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67923</link>
-            <guid>https://www.esquirekorea.co.kr/article/67923</guid>
-            <pubDate>Thu, 14 Jul 2022 03:55:04 GMT</pubDate>
-            <content:encoded><![CDATA[다이얼부터 케이스 백까지 다 합쳐도 1.75mm.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/70d86e31-53cf-4514-9f9d-308754b6bddf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
