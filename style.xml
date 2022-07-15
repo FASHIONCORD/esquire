@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 23:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 06:27:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[물에서도 거뜬한 신발]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67761</link>
+            <guid>https://www.esquirekorea.co.kr/article/67761</guid>
+            <pubDate>Fri, 15 Jul 2022 06:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[전천후 러버 슈즈.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/26226411-3186-420a-a8da-99d7aed5ba47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름 휴가를 위한 러기지 7]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67729</link>
+            <guid>https://www.esquirekorea.co.kr/article/67729</guid>
+            <pubDate>Fri, 15 Jul 2022 06:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[다시 떠날 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/4c4c2c58-7a19-4daf-a97e-845572cd665d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다시 또 여기 바닷가]]></title>
             <link>https://www.esquirekorea.co.kr/article/67724</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 01 Jul 2022 15:22:53 GMT</pubDate>
             <content:encoded><![CDATA[과감하게 드러내고 섬세하게 포착했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/2425b389-f805-4e56-bb51-de0b1e1d52d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디올 여름 2023 맨즈 컬렉션 라이브 생중계]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67445</link>
-            <guid>https://www.esquirekorea.co.kr/article/67445</guid>
-            <pubDate>Fri, 01 Jul 2022 15:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[한국시간으로 6월 24일 금요일 오후 10시, 파리에서 열리는 킴 존스의 DIOR 여름 컬렉션을 &lt;...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/1997cd7d-5b87-4963-abd6-bdab0a0e0054.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<나의 별에게 2>로 돌아온 손우현 X 김강민 첫 단독 화보 풀버전 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67322</link>
-            <guid>https://www.esquirekorea.co.kr/article/67322</guid>
-            <pubDate>Wed, 29 Jun 2022 21:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[지난 주 공개된 그들의 패션 필름은 '에스콰이어 유튜브'에서도 만날 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/20/f7434371-b506-4006-ae91-018e82a758ef.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
