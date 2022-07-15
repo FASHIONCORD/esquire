@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 14:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 16:31:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1325,6 +1325,30 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/25/5c0dc2aa-540b-49f3-bb12-f60f13026408.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[술과 책을 한 번에? 혼자서도 힐링하기 좋은 북바(BOOK + BAR) (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67960</link>
+            <guid>https://www.esquirekorea.co.kr/article/67960</guid>
+            <pubDate>Thu, 14 Jul 2022 17:30:55 GMT</pubDate>
+            <content:encoded><![CDATA[술 한 잔에 책 한 장, 낭만 그 자체.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/78c0950b-7e26-4f0a-ad91-ca0aafe07102.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경기 북부 유일의 특급 호텔 '소노캄 고양' 호캉스 후기 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67945</link>
+            <guid>https://www.esquirekorea.co.kr/article/67945</guid>
+            <pubDate>Fri, 15 Jul 2022 16:30:05 GMT</pubDate>
+            <content:encoded><![CDATA[소노캄 고양으로 떠나는 도심 속 바캉스]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/8a4c90db-7690-4592-acb2-898a3c45569d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호가든 논알코올 음료 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67922</link>
+            <guid>https://www.esquirekorea.co.kr/article/67922</guid>
+            <pubDate>Fri, 15 Jul 2022 16:30:05 GMT</pubDate>
+            <content:encoded><![CDATA[과일의 달콤쌉쌀함과 호가든의 바디감.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/f8f1c23a-90d8-41dc-a6c7-155ccfe8d676.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NFT버거 '보어드 버거' 두번째 매장 서울 상륙 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67921</link>
             <guid>https://www.esquirekorea.co.kr/article/67921</guid>
@@ -1363,30 +1387,6 @@ The New MINI Countryman과 일상에
             <pubDate>Mon, 11 Jul 2022 11:18:28 GMT</pubDate>
             <content:encoded><![CDATA[간단한 안주에 시원한 술 한 잔. 퇴근 테라피가 절실한 요즘. 취향을 저격할 다양한 무드의 주...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/e0c88903-05a8-41e9-8800-05c10c62980d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평양냉면 말고 새로운 여름 별미를 원한다면? 이젠 중국냉면. 미식에 진심인 인스타그래머 4명이 추천한 서울의 중국냉면 맛집 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67862</link>
-            <guid>https://www.esquirekorea.co.kr/article/67862</guid>
-            <pubDate>Mon, 11 Jul 2022 11:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[알싸하고 담백한 중국냉면의 계절이 왔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/10/a4abf8d3-45cb-49de-81ba-1ff33941da3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[편의점도 택시처럼 '심야할증' (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67858</link>
-            <guid>https://www.esquirekorea.co.kr/article/67858</guid>
-            <pubDate>Sat, 09 Jul 2022 23:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[새벽시간엔 물건값 5% 더.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/8db3810d-eebb-4790-9cfe-d66bcb973d22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1위만 15번째인 핫도그 먹기 대회 우승자 등장 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67815</link>
-            <guid>https://www.esquirekorea.co.kr/article/67815</guid>
-            <pubDate>Fri, 08 Jul 2022 09:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[10분 동안 63개의 핫도그를 먹었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/f72178be-0b4d-46f4-baff-484e9accab4a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KT, 노래 듣고 제목·가수 맞히는 ‘기가지니 송퀴즈’ 출시 (에스콰이어 코리아 ─ 라이프)]]></title>
