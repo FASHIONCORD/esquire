@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 23:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 04:32:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손우현, 김강민은 잘생긴 관상?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67911</link>
+            <guid>https://www.esquirekorea.co.kr/article/67911</guid>
+            <pubDate>Sat, 16 Jul 2022 04:31:55 GMT</pubDate>
+            <content:encoded><![CDATA[손우현, 김강민의 사주와 관상풀이가 궁금하다면, 에스콰이어 유튜브 채널을 구독할 것.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/d657db6f-8466-4f8e-8b27-798068fdf5f4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다이나믹듀오, 허성현과 술 한잔! 그들이 술 먹을때 생각나는 노래방 18번은?]]></title>
             <link>https://www.esquirekorea.co.kr/article/67900</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Jul 2022 15:22:06 GMT</pubDate>
             <content:encoded><![CDATA[A컷 못지 않은 그들의 B컷을 공개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/b33f3368-c24e-49a2-8988-ac29d0f7d274.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젠틀몬스터 X 손흥민 팝업 스토어 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67590</link>
-            <guid>https://www.esquirekorea.co.kr/article/67590</guid>
-            <pubDate>Wed, 06 Jul 2022 04:52:02 GMT</pubDate>
-            <content:encoded><![CDATA[7월 5일부터 8월 8일까지 팝업 운영.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/b078dc66-f52b-4ea4-b9a1-0641d0727052.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
