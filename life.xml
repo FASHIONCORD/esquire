@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 23:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 13:49:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 윔블던을 방문한 스타들은 무슨 옷을 입었을까?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68025</link>
+            <guid>https://www.esquirekorea.co.kr/article/68025</guid>
+            <pubDate>Mon, 18 Jul 2022 13:48:41 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;탑건&gt;의 톰 크루즈부터 &lt;로키&gt;의 톰 히들스턴, 류준열까지. 젠틀한 셀럽들이 한자리에 모였다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/c056b044-ca71-49d1-bd45-09a4b3ae708b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리듬파워는 00를 조심해야 한다?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68023</link>
+            <guid>https://www.esquirekorea.co.kr/article/68023</guid>
+            <pubDate>Mon, 18 Jul 2022 13:48:41 GMT</pubDate>
+            <content:encoded><![CDATA[리듬파워의 사주와 관상은 에스콰이어 유튜브 채널을 통해 만나볼 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/ebec5c08-f3e0-48d0-99c7-1aef45c17bbc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT, 노래 듣고 제목·가수 맞히는 ‘기가지니 송퀴즈’ 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/68022</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 15 Jul 2022 06:26:09 GMT</pubDate>
             <content:encoded><![CDATA[30년 이상 우수한 평점과 후기를 보유한 맛집에 주어지는 '백년가게' 인증 마크. 중소기업벤처부...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/251326af-45c7-42f3-918c-9468588732ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에어비앤비 평점 4.5 이상 받은 풀빌라 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67983</link>
-            <guid>https://www.esquirekorea.co.kr/article/67983</guid>
-            <pubDate>Fri, 15 Jul 2022 06:26:09 GMT</pubDate>
-            <content:encoded><![CDATA[검증은 끝났다. 이제 예약만 하면 된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/c21d3aa4-a465-4ae7-8232-eb913a47bd64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[술과 책을 한 번에? 혼자서도 힐링하기 좋은 북바(BOOK + BAR)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67960</link>
-            <guid>https://www.esquirekorea.co.kr/article/67960</guid>
-            <pubDate>Thu, 14 Jul 2022 17:30:55 GMT</pubDate>
-            <content:encoded><![CDATA[술 한 잔에 책 한 장, 낭만 그 자체.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/78c0950b-7e26-4f0a-ad91-ca0aafe07102.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
