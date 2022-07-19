@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 17:33:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 12:42:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[채수빈은 먹을 복이 많다고?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68003</link>
+            <guid>https://www.esquirekorea.co.kr/article/68003</guid>
+            <pubDate>Tue, 19 Jul 2022 12:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[채수빈의 사주와 관상이 궁금하다면?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/c775e571-3796-41a0-86ae-4d4df4c25fe0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['이상한 변호사 우영우', 미국에서 리메이크 제안 받다]]></title>
             <link>https://www.esquirekorea.co.kr/article/68001</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 11 Jul 2022 11:18:54 GMT</pubDate>
             <content:encoded><![CDATA[5년만에 SM엔터테인먼트 합동 콘서트가 열린다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/87953ccd-17b6-4670-9bd0-4c6308bf6c01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소름 돋는 타짜 연기! 강하늘 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67626</link>
-            <guid>https://www.esquirekorea.co.kr/article/67626</guid>
-            <pubDate>Mon, 11 Jul 2022 11:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[불의의 사건으로 교도소에 갇혀 타짜가 된 사법연수생. 강하늘이 강렬하고 파격적인 연기로 돌아...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/47141e18-59f4-4eca-afc3-5379b8a59376.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
