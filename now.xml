@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 12:42:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 13:47:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서거 77년 만에 대한민국 국적 얻은 윤동주 시인]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67958</link>
+            <guid>https://www.esquirekorea.co.kr/article/67958</guid>
+            <pubDate>Tue, 19 Jul 2022 13:46:56 GMT</pubDate>
+            <content:encoded><![CDATA[본적 주소는 독립기념관의 주소인 '독립기념관로 1'로 등록된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/ac86999e-896c-4963-bb3f-8831d91f5d3b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비도 오고 그래서, 전통주 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67886</link>
+            <guid>https://www.esquirekorea.co.kr/article/67886</guid>
+            <pubDate>Tue, 19 Jul 2022 13:46:56 GMT</pubDate>
+            <content:encoded><![CDATA[비 오는 날이면 유독 생각나는 곳, 우리 술을 다채롭게 선보이는 전통주 맛집.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/09/751a53de-26e7-458e-a893-fe45832ce3a9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최종 후보작 발표한 제1회 청룡시리즈어워즈]]></title>
             <link>https://www.esquirekorea.co.kr/article/67816</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 07 Jul 2022 23:22:08 GMT</pubDate>
             <content:encoded><![CDATA[쇠고기 대신 돼지고기, 양상추 대신 양배추를 넣었다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/e395999b-13c9-4259-b855-c1aa39b5de83.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아시아 최초 서울 프리즈에 참여하는 100여 개의 갤러리]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67735</link>
-            <guid>https://www.esquirekorea.co.kr/article/67735</guid>
-            <pubDate>Thu, 07 Jul 2022 23:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[프리즈 마스터즈, 메인, 포커스 아시아 섹션으로 나누어 진행한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/721be0b6-3900-4f58-bbc1-80eba2194c44.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나 19 회복력 1위 국가 차지한 한국]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67734</link>
-            <guid>https://www.esquirekorea.co.kr/article/67734</guid>
-            <pubDate>Thu, 07 Jul 2022 23:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[28위에서 1위까지 올랐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/c89d818d-5698-4362-b324-c8d62666d8c1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
