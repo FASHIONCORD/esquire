@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 10:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 19:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 강렬하고도 경쾌한 비비드 컬러]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67895</link>
+            <guid>https://www.esquirekorea.co.kr/article/67895</guid>
+            <pubDate>Thu, 21 Jul 2022 19:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[한 장으로 시선을 사로 잡을 티셔츠]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/c9f73f04-223d-4774-b4d6-23b36c7997ae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 피부 보호부터 패셔너블함까지, 메시 티셔츠]]></title>
             <link>https://www.esquirekorea.co.kr/article/67852</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 05 Jul 2022 19:18:34 GMT</pubDate>
             <content:encoded><![CDATA[여름에 활용하기 좋은 하프 팬츠]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/88d3f78c-4a83-4a72-9282-b747aa735077.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 뒤로 도는 순간, 진가를 발휘하는 티셔츠]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67377</link>
-            <guid>https://www.esquirekorea.co.kr/article/67377</guid>
-            <pubDate>Sun, 03 Jul 2022 16:27:26 GMT</pubDate>
-            <content:encoded><![CDATA[여름 느낌 물씬 풍기는 프린팅]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/22/09e2f9a1-cd09-4bfd-b1c4-676679b11f77.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
