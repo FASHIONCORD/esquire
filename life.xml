@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 08:31:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 10:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[짜파게티 팝콘 출시한 CGV]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68132</link>
+            <guid>https://www.esquirekorea.co.kr/article/68132</guid>
+            <pubDate>Thu, 21 Jul 2022 10:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[CGV용산아이파크몰에서는 24일까지 샘플링 제공 행사를 진행한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/5ad5db07-8ff9-4023-81ca-63a4b3c12e11.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국 육상 사상 최초로 세계 선수권 대회에서 은메달을 목에 건 우상혁]]></title>
             <link>https://www.esquirekorea.co.kr/article/68105</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 19 Jul 2022 13:46:08 GMT</pubDate>
             <content:encoded><![CDATA[이제 막 생긴 서울 근교의 최신상 숙소 3곳을 소개한다. 가야 할 이유가 이렇게나 많으니 곧 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/88ad1575-38fa-4fca-b549-9c497f42e276.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 윔블던을 방문한 스타들은 무슨 옷을 입었을까?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68025</link>
-            <guid>https://www.esquirekorea.co.kr/article/68025</guid>
-            <pubDate>Mon, 18 Jul 2022 13:48:41 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;탑건&gt;의 톰 크루즈부터 &lt;로키&gt;의 톰 히들스턴, 류준열까지. 젠틀한 셀럽들이 한자리에 모였다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/c056b044-ca71-49d1-bd45-09a4b3ae708b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

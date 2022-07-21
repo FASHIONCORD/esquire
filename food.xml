@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 08:31:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 10:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국의 알프스 소백산! 단양 여행 풀코스 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68015</link>
+            <guid>https://www.esquirekorea.co.kr/article/68015</guid>
+            <pubDate>Thu, 21 Jul 2022 10:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[여름 트레킹 즐기러 단양으로 여행을 떠나보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/934798b3-02a4-46c7-b7e4-518d6c1e256c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메로 어디까지 먹어봤니? 처음 보는 메로 맛집들]]></title>
             <link>https://www.esquirekorea.co.kr/article/67996</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 14 Jul 2022 10:25:14 GMT</pubDate>
             <content:encoded><![CDATA[보이는 것은 다 그린이다. 그러나 당신이 알고 있는 그런 초록은 아니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/c7f99c06-4e1d-44c7-8fa2-071e58e14246.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비도 오고 그래서, 전통주 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67886</link>
-            <guid>https://www.esquirekorea.co.kr/article/67886</guid>
-            <pubDate>Wed, 13 Jul 2022 07:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[비 오는 날이면 유독 생각나는 곳, 우리 술을 다채롭게 선보이는 전통주 맛집.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/09/751a53de-26e7-458e-a893-fe45832ce3a9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
