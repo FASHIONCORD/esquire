@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 22:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 19:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 <더 킬러: 죽어도 되는 아이>에서 눈 여겨 봐야 하는 건 액션의 색감이다.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68137</link>
+            <guid>https://www.esquirekorea.co.kr/article/68137</guid>
+            <pubDate>Sat, 23 Jul 2022 19:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[장혁에게 액션은 다르다. 그는 흔한 주먹질에도 깊고 짙은 희로애락을 담을 수 있다고 믿는다. ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/29a7a32a-f30b-4590-89c8-aac8e839a335.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장혁은 액션배우가 되고 싶은 생각이 없다고 말했다.]]></title>
             <link>https://www.esquirekorea.co.kr/article/68133</link>
@@ -28,7 +36,7 @@
             <guid>https://www.esquirekorea.co.kr/article/68160</guid>
             <pubDate>Fri, 22 Jul 2022 22:20:01 GMT</pubDate>
             <content:encoded><![CDATA[지금은 안효섭의 날이다. 그리고 안효섭은 지금이야말로 우리가 살고 있는 유일한 시간이라는 걸...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/e7ccc60c-af87-4383-8c21-51e17663cbb5.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/23/e7ccc60c-af87-4383-8c21-51e17663cbb5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<사내맞선> 안효섭 "정말 심플한 마인드를 가진 사람"]]></title>
@@ -58,13 +66,6 @@
             <guid>https://www.esquirekorea.co.kr/article/68124</guid>
             <pubDate>Thu, 21 Jul 2022 10:24:19 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/230085c6-86d0-47c1-9929-3b9f595566bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이정재가 직접 밝힌 감독 데뷔작 <헌트>에 깃든 마음과 숨은 의도들]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68118</link>
-            <guid>https://www.esquirekorea.co.kr/article/68118</guid>
-            <pubDate>Thu, 21 Jul 2022 10:24:19 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/d4ea39d2-666d-4dd9-9373-22d3c7b6d293.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
