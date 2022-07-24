@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 14:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 23:31:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단, 베니블랑코와 스눕독의 만남?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68187</link>
+            <guid>https://www.esquirekorea.co.kr/article/68187</guid>
+            <pubDate>Sun, 24 Jul 2022 23:30:06 GMT</pubDate>
+            <content:encoded><![CDATA[8월 5일 새 음원이 발매된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/4721af7e-05fc-4552-a07e-65ad4d65dccc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화 <더 킬러: 죽어도 되는 아이>에서 눈 여겨 봐야 하는 건 액션의 색감이다.]]></title>
             <link>https://www.esquirekorea.co.kr/article/68137</link>
@@ -59,13 +67,6 @@
             <guid>https://www.esquirekorea.co.kr/article/68125</guid>
             <pubDate>Fri, 22 Jul 2022 22:20:01 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/daf575e2-b764-4757-b13c-3fb603aef3c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<헌트>로 스크린에 데뷔하는 고윤정이 현장에서 가장 듣고 싶은 칭찬은?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68124</link>
-            <guid>https://www.esquirekorea.co.kr/article/68124</guid>
-            <pubDate>Thu, 21 Jul 2022 10:24:19 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/230085c6-86d0-47c1-9929-3b9f595566bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

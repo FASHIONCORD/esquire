@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 14:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 23:31:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 여름 셔츠 활용 백서]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67946</link>
+            <guid>https://www.esquirekorea.co.kr/article/67946</guid>
+            <pubDate>Sun, 24 Jul 2022 23:31:07 GMT</pubDate>
+            <content:encoded><![CDATA[화사함과 동시에 라이트한 느낌의 옐로우 셔츠 코디]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/44bb6041-1397-433f-bd48-5a665e7fa350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 강렬하고도 경쾌한 비비드 컬러]]></title>
             <link>https://www.esquirekorea.co.kr/article/67895</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 07 Jul 2022 15:23:03 GMT</pubDate>
             <content:encoded><![CDATA[쿨하면서도 시크한 무드]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/fa3a98b6-4ddc-444c-8776-d2bac3bd2234.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 캐주얼과 클래식한 무드가 한 번에]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67432</link>
-            <guid>https://www.esquirekorea.co.kr/article/67432</guid>
-            <pubDate>Tue, 05 Jul 2022 19:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[여름에 활용하기 좋은 하프 팬츠]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/24/88d3f78c-4a83-4a72-9282-b747aa735077.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
