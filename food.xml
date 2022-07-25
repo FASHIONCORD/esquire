@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 09:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 16:35:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과일 트럭 아저씨가 직접 알려주는! 여름철 과일 고르는 법]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68191</link>
+            <guid>https://www.esquirekorea.co.kr/article/68191</guid>
+            <pubDate>Mon, 25 Jul 2022 16:30:56 GMT</pubDate>
+            <content:encoded><![CDATA[과일 전문가를 직접 만나 물어본 여름철 과일 고르는 방법에 대해 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/105c614c-a0f7-49ca-941f-e02597c1ab66.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멸치로 회를 뜬다? 처음 보는 크기와 비주얼의 멸치 맛집들]]></title>
             <link>https://www.esquirekorea.co.kr/article/68186</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Jul 2022 22:19:39 GMT</pubDate>
             <content:encoded><![CDATA[날이 더워서 카페로 인파가 몰리는 요즘, 그래서 쾌적하고 편하게 이용할 수 있는 대형 카페를...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/9f997cd0-973d-403a-9917-bc908be1c38f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국의 알프스 소백산! 단양 여행 풀코스 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68015</link>
-            <guid>https://www.esquirekorea.co.kr/article/68015</guid>
-            <pubDate>Thu, 21 Jul 2022 10:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[여름 트레킹 즐기러 단양으로 여행을 떠나보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/934798b3-02a4-46c7-b7e4-518d6c1e256c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

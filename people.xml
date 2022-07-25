@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 09:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 16:35:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민수 신곡 '오해 금지' 라이브 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68198</link>
+            <guid>https://www.esquirekorea.co.kr/article/68198</guid>
+            <pubDate>Mon, 25 Jul 2022 16:32:43 GMT</pubDate>
+            <content:encoded><![CDATA[듣기만 해도 기분이 말랑해지는 신곡을 라이브로 준비했습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/ee47ae4a-30ed-4575-8b38-326058b324b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민희진 걸그룹 뉴진스, 너무 궁금했어!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68188</link>
+            <guid>https://www.esquirekorea.co.kr/article/68188</guid>
+            <pubDate>Mon, 25 Jul 2022 16:32:43 GMT</pubDate>
+            <content:encoded><![CDATA[뉴진스의 데뷔가 코앞에 임박했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/dae307ea-4dbf-4549-8b30-6161565d9f4f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단, 베니블랑코와 스눕독의 만남?]]></title>
             <link>https://www.esquirekorea.co.kr/article/68187</link>
@@ -53,20 +69,6 @@
             <pubDate>Fri, 22 Jul 2022 22:20:01 GMT</pubDate>
             <content:encoded><![CDATA[지금은 안효섭의 날이다. 그리고 안효섭은 지금이야말로 우리가 살고 있는 유일한 시간이라는 걸...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/97c37e45-6900-456a-9ec6-32d55bf7b7bb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 전혜진은 <헌트> 촬영 후 이정재, 정우성에 대한 인식이 달라졌다고 말했다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68126</link>
-            <guid>https://www.esquirekorea.co.kr/article/68126</guid>
-            <pubDate>Fri, 22 Jul 2022 22:20:01 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/fa92d6f3-7807-4bda-8def-1c6290df69f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허성태가 <헌트> 예고편을 보며 눈물을 훔쳤던 이유는?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68125</link>
-            <guid>https://www.esquirekorea.co.kr/article/68125</guid>
-            <pubDate>Fri, 22 Jul 2022 22:20:01 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/daf575e2-b764-4757-b13c-3fb603aef3c6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
