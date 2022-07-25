@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 19:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 20:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1197,6 +1197,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/2425b389-f805-4e56-bb51-de0b1e1d52d8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[서울 여의도 상공을 수놓은 ‘IWC 탑건 드론쇼’ (에스콰이어 코리아 ─ 와치)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67018</link>
+            <guid>https://www.esquirekorea.co.kr/article/67018</guid>
+            <pubDate>Mon, 25 Jul 2022 20:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[지난 6월 3일, IWC가 파일럿 워치 ‘탑건’ 라인 신제품 출시를 기념하며 환상적인 드론쇼를 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/08/174617a2-13b6-44eb-b80c-6171ca155dcc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[물 속으로 뛰어든 시계 (에스콰이어 코리아 ─ 와치)]]></title>
             <link>https://www.esquirekorea.co.kr/article/66892</link>
             <guid>https://www.esquirekorea.co.kr/article/66892</guid>
@@ -1251,14 +1259,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 31 May 2022 17:34:02 GMT</pubDate>
             <content:encoded><![CDATA[당신의 마음을 전해줄 올리비아버튼의 럭키 비 미니 탱크 컬렉션 워치.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/ee3dd70e-198e-4b27-8ed8-60536b50b4bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ENGINEERING DREAMS (에스콰이어 코리아 ─ 와치)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66268</link>
-            <guid>https://www.esquirekorea.co.kr/article/66268</guid>
-            <pubDate>Wed, 25 May 2022 11:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[IWC 시계 오너이자 유용욱바베큐연구소를 이끌고 있는 유용욱 소장을 만났다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/13601190-57db-4a50-93da-ccca7cb332e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['NBA 2K23' 커버 모델은 농구 황제 마이클 조던 (에스콰이어 코리아 ─ 카&테크)]]></title>
