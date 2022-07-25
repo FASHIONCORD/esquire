@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 23:31:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 07:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[짜릿한 여름 나기! 전국 공포체험 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68218</link>
+            <guid>https://www.esquirekorea.co.kr/article/68218</guid>
+            <pubDate>Mon, 25 Jul 2022 07:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[에어컨 바람으로도 해소되지 않는 더위, 온 몸을 오싹하게 만들어주는 공포체험으로 날려버리는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/b6a0e32b-6c8a-4af6-ad68-e4553d926259.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버 평점 4.5 이상 받은 서울의 대표 바(bar) 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/68215</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 23 Jul 2022 19:17:19 GMT</pubDate>
             <content:encoded><![CDATA[듣기만 해도 기분이 말랑해지는 신곡을 라이브로 준비했습니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/ee47ae4a-30ed-4575-8b38-326058b324b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과일 트럭 아저씨가 직접 알려주는! 여름철 과일 고르는 법]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68191</link>
-            <guid>https://www.esquirekorea.co.kr/article/68191</guid>
-            <pubDate>Sat, 23 Jul 2022 19:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[과일 전문가를 직접 만나 물어본 여름철 과일 고르는 방법에 대해 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/105c614c-a0f7-49ca-941f-e02597c1ab66.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

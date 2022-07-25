@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 23:31:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 07:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멸치로 회를 뜬다? 처음 보는 크기와 비주얼의 멸치 맛집들]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68186</link>
+            <guid>https://www.esquirekorea.co.kr/article/68186</guid>
+            <pubDate>Mon, 25 Jul 2022 07:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[통통하게 살이 찬 멸치는 회 무침으로도 만날 수 있다. 찌개부터 쌈밥까지 다양한 멸치 요리를...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/75159f2e-778e-4af5-ab9d-fdbca2f9be41.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강원종합박물관, 삼척 여행 풀코스 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68183</link>
+            <guid>https://www.esquirekorea.co.kr/article/68183</guid>
+            <pubDate>Mon, 25 Jul 2022 07:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[여름휴가로 떠나기 좋은 천연 냉장고 강원종합박물관부터 삼척 숙소, 맛집, 카페까지 풀코스로 소...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/21049bf7-8a0a-4d4b-bd8c-556656ce6db8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠캣에서 지금 난리났다는 간편식 베스트 5+1]]></title>
             <link>https://www.esquirekorea.co.kr/article/68163</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 21 Jul 2022 10:22:57 GMT</pubDate>
             <content:encoded><![CDATA[여름 트레킹 즐기러 단양으로 여행을 떠나보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/934798b3-02a4-46c7-b7e4-518d6c1e256c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메로 어디까지 먹어봤니? 처음 보는 메로 맛집들]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67996</link>
-            <guid>https://www.esquirekorea.co.kr/article/67996</guid>
-            <pubDate>Wed, 20 Jul 2022 07:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[메로는 구이 외에도 메로회, 메로찜, 메로지리로도 먹는다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/38460876-3f40-4106-b62e-0d4bb5a5ecb7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['백년가게' 선정된 서울 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67992</link>
-            <guid>https://www.esquirekorea.co.kr/article/67992</guid>
-            <pubDate>Mon, 18 Jul 2022 13:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[30년 이상 우수한 평점과 후기를 보유한 맛집에 주어지는 '백년가게' 인증 마크. 중소기업벤처부...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/251326af-45c7-42f3-918c-9468588732ca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
