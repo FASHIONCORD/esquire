@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 16:35:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 19:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1389,6 +1389,21 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/9f997cd0-973d-403a-9917-bc908be1c38f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[낯선 땅에서 유튜버가 된 5명의 사람들 Part.1 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68154</link>
+            <guid>https://www.esquirekorea.co.kr/article/68154</guid>
+            <pubDate>Mon, 25 Jul 2022 19:19:06 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/08ca70ff-9f2f-4fde-b438-746436598935.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리듬파워 술 자리에 함께하다! (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68228</link>
+            <guid>https://www.esquirekorea.co.kr/article/68228</guid>
+            <pubDate>Mon, 25 Jul 2022 19:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[16분 내내 웃긴 술 자리 얘기가 궁금하다면?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/23/9e06f625-f563-48e5-9e3d-8eafb8158b6d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[짜릿한 여름 나기! 전국 공포체험 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/68218</link>
             <guid>https://www.esquirekorea.co.kr/article/68218</guid>
@@ -1435,22 +1450,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sat, 23 Jul 2022 19:17:19 GMT</pubDate>
             <content:encoded><![CDATA[이전과 다른 새로운 분위기.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/0510c4ce-400d-4888-bd55-78118b57b2db.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 근교 이색 찜질방 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68201</link>
-            <guid>https://www.esquirekorea.co.kr/article/68201</guid>
-            <pubDate>Sat, 23 Jul 2022 19:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[정말 오랜만에 찜질방이 허락된 요즘, 서울과 서울 근교의 이색 찜질방을 찾아보았다. 숲 속 찜...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/8d222f2d-a129-4327-9737-15c5c8c09b54.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민수 신곡 '오해 금지' 라이브 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68198</link>
-            <guid>https://www.esquirekorea.co.kr/article/68198</guid>
-            <pubDate>Sat, 23 Jul 2022 19:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[듣기만 해도 기분이 말랑해지는 신곡을 라이브로 준비했습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/ee47ae4a-30ed-4575-8b38-326058b324b1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[민수 신곡 '오해 금지' 라이브 공개 (에스콰이어 코리아 ─ 피플)]]></title>
