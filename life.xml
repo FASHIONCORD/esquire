@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 07:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 09:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[낯선 땅에서 유튜버가 된 5명의 사람들 Part.2]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68157</link>
+            <guid>https://www.esquirekorea.co.kr/article/68157</guid>
+            <pubDate>Tue, 26 Jul 2022 09:21:00 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/c49d075b-1e02-4650-85d3-742924e4effb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낯선 땅에서 유튜버가 된 5명의 사람들 Part.1]]></title>
             <link>https://www.esquirekorea.co.kr/article/68154</link>
@@ -61,14 +68,6 @@
             <pubDate>Sat, 23 Jul 2022 19:17:19 GMT</pubDate>
             <content:encoded><![CDATA[손흥민의 골 장면도 찾아볼 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/28dc59fe-9f09-4c96-9143-645f492c9ebf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌리 아일리시 새로운 EP 깜짝 발표]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68205</link>
-            <guid>https://www.esquirekorea.co.kr/article/68205</guid>
-            <pubDate>Sat, 23 Jul 2022 19:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[이전과 다른 새로운 분위기.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/0510c4ce-400d-4888-bd55-78118b57b2db.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
