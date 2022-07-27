@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 11:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 17:28:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 여름에도 입기 좋은 니트 베스트 코디]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67706</link>
+            <guid>https://www.esquirekorea.co.kr/article/67706</guid>
+            <pubDate>Wed, 27 Jul 2022 17:28:20 GMT</pubDate>
+            <content:encoded><![CDATA[밋밋한 룩에 포인트 주기에 제격]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/0b579dfe-97b7-4141-9b18-7cde32322b1b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 여름 셔츠 활용 백서]]></title>
             <link>https://www.esquirekorea.co.kr/article/67946</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 10 Jul 2022 21:19:01 GMT</pubDate>
             <content:encoded><![CDATA[간절기에 재킷 하나는 필수]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/e62c8f55-b236-444c-9846-1b4654ac08e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 확신의 컬러, 그레이 팬츠 코디]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67475</link>
-            <guid>https://www.esquirekorea.co.kr/article/67475</guid>
-            <pubDate>Thu, 07 Jul 2022 15:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[쿨하면서도 시크한 무드]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/fa3a98b6-4ddc-444c-8776-d2bac3bd2234.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
