@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 20:27:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 02:01:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서해금빛열차 타고 달리는 서해안 여행]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68034</link>
+            <guid>https://www.esquirekorea.co.kr/article/68034</guid>
+            <pubDate>Fri, 29 Jul 2022 02:00:01 GMT</pubDate>
+            <content:encoded><![CDATA[세계 최초 한옥식 온돌마루 기차에서 여름 휴가를 즐겨보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/16/cc0c8f63-1b96-4046-9b5a-4e985de226b5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노키아의 피처폰엔 블루투스 이어폰이 들어있다?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67991</link>
+            <guid>https://www.esquirekorea.co.kr/article/67991</guid>
+            <pubDate>Fri, 29 Jul 2022 02:00:01 GMT</pubDate>
+            <content:encoded><![CDATA[핸드폰에서 이어폰 충전도 가능하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/a4f8c508-7173-4aef-8c5d-e825d4e7c273.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NFT버거 '보어드 버거' 두번째 매장 서울 상륙]]></title>
             <link>https://www.esquirekorea.co.kr/article/67921</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 11 Jul 2022 21:17:19 GMT</pubDate>
             <content:encoded><![CDATA[바퀴 달린 집을 갖고 싶은가? 그렇다면 최고의 선택은 쉐보레 타호다. 넉넉한 출력, 성인 7명...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/ddb3c424-4e83-4abd-8119-0e9c2d2b4727.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BMW M이 50주년을 기념하는 방법]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67692</link>
-            <guid>https://www.esquirekorea.co.kr/article/67692</guid>
-            <pubDate>Thu, 07 Jul 2022 15:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[50년 전에도 지금도 BMW M은 자신만의 길을 간다. 강력하게.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/10b50f91-4e81-4d1c-a00b-11df3f1c73b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출시 앞둔 애플워치 8 새로운 기능 탑재]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67589</link>
-            <guid>https://www.esquirekorea.co.kr/article/67589</guid>
-            <pubDate>Wed, 06 Jul 2022 11:29:18 GMT</pubDate>
-            <content:encoded><![CDATA[저전력 모두 추가.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/5b75f33f-1aed-4b2b-9c3d-f63227f1924c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
