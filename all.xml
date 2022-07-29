@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 02:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 03:54:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1451,6 +1451,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/28dc59fe-9f09-4c96-9143-645f492c9ebf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[part1. 배우 채수빈은 매일 자신이 느낀 감정의 작동 방식에 대해 쓴다고 했다 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68243</link>
+            <guid>https://www.esquirekorea.co.kr/article/68243</guid>
+            <pubDate>Fri, 29 Jul 2022 03:53:46 GMT</pubDate>
+            <content:encoded><![CDATA[마냥 밝고 화창한 작품에만 나온 건 아니었을지라도. 늘 봄날 같은 따뜻한 미소만 짓는 건 아...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/a451296b-99a8-4ec4-9473-d2b645b6c2ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[리듬파워 술 자리에 함께하다! (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/68228</link>
             <guid>https://www.esquirekorea.co.kr/article/68228</guid>
@@ -1506,11 +1514,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/a9671f69-479e-4799-a6cb-1f87e0e48cc3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[채수빈의 로봇 연기 비하인드는? (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68169</link>
-            <guid>https://www.esquirekorea.co.kr/article/68169</guid>
-            <pubDate>Fri, 22 Jul 2022 22:20:01 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/21/dcf4345c-749b-49e4-a1e1-014d065e43ef.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[영화 <블랜팬서 : 와칸다 포에버> 예고편이 공개됐다 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68253</link>
+            <guid>https://www.esquirekorea.co.kr/article/68253</guid>
+            <pubDate>Fri, 29 Jul 2022 03:54:16 GMT</pubDate>
+            <content:encoded><![CDATA[채드윅 보즈먼이 떠난 이후 와칸다는 어떤 모습일까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/67ddef62-10b2-4bc9-886f-a6f648984e74.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버 평점 4.5 이상 받은 서울의 대표 바(bar) 4 (에스콰이어 코리아 ─ 나우)]]></title>
@@ -1567,14 +1576,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 21 Jul 2022 06:28:31 GMT</pubDate>
             <content:encoded><![CDATA[우상혁 선수가 2022 세계 육상 선수권 대회 남자 높이뛰기 결선에서 2위를 차지했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/9ac74b9d-a5de-4e73-9098-0e10c490920c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기즈모 vs 베이비 요다. 왕눈이, 뾰족귀 원조는? (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68096</link>
-            <guid>https://www.esquirekorea.co.kr/article/68096</guid>
-            <pubDate>Wed, 20 Jul 2022 05:27:21 GMT</pubDate>
-            <content:encoded><![CDATA[베이비 요다가 도용 논란에 휩싸였다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/19/a993eab4-11fb-42ab-97fa-218841ec1e1a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 청량감 가득 머금은 블루 셔츠 (에스콰이어 코리아 ─ 이샵)]]></title>
