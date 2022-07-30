@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 03:54:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 01:50:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마리옹 꼬띠아르와 샤넬 1932 하이 주얼리 컬렉션]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67847</link>
+            <guid>https://www.esquirekorea.co.kr/article/67847</guid>
+            <pubDate>Sat, 30 Jul 2022 01:46:31 GMT</pubDate>
+            <content:encoded><![CDATA[마리옹 꼬띠아르 "솔레이 19 웃트 네크리스와 꼬메뜨 앙피니 링은 저를 감동시키네요."]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/3146a8d8-2ea1-41a1-8b98-1911ca0a7acc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빈티지한 무드로 가득 채운 패션 아이템]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67768</link>
+            <guid>https://www.esquirekorea.co.kr/article/67768</guid>
+            <pubDate>Sat, 30 Jul 2022 01:46:31 GMT</pubDate>
+            <content:encoded><![CDATA[햇볕 아래 빛바랜 듯 여름을 기록하는 물건들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/43303209-2818-4147-8fd7-89ed33ab233c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[물에서도 거뜬한 신발]]></title>
             <link>https://www.esquirekorea.co.kr/article/67761</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 04 Jul 2022 21:20:32 GMT</pubDate>
             <content:encoded><![CDATA[A컷 못지 않은 그들의 B컷을 공개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/b33f3368-c24e-49a2-8988-ac29d0f7d274.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자크뮈스의 수영복]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67578</link>
-            <guid>https://www.esquirekorea.co.kr/article/67578</guid>
-            <pubDate>Sat, 02 Jul 2022 16:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[여름날의 스윔 쇼츠.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/c2a7b320-e23d-40d7-b6ba-41de61f3479e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남자의 보디컨셔스 룩]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67474</link>
-            <guid>https://www.esquirekorea.co.kr/article/67474</guid>
-            <pubDate>Fri, 01 Jul 2022 15:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[과감하게 드러내고 섬세하게 포착했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/27/2425b389-f805-4e56-bb51-de0b1e1d52d8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
