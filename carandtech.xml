@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 08:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 09:28:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강원종합박물관, 삼척 여행 풀코스 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68183</link>
+            <guid>https://www.esquirekorea.co.kr/article/68183</guid>
+            <pubDate>Sat, 30 Jul 2022 09:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[여름휴가로 떠나기 좋은 천연 냉장고 강원종합박물관부터 삼척 숙소, 맛집, 카페까지 풀코스로 소...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/21049bf7-8a0a-4d4b-bd8c-556656ce6db8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서해금빛열차 타고 달리는 서해안 여행]]></title>
             <link>https://www.esquirekorea.co.kr/article/68034</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 14 Jul 2022 16:33:40 GMT</pubDate>
             <content:encoded><![CDATA[볼보는 행동으로 말한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/60469299-d65c-4797-a65d-5342e7a6944c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바퀴달린 집, 쉐보레 타호를 4가지 키워드로 파헤치기]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67730</link>
-            <guid>https://www.esquirekorea.co.kr/article/67730</guid>
-            <pubDate>Mon, 11 Jul 2022 21:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[바퀴 달린 집을 갖고 싶은가? 그렇다면 최고의 선택은 쉐보레 타호다. 넉넉한 출력, 성인 7명...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/ddb3c424-4e83-4abd-8119-0e9c2d2b4727.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
