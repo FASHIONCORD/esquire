@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 09:28:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 13:29:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1388,6 +1388,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/8d222f2d-a129-4327-9737-15c5c8c09b54.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[넷플릭스 신작 마릴린 먼로 드라마 '블론드' 예고편 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68468</link>
+            <guid>https://www.esquirekorea.co.kr/article/68468</guid>
+            <pubDate>Sat, 30 Jul 2022 13:28:01 GMT</pubDate>
+            <content:encoded><![CDATA[마릴린 먼로의 숨겨진 이야기?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/54de8fa9-c052-4869-8ba7-8ccb8beb0abf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[10만원대 전국의 독채 숙소 5 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/68464</link>
             <guid>https://www.esquirekorea.co.kr/article/68464</guid>
@@ -1441,13 +1449,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sat, 30 Jul 2022 01:49:14 GMT</pubDate>
             <content:encoded><![CDATA[10CM가 팬들을 위해 청량미 한가득 담은 라이브 영상을 준비했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/76109802-b889-4a3e-a777-2f2068acb5d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<에스콰이어 US>의 재치있고도 현명한 질답 "우리는 어떤 아빠가 되어야 할까?" (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68330</link>
-            <guid>https://www.esquirekorea.co.kr/article/68330</guid>
-            <pubDate>Sat, 30 Jul 2022 01:49:14 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/986a5f5d-846a-4cb8-80f7-14435a42fcf9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[part1. 배우 채수빈은 매일 자신이 느낀 감정의 작동 방식에 대해 쓴다고 했다 (에스콰이어 코리아 ─ 피플)]]></title>
