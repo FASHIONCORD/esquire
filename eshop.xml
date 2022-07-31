@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 13:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 22:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 빈티지와 스트리트 무드를 동시에]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67709</link>
+            <guid>https://www.esquirekorea.co.kr/article/67709</guid>
+            <pubDate>Sun, 31 Jul 2022 22:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[화이트 &amp; 브라운의 감각적인 조합]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/8f16093a-daf7-4b0f-9ed4-28ccbdb31b1d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 청량감 가득 머금은 블루 셔츠]]></title>
             <link>https://www.esquirekorea.co.kr/article/67708</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 14 Jul 2022 23:28:41 GMT</pubDate>
             <content:encoded><![CDATA[반팔 &amp; 반바지 코디의 좋은 예]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/e18c3f05-5500-42e9-8b92-84aeda460eab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 여름에도 청재킷을 챙겨야 하는 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67695</link>
-            <guid>https://www.esquirekorea.co.kr/article/67695</guid>
-            <pubDate>Tue, 12 Jul 2022 22:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[시원한 무드 연출에는 ‘연청’]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/c57f4efb-5b40-4f27-96f1-b676b5ad7113.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

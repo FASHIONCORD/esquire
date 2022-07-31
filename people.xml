@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 13:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 22:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[part2. 배우 채수빈이 영화 <새콤달콤> 촬영 때 대본을 거의 보지 않고 갔던 이유]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68264</link>
+            <guid>https://www.esquirekorea.co.kr/article/68264</guid>
+            <pubDate>Sun, 31 Jul 2022 22:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[마냥 밝고 화창한 작품에만 나온 건 아니었을지라도. 늘 봄날 같은 따뜻한 미소만 짓는 건 아...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/e1cccd1d-6bf0-448b-bc43-2f036039ec38.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[part1. 배우 채수빈은 매일 자신이 느낀 감정의 작동 방식에 대해 쓴다고 했다]]></title>
             <link>https://www.esquirekorea.co.kr/article/68243</link>
@@ -61,14 +69,6 @@
             <pubDate>Sat, 23 Jul 2022 19:17:42 GMT</pubDate>
             <content:encoded><![CDATA[장혁에게 액션은 다르다. 그는 흔한 주먹질에도 깊고 짙은 희로애락을 담을 수 있다고 믿는다. ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/29a7a32a-f30b-4590-89c8-aac8e839a335.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장혁은 액션배우가 되고 싶은 생각이 없다고 말했다.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68133</link>
-            <guid>https://www.esquirekorea.co.kr/article/68133</guid>
-            <pubDate>Fri, 22 Jul 2022 22:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[장혁에게 액션은 다르다. 그는 흔한 주먹질에도 깊고 짙은 희로애락을 담을 수 있다고 믿는다. ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/a9671f69-479e-4799-a6cb-1f87e0e48cc3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
