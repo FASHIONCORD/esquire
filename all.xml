@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 10:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 20:28:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1197,6 +1197,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/29/b33f3368-c24e-49a2-8988-ac29d0f7d274.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[ENGINEERING DREAMS part. 3 (에스콰이어 코리아 ─ 와치)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/66871</link>
+            <guid>https://www.esquirekorea.co.kr/article/66871</guid>
+            <pubDate>Mon, 01 Aug 2022 20:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[자신만의 스타일로 한국 패션 사진계에 우뚝 선 포토그래퍼 JDZ를 IWC와 함께 만났다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/07/6a3ca2bc-9755-41cb-a9f3-b491ff86939b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서울 여의도 상공을 수놓은 ‘IWC 탑건 드론쇼’ (에스콰이어 코리아 ─ 와치)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67018</link>
             <guid>https://www.esquirekorea.co.kr/article/67018</guid>
@@ -1251,14 +1259,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 27 May 2022 23:21:05 GMT</pubDate>
             <content:encoded><![CDATA[연결되는 순간 펼쳐지는 무적의 퍼포먼스. 배우 위하준이 말하는 커넥티드 칼리버 E4에 대하여.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/19/fc5e6768-d168-4849-9d4f-e6ffa33eb8da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑한다면, 올리비아버튼 (에스콰이어 코리아 ─ 와치)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66263</link>
-            <guid>https://www.esquirekorea.co.kr/article/66263</guid>
-            <pubDate>Tue, 31 May 2022 17:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[당신의 마음을 전해줄 올리비아버튼의 럭키 비 미니 탱크 컬렉션 워치.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/11/ee3dd70e-198e-4b27-8ed8-60536b50b4bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강원종합박물관, 삼척 여행 풀코스 5 (에스콰이어 코리아 ─ 카&테크)]]></title>
