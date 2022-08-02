@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 12:43:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 13:46:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1449,6 +1449,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/5b0072d7-addb-427e-83bb-1487fe7f9f0b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[블랙핑크 컴백 트레일러 공개 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68507</link>
+            <guid>https://www.esquirekorea.co.kr/article/68507</guid>
+            <pubDate>Tue, 02 Aug 2022 12:40:44 GMT</pubDate>
+            <content:encoded><![CDATA[프리 싱글은 8월, 앨범은 9월에 발매된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/7f1ada6a-0b2f-4020-8b11-67e956c4dea4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[과학과 공학을 가지고 노는 법 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/68488</link>
             <guid>https://www.esquirekorea.co.kr/article/68488</guid>
@@ -1505,14 +1513,6 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/a451296b-99a8-4ec4-9473-d2b645b6c2ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리듬파워 술 자리에 함께하다! (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68228</link>
-            <guid>https://www.esquirekorea.co.kr/article/68228</guid>
-            <pubDate>Mon, 25 Jul 2022 19:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[16분 내내 웃긴 술 자리 얘기가 궁금하다면?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/23/9e06f625-f563-48e5-9e3d-8eafb8158b6d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[권정열의 웨이브 댄스 비결? (에스콰이어 코리아 ─ 나우)]]></title>
             <link>https://www.esquirekorea.co.kr/article/68437</link>
             <guid>https://www.esquirekorea.co.kr/article/68437</guid>
@@ -1524,7 +1524,7 @@ The New MINI Countryman과 일상에
             <title><![CDATA[오레오 시나몬 번 샌드위치 쿠키 출시한 동서식품 (에스콰이어 코리아 ─ 나우)]]></title>
             <link>https://www.esquirekorea.co.kr/article/68428</link>
             <guid>https://www.esquirekorea.co.kr/article/68428</guid>
-            <pubDate>Tue, 02 Aug 2022 12:43:03 GMT</pubDate>
+            <pubDate>Tue, 02 Aug 2022 12:40:31 GMT</pubDate>
             <content:encoded><![CDATA[기존에 없던 완전히 새로운 맛을 선보였다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/7d704fc0-cea1-4041-ad17-e4292fe0412e.jpg" length="0" type="image/jpg"/>
         </item>

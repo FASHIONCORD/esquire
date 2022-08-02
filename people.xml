@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 12:43:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 13:46:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 컴백 트레일러 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68507</link>
+            <guid>https://www.esquirekorea.co.kr/article/68507</guid>
+            <pubDate>Tue, 02 Aug 2022 13:45:43 GMT</pubDate>
+            <content:encoded><![CDATA[프리 싱글은 8월, 앨범은 9월에 발매된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/7f1ada6a-0b2f-4020-8b11-67e956c4dea4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[과학과 공학을 가지고 노는 법]]></title>
             <link>https://www.esquirekorea.co.kr/article/68488</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 29 Jul 2022 03:53:46 GMT</pubDate>
             <content:encoded><![CDATA[마냥 밝고 화창한 작품에만 나온 건 아니었을지라도. 늘 봄날 같은 따뜻한 미소만 짓는 건 아...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/a451296b-99a8-4ec4-9473-d2b645b6c2ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리듬파워 술 자리에 함께하다!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68228</link>
-            <guid>https://www.esquirekorea.co.kr/article/68228</guid>
-            <pubDate>Tue, 26 Jul 2022 09:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[16분 내내 웃긴 술 자리 얘기가 궁금하다면?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/23/9e06f625-f563-48e5-9e3d-8eafb8158b6d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
