@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 13:46:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 18:27:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미미와 궁합 좋은 지락실 멤버는?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68515</link>
+            <guid>https://www.esquirekorea.co.kr/article/68515</guid>
+            <pubDate>Tue, 02 Aug 2022 18:25:02 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/309deee6-c099-4c9e-bfb5-87e255f28fd0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BL이 대세? 앞으로 나올 BL 드라마와 캐스팅 라인업!]]></title>
             <link>https://www.esquirekorea.co.kr/article/68511</link>
@@ -59,14 +66,6 @@
             <pubDate>Mon, 01 Aug 2022 22:23:04 GMT</pubDate>
             <content:encoded><![CDATA[강렬한 비트에 전통 악기가 더해졌다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/3d4591b6-a97a-4190-a8cd-775db68cbeb0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이상한 변호사 우영우' 등장인물 SNS 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68470</link>
-            <guid>https://www.esquirekorea.co.kr/article/68470</guid>
-            <pubDate>Sun, 31 Jul 2022 22:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[각 인물의 특징이 고스란히 담겼다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/5b0072d7-addb-427e-83bb-1487fe7f9f0b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
