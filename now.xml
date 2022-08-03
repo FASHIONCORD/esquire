@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 21:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 15:27:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포켓몬스터의 열풍은 어디까지?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68538</link>
+            <guid>https://www.esquirekorea.co.kr/article/68538</guid>
+            <pubDate>Wed, 03 Aug 2022 15:26:25 GMT</pubDate>
+            <content:encoded><![CDATA[아직 끝나지 않은 포켓몬스터 관련 이슈를 모았습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/79672307-f846-4d23-b75a-72d478b168d4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[권정열의 웨이브 댄스 비결?]]></title>
             <link>https://www.esquirekorea.co.kr/article/68437</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 29 Jul 2022 02:01:14 GMT</pubDate>
             <content:encoded><![CDATA[금요일 밤, 실패 없는 바를 찾고 있다면?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/23b15e55-c82f-4e19-9794-6dc8d6c8321c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민수 신곡 '오해 금지' 라이브 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68198</link>
-            <guid>https://www.esquirekorea.co.kr/article/68198</guid>
-            <pubDate>Fri, 29 Jul 2022 02:01:14 GMT</pubDate>
-            <content:encoded><![CDATA[듣기만 해도 기분이 말랑해지는 신곡을 라이브로 준비했습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/ee47ae4a-30ed-4575-8b38-326058b324b1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
