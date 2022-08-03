@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 15:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 21:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1325,12 +1325,44 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/04/1a15cb02-f313-45d5-9aba-b67879292515.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여행길에 들르기 좋은 신상 플레이스 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <title><![CDATA[8월의 신메뉴 선보인 요거프레소 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68553</link>
+            <guid>https://www.esquirekorea.co.kr/article/68553</guid>
+            <pubDate>Wed, 03 Aug 2022 21:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[단품으로도 구매 가능하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/b760283f-dc82-439d-98ba-b2d3c669dfaf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<이상한 변호사 우영우> 소덕동 팽나무 신은 창원? 창원 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68550</link>
+            <guid>https://www.esquirekorea.co.kr/article/68550</guid>
+            <pubDate>Wed, 03 Aug 2022 21:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[아름다운 팽나무도 보고, 맛있는 음식으로 배도 채우고.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/24499f7c-7d31-4c82-bd43-d4174722499a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포켓몬스터의 열풍은 어디까지? (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68538</link>
+            <guid>https://www.esquirekorea.co.kr/article/68538</guid>
+            <pubDate>Wed, 03 Aug 2022 15:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[아직 끝나지 않은 포켓몬스터 관련 이슈를 모았습니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/79672307-f846-4d23-b75a-72d478b168d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10만원대 전국의 독채 숙소 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68464</link>
+            <guid>https://www.esquirekorea.co.kr/article/68464</guid>
+            <pubDate>Wed, 03 Aug 2022 21:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[여름휴가에 편안함과 가성비를 책임져 줄 숙소를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/046bc814-d54c-4c2a-8f45-eff9582eaed9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전국 신상 복합문화공간 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/68455</link>
             <guid>https://www.esquirekorea.co.kr/article/68455</guid>
             <pubDate>Sat, 30 Jul 2022 01:49:14 GMT</pubDate>
             <content:encoded><![CDATA[여행길에 만나는 새로운 공간은 우리의 여행을 더욱 풍부하게 만들어준다. 특별한 추억은 물론 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/ae27f16d-1bee-424f-9b9a-92abd39aae55.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/ae27f16d-1bee-424f-9b9a-92abd39aae55.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KPGA 프로 골퍼 이성수가 추천하는 오켄토션 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1355,37 +1387,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 02 Aug 2022 12:40:31 GMT</pubDate>
             <content:encoded><![CDATA[에비앙 × 스누피 컬렉션과 몬스타엑스 형원이 함께한 청량한 여름 스토리.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/38d8e36c-59e9-4931-ac8b-46f2723d3dfc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가든'이라는 식당의 추억 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68422</link>
-            <guid>https://www.esquirekorea.co.kr/article/68422</guid>
-            <pubDate>Sat, 30 Jul 2022 08:24:57 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/ffb3b85e-0616-4a41-b2a0-bebc1da0c12e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈한지 석 달도 안 된 제주 신상 공간 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68400</link>
-            <guid>https://www.esquirekorea.co.kr/article/68400</guid>
-            <pubDate>Sat, 30 Jul 2022 01:49:14 GMT</pubDate>
-            <content:encoded><![CDATA[제주도 핫플레이스 업데이트가 필요하다면?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/45e81b45-24ee-4402-b4fa-9db43d3a2678.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우영우 김밥 대란 합류! 서울에 이렇게 맛있는 이색 김밥이? (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68317</link>
-            <guid>https://www.esquirekorea.co.kr/article/68317</guid>
-            <pubDate>Sat, 30 Jul 2022 08:24:57 GMT</pubDate>
-            <content:encoded><![CDATA[김밥 먹으러 멀리 가지 않아도 된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/79da4870-c4dc-4c30-8d7c-5c364e32323c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이볼의 인기를 등에 업고 편의점을 점령한 꼬맹이 위스키 7종 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68289</link>
-            <guid>https://www.esquirekorea.co.kr/article/68289</guid>
-            <pubDate>Fri, 29 Jul 2022 02:00:16 GMT</pubDate>
-            <content:encoded><![CDATA[꼬맹이 위스키들이 하이볼의 인기를 등에 업고 편의점을 점령했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/7e3f2a6b-0659-45b4-b4e7-e296b7b62869.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[근대5종 혼성계주 금메달 차지한 전웅태·김선우 선수 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1517,7 +1518,7 @@ The New MINI Countryman과 일상에
             <title><![CDATA[포켓몬스터의 열풍은 어디까지? (에스콰이어 코리아 ─ 나우)]]></title>
             <link>https://www.esquirekorea.co.kr/article/68538</link>
             <guid>https://www.esquirekorea.co.kr/article/68538</guid>
-            <pubDate>Wed, 03 Aug 2022 15:26:25 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2022 15:25:06 GMT</pubDate>
             <content:encoded><![CDATA[아직 끝나지 않은 포켓몬스터 관련 이슈를 모았습니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/79672307-f846-4d23-b75a-72d478b168d4.jpg" length="0" type="image/jpg"/>
         </item>
