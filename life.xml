@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 21:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 11:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[광복 77주년을 기념해 특별 공연 개최하는 문화재청]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68552</link>
+            <guid>https://www.esquirekorea.co.kr/article/68552</guid>
+            <pubDate>Thu, 04 Aug 2022 11:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[공연은 13일 오후 7시 10분부터 시작된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/b7e42b4e-06a8-4ff2-9db0-0043985801d0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[근대5종 혼성계주 금메달 차지한 전웅태·김선우 선수]]></title>
             <link>https://www.esquirekorea.co.kr/article/68551</link>
@@ -60,14 +68,6 @@
             <guid>https://www.esquirekorea.co.kr/article/68487</guid>
             <pubDate>Tue, 02 Aug 2022 12:40:44 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/609be148-cf87-4dbd-886e-088daec7abad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름철 모기 잘 찾고 잘 잡는 꿀팁]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68485</link>
-            <guid>https://www.esquirekorea.co.kr/article/68485</guid>
-            <pubDate>Tue, 02 Aug 2022 12:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[지긋지긋한 모기와의 전쟁에서 쉽게 승리하는 법을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/8ec9dd3c-7c8d-4ce8-8077-3a6e5103ebf3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

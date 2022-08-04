@@ -4,9 +4,31 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 21:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 11:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미미와 궁합 좋은 지락실 멤버는?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68515</link>
+            <guid>https://www.esquirekorea.co.kr/article/68515</guid>
+            <pubDate>Thu, 04 Aug 2022 11:17:10 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/309deee6-c099-4c9e-bfb5-87e255f28fd0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이정재 '관상' 으르렁 버전 직접 본 소감은?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68514</link>
+            <guid>https://www.esquirekorea.co.kr/article/68514</guid>
+            <pubDate>Thu, 04 Aug 2022 11:17:10 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/c28173f3-b85a-44f1-8b4a-f02c9891d71d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BL이 대세? 앞으로 나올 BL 드라마와 캐스팅 라인업!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68511</link>
+            <guid>https://www.esquirekorea.co.kr/article/68511</guid>
+            <pubDate>Thu, 04 Aug 2022 11:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[왓챠의 인기드라마 ‘시멘틱 에러’가 영화화되어 개봉한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/d2a21b36-69cf-4e14-b895-152487349951.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 컴백 트레일러 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/68507</link>
@@ -46,30 +68,6 @@
             <pubDate>Mon, 01 Aug 2022 22:23:14 GMT</pubDate>
             <content:encoded><![CDATA[샛노란 여름을 담은 영상은 유튜브 채널을 통해 확인할 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/0076863b-c1df-4771-bd95-67c35cedbf53.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 신사옥부터 한강의 새로운 인공섬까지, 토마스 헤더윅에게 직접 물어본 그의 디자인 세계]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68159</link>
-            <guid>https://www.esquirekorea.co.kr/article/68159</guid>
-            <pubDate>Mon, 01 Aug 2022 22:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[구글 신사옥을 설계한 디자이너 겸 건축가, 아티스트 토마스 헤더윅의 별명은 ‘21세기의 레오나...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/441ea13a-d282-4b89-800b-ed6d21f1a7cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[part2. 배우 채수빈이 영화 <새콤달콤> 촬영 때 대본을 거의 보지 않고 갔던 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68264</link>
-            <guid>https://www.esquirekorea.co.kr/article/68264</guid>
-            <pubDate>Sun, 31 Jul 2022 22:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[마냥 밝고 화창한 작품에만 나온 건 아니었을지라도. 늘 봄날 같은 따뜻한 미소만 짓는 건 아...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/e1cccd1d-6bf0-448b-bc43-2f036039ec38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[part1. 배우 채수빈은 매일 자신이 느낀 감정의 작동 방식에 대해 쓴다고 했다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68243</link>
-            <guid>https://www.esquirekorea.co.kr/article/68243</guid>
-            <pubDate>Fri, 29 Jul 2022 03:53:46 GMT</pubDate>
-            <content:encoded><![CDATA[마냥 밝고 화창한 작품에만 나온 건 아니었을지라도. 늘 봄날 같은 따뜻한 미소만 짓는 건 아...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/26/a451296b-99a8-4ec4-9473-d2b645b6c2ba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

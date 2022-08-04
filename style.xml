@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 21:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 11:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 윔블던을 방문한 스타들은 무슨 옷을 입었을까?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68025</link>
+            <guid>https://www.esquirekorea.co.kr/article/68025</guid>
+            <pubDate>Thu, 04 Aug 2022 11:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;탑건&gt;의 톰 크루즈부터 &lt;로키&gt;의 톰 히들스턴, 류준열까지. 젠틀한 셀럽들이 한자리에 모였다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/c056b044-ca71-49d1-bd45-09a4b3ae708b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[펑키한 네크리스]]></title>
             <link>https://www.esquirekorea.co.kr/article/67888</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Jul 2022 09:20:02 GMT</pubDate>
             <content:encoded><![CDATA[바버샵이라고 옆머리를 하얗게 밀기만 하는 건 아니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/5755a699-7faa-4125-8d20-4d6f6f3e5975.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해변을 위한 옷]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67624</link>
-            <guid>https://www.esquirekorea.co.kr/article/67624</guid>
-            <pubDate>Thu, 07 Jul 2022 15:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[여름이 내게로 왔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/b4205c68-14c6-4093-bb99-7baf6a268f5b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
