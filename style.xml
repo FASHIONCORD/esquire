@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 11:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 18:31:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[샤넬 1932 하이 주얼리 컬렉션 알뤼르 셀레스테]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68339</link>
+            <guid>https://www.esquirekorea.co.kr/article/68339</guid>
+            <pubDate>Thu, 04 Aug 2022 18:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[사파이어는 밤처럼 푸르고, 다이아몬드는 강렬한 푸른 빛을 뽐낸다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/165077ba-616b-4688-a085-f2cad8311545.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디지털 혁신을 바탕으로 소통형 경험을 제공하는 공간, 나이키 스타일 홍대 오픈]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68026</link>
+            <guid>https://www.esquirekorea.co.kr/article/68026</guid>
+            <pubDate>Thu, 04 Aug 2022 18:26:33 GMT</pubDate>
+            <content:encoded><![CDATA[콘텐츠 제작부터 스니커즈 커스텀까지. 크리에이티브 한 활동을 직접 경험할 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/fa7a1ddc-575c-4926-a3c8-783b3f5a2339.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 윔블던을 방문한 스타들은 무슨 옷을 입었을까?]]></title>
             <link>https://www.esquirekorea.co.kr/article/68025</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 15 Jul 2022 06:24:42 GMT</pubDate>
             <content:encoded><![CDATA[다시 떠날 시간.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/4c4c2c58-7a19-4daf-a97e-845572cd665d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 또 여기 바닷가]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67724</link>
-            <guid>https://www.esquirekorea.co.kr/article/67724</guid>
-            <pubDate>Sat, 09 Jul 2022 18:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[가볍게 챙겨 훌쩍 떠나고 싶어지는 비치 타월.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/02/6096df85-ea60-4cc1-8f4c-e596709166f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이비리그컷은 이제 그만. 바버들이 추천하는 올여름 새롭게 유행할 헤어스타일.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67699</link>
-            <guid>https://www.esquirekorea.co.kr/article/67699</guid>
-            <pubDate>Fri, 08 Jul 2022 09:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[바버샵이라고 옆머리를 하얗게 밀기만 하는 건 아니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/01/5755a699-7faa-4125-8d20-4d6f6f3e5975.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
