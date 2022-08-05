@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 05:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 14:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6년 만에 정규 7집 발매한 비욘세]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68542</link>
+            <guid>https://www.esquirekorea.co.kr/article/68542</guid>
+            <pubDate>Fri, 05 Aug 2022 14:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[더 드림, 나일 로저스, 라파엘 사딕, 마이크 딘, 루크 솔로몬 등 세계적인 아티스트들이 대거 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/f4930c5e-8f50-4016-b8be-b88d52002e94.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포켓몬스터의 열풍은 어디까지?]]></title>
             <link>https://www.esquirekorea.co.kr/article/68538</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 29 Jul 2022 03:54:16 GMT</pubDate>
             <content:encoded><![CDATA[채드윅 보즈먼이 떠난 이후 와칸다는 어떤 모습일까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/67ddef62-10b2-4bc9-886f-a6f648984e74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 평점 4.5 이상 받은 서울의 대표 바(bar) 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68215</link>
-            <guid>https://www.esquirekorea.co.kr/article/68215</guid>
-            <pubDate>Fri, 29 Jul 2022 02:01:14 GMT</pubDate>
-            <content:encoded><![CDATA[금요일 밤, 실패 없는 바를 찾고 있다면?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/22/23b15e55-c82f-4e19-9794-6dc8d6c8321c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

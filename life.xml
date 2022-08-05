@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 05:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 14:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해 생긴 후암동 새 공간  4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68584</link>
+            <guid>https://www.esquirekorea.co.kr/article/68584</guid>
+            <pubDate>Fri, 05 Aug 2022 14:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[카페, 리빙샵, 복화문화공간까지. 후암동 골목에 생기를 불어 넣은 새로운 공간을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/518c3a7c-bb59-4577-9543-78cea22759de.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무라카미 타키시가 만든 우노 게임 카드]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68579</link>
+            <guid>https://www.esquirekorea.co.kr/article/68579</guid>
+            <pubDate>Fri, 05 Aug 2022 14:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[카이카이 키키 프린트가 한 가득.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/bd502b13-0e24-4e86-9203-68cfe27baf2c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["말 타러 갈래?" 승마를 하기 전 알아야 할 것]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68560</link>
+            <guid>https://www.esquirekorea.co.kr/article/68560</guid>
+            <pubDate>Fri, 05 Aug 2022 14:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[박차를 가하다. 굴레에서 벗어나다. 고삐가 풀렸다. 선거에 낙마했다. 승마에서 비롯된 말이 잔뜩...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/204dc42d-b1e0-4b3a-8eec-09561383a0e3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[광복 77주년을 기념해 특별 공연 개최하는 문화재청]]></title>
             <link>https://www.esquirekorea.co.kr/article/68552</link>
@@ -45,29 +69,6 @@
             <guid>https://www.esquirekorea.co.kr/article/68515</guid>
             <pubDate>Tue, 02 Aug 2022 18:25:02 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/309deee6-c099-4c9e-bfb5-87e255f28fd0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BL이 대세? 앞으로 나올 BL 드라마와 캐스팅 라인업!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68511</link>
-            <guid>https://www.esquirekorea.co.kr/article/68511</guid>
-            <pubDate>Tue, 02 Aug 2022 12:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[왓챠의 인기드라마 ‘시멘틱 에러’가 영화화되어 개봉한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/d2a21b36-69cf-4e14-b895-152487349951.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙핑크 컴백 트레일러 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68507</link>
-            <guid>https://www.esquirekorea.co.kr/article/68507</guid>
-            <pubDate>Tue, 02 Aug 2022 12:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[프리 싱글은 8월, 앨범은 9월에 발매된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/7f1ada6a-0b2f-4020-8b11-67e956c4dea4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태국이 대마초를 합법화한 진짜 이유는 뭘까?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68487</link>
-            <guid>https://www.esquirekorea.co.kr/article/68487</guid>
-            <pubDate>Tue, 02 Aug 2022 12:40:44 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/609be148-cf87-4dbd-886e-088daec7abad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
