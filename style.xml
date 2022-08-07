@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 03:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 04:29:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태양을 품은 네크리스]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68384</link>
+            <guid>https://www.esquirekorea.co.kr/article/68384</guid>
+            <pubDate>Sun, 07 Aug 2022 04:26:30 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬 1932 하이 주얼리 컬렉션 솔레이 19 웃트 네크리스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/c2d99102-1906-45f3-b7f6-bc134602801f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤넬 1932 하이 주얼리 컬렉션 알뤼르 셀레스테]]></title>
             <link>https://www.esquirekorea.co.kr/article/68339</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 15 Jul 2022 06:24:42 GMT</pubDate>
             <content:encoded><![CDATA[전천후 러버 슈즈.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/26226411-3186-420a-a8da-99d7aed5ba47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 휴가를 위한 러기지 7]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67729</link>
-            <guid>https://www.esquirekorea.co.kr/article/67729</guid>
-            <pubDate>Fri, 15 Jul 2022 06:24:42 GMT</pubDate>
-            <content:encoded><![CDATA[다시 떠날 시간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/4c4c2c58-7a19-4daf-a97e-845572cd665d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 03:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 04:29:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1133,6 +1133,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[태양을 품은 네크리스 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68384</link>
+            <guid>https://www.esquirekorea.co.kr/article/68384</guid>
+            <pubDate>Sun, 07 Aug 2022 04:26:30 GMT</pubDate>
+            <content:encoded><![CDATA[샤넬 1932 하이 주얼리 컬렉션 솔레이 19 웃트 네크리스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/c2d99102-1906-45f3-b7f6-bc134602801f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[샤넬 1932 하이 주얼리 컬렉션 알뤼르 셀레스테 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/68339</link>
             <guid>https://www.esquirekorea.co.kr/article/68339</guid>
@@ -1187,14 +1195,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 15 Jul 2022 06:24:42 GMT</pubDate>
             <content:encoded><![CDATA[전천후 러버 슈즈.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/05/26226411-3186-420a-a8da-99d7aed5ba47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 휴가를 위한 러기지 7 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67729</link>
-            <guid>https://www.esquirekorea.co.kr/article/67729</guid>
-            <pubDate>Fri, 15 Jul 2022 06:24:42 GMT</pubDate>
-            <content:encoded><![CDATA[다시 떠날 시간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/03/4c4c2c58-7a19-4daf-a97e-845572cd665d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ENGINEERING DREAMS part. 3 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1325,6 +1325,38 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/bf30ffd6-1986-46c9-8fbd-bfeff551ffa2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[하이트진로, 증류식 소주 ‘진로 1924 헤리티지’ 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68592</link>
+            <guid>https://www.esquirekorea.co.kr/article/68592</guid>
+            <pubDate>Sun, 07 Aug 2022 04:27:05 GMT</pubDate>
+            <content:encoded><![CDATA[5일부터 더현대서울 팝업스토어 운영]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/ae76b23f-3953-4161-8c98-173bdac97c8b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오뚜기 ‘컵누들’ 신제품 2종 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68590</link>
+            <guid>https://www.esquirekorea.co.kr/article/68590</guid>
+            <pubDate>Sun, 07 Aug 2022 04:27:05 GMT</pubDate>
+            <content:encoded><![CDATA[짜장맛, 로제맛.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/60604468-7e9b-4e4b-ac79-cb3288b62cad.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올해 생긴 후암동 새 공간  4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68584</link>
+            <guid>https://www.esquirekorea.co.kr/article/68584</guid>
+            <pubDate>Fri, 05 Aug 2022 14:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[카페, 리빙샵, 복화문화공간까지. 후암동 골목에 생기를 불어 넣은 새로운 공간을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/518c3a7c-bb59-4577-9543-78cea22759de.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리미티드 로컬 스페셜 샌드위치 '머쉬룸썹' 출시한 써브웨이 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68554</link>
+            <guid>https://www.esquirekorea.co.kr/article/68554</guid>
+            <pubDate>Sun, 07 Aug 2022 04:27:05 GMT</pubDate>
+            <content:encoded><![CDATA[가격은 15cm 샌드위치 기준 머쉬룸썹 5600원, 머쉬룸썹 샐러드는 7300원이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/1baa6680-6ca6-4a04-8ed1-01cd2d248116.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[8월의 신메뉴 선보인 요거프레소 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/68553</link>
             <guid>https://www.esquirekorea.co.kr/article/68553</guid>
@@ -1355,38 +1387,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 03 Aug 2022 21:19:18 GMT</pubDate>
             <content:encoded><![CDATA[여름휴가에 편안함과 가성비를 책임져 줄 숙소를 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/046bc814-d54c-4c2a-8f45-eff9582eaed9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전국 신상 복합문화공간 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68455</link>
-            <guid>https://www.esquirekorea.co.kr/article/68455</guid>
-            <pubDate>Sat, 30 Jul 2022 01:49:14 GMT</pubDate>
-            <content:encoded><![CDATA[여행길에 만나는 새로운 공간은 우리의 여행을 더욱 풍부하게 만들어준다. 특별한 추억은 물론 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/ae27f16d-1bee-424f-9b9a-92abd39aae55.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KPGA 프로 골퍼 이성수가 추천하는 오켄토션 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68081</link>
-            <guid>https://www.esquirekorea.co.kr/article/68081</guid>
-            <pubDate>Tue, 02 Aug 2022 12:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[싱글몰트 위스키 오켄토션 12년으로 만나는 여름 칵테일.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/6d8cb73c-7cfb-411c-a0c6-4a1b32f32ff4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오레오 시나몬 번 샌드위치 쿠키 출시한 동서식품 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68428</link>
-            <guid>https://www.esquirekorea.co.kr/article/68428</guid>
-            <pubDate>Tue, 02 Aug 2022 12:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[기존에 없던 완전히 새로운 맛을 선보였다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/7d704fc0-cea1-4041-ad17-e4292fe0412e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몬스타엑스 형원, 프랑스 프리미엄 워터 에비앙의 스누피 컬렉션과 함께 한 여름 화보 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68343</link>
-            <guid>https://www.esquirekorea.co.kr/article/68343</guid>
-            <pubDate>Tue, 02 Aug 2022 12:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[에비앙 × 스누피 컬렉션과 몬스타엑스 형원이 함께한 청량한 여름 스토리.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/38d8e36c-59e9-4931-ac8b-46f2723d3dfc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전혜진 수상소감 못 보겠다고 한 이유? (에스콰이어 코리아 ─ 라이프)]]></title>
