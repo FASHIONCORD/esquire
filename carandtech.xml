@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 14:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 03:29:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여행 떠나기 전 필수! 꼭 확인해야 할 스마트폰 보안 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67939</link>
+            <guid>https://www.esquirekorea.co.kr/article/67939</guid>
+            <pubDate>Sun, 07 Aug 2022 03:28:13 GMT</pubDate>
+            <content:encoded><![CDATA[스마트폰을 잃어버린다면? 그래서 스마트폰에 저장된 정보가 유출된다면? 이런 고민에 대해 7월 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/f9ac2c51-9c6f-42db-86a7-910ce3f4164d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SUV 생태계 교란종 쌍용 토레스 4가지 키워드로 해부하기]]></title>
             <link>https://www.esquirekorea.co.kr/article/68369</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 23 Jul 2022 19:16:25 GMT</pubDate>
             <content:encoded><![CDATA[그의 등번호 23번을 기념하는 'NBA 2K'의 2023년 버전이 사전 판매를 시작했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/bf30ffd6-1986-46c9-8fbd-bfeff551ffa2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전기차 브랜드 폴스타(Polestar)가 만든 오두막]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67803</link>
-            <guid>https://www.esquirekorea.co.kr/article/67803</guid>
-            <pubDate>Sat, 23 Jul 2022 19:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[핀란드 피스카스의 숲속에 설치했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/06/138320e2-494f-43df-b826-cc51a8827799.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

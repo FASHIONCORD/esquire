@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 14:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 03:29:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전혜진 수상소감 못 보겠다고 한 이유?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68596</link>
+            <guid>https://www.esquirekorea.co.kr/article/68596</guid>
+            <pubDate>Sun, 07 Aug 2022 03:28:49 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/1e350ce3-8c3d-46ed-99d5-0c863f8fe5d0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해 생긴 후암동 새 공간  4]]></title>
             <link>https://www.esquirekorea.co.kr/article/68584</link>
@@ -62,13 +69,6 @@
             <pubDate>Wed, 03 Aug 2022 15:25:06 GMT</pubDate>
             <content:encoded><![CDATA[아직 끝나지 않은 포켓몬스터 관련 이슈를 모았습니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/79672307-f846-4d23-b75a-72d478b168d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미미와 궁합 좋은 지락실 멤버는?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68515</link>
-            <guid>https://www.esquirekorea.co.kr/article/68515</guid>
-            <pubDate>Tue, 02 Aug 2022 18:25:02 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/309deee6-c099-4c9e-bfb5-87e255f28fd0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
