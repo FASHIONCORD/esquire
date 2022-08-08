@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 21:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 16:36:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[근대5종 혼성계주 금메달 차지한 전웅태·김선우 선수]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68551</link>
+            <guid>https://www.esquirekorea.co.kr/article/68551</guid>
+            <pubDate>Mon, 08 Aug 2022 16:36:02 GMT</pubDate>
+            <content:encoded><![CDATA[이번 세계선수권대회에서 한국은 금메달 2개, 은메달 1개, 동메달 1개로 역대 최고 성적을 기록...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/5fa51078-ad27-478e-bbed-0b5a4eb70e53.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6년 만에 정규 7집 발매한 비욘세]]></title>
             <link>https://www.esquirekorea.co.kr/article/68542</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 Aug 2022 12:43:03 GMT</pubDate>
             <content:encoded><![CDATA[10CM가 팬들을 위해 청량미 한가득 담은 라이브 영상을 준비했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/28/76109802-b889-4a3e-a777-2f2068acb5d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 <블랜팬서 : 와칸다 포에버> 예고편이 공개됐다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68253</link>
-            <guid>https://www.esquirekorea.co.kr/article/68253</guid>
-            <pubDate>Fri, 29 Jul 2022 03:54:16 GMT</pubDate>
-            <content:encoded><![CDATA[채드윅 보즈먼이 떠난 이후 와칸다는 어떤 모습일까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/25/67ddef62-10b2-4bc9-886f-a6f648984e74.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
