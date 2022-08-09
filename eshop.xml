@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 01:54:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 04:43:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 싱그러운 여름 느낌 가득, 플라워 패턴 원피스]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68333</link>
+            <guid>https://www.esquirekorea.co.kr/article/68333</guid>
+            <pubDate>Tue, 09 Aug 2022 04:43:39 GMT</pubDate>
+            <content:encoded><![CDATA[다채롭고 유쾌한 여름 무드를 한껏 담아]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/4da3f83b-7182-4f16-8680-6c2fa35ce5f5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 따가운 햇빛 걱정 없이 시원한 바캉스룩]]></title>
             <link>https://www.esquirekorea.co.kr/article/68241</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Jul 2022 19:22:14 GMT</pubDate>
             <content:encoded><![CDATA[한 장으로 시선을 사로 잡을 티셔츠]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/c9f73f04-223d-4774-b4d6-23b36c7997ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 피부 보호부터 패셔너블함까지, 메시 티셔츠]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67852</link>
-            <guid>https://www.esquirekorea.co.kr/article/67852</guid>
-            <pubDate>Wed, 20 Jul 2022 05:28:17 GMT</pubDate>
-            <content:encoded><![CDATA[자외선으로부터 해방]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/ffda89e7-077d-403d-a5fc-14ad17e5b5fc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

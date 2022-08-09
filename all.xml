@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 01:54:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 04:43:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1389,6 +1389,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/046bc814-d54c-4c2a-8f45-eff9582eaed9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[두산 베어스 선수들이 즐겨 찾는 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68627</link>
+            <guid>https://www.esquirekorea.co.kr/article/68627</guid>
+            <pubDate>Tue, 09 Aug 2022 04:42:55 GMT</pubDate>
+            <content:encoded><![CDATA[먹산 주목! 두산 베어스 선수들이 경기를 끝내고 가는 식당부터 단골 회식 장소까지. 맛집만 찾...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/6ea11ce8-537a-4162-a290-eed8de14c9dd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[물놀이 가능한! 서울 근교 계곡 카페 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/68625</link>
             <guid>https://www.esquirekorea.co.kr/article/68625</guid>
@@ -1441,14 +1449,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 04 Aug 2022 11:17:01 GMT</pubDate>
             <content:encoded><![CDATA[공연은 13일 오후 7시 10분부터 시작된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/b7e42b4e-06a8-4ff2-9db0-0043985801d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[근대5종 혼성계주 금메달 차지한 전웅태·김선우 선수 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68551</link>
-            <guid>https://www.esquirekorea.co.kr/article/68551</guid>
-            <pubDate>Wed, 03 Aug 2022 15:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[이번 세계선수권대회에서 한국은 금메달 2개, 은메달 1개, 동메달 1개로 역대 최고 성적을 기록...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/5fa51078-ad27-478e-bbed-0b5a4eb70e53.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<나의 별에게 2> 주인공 단독 화보! 손우현, 김강민의 패션 필름 밤 버전 오픈 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1577,6 +1577,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/7d704fc0-cea1-4041-ad17-e4292fe0412e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Eshop] 싱그러운 여름 느낌 가득, 플라워 패턴 원피스 (에스콰이어 코리아 ─ 이샵)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68333</link>
+            <guid>https://www.esquirekorea.co.kr/article/68333</guid>
+            <pubDate>Tue, 09 Aug 2022 04:43:39 GMT</pubDate>
+            <content:encoded><![CDATA[다채롭고 유쾌한 여름 무드를 한껏 담아]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/27/4da3f83b-7182-4f16-8680-6c2fa35ce5f5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Eshop] 따가운 햇빛 걱정 없이 시원한 바캉스룩 (에스콰이어 코리아 ─ 이샵)]]></title>
             <link>https://www.esquirekorea.co.kr/article/68241</link>
             <guid>https://www.esquirekorea.co.kr/article/68241</guid>
@@ -1631,14 +1639,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 21 Jul 2022 19:22:14 GMT</pubDate>
             <content:encoded><![CDATA[한 장으로 시선을 사로 잡을 티셔츠]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/c9f73f04-223d-4774-b4d6-23b36c7997ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 피부 보호부터 패셔너블함까지, 메시 티셔츠 (에스콰이어 코리아 ─ 이샵)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67852</link>
-            <guid>https://www.esquirekorea.co.kr/article/67852</guid>
-            <pubDate>Wed, 20 Jul 2022 05:28:17 GMT</pubDate>
-            <content:encoded><![CDATA[자외선으로부터 해방]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/ffda89e7-077d-403d-a5fc-14ad17e5b5fc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

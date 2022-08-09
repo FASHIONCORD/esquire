@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 01:54:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 04:43:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두산 베어스 선수들이 즐겨 찾는 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68627</link>
+            <guid>https://www.esquirekorea.co.kr/article/68627</guid>
+            <pubDate>Tue, 09 Aug 2022 04:42:55 GMT</pubDate>
+            <content:encoded><![CDATA[먹산 주목! 두산 베어스 선수들이 경기를 끝내고 가는 식당부터 단골 회식 장소까지. 맛집만 찾...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/6ea11ce8-537a-4162-a290-eed8de14c9dd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[물놀이 가능한! 서울 근교 계곡 카페 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/68625</link>
@@ -60,14 +68,6 @@
             <pubDate>Thu, 04 Aug 2022 11:17:01 GMT</pubDate>
             <content:encoded><![CDATA[공연은 13일 오후 7시 10분부터 시작된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/b7e42b4e-06a8-4ff2-9db0-0043985801d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[근대5종 혼성계주 금메달 차지한 전웅태·김선우 선수]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68551</link>
-            <guid>https://www.esquirekorea.co.kr/article/68551</guid>
-            <pubDate>Wed, 03 Aug 2022 15:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[이번 세계선수권대회에서 한국은 금메달 2개, 은메달 1개, 동메달 1개로 역대 최고 성적을 기록...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/5fa51078-ad27-478e-bbed-0b5a4eb70e53.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
