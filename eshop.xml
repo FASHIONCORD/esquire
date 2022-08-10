@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 10:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 15:25:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 여름 데님 셔츠, 이렇게 입으면 인정]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68424</link>
+            <guid>https://www.esquirekorea.co.kr/article/68424</guid>
+            <pubDate>Wed, 10 Aug 2022 15:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[오히려 좋아! 청량감을 듬뿍 담은 것 같은 청청패션]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/224df9a5-b7f4-4aed-9782-5cf715790ae9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 싱그러운 여름 느낌 가득, 플라워 패턴 원피스]]></title>
             <link>https://www.esquirekorea.co.kr/article/68333</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 24 Jul 2022 23:31:07 GMT</pubDate>
             <content:encoded><![CDATA[화사함과 동시에 라이트한 느낌의 옐로우 셔츠 코디]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/13/44bb6041-1397-433f-bd48-5a665e7fa350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 강렬하고도 경쾌한 비비드 컬러]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67895</link>
-            <guid>https://www.esquirekorea.co.kr/article/67895</guid>
-            <pubDate>Thu, 21 Jul 2022 19:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[한 장으로 시선을 사로 잡을 티셔츠]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/c9f73f04-223d-4774-b4d6-23b36c7997ae.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
