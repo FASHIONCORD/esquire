@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 18:30:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 10:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[풍선껌맛 술 어때요?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68628</link>
+            <guid>https://www.esquirekorea.co.kr/article/68628</guid>
+            <pubDate>Wed, 10 Aug 2022 10:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[풍선껌맛 난다고 병나발 불지 않기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/e831c747-eaea-4f4f-8c04-2727a14efc35.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해 생긴 후암동 새 공간  4]]></title>
             <link>https://www.esquirekorea.co.kr/article/68584</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 02 Aug 2022 12:43:03 GMT</pubDate>
             <content:encoded><![CDATA[10CM에 대해 궁금했던 사실을 세세하게 묻고 답했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/acb7303b-56d6-4bb7-ad06-def4fd2dd510.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오레오 시나몬 번 샌드위치 쿠키 출시한 동서식품]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68428</link>
-            <guid>https://www.esquirekorea.co.kr/article/68428</guid>
-            <pubDate>Tue, 02 Aug 2022 12:43:03 GMT</pubDate>
-            <content:encoded><![CDATA[기존에 없던 완전히 새로운 맛을 선보였다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/7d704fc0-cea1-4041-ad17-e4292fe0412e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

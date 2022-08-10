@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 18:30:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 10:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈트의 반란]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68259</link>
+            <guid>https://www.esquirekorea.co.kr/article/68259</guid>
+            <pubDate>Wed, 10 Aug 2022 10:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 태도로 입는 슈트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/7bab5a33-0dc5-4144-abde-183be9afa317.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리헤이&넉스 돌체앤가바나 에어마스터 화보 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68619</link>
+            <guid>https://www.esquirekorea.co.kr/article/68619</guid>
+            <pubDate>Wed, 10 Aug 2022 10:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[돌체앤가바나 에어마스터를 신고 멋진 춤을 선보인 리헤이와 넉스의 화보를 만나보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/057c7bdc-68cd-4066-9dc7-aa61746bfa33.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[좀 더 특별한 여름 주얼리]]></title>
             <link>https://www.esquirekorea.co.kr/article/68284</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 02 Aug 2022 18:22:43 GMT</pubDate>
             <content:encoded><![CDATA[과감하고 유쾌하게 걸치고 싶은 네크리스 6.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/10/6be00352-24fb-4adc-b907-4a6c24fa3bc4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마리옹 꼬띠아르와 샤넬 1932 하이 주얼리 컬렉션]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67847</link>
-            <guid>https://www.esquirekorea.co.kr/article/67847</guid>
-            <pubDate>Sat, 30 Jul 2022 01:46:31 GMT</pubDate>
-            <content:encoded><![CDATA[마리옹 꼬띠아르 "솔레이 19 웃트 네크리스와 꼬메뜨 앙피니 링은 저를 감동시키네요."]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/08/3146a8d8-2ea1-41a1-8b98-1911ca0a7acc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈티지한 무드로 가득 채운 패션 아이템]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67768</link>
-            <guid>https://www.esquirekorea.co.kr/article/67768</guid>
-            <pubDate>Sat, 30 Jul 2022 01:46:31 GMT</pubDate>
-            <content:encoded><![CDATA[햇볕 아래 빛바랜 듯 여름을 기록하는 물건들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/43303209-2818-4147-8fd7-89ed33ab233c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
