@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 19:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 22:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[풍선껌맛 술 어때요?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68628</link>
+            <guid>https://www.esquirekorea.co.kr/article/68628</guid>
+            <pubDate>Thu, 11 Aug 2022 22:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[풍선껌맛 난다고 병나발 불지 않기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/e831c747-eaea-4f4f-8c04-2727a14efc35.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두산 베어스 선수들이 즐겨 찾는 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68627</link>
+            <guid>https://www.esquirekorea.co.kr/article/68627</guid>
+            <pubDate>Thu, 11 Aug 2022 22:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[먹산 주목! 두산 베어스 선수들이 경기를 끝내고 가는 식당부터 단골 회식 장소까지. 맛집만 찾...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/6ea11ce8-537a-4162-a290-eed8de14c9dd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[물놀이 가능한! 서울 근교 계곡 카페 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/68625</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 07 Aug 2022 04:27:05 GMT</pubDate>
             <content:encoded><![CDATA[가격은 15cm 샌드위치 기준 머쉬룸썹 5600원, 머쉬룸썹 샐러드는 7300원이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/1baa6680-6ca6-4a04-8ed1-01cd2d248116.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8월의 신메뉴 선보인 요거프레소]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68553</link>
-            <guid>https://www.esquirekorea.co.kr/article/68553</guid>
-            <pubDate>Wed, 03 Aug 2022 21:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[단품으로도 구매 가능하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/b760283f-dc82-439d-98ba-b2d3c669dfaf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<이상한 변호사 우영우> 소덕동 팽나무 신은 창원? 창원 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68550</link>
-            <guid>https://www.esquirekorea.co.kr/article/68550</guid>
-            <pubDate>Wed, 03 Aug 2022 21:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[아름다운 팽나무도 보고, 맛있는 음식으로 배도 채우고.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/24499f7c-7d31-4c82-bd43-d4174722499a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

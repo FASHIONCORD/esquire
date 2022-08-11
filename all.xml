@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 19:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 22:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1133,6 +1133,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[몽블랑이 밝힌 파리의 밤 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68285</link>
+            <guid>https://www.esquirekorea.co.kr/article/68285</guid>
+            <pubDate>Thu, 11 Aug 2022 22:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[몽블랑은 온 더 무브(On the Move) 컬렉션으로 모빌리티에 관한 몽블랑의 새로운 비전을 제시...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/e96c8c51-0b69-45eb-a709-3ab55954af4c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[슈트의 반란 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/68259</link>
             <guid>https://www.esquirekorea.co.kr/article/68259</guid>
@@ -1187,14 +1195,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 04 Aug 2022 11:16:03 GMT</pubDate>
             <content:encoded><![CDATA[&lt;탑건&gt;의 톰 크루즈부터 &lt;로키&gt;의 톰 히들스턴, 류준열까지. 젠틀한 셀럽들이 한자리에 모였다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/c056b044-ca71-49d1-bd45-09a4b3ae708b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펑키한 네크리스 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67888</link>
-            <guid>https://www.esquirekorea.co.kr/article/67888</guid>
-            <pubDate>Tue, 02 Aug 2022 18:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[과감하고 유쾌하게 걸치고 싶은 네크리스 6.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/10/6be00352-24fb-4adc-b907-4a6c24fa3bc4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[듀얼 타임 워치의 기준, 론진 줄루 타임 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1325,6 +1325,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/bf30ffd6-1986-46c9-8fbd-bfeff551ffa2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[풍선껌맛 술 어때요? (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68628</link>
+            <guid>https://www.esquirekorea.co.kr/article/68628</guid>
+            <pubDate>Wed, 10 Aug 2022 10:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[풍선껌맛 난다고 병나발 불지 않기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/e831c747-eaea-4f4f-8c04-2727a14efc35.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두산 베어스 선수들이 즐겨 찾는 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68627</link>
+            <guid>https://www.esquirekorea.co.kr/article/68627</guid>
+            <pubDate>Tue, 09 Aug 2022 04:42:55 GMT</pubDate>
+            <content:encoded><![CDATA[먹산 주목! 두산 베어스 선수들이 경기를 끝내고 가는 식당부터 단골 회식 장소까지. 맛집만 찾...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/6ea11ce8-537a-4162-a290-eed8de14c9dd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[물놀이 가능한! 서울 근교 계곡 카페 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/68625</link>
             <guid>https://www.esquirekorea.co.kr/article/68625</guid>
@@ -1373,20 +1389,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/1baa6680-6ca6-4a04-8ed1-01cd2d248116.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[8월의 신메뉴 선보인 요거프레소 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68553</link>
-            <guid>https://www.esquirekorea.co.kr/article/68553</guid>
-            <pubDate>Wed, 03 Aug 2022 21:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[단품으로도 구매 가능하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/b760283f-dc82-439d-98ba-b2d3c669dfaf.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이토록 어여쁜 아이브, 세 번째 싱글로 찾아온다! (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68744</link>
+            <guid>https://www.esquirekorea.co.kr/article/68744</guid>
+            <pubDate>Thu, 11 Aug 2022 22:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[이 사진을 보면 8월 22일만을 손꼽아 기다리게 될 것.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/c4c20acd-3284-4850-b935-58231dfe89f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<이상한 변호사 우영우> 소덕동 팽나무 신은 창원? 창원 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68550</link>
-            <guid>https://www.esquirekorea.co.kr/article/68550</guid>
-            <pubDate>Wed, 03 Aug 2022 21:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[아름다운 팽나무도 보고, 맛있는 음식으로 배도 채우고.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/24499f7c-7d31-4c82-bd43-d4174722499a.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[3년 만에 정상 개최를 알리며 공식 포스터 공개한 부산국제영화제 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68717</link>
+            <guid>https://www.esquirekorea.co.kr/article/68717</guid>
+            <pubDate>Thu, 11 Aug 2022 22:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[영화제는 오는 10월 5일부터 14일까지 열흘간 진행한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/932bd666-7d0a-4827-968c-dc35248012cf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[8월 8일은 세계 고양이의 날 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1435,20 +1451,6 @@ The New MINI Countryman과 일상에
             <pubDate>Mon, 08 Aug 2022 16:35:06 GMT</pubDate>
             <content:encoded><![CDATA[시원한 계곡물소리와 함께 즐기는 커피 한 잔.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/db6c34af-c9ad-4581-96c3-5480a97fd05c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허성태 '허카인' 직접 본 반응은? (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68616</link>
-            <guid>https://www.esquirekorea.co.kr/article/68616</guid>
-            <pubDate>Sun, 07 Aug 2022 21:19:33 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/04/a314e631-ea4f-41de-ad1a-e8b9d4bef6c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전혜진 수상소감 못 보겠다고 한 이유? (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68596</link>
-            <guid>https://www.esquirekorea.co.kr/article/68596</guid>
-            <pubDate>Sun, 07 Aug 2022 03:28:49 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/1e350ce3-8c3d-46ed-99d5-0c863f8fe5d0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전혜진 수상소감 못 보겠다고 한 이유? (에스콰이어 코리아 ─ 피플)]]></title>
