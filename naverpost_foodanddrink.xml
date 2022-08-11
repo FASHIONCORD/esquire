@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 15:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 19:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해 생긴 후암동 새 공간 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34283066&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34283066&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 11 Aug 2022 19:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA4MTBfMjEx/MDAxNjYwMDkxMjcyNzAz.wP-lLkvQcOaF5LH_hdG6-8qyQeGx3CdBAbQhaRMFlTMg.1KqVq-wHe1-SeUHWhtqDfPLO7GXsF98sl9vvkUmduIQg.JPEG/I8EojZB9sB7YZp0k_MyKR_zdb5Ak.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<이상한 변호사 우영우> 소덕동 팽나무 신은 창원? 창원 맛집 4]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34280503&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 30 Jun 2022 05:24:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjhfMjg2/MDAxNjU2MzkxNjU3OTM0.dSO1dYvZQW1FXpvNdH8pIK3a_UOpJZWIDHJp9gQxCSwg.mAkPf3hog9rGLy9hGMQr88c6QMR0RqFqepHiVU3vYzEg.JPEG/IrNoDcKB8ZB6IARX7brg97RHuCpA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 데이트 필수 코스! 서울 계곡 맛집 4]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34035405&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34035405&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Wed, 29 Jun 2022 11:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjhfMjY3/MDAxNjU2Mzg0NDgzMzc3.yODhrrp4FAeje6OGijR1HO_x1GPxXmV608OLQW53TGkg.ackPWSN6MWTtP98F5_2eEzjYj7Th0kUZ6CTlwi1GXIUg.JPEG/IABBZZZ5_fR3M_8tvBwNE59aVxNw.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
