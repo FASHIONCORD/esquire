@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 06:32:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 12:40:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈팅 브레이크의 다른 말은 예쁜 왜건]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68473</link>
+            <guid>https://www.esquirekorea.co.kr/article/68473</guid>
+            <pubDate>Fri, 12 Aug 2022 12:36:37 GMT</pubDate>
+            <content:encoded><![CDATA[슈팅브레이크는 원래 사냥용 마차에서 유래한 이름이지만, 지금은 잘생긴 왜건이라는 의미로 더 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/423ec56d-0b07-412c-9b05-404a44fd832f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플워치 결제 서비스 시작한 카카오페이]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68426</link>
+            <guid>https://www.esquirekorea.co.kr/article/68426</guid>
+            <pubDate>Fri, 12 Aug 2022 12:36:37 GMT</pubDate>
+            <content:encoded><![CDATA[휴대폰을 꺼내지 않아도 결제가 가능하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/9c5d244b-eaf8-4ddc-93c7-564ee6206179.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여행 떠나기 전 필수! 꼭 확인해야 할 스마트폰 보안 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/67939</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 29 Jul 2022 02:00:01 GMT</pubDate>
             <content:encoded><![CDATA[핸드폰에서 이어폰 충전도 가능하다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/a4f8c508-7173-4aef-8c5d-e825d4e7c273.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT버거 '보어드 버거' 두번째 매장 서울 상륙]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67921</link>
-            <guid>https://www.esquirekorea.co.kr/article/67921</guid>
-            <pubDate>Wed, 27 Jul 2022 17:27:08 GMT</pubDate>
-            <content:encoded><![CDATA[한 달에 1번 무료로 메뉴를 제공받을 수 있다?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/b1cc87ff-c488-4fc6-adf4-7714728bc1c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['NBA 2K23' 커버 모델은 농구 황제 마이클 조던]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67827</link>
-            <guid>https://www.esquirekorea.co.kr/article/67827</guid>
-            <pubDate>Sat, 23 Jul 2022 19:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[그의 등번호 23번을 기념하는 'NBA 2K'의 2023년 버전이 사전 판매를 시작했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/bf30ffd6-1986-46c9-8fbd-bfeff551ffa2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

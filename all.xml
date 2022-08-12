@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 06:32:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 12:40:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1133,6 +1133,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가볍기만 한 여름 향수에 질렸다면? (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68645</link>
+            <guid>https://www.esquirekorea.co.kr/article/68645</guid>
+            <pubDate>Fri, 12 Aug 2022 12:36:20 GMT</pubDate>
+            <content:encoded><![CDATA[여름 신사의 향.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/ac0124ad-fbd3-4ed0-a8ae-51d71bb177e4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[몽블랑이 밝힌 파리의 밤 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/68285</link>
             <guid>https://www.esquirekorea.co.kr/article/68285</guid>
@@ -1187,14 +1195,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 04 Aug 2022 18:26:33 GMT</pubDate>
             <content:encoded><![CDATA[콘텐츠 제작부터 스니커즈 커스텀까지. 크리에이티브 한 활동을 직접 경험할 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/fa7a1ddc-575c-4926-a3c8-783b3f5a2339.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 윔블던을 방문한 스타들은 무슨 옷을 입었을까? (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68025</link>
-            <guid>https://www.esquirekorea.co.kr/article/68025</guid>
-            <pubDate>Thu, 04 Aug 2022 11:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;탑건&gt;의 톰 크루즈부터 &lt;로키&gt;의 톰 히들스턴, 류준열까지. 젠틀한 셀럽들이 한자리에 모였다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/c056b044-ca71-49d1-bd45-09a4b3ae708b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오메가의 새로운 마이 초이스 캠페인 공개 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1261,6 +1261,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/0fe894b7-3761-42e5-bca1-7dc218206179.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[슈팅 브레이크의 다른 말은 예쁜 왜건 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68473</link>
+            <guid>https://www.esquirekorea.co.kr/article/68473</guid>
+            <pubDate>Fri, 12 Aug 2022 12:36:37 GMT</pubDate>
+            <content:encoded><![CDATA[슈팅브레이크는 원래 사냥용 마차에서 유래한 이름이지만, 지금은 잘생긴 왜건이라는 의미로 더 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/30/423ec56d-0b07-412c-9b05-404a44fd832f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플워치 결제 서비스 시작한 카카오페이 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68426</link>
+            <guid>https://www.esquirekorea.co.kr/article/68426</guid>
+            <pubDate>Fri, 12 Aug 2022 12:36:37 GMT</pubDate>
+            <content:encoded><![CDATA[휴대폰을 꺼내지 않아도 결제가 가능하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/9c5d244b-eaf8-4ddc-93c7-564ee6206179.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[여행 떠나기 전 필수! 꼭 확인해야 할 스마트폰 보안 4 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67939</link>
             <guid>https://www.esquirekorea.co.kr/article/67939</guid>
@@ -1307,22 +1323,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 29 Jul 2022 02:00:01 GMT</pubDate>
             <content:encoded><![CDATA[핸드폰에서 이어폰 충전도 가능하다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/14/a4f8c508-7173-4aef-8c5d-e825d4e7c273.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NFT버거 '보어드 버거' 두번째 매장 서울 상륙 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67921</link>
-            <guid>https://www.esquirekorea.co.kr/article/67921</guid>
-            <pubDate>Wed, 27 Jul 2022 17:27:08 GMT</pubDate>
-            <content:encoded><![CDATA[한 달에 1번 무료로 메뉴를 제공받을 수 있다?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/11/b1cc87ff-c488-4fc6-adf4-7714728bc1c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['NBA 2K23' 커버 모델은 농구 황제 마이클 조던 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67827</link>
-            <guid>https://www.esquirekorea.co.kr/article/67827</guid>
-            <pubDate>Sat, 23 Jul 2022 19:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[그의 등번호 23번을 기념하는 'NBA 2K'의 2023년 버전이 사전 판매를 시작했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/07/bf30ffd6-1986-46c9-8fbd-bfeff551ffa2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[풍선껌맛 술 어때요? (에스콰이어 코리아 ─ 푸드)]]></title>
