@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 12:40:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 20:21:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[휴일에 가볼 만한! 서울 대실 플레이스 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68797</link>
+            <guid>https://www.esquirekorea.co.kr/article/68797</guid>
+            <pubDate>Fri, 12 Aug 2022 20:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[휴일에 멀리 떠나지 않고 당일치기로 즐길 수 있는 서울 렌탈 플레이스를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/9971b443-63a2-494d-970e-0b22d745f4ef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[숯 향 제대로 맛볼 수 있는 서울의 우드파이어 그릴 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68794</link>
+            <guid>https://www.esquirekorea.co.kr/article/68794</guid>
+            <pubDate>Fri, 12 Aug 2022 20:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[캠핑할 때 먹던 참숯 바베큐를 이젠 도심에서 즐긴다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/11/0b02060b-ecf7-4504-b1a1-d0bc47602ed9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김성주 X 안정환, MBC 카타르 월드컵 중계]]></title>
             <link>https://www.esquirekorea.co.kr/article/68749</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 10 Aug 2022 10:22:16 GMT</pubDate>
             <content:encoded><![CDATA[해시태그 #WorldCatDay를 통해 전 세계 냥이들의 사진을 둘러보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/9509a96c-1636-4a51-abf1-1d521c37665c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이자카야 다음? 지금 가장 가볼 만한 갓포 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68664</link>
-            <guid>https://www.esquirekorea.co.kr/article/68664</guid>
-            <pubDate>Wed, 10 Aug 2022 10:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[자르고 끓이다는 뜻의 갓포! 전문 조리사의 일식을 술에 곁들일 수 있는 공간 네 곳을 소개한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/07/c3ba0096-34b8-4303-8d75-8b9d049eaac2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<에스콰이어> 에디터들이 꼽은 이 달의 책]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68646</link>
-            <guid>https://www.esquirekorea.co.kr/article/68646</guid>
-            <pubDate>Wed, 10 Aug 2022 10:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[중쇄를 거듭해 더 많은 사람이 읽었으면 하는 책들을 &lt;에스콰이어&gt; 에디터들이 골랐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/a13f1c17-58b3-484e-847e-6b43ba59ea2d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
