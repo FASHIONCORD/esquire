@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 22:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 06:32:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김성주 X 안정환, MBC 카타르 월드컵 중계]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68749</link>
+            <guid>https://www.esquirekorea.co.kr/article/68749</guid>
+            <pubDate>Fri, 12 Aug 2022 06:29:40 GMT</pubDate>
+            <content:encoded><![CDATA[8년 만에 다시 뭉쳤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/315579a5-3053-4766-ad05-5e8913e023c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[황희찬, MBC '나 혼자 산다' 출연]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68748</link>
+            <guid>https://www.esquirekorea.co.kr/article/68748</guid>
+            <pubDate>Fri, 12 Aug 2022 06:29:40 GMT</pubDate>
+            <content:encoded><![CDATA[영국에서의 생활 전격 공개!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/be2805f1-edae-4a1b-9721-1568a223270f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디즈니 플러스 '나는 그루트다' 오늘 4시 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68747</link>
+            <guid>https://www.esquirekorea.co.kr/article/68747</guid>
+            <pubDate>Fri, 12 Aug 2022 06:29:40 GMT</pubDate>
+            <content:encoded><![CDATA[그루트 단독 단편 에피소드로 찾아온다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/7804abdd-2ca6-4bc4-b2cc-48c5c2bd3c6d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이토록 어여쁜 아이브, 세 번째 싱글로 찾아온다!]]></title>
             <link>https://www.esquirekorea.co.kr/article/68744</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 10 Aug 2022 10:22:16 GMT</pubDate>
             <content:encoded><![CDATA[중쇄를 거듭해 더 많은 사람이 읽었으면 하는 책들을 &lt;에스콰이어&gt; 에디터들이 골랐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/a13f1c17-58b3-484e-847e-6b43ba59ea2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 휴가 보내기 좋은 바다 뷰 캠핑장 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68643</link>
-            <guid>https://www.esquirekorea.co.kr/article/68643</guid>
-            <pubDate>Wed, 10 Aug 2022 10:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[바다를 바로 앞에 두고 있는 캠핑장에서 하루 종일 바다를 보며 여름을 만끽해 보자. 프라이빗...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/fd458bd2-2303-40a1-96dc-9627fe175fc5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두산 베어스 선수들이 즐겨 찾는 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68627</link>
-            <guid>https://www.esquirekorea.co.kr/article/68627</guid>
-            <pubDate>Tue, 09 Aug 2022 04:42:55 GMT</pubDate>
-            <content:encoded><![CDATA[먹산 주목! 두산 베어스 선수들이 경기를 끝내고 가는 식당부터 단골 회식 장소까지. 맛집만 찾...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/6ea11ce8-537a-4162-a290-eed8de14c9dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물놀이 가능한! 서울 근교 계곡 카페 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68625</link>
-            <guid>https://www.esquirekorea.co.kr/article/68625</guid>
-            <pubDate>Mon, 08 Aug 2022 16:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[시원한 계곡물소리와 함께 즐기는 커피 한 잔.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/db6c34af-c9ad-4581-96c3-5480a97fd05c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

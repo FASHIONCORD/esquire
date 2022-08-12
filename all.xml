@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 22:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 06:32:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1197,6 +1197,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/c056b044-ca71-49d1-bd45-09a4b3ae708b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오메가의 새로운 마이 초이스 캠페인 공개 (에스콰이어 코리아 ─ 와치)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/67366</link>
+            <guid>https://www.esquirekorea.co.kr/article/67366</guid>
+            <pubDate>Fri, 12 Aug 2022 06:27:41 GMT</pubDate>
+            <content:encoded><![CDATA[오메가와 여성의 연대, 마이 초이스 캠페인.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202206/30/7fa20639-02e0-402f-915c-a97ca54f8cd7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[듀얼 타임 워치의 기준, 론진 줄루 타임 (에스콰이어 코리아 ─ 와치)]]></title>
             <link>https://www.esquirekorea.co.kr/article/67071</link>
             <guid>https://www.esquirekorea.co.kr/article/67071</guid>
@@ -1251,14 +1259,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 07 Jun 2022 11:16:28 GMT</pubDate>
             <content:encoded><![CDATA[과거와 현재가 만나 더욱 강렬하고 대담해진 해밀턴의 새로운 타임피스, 재즈마스터 오픈 하트 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/0fe894b7-3761-42e5-bca1-7dc218206179.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 워치메이킹 캡슐 컬렉션 ‘샤넬 원티드’ (에스콰이어 코리아 ─ 와치)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/66436</link>
-            <guid>https://www.esquirekorea.co.kr/article/66436</guid>
-            <pubDate>Tue, 07 Jun 2022 11:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬의 아이코닉한 워치 컬렉션에 샤넬 로고를 대담하게 장식했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202205/20/66e01d1a-28aa-454e-be93-7beb6cd4bd07.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여행 떠나기 전 필수! 꼭 확인해야 할 스마트폰 보안 4 (에스콰이어 코리아 ─ 카&테크)]]></title>
@@ -1389,6 +1389,30 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/1baa6680-6ca6-4a04-8ed1-01cd2d248116.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김성주 X 안정환, MBC 카타르 월드컵 중계 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68749</link>
+            <guid>https://www.esquirekorea.co.kr/article/68749</guid>
+            <pubDate>Fri, 12 Aug 2022 06:29:40 GMT</pubDate>
+            <content:encoded><![CDATA[8년 만에 다시 뭉쳤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/315579a5-3053-4766-ad05-5e8913e023c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[황희찬, MBC '나 혼자 산다' 출연 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68748</link>
+            <guid>https://www.esquirekorea.co.kr/article/68748</guid>
+            <pubDate>Fri, 12 Aug 2022 06:29:40 GMT</pubDate>
+            <content:encoded><![CDATA[영국에서의 생활 전격 공개!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/be2805f1-edae-4a1b-9721-1568a223270f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디즈니 플러스 '나는 그루트다' 오늘 4시 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68747</link>
+            <guid>https://www.esquirekorea.co.kr/article/68747</guid>
+            <pubDate>Fri, 12 Aug 2022 06:29:40 GMT</pubDate>
+            <content:encoded><![CDATA[그루트 단독 단편 에피소드로 찾아온다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/7804abdd-2ca6-4bc4-b2cc-48c5c2bd3c6d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이토록 어여쁜 아이브, 세 번째 싱글로 찾아온다! (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/68744</link>
             <guid>https://www.esquirekorea.co.kr/article/68744</guid>
@@ -1427,30 +1451,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 10 Aug 2022 10:22:16 GMT</pubDate>
             <content:encoded><![CDATA[중쇄를 거듭해 더 많은 사람이 읽었으면 하는 책들을 &lt;에스콰이어&gt; 에디터들이 골랐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/a13f1c17-58b3-484e-847e-6b43ba59ea2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 휴가 보내기 좋은 바다 뷰 캠핑장 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68643</link>
-            <guid>https://www.esquirekorea.co.kr/article/68643</guid>
-            <pubDate>Wed, 10 Aug 2022 10:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[바다를 바로 앞에 두고 있는 캠핑장에서 하루 종일 바다를 보며 여름을 만끽해 보자. 프라이빗...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/fd458bd2-2303-40a1-96dc-9627fe175fc5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두산 베어스 선수들이 즐겨 찾는 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68627</link>
-            <guid>https://www.esquirekorea.co.kr/article/68627</guid>
-            <pubDate>Tue, 09 Aug 2022 04:42:55 GMT</pubDate>
-            <content:encoded><![CDATA[먹산 주목! 두산 베어스 선수들이 경기를 끝내고 가는 식당부터 단골 회식 장소까지. 맛집만 찾...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/6ea11ce8-537a-4162-a290-eed8de14c9dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물놀이 가능한! 서울 근교 계곡 카페 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68625</link>
-            <guid>https://www.esquirekorea.co.kr/article/68625</guid>
-            <pubDate>Mon, 08 Aug 2022 16:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[시원한 계곡물소리와 함께 즐기는 커피 한 잔.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/05/db6c34af-c9ad-4581-96c3-5480a97fd05c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전혜진 수상소감 못 보겠다고 한 이유? (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1513,6 +1513,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/7f1ada6a-0b2f-4020-8b11-67e956c4dea4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[3년 만에 정상 개최를 알리며 공식 포스터 공개한 부산국제영화제 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68717</link>
+            <guid>https://www.esquirekorea.co.kr/article/68717</guid>
+            <pubDate>Thu, 11 Aug 2022 22:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[영화제는 오는 10월 5일부터 14일까지 열흘간 진행한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/09/932bd666-7d0a-4827-968c-dc35248012cf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[8월 8일은 세계 고양이의 날 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68690</link>
+            <guid>https://www.esquirekorea.co.kr/article/68690</guid>
+            <pubDate>Wed, 10 Aug 2022 10:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[해시태그 #WorldCatDay를 통해 전 세계 냥이들의 사진을 둘러보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/9509a96c-1636-4a51-abf1-1d521c37665c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[풍선껌맛 술 어때요? (에스콰이어 코리아 ─ 나우)]]></title>
             <link>https://www.esquirekorea.co.kr/article/68628</link>
             <guid>https://www.esquirekorea.co.kr/article/68628</guid>
@@ -1559,22 +1575,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 03 Aug 2022 15:25:06 GMT</pubDate>
             <content:encoded><![CDATA[더 드림, 나일 로저스, 라파엘 사딕, 마이크 딘, 루크 솔로몬 등 세계적인 아티스트들이 대거 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/f4930c5e-8f50-4016-b8be-b88d52002e94.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포켓몬스터의 열풍은 어디까지? (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68538</link>
-            <guid>https://www.esquirekorea.co.kr/article/68538</guid>
-            <pubDate>Wed, 03 Aug 2022 15:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[아직 끝나지 않은 포켓몬스터 관련 이슈를 모았습니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/02/79672307-f846-4d23-b75a-72d478b168d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권정열의 웨이브 댄스 비결? (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68437</link>
-            <guid>https://www.esquirekorea.co.kr/article/68437</guid>
-            <pubDate>Mon, 01 Aug 2022 22:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[10CM에 대해 궁금했던 사실을 세세하게 묻고 답했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/acb7303b-56d6-4bb7-ad06-def4fd2dd510.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 여름 데님 셔츠, 이렇게 입으면 인정 (에스콰이어 코리아 ─ 이샵)]]></title>
