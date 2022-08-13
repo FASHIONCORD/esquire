@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 08:28:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 10:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1453,6 +1453,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/9509a96c-1636-4a51-abf1-1d521c37665c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[방탄소년단 정국, 9월 1일 화보 발매 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68804</link>
+            <guid>https://www.esquirekorea.co.kr/article/68804</guid>
+            <pubDate>Sat, 13 Aug 2022 10:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[정국 일부 이미지 공개.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/a43e7485-84fc-4cb5-bbcc-9b980d6d4e4c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뉴진스 굿즈, 갖고 싶다면? (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/68769</link>
             <guid>https://www.esquirekorea.co.kr/article/68769</guid>
@@ -1504,14 +1512,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/68596</guid>
             <pubDate>Sun, 07 Aug 2022 03:28:49 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/1e350ce3-8c3d-46ed-99d5-0c863f8fe5d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니+, 유재석 새 예능 <더 존: 버텨야 산다> (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68589</link>
-            <guid>https://www.esquirekorea.co.kr/article/68589</guid>
-            <pubDate>Wed, 10 Aug 2022 15:24:41 GMT</pubDate>
-            <content:encoded><![CDATA[유재석, 이광수, 권유리 출연.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/794220e3-a2bc-442e-b84b-1f8fe14a44f9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[3년 만에 정상 개최를 알리며 공식 포스터 공개한 부산국제영화제 (에스콰이어 코리아 ─ 나우)]]></title>
