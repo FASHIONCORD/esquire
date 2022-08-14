@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 18:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 16:31:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 힙한 헤어 액세서리로 급부상한 스카프]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68647</link>
+            <guid>https://www.esquirekorea.co.kr/article/68647</guid>
+            <pubDate>Sun, 14 Aug 2022 16:31:15 GMT</pubDate>
+            <content:encoded><![CDATA[목에 두르는 건 이제 그만]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/f5ade8b0-9102-4b8a-95c4-504570fe09c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 여름에도 놓칠 수 없는 니트]]></title>
             <link>https://www.esquirekorea.co.kr/article/68491</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 29 Jul 2022 02:01:40 GMT</pubDate>
             <content:encoded><![CDATA[여름 기본 템의 정석]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/b2250a40-9dfa-42e4-b925-9a02c9c4d993.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 여름에도 입기 좋은 니트 베스트 코디]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67706</link>
-            <guid>https://www.esquirekorea.co.kr/article/67706</guid>
-            <pubDate>Wed, 27 Jul 2022 17:28:20 GMT</pubDate>
-            <content:encoded><![CDATA[밋밋한 룩에 포인트 주기에 제격]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/15/0b579dfe-97b7-4141-9b18-7cde32322b1b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
