@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 07:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 13:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이세이 미야케가 84세의 나이로 세상을 떠났다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68751</link>
+            <guid>https://www.esquirekorea.co.kr/article/68751</guid>
+            <pubDate>Thu, 18 Aug 2022 13:44:54 GMT</pubDate>
+            <content:encoded><![CDATA[이세이 미야케를 기억하며.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/008c616a-394b-4fad-963a-33100cac26a7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아디다스 이지 슬라이드 'flax' 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68750</link>
+            <guid>https://www.esquirekorea.co.kr/article/68750</guid>
+            <pubDate>Thu, 18 Aug 2022 13:44:54 GMT</pubDate>
+            <content:encoded><![CDATA[더 튼튼해진 내구성의 비결?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/f2b0497e-1dc3-48cb-86cc-f43205cf6ad2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다채로운 하이커 스타일링]]></title>
             <link>https://www.esquirekorea.co.kr/article/68710</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 08 Aug 2022 17:23:39 GMT</pubDate>
             <content:encoded><![CDATA[대담하게, 호화롭게.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/03/9f6d98a9-0706-4bad-84b0-665b4bae8ef9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태양을 품은 네크리스]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68384</link>
-            <guid>https://www.esquirekorea.co.kr/article/68384</guid>
-            <pubDate>Sun, 07 Aug 2022 04:26:30 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬 1932 하이 주얼리 컬렉션 솔레이 19 웃트 네크리스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/c2d99102-1906-45f3-b7f6-bc134602801f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬 1932 하이 주얼리 컬렉션 알뤼르 셀레스테]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68339</link>
-            <guid>https://www.esquirekorea.co.kr/article/68339</guid>
-            <pubDate>Thu, 04 Aug 2022 18:26:33 GMT</pubDate>
-            <content:encoded><![CDATA[사파이어는 밤처럼 푸르고, 다이아몬드는 강렬한 푸른 빛을 뽐낸다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/31/165077ba-616b-4688-a085-f2cad8311545.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

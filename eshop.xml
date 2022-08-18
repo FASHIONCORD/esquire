@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 07:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 13:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 시원하게 드러나는 커팅 팬츠]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68674</link>
+            <guid>https://www.esquirekorea.co.kr/article/68674</guid>
+            <pubDate>Thu, 18 Aug 2022 13:46:55 GMT</pubDate>
+            <content:encoded><![CDATA[여름 페스티벌 제대로 시원하게 즐기고 싶을 땐?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/08/16c6e6bf-be92-4790-a64a-166d4bffd75a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 힙한 헤어 액세서리로 급부상한 스카프]]></title>
             <link>https://www.esquirekorea.co.kr/article/68647</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 31 Jul 2022 22:20:16 GMT</pubDate>
             <content:encoded><![CDATA[화이트 &amp; 브라운의 감각적인 조합]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/20/8f16093a-daf7-4b0f-9ed4-28ccbdb31b1d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 청량감 가득 머금은 블루 셔츠]]></title>
-            <link>https://www.esquirekorea.co.kr/article/67708</link>
-            <guid>https://www.esquirekorea.co.kr/article/67708</guid>
-            <pubDate>Fri, 29 Jul 2022 02:01:40 GMT</pubDate>
-            <content:encoded><![CDATA[여름 기본 템의 정석]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/18/b2250a40-9dfa-42e4-b925-9a02c9c4d993.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
