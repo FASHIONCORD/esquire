@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 02:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 16:30:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 사랑스러운 핑크 팬츠]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68513</link>
+            <guid>https://www.esquirekorea.co.kr/article/68513</guid>
+            <pubDate>Thu, 01 Sep 2022 16:30:49 GMT</pubDate>
+            <content:encoded><![CDATA[선명한 핑크 한 스푼을 더한 여름 스타일링]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/7748eed4-a815-46a5-b03c-e339ecfe618f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Eshop] 여름 액세서리 이 두개면 준비 끝]]></title>
+            <link>https://www.esquirekorea.co.kr/article/68512</link>
+            <guid>https://www.esquirekorea.co.kr/article/68512</guid>
+            <pubDate>Thu, 01 Sep 2022 16:30:49 GMT</pubDate>
+            <content:encoded><![CDATA[시원한 무드의 실버 &amp; 햇빛을 가려주는 선글라스]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/c171f881-0702-42ff-b00b-65a63fab4885.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 세련된 무드, 블랙 슬랙스 코디]]></title>
             <link>https://www.esquirekorea.co.kr/article/68847</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 14 Aug 2022 16:31:15 GMT</pubDate>
             <content:encoded><![CDATA[목에 두르는 건 이제 그만]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/06/f5ade8b0-9102-4b8a-95c4-504570fe09c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 여름에도 놓칠 수 없는 니트]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68491</link>
-            <guid>https://www.esquirekorea.co.kr/article/68491</guid>
-            <pubDate>Fri, 12 Aug 2022 21:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[니트 베스트로 포인트 더해주기]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/01/752cfd06-fe1d-4d97-af39-c8453c346995.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 여름 데님 셔츠, 이렇게 입으면 인정]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68424</link>
-            <guid>https://www.esquirekorea.co.kr/article/68424</guid>
-            <pubDate>Wed, 10 Aug 2022 15:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[오히려 좋아! 청량감을 듬뿍 담은 것 같은 청청패션]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202207/29/224df9a5-b7f4-4aed-9782-5cf715790ae9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
