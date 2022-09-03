@@ -4,9 +4,30 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 16:30:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 08:26:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔하이픈 제이, 성훈, 선우의 카톡 답장 유형?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70164</link>
+            <guid>https://www.esquirekorea.co.kr/article/70164</guid>
+            <pubDate>Sat, 03 Sep 2022 08:25:40 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/bbe24efc-cefa-42ff-8813-e3fbc3807a64.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔하이픈 희승, 니키가 볼링장에 가면?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70130</link>
+            <guid>https://www.esquirekorea.co.kr/article/70130</guid>
+            <pubDate>Sat, 03 Sep 2022 08:25:40 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/d5c13386-5527-4c11-a5a2-3ad32a88de23.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 이진욱이 고민시, 송강, 김우석 같은 배우와 함께 연기하는 게 '영광'이라고 말한 이유]]></title>
+            <link>https://www.esquirekorea.co.kr/article/69061</link>
+            <guid>https://www.esquirekorea.co.kr/article/69061</guid>
+            <pubDate>Sat, 03 Sep 2022 08:25:40 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/92ee8f3f-39fc-4ffa-aea2-2d7c506b357b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배우 이진욱은 '이진욱이라는 사람에게 잘 맞는 시간'이 온 것 같다고 했다]]></title>
             <link>https://www.esquirekorea.co.kr/article/69059</link>
@@ -45,30 +66,6 @@
             <pubDate>Sun, 28 Aug 2022 02:09:20 GMT</pubDate>
             <content:encoded><![CDATA[로몬은 평범한 하루를 충실히 보내는 게 가장 중요하다고 말했다. 그 하루가 쌓여 훌륭한 배우...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/14363a61-89af-4e72-aadb-939006095afd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐틴 원우 화보 B컷 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/69052</link>
-            <guid>https://www.esquirekorea.co.kr/article/69052</guid>
-            <pubDate>Sun, 28 Aug 2022 02:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[그의 A컷 같은 B컷을 공개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/178b7b80-dce7-45f9-8e76-325eb9a63a75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔하이픈 멤버들은 월드 투어에서 이런 순간이 가장 기다려진다고 했다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/69047</link>
-            <guid>https://www.esquirekorea.co.kr/article/69047</guid>
-            <pubDate>Sun, 28 Aug 2022 02:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[멤버들은 <manifesto :="" day="" 1="">이 새로운 엔하이픈 페이즈의 시작이라고 말했다. 소년은 성년...                                    </manifesto>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/33eddd85-9635-43ee-88bc-0c4afd8b5103.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔하이픈 멤버들이 이번 앨범 이 '달랐다'고 말하는 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/69034</link>
-            <guid>https://www.esquirekorea.co.kr/article/69034</guid>
-            <pubDate>Sun, 28 Aug 2022 02:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[멤버들은 <manifesto :="" day="" 1="">이 새로운 엔하이픈 페이즈의 시작이라고 말했다. 소년은 성년...                                    </manifesto>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/23/f694436e-6a4a-4e35-b46c-a069e2098809.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
