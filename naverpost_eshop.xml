@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ ESHOP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 15:28:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 05:46:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름에도 포기할 수 없는 니트]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34438796&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34438796&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Sun, 11 Sep 2022 05:40:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA5MDdfNzkg/MDAxNjYyNTMyOTg1MTg0.-fOAE5rsvu_Sjsy4LSP0oorTjMCUru8qXygCqU9INygg.WyJ_5hrfUui_bU-jXhoIvgn6Et7v03Cp3DV9_zC7uEIg.JPEG/ImEhwtJ33CCAOFvb2hlwfeaTJK_Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서머 클래식의 끝판왕 '폴로 셔츠']]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34438730&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 29 Jul 2022 01:57:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjdfNCAg/MDAxNjU4OTA3MTkwNjk3.RE5NyitnNsZbFPmgMX51z9wj42DUiwM6iO0EIEezP5Qg.0wLJ_SLthLghYVomGQdEAWZZ0inLU8tdRM5DB2JGyhwg.JPEG/IjPmSbP8cwZDkw2ZXCcPAiuoxaEk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈티지와 스트리트 무드를 동시에]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34204780&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34204780&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Wed, 27 Jul 2022 11:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjdfMTQx/MDAxNjU4ODkwMTMwMTkz.yiuzT77xcfsz-R5-RP13YyE5ZG33_pMGEKawXdSe4IMg.8xJG5DC10A9MVIzX5C7hlFA238crJjEvtjWhCkEleo0g.JPEG/I9t6rQzd-1KVV38l_6Ussfr1Q3gM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

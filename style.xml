@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 15:28:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 05:46:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[골든구스와 사이먼 도미닉의 만남]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70530</link>
+            <guid>https://www.esquirekorea.co.kr/article/70530</guid>
+            <pubDate>Sun, 11 Sep 2022 05:40:56 GMT</pubDate>
+            <content:encoded><![CDATA[골든구스 글로벌 캠페인 ‘아티스트의 정신’ 비하인드 신.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/c6cb44c0-ac42-43cd-bcbd-0ac6d4f69ef1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베스트 오브 베스트]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70549</link>
+            <guid>https://www.esquirekorea.co.kr/article/70549</guid>
+            <pubDate>Sun, 11 Sep 2022 05:40:56 GMT</pubDate>
+            <content:encoded><![CDATA[니트 베스트에 대한 찬사.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/2a88ba5f-2b6f-4985-bb5d-002ad59b55bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[킴 존스의 오마주]]></title>
             <link>https://www.esquirekorea.co.kr/article/70514</link>
@@ -53,22 +69,6 @@
             <pubDate>Thu, 08 Sep 2022 15:23:12 GMT</pubDate>
             <content:encoded><![CDATA[압도적인 부피감과 극적인 실루엣, 새로운 오버사이즈 룩.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/0b7e4146-7c3d-40de-9dae-52111f66a818.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔하이픈과 함께한 화보 B컷 공개!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70317</link>
-            <guid>https://www.esquirekorea.co.kr/article/70317</guid>
-            <pubDate>Sun, 04 Sep 2022 16:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[우리가 미처 알지 못했던 엔하이픈의 또 다른 모습.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/843c9245-555d-4bf4-95ee-772ead023022.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 '서울대작전' X 케이스티파이]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70310</link>
-            <guid>https://www.esquirekorea.co.kr/article/70310</guid>
-            <pubDate>Sat, 03 Sep 2022 08:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[질주를 담은 카레이싱 디자인.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/116623da-d1d6-4df6-82b6-0fd08e28e914.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
