@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 05:46:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 09:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울시 택시요금 인상 검토]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70212</link>
+            <guid>https://www.esquirekorea.co.kr/article/70212</guid>
+            <pubDate>Sun, 11 Sep 2022 09:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[심야할증도 확대 된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/d929979d-3860-481f-ba93-72b919b355c1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['아바타 리마스터링' 9월 재개봉]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70211</link>
+            <guid>https://www.esquirekorea.co.kr/article/70211</guid>
+            <pubDate>Sun, 11 Sep 2022 09:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[더 선명해진 리마스터링으로 돌아온다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/22b6a05f-c766-409f-b225-c219119b7347.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감각 어텐션, 이번 주 가야할 전시 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/70159</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 03 Sep 2022 08:25:56 GMT</pubDate>
             <content:encoded><![CDATA[김승민과 래원의 사주팔자가 궁금하다면?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/ef984efa-59f7-415a-8605-6367b7217974.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말복에 뭐 먹지? 네이버 평점 4.5 이상 보양식 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68809</link>
-            <guid>https://www.esquirekorea.co.kr/article/68809</guid>
-            <pubDate>Sat, 03 Sep 2022 08:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[기력 회복하고 싶은 사람들 모여라.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/f9ba621d-7842-41f6-b575-15ed58361a8f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이세이 미야케가 84세의 나이로 세상을 떠났다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68751</link>
-            <guid>https://www.esquirekorea.co.kr/article/68751</guid>
-            <pubDate>Sat, 03 Sep 2022 08:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[이세이 미야케를 기억하며.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/10/008c616a-394b-4fad-963a-33100cac26a7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

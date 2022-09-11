@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 05:46:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 09:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엔하이픈과 함께한 화보 B컷 공개!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70317</link>
+            <guid>https://www.esquirekorea.co.kr/article/70317</guid>
+            <pubDate>Sun, 11 Sep 2022 09:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[우리가 미처 알지 못했던 엔하이픈의 또 다른 모습.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/843c9245-555d-4bf4-95ee-772ead023022.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이정재, ‘다만 악’ 스핀오프 ‘레이’ 출연, 제작 확정]]></title>
             <link>https://www.esquirekorea.co.kr/article/70174</link>
@@ -58,14 +66,6 @@
             <guid>https://www.esquirekorea.co.kr/article/69089</guid>
             <pubDate>Sun, 28 Aug 2022 02:09:20 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/eb824233-b657-40bc-8813-f095cece18a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로몬은 순정을 가진 캐릭터에 도전해보고 싶다고 말했다.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/69081</link>
-            <guid>https://www.esquirekorea.co.kr/article/69081</guid>
-            <pubDate>Sun, 28 Aug 2022 02:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[로몬은 평범한 하루를 충실히 보내는 게 가장 중요하다고 말했다. 그 하루가 쌓여 훌륭한 배우...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/4d922cca-acc6-4852-8d25-46f8bfef147d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
