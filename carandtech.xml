@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 09:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 07:43:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[또다시 다이어트에 성공한 트렉 마돈 SLR]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70544</link>
+            <guid>https://www.esquirekorea.co.kr/article/70544</guid>
+            <pubDate>Mon, 12 Sep 2022 07:40:17 GMT</pubDate>
+            <content:encoded><![CDATA[체중을 뺄 자신이 없다면 바이크 무게를 줄일 것.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/97865a01-5c5b-4001-9877-718ea5843f35.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 미술대회 1등한 인공지능이 그린 작품]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70520</link>
+            <guid>https://www.esquirekorea.co.kr/article/70520</guid>
+            <pubDate>Mon, 12 Sep 2022 07:40:17 GMT</pubDate>
+            <content:encoded><![CDATA[AI로 제작한 작품이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/452c2e07-103c-4148-9840-5f30074a3860.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10개의 키워드로 파헤친 아이오닉 6 디자인]]></title>
             <link>https://www.esquirekorea.co.kr/article/70155</link>
@@ -52,22 +68,6 @@
             <pubDate>Sat, 03 Sep 2022 08:24:06 GMT</pubDate>
             <content:encoded><![CDATA[바이닐 레코드의 각광과 함께 턴테이블 분야에서도 신제품이 쏟아지고 있다. 문제는 초심자에게 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/282a322a-d3e4-4ff5-85d7-1a517d4a4fb0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[듀유 노 폴스타?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70183</link>
-            <guid>https://www.esquirekorea.co.kr/article/70183</guid>
-            <pubDate>Thu, 01 Sep 2022 16:28:09 GMT</pubDate>
-            <content:encoded><![CDATA[망망대해에서 방향을 잃었을 땐 북극성(Pole Star)을 보고 길을 잡는다. 급변하는 전기차 시장에...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/3a7cfe0a-4985-4d61-81ea-d162564aa252.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이폰14, 9월 7일 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/69023</link>
-            <guid>https://www.esquirekorea.co.kr/article/69023</guid>
-            <pubDate>Thu, 01 Sep 2022 16:28:09 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 신제품 아이폰14를 공개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/22/4519b8c4-ad6d-4f2c-a776-80e3aee3fce7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

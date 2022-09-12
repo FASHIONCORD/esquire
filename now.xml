@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 09:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 07:43:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미도 멀티포트 파워윈드 크로노미터 리미티드 에디션 전격 리뷰!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70373</link>
+            <guid>https://www.esquirekorea.co.kr/article/70373</guid>
+            <pubDate>Mon, 12 Sep 2022 07:42:46 GMT</pubDate>
+            <content:encoded><![CDATA[유튜버 클래씨 TV와 함께한 시계 리뷰.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/b2c5218f-9902-44e2-b107-3ab5acbcea17.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔하이픈과 함께한 화보 B컷 공개!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70317</link>
+            <guid>https://www.esquirekorea.co.kr/article/70317</guid>
+            <pubDate>Mon, 12 Sep 2022 07:42:46 GMT</pubDate>
+            <content:encoded><![CDATA[우리가 미처 알지 못했던 엔하이픈의 또 다른 모습.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/843c9245-555d-4bf4-95ee-772ead023022.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울시 택시요금 인상 검토]]></title>
             <link>https://www.esquirekorea.co.kr/article/70212</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 03 Sep 2022 08:25:56 GMT</pubDate>
             <content:encoded><![CDATA[지금 주목해야 할 끝남동 공간 넷.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/75cd5735-0c29-47d3-b793-04004a439fe2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[래원 <삐딱선생> 라이브 공개!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68953</link>
-            <guid>https://www.esquirekorea.co.kr/article/68953</guid>
-            <pubDate>Sat, 03 Sep 2022 08:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[김승민의 피처링으로 더욱 풍성해진 라이브 영상을 만나보세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/7ed8dbd3-dc77-480b-bee5-0d74d5978230.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김승민과 래원은 □□가 들어간 여자를 만나야한다?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68814</link>
-            <guid>https://www.esquirekorea.co.kr/article/68814</guid>
-            <pubDate>Sat, 03 Sep 2022 08:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[김승민과 래원의 사주팔자가 궁금하다면?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/12/ef984efa-59f7-415a-8605-6367b7217974.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

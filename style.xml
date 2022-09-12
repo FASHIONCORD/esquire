@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 09:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 07:43:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[30만원대 이하로 살 수 있는 극강의 가성비 가죽 재킷 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70555</link>
+            <guid>https://www.esquirekorea.co.kr/article/70555</guid>
+            <pubDate>Mon, 12 Sep 2022 07:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[가을은 무척 짧으니 빨리 움직이는 사람이 승리자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/a5c3c271-cf33-43ee-b795-86ecfe1015a3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[골든구스와 사이먼 도미닉의 만남]]></title>
             <link>https://www.esquirekorea.co.kr/article/70530</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 08 Sep 2022 15:23:12 GMT</pubDate>
             <content:encoded><![CDATA[유튜버 클래씨 TV와 함께한 시계 리뷰.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/b2c5218f-9902-44e2-b107-3ab5acbcea17.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오버사이즈 룩의 극적인 순간]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70356</link>
-            <guid>https://www.esquirekorea.co.kr/article/70356</guid>
-            <pubDate>Thu, 08 Sep 2022 15:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[압도적인 부피감과 극적인 실루엣, 새로운 오버사이즈 룩.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/01/0b7e4146-7c3d-40de-9dae-52111f66a818.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
