@@ -1,3 +1,6 @@
+[default]
+timeout = 180
+
 [naverpost_insight]
 title = "네이버 포스트 ─ 에스콰이어 코리아 ─ INSIGHT"
 url = "https://post.naver.com/my/series/detail.naver?seriesNo=504399&memberNo=40217187"
@@ -6,6 +9,7 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+waitUntil = "networkidle"
 
 [naverpost_foodanddrink]
 title = "네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&DRINK"
@@ -15,6 +19,7 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+waitUntil = "networkidle"
 
 [naverpost_eshop]
 title = "네이버 포스트 ─ 에스콰이어 코리아 ─ ESHOP"
@@ -24,6 +29,7 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+waitUntil = "networkidle"
 
 [naverpost_people]
 title = "네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE"
@@ -33,6 +39,7 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+waitUntil = "networkidle"
 
 [naverpost_style]
 title = "네이버 포스트 ─ 에스콰이어 코리아 ─ STYLE"
@@ -42,6 +49,7 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+waitUntil = "networkidle"
 
 [naverpost_tech]
 title = "네이버 포스트 ─ 에스콰이어 코리아 ─ TECH"
@@ -51,6 +59,7 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+waitUntil = "networkidle"
 
 [naverpost_car]
 title = "네이버 포스트 ─ 에스콰이어 코리아 ─ CAR"
@@ -60,6 +69,7 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+waitUntil = "networkidle"
 
 [style]
 title = "에스콰이어 코리아 ─ 스타일"
