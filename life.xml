@@ -4,9 +4,32 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 15:33:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 05:09:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본인 기자가 바라본 아베 피살 사건의 의미]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70641</link>
+            <guid>https://www.esquirekorea.co.kr/article/70641</guid>
+            <pubDate>Wed, 14 Sep 2022 05:03:10 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/10/ce9697c7-e944-4b18-9c4f-4cd90d420ecf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타워즈 시리즈 'The Acolyte' 남자 주인공 발탁된 이정재]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70633</link>
+            <guid>https://www.esquirekorea.co.kr/article/70633</guid>
+            <pubDate>Wed, 14 Sep 2022 05:03:10 GMT</pubDate>
+            <content:encoded><![CDATA[미스터리 스릴러로 찾아온다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/2aa57b74-02c5-4503-a8c5-3f7e234354ea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이번 추석 보름달이 가장 잘 보이는 시각]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70632</link>
+            <guid>https://www.esquirekorea.co.kr/article/70632</guid>
+            <pubDate>Wed, 14 Sep 2022 05:03:10 GMT</pubDate>
+            <content:encoded><![CDATA[100년 이래 가장 큰 보름달 뜬다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/13e6be4f-038e-428a-8dc9-01b3431ec401.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엘리자베스 2세 여왕 서거]]></title>
             <link>https://www.esquirekorea.co.kr/article/70631</link>
@@ -46,30 +69,6 @@
             <pubDate>Sun, 11 Sep 2022 09:21:25 GMT</pubDate>
             <content:encoded><![CDATA[발견하는 자만 누릴 수 있는 보물 같은 곳.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/26148713-4ec9-405d-98de-3595f2a624a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 가이드 없이 가능해진 일본 자유여행]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70603</link>
-            <guid>https://www.esquirekorea.co.kr/article/70603</guid>
-            <pubDate>Sun, 11 Sep 2022 09:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[여행사를 통해 숙박권, 항공권만 구입하면 된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/41206460-93ca-44c8-9357-d6853ec35697.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새 넷플릭스 시리즈 '수리남' 주연 배우 5인 화보 단독 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70597</link>
-            <guid>https://www.esquirekorea.co.kr/article/70597</guid>
-            <pubDate>Sun, 11 Sep 2022 09:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[9월 9일 오후 4시 넷플릭스 공개를 하루 앞둔 '수리남'의 하정우, 황정민, 박해수, 조우진, 유...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/9d5d547d-b376-46c0-9521-d30c5ada46f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8년 만에 돌아온 석촌호수 '러버덕']]></title>
-            <link>https://www.esquirekorea.co.kr/article/70568</link>
-            <guid>https://www.esquirekorea.co.kr/article/70568</guid>
-            <pubDate>Thu, 08 Sep 2022 15:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[9월 말부터 전시.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/0532f8ae-c82e-4c06-8ca2-c00b2e03329f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
