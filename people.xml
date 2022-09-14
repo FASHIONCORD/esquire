@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 09:43:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 15:50:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[양 눈알이 숙취해소에 좋다고?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70343</link>
+            <guid>https://www.esquirekorea.co.kr/article/70343</guid>
+            <pubDate>Wed, 14 Sep 2022 15:49:30 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 독특한 해장 음식.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/ca000d7f-00a6-4089-8d10-bcc5ef433e9a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엔하이픈과 함께한 화보 B컷 공개!]]></title>
             <link>https://www.esquirekorea.co.kr/article/70317</link>
@@ -59,13 +67,6 @@
             <pubDate>Sun, 28 Aug 2022 02:09:20 GMT</pubDate>
             <content:encoded><![CDATA[단순하면서도 깊은 남자로 사는 법에 대하여. 몽블랑의 새 앰배서더 배우 이진욱이 말하는 연기...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/d33dc691-cd7e-443f-b4a7-f77af8382114.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔하이픈 제이크, 정원 제일 잘 맞는 점은?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/69089</link>
-            <guid>https://www.esquirekorea.co.kr/article/69089</guid>
-            <pubDate>Sun, 28 Aug 2022 02:09:20 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/24/eb824233-b657-40bc-8813-f095cece18a5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 09:43:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 15:50:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더블브레스티드 재킷을 입는 4가지 방법]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70127</link>
+            <guid>https://www.esquirekorea.co.kr/article/70127</guid>
+            <pubDate>Wed, 14 Sep 2022 15:45:36 GMT</pubDate>
+            <content:encoded><![CDATA[비 내린 오후, 4가지 스타일의 더블브레스티드 재킷을 걸치고 나섰다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/10/707f2a15-8580-433b-8fa6-13194477e2c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[랄프 로렌과 윔블던]]></title>
             <link>https://www.esquirekorea.co.kr/article/69065</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 08 Sep 2022 15:23:12 GMT</pubDate>
             <content:encoded><![CDATA[가을과 겨울을 입다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/1bfa2400-9aaf-4616-be75-13a4a98d51e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디올맨의 모놀로그]]></title>
-            <link>https://www.esquirekorea.co.kr/article/69079</link>
-            <guid>https://www.esquirekorea.co.kr/article/69079</guid>
-            <pubDate>Thu, 08 Sep 2022 15:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[담담하고 세밀하게 바라본 디올 맨의 백과 슈즈.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/03/8a97148a-3002-464b-ac66-9f889006d26c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
