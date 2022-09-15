@@ -4,9 +4,24 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 15:50:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 09:31:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3년만에 돌아온 ‘2022 전주 치맥 축제’]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70668</link>
+            <guid>https://www.esquirekorea.co.kr/article/70668</guid>
+            <pubDate>Thu, 15 Sep 2022 09:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 먹거리와 공연까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/12/fca31d30-23a6-41e3-92d0-793e8d8611a2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[타들어가는 세계 앞에서 건축가라는 직업은 어떻게 바뀔까?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70642</link>
+            <guid>https://www.esquirekorea.co.kr/article/70642</guid>
+            <pubDate>Thu, 15 Sep 2022 09:27:31 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/10/08bfa6c9-1212-48d1-9d08-ff394afef4ef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본인 기자가 바라본 아베 피살 사건의 의미]]></title>
             <link>https://www.esquirekorea.co.kr/article/70641</link>
@@ -53,22 +68,6 @@
             <pubDate>Sun, 11 Sep 2022 09:21:25 GMT</pubDate>
             <content:encoded><![CDATA[중쇄를 거듭해 더 많은 사람이 읽었으면 하는 책들을 &lt;에스콰이어&gt; 에디터들이 골랐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/af111ea3-5f5b-41d4-96aa-4554976d82bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산국제영화제 갔다가 꼭 가야 할 부산 신상 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70610</link>
-            <guid>https://www.esquirekorea.co.kr/article/70610</guid>
-            <pubDate>Sun, 11 Sep 2022 09:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[부산까지 가서 영화제만 다녀오면 서운할 거다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/651b65ac-02b8-413d-903d-20dd72379bd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동국대생이 추천하는 간판 없는 충무로, 을지로 카페 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70608</link>
-            <guid>https://www.esquirekorea.co.kr/article/70608</guid>
-            <pubDate>Sun, 11 Sep 2022 09:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[발견하는 자만 누릴 수 있는 보물 같은 곳.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/26148713-4ec9-405d-98de-3595f2a624a8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

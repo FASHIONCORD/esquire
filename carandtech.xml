@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 15:50:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 09:31:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[간편결제 애플페이, 한국 상륙]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70566</link>
+            <guid>https://www.esquirekorea.co.kr/article/70566</guid>
+            <pubDate>Thu, 15 Sep 2022 09:26:56 GMT</pubDate>
+            <content:encoded><![CDATA[12월부터 애플페이 결제 가능?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/31afc221-0c00-49a4-8a50-22a0c958b88b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[또다시 다이어트에 성공한 트렉 마돈 SLR]]></title>
             <link>https://www.esquirekorea.co.kr/article/70544</link>
@@ -60,14 +68,6 @@
             <pubDate>Sun, 11 Sep 2022 05:43:15 GMT</pubDate>
             <content:encoded><![CDATA[명가의 자신감, 혹은 우아함.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/23292d26-f913-4822-b795-d5b8bd7aec5b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[턴테이블을 고를 때 꼭 따져야 할 다섯 가지 측면]]></title>
-            <link>https://www.esquirekorea.co.kr/article/69063</link>
-            <guid>https://www.esquirekorea.co.kr/article/69063</guid>
-            <pubDate>Sat, 03 Sep 2022 08:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[바이닐 레코드의 각광과 함께 턴테이블 분야에서도 신제품이 쏟아지고 있다. 문제는 초심자에게 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/282a322a-d3e4-4ff5-85d7-1a517d4a4fb0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
