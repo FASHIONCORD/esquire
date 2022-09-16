@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 09:33:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 15:34:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1384,6 +1384,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/8024adac-14c9-49d2-928f-864092d21867.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[동국대생이 추천하는 을지로 세운상가 필수 코스 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70743</link>
+            <guid>https://www.esquirekorea.co.kr/article/70743</guid>
+            <pubDate>Fri, 16 Sep 2022 15:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[세운상가에서 여기를 안 가봤다고? 지금이라도 늦지 않았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/15/1aff5779-33c1-4245-8f3c-45e89706d596.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[식물로 돈을 버는 법 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/70485</link>
             <guid>https://www.esquirekorea.co.kr/article/70485</guid>
@@ -1436,14 +1444,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 14 Sep 2022 05:03:10 GMT</pubDate>
             <content:encoded><![CDATA[미스터리 스릴러로 찾아온다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/2aa57b74-02c5-4503-a8c5-3f7e234354ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 추석 보름달이 가장 잘 보이는 시각 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70632</link>
-            <guid>https://www.esquirekorea.co.kr/article/70632</guid>
-            <pubDate>Wed, 14 Sep 2022 05:03:10 GMT</pubDate>
-            <content:encoded><![CDATA[100년 이래 가장 큰 보름달 뜬다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/13e6be4f-038e-428a-8dc9-01b3431ec401.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[양 눈알이 숙취해소에 좋다고? (에스콰이어 코리아 ─ 피플)]]></title>
