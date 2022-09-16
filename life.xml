@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 15:43:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 05:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디즈니 & 마블 게임 쇼케이스 진행]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70671</link>
+            <guid>https://www.esquirekorea.co.kr/article/70671</guid>
+            <pubDate>Fri, 16 Sep 2022 05:16:44 GMT</pubDate>
+            <content:encoded><![CDATA['디즈니', 이제 게임까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/12/5c1928e8-b6eb-42ef-bc2e-eebbd9fe31dd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3년만에 돌아온 ‘2022 전주 치맥 축제’]]></title>
             <link>https://www.esquirekorea.co.kr/article/70668</link>
@@ -60,14 +68,6 @@
             <pubDate>Sun, 11 Sep 2022 09:21:25 GMT</pubDate>
             <content:encoded><![CDATA[하루의 피로가 싹 풀리는 조합. 술이 계속 들어가는 서울 전집 5곳을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/4a1a848c-06a9-4807-87bb-c98513e071b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<에스콰이어> 에디터들이 꼽은 이 달의 책]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70150</link>
-            <guid>https://www.esquirekorea.co.kr/article/70150</guid>
-            <pubDate>Sun, 11 Sep 2022 09:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[중쇄를 거듭해 더 많은 사람이 읽었으면 하는 책들을 &lt;에스콰이어&gt; 에디터들이 골랐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/af111ea3-5f5b-41d4-96aa-4554976d82bf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
