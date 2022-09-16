@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 05:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 09:33:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식물로 돈을 버는 법]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70485</link>
+            <guid>https://www.esquirekorea.co.kr/article/70485</guid>
+            <pubDate>Fri, 16 Sep 2022 09:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[스스로 자라는 다이아몬드가 있다면? 상상만 해도 행복하다. 식테크 열풍의 주역인 몬스테라 알...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/fe779f0c-90cf-42f7-8ec0-ffa26080121e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디즈니픽사 '인사이드아웃' 속편 예고]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70672</link>
+            <guid>https://www.esquirekorea.co.kr/article/70672</guid>
+            <pubDate>Fri, 16 Sep 2022 09:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 개봉 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/12/71139137-086f-495e-8eaf-75386bd07361.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디즈니 & 마블 게임 쇼케이스 진행]]></title>
             <link>https://www.esquirekorea.co.kr/article/70671</link>
@@ -52,22 +68,6 @@
             <pubDate>Wed, 14 Sep 2022 05:03:10 GMT</pubDate>
             <content:encoded><![CDATA[100년 이래 가장 큰 보름달 뜬다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/13e6be4f-038e-428a-8dc9-01b3431ec401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리자베스 2세 여왕 서거]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70631</link>
-            <guid>https://www.esquirekorea.co.kr/article/70631</guid>
-            <pubDate>Mon, 12 Sep 2022 13:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[영국을 70년간 통치했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/8812ad39-cbef-42d0-a38c-32e71b7e3a65.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[막걸리가 술술 넘어간다! 추석맞이 서울 전 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70629</link>
-            <guid>https://www.esquirekorea.co.kr/article/70629</guid>
-            <pubDate>Sun, 11 Sep 2022 09:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[하루의 피로가 싹 풀리는 조합. 술이 계속 들어가는 서울 전집 5곳을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/4a1a848c-06a9-4807-87bb-c98513e071b6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

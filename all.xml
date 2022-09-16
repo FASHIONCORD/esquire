@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 05:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 09:33:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1133,6 +1133,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[볼드 링의 존재감 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70651</link>
+            <guid>https://www.esquirekorea.co.kr/article/70651</guid>
+            <pubDate>Fri, 16 Sep 2022 09:28:11 GMT</pubDate>
+            <content:encoded><![CDATA[박력 있게 끼는 볼드 링.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/11/9d386dda-3ce7-44ff-87ec-27639cc342bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더블브레스티드 재킷을 입는 4가지 방법 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/70127</link>
             <guid>https://www.esquirekorea.co.kr/article/70127</guid>
@@ -1186,14 +1194,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/70514</guid>
             <pubDate>Thu, 08 Sep 2022 15:23:12 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/aa6c1ede-093b-469c-8de8-7d8ef2d7db87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 F/W 미리보기 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70125</link>
-            <guid>https://www.esquirekorea.co.kr/article/70125</guid>
-            <pubDate>Thu, 08 Sep 2022 15:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[가을과 겨울을 입다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/1bfa2400-9aaf-4616-be75-13a4a98d51e6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[흑과 백, 남과 여. 샤넬 J12의 절묘한 시간 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1320,6 +1320,38 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/29/23292d26-f913-4822-b795-d5b8bd7aec5b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스포주의! 환승연애에 등장한 데이트 코스 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70634</link>
+            <guid>https://www.esquirekorea.co.kr/article/70634</guid>
+            <pubDate>Fri, 16 Sep 2022 09:28:56 GMT</pubDate>
+            <content:encoded><![CDATA[환승연애 출연자들을 설레게 한 데이트 코스가 화제 되고있다. 그들이 픽한 데이트 장소는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/88594188-d598-42d1-b34d-ce65adb7f246.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[막걸리가 술술 넘어간다! 추석맞이 서울 전 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70629</link>
+            <guid>https://www.esquirekorea.co.kr/article/70629</guid>
+            <pubDate>Sun, 11 Sep 2022 09:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[하루의 피로가 싹 풀리는 조합. 술이 계속 들어가는 서울 전집 5곳을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/4a1a848c-06a9-4807-87bb-c98513e071b6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부산국제영화제 갔다가 꼭 가야 할 부산 신상 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70610</link>
+            <guid>https://www.esquirekorea.co.kr/article/70610</guid>
+            <pubDate>Thu, 15 Sep 2022 15:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[부산까지 가서 영화제만 다녀오면 서운할 거다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/651b65ac-02b8-413d-903d-20dd72379bd2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동국대생이 추천하는 간판 없는 충무로, 을지로 카페 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70608</link>
+            <guid>https://www.esquirekorea.co.kr/article/70608</guid>
+            <pubDate>Fri, 16 Sep 2022 09:28:56 GMT</pubDate>
+            <content:encoded><![CDATA[발견하는 자만 누릴 수 있는 보물 같은 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/26148713-4ec9-405d-98de-3595f2a624a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['최자로드'에도 없는 진짜 최자맛집 1. 노포 편 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/70592</link>
             <guid>https://www.esquirekorea.co.kr/article/70592</guid>
@@ -1352,36 +1384,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/8024adac-14c9-49d2-928f-864092d21867.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MZ 대학생이 추천하는 서울 무제한 술집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70426</link>
-            <guid>https://www.esquirekorea.co.kr/article/70426</guid>
-            <pubDate>Thu, 08 Sep 2022 15:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[무한리필의 편견을 깨부수다, 현직 맛.잘.알 대학생이 추천하는 서울 무제한 술집 4곳을 소개한다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/732a6905-dd85-40d0-a99d-987ed61a09ac.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[식물로 돈을 버는 법 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70485</link>
+            <guid>https://www.esquirekorea.co.kr/article/70485</guid>
+            <pubDate>Fri, 16 Sep 2022 09:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[스스로 자라는 다이아몬드가 있다면? 상상만 해도 행복하다. 식테크 열풍의 주역인 몬스테라 알...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/fe779f0c-90cf-42f7-8ec0-ffa26080121e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제철 해산물을 맛볼 수 있는 해산물 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70408</link>
-            <guid>https://www.esquirekorea.co.kr/article/70408</guid>
-            <pubDate>Sun, 11 Sep 2022 05:43:27 GMT</pubDate>
-            <content:encoded><![CDATA[회 한 점, 소주 한 잔. 술꾼을 설레게 하는 제철 해산물 맛집.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/ed4abb49-9ad0-4c18-b4b8-762b2bfe0599.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후각 강탈, 지하철역 내 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70407</link>
-            <guid>https://www.esquirekorea.co.kr/article/70407</guid>
-            <pubDate>Sun, 11 Sep 2022 05:43:27 GMT</pubDate>
-            <content:encoded><![CDATA[지하철을 타고 내리면서 시선을 멈추게 하는 곳, 바로 지하철역 안 맛집. 바쁜 현대 사회 속 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/1708aca9-3a41-443b-a481-900eba5831d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산책 데이트 코스로 제격! 덕수궁 인근 추천 플레이스 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70406</link>
-            <guid>https://www.esquirekorea.co.kr/article/70406</guid>
-            <pubDate>Sun, 11 Sep 2022 05:43:27 GMT</pubDate>
-            <content:encoded><![CDATA[시원한 바람과 함께 찾아온 짧은 가을을 만끽하기엔 산책이 제격이다. 산책하기 좋은 덕수궁을 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/4ec37eae-af90-4100-b8f0-3cdd0ffe5bdd.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[디즈니픽사 '인사이드아웃' 속편 예고 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70672</link>
+            <guid>https://www.esquirekorea.co.kr/article/70672</guid>
+            <pubDate>Fri, 16 Sep 2022 09:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 개봉 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/12/71139137-086f-495e-8eaf-75386bd07361.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디즈니 & 마블 게임 쇼케이스 진행 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1428,22 +1444,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 14 Sep 2022 05:03:10 GMT</pubDate>
             <content:encoded><![CDATA[100년 이래 가장 큰 보름달 뜬다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/13e6be4f-038e-428a-8dc9-01b3431ec401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘리자베스 2세 여왕 서거 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70631</link>
-            <guid>https://www.esquirekorea.co.kr/article/70631</guid>
-            <pubDate>Mon, 12 Sep 2022 13:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[영국을 70년간 통치했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/8812ad39-cbef-42d0-a38c-32e71b7e3a65.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[막걸리가 술술 넘어간다! 추석맞이 서울 전 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70629</link>
-            <guid>https://www.esquirekorea.co.kr/article/70629</guid>
-            <pubDate>Sun, 11 Sep 2022 09:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[하루의 피로가 싹 풀리는 조합. 술이 계속 들어가는 서울 전집 5곳을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/09/4a1a848c-06a9-4807-87bb-c98513e071b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[양 눈알이 숙취해소에 좋다고? (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1507,6 +1507,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/d33dc691-cd7e-443f-b4a7-f77af8382114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[3년만에 돌아온 ‘2022 전주 치맥 축제’ (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70668</link>
+            <guid>https://www.esquirekorea.co.kr/article/70668</guid>
+            <pubDate>Thu, 15 Sep 2022 09:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 먹거리와 공연까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/12/fca31d30-23a6-41e3-92d0-793e8d8611a2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[부산국제영화제 갔다가 꼭 가야 할 부산 신상 맛집 4 (에스콰이어 코리아 ─ 나우)]]></title>
             <link>https://www.esquirekorea.co.kr/article/70610</link>
             <guid>https://www.esquirekorea.co.kr/article/70610</guid>
@@ -1561,14 +1569,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sun, 11 Sep 2022 09:21:56 GMT</pubDate>
             <content:encoded><![CDATA[더 선명해진 리마스터링으로 돌아온다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/22b6a05f-c766-409f-b225-c219119b7347.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감각 어텐션, 이번 주 가야할 전시 4 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70159</link>
-            <guid>https://www.esquirekorea.co.kr/article/70159</guid>
-            <pubDate>Sat, 03 Sep 2022 08:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[지금 가장 핫한 전시, 새롭게 오픈한 전시 모두 모았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/26/e1fd16c2-317c-44b5-9ecf-a73ef7223ea1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 서머 클래식의 끝판왕 '폴로 셔츠' (에스콰이어 코리아 ─ 이샵)]]></title>

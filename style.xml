@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 05:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 09:33:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[볼드 링의 존재감]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70651</link>
+            <guid>https://www.esquirekorea.co.kr/article/70651</guid>
+            <pubDate>Fri, 16 Sep 2022 09:28:11 GMT</pubDate>
+            <content:encoded><![CDATA[박력 있게 끼는 볼드 링.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/11/9d386dda-3ce7-44ff-87ec-27639cc342bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더블브레스티드 재킷을 입는 4가지 방법]]></title>
             <link>https://www.esquirekorea.co.kr/article/70127</link>
@@ -61,14 +69,6 @@
             <guid>https://www.esquirekorea.co.kr/article/70514</guid>
             <pubDate>Thu, 08 Sep 2022 15:23:12 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/aa6c1ede-093b-469c-8de8-7d8ef2d7db87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 F/W 미리보기]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70125</link>
-            <guid>https://www.esquirekorea.co.kr/article/70125</guid>
-            <pubDate>Thu, 08 Sep 2022 15:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[가을과 겨울을 입다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/1bfa2400-9aaf-4616-be75-13a4a98d51e6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
