@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 이샵</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 09:37:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 15:30:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Eshop] 여름에도 포기할 수 없는 니트]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70550</link>
+            <guid>https://www.esquirekorea.co.kr/article/70550</guid>
+            <pubDate>Sun, 18 Sep 2022 15:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[니트, 더워서 못 입는다는 말은 이제 그만!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/e6291654-2b1f-4a40-9a4e-33b61cad63bc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Eshop] 서머 클래식의 끝판왕 '폴로 셔츠']]></title>
             <link>https://www.esquirekorea.co.kr/article/70456</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 01 Sep 2022 16:30:49 GMT</pubDate>
             <content:encoded><![CDATA[선명한 핑크 한 스푼을 더한 여름 스타일링]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/19/7748eed4-a815-46a5-b03c-e339ecfe618f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Eshop] 여름 액세서리 이 두개면 준비 끝]]></title>
-            <link>https://www.esquirekorea.co.kr/article/68512</link>
-            <guid>https://www.esquirekorea.co.kr/article/68512</guid>
-            <pubDate>Thu, 01 Sep 2022 16:30:49 GMT</pubDate>
-            <content:encoded><![CDATA[시원한 무드의 실버 &amp; 햇빛을 가려주는 선글라스]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/17/c171f881-0702-42ff-b00b-65a63fab4885.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
