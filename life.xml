@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 15:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 04:57:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마포구 주민이 추천하는 마포구 히든 맛집]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70767</link>
+            <guid>https://www.esquirekorea.co.kr/article/70767</guid>
+            <pubDate>Tue, 20 Sep 2022 04:56:33 GMT</pubDate>
+            <content:encoded><![CDATA[나만 알고 싶은 마포구 맛집 5곳, 지금 소개합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/ce29fbfe-1395-41a6-bdec-158d8dff8337.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국내 대표 걷기 축제 ‘2022 서울 걷자 페스티벌’ 개최]]></title>
             <link>https://www.esquirekorea.co.kr/article/70753</link>
@@ -61,13 +69,6 @@
             <guid>https://www.esquirekorea.co.kr/article/70642</guid>
             <pubDate>Thu, 15 Sep 2022 09:27:31 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/10/08bfa6c9-1212-48d1-9d08-ff394afef4ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본인 기자가 바라본 아베 피살 사건의 의미]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70641</link>
-            <guid>https://www.esquirekorea.co.kr/article/70641</guid>
-            <pubDate>Wed, 14 Sep 2022 05:03:10 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/10/ce9697c7-e944-4b18-9c4f-4cd90d420ecf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

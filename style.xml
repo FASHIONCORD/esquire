@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 15:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 04:57:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남다른 블랙 슈즈]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70660</link>
+            <guid>https://www.esquirekorea.co.kr/article/70660</guid>
+            <pubDate>Tue, 20 Sep 2022 04:52:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/12/3bfefdb5-be6d-4ba6-b153-e7d936061df0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[볼드 링의 존재감]]></title>
             <link>https://www.esquirekorea.co.kr/article/70651</link>
@@ -62,13 +69,6 @@
             <pubDate>Sun, 11 Sep 2022 05:40:56 GMT</pubDate>
             <content:encoded><![CDATA[니트 베스트에 대한 찬사.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/07/2a88ba5f-2b6f-4985-bb5d-002ad59b55bc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[킴 존스의 오마주]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70514</link>
-            <guid>https://www.esquirekorea.co.kr/article/70514</guid>
-            <pubDate>Thu, 08 Sep 2022 15:23:12 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/06/aa6c1ede-093b-469c-8de8-7d8ef2d7db87.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 15:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 04:57:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 대표 걷기 축제 ‘2022 서울 걷자 페스티벌’ 개최]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70753</link>
+            <guid>https://www.esquirekorea.co.kr/article/70753</guid>
+            <pubDate>Tue, 20 Sep 2022 04:56:57 GMT</pubDate>
+            <content:encoded><![CDATA[3년만에 시민들과 함께 호흡한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/15/208acb04-a624-4e48-9e37-afab0bb95983.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[911 에디션 50주년 포르쉐 디자인 국내 공식 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70752</link>
+            <guid>https://www.esquirekorea.co.kr/article/70752</guid>
+            <pubDate>Tue, 20 Sep 2022 04:56:57 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 750대 한정 생산된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/15/fd8f13c1-514a-48c8-8a03-75f83645c44a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 ‘인어공주(The Little Mermaid)’ 첫 예고편 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70669</link>
+            <guid>https://www.esquirekorea.co.kr/article/70669</guid>
+            <pubDate>Tue, 20 Sep 2022 04:56:57 GMT</pubDate>
+            <content:encoded><![CDATA[베일 벗은 할리 베일리 표 에리얼의 모습은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/12/b8bab38b-7874-4a1e-9bc4-4312740f7e8d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3년만에 돌아온 ‘2022 전주 치맥 축제’]]></title>
             <link>https://www.esquirekorea.co.kr/article/70668</link>
@@ -46,30 +70,6 @@
             <pubDate>Mon, 12 Sep 2022 07:42:46 GMT</pubDate>
             <content:encoded><![CDATA[유튜버 클래씨 TV와 함께한 시계 리뷰.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/b2c5218f-9902-44e2-b107-3ab5acbcea17.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔하이픈과 함께한 화보 B컷 공개!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70317</link>
-            <guid>https://www.esquirekorea.co.kr/article/70317</guid>
-            <pubDate>Mon, 12 Sep 2022 07:42:46 GMT</pubDate>
-            <content:encoded><![CDATA[우리가 미처 알지 못했던 엔하이픈의 또 다른 모습.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/31/843c9245-555d-4bf4-95ee-772ead023022.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시 택시요금 인상 검토]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70212</link>
-            <guid>https://www.esquirekorea.co.kr/article/70212</guid>
-            <pubDate>Sun, 11 Sep 2022 09:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[심야할증도 확대 된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/d929979d-3860-481f-ba93-72b919b355c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아바타 리마스터링' 9월 재개봉]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70211</link>
-            <guid>https://www.esquirekorea.co.kr/article/70211</guid>
-            <pubDate>Sun, 11 Sep 2022 09:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[더 선명해진 리마스터링으로 돌아온다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/30/22b6a05f-c766-409f-b225-c219119b7347.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
