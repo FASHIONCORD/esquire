@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 09:47:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 15:38:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['최자로드'에도 없는 진짜 최자맛집 1. 노포 편]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70592</link>
+            <guid>https://www.esquirekorea.co.kr/article/70592</guid>
+            <pubDate>Tue, 20 Sep 2022 15:37:30 GMT</pubDate>
+            <content:encoded><![CDATA[다이나믹듀오의 최자가 에스콰이어에만 공개하는 순도 100% 도가니탕 맛집.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/08/8f71247d-4e9d-459b-807f-c323645a6f0a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신곡 'Last Dance(라스트 댄스)'로 돌아온 유하(YOUHA) 화보 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/70418</link>
+            <guid>https://www.esquirekorea.co.kr/article/70418</guid>
+            <pubDate>Tue, 20 Sep 2022 15:37:30 GMT</pubDate>
+            <content:encoded><![CDATA[유하의 치명적인 매력을 담아왔다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/02/5448dda4-a7e6-4468-b790-4c107153018e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[양 눈알이 숙취해소에 좋다고?]]></title>
             <link>https://www.esquirekorea.co.kr/article/70343</link>
@@ -52,21 +68,6 @@
             <guid>https://www.esquirekorea.co.kr/article/70130</guid>
             <pubDate>Sat, 03 Sep 2022 08:25:40 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/d5c13386-5527-4c11-a5a2-3ad32a88de23.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 이진욱이 고민시, 송강, 김우석 같은 배우와 함께 연기하는 게 '영광'이라고 말한 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/69061</link>
-            <guid>https://www.esquirekorea.co.kr/article/69061</guid>
-            <pubDate>Sat, 03 Sep 2022 08:25:40 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/92ee8f3f-39fc-4ffa-aea2-2d7c506b357b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 이진욱은 '이진욱이라는 사람에게 잘 맞는 시간'이 온 것 같다고 했다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/69059</link>
-            <guid>https://www.esquirekorea.co.kr/article/69059</guid>
-            <pubDate>Sun, 28 Aug 2022 02:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[단순하면서도 깊은 남자로 사는 법에 대하여. 몽블랑의 새 앰배서더 배우 이진욱이 말하는 연기...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202208/25/d33dc691-cd7e-443f-b4a7-f77af8382114.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
