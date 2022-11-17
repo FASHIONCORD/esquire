@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://post.naver.com/my/series/detail.naver?seriesNo=574209&amp;memberNo=40217187</id>
-    <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
-    <updated>2022-10-05T04:16:17.281Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://post.naver.com/my/series/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 17 Nov 2022 03:56:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신청 곡을 들려주세요! 신청 곡 틀어주는 카페&바 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34803266&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34803266&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMTdfMjM4/MDAxNjY4NjQ1MjEzMTQz.w-TZ4khk4QQB5C5N99A9HGt4zD3Zj9h0DrwSMQcsLIog.wt0ZR4Jjnz6fY1su1X9ZFqz5DauSZSSVrKqIsZdzv7Ag.JPEG/IDda-k5BiOu772Rh_MHCQdk2QXew.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[망원은 망리단길만 안다고? 건너편, 망원역 1번 출구 핫한 공간 4!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34763122&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34763122&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDlfOSAg/MDAxNjY3OTgxMjA1NDQw.4Zda2AhsxlCSEo2WtnueNzN7tAxXEy-LeWYawJehj0Ig.4k1Ic26DDy5OOkMu7P9U49ka5EhvO0ddEDaXub5DKUAg.JPEG/IbIEvNQgvvwMt_HtB3yYZOIN1cQY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3만원대로 산더미 같은 회를? 서울의 극강의 가성비 횟집 3]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34762854&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34762854&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDlfMjkg/MDAxNjY3OTgwMzU0MjYz.3-T11ptmcol3dMvdVlXW0b3oM4iU0GQFey8_aGyGuiog.5LYOM09j_xUnUkLnSpq3ic8KRNtFC7HjNbY21eJ217Yg.JPEG/IOOlJXtLL7vpO5LvT7I6hSDwpw08.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을 문화산책 행궁동 데이트 코스 5]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34760656&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34760656&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDlfMjcy/MDAxNjY3OTYxMTY2MTM0.7LVO8WXI4qpsD9Kv0c5yjQu22FzSWBCnfo9o_vGMndAg.LS0UJUKADIgbrRBfHCsNYOuTl5zhWGG0ntYk0ZVUiPIg.JPEG/IKBiNt3mmZT_Bf81qmFoJF8KaPXM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을 단풍 데이트! 양평 갈산공원 주변 가볼 만한 곳 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34757176&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34757176&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDhfNDYg/MDAxNjY3ODk2NTgxNDk3.N3xTdBLbv0waVfwptsPjBTC428Rlh2WmMo4bn6RHwvwg.j9a_F-HDvxJOaa0eycGNygfHxYVrSIxoylgBub2JdfMg.JPEG/IclhIMAfgEFxzN3LIG4X873_SjJA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['전지적 참견 시점' 테이가 방문한 닭볶음탕 집은 어디? 닭볶음탕 맛집 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34729208&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34729208&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDNfMTE4/MDAxNjY3NDM3MzI1NjI5.foIp0GsWpLlE5QZP6Fe3G-fQIYzqVrTFw5XVlRrk4dEg.zX_Fx1tRnTt-xVmji6FnknB_xV3mtVUR-6ioiQZ2V9wg.JPEG/IKjV2fYqAogWJE6NhW8wiRilc8g0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 노포 감자탕 찐 맛집 5]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34729141&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34729141&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDNfODYg/MDAxNjY3NDM2Nzg1NzM3.XLY28LDQrwJ_PppDdq4NuVCWAVIbaZskeW7gDyHkXKog.bmx4Le5QtUVOmROmd9mbaAUD1wFnuwKhPvRRBl_L6Cwg.JPEG/IZyIfMCcMZaf3ZIaNMDT6ku5qjm4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울과 제주의 이색 훠궈 맛집 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34729095&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34729095&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDNfMjQy/MDAxNjY3NDM2MzE0NTc2.qEm5_3YT55ut3-_TZeuXKcinC5gOI6p9_h8LfckyGxwg.nKDvR257eudkYCokPDeuy7abepMbrg5msEztmekoTuwg.JPEG/IV2WuREwK-3sY5XaGH-C40hhYKbo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재래시장 속 신기한 심야 공간 5]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34729046&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34729046&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDJfOCAg/MDAxNjY3MzgxMTU3NjU3.hMqcIbvFiX5pT8QBNrbx9MOQ6tEB_l3zmSM4nl-9J0Ag.p3WMUsIJ9K9dYJ20OP7hI18DcMz_7LBZ0yR8caUnYOYg.JPEG/IUbnIgdA4cT5GwKiOPrB9i8ljFMo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울에서 만나는 서유럽 가정식 맛집 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34683536&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34683536&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjVfMTU5/MDAxNjY2NjgxNDc1NTAw.MetZP7iHl509fkCNJhI-N7gSmVGlSHIqmZwFkyauoJsg.Gkgb90p2YWIGEu1qHbuJzHbsLavKWe_gIT72hzCaqvgg.JPEG/IVrcF_MIFLpizUKdIOk_XDFYweac.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[할명수가 인정한! 박명수 단골 맛집 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34683316&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34683316&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjVfMzcg/MDAxNjY2NjgwMDk2NjYx.juyvAvt8BlyzvaAJmaOot9o4p9cZVXst4FtevUYnmYYg.qKzxAbaOB1uTVAeTgBdR4Je0_S--rxxPSy6_fMSTa8cg.JPEG/Ir_vQ__5ohe4CgwHycrmIwyaCSSE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울세계도시문화축제 근처 핫플 5]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34682834&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34682834&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjVfNjQg/MDAxNjY2Njc2ODk2OTQ3.DfGM69sqkOeBeJ0bAgS0XgYLvtFhelciMgs7ECjqzBIg.caM9O3NImnAi3mNgiC0jQWQC0GjNflMoW8Aagpxbud8g.JPEG/IISpcoiS5xHKLw3gCCt5SnCRGbJc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[취향대로 즐기는 서울 1인 정식 맛집 5]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34642878&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34642878&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMThfMjE4/MDAxNjY2MDU4MzA2OTQ3.lLFD9pS44IJ51QPrQSz3T1-vGd4hgM40STQLqvaSDOIg.e6p3YjRefrp72HI-H1Vt--BLbbH9sdP57H3EoMs4FBsg.JPEG/I1_IX061J7boFzBvnDfEuAeVglNQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 대세는 스페셜티 커피! 서울 스페셜티 커피 전문점 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34613084&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34613084&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTJfMjEy/MDAxNjY1NTQyNTI0MDk1.zPxP31gAXG7_ESr4GKpCC337tmEvSKvm_vaitU9S1qUg.Dgr0n6zPzI5Tp3hc6emtKysdwgfG3orAl9JAHbfuOYgg.JPEG/I5f4n5W_hc9T8XiKjbdxH3CXQU9Y.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 이태원 지구촌축제! 주변 핫한 술집 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34610926&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34610926&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTJfNTIg/MDAxNjY1NTM5OTQ1MDk0.Wxdbd6o81uUKfZJv6eOfHIB5LiP_xDRft_atVT08g44g.NMAAx6V4J-StAillO0Xti0N2p81PIMfhG17RUiLtob4g.GIF/Iui0-Ntbl-WgGuxPE0efJ2mWy_pg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[환승연애2 제주도 편 시작! 4커플이 방문한 제주 맛집은?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34610045&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34610045&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTJfMzYg/MDAxNjY1NTM1NzQwMzcx.gVZcT06SEN0iVH6mCBj3_ZDaXDBrWNccHH-vg-ERlU8g.f-4DaKd7FoVSmkWMYrZy732JgO8IN3z4-eQxp3u1h_Ig.JPEG/IUrNMpgqhzQgn2ZBxyDuug8V1lHQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[또간집 조회수 1위 대구편! 그중 풍자도 놓친 대구 맛집 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34592261&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34592261&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDdfMjM0/MDAxNjY1MTMxNTU0ODQ0.zd5xKuv0R_rqB8XnLC3CFtYQNhmrMiFQhmcZdeXsR6Qg.Thnl3ueqn5TE0hhsi_FeM4y4CFti4NPhLZ54wleJRM4g.JPEG/IBmhotbZXUXtf-JNu-dEgjTE38Co.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극강의 풍미, 서울 트러플 맛집 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34591970&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34591970&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDdfNjUg/MDAxNjY1MTMxMDIzOTYx.utvNSTr0ns3YmIKxGRlRwXib50QwEbcC2HeEGQdo7XIg.PdO7EtMIRdYyYlLdmb7-cJw5xUrTTm_E54EEJDsyJZUg.JPEG/IRwp13bLQyOzfH9DywMArh1_ikzc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을 하늘을 볼 수 있는 서울 하늘 뷰 맛집 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34579752&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34579752&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDdfMTU4/MDAxNjY1MTMwMTUzNTMz.1-ZjwhM_Xw97kRLtNlQrSaw6DFiTtBAKGR3dJPq7Tp8g.MGoUKnpHGkokTxRWRMzX8g2tIpzRqTk83jSLepPUWG0g.JPEG/I7F-ySkBIc-Q59Yznq9Uojjwhc04.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서늘한 가을바람 불어올 땐 뜨끈한 꽃게탕! 서울의 꽃게탕 맛집 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34578300&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34578300&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDVfNTQg/MDAxNjY0OTUwMjIzOTE2.dD66DmZOMvQ2YUlGzII3HgI6Olb3fVYUqYnj9ZrYs_Ig.DcIyKUfOo0LkMIfnmJF96CiI_9jfqg_aPgdWmG3KujIg.JPEG/IKFptKywfu1aRBtN7AFmKwp9ZXCM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
