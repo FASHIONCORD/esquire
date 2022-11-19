@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 15:48:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 03:54:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 18 Nov 2022 09:21:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMTdfMjc4/MDAxNjY4NjQ3MDk5OTMx.MquUNxmd5mgvbJj2xoYz9b5WHl83gUZotapRHV505pog.DPWueJopJU4zPt1xqpcYKjbmgMmqSS4EQHVgx6aqvpQg.JPEG/IxgjWjVhADDt_vAJ6LPicJ8cFoMM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘정육남’이 절대 팔지 않는 돼지 특수부위 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34803589&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34803589&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Sat, 19 Nov 2022 03:42:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMTdfMjU3/MDAxNjY4NjQ3NTQ3MzMw.8adi25vcS4m9GCxbrkvgo8DlhMwYy_fxx9j2WCFqm0Ag.0Yxp-UqL7WxiNg49-TuChtsT2ULiNY5iSF23FhNF0mQg.JPEG/IDIE3Ts5IUk7ZEJqhX9QE4IUjCSI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신청 곡을 들려주세요! 신청 곡 틀어주는 카페&바 4]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDdfNjUg/MDAxNjY1MTMxMDIzOTYx.utvNSTr0ns3YmIKxGRlRwXib50QwEbcC2HeEGQdo7XIg.PdO7EtMIRdYyYlLdmb7-cJw5xUrTTm_E54EEJDsyJZUg.JPEG/IRwp13bLQyOzfH9DywMArh1_ikzc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 하늘을 볼 수 있는 서울 하늘 뷰 맛집 4]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34579752&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34579752&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDdfMTU4/MDAxNjY1MTMwMTUzNTMz.1-ZjwhM_Xw97kRLtNlQrSaw6DFiTtBAKGR3dJPq7Tp8g.MGoUKnpHGkokTxRWRMzX8g2tIpzRqTk83jSLepPUWG0g.JPEG/I7F-ySkBIc-Q59Yznq9Uojjwhc04.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
