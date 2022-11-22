@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 04:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 09:44:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTNfMjU3/MDAxNjQyMDUxNDc2ODE5.FdPwvBnvrq_RXtO5TImaO-CrvLIXiJsCRV9ZNfM1rrIg.I_f5gx-fXtrG5gBAjQBGSAn_jMiF2g1IAEFGYFva4rgg.PNG/IItk2l0TaGtEVGLwc69ULCWoC5do.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[설렁탕 성지 공덕의 설렁탕 4 (네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&DRINK)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34830502&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34830502&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Tue, 22 Nov 2022 09:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjJfMjAw/MDAxNjY5MDk0ODU1ODQ0.UJoyMhSIvcwQbZXuX_zBOCf0j7vwKFBxIzXK5xbTqwsg.6z11VcllcKSZ3GwE36q6nKpJ0Dqjo_0KPy_YGIQV4_wg.JPEG/Iy9Cd82lMZCPb3BAG04tqD6uPx5c.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Chef's pick] '라망시크레' 손종원 셰프가 자주 가는 술집 3 (네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&DRINK)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34806610&amp;memberNo=40217187&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34806610&amp;memberNo=40217187&amp;navigationType=push</guid>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMTJfMzYg/MDAxNjY1NTM1NzQwMzcx.gVZcT06SEN0iVH6mCBj3_ZDaXDBrWNccHH-vg-ERlU8g.f-4DaKd7FoVSmkWMYrZy732JgO8IN3z4-eQxp3u1h_Ig.JPEG/IUrNMpgqhzQgn2ZBxyDuug8V1lHQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또간집 조회수 1위 대구편! 그중 풍자도 놓친 대구 맛집 4 (네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&DRINK)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34592261&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34592261&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMDdfMjM0/MDAxNjY1MTMxNTU0ODQ0.zd5xKuv0R_rqB8XnLC3CFtYQNhmrMiFQhmcZdeXsR6Qg.Thnl3ueqn5TE0hhsi_FeM4y4CFti4NPhLZ54wleJRM4g.JPEG/IBmhotbZXUXtf-JNu-dEgjTE38Co.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다시 돌아온 바시티 재킷 (네이버 포스트 ─ 에스콰이어 코리아 ─ ESHOP)]]></title>
@@ -1383,67 +1383,68 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/05/8024adac-14c9-49d2-928f-864092d21867.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마포구 주민이 추천하는 마포구 히든 맛집 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70767</link>
-            <guid>https://www.esquirekorea.co.kr/article/70767</guid>
-            <pubDate>Tue, 20 Sep 2022 04:56:33 GMT</pubDate>
-            <content:encoded><![CDATA[나만 알고 싶은 마포구 맛집 5곳, 지금 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/16/ce29fbfe-1395-41a6-bdec-158d8dff8337.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[국내 여행 버킷리스트 1순위! 경주 이색 숙소 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/72444</link>
+            <guid>https://www.esquirekorea.co.kr/article/72444</guid>
+            <pubDate>Tue, 22 Nov 2022 09:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[색다른 추억을 쌓을 수 있어 높은 재방문율을 자랑하는 경주의 이색 숙소 4곳을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/18/5ce65b74-ebd5-4a25-8432-34cf8589fb05.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국내 대표 걷기 축제 ‘2022 서울 걷자 페스티벌’ 개최 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70753</link>
-            <guid>https://www.esquirekorea.co.kr/article/70753</guid>
-            <pubDate>Sat, 17 Sep 2022 15:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[3년만에 시민들과 함께 호흡한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/15/208acb04-a624-4e48-9e37-afab0bb95983.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[전통시장 안 돼지갈비 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/72439</link>
+            <guid>https://www.esquirekorea.co.kr/article/72439</guid>
+            <pubDate>Tue, 22 Nov 2022 09:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[돼지갈비는 시장에서 처음 생겼다는 설이 있다. 그 유래를 따라 전통시장에 위치한 돼지갈비 맛...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/21/8e0d712e-59d6-46dc-a457-434033fa00cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[동국대생이 추천하는 을지로 세운상가 필수 코스 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70743</link>
-            <guid>https://www.esquirekorea.co.kr/article/70743</guid>
-            <pubDate>Fri, 16 Sep 2022 15:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[세운상가에서 여기를 안 가봤다고? 지금이라도 늦지 않았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/15/1aff5779-33c1-4245-8f3c-45e89706d596.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[요즘 뜨는 연신내 선술집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/72426</link>
+            <guid>https://www.esquirekorea.co.kr/article/72426</guid>
+            <pubDate>Tue, 22 Nov 2022 09:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[하이볼이 술술 들어가는 연신내의 핫한 선술집들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/17/2dcc2598-ea0c-4c07-800f-814bffb05a48.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[식물로 돈을 버는 법 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70485</link>
-            <guid>https://www.esquirekorea.co.kr/article/70485</guid>
-            <pubDate>Fri, 16 Sep 2022 09:29:35 GMT</pubDate>
-            <content:encoded><![CDATA[스스로 자라는 다이아몬드가 있다면? 상상만 해도 행복하다. 식테크 열풍의 주역인 몬스테라 알...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/13/fe779f0c-90cf-42f7-8ec0-ffa26080121e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[유니폼을 벗고 트렌디한 옷으로 무장한 다나카 디지털 화보 공개! (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/72425</link>
+            <guid>https://www.esquirekorea.co.kr/article/72425</guid>
+            <pubDate>Tue, 22 Nov 2022 09:34:57 GMT</pubDate>
+            <content:encoded><![CDATA['에스콰이어'와 화보를 찍기 위해 일본에서 왔다(?).]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/17/50cc1435-299e-4ccf-b6e2-7b5b3fbe116f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[디즈니픽사 '인사이드아웃' 속편 예고 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70672</link>
-            <guid>https://www.esquirekorea.co.kr/article/70672</guid>
-            <pubDate>Fri, 16 Sep 2022 09:29:35 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 개봉 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/12/71139137-086f-495e-8eaf-75386bd07361.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[18일부터 경기 광역버스 입석 전면 금지 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/72420</link>
+            <guid>https://www.esquirekorea.co.kr/article/72420</guid>
+            <pubDate>Tue, 22 Nov 2022 09:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[안전을 위해 출퇴근길 모두 입석이 제한된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/17/b115a417-176a-4c85-bcff-817977156516.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[디즈니 & 마블 게임 쇼케이스 진행 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70671</link>
-            <guid>https://www.esquirekorea.co.kr/article/70671</guid>
-            <pubDate>Fri, 16 Sep 2022 05:16:44 GMT</pubDate>
-            <content:encoded><![CDATA['디즈니', 이제 게임까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/12/5c1928e8-b6eb-42ef-bc2e-eebbd9fe31dd.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2022 카타르 월드컵에 얽힌 놀라운 이야기 10 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/72391</link>
+            <guid>https://www.esquirekorea.co.kr/article/72391</guid>
+            <pubDate>Tue, 22 Nov 2022 09:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[4년 만에 열린 세계인의 축제. 오일머니가 듬뿍 발린 중동 최초의 월드컵은 무엇을 상상해도 그...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/16/14512d57-186c-4ec9-ad5f-ead1981c82bb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[3년만에 돌아온 ‘2022 전주 치맥 축제’ (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70668</link>
-            <guid>https://www.esquirekorea.co.kr/article/70668</guid>
-            <pubDate>Thu, 15 Sep 2022 09:27:31 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 먹거리와 공연까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/12/fca31d30-23a6-41e3-92d0-793e8d8611a2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[연말 술 약속 있다면 주목! 술을 건강하게 마시는 5가지 방법 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/72383</link>
+            <guid>https://www.esquirekorea.co.kr/article/72383</guid>
+            <pubDate>Tue, 22 Nov 2022 09:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[술도 건강하게 마실 수 있다?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/21/5f6148b2-419b-4c55-b154-124eb6c0d38f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[타들어가는 세계 앞에서 건축가라는 직업은 어떻게 바뀔까? (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70642</link>
-            <guid>https://www.esquirekorea.co.kr/article/70642</guid>
-            <pubDate>Thu, 15 Sep 2022 09:27:31 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202209/10/08bfa6c9-1212-48d1-9d08-ff394afef4ef.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[루이 비통의 알랭 파사르 팝업 레스토랑에서 만날 수 있는 것들 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/72375</link>
+            <guid>https://www.esquirekorea.co.kr/article/72375</guid>
+            <pubDate>Tue, 22 Nov 2022 09:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[알랭 파사르의 채식 코스를 즐기기 위한 예약 전쟁이 시작됐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/15/12a5d925-ecfa-48c4-90fc-200ac9e4e39b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['최자로드'에도 없는 진짜 최자맛집 1. 노포 편 (에스콰이어 코리아 ─ 피플)]]></title>
