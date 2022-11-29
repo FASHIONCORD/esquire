@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 03:55:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 09:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문상훈과 교촌 블랙시크릿이 완성한 농밀한 화보]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34867682&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34867682&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Tue, 29 Nov 2022 09:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjlfNDMg/MDAxNjY5NzA3NzE4MzY1.Bpp7qOMlaWNHKZxoLEaQHMtqkDlb37NQ4bvcJyjQoWMg.m6_szouBQssz8X79JFMjKNwltTR0bLLSkB-TJmlA9P4g.JPEG/I97D98YVG_dxEzceq6bIAsNa2vGk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트위터 인수한 일론 머스크, 일 중독자 일론 머스크에 대해 몰랐던 사실 12]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34792520&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Nov 2022 03:44:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MDNfOTIg/MDAxNjI3OTk2OTk0NDMw.9fP7iPVC2-c68a4_owsFW_XiieSwj4L3wt8Sr8FYcq0g.ItiGmbvSvZy8p_IvKC38vvD_csA5HFclhpSEhg8a42sg.PNG/I2NIqWI65NJI2G4VABn-RZuvmF7c.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신이 모르는 올림픽 스타(3) - "21세기 스나이퍼 권은지"]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32100943&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32100943&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:44:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MDNfMzAw/MDAxNjI3OTk2ODAzOTE2.fOnZ3gywt3HEwqBYxjdBKGOQvnWKUr22vzL6i9YBz5Ig.JThZEvWSzRqxuhCc_tuWup8LQs474uSoKSg0fj1R-b0g.PNG/IzXvsfr6h0ostB0ChTIg-jZI_gTg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
