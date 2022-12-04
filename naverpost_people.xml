@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 15:43:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 03:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미남에 실력까지 겸비한 9번 선수, 조규성에 대해 몰랐던 사실 13]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34872957&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34872957&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Sun, 04 Dec 2022 03:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMzBfMTI3/MDAxNjY5Nzg2NDk1NDUz.I8RG25fT7GH-sCunHdFFAM3iq6TAajtLmp6MiR9T6NQg.M4b6ya8H2JXSBNmdpAqxmpZUmNBsNHUKy5pe-ypok_Ug.JPEG/Ich35JowhHV538pFDKuukmzbheu4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문상훈과 교촌 블랙시크릿이 완성한 농밀한 화보]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34867682&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Nov 2022 03:44:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MDRfMTM5/MDAxNjI4MDEyMjkyMDky.l32GnvTG4ihU_vakgIoI2OR_FEGND2oTHm5ac3nf5MUg.d5jtTOLmd0xZ8OMkyCHTDPqpfEk8bepC8FS09URXX4og.PNG/Iyy8LqLSqygDa_GIjc_DmMdUCGaU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신이 모르는 올림픽 스타(4) - "극적으로 등장한 구세주 황선우"]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32100958&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32100958&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:44:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MDNfOTIg/MDAxNjI3OTk2OTk0NDMw.9fP7iPVC2-c68a4_owsFW_XiieSwj4L3wt8Sr8FYcq0g.ItiGmbvSvZy8p_IvKC38vvD_csA5HFclhpSEhg8a42sg.PNG/I2NIqWI65NJI2G4VABn-RZuvmF7c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
