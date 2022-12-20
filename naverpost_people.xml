@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 15:47:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 03:46:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황재균과 결혼한 새 신부 지연! 그녀에 대해 몰랐던 사실 12]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34990255&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34990255&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Tue, 20 Dec 2022 03:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjBfMTgw/MDAxNjcxNTAyMzU5MTg2.E_CBtpyfqHsRInCX1l1uqRtYHFDVWzZmEspnswjE0fsg.YFjRgM26aNJ6Bm4BW-zL9u9-Gncdpf6lh78abBk5HL8g.JPEG/In-Q7V8wT_BDqaIsSzn8Zg-PcAZE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원조 미남 축구 선수, 안정환에 대해 당신이 몰랐던 사실 12]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34947728&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Nov 2022 03:44:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MTRfMjg3/MDAxNjI4ODcyNzU1NTM5.Kq-oOZ8nKZMEfkEbCzh_Khnk9u_3VFzOq91_pHe5IJIg.dKWipf-yrbGswD3QcI_5-XzSlIZSv9kgSmYU4tgICX4g.PNG/I-RPXsXTNTG9c3tgAKNRpXhiRcgU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신이 모르는 올림픽 스타(6) - "한국 밖에선 이미 스타, 안세영"]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32101591&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32101591&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:44:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA4MDRfOTUg/MDAxNjI4MDEyNTM1NTkz.yk5dltnsVfF2FNzgXW5sjGclC_Q54gRx5pvT3z_DLrkg.oFeF8u47YRXednnZAK9lCA-htbTxQSbpGt77pL4Jurwg.PNG/IoEKbVngA8ucG2MBZGqSUa0ioVDQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
