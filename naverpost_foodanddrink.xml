@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 15:45:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 03:46:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연말 맞이 프리미엄 소주를 파는 술집 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34992456&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34992456&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Fri, 23 Dec 2022 03:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjBfMTc3/MDAxNjcxNTE4NzMwNzY2.ufP95qCwUqBBxi6CZAWT8EV8MXenfaZfmXO5sJJU5l0g.lGpOSi0cJ0CbbT3BhM6b2ul5PWPCK4r72fSKmi9sLAMg.JPEG/IuWma26hdrRoaReU4mSHZHIZrmt0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘정육남’이 온라인 정육점에서 최상급 한우를 저렴하게 구매하는 곳 3]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34991907&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 18 Nov 2022 09:21:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMTdfMjc4/MDAxNjY4NjQ3MDk5OTMx.MquUNxmd5mgvbJj2xoYz9b5WHl83gUZotapRHV505pog.DPWueJopJU4zPt1xqpcYKjbmgMmqSS4EQHVgx6aqvpQg.JPEG/IxgjWjVhADDt_vAJ6LPicJ8cFoMM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11월 놓치지 말아야 할 달콤한 팝업 플레이스 4]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34803702&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34803702&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Sun, 20 Nov 2022 03:47:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMTdfMjc1/MDAxNjY4NjQ4ODE1OTI0.e9Ov2nIB-r6wAoN2IOSb9hzVsugTdULuistkmArNx8kg.6y0jeRE-E8IP9mjqgnTzZx2_Yrx2FLdtJRmPg5gVkIgg.JPEG/IKjxtI6RQTFL7i6riF3CNtms_7rI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
