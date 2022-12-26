@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 15:38:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 03:43:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1320,6 +1320,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/07/c4d08ecd-9f82-43b1-a934-fc0206bef3b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[육즙이 폭발하는 부드러운 갈비살 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/73654</link>
+            <guid>https://www.esquirekorea.co.kr/article/73654</guid>
+            <pubDate>Mon, 26 Dec 2022 03:30:38 GMT</pubDate>
+            <content:encoded><![CDATA[입안에 넣으면 사르르 녹아버리는 갈빗살과 함께 연말 모임을 즐겨보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/23/b58949e8-ec7c-4b83-b4c4-1318203fd144.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[만두전골이 1만원? 연말 가성비 술집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/73630</link>
             <guid>https://www.esquirekorea.co.kr/article/73630</guid>
@@ -1374,14 +1382,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 22 Dec 2022 03:33:20 GMT</pubDate>
             <content:encoded><![CDATA[꽂아 먹을 수 있다면 전부 훌륭한 꼬치구이로 만들어 내는 서울의 꼬치구이 집을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/16/08d491ad-03e9-4b10-a102-824c86ec0951.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2년만에 돌아온 파파이스, 오늘(16일) 오픈! (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/73469</link>
-            <guid>https://www.esquirekorea.co.kr/article/73469</guid>
-            <pubDate>Sun, 25 Dec 2022 03:29:37 GMT</pubDate>
-            <content:encoded><![CDATA[오늘은 치킨박스를 무료로 증정한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/16/f67579b8-f5e8-4982-b344-6a16461c6afd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라코스테가 함께 한 2022 마지막 클럽 에스콰이어 Croc's Day (에스콰이어 코리아 ─ 라이프)]]></title>
