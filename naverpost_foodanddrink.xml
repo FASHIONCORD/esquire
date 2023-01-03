@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 09:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 15:45:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울에서 느끼는 춘천의 맛! 철판 닭갈비 맛집 5]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35071897&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35071897&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Tue, 03 Jan 2023 15:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDNfMjQ0/MDAxNjcyNzM2MDcwODgw.jAOjgdZcGjy4GQbsDORhEMJ5ch3xlgLITTlMGqNEZiQg.FoVlaoctdsUn5j8BQoq7H-UaMiT4Vdj6Vs4jCEtqPJ0g.JPEG/IUDeYJaK_Ot2039pEIJy95OJhjIQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 가장 ‘핫'한 한남, 이태원 우드파이어 와인바 4]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34993196&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 24 Nov 2022 03:29:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjNfNjYg/MDAxNjY5MTgxMTcyNjMw.8P56GAmDr-C55BDyNVSKpTFpvtDHM-2ck1gvnP5ouugg.mmm4i0-5PwuGfy0dodCZvetKWDZHcDUQ0Crer5PJQmcg.JPEG/IckJpCTyWqXsdr95GlBA8BMsbyK0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말 술 약속 있다면 주목! 술을 건강하게 마시는 5가지 방법]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34836347&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34836347&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Wed, 23 Nov 2022 09:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMjNfMjE3/MDAxNjY5MTgwMzc4OTI3.uLeU4WpWafd6mJ86Ftc5MgfBDRpxO2sCQagfzKOrWgcg.gOOf9461btuxp_W4MoPkZDJNkAqdfL8m75h5gksaJ-cg.JPEG/IYfoXBuS6znMkV8h2TzNAPywnky8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
