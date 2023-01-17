@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 15:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 03:39:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 강릉 신상 핫플레이스]]></title>
+            <link>https://www.esquirekorea.co.kr/article/74191</link>
+            <guid>https://www.esquirekorea.co.kr/article/74191</guid>
+            <pubDate>Tue, 17 Jan 2023 03:33:36 GMT</pubDate>
+            <content:encoded><![CDATA[오픈한지 1년이 채 되지 않았지만 벌써 입소문을 타고 있는 강릉의 핫한 공간들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/13/a4468dc5-47d7-48e2-a87e-2b0623a7f278.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[순후추맛 팝콘을 맛볼 수 있는 곳은?]]></title>
             <link>https://www.esquirekorea.co.kr/article/74190</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 16 Jan 2023 09:32:28 GMT</pubDate>
             <content:encoded><![CDATA[라이엇 게임즈가 인천국제공항에 문화복합공간을 열었다. 게이머가 아니더라도 즐길 만한 콘텐츠가...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/11/6315ee82-073c-4f88-9734-c1b9be561734.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 5만원 이하 코스 요리 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74120</link>
-            <guid>https://www.esquirekorea.co.kr/article/74120</guid>
-            <pubDate>Mon, 16 Jan 2023 09:32:28 GMT</pubDate>
-            <content:encoded><![CDATA[집에서 명절을 지내지 않고 근사한 곳에서 외식을 하고 싶다면 주목. 코스요리를 5만 원 이하로...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/10/2c56ffeb-a623-4914-bacc-1abf8918346c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
