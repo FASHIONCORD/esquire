@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 와치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 15:45:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 03:42:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손목 위 팝아트의 향연]]></title>
+            <link>https://www.esquirekorea.co.kr/article/73005</link>
+            <guid>https://www.esquirekorea.co.kr/article/73005</guid>
+            <pubDate>Sat, 28 Jan 2023 03:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[스마트 워치, 타임플릭으로 스타일을 입다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/02/d9c2b9f1-fb75-41b0-a8da-aa79f2c37226.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[결혼 반지, 럭셔리 브랜드 다이아 반지가 99만원?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/72711</link>
+            <guid>https://www.esquirekorea.co.kr/article/72711</guid>
+            <pubDate>Sat, 28 Jan 2023 03:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[에스콰이어와 엘르의 합방 콘텐츠 시리즈 예물 반지 편!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/25/9e1a7598-98a1-423d-bb3b-f202bd92713a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Part2. 로몬은 운동이 마음을 단련하는 방법이라 말했다]]></title>
             <link>https://www.esquirekorea.co.kr/article/72495</link>
@@ -53,21 +69,6 @@
             <pubDate>Thu, 24 Nov 2022 15:24:57 GMT</pubDate>
             <content:encoded><![CDATA[프리미에르 워치 35주년을 맞아 프리미에르 오리지널 에디션을 선보인다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/17/9ac614bf-034c-4fe9-b7a7-58c7f897af80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평범하고도 특별한 시간]]></title>
-            <link>https://www.esquirekorea.co.kr/article/71590</link>
-            <guid>https://www.esquirekorea.co.kr/article/71590</guid>
-            <pubDate>Thu, 24 Nov 2022 15:24:57 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/16/06615287-065d-49ce-a1e5-0adb53dd1a8b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정제된 룩과 간결한 여성 시계]]></title>
-            <link>https://www.esquirekorea.co.kr/article/70956</link>
-            <guid>https://www.esquirekorea.co.kr/article/70956</guid>
-            <pubDate>Thu, 24 Nov 2022 15:24:57 GMT</pubDate>
-            <content:encoded><![CDATA[정제된 룩과 간결하고 아름다운 여성 시계.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/14/e63a1123-498a-4331-8b69-7c5f0b4e1d51.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
