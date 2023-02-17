@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 15:44:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 03:47:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTNfMjU3/MDAxNjQyMDUxNDc2ODE5.FdPwvBnvrq_RXtO5TImaO-CrvLIXiJsCRV9ZNfM1rrIg.I_f5gx-fXtrG5gBAjQBGSAn_jMiF2g1IAEFGYFva4rgg.PNG/IItk2l0TaGtEVGLwc69ULCWoC5do.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[서울 세계 음식 기행 4 (네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&DRINK)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35472017&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35472017&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Fri, 17 Feb 2023 03:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMTVfOTQg/MDAxNjc2NDUyMjA4OTIz.i2q4VA1ZTEAxGwOmASAZAqjhE0Cl98-fY9lvUo2eJNog.reSohBXgei--PAdw03S6rux6Jkjwjyhz_ZTc5ytcjzsg.JPEG/IyOAE93PY3T2JDwEs_ctn1tEJrK0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전국 돈까스 노포 맛집 5 (네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&DRINK)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35471352&amp;memberNo=40217187&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35471352&amp;memberNo=40217187&amp;navigationType=push</guid>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 20 Jan 2023 03:22:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTlfMiAg/MDAxNjc0MDkwMjcwNTA5.7fyXN3LSkOUP_dNd76r5mryjYf1p08ZJEmRSyCVRFgYg.pFVIy99WJDqKAyrNr5v7uG56G6qrku5qJH3UY5ojDMUg.JPEG/Ioo-kQ2OC0zksffjUXVsWU_OyPoY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부담 없는 서울 '잔술' 맛집 4 (네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&DRINK)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35165795&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35165795&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Wed, 18 Jan 2023 03:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTdfMjIg/MDAxNjczOTUwMTQ5Mjk3.JdczV6PCS_5Fwr94vQdVmEXPGpoABPfE14vd3EiXMPUg.bGylpgUrPZQsKa-xfJGQe0sxqaDnxYGrWzoJs3zepqUg.JPEG/IZEeca9kCX4eKTBjWU7HlBPIxHXo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다시 돌아온 바시티 재킷 (네이버 포스트 ─ 에스콰이어 코리아 ─ ESHOP)]]></title>
