@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 09:45:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 15:42:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1195,6 +1195,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/17/8e75b464-348f-46b2-911f-4386592a3622.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[커플 워치를 찾는다면? (에스콰이어 코리아 ─ 와치)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/73253</link>
+            <guid>https://www.esquirekorea.co.kr/article/73253</guid>
+            <pubDate>Tue, 21 Feb 2023 15:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[페라가모 워치로 통하는 우리만의 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/14/ef0af63c-da90-47f4-bfa3-4870cc9f7226.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[손목 위 팝아트의 향연 (에스콰이어 코리아 ─ 와치)]]></title>
             <link>https://www.esquirekorea.co.kr/article/73005</link>
             <guid>https://www.esquirekorea.co.kr/article/73005</guid>
@@ -1248,14 +1256,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sun, 25 Dec 2022 15:21:35 GMT</pubDate>
             <content:encoded><![CDATA[더 강력하고 위트 있게 돌아 온 태그호이어 포뮬러 1 X 마리오 카트 리미티드 에디션!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/20/e1e9581c-bcef-4140-85b5-c8d6697d97e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬 프리미에르 오리지널 에디션 출시 (에스콰이어 코리아 ─ 와치)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/71607</link>
-            <guid>https://www.esquirekorea.co.kr/article/71607</guid>
-            <pubDate>Thu, 24 Nov 2022 15:24:57 GMT</pubDate>
-            <content:encoded><![CDATA[프리미에르 워치 35주년을 맞아 프리미에르 오리지널 에디션을 선보인다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/17/9ac614bf-034c-4fe9-b7a7-58c7f897af80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[텐가는 이 섹스토이가 자사 기술의 최전선이라고 했다 (에스콰이어 코리아 ─ 카&테크)]]></title>
