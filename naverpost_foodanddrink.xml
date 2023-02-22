@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 09:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 15:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['마우리치오 카텔란' 전시와 리움미술관 근처 가볼 곳 5]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35521195&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35521195&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Wed, 22 Feb 2023 15:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjJfMjIy/MDAxNjc3MDQ2MDk1OTIw.XNVHuQICozpK9tOw9_fGV8b5do4L44YpOdUAjGJo4JYg.e5J1eRk7wT4AzUP99AK6w4cGWnlhcD3wWBuoCXHYjwcg.PNG/IXppT11HvIR6l175X2yzCZV6eFtU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정월 대보름 맞이 서울 오곡밥 맛집 4]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35495396&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 22 Jan 2023 03:19:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTlfMzAg/MDAxNjc0MDkzMDk2MzAw.06EomA4aTjReOh_WGQ4VRFs8LtQzHFzUVZ2ycEF84mAg.kBc2Nr0n9AMFmzA6NnMAL2FQj2F-Fi30COjz1nGeHCMg.JPEG/Ihk74-DCYKBAi_fIl4m-33xGblwI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[막걸리 무한리필 맛집 5]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35183516&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35183516&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Sat, 21 Jan 2023 09:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTlfMjYz/MDAxNjc0MDkyMjMwMzMx.hCnzfhZOFfXuXRWhZn2w58LyuFlmT00DQwo4lT65r6kg.Cio8EpzD8Nax5Iol63r-P9bX5S444Qfz1TRan7owhu4g.JPEG/IZc6CJ7quAJ_5EskCXp40Tu8YUkA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

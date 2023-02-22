@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 09:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 15:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화려한 연기 변신, 전도연 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75108</link>
+            <guid>https://www.esquirekorea.co.kr/article/75108</guid>
+            <pubDate>Wed, 22 Feb 2023 15:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[시청률 고공행진 드라마 '일타스캔들'에서 '남행선' 역할을 찰떡같이 소화하고 있는 전도연. 전...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/18/e6e61857-131f-45ba-a661-54bbb501ff95.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전국의 동백꽃 여행지와 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/75107</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 18 Feb 2023 09:27:59 GMT</pubDate>
             <content:encoded><![CDATA[흑돼지 부위 중 가장 맛있다는 오겹살부터 돈마호크, 돈까스, 흑돼지 곰탕까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/10/ccc378b2-9c51-4451-a1c0-deb15ca70926.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맵지 않고 속 편하게 해장할 수 있는 서울의 지리 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74941</link>
-            <guid>https://www.esquirekorea.co.kr/article/74941</guid>
-            <pubDate>Sat, 18 Feb 2023 09:27:59 GMT</pubDate>
-            <content:encoded><![CDATA[맑게, 깨끗하게, 시원하게!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/10/35b51b3d-8c1c-4fc1-8a79-cfd1dcc080c7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

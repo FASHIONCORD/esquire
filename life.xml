@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 09:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 15:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이엘리야, 알고보니 힙합 전사였던 과거?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75209</link>
+            <guid>https://www.esquirekorea.co.kr/article/75209</guid>
+            <pubDate>Wed, 22 Feb 2023 15:22:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/f28ee292-07aa-4f10-9e4d-47c97c744733.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 서울 신상 주점 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/75207</link>
@@ -62,14 +69,6 @@
             <pubDate>Wed, 22 Feb 2023 03:24:58 GMT</pubDate>
             <content:encoded><![CDATA[30년은 기본! 3대째 이어오는 전통있는 맛집까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/18e74e43-2dcb-4106-8755-f6ac7fa6c863.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구워서 나오는 서울 고깃집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75068</link>
-            <guid>https://www.esquirekorea.co.kr/article/75068</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[고기 냄새가 밸 걱정도, 굽느라 못 먹는 일도 여기서는 모두 해결된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/945b3fed-7710-47e5-8270-c18c25f791c5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

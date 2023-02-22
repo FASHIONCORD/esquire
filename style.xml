@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 09:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 15:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남자의 파스텔]]></title>
+            <link>https://www.esquirekorea.co.kr/article/74477</link>
+            <guid>https://www.esquirekorea.co.kr/article/74477</guid>
+            <pubDate>Wed, 22 Feb 2023 15:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[서둘러 파스텔을 입는다. 봄을 기다리며.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/09/fa8c15d9-2b1d-4989-ac61-c7777ec36436.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타벅스가 만난 춘식이!]]></title>
             <link>https://www.esquirekorea.co.kr/article/74890</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Feb 2023 03:24:07 GMT</pubDate>
             <content:encoded><![CDATA[여기, 처음 만나는 여덟 개의 가방.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/06/0e589a59-2836-43c0-9a9c-7fa9a30f728c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나만 모르고 주변 사람은 다 아는 냄새 나는 신체 부위 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74784</link>
-            <guid>https://www.esquirekorea.co.kr/article/74784</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[보디워시, 보디로션, 향수 온갖 향기로 덮어도 소용없다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/06/ac968ee1-c9ec-470b-8b77-8bda14dd3391.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
