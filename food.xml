@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 03:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 09:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전국의 동백꽃 여행지와 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75107</link>
+            <guid>https://www.esquirekorea.co.kr/article/75107</guid>
+            <pubDate>Wed, 22 Feb 2023 09:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[동백꽃은 제주에서만 볼 수 있는 게 아니다, 전국의 동백꽃 여행지와 함께 대표 맛집을 소개한...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/18/dbebab4f-1c27-4bcb-9423-53732b9d3651.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울 족발 노포 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/75100</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 18 Feb 2023 09:27:59 GMT</pubDate>
             <content:encoded><![CDATA[맑게, 깨끗하게, 시원하게!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/10/35b51b3d-8c1c-4fc1-8a79-cfd1dcc080c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포테토칩 엽떡오리지날맛 출시!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74938</link>
-            <guid>https://www.esquirekorea.co.kr/article/74938</guid>
-            <pubDate>Sat, 18 Feb 2023 09:27:59 GMT</pubDate>
-            <content:encoded><![CDATA[얼마나 매울까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/10/2a5f6ad6-007e-490c-902c-8834bd52e439.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

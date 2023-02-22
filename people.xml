@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 03:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 09:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쇼미더머니11 준우승, 허성현 화보 단독 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75199</link>
+            <guid>https://www.esquirekorea.co.kr/article/75199</guid>
+            <pubDate>Wed, 22 Feb 2023 09:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[24일엔 신곡 라이브도 만날 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/ebabd3f5-f539-4684-8a9d-a194f831856d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[환승연애 규민과 딘딘이 함께 노래를 냈다고?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75177</link>
+            <guid>https://www.esquirekorea.co.kr/article/75177</guid>
+            <pubDate>Wed, 22 Feb 2023 09:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[닮은 꼴 두 사람이 낸 곡 제목은 '닮은 사람'이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/3eb4becc-3490-418e-957c-9e00f208abb6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MBC  PD가 희대의 넷플릭스 예능 <피지컬: 100>을 만들 수 있었던 이유]]></title>
             <link>https://www.esquirekorea.co.kr/article/75173</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 22 Feb 2023 03:25:06 GMT</pubDate>
             <content:encoded><![CDATA[전도연이 유재석과 서울예대 동기라고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/13/ecaf6a4b-e985-4ce4-887a-a84a2970fd10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피겨스케이팅 이해인 선수, 금메달 획득]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74970</link>
-            <guid>https://www.esquirekorea.co.kr/article/74970</guid>
-            <pubDate>Wed, 22 Feb 2023 03:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[김연아 선수 이후 14년만이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/13/47d69d56-f391-4fdc-913a-bc436e6fb4bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, 3월 솔로 출격!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74969</link>
-            <guid>https://www.esquirekorea.co.kr/article/74969</guid>
-            <pubDate>Wed, 22 Feb 2023 03:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[음악 방송 활동도 계획중이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/13/69a6bb18-5102-44ee-b7e3-f80a45ce7993.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

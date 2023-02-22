@@ -4,16 +4,32 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 03:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 09:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 서울 신상 주점 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75207</link>
+            <guid>https://www.esquirekorea.co.kr/article/75207</guid>
+            <pubDate>Wed, 22 Feb 2023 09:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[나만 알고 싶은 포토존 바부터 아늑한 산장에 들어온 듯한 공간까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/6186b2d1-e10c-49d7-b4cb-3eb982a656a4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[환승연애 규민과 딘딘이 함께 노래를 냈다고?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75177</link>
+            <guid>https://www.esquirekorea.co.kr/article/75177</guid>
+            <pubDate>Wed, 22 Feb 2023 09:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[닮은 꼴 두 사람이 낸 곡 제목은 '닮은 사람'이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/3eb4becc-3490-418e-957c-9e00f208abb6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[돈두댓 서베이] 성관계 직후 이성에게 정이 뚝 떨어지는 행동?]]></title>
             <link>https://www.esquirekorea.co.kr/article/75165</link>
             <guid>https://www.esquirekorea.co.kr/article/75165</guid>
             <pubDate>Wed, 22 Feb 2023 03:24:58 GMT</pubDate>
             <content:encoded><![CDATA[이것만큼은 참아 줬으면]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/02584795-b910-4665-980c-32890608ca2c.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/02584795-b910-4665-980c-32890608ca2c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[5500만 원 상당의 '풍선개' 박살 난 사연]]></title>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 22 Feb 2023 03:24:58 GMT</pubDate>
             <content:encoded><![CDATA[고기 냄새가 밸 걱정도, 굽느라 못 먹는 일도 여기서는 모두 해결된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/945b3fed-7710-47e5-8270-c18c25f791c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김완선, 엄정화, 이효리, 보아, 화사가 출연하는 예능?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75065</link>
-            <guid>https://www.esquirekorea.co.kr/article/75065</guid>
-            <pubDate>Mon, 20 Feb 2023 09:34:01 GMT</pubDate>
-            <content:encoded><![CDATA[김태호의 새 예능 댄스 가수 유랑단이 곧 공개된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/c3c72d2b-6fa7-4472-8c3f-74beb71817a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초간편 남성 피임약 개발]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75045</link>
-            <guid>https://www.esquirekorea.co.kr/article/75045</guid>
-            <pubDate>Sat, 18 Feb 2023 09:28:06 GMT</pubDate>
-            <content:encoded><![CDATA[한 번 먹으면 3시간동안 정자 활동이 멈춘다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/2bf43f0a-8d1c-4aa9-9d73-91aa38337106.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
