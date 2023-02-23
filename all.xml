@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 09:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 15:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1320,6 +1320,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/09/81565fc9-633e-4b15-9d51-41a678f62f80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[40년 이상 운영한 서울 김치찌개 노포 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75240</link>
+            <guid>https://www.esquirekorea.co.kr/article/75240</guid>
+            <pubDate>Thu, 23 Feb 2023 09:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[쭈꾸미, 돼지고기가 통째로 들어가는 김치찌개부터 임영웅이 다녀간 맛집까지?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/388652bd-ad7f-4ea6-afab-f3668f8bf4f2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하루 2시간만 운영! 맛 보장 전국 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/75225</link>
             <guid>https://www.esquirekorea.co.kr/article/75225</guid>
@@ -1375,12 +1383,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/32ec56ab-6b9c-419c-9c20-1bb24707be75.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[구워서 나오는 서울 고깃집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75068</link>
-            <guid>https://www.esquirekorea.co.kr/article/75068</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[고기 냄새가 밸 걱정도, 굽느라 못 먹는 일도 여기서는 모두 해결된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/945b3fed-7710-47e5-8270-c18c25f791c5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[마스크를 벗으니 비로소 느껴지는 주변인의 입 냄새! 혹시 나도? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75279</link>
+            <guid>https://www.esquirekorea.co.kr/article/75279</guid>
+            <pubDate>Thu, 23 Feb 2023 15:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[입 냄새 자가진단법 4]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/072b03dc-b7bf-4acf-a4e6-338ecd4605f8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이.엠 사전확정요금제 출시 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75270</link>
+            <guid>https://www.esquirekorea.co.kr/article/75270</guid>
+            <pubDate>Thu, 23 Feb 2023 15:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[이제 불안한 눈빛으로 미터기 보는 일 없겠다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/95e1f8b2-148b-480c-b705-6b9f95f5004a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구글 트렌드 ‘스시 맛집(feat. 서울, 안산, 수원, 도쿄, 후쿠오카)’ 탑 5 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1430,20 +1446,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/f28ee292-07aa-4f10-9e4d-47c97c744733.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023 서울 신상 주점 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75207</link>
-            <guid>https://www.esquirekorea.co.kr/article/75207</guid>
-            <pubDate>Wed, 22 Feb 2023 09:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[나만 알고 싶은 포토존 바부터 아늑한 산장에 들어온 듯한 공간까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/6186b2d1-e10c-49d7-b4cb-3eb982a656a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환승연애 규민과 딘딘이 함께 노래를 냈다고? (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75177</link>
-            <guid>https://www.esquirekorea.co.kr/article/75177</guid>
-            <pubDate>Wed, 22 Feb 2023 09:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[닮은 꼴 두 사람이 낸 곡 제목은 '닮은 사람'이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/3eb4becc-3490-418e-957c-9e00f208abb6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Part2. 이종석의 결정은 현실에 두 발을 붙인다 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75233</link>
+            <guid>https://www.esquirekorea.co.kr/article/75233</guid>
+            <pubDate>Thu, 23 Feb 2023 15:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[이종석은 자신의 수많은 결정이 현실적인 문제의식에서 기인한다고 말했다. 두 발을 땅에 찰싹 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/18c05bb8-aa18-464b-a6ff-3d752530e026.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘일타 스캔들’ 스윗 최치열 정경호, 정경호에 대한 소소한 TMI 12. (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1499,14 +1507,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 22 Feb 2023 03:25:06 GMT</pubDate>
             <content:encoded><![CDATA[넉살과 까데호는 농부이자 셰프다. 합주실에 모여 드럼과 기타를 뚱땅거리며 만들어낸 오가닉한 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/d2b5c311-831e-49a5-9dff-48d7aac02aec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화려한 연기 변신, 전도연 맛집 5 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75108</link>
-            <guid>https://www.esquirekorea.co.kr/article/75108</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[시청률 고공행진 드라마 '일타스캔들'에서 '남행선' 역할을 찰떡같이 소화하고 있는 전도연. 전...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/18/e6e61857-131f-45ba-a661-54bbb501ff95.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[언더커버 × 도요타 협업 공개! (에스콰이어 코리아 ─ 나우)]]></title>

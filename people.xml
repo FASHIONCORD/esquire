@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 09:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 15:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Part2. 이종석의 결정은 현실에 두 발을 붙인다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75233</link>
+            <guid>https://www.esquirekorea.co.kr/article/75233</guid>
+            <pubDate>Thu, 23 Feb 2023 15:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[이종석은 자신의 수많은 결정이 현실적인 문제의식에서 기인한다고 말했다. 두 발을 땅에 찰싹 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/18c05bb8-aa18-464b-a6ff-3d752530e026.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘일타 스캔들’ 스윗 최치열 정경호, 정경호에 대한 소소한 TMI 12.]]></title>
             <link>https://www.esquirekorea.co.kr/article/75226</link>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 22 Feb 2023 03:25:06 GMT</pubDate>
             <content:encoded><![CDATA[넉살과 까데호는 농부이자 셰프다. 합주실에 모여 드럼과 기타를 뚱땅거리며 만들어낸 오가닉한 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/d2b5c311-831e-49a5-9dff-48d7aac02aec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화려한 연기 변신, 전도연 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75108</link>
-            <guid>https://www.esquirekorea.co.kr/article/75108</guid>
-            <pubDate>Wed, 22 Feb 2023 03:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[시청률 고공행진 드라마 '일타스캔들'에서 '남행선' 역할을 찰떡같이 소화하고 있는 전도연. 전...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/18/e6e61857-131f-45ba-a661-54bbb501ff95.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

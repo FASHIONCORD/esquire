@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 09:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 15:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[40년 이상 운영한 서울 김치찌개 노포 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75240</link>
+            <guid>https://www.esquirekorea.co.kr/article/75240</guid>
+            <pubDate>Thu, 23 Feb 2023 15:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[쭈꾸미, 돼지고기가 통째로 들어가는 김치찌개부터 임영웅이 다녀간 맛집까지?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/388652bd-ad7f-4ea6-afab-f3668f8bf4f2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하루 2시간만 운영! 맛 보장 전국 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/75225</link>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 22 Feb 2023 03:24:49 GMT</pubDate>
             <content:encoded><![CDATA[모든 애주가들 집중. 소주를 가장 저렴하게 즐길 수 있는 서울의 술집들을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/32ec56ab-6b9c-419c-9c20-1bb24707be75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구워서 나오는 서울 고깃집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75068</link>
-            <guid>https://www.esquirekorea.co.kr/article/75068</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[고기 냄새가 밸 걱정도, 굽느라 못 먹는 일도 여기서는 모두 해결된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/945b3fed-7710-47e5-8270-c18c25f791c5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
