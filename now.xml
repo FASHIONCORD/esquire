@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 03:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 09:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[언더커버 × 도요타 협업 공개!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75061</link>
+            <guid>https://www.esquirekorea.co.kr/article/75061</guid>
+            <pubDate>Thu, 23 Feb 2023 09:21:24 GMT</pubDate>
+            <content:encoded><![CDATA['언더커버맛 캠리'의 등장?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/1da4aced-2cc1-45bd-b991-9fef4aa91465.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[앤 마리 x (여자)아이들 민니 콜라보]]></title>
             <link>https://www.esquirekorea.co.kr/article/75037</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Feb 2023 03:25:29 GMT</pubDate>
             <content:encoded><![CDATA[디자이너 최초로 코스와 협업한 리스 예보아를 만났다. 그가 말하는 변화와 탈피 그리고 도전에...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/08/e2486bc5-e141-458d-af4f-eb31b1d29acd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고든 램지, 민트초코, 파인애플 피자에 대해 드디어 입을 열다!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74805</link>
-            <guid>https://www.esquirekorea.co.kr/article/74805</guid>
-            <pubDate>Wed, 22 Feb 2023 03:25:29 GMT</pubDate>
-            <content:encoded><![CDATA[그렇다면 육회를 먹었을 때의 반응은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/05/2792bdff-5880-4a9f-bda1-6f440d31a7ca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

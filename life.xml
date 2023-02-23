@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 03:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 09:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 트렌드 ‘스시 맛집(feat. 서울, 안산, 수원, 도쿄, 후쿠오카)’ 탑 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75264</link>
+            <guid>https://www.esquirekorea.co.kr/article/75264</guid>
+            <pubDate>Thu, 23 Feb 2023 09:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[구글 트렌드에서 가장 많이 검색한 스시 맛집은 과연 어디일까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/441ee802-428e-4bf8-8db0-6377125c6591.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[허성현, 던말릭과 로스 중 디스전 상대를 고른다면?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75259</link>
+            <guid>https://www.esquirekorea.co.kr/article/75259</guid>
+            <pubDate>Thu, 23 Feb 2023 09:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[쇼미더머니 비하인드 에피소드와 새 앨범 스포까지 모두 모았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/03489981-d0e3-4888-98cb-c986e679c734.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[40년 이상 운영한 서울 김치찌개 노포 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75240</link>
+            <guid>https://www.esquirekorea.co.kr/article/75240</guid>
+            <pubDate>Thu, 23 Feb 2023 09:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[쭈꾸미, 돼지고기가 통째로 들어가는 김치찌개부터 임영웅이 다녀간 맛집까지?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/388652bd-ad7f-4ea6-afab-f3668f8bf4f2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하루 2시간만 운영! 맛 보장 전국 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/75225</link>
@@ -45,30 +69,6 @@
             <pubDate>Wed, 22 Feb 2023 09:22:34 GMT</pubDate>
             <content:encoded><![CDATA[닮은 꼴 두 사람이 낸 곡 제목은 '닮은 사람'이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/3eb4becc-3490-418e-957c-9e00f208abb6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돈두댓 서베이] 성관계 직후 이성에게 정이 뚝 떨어지는 행동?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75165</link>
-            <guid>https://www.esquirekorea.co.kr/article/75165</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[이것만큼은 참아 줬으면]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/02584795-b910-4665-980c-32890608ca2c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5500만 원 상당의 '풍선개' 박살 난 사연]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75151</link>
-            <guid>https://www.esquirekorea.co.kr/article/75151</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[최소 100조각 이상으로 깨졌다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/8dfe65ce-ea3f-4469-ba87-dc7e2ce5fa10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화려한 연기 변신, 전도연 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75108</link>
-            <guid>https://www.esquirekorea.co.kr/article/75108</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[시청률 고공행진 드라마 '일타스캔들'에서 '남행선' 역할을 찰떡같이 소화하고 있는 전도연. 전...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/18/e6e61857-131f-45ba-a661-54bbb501ff95.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

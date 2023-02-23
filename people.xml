@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 03:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 09:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘일타 스캔들’ 스윗 최치열 정경호, 정경호에 대한 소소한 TMI 12.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75226</link>
+            <guid>https://www.esquirekorea.co.kr/article/75226</guid>
+            <pubDate>Thu, 23 Feb 2023 09:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[데뷔 초반엔 연기력이 부족해 바스트 샷도 없었다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/d69e359d-6993-4ccc-8668-9bbf47da1707.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part1. 이종석이 <빅마우스>에서 일부러 연기에 빈틈을 뒀던 데는 이유가 있다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75126</link>
+            <guid>https://www.esquirekorea.co.kr/article/75126</guid>
+            <pubDate>Thu, 23 Feb 2023 09:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[이종석은 자신의 수많은 결정이 현실적인 문제의식에서 기인한다고 말했다. 두 발을 땅에 찰싹 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/cbcab773-4adf-497d-870b-90bd9630b4de.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이엘리야, 알고보니 힙합 전사였던 과거?]]></title>
             <link>https://www.esquirekorea.co.kr/article/75209</link>
@@ -53,22 +69,6 @@
             <pubDate>Wed, 22 Feb 2023 03:25:06 GMT</pubDate>
             <content:encoded><![CDATA[시청률 고공행진 드라마 '일타스캔들'에서 '남행선' 역할을 찰떡같이 소화하고 있는 전도연. 전...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/18/e6e61857-131f-45ba-a661-54bbb501ff95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김완선, 엄정화, 이효리, 보아, 화사가 출연하는 예능?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75065</link>
-            <guid>https://www.esquirekorea.co.kr/article/75065</guid>
-            <pubDate>Wed, 22 Feb 2023 03:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[김태호의 새 예능 댄스 가수 유랑단이 곧 공개된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/c3c72d2b-6fa7-4472-8c3f-74beb71817a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라마 궁, 리메이크 확정!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75006</link>
-            <guid>https://www.esquirekorea.co.kr/article/75006</guid>
-            <pubDate>Wed, 22 Feb 2023 03:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[2006년 주지훈과 윤은혜를 배출한 화제의 드라마가 돌아온다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/14/f6951d27-db21-45f7-92cd-50f5167d6588.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

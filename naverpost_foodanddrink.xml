@@ -4,16 +4,24 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 03:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 09:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[50년째 자가제면 칼국수를 내주는 노포 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35526961&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35526961&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 23 Feb 2023 09:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjNfMjQ4/MDAxNjc3MTM5OTIzNTU5.TwtuxIXXLwT4kMlimbgN69CeH74xAbofc9JBW7SZr7Ug.OYJWnPMYKr2JHFQ6TapKUaUVnAXeS8JK6fRZG_HmdEMg.JPEG/IGfOdwZbbcDdA-VMX67Ky1UgnBy4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['마우리치오 카텔란' 전시와 리움미술관 근처 가볼 곳 5]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35521195&amp;memberNo=40217187&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35521195&amp;memberNo=40217187&amp;navigationType=push</guid>
             <pubDate>Wed, 22 Feb 2023 15:21:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjJfMjIy/MDAxNjc3MDQ2MDk1OTIw.XNVHuQICozpK9tOw9_fGV8b5do4L44YpOdUAjGJo4JYg.e5J1eRk7wT4AzUP99AK6w4cGWnlhcD3wWBuoCXHYjwcg.PNG/IXppT11HvIR6l175X2yzCZV6eFtU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAyMjJfNyAg/MDAxNjc3MDUyNjk3MTU5.t4BnEJTkfS4Tmh9uGlOBbwgzfJE-9_yfZD55443da4Mg.BgRsO-KpZdb-5nexijHa8QSWd1c9On28lF5NFaBw-xAg.JPEG/ILb--mANY1kjIrlYwK5yexjMVv4M.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정월 대보름 맞이 서울 오곡밥 맛집 4]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 23 Jan 2023 03:20:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTlfMTI2/MDAxNjc0MTA2MTY4MDEz.9qEYfocCHJiykiMF0FI0nMREy7KIp88VIFoQewmIPNgg.dFiPKYUQKEVpektPKFOj2vUrHmYg4K94aEP1gXMOJO8g.JPEG/IoOlyq43a4JuVTzcDHUXTN0xl7hU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 대표 노포 아구찜 맛집 4]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35184219&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35184219&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Sun, 22 Jan 2023 03:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTlfMzAg/MDAxNjc0MDkzMDk2MzAw.06EomA4aTjReOh_WGQ4VRFs8LtQzHFzUVZ2ycEF84mAg.kBc2Nr0n9AMFmzA6NnMAL2FQj2F-Fi30COjz1nGeHCMg.JPEG/Ihk74-DCYKBAi_fIl4m-33xGblwI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
