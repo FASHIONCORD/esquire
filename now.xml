@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 15:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 03:27:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[앤 마리 x (여자)아이들 민니 콜라보]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75037</link>
+            <guid>https://www.esquirekorea.co.kr/article/75037</guid>
+            <pubDate>Thu, 23 Feb 2023 03:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[두 음색 깡패의 만남이 벌써부터 기대된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/28a69fa3-8c44-45e7-b7e0-b7ec2302a77e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포테토칩 엽떡오리지날맛 출시!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/74938</link>
+            <guid>https://www.esquirekorea.co.kr/article/74938</guid>
+            <pubDate>Thu, 23 Feb 2023 03:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[얼마나 매울까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/10/2a5f6ad6-007e-490c-902c-8834bd52e439.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[챗GPT, 미국 의사 면허 시험 합격]]></title>
             <link>https://www.esquirekorea.co.kr/article/74929</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 22 Feb 2023 03:25:29 GMT</pubDate>
             <content:encoded><![CDATA[그렇다면 육회를 먹었을 때의 반응은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/05/2792bdff-5880-4a9f-bda1-6f440d31a7ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아내를 향한 디스 곡! 유세윤 Mother Soccer(Feat. 수퍼비) 공개!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74798</link>
-            <guid>https://www.esquirekorea.co.kr/article/74798</guid>
-            <pubDate>Wed, 22 Feb 2023 03:25:29 GMT</pubDate>
-            <content:encoded><![CDATA[이 곡을 전국에 있는 남편에게 바친다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/03/5be7afbf-b5ab-43a4-81de-418c7cc88faa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '콘스탄틴 2' 제작 확정]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74789</link>
-            <guid>https://www.esquirekorea.co.kr/article/74789</guid>
-            <pubDate>Wed, 22 Feb 2023 03:25:29 GMT</pubDate>
-            <content:encoded><![CDATA[18년 만에 속편으로 돌아온다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/03/59d72978-84f6-44fb-b62e-481fb32ffc31.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

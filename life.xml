@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 15:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 03:27:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하루 2시간만 운영! 맛 보장 전국 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75225</link>
+            <guid>https://www.esquirekorea.co.kr/article/75225</guid>
+            <pubDate>Thu, 23 Feb 2023 03:26:36 GMT</pubDate>
+            <content:encoded><![CDATA[짧은 영업시간에도 불구하고 늘 재료 소진으로 많은 이들에게 사랑을 받고 있는 맛집을 소개한다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/22009321-92ce-411e-a1ec-7dc1e068eafc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코라크릿 아룬나논차이가 들려주는 불과 재와 유령의 이야기]]></title>
+            <link>https://www.esquirekorea.co.kr/article/74520</link>
+            <guid>https://www.esquirekorea.co.kr/article/74520</guid>
+            <pubDate>Thu, 23 Feb 2023 03:26:36 GMT</pubDate>
+            <content:encoded><![CDATA[코라크릿 아룬나논차이는 불과 불에 탄 재의 이야기를 들려준다. 그리고 그건 종종 떠나간 것들...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/1c01b1ec-6b80-4f70-938c-9eaaf772ae30.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이엘리야, 알고보니 힙합 전사였던 과거?]]></title>
             <link>https://www.esquirekorea.co.kr/article/75209</link>
@@ -53,22 +69,6 @@
             <pubDate>Wed, 22 Feb 2023 03:24:58 GMT</pubDate>
             <content:encoded><![CDATA[시청률 고공행진 드라마 '일타스캔들'에서 '남행선' 역할을 찰떡같이 소화하고 있는 전도연. 전...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/18/e6e61857-131f-45ba-a661-54bbb501ff95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전국의 동백꽃 여행지와 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75107</link>
-            <guid>https://www.esquirekorea.co.kr/article/75107</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[동백꽃은 제주에서만 볼 수 있는 게 아니다, 전국의 동백꽃 여행지와 함께 대표 맛집을 소개한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/18/dbebab4f-1c27-4bcb-9423-53732b9d3651.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 족발 노포 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75100</link>
-            <guid>https://www.esquirekorea.co.kr/article/75100</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[30년은 기본! 3대째 이어오는 전통있는 맛집까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/18e74e43-2dcb-4106-8755-f6ac7fa6c863.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

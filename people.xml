@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 15:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 03:27:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이엘리야, 알고보니 힙합 전사였던 과거?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75209</link>
+            <guid>https://www.esquirekorea.co.kr/article/75209</guid>
+            <pubDate>Thu, 23 Feb 2023 03:26:45 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/f28ee292-07aa-4f10-9e4d-47c97c744733.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쇼미더머니11 준우승, 허성현 화보 단독 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/75199</link>
@@ -62,14 +69,6 @@
             <pubDate>Wed, 22 Feb 2023 03:25:06 GMT</pubDate>
             <content:encoded><![CDATA[2006년 주지훈과 윤은혜를 배출한 화제의 드라마가 돌아온다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/14/f6951d27-db21-45f7-92cd-50f5167d6588.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칸의 여왕에서 로코 퀸으로! 일타스캔들 흥행 주인공, 전도연 TMI 12.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74978</link>
-            <guid>https://www.esquirekorea.co.kr/article/74978</guid>
-            <pubDate>Wed, 22 Feb 2023 03:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[전도연이 유재석과 서울예대 동기라고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/13/ecaf6a4b-e985-4ce4-887a-a84a2970fd10.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

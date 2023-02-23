@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 15:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 03:27:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팀버랜드 부츠 50주년을 기념하는 퓨처 73 프로젝트]]></title>
+            <link>https://www.esquirekorea.co.kr/article/74927</link>
+            <guid>https://www.esquirekorea.co.kr/article/74927</guid>
+            <pubDate>Thu, 23 Feb 2023 03:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[이 프로젝트는 여섯 명의 퓨처 메이커와 함께 팀버랜드의 과거와 현재, 미래를 아주 새로운 방...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/10/b7c8d811-6a91-4edd-b297-29fe3b7e9254.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남자의 파스텔]]></title>
             <link>https://www.esquirekorea.co.kr/article/74477</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Feb 2023 03:24:07 GMT</pubDate>
             <content:encoded><![CDATA[협업에서 공동 창조까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/06/1e33e7da-e15c-4335-b9b0-3f512de3e67a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새 가방에는 좋은 것만 담고 싶다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74326</link>
-            <guid>https://www.esquirekorea.co.kr/article/74326</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[여기, 처음 만나는 여덟 개의 가방.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/06/0e589a59-2836-43c0-9a9c-7fa9a30f728c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
