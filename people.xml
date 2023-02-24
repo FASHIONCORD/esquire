@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 09:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 15:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Part2. 이엘리야에게 <미끼>가 정말로 특별한 작품인 이유]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75282</link>
+            <guid>https://www.esquirekorea.co.kr/article/75282</guid>
+            <pubDate>Fri, 24 Feb 2023 15:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[10년 차 배우 이엘리야는 최근에야 배우라는 직업을 믿기 시작했다. 그러니 이제 그녀에겐 연기...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/9cc1ec85-e1b8-447f-9943-910fffdbb021.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part1. 이엘리야가 밝힌 남다른 노래 실력의 비밀]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75133</link>
+            <guid>https://www.esquirekorea.co.kr/article/75133</guid>
+            <pubDate>Fri, 24 Feb 2023 15:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[10년 차 배우 이엘리야는 최근에야 배우라는 직업을 믿기 시작했다. 그러니 이제 그녀에겐 연기...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/e43e704b-3645-48c8-902a-8d0dca4f1c31.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[허성현, 던말릭과 로스 중 디스전 상대를 고른다면?]]></title>
             <link>https://www.esquirekorea.co.kr/article/75259</link>
@@ -53,22 +69,6 @@
             <pubDate>Wed, 22 Feb 2023 09:22:42 GMT</pubDate>
             <content:encoded><![CDATA[24일엔 신곡 라이브도 만날 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/ebabd3f5-f539-4684-8a9d-a194f831856d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환승연애 규민과 딘딘이 함께 노래를 냈다고?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75177</link>
-            <guid>https://www.esquirekorea.co.kr/article/75177</guid>
-            <pubDate>Wed, 22 Feb 2023 09:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[닮은 꼴 두 사람이 낸 곡 제목은 '닮은 사람'이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/3eb4becc-3490-418e-957c-9e00f208abb6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBC  PD가 희대의 넷플릭스 예능 <피지컬: 100>을 만들 수 있었던 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75173</link>
-            <guid>https://www.esquirekorea.co.kr/article/75173</guid>
-            <pubDate>Wed, 22 Feb 2023 03:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[‘현실판 오징어 게임’이라 불리며 세계적 인기를 구가하고 있는 넷플릭스 시리즈 &lt;피지컬: 100...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/cbaddfef-ca0d-4808-b48c-5f8261698a04.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

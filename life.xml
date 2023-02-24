@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 09:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 15:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주말 데이트 추천! 미군부대, 송프란시스코 핫플레이스5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75288</link>
+            <guid>https://www.esquirekorea.co.kr/article/75288</guid>
+            <pubDate>Fri, 24 Feb 2023 15:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[미국식 햄버거부터 도넛, 피자 귀여운 소품샵까지. 가까운 송탄으로 미국 여행을 떠나보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/0e2ef9e7-4543-432e-beec-5d00e624f3a5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티웨이항공, 업계 최초 구독형 멤버십 서비스 '티웨이플러스' 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75280</link>
+            <guid>https://www.esquirekorea.co.kr/article/75280</guid>
+            <pubDate>Fri, 24 Feb 2023 15:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[이제 항공권도 구독하는 시대.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/e463b0c3-9281-4296-9172-99c49811934a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마스크를 벗으니 비로소 느껴지는 주변인의 입 냄새! 혹시 나도?]]></title>
             <link>https://www.esquirekorea.co.kr/article/75279</link>
@@ -54,21 +70,6 @@
             <pubDate>Thu, 23 Feb 2023 03:26:36 GMT</pubDate>
             <content:encoded><![CDATA[짧은 영업시간에도 불구하고 늘 재료 소진으로 많은 이들에게 사랑을 받고 있는 맛집을 소개한다...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/22009321-92ce-411e-a1ec-7dc1e068eafc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코라크릿 아룬나논차이가 들려주는 불과 재와 유령의 이야기]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74520</link>
-            <guid>https://www.esquirekorea.co.kr/article/74520</guid>
-            <pubDate>Thu, 23 Feb 2023 03:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[코라크릿 아룬나논차이는 불과 불에 탄 재의 이야기를 들려준다. 그리고 그건 종종 떠나간 것들...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/1c01b1ec-6b80-4f70-938c-9eaaf772ae30.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이엘리야, 알고보니 힙합 전사였던 과거?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75209</link>
-            <guid>https://www.esquirekorea.co.kr/article/75209</guid>
-            <pubDate>Wed, 22 Feb 2023 15:22:35 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/f28ee292-07aa-4f10-9e4d-47c97c744733.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

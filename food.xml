@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 09:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 15:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주말 데이트 추천! 미군부대, 송프란시스코 핫플레이스5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75288</link>
+            <guid>https://www.esquirekorea.co.kr/article/75288</guid>
+            <pubDate>Fri, 24 Feb 2023 15:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[미국식 햄버거부터 도넛, 피자 귀여운 소품샵까지. 가까운 송탄으로 미국 여행을 떠나보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/0e2ef9e7-4543-432e-beec-5d00e624f3a5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나영석 PD 최애! 연서시장 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/75266</link>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 22 Feb 2023 15:22:26 GMT</pubDate>
             <content:encoded><![CDATA[시청률 고공행진 드라마 '일타스캔들'에서 '남행선' 역할을 찰떡같이 소화하고 있는 전도연. 전...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/18/e6e61857-131f-45ba-a661-54bbb501ff95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전국의 동백꽃 여행지와 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75107</link>
-            <guid>https://www.esquirekorea.co.kr/article/75107</guid>
-            <pubDate>Wed, 22 Feb 2023 09:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[동백꽃은 제주에서만 볼 수 있는 게 아니다, 전국의 동백꽃 여행지와 함께 대표 맛집을 소개한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/18/dbebab4f-1c27-4bcb-9423-53732b9d3651.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

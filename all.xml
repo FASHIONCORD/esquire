@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 09:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 15:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1320,6 +1320,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/09/81565fc9-633e-4b15-9d51-41a678f62f80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[주말 데이트 추천! 미군부대, 송프란시스코 핫플레이스5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75288</link>
+            <guid>https://www.esquirekorea.co.kr/article/75288</guid>
+            <pubDate>Fri, 24 Feb 2023 15:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[미국식 햄버거부터 도넛, 피자 귀여운 소품샵까지. 가까운 송탄으로 미국 여행을 떠나보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/0e2ef9e7-4543-432e-beec-5d00e624f3a5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나영석 PD 최애! 연서시장 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/75266</link>
             <guid>https://www.esquirekorea.co.kr/article/75266</guid>
@@ -1375,12 +1383,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/18/e6e61857-131f-45ba-a661-54bbb501ff95.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전국의 동백꽃 여행지와 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75107</link>
-            <guid>https://www.esquirekorea.co.kr/article/75107</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[동백꽃은 제주에서만 볼 수 있는 게 아니다, 전국의 동백꽃 여행지와 함께 대표 맛집을 소개한...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/18/dbebab4f-1c27-4bcb-9423-53732b9d3651.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[주말 데이트 추천! 미군부대, 송프란시스코 핫플레이스5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75288</link>
+            <guid>https://www.esquirekorea.co.kr/article/75288</guid>
+            <pubDate>Fri, 24 Feb 2023 15:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[미국식 햄버거부터 도넛, 피자 귀여운 소품샵까지. 가까운 송탄으로 미국 여행을 떠나보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/0e2ef9e7-4543-432e-beec-5d00e624f3a5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티웨이항공, 업계 최초 구독형 멤버십 서비스 '티웨이플러스' 출시 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75280</link>
+            <guid>https://www.esquirekorea.co.kr/article/75280</guid>
+            <pubDate>Fri, 24 Feb 2023 15:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[이제 항공권도 구독하는 시대.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/e463b0c3-9281-4296-9172-99c49811934a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마스크를 벗으니 비로소 느껴지는 주변인의 입 냄새! 혹시 나도? (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1431,19 +1447,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/22009321-92ce-411e-a1ec-7dc1e068eafc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코라크릿 아룬나논차이가 들려주는 불과 재와 유령의 이야기 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74520</link>
-            <guid>https://www.esquirekorea.co.kr/article/74520</guid>
-            <pubDate>Thu, 23 Feb 2023 03:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[코라크릿 아룬나논차이는 불과 불에 탄 재의 이야기를 들려준다. 그리고 그건 종종 떠나간 것들...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/1c01b1ec-6b80-4f70-938c-9eaaf772ae30.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Part2. 이엘리야에게 <미끼>가 정말로 특별한 작품인 이유 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75282</link>
+            <guid>https://www.esquirekorea.co.kr/article/75282</guid>
+            <pubDate>Fri, 24 Feb 2023 15:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[10년 차 배우 이엘리야는 최근에야 배우라는 직업을 믿기 시작했다. 그러니 이제 그녀에겐 연기...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/9cc1ec85-e1b8-447f-9943-910fffdbb021.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이엘리야, 알고보니 힙합 전사였던 과거? (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75209</link>
-            <guid>https://www.esquirekorea.co.kr/article/75209</guid>
-            <pubDate>Wed, 22 Feb 2023 15:22:35 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/f28ee292-07aa-4f10-9e4d-47c97c744733.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Part1. 이엘리야가 밝힌 남다른 노래 실력의 비밀 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75133</link>
+            <guid>https://www.esquirekorea.co.kr/article/75133</guid>
+            <pubDate>Fri, 24 Feb 2023 15:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[10년 차 배우 이엘리야는 최근에야 배우라는 직업을 믿기 시작했다. 그러니 이제 그녀에겐 연기...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/e43e704b-3645-48c8-902a-8d0dca4f1c31.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[허성현, 던말릭과 로스 중 디스전 상대를 고른다면? (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1491,22 +1508,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 22 Feb 2023 09:22:42 GMT</pubDate>
             <content:encoded><![CDATA[24일엔 신곡 라이브도 만날 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/ebabd3f5-f539-4684-8a9d-a194f831856d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환승연애 규민과 딘딘이 함께 노래를 냈다고? (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75177</link>
-            <guid>https://www.esquirekorea.co.kr/article/75177</guid>
-            <pubDate>Wed, 22 Feb 2023 09:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[닮은 꼴 두 사람이 낸 곡 제목은 '닮은 사람'이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/3eb4becc-3490-418e-957c-9e00f208abb6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBC  PD가 희대의 넷플릭스 예능 <피지컬: 100>을 만들 수 있었던 이유 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75173</link>
-            <guid>https://www.esquirekorea.co.kr/article/75173</guid>
-            <pubDate>Wed, 22 Feb 2023 03:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[‘현실판 오징어 게임’이라 불리며 세계적 인기를 구가하고 있는 넷플릭스 시리즈 &lt;피지컬: 100...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/cbaddfef-ca0d-4808-b48c-5f8261698a04.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스, '아무도 없는 숲속에서' 라인업 공개 (에스콰이어 코리아 ─ 나우)]]></title>
