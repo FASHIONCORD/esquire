@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 03:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 09:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나영석 PD 최애! 연서시장 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75266</link>
+            <guid>https://www.esquirekorea.co.kr/article/75266</guid>
+            <pubDate>Fri, 24 Feb 2023 09:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[나영석 PD가 외국인 친구에게 가장 먼저 추천한 곳 등, 연서시장 찐 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/31b94178-8e5c-4725-9b85-714bf5d47b7c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구글 트렌드 ‘스시 맛집(feat. 서울, 안산, 수원, 도쿄, 후쿠오카)’ 탑 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75264</link>
+            <guid>https://www.esquirekorea.co.kr/article/75264</guid>
+            <pubDate>Fri, 24 Feb 2023 09:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[구글 트렌드에서 가장 많이 검색한 스시 맛집은 과연 어디일까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/441ee802-428e-4bf8-8db0-6377125c6591.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[40년 이상 운영한 서울 김치찌개 노포 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/75240</link>
@@ -53,22 +69,6 @@
             <pubDate>Wed, 22 Feb 2023 09:21:54 GMT</pubDate>
             <content:encoded><![CDATA[동백꽃은 제주에서만 볼 수 있는 게 아니다, 전국의 동백꽃 여행지와 함께 대표 맛집을 소개한...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/18/dbebab4f-1c27-4bcb-9423-53732b9d3651.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 족발 노포 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75100</link>
-            <guid>https://www.esquirekorea.co.kr/article/75100</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[30년은 기본! 3대째 이어오는 전통있는 맛집까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/17/18e74e43-2dcb-4106-8755-f6ac7fa6c863.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소주가 3000원인 서울의 술집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75085</link>
-            <guid>https://www.esquirekorea.co.kr/article/75085</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[모든 애주가들 집중. 소주를 가장 저렴하게 즐길 수 있는 서울의 술집들을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/32ec56ab-6b9c-419c-9c20-1bb24707be75.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

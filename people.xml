@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 03:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 09:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허성현, 던말릭과 로스 중 디스전 상대를 고른다면?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75259</link>
+            <guid>https://www.esquirekorea.co.kr/article/75259</guid>
+            <pubDate>Fri, 24 Feb 2023 09:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[쇼미더머니 비하인드 에피소드와 새 앨범 스포까지 모두 모았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/03489981-d0e3-4888-98cb-c986e679c734.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Part2. 이종석의 결정은 현실에 두 발을 붙인다]]></title>
             <link>https://www.esquirekorea.co.kr/article/75233</link>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 22 Feb 2023 03:25:06 GMT</pubDate>
             <content:encoded><![CDATA[‘현실판 오징어 게임’이라 불리며 세계적 인기를 구가하고 있는 넷플릭스 시리즈 &lt;피지컬: 100...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/cbaddfef-ca0d-4808-b48c-5f8261698a04.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넉살 X 까데호 = 에스콰이어 시그널 송 'Subscribe to Esquire' 발표]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75135</link>
-            <guid>https://www.esquirekorea.co.kr/article/75135</guid>
-            <pubDate>Wed, 22 Feb 2023 03:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[넉살과 까데호는 농부이자 셰프다. 합주실에 모여 드럼과 기타를 뚱땅거리며 만들어낸 오가닉한 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/d2b5c311-831e-49a5-9dff-48d7aac02aec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
