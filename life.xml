@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 15:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 03:26:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['모범택시2'로 돌아온 이제훈 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75296</link>
+            <guid>https://www.esquirekorea.co.kr/article/75296</guid>
+            <pubDate>Sat, 25 Feb 2023 03:25:24 GMT</pubDate>
+            <content:encoded><![CDATA[대체불가한 연기력과 파격적인 캐릭터를 보여주는 이제훈, 그가 다녀간 전국의 맛집과 카페를 소...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/5e2cee2c-3241-4bc4-9934-e8ee06dc1a10.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주말 데이트 추천! 미군부대, 송프란시스코 핫플레이스5]]></title>
             <link>https://www.esquirekorea.co.kr/article/75288</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 23 Feb 2023 09:21:05 GMT</pubDate>
             <content:encoded><![CDATA[쭈꾸미, 돼지고기가 통째로 들어가는 김치찌개부터 임영웅이 다녀간 맛집까지?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/388652bd-ad7f-4ea6-afab-f3668f8bf4f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하루 2시간만 운영! 맛 보장 전국 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75225</link>
-            <guid>https://www.esquirekorea.co.kr/article/75225</guid>
-            <pubDate>Thu, 23 Feb 2023 03:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[짧은 영업시간에도 불구하고 늘 재료 소진으로 많은 이들에게 사랑을 받고 있는 맛집을 소개한다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/22009321-92ce-411e-a1ec-7dc1e068eafc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

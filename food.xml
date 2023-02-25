@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 15:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 03:26:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['모범택시2'로 돌아온 이제훈 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75296</link>
+            <guid>https://www.esquirekorea.co.kr/article/75296</guid>
+            <pubDate>Sat, 25 Feb 2023 03:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[대체불가한 연기력과 파격적인 캐릭터를 보여주는 이제훈, 그가 다녀간 전국의 맛집과 카페를 소...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/5e2cee2c-3241-4bc4-9934-e8ee06dc1a10.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주말 데이트 추천! 미군부대, 송프란시스코 핫플레이스5]]></title>
             <link>https://www.esquirekorea.co.kr/article/75288</link>
@@ -61,14 +69,6 @@
             <guid>https://www.esquirekorea.co.kr/article/75153</guid>
             <pubDate>Thu, 23 Feb 2023 03:26:24 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/0bb7746f-aaf2-43e8-b6f6-ed38dd6ec10e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화려한 연기 변신, 전도연 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75108</link>
-            <guid>https://www.esquirekorea.co.kr/article/75108</guid>
-            <pubDate>Wed, 22 Feb 2023 15:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[시청률 고공행진 드라마 '일타스캔들'에서 '남행선' 역할을 찰떡같이 소화하고 있는 전도연. 전...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/18/e6e61857-131f-45ba-a661-54bbb501ff95.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
