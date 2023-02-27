@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 09:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 15:24:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1259,6 +1259,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/03/d2b54e57-caa7-4b12-bba8-807451657419.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[챗 GPT 유료 버전 한국 상륙 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/74998</link>
+            <guid>https://www.esquirekorea.co.kr/article/74998</guid>
+            <pubDate>Mon, 27 Feb 2023 15:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[질문 답변 시간을 줄여준다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/14/8e40f2ad-d7a8-4bea-9e57-0f6a0f6cae94.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[챗GPT, 미국 의사 면허 시험 합격 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/74929</link>
+            <guid>https://www.esquirekorea.co.kr/article/74929</guid>
+            <pubDate>Mon, 27 Feb 2023 15:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[앞서 로스쿨·MBA 시험도 통과한 이력이 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/10/f6394e69-3b86-4aa0-9311-e29eec0aca6b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이 프랑스 하이엔드 오디오 브랜드가 '납작한' 스피커를 만드는 이유 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/74878</link>
             <guid>https://www.esquirekorea.co.kr/article/74878</guid>
@@ -1302,22 +1318,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 22 Feb 2023 03:24:24 GMT</pubDate>
             <content:encoded><![CDATA[대형 세단은 고루하다는 편견.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/31/93d2a2bd-71c9-4a95-92c0-0cda9989aff6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BMW 218d 투어러의 정체 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74081</link>
-            <guid>https://www.esquirekorea.co.kr/article/74081</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[실용적인 차가 최고라고 생각하는 당신에게.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/10/5e00f1d4-d53c-413a-b291-4ffd731cb78d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추억의 게임, 카트라이더가 사라진다고? (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74065</link>
-            <guid>https://www.esquirekorea.co.kr/article/74065</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:24 GMT</pubDate>
-            <content:encoded><![CDATA['카트라이더 드리프트'가 후속작으로 나올 예정이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/09/81565fc9-633e-4b15-9d51-41a678f62f80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[날 풀리면 꼭 가봐야 할 서울 야장 4 (에스콰이어 코리아 ─ 푸드)]]></title>
