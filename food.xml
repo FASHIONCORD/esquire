@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 15:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 03:29:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[날 풀리면 꼭 가봐야 할 서울 야장 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75307</link>
+            <guid>https://www.esquirekorea.co.kr/article/75307</guid>
+            <pubDate>Mon, 27 Feb 2023 03:29:04 GMT</pubDate>
+            <content:encoded><![CDATA[선선한 바람을 맞으며 즐기는 다양한 안주와 저렴한 주류.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/bdef0da3-6a4f-4895-ae70-91b03f22f78d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['모범택시2'로 돌아온 이제훈 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/75296</link>
@@ -62,13 +70,6 @@
             <pubDate>Thu, 23 Feb 2023 09:20:57 GMT</pubDate>
             <content:encoded><![CDATA[나만 알고 싶은 포토존 바부터 아늑한 산장에 들어온 듯한 공간까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/6186b2d1-e10c-49d7-b4cb-3eb982a656a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쥐라를 알기 위해 알아야 할 3개의 와인]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75153</link>
-            <guid>https://www.esquirekorea.co.kr/article/75153</guid>
-            <pubDate>Thu, 23 Feb 2023 03:26:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/0bb7746f-aaf2-43e8-b6f6-ed38dd6ec10e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

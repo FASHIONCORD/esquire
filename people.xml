@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 15:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 03:29:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['모범택시2'로 돌아온 이제훈 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75296</link>
+            <guid>https://www.esquirekorea.co.kr/article/75296</guid>
+            <pubDate>Mon, 27 Feb 2023 03:29:21 GMT</pubDate>
+            <content:encoded><![CDATA[대체불가한 연기력과 파격적인 캐릭터를 보여주는 이제훈, 그가 다녀간 전국의 맛집과 카페를 소...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/5e2cee2c-3241-4bc4-9934-e8ee06dc1a10.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Part2. 이엘리야에게 <미끼>가 정말로 특별한 작품인 이유]]></title>
             <link>https://www.esquirekorea.co.kr/article/75282</link>
@@ -61,14 +69,6 @@
             <guid>https://www.esquirekorea.co.kr/article/75209</guid>
             <pubDate>Thu, 23 Feb 2023 03:26:45 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/f28ee292-07aa-4f10-9e4d-47c97c744733.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼미더머니11 준우승, 허성현 화보 단독 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75199</link>
-            <guid>https://www.esquirekorea.co.kr/article/75199</guid>
-            <pubDate>Wed, 22 Feb 2023 09:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[24일엔 신곡 라이브도 만날 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/ebabd3f5-f539-4684-8a9d-a194f831856d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 15:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 03:29:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1320,6 +1320,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/09/81565fc9-633e-4b15-9d51-41a678f62f80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[날 풀리면 꼭 가봐야 할 서울 야장 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75307</link>
+            <guid>https://www.esquirekorea.co.kr/article/75307</guid>
+            <pubDate>Mon, 27 Feb 2023 03:29:04 GMT</pubDate>
+            <content:encoded><![CDATA[선선한 바람을 맞으며 즐기는 다양한 안주와 저렴한 주류.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/bdef0da3-6a4f-4895-ae70-91b03f22f78d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['모범택시2'로 돌아온 이제훈 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/75296</link>
             <guid>https://www.esquirekorea.co.kr/article/75296</guid>
@@ -1374,13 +1382,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 22 Feb 2023 09:22:34 GMT</pubDate>
             <content:encoded><![CDATA[나만 알고 싶은 포토존 바부터 아늑한 산장에 들어온 듯한 공간까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/6186b2d1-e10c-49d7-b4cb-3eb982a656a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쥐라를 알기 위해 알아야 할 3개의 와인 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75153</link>
-            <guid>https://www.esquirekorea.co.kr/article/75153</guid>
-            <pubDate>Thu, 23 Feb 2023 03:26:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/0bb7746f-aaf2-43e8-b6f6-ed38dd6ec10e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다프트펑크, 'Random Access Memories' 10주년 기념 에디션 발매 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1447,6 +1448,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/03489981-d0e3-4888-98cb-c986e679c734.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['모범택시2'로 돌아온 이제훈 맛집 5 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75296</link>
+            <guid>https://www.esquirekorea.co.kr/article/75296</guid>
+            <pubDate>Sat, 25 Feb 2023 03:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[대체불가한 연기력과 파격적인 캐릭터를 보여주는 이제훈, 그가 다녀간 전국의 맛집과 카페를 소...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/5e2cee2c-3241-4bc4-9934-e8ee06dc1a10.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Part2. 이엘리야에게 <미끼>가 정말로 특별한 작품인 이유 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/75282</link>
             <guid>https://www.esquirekorea.co.kr/article/75282</guid>
@@ -1500,14 +1509,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/75209</guid>
             <pubDate>Wed, 22 Feb 2023 15:22:35 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/f28ee292-07aa-4f10-9e4d-47c97c744733.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼미더머니11 준우승, 허성현 화보 단독 공개 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75199</link>
-            <guid>https://www.esquirekorea.co.kr/article/75199</guid>
-            <pubDate>Wed, 22 Feb 2023 09:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[24일엔 신곡 라이브도 만날 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/ebabd3f5-f539-4684-8a9d-a194f831856d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이.엠 사전확정요금제 출시 (에스콰이어 코리아 ─ 나우)]]></title>
