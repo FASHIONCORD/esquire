@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 와치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 03:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 09:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 손목 위에는 어떤 시계가 어울릴까?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/73265</link>
+            <guid>https://www.esquirekorea.co.kr/article/73265</guid>
+            <pubDate>Mon, 27 Feb 2023 09:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[고르는 재미가 있다! 홀리데이를 맞이 해밀턴 워치 컬렉션 총집합!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/15/1e8e974e-d023-4523-b09b-38cf47cd73d2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[커플 워치를 찾는다면?]]></title>
             <link>https://www.esquirekorea.co.kr/article/73253</link>
@@ -61,14 +69,6 @@
             <guid>https://www.esquirekorea.co.kr/article/72067</guid>
             <pubDate>Sun, 25 Dec 2022 15:21:35 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/03/d2b54e57-caa7-4b12-bba8-807451657419.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태그호이어와 마리오의 기발한 만남]]></title>
-            <link>https://www.esquirekorea.co.kr/article/71608</link>
-            <guid>https://www.esquirekorea.co.kr/article/71608</guid>
-            <pubDate>Sun, 25 Dec 2022 15:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[더 강력하고 위트 있게 돌아 온 태그호이어 포뮬러 1 X 마리오 카트 리미티드 에디션!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/20/e1e9581c-bcef-4140-85b5-c8d6697d97e4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

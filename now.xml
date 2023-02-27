@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 03:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 09:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마블, 영화 '이터널스 2' 제작 확정]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75322</link>
+            <guid>https://www.esquirekorea.co.kr/article/75322</guid>
+            <pubDate>Mon, 27 Feb 2023 09:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[구체적인 제작 시기와 개봉 일정은 정해지지 않았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/eb9e542f-571a-49e1-a9f6-03a390fff2e6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티웨이항공, 업계 최초 구독형 멤버십 서비스 '티웨이플러스' 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75280</link>
+            <guid>https://www.esquirekorea.co.kr/article/75280</guid>
+            <pubDate>Mon, 27 Feb 2023 09:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[이제 항공권도 구독하는 시대.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/e463b0c3-9281-4296-9172-99c49811934a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마스크를 벗으니 비로소 느껴지는 주변인의 입 냄새! 혹시 나도?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75279</link>
+            <guid>https://www.esquirekorea.co.kr/article/75279</guid>
+            <pubDate>Mon, 27 Feb 2023 09:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[입 냄새 자가진단법 4]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/072b03dc-b7bf-4acf-a4e6-338ecd4605f8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이.엠 사전확정요금제 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/75270</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 23 Feb 2023 03:26:53 GMT</pubDate>
             <content:encoded><![CDATA[두 음색 깡패의 만남이 벌써부터 기대된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/28a69fa3-8c44-45e7-b7e0-b7ec2302a77e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포테토칩 엽떡오리지날맛 출시!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74938</link>
-            <guid>https://www.esquirekorea.co.kr/article/74938</guid>
-            <pubDate>Thu, 23 Feb 2023 03:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[얼마나 매울까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/10/2a5f6ad6-007e-490c-902c-8834bd52e439.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[챗GPT, 미국 의사 면허 시험 합격]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74929</link>
-            <guid>https://www.esquirekorea.co.kr/article/74929</guid>
-            <pubDate>Wed, 22 Feb 2023 03:25:29 GMT</pubDate>
-            <content:encoded><![CDATA[앞서 로스쿨·MBA 시험도 통과한 이력이 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/10/f6394e69-3b86-4aa0-9311-e29eec0aca6b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘가나 초콜릿 하우스’ 부산서 팝업 스토어 오픈]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74928</link>
-            <guid>https://www.esquirekorea.co.kr/article/74928</guid>
-            <pubDate>Wed, 22 Feb 2023 03:25:29 GMT</pubDate>
-            <content:encoded><![CDATA[시간에 따라 디저트 카페와 몰트 바를 운영한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/10/20d62fd5-2977-4a51-beb9-e57a3a3bf2c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
