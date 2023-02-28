@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 09:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 15:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데님의 현주소]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75112</link>
+            <guid>https://www.esquirekorea.co.kr/article/75112</guid>
+            <pubDate>Tue, 28 Feb 2023 15:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[찢기고 얼룩진 데님의 미학.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/19/8187c42b-03c5-4af4-b3df-d587c521378a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보드 스니커즈가 온다]]></title>
             <link>https://www.esquirekorea.co.kr/article/75076</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Feb 2023 03:24:07 GMT</pubDate>
             <content:encoded><![CDATA[기억하고 싶게 만드는 향. 블루 드 샤넬은 그런 힘이 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/08/763809b2-66ea-4e85-b086-2a7955173f55.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신슬기 청초한 매력의 화보 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74865</link>
-            <guid>https://www.esquirekorea.co.kr/article/74865</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[인생 첫 화보를 자연스럽게 소화했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/07/e072314c-5aee-4019-b157-319e2185f3b8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

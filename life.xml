@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 09:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 15:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[50년 넘게 운영 중인 육개장 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75409</link>
+            <guid>https://www.esquirekorea.co.kr/article/75409</guid>
+            <pubDate>Tue, 28 Feb 2023 15:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[60년 넘은 노포부터 넷플릭스에 소개된 육개장까지, 전국의 육개장 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/f16c933c-0ba8-42d1-8b07-44cd83ac4d24.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 라이브 클럽은 '무입유퇴'중]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75230</link>
+            <guid>https://www.esquirekorea.co.kr/article/75230</guid>
+            <pubDate>Tue, 28 Feb 2023 15:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[라이브 클럽에서 아티스트와 관객 심지어 운영자까지 모두 만족스러운 표정을 짓기는 쉽지 않다....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/9f39def9-449a-4550-b424-91e04335d854.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성수동을 만끽할 수 있는 서울숲 데이트 코스 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/75336</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 25 Feb 2023 03:25:24 GMT</pubDate>
             <content:encoded><![CDATA[대체불가한 연기력과 파격적인 캐릭터를 보여주는 이제훈, 그가 다녀간 전국의 맛집과 카페를 소...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/5e2cee2c-3241-4bc4-9934-e8ee06dc1a10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주말 데이트 추천! 미군부대, 송프란시스코 핫플레이스5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75288</link>
-            <guid>https://www.esquirekorea.co.kr/article/75288</guid>
-            <pubDate>Fri, 24 Feb 2023 15:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[미국식 햄버거부터 도넛, 피자 귀여운 소품샵까지. 가까운 송탄으로 미국 여행을 떠나보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/0e2ef9e7-4543-432e-beec-5d00e624f3a5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티웨이항공, 업계 최초 구독형 멤버십 서비스 '티웨이플러스' 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75280</link>
-            <guid>https://www.esquirekorea.co.kr/article/75280</guid>
-            <pubDate>Fri, 24 Feb 2023 15:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[이제 항공권도 구독하는 시대.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/e463b0c3-9281-4296-9172-99c49811934a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
