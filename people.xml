@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 03:27:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 09:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다프트펑크, 'Random Access Memories' 10주년 기념 에디션 발매]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75302</link>
+            <guid>https://www.esquirekorea.co.kr/article/75302</guid>
+            <pubDate>Tue, 28 Feb 2023 09:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[미공개 곡이 수록된 앨범이 곧 발매된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/4dd394c1-a53f-42ba-bc55-260e5ffabb84.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['모범택시2'로 돌아온 이제훈 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/75296</link>
@@ -62,13 +70,6 @@
             <pubDate>Thu, 23 Feb 2023 09:21:14 GMT</pubDate>
             <content:encoded><![CDATA[이종석은 자신의 수많은 결정이 현실적인 문제의식에서 기인한다고 말했다. 두 발을 땅에 찰싹 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/cbcab773-4adf-497d-870b-90bd9630b4de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이엘리야, 알고보니 힙합 전사였던 과거?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75209</link>
-            <guid>https://www.esquirekorea.co.kr/article/75209</guid>
-            <pubDate>Thu, 23 Feb 2023 03:26:45 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/f28ee292-07aa-4f10-9e4d-47c97c744733.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

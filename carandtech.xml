@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 03:27:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 09:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[언더커버 × 도요타 협업 공개!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75061</link>
+            <guid>https://www.esquirekorea.co.kr/article/75061</guid>
+            <pubDate>Tue, 28 Feb 2023 09:21:51 GMT</pubDate>
+            <content:encoded><![CDATA['언더커버맛 캠리'의 등장?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/1da4aced-2cc1-45bd-b991-9fef4aa91465.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[챗 GPT 유료 버전 한국 상륙]]></title>
             <link>https://www.esquirekorea.co.kr/article/74998</link>
@@ -59,14 +67,6 @@
             <guid>https://www.esquirekorea.co.kr/article/74749</guid>
             <pubDate>Wed, 22 Feb 2023 03:24:24 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/02/bc9f2e46-46e5-4059-83b3-7bab54f66d23.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한결 젊어진 프리미엄 대형 세단, BMW 7]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74643</link>
-            <guid>https://www.esquirekorea.co.kr/article/74643</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[대형 세단은 고루하다는 편견.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/31/93d2a2bd-71c9-4a95-92c0-0cda9989aff6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
