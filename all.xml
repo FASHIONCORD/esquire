@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 09:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 15:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1259,6 +1259,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/03/d2b54e57-caa7-4b12-bba8-807451657419.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SK텔레콤, KT, LG유플러스가 3월 한 달간 데이터 무료 제공 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75074</link>
+            <guid>https://www.esquirekorea.co.kr/article/75074</guid>
+            <pubDate>Wed, 01 Mar 2023 15:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[국민 가계 통신비 부담을 완한 조치로 국내 이동통신 3사가 데이터를 무료 제공 하기로 했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/42dcaf34-d795-4273-8238-cbf2d0962b39.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[언더커버 × 도요타 협업 공개! (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/75061</link>
             <guid>https://www.esquirekorea.co.kr/article/75061</guid>
@@ -1313,11 +1321,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/02/8caf4826-5839-469c-a3c8-fe3772a1f81c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[6기통 못지 않은 4기통 SUV (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74749</link>
-            <guid>https://www.esquirekorea.co.kr/article/74749</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/02/bc9f2e46-46e5-4059-83b3-7bab54f66d23.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[50년 넘게 운영 중인 육개장 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75409</link>
+            <guid>https://www.esquirekorea.co.kr/article/75409</guid>
+            <pubDate>Tue, 28 Feb 2023 15:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[60년 넘은 노포부터 넷플릭스에 소개된 육개장까지, 전국의 육개장 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/f16c933c-0ba8-42d1-8b07-44cd83ac4d24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴진스와 맥도날드의 귀여운 만남 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1376,12 +1385,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/5e2cee2c-3241-4bc4-9934-e8ee06dc1a10.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[주말 데이트 추천! 미군부대, 송프란시스코 핫플레이스5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75288</link>
-            <guid>https://www.esquirekorea.co.kr/article/75288</guid>
-            <pubDate>Fri, 24 Feb 2023 15:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[미국식 햄버거부터 도넛, 피자 귀여운 소품샵까지. 가까운 송탄으로 미국 여행을 떠나보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/0e2ef9e7-4543-432e-beec-5d00e624f3a5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘포켓몬 카드’ 한 장이 6억이 넘는다고? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75438</link>
+            <guid>https://www.esquirekorea.co.kr/article/75438</guid>
+            <pubDate>Wed, 01 Mar 2023 15:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[이베이 포멧몬 카드 판매 최고가를 갱신할 수 있을까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/64e4765e-043e-48d7-89ba-df2b4a5e4a68.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리오날 메시, FIFA 올해의 선수로 선수 부문 수상 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75437</link>
+            <guid>https://www.esquirekorea.co.kr/article/75437</guid>
+            <pubDate>Wed, 01 Mar 2023 15:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022 축구계를 뜨겁게 달군 주인공.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/2fa10029-fcf6-4300-8828-1cb5d2bb8e0c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[50년 넘게 운영 중인 육개장 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1430,22 +1447,6 @@ The New MINI Countryman과 일상에
             <pubDate>Mon, 27 Feb 2023 03:29:04 GMT</pubDate>
             <content:encoded><![CDATA[선선한 바람을 맞으며 즐기는 다양한 안주와 저렴한 주류.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/bdef0da3-6a4f-4895-ae70-91b03f22f78d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다프트펑크, 'Random Access Memories' 10주년 기념 에디션 발매 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75302</link>
-            <guid>https://www.esquirekorea.co.kr/article/75302</guid>
-            <pubDate>Sun, 26 Feb 2023 15:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[미공개 곡이 수록된 앨범이 곧 발매된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/4dd394c1-a53f-42ba-bc55-260e5ffabb84.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['모범택시2'로 돌아온 이제훈 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75296</link>
-            <guid>https://www.esquirekorea.co.kr/article/75296</guid>
-            <pubDate>Sat, 25 Feb 2023 03:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[대체불가한 연기력과 파격적인 캐릭터를 보여주는 이제훈, 그가 다녀간 전국의 맛집과 카페를 소...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/5e2cee2c-3241-4bc4-9934-e8ee06dc1a10.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다프트펑크, 'Random Access Memories' 10주년 기념 에디션 발매 (에스콰이어 코리아 ─ 피플)]]></title>
