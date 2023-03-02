@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 03:30:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 09:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 지민, 솔로 앨범 트랙 리스트 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75325</link>
+            <guid>https://www.esquirekorea.co.kr/article/75325</guid>
+            <pubDate>Thu, 02 Mar 2023 09:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[같은 멤버 RM도 이번 앨범에 참여했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/fac19b30-1e10-4493-b72f-c6cda5504f50.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마블, 영화 '이터널스 2' 제작 확정]]></title>
             <link>https://www.esquirekorea.co.kr/article/75322</link>
@@ -36,8 +44,8 @@
             <link>https://www.esquirekorea.co.kr/article/75270</link>
             <guid>https://www.esquirekorea.co.kr/article/75270</guid>
             <pubDate>Sat, 25 Feb 2023 15:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[이제 불안한 눈빛으로 미터기 보는 일 없겠다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/95e1f8b2-148b-480c-b705-6b9f95f5004a.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[이제 불안한 눈으로 미터기 보는 일 없겠다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/95e1f8b2-148b-480c-b705-6b9f95f5004a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스, '아무도 없는 숲속에서' 라인업 공개]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 23 Feb 2023 09:21:24 GMT</pubDate>
             <content:encoded><![CDATA['언더커버맛 캠리'의 등장?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/1da4aced-2cc1-45bd-b991-9fef4aa91465.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앤 마리 x (여자)아이들 민니 콜라보]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75037</link>
-            <guid>https://www.esquirekorea.co.kr/article/75037</guid>
-            <pubDate>Thu, 23 Feb 2023 03:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[두 음색 깡패의 만남이 벌써부터 기대된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/15/28a69fa3-8c44-45e7-b7e0-b7ec2302a77e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

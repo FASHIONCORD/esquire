@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 03:30:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 09:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브루넬로 쿠치넬리의 봄]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75181</link>
+            <guid>https://www.esquirekorea.co.kr/article/75181</guid>
+            <pubDate>Thu, 02 Mar 2023 09:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[이른 봄날의 서정과 브루넬로 쿠치넬리의 안락.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/16a9ef0d-1bd1-4865-ae78-b7eee933715d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마스크를 벗으니 비로소 느껴지는 주변인의 입 냄새! 혹시 나도?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75279</link>
+            <guid>https://www.esquirekorea.co.kr/article/75279</guid>
+            <pubDate>Thu, 02 Mar 2023 09:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[입 냄새 자가진단법 4]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/072b03dc-b7bf-4acf-a4e6-338ecd4605f8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마침내, 펜디의 첫 플래그십 부티크]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75265</link>
+            <guid>https://www.esquirekorea.co.kr/article/75265</guid>
+            <pubDate>Thu, 02 Mar 2023 09:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[지금 청담으로 가자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/edaa9971-472a-429c-a73d-a907d5de7b89.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데님의 현주소]]></title>
             <link>https://www.esquirekorea.co.kr/article/75112</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 22 Feb 2023 15:21:44 GMT</pubDate>
             <content:encoded><![CDATA[서둘러 파스텔을 입는다. 봄을 기다리며.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/09/fa8c15d9-2b1d-4989-ac61-c7777ec36436.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타벅스가 만난 춘식이!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74890</link>
-            <guid>https://www.esquirekorea.co.kr/article/74890</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[귀여운 스타벅스 춘식이 굿즈는 온라인에서 구매할 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/08/ddb7b753-b57a-4152-abdb-4388b4c7ab4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스와 리스 예보아가 증명한 협업의 의미]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74888</link>
-            <guid>https://www.esquirekorea.co.kr/article/74888</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[디자이너 최초로 코스와 협업한 리스 예보아를 만났다. 그가 말하는 변화와 탈피 그리고 도전에...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/08/e2486bc5-e141-458d-af4f-eb31b1d29acd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리멤버 블루]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74832</link>
-            <guid>https://www.esquirekorea.co.kr/article/74832</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[기억하고 싶게 만드는 향. 블루 드 샤넬은 그런 힘이 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/08/763809b2-66ea-4e85-b086-2a7955173f55.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
