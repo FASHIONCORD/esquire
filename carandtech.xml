@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 09:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 15:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VR 게임으로 출시되는 '오징어 게임']]></title>
+            <link>https://www.esquirekorea.co.kr/article/75166</link>
+            <guid>https://www.esquirekorea.co.kr/article/75166</guid>
+            <pubDate>Thu, 02 Mar 2023 15:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[가상현실 속 오징어 게임은 어떤 모습일까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/751e9495-b5d5-4ac5-a863-bbbc6197f03c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK텔레콤, KT, LG유플러스가 3월 한 달간 데이터 무료 제공]]></title>
             <link>https://www.esquirekorea.co.kr/article/75074</link>
@@ -60,14 +68,6 @@
             <guid>https://www.esquirekorea.co.kr/article/74806</guid>
             <pubDate>Wed, 22 Feb 2023 03:24:24 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/04/d7374ffe-3a59-4add-831a-48f2af2f856c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갤럭시 S23에 숨은 친환경 기술 혁신의 비밀]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74759</link>
-            <guid>https://www.esquirekorea.co.kr/article/74759</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[100% 재활용 종이만 사용했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/02/8caf4826-5839-469c-a3c8-fe3772a1f81c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

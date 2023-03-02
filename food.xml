@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 09:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 15:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진짜 생맥주를 찾아서]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75180</link>
+            <guid>https://www.esquirekorea.co.kr/article/75180</guid>
+            <pubDate>Thu, 02 Mar 2023 15:24:13 GMT</pubDate>
+            <content:encoded><![CDATA[눈에 보이지 않고, 섬세하게 다루어야 하고, 없어도 되지만 있으면 더 멋지고, 마주하기 위해선...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/5d6c4365-873e-4e48-9676-71bb210322d6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10분안에 뚝딱 만드는 건강 간편식 6개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75250</link>
+            <guid>https://www.esquirekorea.co.kr/article/75250</guid>
+            <pubDate>Thu, 02 Mar 2023 15:24:13 GMT</pubDate>
+            <content:encoded><![CDATA[“오늘 뭐 해?”라고 물으면 “가슴이랑 삼두”라고 대답하는 사람들을 위해 영양은 물론 맛까지...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/12161720-9fd2-4c88-82b6-42b196677566.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울 2만원대 한정식 코스요리 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/75449</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 28 Feb 2023 15:22:03 GMT</pubDate>
             <content:encoded><![CDATA[구운 곤이를 올려주는 아귀찜부터 화제의 ‘놀토’ 갈비찜까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/eb5d03e6-8310-410b-94b7-e7cd52c51948.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울의 닭 특수 부위 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75327</link>
-            <guid>https://www.esquirekorea.co.kr/article/75327</guid>
-            <pubDate>Tue, 28 Feb 2023 15:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[닭 고기에도 목살, 치마살, 안창살이 있다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/c113892b-a0d1-4b34-8477-3efba3e24e69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연예인이 운영하는 서울의 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75324</link>
-            <guid>https://www.esquirekorea.co.kr/article/75324</guid>
-            <pubDate>Tue, 28 Feb 2023 15:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[음식에 진심인 팜유즈 ‘이장우'가 오픈한 즉석우동집?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/6648a686-89df-48a4-87db-bdfab5fed5c1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
