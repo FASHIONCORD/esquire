@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 04:36:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 09:32:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발렌시아가라는 이름]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75200</link>
+            <guid>https://www.esquirekorea.co.kr/article/75200</guid>
+            <pubDate>Fri, 03 Mar 2023 09:31:42 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 방식, 파격의 규율. 대체 불가한 발렌시아가의 언어.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/7e00f465-c582-41fd-a3eb-380341de1dc2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DYSFUNCTIONAL BAUHAUS, 셀린느 2023 S/S]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75184</link>
+            <guid>https://www.esquirekorea.co.kr/article/75184</guid>
+            <pubDate>Fri, 03 Mar 2023 09:31:42 GMT</pubDate>
+            <content:encoded><![CDATA[반항적인 목소리와 펑크적 태도로 기록한 젊음.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/a98215ef-b837-4b1c-b327-5e8d3354f4d1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브루넬로 쿠치넬리의 봄]]></title>
             <link>https://www.esquirekorea.co.kr/article/75181</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 27 Feb 2023 09:22:03 GMT</pubDate>
             <content:encoded><![CDATA[사랑은 때때로 같은 향을 공유하는 것.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/13/1369c817-cc49-4049-b4c4-ce87243482e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팀버랜드 부츠 50주년을 기념하는 퓨처 73 프로젝트]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74927</link>
-            <guid>https://www.esquirekorea.co.kr/article/74927</guid>
-            <pubDate>Thu, 23 Feb 2023 03:25:58 GMT</pubDate>
-            <content:encoded><![CDATA[이 프로젝트는 여섯 명의 퓨처 메이커와 함께 팀버랜드의 과거와 현재, 미래를 아주 새로운 방...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/10/b7c8d811-6a91-4edd-b297-29fe3b7e9254.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남자의 파스텔]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74477</link>
-            <guid>https://www.esquirekorea.co.kr/article/74477</guid>
-            <pubDate>Wed, 22 Feb 2023 15:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[서둘러 파스텔을 입는다. 봄을 기다리며.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/09/fa8c15d9-2b1d-4989-ac61-c7777ec36436.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

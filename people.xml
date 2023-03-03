@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 04:36:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 09:32:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웨이팅 행렬! 입짧은햇님이 찜한 ‘찜’ 맛집 로드 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75330</link>
+            <guid>https://www.esquirekorea.co.kr/article/75330</guid>
+            <pubDate>Fri, 03 Mar 2023 09:32:39 GMT</pubDate>
+            <content:encoded><![CDATA[구운 곤이를 올려주는 아귀찜부터 화제의 ‘놀토’ 갈비찜까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/eb5d03e6-8310-410b-94b7-e7cd52c51948.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유세윤 신곡 'Mother Soccer (Feat. 수퍼비)'를 들은 아내의 반응은?]]></title>
             <link>https://www.esquirekorea.co.kr/article/75121</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 23 Feb 2023 15:26:09 GMT</pubDate>
             <content:encoded><![CDATA[이종석은 자신의 수많은 결정이 현실적인 문제의식에서 기인한다고 말했다. 두 발을 땅에 찰싹 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/18c05bb8-aa18-464b-a6ff-3d752530e026.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘일타 스캔들’ 스윗 최치열 정경호, 정경호에 대한 소소한 TMI 12.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75226</link>
-            <guid>https://www.esquirekorea.co.kr/article/75226</guid>
-            <pubDate>Thu, 23 Feb 2023 09:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[데뷔 초반엔 연기력이 부족해 바스트 샷도 없었다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/d69e359d-6993-4ccc-8668-9bbf47da1707.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
