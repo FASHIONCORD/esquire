@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 09:32:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 15:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 '반지의 제왕' 새 시리즈 제작]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75342</link>
+            <guid>https://www.esquirekorea.co.kr/article/75342</guid>
+            <pubDate>Fri, 03 Mar 2023 15:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[광대하고 스펙터클한 여정이 다시 시작된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/25/1fd0d10b-80ed-435f-9b5d-d9f9adac180b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄소년단 지민, 솔로 앨범 트랙 리스트 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/75325</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 24 Feb 2023 09:21:54 GMT</pubDate>
             <content:encoded><![CDATA[가상현실 속 오징어 게임은 어떤 모습일까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/751e9495-b5d5-4ac5-a863-bbbc6197f03c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언더커버 × 도요타 협업 공개!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75061</link>
-            <guid>https://www.esquirekorea.co.kr/article/75061</guid>
-            <pubDate>Thu, 23 Feb 2023 09:21:24 GMT</pubDate>
-            <content:encoded><![CDATA['언더커버맛 캠리'의 등장?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/1da4aced-2cc1-45bd-b991-9fef4aa91465.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

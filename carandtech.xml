@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 09:32:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 15:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[챗GPT를 어시스턴트로 고용해봤다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75383</link>
+            <guid>https://www.esquirekorea.co.kr/article/75383</guid>
+            <pubDate>Fri, 03 Mar 2023 15:21:45 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/dd2ff3c0-1d84-42d5-9cb2-2936e6a64485.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VR 게임으로 출시되는 '오징어 게임']]></title>
             <link>https://www.esquirekorea.co.kr/article/75166</link>
@@ -61,13 +68,6 @@
             <pubDate>Wed, 22 Feb 2023 03:24:24 GMT</pubDate>
             <content:encoded><![CDATA[폭스바겐 골프는 해치백의 기준으로 일컬어지며 독보적인 역사를 써 내려왔다. 일곱 번이나 세대...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/08/e00ac76d-bc13-45b1-9195-bc6bfaa8435a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작고 매운 컴팩트 세단을 찾는다면?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74806</link>
-            <guid>https://www.esquirekorea.co.kr/article/74806</guid>
-            <pubDate>Wed, 22 Feb 2023 03:24:24 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/04/d7374ffe-3a59-4add-831a-48f2af2f856c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 09:32:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 15:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소변색으로 알아보는 건강 상태]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75476</link>
+            <guid>https://www.esquirekorea.co.kr/article/75476</guid>
+            <pubDate>Fri, 03 Mar 2023 15:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[소변이라고 노란색만 있는 것은 아니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/fce28231-a6f1-49df-8786-98584265be37.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예당호 모노레일과 함께 즐기는 예산 여행 코스 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/75461</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 02 Mar 2023 03:29:37 GMT</pubDate>
             <content:encoded><![CDATA[6천 원 화덕 불고기부터 50년 넘게 운영한 석쇠불고기의 원조까지 찾아보았다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/17a195e9-c5cc-4f5d-aca1-237158536318.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘포켓몬 카드’ 한 장이 6억이 넘는다고?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75438</link>
-            <guid>https://www.esquirekorea.co.kr/article/75438</guid>
-            <pubDate>Wed, 01 Mar 2023 15:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[이베이 포멧몬 카드 판매 최고가를 갱신할 수 있을까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/64e4765e-043e-48d7-89ba-df2b4a5e4a68.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
