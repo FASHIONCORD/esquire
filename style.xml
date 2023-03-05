@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 09:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 15:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소변색으로 알아보는 건강 상태]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75476</link>
+            <guid>https://www.esquirekorea.co.kr/article/75476</guid>
+            <pubDate>Sun, 05 Mar 2023 15:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[소변이라고 노란색만 있는 것은 아니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/fce28231-a6f1-49df-8786-98584265be37.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[푸마 X 리한나 협업 예고]]></title>
             <link>https://www.esquirekorea.co.kr/article/75474</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 02 Mar 2023 09:21:18 GMT</pubDate>
             <content:encoded><![CDATA[지금 청담으로 가자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/edaa9971-472a-429c-a73d-a907d5de7b89.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데님의 현주소]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75112</link>
-            <guid>https://www.esquirekorea.co.kr/article/75112</guid>
-            <pubDate>Tue, 28 Feb 2023 15:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[찢기고 얼룩진 데님의 미학.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/19/8187c42b-03c5-4af4-b3df-d587c521378a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

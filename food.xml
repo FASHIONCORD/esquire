@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 09:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 15:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[만 원대에 무한 리필 해주는 삼겹살 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75490</link>
+            <guid>https://www.esquirekorea.co.kr/article/75490</guid>
+            <pubDate>Sun, 05 Mar 2023 15:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[치솟는 물가에도 불구하고 삼겹살은 물론 항정살, 목살, 소우삼겹까지 무제한 제공해 주는 서울의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/2a3e33ce-dcbb-4ead-9e13-d4788ef9c920.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Part.2 미식가들은 친구들과 단체 모임을 해야 할 때 어디로 갈까?]]></title>
             <link>https://www.esquirekorea.co.kr/article/75489</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 02 Mar 2023 15:24:13 GMT</pubDate>
             <content:encoded><![CDATA[“오늘 뭐 해?”라고 물으면 “가슴이랑 삼두”라고 대답하는 사람들을 위해 영양은 물론 맛까지...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/12161720-9fd2-4c88-82b6-42b196677566.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 2만원대 한정식 코스요리 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75449</link>
-            <guid>https://www.esquirekorea.co.kr/article/75449</guid>
-            <pubDate>Thu, 02 Mar 2023 03:29:28 GMT</pubDate>
-            <content:encoded><![CDATA[다가오는 봄! 가족과 함께 식사하기 좋은 건강한 한정식 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/35a5c68e-844c-4b85-982f-ca92b1baf688.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
