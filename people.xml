@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 09:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 15:24:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허성현 신곡 'HDYF' 라이브 최초 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75331</link>
+            <guid>https://www.esquirekorea.co.kr/article/75331</guid>
+            <pubDate>Mon, 06 Mar 2023 15:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[쇼미더머니11 준우승 이후 공개하는 새 앨범이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/77aa5f43-821a-42c6-a443-342965a16779.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웨이팅 행렬! 입짧은햇님이 찜한 ‘찜’ 맛집 로드 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/75330</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 24 Feb 2023 09:21:30 GMT</pubDate>
             <content:encoded><![CDATA[쇼미더머니 비하인드 에피소드와 새 앨범 스포까지 모두 모았다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/03489981-d0e3-4888-98cb-c986e679c734.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part2. 이종석의 결정은 현실에 두 발을 붙인다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75233</link>
-            <guid>https://www.esquirekorea.co.kr/article/75233</guid>
-            <pubDate>Thu, 23 Feb 2023 15:26:09 GMT</pubDate>
-            <content:encoded><![CDATA[이종석은 자신의 수많은 결정이 현실적인 문제의식에서 기인한다고 말했다. 두 발을 땅에 찰싹 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/18c05bb8-aa18-464b-a6ff-3d752530e026.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

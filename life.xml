@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 09:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 15:24:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Part.2 미식가들은 친구들과 단체 모임을 해야 할 때 어디로 갈까?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75489</link>
+            <guid>https://www.esquirekorea.co.kr/article/75489</guid>
+            <pubDate>Mon, 06 Mar 2023 15:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[다섯 명 이상 몰고 가 별 다섯 개를 주고도 남는다. 맛있다는 건 다 먹어본 사람들, 새롭다는...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/65af8384-7669-4843-ab8d-a75bad357e48.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['아시아 베스트 바'에 선정된 국내 주점 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/75478</link>
@@ -61,14 +69,6 @@
             <guid>https://www.esquirekorea.co.kr/article/75454</guid>
             <pubDate>Thu, 02 Mar 2023 09:22:22 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/1c330e24-2618-4b4c-9507-e99abf21806e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매일 새로운 동력을 불어넣어 줄 책상 6개와 그에 꼭 어울리는 꽃 장식 6개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75182</link>
-            <guid>https://www.esquirekorea.co.kr/article/75182</guid>
-            <pubDate>Thu, 02 Mar 2023 09:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[매일 새로운 동력을 만들어줄 여섯 개의 아름다운 책상. 그 위에 꼭 어울리는 꽃 장식 여섯 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/f760c5cf-03ce-4d47-8f7c-d08e39ff88b7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
