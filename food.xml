@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 03:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 09:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파리바게뜨 '아샷추' 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75520</link>
+            <guid>https://www.esquirekorea.co.kr/article/75520</guid>
+            <pubDate>Mon, 06 Mar 2023 09:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[디카페인 버전도 선보인다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/ac06d03f-bf8e-4bf0-87af-f74d035d07e3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[만 원대에 무한 리필 해주는 삼겹살 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/75490</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 02 Mar 2023 15:24:13 GMT</pubDate>
             <content:encoded><![CDATA[눈에 보이지 않고, 섬세하게 다루어야 하고, 없어도 되지만 있으면 더 멋지고, 마주하기 위해선...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/5d6c4365-873e-4e48-9676-71bb210322d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10분안에 뚝딱 만드는 건강 간편식 6개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75250</link>
-            <guid>https://www.esquirekorea.co.kr/article/75250</guid>
-            <pubDate>Thu, 02 Mar 2023 15:24:13 GMT</pubDate>
-            <content:encoded><![CDATA[“오늘 뭐 해?”라고 물으면 “가슴이랑 삼두”라고 대답하는 사람들을 위해 영양은 물론 맛까지...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/12161720-9fd2-4c88-82b6-42b196677566.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

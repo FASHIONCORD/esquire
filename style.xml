@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 03:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 09:24:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[존 바바토스 아티산과 함께한 덱스의 하루]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75514</link>
+            <guid>https://www.esquirekorea.co.kr/article/75514</guid>
+            <pubDate>Mon, 06 Mar 2023 09:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[담백하면서도 섬세한, 청량하면서도 우아한 그들의 순간을 담았다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/84dd51fb-bea8-4eab-9f08-077c6379ee5f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소변색으로 알아보는 건강 상태]]></title>
             <link>https://www.esquirekorea.co.kr/article/75476</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 02 Mar 2023 09:21:18 GMT</pubDate>
             <content:encoded><![CDATA[입 냄새 자가진단법 4]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/072b03dc-b7bf-4acf-a4e6-338ecd4605f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마침내, 펜디의 첫 플래그십 부티크]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75265</link>
-            <guid>https://www.esquirekorea.co.kr/article/75265</guid>
-            <pubDate>Thu, 02 Mar 2023 09:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[지금 청담으로 가자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/edaa9971-472a-429c-a73d-a907d5de7b89.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
