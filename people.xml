@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 09:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 15:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스와 맥도날드의 귀여운 만남]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75354</link>
+            <guid>https://www.esquirekorea.co.kr/article/75354</guid>
+            <pubDate>Tue, 07 Mar 2023 15:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[토끼가 그려진 맥도날드?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/fcef8cb3-6564-4924-93bd-479ca4fad3c9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[허성현 신곡 'HDYF' 라이브 최초 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/75331</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 24 Feb 2023 15:21:07 GMT</pubDate>
             <content:encoded><![CDATA[10년 차 배우 이엘리야는 최근에야 배우라는 직업을 믿기 시작했다. 그러니 이제 그녀에겐 연기...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/e43e704b-3645-48c8-902a-8d0dca4f1c31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허성현, 던말릭과 로스 중 디스전 상대를 고른다면?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75259</link>
-            <guid>https://www.esquirekorea.co.kr/article/75259</guid>
-            <pubDate>Fri, 24 Feb 2023 09:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[쇼미더머니 비하인드 에피소드와 새 앨범 스포까지 모두 모았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/22/03489981-d0e3-4888-98cb-c986e679c734.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

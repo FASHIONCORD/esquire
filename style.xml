@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 09:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 15:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생 로랑이 기억하는 여름 밤]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75231</link>
+            <guid>https://www.esquirekorea.co.kr/article/75231</guid>
+            <pubDate>Tue, 07 Mar 2023 15:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[섬광처럼 빛난 순간, 길게 남은 여운.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/05/56aa787f-4074-4d32-9ff3-1bec784107e2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로워진 103번째 피티 워모]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75247</link>
+            <guid>https://www.esquirekorea.co.kr/article/75247</guid>
+            <pubDate>Tue, 07 Mar 2023 15:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[103번째 피티 워모를 새롭게 하는 4가지 면면.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/05/dd79a496-5574-470b-aa4b-efa69577ae5e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지민, 티파니 글로벌 앰버서더 발탁]]></title>
             <link>https://www.esquirekorea.co.kr/article/75518</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 03 Mar 2023 09:31:42 GMT</pubDate>
             <content:encoded><![CDATA[새로운 방식, 파격의 규율. 대체 불가한 발렌시아가의 언어.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/01/7e00f465-c582-41fd-a3eb-380341de1dc2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DYSFUNCTIONAL BAUHAUS, 셀린느 2023 S/S]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75184</link>
-            <guid>https://www.esquirekorea.co.kr/article/75184</guid>
-            <pubDate>Fri, 03 Mar 2023 09:31:42 GMT</pubDate>
-            <content:encoded><![CDATA[반항적인 목소리와 펑크적 태도로 기록한 젊음.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/a98215ef-b837-4b1c-b327-5e8d3354f4d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브루넬로 쿠치넬리의 봄]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75181</link>
-            <guid>https://www.esquirekorea.co.kr/article/75181</guid>
-            <pubDate>Thu, 02 Mar 2023 09:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[이른 봄날의 서정과 브루넬로 쿠치넬리의 안락.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/16a9ef0d-1bd1-4865-ae78-b7eee933715d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
