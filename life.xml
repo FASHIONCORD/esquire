@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 15:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 03:33:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[만 원대에 무한 리필 해주는 삼겹살 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75490</link>
+            <guid>https://www.esquirekorea.co.kr/article/75490</guid>
+            <pubDate>Tue, 07 Mar 2023 03:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[치솟는 물가에도 불구하고 삼겹살은 물론 항정살, 목살, 소우삼겹까지 무제한 제공해 주는 서울의...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/2a3e33ce-dcbb-4ead-9e13-d4788ef9c920.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Part.2 미식가들은 친구들과 단체 모임을 해야 할 때 어디로 갈까?]]></title>
             <link>https://www.esquirekorea.co.kr/article/75489</link>
@@ -62,13 +70,6 @@
             <pubDate>Thu, 02 Mar 2023 09:22:22 GMT</pubDate>
             <content:encoded><![CDATA[다섯 명 이상 몰고 가 별 다섯 개를 주고도 남는다. 맛있다는 건 다 먹어본 사람들, 새롭다는...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/23b77e00-85eb-4f32-a849-3338b9c67da8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['마빈은 죽지 않았다' 마우리치오 카텔란의 전시와 노는 법]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75454</link>
-            <guid>https://www.esquirekorea.co.kr/article/75454</guid>
-            <pubDate>Thu, 02 Mar 2023 09:22:22 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/1c330e24-2618-4b4c-9507-e99abf21806e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
