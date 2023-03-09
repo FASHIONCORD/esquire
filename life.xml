@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 09:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 15:25:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[창경궁 대온실 야간 개장! 밤 데이트 코스 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75678</link>
+            <guid>https://www.esquirekorea.co.kr/article/75678</guid>
+            <pubDate>Thu, 09 Mar 2023 15:24:26 GMT</pubDate>
+            <content:encoded><![CDATA[야간 궁궐 탐방에 이어 가볼 만한 이자카야부터 신선한 해산물 포차까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/721968cd-fd95-4fc7-b07f-f7aeb49ec63c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스타벅스 경동1960 근처 가볼 만한 경동시장 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/75671</link>
@@ -61,14 +69,6 @@
             <pubDate>Tue, 07 Mar 2023 09:22:20 GMT</pubDate>
             <content:encoded><![CDATA[40년 넘은 부대찌개 맛집부터 바다 노을을 만끽할 수 있는 전망대까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/04/84c440c5-0e86-4991-b153-a08402277a7f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[So!YoON!(황소윤) 정규 2집 선공개 트랙 Bad 라이브 공개!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75532</link>
-            <guid>https://www.esquirekorea.co.kr/article/75532</guid>
-            <pubDate>Tue, 07 Mar 2023 09:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[가상과 현실의 모호한 경계를 허무는 그 첫 번째 이야기]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/0936db4c-ded3-43b6-ae39-0ed0fb802590.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

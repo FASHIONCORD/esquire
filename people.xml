@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 09:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 15:25:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지민, 티파니 글로벌 앰버서더 발탁]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75518</link>
+            <guid>https://www.esquirekorea.co.kr/article/75518</guid>
+            <pubDate>Thu, 09 Mar 2023 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[화보와 함께 공개한 소식.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/68659b27-268b-4ada-8219-bbdaed0b72bf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전 세계 연예계 잔혹사 7]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75482</link>
+            <guid>https://www.esquirekorea.co.kr/article/75482</guid>
+            <pubDate>Thu, 09 Mar 2023 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[홍콩 모델 사건보다 더 한 사건이 있다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/5449b00f-6d52-415d-a59c-951216ac15af.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리오날 메시, FIFA 올해의 선수로 선수 부문 수상]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75437</link>
+            <guid>https://www.esquirekorea.co.kr/article/75437</guid>
+            <pubDate>Thu, 09 Mar 2023 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[2022 축구계를 뜨겁게 달군 주인공.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/2fa10029-fcf6-4300-8828-1cb5d2bb8e0c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스와 맥도날드의 귀여운 만남]]></title>
             <link>https://www.esquirekorea.co.kr/article/75354</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 28 Feb 2023 09:22:43 GMT</pubDate>
             <content:encoded><![CDATA[미공개 곡이 수록된 앨범이 곧 발매된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/4dd394c1-a53f-42ba-bc55-260e5ffabb84.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['모범택시2'로 돌아온 이제훈 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75296</link>
-            <guid>https://www.esquirekorea.co.kr/article/75296</guid>
-            <pubDate>Mon, 27 Feb 2023 03:29:21 GMT</pubDate>
-            <content:encoded><![CDATA[대체불가한 연기력과 파격적인 캐릭터를 보여주는 이제훈, 그가 다녀간 전국의 맛집과 카페를 소...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/5e2cee2c-3241-4bc4-9934-e8ee06dc1a10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part2. 이엘리야에게 <미끼>가 정말로 특별한 작품인 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75282</link>
-            <guid>https://www.esquirekorea.co.kr/article/75282</guid>
-            <pubDate>Fri, 24 Feb 2023 15:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[10년 차 배우 이엘리야는 최근에야 배우라는 직업을 믿기 시작했다. 그러니 이제 그녀에겐 연기...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/9cc1ec85-e1b8-447f-9943-910fffdbb021.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part1. 이엘리야가 밝힌 남다른 노래 실력의 비밀]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75133</link>
-            <guid>https://www.esquirekorea.co.kr/article/75133</guid>
-            <pubDate>Fri, 24 Feb 2023 15:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[10년 차 배우 이엘리야는 최근에야 배우라는 직업을 믿기 시작했다. 그러니 이제 그녀에겐 연기...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/e43e704b-3645-48c8-902a-8d0dca4f1c31.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
