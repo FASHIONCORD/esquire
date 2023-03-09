@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 03:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 09:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새 계절, 새 가방]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75592</link>
+            <guid>https://www.esquirekorea.co.kr/article/75592</guid>
+            <pubDate>Thu, 09 Mar 2023 09:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[남자를 위한 가뿐한 숄더백.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/409b90c8-b67a-4c44-8f82-7b3e6e9dca06.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알렉산더 맥퀸의 2023 가을/겨울 패션쇼]]></title>
             <link>https://www.esquirekorea.co.kr/article/75584</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 05 Mar 2023 15:20:20 GMT</pubDate>
             <content:encoded><![CDATA[소변이라고 노란색만 있는 것은 아니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/fce28231-a6f1-49df-8786-98584265be37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸마 X 리한나 협업 예고]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75474</link>
-            <guid>https://www.esquirekorea.co.kr/article/75474</guid>
-            <pubDate>Sat, 04 Mar 2023 15:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[6년 만에 그녀가 돌아왔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/5c27eb63-ec45-45d0-9c09-f67519e9e50c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

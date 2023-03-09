@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 03:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 09:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엑소 카이, 새 앨범 티저 이미지 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75362</link>
+            <guid>https://www.esquirekorea.co.kr/article/75362</guid>
+            <pubDate>Thu, 09 Mar 2023 09:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[이번에는 어떤 퍼포먼스를 보여줄지 기대된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/d4c18995-b6c7-46b6-89dd-ea218d0da284.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리그 컵 정상에 오른 맨체스터 유나이티드]]></title>
             <link>https://www.esquirekorea.co.kr/article/75361</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 25 Feb 2023 15:20:37 GMT</pubDate>
             <content:encoded><![CDATA[이제 불안한 눈으로 미터기 보는 일 없겠다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/95e1f8b2-148b-480c-b705-6b9f95f5004a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스, '아무도 없는 숲속에서' 라인업 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75168</link>
-            <guid>https://www.esquirekorea.co.kr/article/75168</guid>
-            <pubDate>Fri, 24 Feb 2023 09:21:54 GMT</pubDate>
-            <content:encoded><![CDATA['부부의 세계' 감독이 연출을 맡았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/791e6299-6242-4a61-83ca-366b5e321414.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
