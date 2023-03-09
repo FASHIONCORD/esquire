@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 15:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 03:29:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<더 퍼스트 슬램덩크>와 한국 농구, 그 엇갈린 운명]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75591</link>
+            <guid>https://www.esquirekorea.co.kr/article/75591</guid>
+            <pubDate>Thu, 09 Mar 2023 03:28:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/dcd5c3da-2dd7-4cf5-a7e9-c9d6f9439d32.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[50년 넘게 운영 중인 추어탕 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/75569</link>
@@ -62,14 +69,6 @@
             <pubDate>Sat, 04 Mar 2023 03:23:20 GMT</pubDate>
             <content:encoded><![CDATA[사소하지만, 누군가에겐 필수적이다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/7c3cb970-ab59-4c9b-b145-3ed084cb6ab3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소변색으로 알아보는 건강 상태]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75476</link>
-            <guid>https://www.esquirekorea.co.kr/article/75476</guid>
-            <pubDate>Fri, 03 Mar 2023 15:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[소변이라고 노란색만 있는 것은 아니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/fce28231-a6f1-49df-8786-98584265be37.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

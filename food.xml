@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 15:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 03:29:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[50년 넘게 운영 중인 추어탕 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75569</link>
+            <guid>https://www.esquirekorea.co.kr/article/75569</guid>
+            <pubDate>Thu, 09 Mar 2023 03:28:07 GMT</pubDate>
+            <content:encoded><![CDATA[일제강점기 때 시작해 92년째 운영 중인 서울에서 가장 오래된 추어탕 집은 어디일까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/53ac3cd3-c007-47c9-950b-3575beb65ce3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당신이 잘 몰랐던 살아있는 사케 '나마자케'의 세계]]></title>
             <link>https://www.esquirekorea.co.kr/article/75553</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 04 Mar 2023 03:22:42 GMT</pubDate>
             <content:encoded><![CDATA[다섯 명 이상 몰고 가 별 다섯 개를 주고도 남는다. 맛있다는 건 다 먹어본 사람들, 새롭다는...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/65af8384-7669-4843-ab8d-a75bad357e48.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아시아 베스트 바'에 선정된 국내 주점 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75478</link>
-            <guid>https://www.esquirekorea.co.kr/article/75478</guid>
-            <pubDate>Sat, 04 Mar 2023 03:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[아시아 최고의 주점에 부여되는 ‘아시아 베스트 바’. 19세기 열차에 탄 듯한 곳부터 전통주로...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/d945d476-390e-46a8-a0fd-6a5f5399159d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
