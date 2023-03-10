@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 09:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 15:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퀄리티 높은 10만 원 이하 오마카세 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75684</link>
+            <guid>https://www.esquirekorea.co.kr/article/75684</guid>
+            <pubDate>Fri, 10 Mar 2023 15:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[15여 종의 메뉴를 6만 원대에 내주는 곳부터 1세대 스시 장인의 오마카세까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/4cd892d0-c94d-4ff8-9322-da71e5eaa48e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[돈두댓] 샤워 섹스할 때 하면 안 되는 것]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75683</link>
+            <guid>https://www.esquirekorea.co.kr/article/75683</guid>
+            <pubDate>Fri, 10 Mar 2023 15:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[뜨겁고 촉촉한 사랑을 위하여]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/292af2b2-4530-46f9-9736-920a8727f8c5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[창경궁 대온실 야간 개장! 밤 데이트 코스 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/75678</link>
@@ -53,22 +69,6 @@
             <guid>https://www.esquirekorea.co.kr/article/75591</guid>
             <pubDate>Thu, 09 Mar 2023 03:28:46 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/dcd5c3da-2dd7-4cf5-a7e9-c9d6f9439d32.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50년 넘게 운영 중인 추어탕 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75569</link>
-            <guid>https://www.esquirekorea.co.kr/article/75569</guid>
-            <pubDate>Wed, 08 Mar 2023 15:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[일제강점기 때 시작해 92년째 운영 중인 서울에서 가장 오래된 추어탕 집은 어디일까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/53ac3cd3-c007-47c9-950b-3575beb65ce3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[월미바다열차 타고 월미도 가볼 만한 곳 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75547</link>
-            <guid>https://www.esquirekorea.co.kr/article/75547</guid>
-            <pubDate>Tue, 07 Mar 2023 09:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[40년 넘은 부대찌개 맛집부터 바다 노을을 만끽할 수 있는 전망대까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/04/84c440c5-0e86-4991-b153-a08402277a7f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 09:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 15:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[루이비통의 위트]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75627</link>
+            <guid>https://www.esquirekorea.co.kr/article/75627</guid>
+            <pubDate>Fri, 10 Mar 2023 15:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[재기 발랄한 가방을 면밀히 들여다보다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/a484012c-c14d-4db0-9763-4468f20d5d55.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[굼허가 그리려는 남자의 얼굴이 궁금해졌다]]></title>
             <link>https://www.esquirekorea.co.kr/article/75625</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 06 Mar 2023 15:22:44 GMT</pubDate>
             <content:encoded><![CDATA[화보와 함께 공개한 소식.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/68659b27-268b-4ada-8219-bbdaed0b72bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[존 바바토스 아티산과 함께한 덱스의 하루]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75514</link>
-            <guid>https://www.esquirekorea.co.kr/article/75514</guid>
-            <pubDate>Mon, 06 Mar 2023 09:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[담백하면서도 섬세한, 청량하면서도 우아한 그들의 순간을 담았다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/84dd51fb-bea8-4eab-9f08-077c6379ee5f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
