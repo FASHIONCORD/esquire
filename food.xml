@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 15:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 03:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[창경궁 대온실 야간 개장! 밤 데이트 코스 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75678</link>
+            <guid>https://www.esquirekorea.co.kr/article/75678</guid>
+            <pubDate>Sat, 11 Mar 2023 03:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[야간 궁궐 탐방에 이어 가볼 만한 이자카야부터 신선한 해산물 포차까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/721968cd-fd95-4fc7-b07f-f7aeb49ec63c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타벅스 경동1960 근처 가볼 만한 경동시장 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75671</link>
+            <guid>https://www.esquirekorea.co.kr/article/75671</guid>
+            <pubDate>Sat, 11 Mar 2023 03:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[40년 넘게 냉면을 직접 뽑아 만드는 곳부터 제주도 3대 해장국을 그대로 가져온 곳까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/2be41744-4222-4337-87b3-88d01effca9b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[건강한 기운이 솟아나는 약초밥상 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/75609</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 07 Mar 2023 09:21:42 GMT</pubDate>
             <content:encoded><![CDATA[40년 넘은 부대찌개 맛집부터 바다 노을을 만끽할 수 있는 전망대까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/04/84c440c5-0e86-4991-b153-a08402277a7f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['서울 미래유산'으로 지정된 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75543</link>
-            <guid>https://www.esquirekorea.co.kr/article/75543</guid>
-            <pubDate>Tue, 07 Mar 2023 03:32:21 GMT</pubDate>
-            <content:encoded><![CDATA[미래 세대에게 전달할 만한 가치를 지닌 음식점 5곳.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/04/71f31aa5-7721-4e80-871a-3a9570202501.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대학가 맛집_경희대, 한국외대 편]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75538</link>
-            <guid>https://www.esquirekorea.co.kr/article/75538</guid>
-            <pubDate>Mon, 06 Mar 2023 15:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[김밥부터 70년 노포 짜장, 타코까지! 동대문구의 숨은 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/fd306a7f-d8ee-4a33-8a94-81132629c0a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
