@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 09:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 15:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[페라가모가 제시한 동시대적 남성복]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75189</link>
+            <guid>https://www.esquirekorea.co.kr/article/75189</guid>
+            <pubDate>Sat, 11 Mar 2023 15:19:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/e79cf6cb-68c9-4ebf-ae12-87131fae899d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[루이비통의 위트]]></title>
             <link>https://www.esquirekorea.co.kr/article/75627</link>
@@ -62,14 +69,6 @@
             <pubDate>Tue, 07 Mar 2023 15:20:56 GMT</pubDate>
             <content:encoded><![CDATA[103번째 피티 워모를 새롭게 하는 4가지 면면.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/05/dd79a496-5574-470b-aa4b-efa69577ae5e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지민, 티파니 글로벌 앰버서더 발탁]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75518</link>
-            <guid>https://www.esquirekorea.co.kr/article/75518</guid>
-            <pubDate>Mon, 06 Mar 2023 15:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[화보와 함께 공개한 소식.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/68659b27-268b-4ada-8219-bbdaed0b72bf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,23 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 09:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 15:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[풀사이즈 픽업트럭이 왔다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75487</link>
+            <guid>https://www.esquirekorea.co.kr/article/75487</guid>
+            <pubDate>Sat, 11 Mar 2023 15:19:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/c6f3e1a2-8086-4610-a3e6-a7f8589c4ab1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[린 메스 업에 성공한 투아렉]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75455</link>
+            <guid>https://www.esquirekorea.co.kr/article/75455</guid>
+            <pubDate>Sat, 11 Mar 2023 15:19:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/e38c619d-9031-40a0-96ff-9b2cb7a00da6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네이버, 한국형 초대규모 인공지능 ‘하이퍼클로바X’ 7월 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/75433</link>
@@ -53,22 +67,6 @@
             <pubDate>Tue, 28 Feb 2023 09:21:51 GMT</pubDate>
             <content:encoded><![CDATA['언더커버맛 캠리'의 등장?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/1da4aced-2cc1-45bd-b991-9fef4aa91465.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[챗 GPT 유료 버전 한국 상륙]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74998</link>
-            <guid>https://www.esquirekorea.co.kr/article/74998</guid>
-            <pubDate>Mon, 27 Feb 2023 15:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[질문 답변 시간을 줄여준다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/14/8e40f2ad-d7a8-4bea-9e57-0f6a0f6cae94.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[챗GPT, 미국 의사 면허 시험 합격]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74929</link>
-            <guid>https://www.esquirekorea.co.kr/article/74929</guid>
-            <pubDate>Mon, 27 Feb 2023 15:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[앞서 로스쿨·MBA 시험도 통과한 이력이 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/10/f6394e69-3b86-4aa0-9311-e29eec0aca6b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
