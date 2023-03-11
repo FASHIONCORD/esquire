@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 03:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 09:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1387,6 +1387,21 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/04/84c440c5-0e86-4991-b153-a08402277a7f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[다이내믹하고 어메이징하며 파워풀한 도시 슬로건의 추억 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75695</link>
+            <guid>https://www.esquirekorea.co.kr/article/75695</guid>
+            <pubDate>Sat, 11 Mar 2023 09:19:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/c4749dcf-c67c-436b-ac10-037ffc4a3edf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성관계 전 피해야 할 음식 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75686</link>
+            <guid>https://www.esquirekorea.co.kr/article/75686</guid>
+            <pubDate>Sat, 11 Mar 2023 09:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[바위처럼 단단해지고 싶다면 4가지 음식은 피하자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/7531bca3-8448-4bc9-876e-4ad15b17ee31.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[넷플릭스 ‘나는 신이다’만큼이나 충격적인 해외 사이비 종교 6 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/75685</link>
             <guid>https://www.esquirekorea.co.kr/article/75685</guid>
@@ -1433,22 +1448,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 09 Mar 2023 09:23:46 GMT</pubDate>
             <content:encoded><![CDATA[라라랜드, 바빌론의 음악감독 저스틴 허위츠가 이름을 올렸다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/e9d09fc2-727b-4813-9f5b-e98cb4dae5be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건강한 기운이 솟아나는 약초밥상 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75609</link>
-            <guid>https://www.esquirekorea.co.kr/article/75609</guid>
-            <pubDate>Thu, 09 Mar 2023 09:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[봄철 원기회복에 좋은! 전국 곳곳의 약초밥상 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/5ac22934-bef8-4ee2-8126-7895e2985b85.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당일 직송 회만 취급하는 서울 횟집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75601</link>
-            <guid>https://www.esquirekorea.co.kr/article/75601</guid>
-            <pubDate>Thu, 09 Mar 2023 09:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[광어, 우럭, 도미는 물론 삼치회까지, 날이 따뜻해져도 최상의 회를 맛볼 수 있는 곳들을 소개...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/8e5da414-7ee5-48c6-bd03-7f4a4fa39910.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지민, 티파니 글로벌 앰버서더 발탁 (에스콰이어 코리아 ─ 피플)]]></title>
