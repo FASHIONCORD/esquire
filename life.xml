@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 03:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 09:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Part.2 2023 S/S에 기억해야 할 패션 트렌드의 모든 것]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75427</link>
+            <guid>https://www.esquirekorea.co.kr/article/75427</guid>
+            <pubDate>Sun, 12 Mar 2023 09:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[지금의 패션을 이해하기 위해 꼭 알아야 할 트렌드와 이슈를 차곡차곡 모았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/c8842eeb-ee25-491d-827a-ee37fd9f5eeb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스콰이어 에디터들이 추천하는 이달의 책 4.]]></title>
             <link>https://www.esquirekorea.co.kr/article/75725</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 09 Mar 2023 15:24:26 GMT</pubDate>
             <content:encoded><![CDATA[야간 궁궐 탐방에 이어 가볼 만한 이자카야부터 신선한 해산물 포차까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/721968cd-fd95-4fc7-b07f-f7aeb49ec63c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타벅스 경동1960 근처 가볼 만한 경동시장 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75671</link>
-            <guid>https://www.esquirekorea.co.kr/article/75671</guid>
-            <pubDate>Thu, 09 Mar 2023 09:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[40년 넘게 냉면을 직접 뽑아 만드는 곳부터 제주도 3대 해장국을 그대로 가져온 곳까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/2be41744-4222-4337-87b3-88d01effca9b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

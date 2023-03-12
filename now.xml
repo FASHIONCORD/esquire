@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 03:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 09:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소변색으로 알아보는 건강 상태]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75476</link>
+            <guid>https://www.esquirekorea.co.kr/article/75476</guid>
+            <pubDate>Sun, 12 Mar 2023 09:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[소변이라고 노란색만 있는 것은 아니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/fce28231-a6f1-49df-8786-98584265be37.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 제이홉, 솔로 싱글 곡 발표]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75365</link>
+            <guid>https://www.esquirekorea.co.kr/article/75365</guid>
+            <pubDate>Sun, 12 Mar 2023 09:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[오는 3월 3일 뮤직비디오도 함께 공개된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/6ddbbef9-ee0d-4b03-a443-5f1e2b3ff857.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엑소 카이, 새 앨범 티저 이미지 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/75362</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 27 Feb 2023 09:23:04 GMT</pubDate>
             <content:encoded><![CDATA[이제 항공권도 구독하는 시대.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/e463b0c3-9281-4296-9172-99c49811934a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마스크를 벗으니 비로소 느껴지는 주변인의 입 냄새! 혹시 나도?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75279</link>
-            <guid>https://www.esquirekorea.co.kr/article/75279</guid>
-            <pubDate>Mon, 27 Feb 2023 09:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[입 냄새 자가진단법 4]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/23/072b03dc-b7bf-4acf-a4e6-338ecd4605f8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이.엠 사전확정요금제 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75270</link>
-            <guid>https://www.esquirekorea.co.kr/article/75270</guid>
-            <pubDate>Sat, 25 Feb 2023 15:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[이제 불안한 눈으로 미터기 보는 일 없겠다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/95e1f8b2-148b-480c-b705-6b9f95f5004a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
