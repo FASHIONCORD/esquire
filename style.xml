@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 09:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 15:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023년의 팬츠]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75672</link>
+            <guid>https://www.esquirekorea.co.kr/article/75672</guid>
+            <pubDate>Sun, 12 Mar 2023 15:18:59 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/958ec4b2-55f1-4da0-9ca1-f02a010bf9b0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[페라가모가 제시한 동시대적 남성복]]></title>
             <link>https://www.esquirekorea.co.kr/article/75189</link>
@@ -61,14 +68,6 @@
             <pubDate>Tue, 07 Mar 2023 15:20:56 GMT</pubDate>
             <content:encoded><![CDATA[섬광처럼 빛난 순간, 길게 남은 여운.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/05/56aa787f-4074-4d32-9ff3-1bec784107e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로워진 103번째 피티 워모]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75247</link>
-            <guid>https://www.esquirekorea.co.kr/article/75247</guid>
-            <pubDate>Tue, 07 Mar 2023 15:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[103번째 피티 워모를 새롭게 하는 4가지 면면.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/05/dd79a496-5574-470b-aa4b-efa69577ae5e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
