@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 15:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 03:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가장 오래된 한글 편지 보물 지정]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75733</link>
+            <guid>https://www.esquirekorea.co.kr/article/75733</guid>
+            <pubDate>Mon, 13 Mar 2023 03:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[아내를 향한 그리움과 걱정이 담겨있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/12ecb7b4-a82d-4d79-a98b-1df4f8b7dfb2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국의 베네치아! 김포 라베니체와 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/75730</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 10 Mar 2023 15:21:35 GMT</pubDate>
             <content:encoded><![CDATA[15여 종의 메뉴를 6만 원대에 내주는 곳부터 1세대 스시 장인의 오마카세까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/4cd892d0-c94d-4ff8-9322-da71e5eaa48e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돈두댓] 샤워 섹스할 때 하면 안 되는 것]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75683</link>
-            <guid>https://www.esquirekorea.co.kr/article/75683</guid>
-            <pubDate>Fri, 10 Mar 2023 15:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[뜨겁고 촉촉한 사랑을 위하여]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/292af2b2-4530-46f9-9736-920a8727f8c5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
