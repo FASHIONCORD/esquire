@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 09:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 15:28:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식물학자가 봄과 꽃에 대해 생각하며 느낀 것들]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75127</link>
+            <guid>https://www.esquirekorea.co.kr/article/75127</guid>
+            <pubDate>Tue, 14 Mar 2023 15:28:16 GMT</pubDate>
+            <content:encoded><![CDATA[숨죽이고 살아 있던 것들이 약동하는 계절. 싹이 트고 잎이 나고 꽃은 핀다. 식물학자 겸 세밀...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/514c50e7-2c26-4522-a77d-00347f02ce64.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4년 만에 개최되는 '경주벚꽃축제']]></title>
             <link>https://www.esquirekorea.co.kr/article/75741</link>
@@ -62,13 +70,6 @@
             <pubDate>Sat, 11 Mar 2023 15:20:01 GMT</pubDate>
             <content:encoded><![CDATA[중쇄를 거듭해 더 많은 사람이 읽었으면 하는 책들을 &lt;에스콰이어&gt; 에디터들이 골랐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/d26a68ab-95df-441f-8fb1-c9379b936bc9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이내믹하고 어메이징하며 파워풀한 도시 슬로건의 추억]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75695</link>
-            <guid>https://www.esquirekorea.co.kr/article/75695</guid>
-            <pubDate>Sat, 11 Mar 2023 09:19:05 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/c4749dcf-c67c-436b-ac10-037ffc4a3edf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

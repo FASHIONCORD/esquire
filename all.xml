@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 09:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 15:28:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1319,6 +1319,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/42dcaf34-d795-4273-8238-cbf2d0962b39.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[코카-콜라, 파워에이드 제로 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75751</link>
+            <guid>https://www.esquirekorea.co.kr/article/75751</guid>
+            <pubDate>Tue, 14 Mar 2023 15:28:07 GMT</pubDate>
+            <content:encoded><![CDATA[맛은 마운틴 블라스트와 비슷하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/1cc3283b-31bd-48c2-8f80-caa8db4a76b8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국의 베네치아! 김포 라베니체와 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75730</link>
+            <guid>https://www.esquirekorea.co.kr/article/75730</guid>
+            <pubDate>Sun, 12 Mar 2023 15:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[황홀한 분수대를 바로 앞에 둔 레스토랑부터 스키야키 무한리필까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/e6d0c7de-0f86-47e5-bc78-fd51a8f770f8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[특별한 맛과 체험을 선사하는 서울의 커피 오마카세 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/75729</link>
             <guid>https://www.esquirekorea.co.kr/article/75729</guid>
@@ -1367,20 +1383,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/2be41744-4222-4337-87b3-88d01effca9b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[건강한 기운이 솟아나는 약초밥상 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75609</link>
-            <guid>https://www.esquirekorea.co.kr/article/75609</guid>
-            <pubDate>Thu, 09 Mar 2023 09:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[봄철 원기회복에 좋은! 전국 곳곳의 약초밥상 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/5ac22934-bef8-4ee2-8126-7895e2985b85.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당일 직송 회만 취급하는 서울 횟집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75601</link>
-            <guid>https://www.esquirekorea.co.kr/article/75601</guid>
-            <pubDate>Thu, 09 Mar 2023 09:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[광어, 우럭, 도미는 물론 삼치회까지, 날이 따뜻해져도 최상의 회를 맛볼 수 있는 곳들을 소개...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/8e5da414-7ee5-48c6-bd03-7f4a4fa39910.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[식물학자가 봄과 꽃에 대해 생각하며 느낀 것들 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75127</link>
+            <guid>https://www.esquirekorea.co.kr/article/75127</guid>
+            <pubDate>Tue, 14 Mar 2023 15:28:16 GMT</pubDate>
+            <content:encoded><![CDATA[숨죽이고 살아 있던 것들이 약동하는 계절. 싹이 트고 잎이 나고 꽃은 핀다. 식물학자 겸 세밀...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/514c50e7-2c26-4522-a77d-00347f02ce64.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[4년 만에 개최되는 '경주벚꽃축제' (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1439,17 +1447,10 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/d26a68ab-95df-441f-8fb1-c9379b936bc9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다이내믹하고 어메이징하며 파워풀한 도시 슬로건의 추억 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75695</link>
-            <guid>https://www.esquirekorea.co.kr/article/75695</guid>
-            <pubDate>Sat, 11 Mar 2023 09:19:05 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/c4749dcf-c67c-436b-ac10-037ffc4a3edf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['홍철책빵'에 이어 오픈하는 아이스크림 매장 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/75687</link>
             <guid>https://www.esquirekorea.co.kr/article/75687</guid>
-            <pubDate>Tue, 14 Mar 2023 09:23:57 GMT</pubDate>
+            <pubDate>Tue, 14 Mar 2023 09:23:24 GMT</pubDate>
             <content:encoded><![CDATA[3월 31일 신사동에서 오픈한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/bf66d2ef-70fa-4c67-9fd9-6791f0989363.jpg" length="0" type="image/jpg"/>
         </item>
