@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 03:23:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 09:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1258,6 +1258,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/16/b1c5ca41-e29c-4b92-afd9-7c2b2d9a7261.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스웨덴 전자음향기기 브랜드가 대뜸 너도밤나무 소재 목각인형을 내놓은 이유 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75540</link>
+            <guid>https://www.esquirekorea.co.kr/article/75540</guid>
+            <pubDate>Tue, 14 Mar 2023 09:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[출신은 달라도 화음은 완벽합니다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/04/9381534f-7ed7-4343-a0df-88104730986d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[풀사이즈 픽업트럭이 왔다 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/75487</link>
             <guid>https://www.esquirekorea.co.kr/article/75487</guid>
@@ -1311,12 +1319,28 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/42dcaf34-d795-4273-8238-cbf2d0962b39.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[언더커버 × 도요타 협업 공개! (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75061</link>
-            <guid>https://www.esquirekorea.co.kr/article/75061</guid>
-            <pubDate>Thu, 23 Feb 2023 09:21:24 GMT</pubDate>
-            <content:encoded><![CDATA['언더커버맛 캠리'의 등장?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/1da4aced-2cc1-45bd-b991-9fef4aa91465.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[특별한 맛과 체험을 선사하는 서울의 커피 오마카세 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75729</link>
+            <guid>https://www.esquirekorea.co.kr/article/75729</guid>
+            <pubDate>Tue, 14 Mar 2023 09:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[블루리본 서베이에 수록된 에스프레소바부터 40가지 원두를 비치하고 있는 편집숍까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/0f7de5a6-c328-4c75-96ad-2fc5735dae31.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울의 떡갈비 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75724</link>
+            <guid>https://www.esquirekorea.co.kr/article/75724</guid>
+            <pubDate>Tue, 14 Mar 2023 09:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[노포부터 미쉐린 2스타 셰프가 운영하는 한식 다이닝까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/d6e89667-910f-43c4-8ed7-43069e8e3b17.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['홍철책빵'에 이어 오픈하는 아이스크림 매장 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75687</link>
+            <guid>https://www.esquirekorea.co.kr/article/75687</guid>
+            <pubDate>Tue, 14 Mar 2023 09:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[3월 31일 신사동에서 오픈한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/bf66d2ef-70fa-4c67-9fd9-6791f0989363.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[퀄리티 높은 10만 원 이하 오마카세 4 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1359,28 +1383,28 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/8e5da414-7ee5-48c6-bd03-7f4a4fa39910.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오이스터 계의 스티브 잡스, 서익훈의 목표 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75193</link>
-            <guid>https://www.esquirekorea.co.kr/article/75193</guid>
-            <pubDate>Thu, 09 Mar 2023 09:23:22 GMT</pubDate>
-            <content:encoded><![CDATA[서익훈을 두고 누군가가 말했다. 오이스터계의 스티브 잡스라고. 더즌 오이스터 한남까지 서울에만...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/771dadc5-1153-4973-ab01-76ce6bdee69e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[4년 만에 개최되는 '경주벚꽃축제' (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75741</link>
+            <guid>https://www.esquirekorea.co.kr/article/75741</guid>
+            <pubDate>Tue, 14 Mar 2023 09:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[반려견도 함께 즐길 수 있는 댕댕이 놀이터도 선보인다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/12/e7706bb7-49c2-4b27-b39a-b068e4293501.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[50년 넘게 운영 중인 추어탕 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75569</link>
-            <guid>https://www.esquirekorea.co.kr/article/75569</guid>
-            <pubDate>Wed, 08 Mar 2023 15:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[일제강점기 때 시작해 92년째 운영 중인 서울에서 가장 오래된 추어탕 집은 어디일까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/53ac3cd3-c007-47c9-950b-3575beb65ce3.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[국내 최초로 품목 허가 받은 타액 PCR 진단 키트 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75736</link>
+            <guid>https://www.esquirekorea.co.kr/article/75736</guid>
+            <pubDate>Tue, 14 Mar 2023 09:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[용기에 침만 뱉으면 검체 채취가 끝난다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/294759a6-cd0b-4133-b961-f06fbff3524f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[당신이 잘 몰랐던 살아있는 사케 '나마자케'의 세계 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75553</link>
-            <guid>https://www.esquirekorea.co.kr/article/75553</guid>
-            <pubDate>Wed, 08 Mar 2023 15:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[이것들은 날것이다. 생효모의 바다를 품은 원주가 당신의 입안을 헤엄칠 것이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/088495ce-1edd-4700-adae-dbb56247fb54.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[플로, 밀리의 서재 전용관 마련 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75734</link>
+            <guid>https://www.esquirekorea.co.kr/article/75734</guid>
+            <pubDate>Tue, 14 Mar 2023 09:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[베스트셀러를 모아 청취할 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/00964af3-09ad-4216-87e0-3f19cfdf172d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가장 오래된 한글 편지 보물 지정 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1422,28 +1446,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/c4749dcf-c67c-436b-ac10-037ffc4a3edf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[성관계 전 피해야 할 음식 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75686</link>
-            <guid>https://www.esquirekorea.co.kr/article/75686</guid>
-            <pubDate>Sat, 11 Mar 2023 09:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[바위처럼 단단해지고 싶다면 4가지 음식은 피하자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/7531bca3-8448-4bc9-876e-4ad15b17ee31.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['홍철책빵'에 이어 오픈하는 아이스크림 매장 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75687</link>
+            <guid>https://www.esquirekorea.co.kr/article/75687</guid>
+            <pubDate>Tue, 14 Mar 2023 09:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[3월 31일 신사동에서 오픈한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/bf66d2ef-70fa-4c67-9fd9-6791f0989363.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[넷플릭스 ‘나는 신이다’만큼이나 충격적인 해외 사이비 종교 6 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75685</link>
-            <guid>https://www.esquirekorea.co.kr/article/75685</guid>
-            <pubDate>Sat, 11 Mar 2023 03:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[일부다처제에 의한 성폭행과, 900명의 집단 자살까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/faa197c3-9413-4c7b-8ee2-14512828a09d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄리티 높은 10만 원 이하 오마카세 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75684</link>
-            <guid>https://www.esquirekorea.co.kr/article/75684</guid>
-            <pubDate>Fri, 10 Mar 2023 15:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[15여 종의 메뉴를 6만 원대에 내주는 곳부터 1세대 스시 장인의 오마카세까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/4cd892d0-c94d-4ff8-9322-da71e5eaa48e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[굼허가 그리려는 남자의 얼굴이 궁금해졌다 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75625</link>
+            <guid>https://www.esquirekorea.co.kr/article/75625</guid>
+            <pubDate>Thu, 09 Mar 2023 15:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[영국과 한국을 잇는 브랜드 굼허의 디자이너 허금연을 만났다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/0a0484cb-0cea-4cbd-8c7e-fbc1566c40aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오이스터 계의 스티브 잡스, 서익훈의 목표 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1492,22 +1508,6 @@ The New MINI Countryman과 일상에
             <pubDate>Mon, 06 Mar 2023 15:23:42 GMT</pubDate>
             <content:encoded><![CDATA[쇼미더머니11 준우승 이후 공개하는 새 앨범이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/77aa5f43-821a-42c6-a443-342965a16779.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웨이팅 행렬! 입짧은햇님이 찜한 ‘찜’ 맛집 로드 5 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75330</link>
-            <guid>https://www.esquirekorea.co.kr/article/75330</guid>
-            <pubDate>Fri, 03 Mar 2023 09:32:39 GMT</pubDate>
-            <content:encoded><![CDATA[구운 곤이를 올려주는 아귀찜부터 화제의 ‘놀토’ 갈비찜까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/eb5d03e6-8310-410b-94b7-e7cd52c51948.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유세윤 신곡 'Mother Soccer (Feat. 수퍼비)'를 들은 아내의 반응은? (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75121</link>
-            <guid>https://www.esquirekorea.co.kr/article/75121</guid>
-            <pubDate>Thu, 02 Mar 2023 15:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[신곡을 발표한 유세윤을 만났다. 뮤지션으로서 인터뷰를 청했지만 그의 답변을 듣고 있으니 역시...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/6783cfb6-eff5-4474-ac20-5cf02f2e7097.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[So!YoON!(황소윤) 정규 2집 선공개 트랙 Bad 라이브 공개! (에스콰이어 코리아 ─ 나우)]]></title>

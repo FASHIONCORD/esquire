@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 03:23:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 09:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[특별한 맛과 체험을 선사하는 서울의 커피 오마카세 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75729</link>
+            <guid>https://www.esquirekorea.co.kr/article/75729</guid>
+            <pubDate>Tue, 14 Mar 2023 09:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[블루리본 서베이에 수록된 에스프레소바부터 40가지 원두를 비치하고 있는 편집숍까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/0f7de5a6-c328-4c75-96ad-2fc5735dae31.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울의 떡갈비 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75724</link>
+            <guid>https://www.esquirekorea.co.kr/article/75724</guid>
+            <pubDate>Tue, 14 Mar 2023 09:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[노포부터 미쉐린 2스타 셰프가 운영하는 한식 다이닝까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/d6e89667-910f-43c4-8ed7-43069e8e3b17.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['홍철책빵'에 이어 오픈하는 아이스크림 매장]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75687</link>
+            <guid>https://www.esquirekorea.co.kr/article/75687</guid>
+            <pubDate>Tue, 14 Mar 2023 09:23:24 GMT</pubDate>
+            <content:encoded><![CDATA[3월 31일 신사동에서 오픈한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/bf66d2ef-70fa-4c67-9fd9-6791f0989363.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퀄리티 높은 10만 원 이하 오마카세 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/75684</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 09 Mar 2023 15:24:17 GMT</pubDate>
             <content:encoded><![CDATA[광어, 우럭, 도미는 물론 삼치회까지, 날이 따뜻해져도 최상의 회를 맛볼 수 있는 곳들을 소개...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/8e5da414-7ee5-48c6-bd03-7f4a4fa39910.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오이스터 계의 스티브 잡스, 서익훈의 목표]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75193</link>
-            <guid>https://www.esquirekorea.co.kr/article/75193</guid>
-            <pubDate>Thu, 09 Mar 2023 09:23:22 GMT</pubDate>
-            <content:encoded><![CDATA[서익훈을 두고 누군가가 말했다. 오이스터계의 스티브 잡스라고. 더즌 오이스터 한남까지 서울에만...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/771dadc5-1153-4973-ab01-76ce6bdee69e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50년 넘게 운영 중인 추어탕 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75569</link>
-            <guid>https://www.esquirekorea.co.kr/article/75569</guid>
-            <pubDate>Thu, 09 Mar 2023 03:28:07 GMT</pubDate>
-            <content:encoded><![CDATA[일제강점기 때 시작해 92년째 운영 중인 서울에서 가장 오래된 추어탕 집은 어디일까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/53ac3cd3-c007-47c9-950b-3575beb65ce3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신이 잘 몰랐던 살아있는 사케 '나마자케'의 세계]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75553</link>
-            <guid>https://www.esquirekorea.co.kr/article/75553</guid>
-            <pubDate>Wed, 08 Mar 2023 15:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[이것들은 날것이다. 생효모의 바다를 품은 원주가 당신의 입안을 헤엄칠 것이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/088495ce-1edd-4700-adae-dbb56247fb54.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

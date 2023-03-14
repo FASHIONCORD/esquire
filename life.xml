@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 03:23:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 09:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4년 만에 개최되는 '경주벚꽃축제']]></title>
+            <link>https://www.esquirekorea.co.kr/article/75741</link>
+            <guid>https://www.esquirekorea.co.kr/article/75741</guid>
+            <pubDate>Tue, 14 Mar 2023 09:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[반려견도 함께 즐길 수 있는 댕댕이 놀이터도 선보인다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/12/e7706bb7-49c2-4b27-b39a-b068e4293501.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 최초로 품목 허가 받은 타액 PCR 진단 키트]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75736</link>
+            <guid>https://www.esquirekorea.co.kr/article/75736</guid>
+            <pubDate>Tue, 14 Mar 2023 09:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[용기에 침만 뱉으면 검체 채취가 끝난다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/294759a6-cd0b-4133-b961-f06fbff3524f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[플로, 밀리의 서재 전용관 마련]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75734</link>
+            <guid>https://www.esquirekorea.co.kr/article/75734</guid>
+            <pubDate>Tue, 14 Mar 2023 09:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[베스트셀러를 모아 청취할 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/00964af3-09ad-4216-87e0-3f19cfdf172d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가장 오래된 한글 편지 보물 지정]]></title>
             <link>https://www.esquirekorea.co.kr/article/75733</link>
@@ -45,30 +69,6 @@
             <guid>https://www.esquirekorea.co.kr/article/75695</guid>
             <pubDate>Sat, 11 Mar 2023 09:19:05 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/c4749dcf-c67c-436b-ac10-037ffc4a3edf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성관계 전 피해야 할 음식 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75686</link>
-            <guid>https://www.esquirekorea.co.kr/article/75686</guid>
-            <pubDate>Sat, 11 Mar 2023 09:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[바위처럼 단단해지고 싶다면 4가지 음식은 피하자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/7531bca3-8448-4bc9-876e-4ad15b17ee31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 ‘나는 신이다’만큼이나 충격적인 해외 사이비 종교 6]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75685</link>
-            <guid>https://www.esquirekorea.co.kr/article/75685</guid>
-            <pubDate>Sat, 11 Mar 2023 03:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[일부다처제에 의한 성폭행과, 900명의 집단 자살까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/faa197c3-9413-4c7b-8ee2-14512828a09d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퀄리티 높은 10만 원 이하 오마카세 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75684</link>
-            <guid>https://www.esquirekorea.co.kr/article/75684</guid>
-            <pubDate>Fri, 10 Mar 2023 15:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[15여 종의 메뉴를 6만 원대에 내주는 곳부터 1세대 스시 장인의 오마카세까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/4cd892d0-c94d-4ff8-9322-da71e5eaa48e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
