@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 15:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 03:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Part.2 2023 S/S에 기억해야 할 패션 트렌드의 모든 것]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75427</link>
+            <guid>https://www.esquirekorea.co.kr/article/75427</guid>
+            <pubDate>Tue, 14 Mar 2023 03:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[지금의 패션을 이해하기 위해 꼭 알아야 할 트렌드와 이슈를 차곡차곡 모았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/c8842eeb-ee25-491d-827a-ee37fd9f5eeb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Part.1 2023 S/S에 기억해야 할 패션 트렌드의 모든 것]]></title>
             <link>https://www.esquirekorea.co.kr/article/75412</link>
@@ -60,14 +68,6 @@
             <pubDate>Thu, 09 Mar 2023 09:22:55 GMT</pubDate>
             <content:encoded><![CDATA[남자를 위한 가뿐한 숄더백.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/07/409b90c8-b67a-4c44-8f82-7b3e6e9dca06.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알렉산더 맥퀸의 2023 가을/겨울 패션쇼]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75584</link>
-            <guid>https://www.esquirekorea.co.kr/article/75584</guid>
-            <pubDate>Wed, 08 Mar 2023 15:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[테일러링의 극적인 변주를 선보였다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/b5ab1b31-4843-4acf-a877-940d9d360bf2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
