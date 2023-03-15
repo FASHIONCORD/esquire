@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 03:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 09:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[덱스의 최근 소비 리스트 전격 공개!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75688</link>
+            <guid>https://www.esquirekorea.co.kr/article/75688</guid>
+            <pubDate>Wed, 15 Mar 2023 09:21:26 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/6d547c5c-99d0-4949-b566-905562273622.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['홍철책빵'에 이어 오픈하는 아이스크림 매장]]></title>
             <link>https://www.esquirekorea.co.kr/article/75687</link>
@@ -62,14 +69,6 @@
             <pubDate>Tue, 07 Mar 2023 15:21:54 GMT</pubDate>
             <content:encoded><![CDATA[토끼가 그려진 맥도날드?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/fcef8cb3-6564-4924-93bd-479ca4fad3c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허성현 신곡 'HDYF' 라이브 최초 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75331</link>
-            <guid>https://www.esquirekorea.co.kr/article/75331</guid>
-            <pubDate>Mon, 06 Mar 2023 15:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[쇼미더머니11 준우승 이후 공개하는 새 앨범이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/77aa5f43-821a-42c6-a443-342965a16779.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
