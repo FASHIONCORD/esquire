@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 15:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 03:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쉴 새 없는 코스요리! 서울의 삼촌카세 맛집 3]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75800</link>
+            <guid>https://www.esquirekorea.co.kr/article/75800</guid>
+            <pubDate>Wed, 15 Mar 2023 03:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[서울에 단 세 곳밖에 없는! 나만 알고 싶은 삼촌카세 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/e5f1d5a2-9cf7-4898-afce-3318007b5df2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코카-콜라, 파워에이드 제로 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/75751</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 11 Mar 2023 03:21:22 GMT</pubDate>
             <content:encoded><![CDATA[야간 궁궐 탐방에 이어 가볼 만한 이자카야부터 신선한 해산물 포차까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/721968cd-fd95-4fc7-b07f-f7aeb49ec63c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타벅스 경동1960 근처 가볼 만한 경동시장 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75671</link>
-            <guid>https://www.esquirekorea.co.kr/article/75671</guid>
-            <pubDate>Sat, 11 Mar 2023 03:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[40년 넘게 냉면을 직접 뽑아 만드는 곳부터 제주도 3대 해장국을 그대로 가져온 곳까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/2be41744-4222-4337-87b3-88d01effca9b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
