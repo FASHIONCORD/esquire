@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 09:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 15:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1319,6 +1319,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/42dcaf34-d795-4273-8238-cbf2d0962b39.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[50년 넘게 운영 중인 떡볶이 노포 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75807</link>
+            <guid>https://www.esquirekorea.co.kr/article/75807</guid>
+            <pubDate>Wed, 15 Mar 2023 03:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[그 시절 그 맛 그대로 간직한 시장 떡볶이집부터 짜장 떡볶이의 원조까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/ef2396e5-aa98-4038-bc09-b8c2111c4664.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[쉴 새 없는 코스요리! 서울의 삼촌카세 맛집 3 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/75800</link>
             <guid>https://www.esquirekorea.co.kr/article/75800</guid>
@@ -1375,12 +1383,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/4cd892d0-c94d-4ff8-9322-da71e5eaa48e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[창경궁 대온실 야간 개장! 밤 데이트 코스 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75678</link>
-            <guid>https://www.esquirekorea.co.kr/article/75678</guid>
-            <pubDate>Thu, 09 Mar 2023 15:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[야간 궁궐 탐방에 이어 가볼 만한 이자카야부터 신선한 해산물 포차까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/721968cd-fd95-4fc7-b07f-f7aeb49ec63c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['강철부대' 시즌3 확정, 참가자 모집 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75823</link>
+            <guid>https://www.esquirekorea.co.kr/article/75823</guid>
+            <pubDate>Wed, 15 Mar 2023 15:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[5월 1일까지 참가자를 모집한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/10bf60a7-143f-4ce6-9ef8-4c5e84e9bcc9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[50년 넘게 운영 중인 떡볶이 노포 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1437,14 +1445,6 @@ The New MINI Countryman과 일상에
             <pubDate>Mon, 13 Mar 2023 03:21:46 GMT</pubDate>
             <content:encoded><![CDATA[아내를 향한 그리움과 걱정이 담겨있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/12ecb7b4-a82d-4d79-a98b-1df4f8b7dfb2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국의 베네치아! 김포 라베니체와 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75730</link>
-            <guid>https://www.esquirekorea.co.kr/article/75730</guid>
-            <pubDate>Sun, 12 Mar 2023 15:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[황홀한 분수대를 바로 앞에 둔 레스토랑부터 스키야키 무한리필까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/e6d0c7de-0f86-47e5-bc78-fd51a8f770f8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[덱스의 최근 소비 리스트 전격 공개! (에스콰이어 코리아 ─ 피플)]]></title>

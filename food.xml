@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 09:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 15:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[50년 넘게 운영 중인 떡볶이 노포 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75807</link>
+            <guid>https://www.esquirekorea.co.kr/article/75807</guid>
+            <pubDate>Wed, 15 Mar 2023 15:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[그 시절 그 맛 그대로 간직한 시장 떡볶이집부터 짜장 떡볶이의 원조까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/ef2396e5-aa98-4038-bc09-b8c2111c4664.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쉴 새 없는 코스요리! 서울의 삼촌카세 맛집 3]]></title>
             <link>https://www.esquirekorea.co.kr/article/75800</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 13 Mar 2023 03:21:38 GMT</pubDate>
             <content:encoded><![CDATA[15여 종의 메뉴를 6만 원대에 내주는 곳부터 1세대 스시 장인의 오마카세까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/4cd892d0-c94d-4ff8-9322-da71e5eaa48e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창경궁 대온실 야간 개장! 밤 데이트 코스 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75678</link>
-            <guid>https://www.esquirekorea.co.kr/article/75678</guid>
-            <pubDate>Sat, 11 Mar 2023 03:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[야간 궁궐 탐방에 이어 가볼 만한 이자카야부터 신선한 해산물 포차까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/721968cd-fd95-4fc7-b07f-f7aeb49ec63c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

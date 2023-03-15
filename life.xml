@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 09:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 15:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['강철부대' 시즌3 확정, 참가자 모집]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75823</link>
+            <guid>https://www.esquirekorea.co.kr/article/75823</guid>
+            <pubDate>Wed, 15 Mar 2023 15:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[5월 1일까지 참가자를 모집한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/10bf60a7-143f-4ce6-9ef8-4c5e84e9bcc9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[50년 넘게 운영 중인 떡볶이 노포 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/75807</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 13 Mar 2023 03:21:46 GMT</pubDate>
             <content:encoded><![CDATA[아내를 향한 그리움과 걱정이 담겨있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/12ecb7b4-a82d-4d79-a98b-1df4f8b7dfb2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국의 베네치아! 김포 라베니체와 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75730</link>
-            <guid>https://www.esquirekorea.co.kr/article/75730</guid>
-            <pubDate>Sun, 12 Mar 2023 15:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[황홀한 분수대를 바로 앞에 둔 레스토랑부터 스키야키 무한리필까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/e6d0c7de-0f86-47e5-bc78-fd51a8f770f8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
