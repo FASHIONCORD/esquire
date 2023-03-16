@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 15:23:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 03:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Part.1 2023 S/S에 기억해야 할 패션 트렌드의 모든 것]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75412</link>
+            <guid>https://www.esquirekorea.co.kr/article/75412</guid>
+            <pubDate>Thu, 16 Mar 2023 03:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[지금의 패션을 이해하기 위해 꼭 알아야 할 트렌드와 이슈를 차곡차곡 모았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/42bb90f0-1506-4562-9f94-c26479ec9d93.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[덱스의 최근 소비 리스트 전격 공개!]]></title>
             <link>https://www.esquirekorea.co.kr/article/75688</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 09 Mar 2023 15:25:07 GMT</pubDate>
             <content:encoded><![CDATA[2022 축구계를 뜨겁게 달군 주인공.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/2fa10029-fcf6-4300-8828-1cb5d2bb8e0c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스와 맥도날드의 귀여운 만남]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75354</link>
-            <guid>https://www.esquirekorea.co.kr/article/75354</guid>
-            <pubDate>Tue, 07 Mar 2023 15:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[토끼가 그려진 맥도날드?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/fcef8cb3-6564-4924-93bd-479ca4fad3c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

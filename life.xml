@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 15:23:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 03:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 31일 오픈하는 애플 강남]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75824</link>
+            <guid>https://www.esquirekorea.co.kr/article/75824</guid>
+            <pubDate>Thu, 16 Mar 2023 03:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[개점일 오픈 시간 체크하고 가자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/cd81e1c0-9620-4280-a4b4-90a2bc6de52d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['강철부대' 시즌3 확정, 참가자 모집]]></title>
             <link>https://www.esquirekorea.co.kr/article/75823</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 14 Mar 2023 09:23:33 GMT</pubDate>
             <content:encoded><![CDATA[베스트셀러를 모아 청취할 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/00964af3-09ad-4216-87e0-3f19cfdf172d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 오래된 한글 편지 보물 지정]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75733</link>
-            <guid>https://www.esquirekorea.co.kr/article/75733</guid>
-            <pubDate>Mon, 13 Mar 2023 03:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[아내를 향한 그리움과 걱정이 담겨있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/12ecb7b4-a82d-4d79-a98b-1df4f8b7dfb2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
