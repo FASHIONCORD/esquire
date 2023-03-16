@@ -4,9 +4,32 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 03:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 09:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안주 맛집의 향연! 서울의 포차 거리 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75834</link>
+            <guid>https://www.esquirekorea.co.kr/article/75834</guid>
+            <pubDate>Thu, 16 Mar 2023 09:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[20년 이상 경력의 포장마차 장인들이 모여있는 곳?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/e97e1a52-62b0-4d17-9a70-1c4e92af8a83.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[돈두댓] 자위가 필요한 이유]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75831</link>
+            <guid>https://www.esquirekorea.co.kr/article/75831</guid>
+            <pubDate>Thu, 16 Mar 2023 09:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[혼자만의 시간은 소중하니까.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/c0948d74-5824-418f-a202-81cf35233b37.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국과 닮은 나라'라는 말에 대한 몽골인들의 솔직한 마음]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75828</link>
+            <guid>https://www.esquirekorea.co.kr/article/75828</guid>
+            <pubDate>Thu, 16 Mar 2023 09:23:16 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/042d42f8-c0c0-40c0-a794-0cf62a77d236.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3월 31일 오픈하는 애플 강남]]></title>
             <link>https://www.esquirekorea.co.kr/article/75824</link>
@@ -46,30 +69,6 @@
             <pubDate>Tue, 14 Mar 2023 15:28:16 GMT</pubDate>
             <content:encoded><![CDATA[숨죽이고 살아 있던 것들이 약동하는 계절. 싹이 트고 잎이 나고 꽃은 핀다. 식물학자 겸 세밀...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/514c50e7-2c26-4522-a77d-00347f02ce64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4년 만에 개최되는 '경주벚꽃축제']]></title>
-            <link>https://www.esquirekorea.co.kr/article/75741</link>
-            <guid>https://www.esquirekorea.co.kr/article/75741</guid>
-            <pubDate>Tue, 14 Mar 2023 09:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[반려견도 함께 즐길 수 있는 댕댕이 놀이터도 선보인다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/12/e7706bb7-49c2-4b27-b39a-b068e4293501.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 최초로 품목 허가 받은 타액 PCR 진단 키트]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75736</link>
-            <guid>https://www.esquirekorea.co.kr/article/75736</guid>
-            <pubDate>Tue, 14 Mar 2023 09:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[용기에 침만 뱉으면 검체 채취가 끝난다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/294759a6-cd0b-4133-b961-f06fbff3524f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플로, 밀리의 서재 전용관 마련]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75734</link>
-            <guid>https://www.esquirekorea.co.kr/article/75734</guid>
-            <pubDate>Tue, 14 Mar 2023 09:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[베스트셀러를 모아 청취할 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/00964af3-09ad-4216-87e0-3f19cfdf172d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 03:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 09:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재현과 프라다가 만든 한 편의 단편 영화]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75791</link>
+            <guid>https://www.esquirekorea.co.kr/article/75791</guid>
+            <pubDate>Thu, 16 Mar 2023 09:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[에스콰이어 유튜브에서 상영 준비를 마쳤다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/b4687b6d-6b83-417c-b765-0b5e0b900d2e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Part.1 2023 S/S에 기억해야 할 패션 트렌드의 모든 것]]></title>
             <link>https://www.esquirekorea.co.kr/article/75412</link>
@@ -28,7 +36,7 @@
             <guid>https://www.esquirekorea.co.kr/article/75687</guid>
             <pubDate>Tue, 14 Mar 2023 09:23:57 GMT</pubDate>
             <content:encoded><![CDATA[3월 31일 신사동에서 오픈한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/bf66d2ef-70fa-4c67-9fd9-6791f0989363.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/bf66d2ef-70fa-4c67-9fd9-6791f0989363.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[굼허가 그리려는 남자의 얼굴이 궁금해졌다]]></title>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 09 Mar 2023 15:25:07 GMT</pubDate>
             <content:encoded><![CDATA[홍콩 모델 사건보다 더 한 사건이 있다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/5449b00f-6d52-415d-a59c-951216ac15af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리오날 메시, FIFA 올해의 선수로 선수 부문 수상]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75437</link>
-            <guid>https://www.esquirekorea.co.kr/article/75437</guid>
-            <pubDate>Thu, 09 Mar 2023 15:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[2022 축구계를 뜨겁게 달군 주인공.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/2fa10029-fcf6-4300-8828-1cb5d2bb8e0c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
