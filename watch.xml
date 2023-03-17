@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 와치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 15:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 03:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제임스 본드 탄생 60주년을 기념하는 오메가]]></title>
+            <link>https://www.esquirekorea.co.kr/article/73983</link>
+            <guid>https://www.esquirekorea.co.kr/article/73983</guid>
+            <pubDate>Fri, 17 Mar 2023 03:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[제임스 본드 탄생 60주년을 기념하는 오메가의 블랙 타이 이벤트와 스페셜 에디션 모델.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/05/370e7b5c-0c5b-466d-a571-115bba62c352.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웰컴 투 샤넬 홀리데이!]]></title>
             <link>https://www.esquirekorea.co.kr/article/73646</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 25 Dec 2022 15:21:35 GMT</pubDate>
             <content:encoded><![CDATA[로몬은 결국 밸런스라고 말했다. 와인도 판소리도 즐겁지만, 가족은 그 모든 것보다 소중하고, ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/25/76570013-411d-4695-a80e-21f1bb310b6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬 홀리데이 나이트]]></title>
-            <link>https://www.esquirekorea.co.kr/article/72318</link>
-            <guid>https://www.esquirekorea.co.kr/article/72318</guid>
-            <pubDate>Sun, 25 Dec 2022 15:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬 화인 주얼리 피스와 워치 컬렉션을 찾아서.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/16/b1c5ca41-e29c-4b92-afd9-7c2b2d9a7261.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

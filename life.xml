@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 15:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 03:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도심 속에서 자연을 느낄 수 있는 식물원 카페 8]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75258</link>
+            <guid>https://www.esquirekorea.co.kr/article/75258</guid>
+            <pubDate>Fri, 17 Mar 2023 03:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[초록은 당신의 근육과 사고와 마음을 충전하기에 가장 적합한 색이다. 식물이 내는 초록이라면 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/8a735cf7-8b25-45b3-b539-a552ac93d68b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안주 맛집의 향연! 서울의 포차 거리 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/75834</link>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 15 Mar 2023 03:22:48 GMT</pubDate>
             <content:encoded><![CDATA[500만 곡에 달하는 방대한 리스트를 자랑한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/4d52f76e-2940-4e94-9ad8-e3f29f55f3fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식물학자가 봄과 꽃에 대해 생각하며 느낀 것들]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75127</link>
-            <guid>https://www.esquirekorea.co.kr/article/75127</guid>
-            <pubDate>Tue, 14 Mar 2023 15:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[숨죽이고 살아 있던 것들이 약동하는 계절. 싹이 트고 잎이 나고 꽃은 핀다. 식물학자 겸 세밀...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/514c50e7-2c26-4522-a77d-00347f02ce64.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

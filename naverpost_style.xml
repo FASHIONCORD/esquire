@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ STYLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 15:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 03:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미도와 김수현의 스펙트럼]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35627451&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35627451&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Fri, 17 Mar 2023 03:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDAxMTRfMjA5/MDAxNTc4OTY4NDE3OTIx.u_4cWrPQ0BC7OiFmLMJwu8PcLZQcSAzqS-sDFeygWJEg.FnlMsatg8PRVGV0sshnYtlw9wXVBHMuauKrgpj1aBMkg.JPEG/post_7807307990682501325.jpg?type=f40_40" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기쁜 우리 젊은 날]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35615889&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Nov 2022 03:44:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MTdfMTA0/MDAxNjIxMjM0MjY4NDc3.zeMEGZhb9wRNGlc4IZYmc4RQ__TJDc9ngcjNtUgUNEcg.0AXEbF6woQCSGbgVBixl5R75l8lOkg7gyK5vJhOpnG8g.JPEG/IFJI5Eh93uHpAST98wZY-9uPWiI0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패션 에디터들이 추천하는 봄 패션 아이템]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31289088&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31289088&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:44:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA0MTlfMTQx/MDAxNjE4ODI0MzM1MTU2.0efblkVAUfsTYtq7X_CM-xabpkyGovixS55BaSzaM4Ig.t92eiE1khp7bKcsJ83D3WePU4hzc-98UyLp-RZL-d0Yg.PNG/IwPKKSrl1kKz7hBPoyJYdj-yfE5o.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 15:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 03:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연진아. 나 지금 TMI 알려줘서 되게 신나. ‘더 글로리’ 송혜교 TMI 12.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75798</link>
+            <guid>https://www.esquirekorea.co.kr/article/75798</guid>
+            <pubDate>Fri, 17 Mar 2023 03:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[넌 모르잖아. 2002년 한일 월드컵에서 송혜교가 조 주첨을 했다는 사실.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/5dbf3cff-3bbf-468d-bcca-9a958b66175b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재현과 프라다가 만든 한 편의 단편 영화]]></title>
             <link>https://www.esquirekorea.co.kr/article/75791</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 09 Mar 2023 15:25:07 GMT</pubDate>
             <content:encoded><![CDATA[화보와 함께 공개한 소식.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/68659b27-268b-4ada-8219-bbdaed0b72bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 세계 연예계 잔혹사 7]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75482</link>
-            <guid>https://www.esquirekorea.co.kr/article/75482</guid>
-            <pubDate>Thu, 09 Mar 2023 15:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[홍콩 모델 사건보다 더 한 사건이 있다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/5449b00f-6d52-415d-a59c-951216ac15af.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
