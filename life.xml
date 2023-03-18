@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 09:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 15:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티빙, 디저트 서바이벌 리얼리티 ‘더 디저트’ 포스터 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75874</link>
+            <guid>https://www.esquirekorea.co.kr/article/75874</guid>
+            <pubDate>Sat, 18 Mar 2023 15:19:32 GMT</pubDate>
+            <content:encoded><![CDATA['솔로지옥' 제작진도 참여했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/2145186c-6e32-4ec5-8c6b-de69ecd8c39c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[석가탄신일과 성탄절, 올해부터 대체공휴일]]></title>
             <link>https://www.esquirekorea.co.kr/article/75873</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 16 Mar 2023 03:21:30 GMT</pubDate>
             <content:encoded><![CDATA[개점일 오픈 시간 체크하고 가자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/cd81e1c0-9620-4280-a4b4-90a2bc6de52d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['강철부대' 시즌3 확정, 참가자 모집]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75823</link>
-            <guid>https://www.esquirekorea.co.kr/article/75823</guid>
-            <pubDate>Wed, 15 Mar 2023 15:22:54 GMT</pubDate>
-            <content:encoded><![CDATA[5월 1일까지 참가자를 모집한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/10bf60a7-143f-4ce6-9ef8-4c5e84e9bcc9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
