@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 15:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 03:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크기보다 중요한 건 테크닉]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75626</link>
+            <guid>https://www.esquirekorea.co.kr/article/75626</guid>
+            <pubDate>Sat, 18 Mar 2023 03:21:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/512196c7-ae99-4916-b924-b865c36263ec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스웨덴 전자음향기기 브랜드가 대뜸 너도밤나무 소재 목각인형을 내놓은 이유]]></title>
             <link>https://www.esquirekorea.co.kr/article/75540</link>
@@ -59,14 +66,6 @@
             <pubDate>Thu, 02 Mar 2023 15:23:33 GMT</pubDate>
             <content:encoded><![CDATA[가상현실 속 오징어 게임은 어떤 모습일까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/751e9495-b5d5-4ac5-a863-bbbc6197f03c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK텔레콤, KT, LG유플러스가 3월 한 달간 데이터 무료 제공]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75074</link>
-            <guid>https://www.esquirekorea.co.kr/article/75074</guid>
-            <pubDate>Wed, 01 Mar 2023 15:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[국민 가계 통신비 부담을 완한 조치로 국내 이동통신 3사가 데이터를 무료 제공 하기로 했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/16/42dcaf34-d795-4273-8238-cbf2d0962b39.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
