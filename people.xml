@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 03:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 09:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차주영 프로필 사진 비하인드?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75846</link>
+            <guid>https://www.esquirekorea.co.kr/article/75846</guid>
+            <pubDate>Sat, 18 Mar 2023 09:19:19 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/b9b90bac-cdee-4c2b-bf9b-6e65cda0a968.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[용준형이 최근 직접 구매한 아이템은?]]></title>
             <link>https://www.esquirekorea.co.kr/article/75811</link>
@@ -60,14 +67,6 @@
             <pubDate>Tue, 14 Mar 2023 09:23:57 GMT</pubDate>
             <content:encoded><![CDATA[영국과 한국을 잇는 브랜드 굼허의 디자이너 허금연을 만났다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/0a0484cb-0cea-4cbd-8c7e-fbc1566c40aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오이스터 계의 스티브 잡스, 서익훈의 목표]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75193</link>
-            <guid>https://www.esquirekorea.co.kr/article/75193</guid>
-            <pubDate>Tue, 14 Mar 2023 03:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[서익훈을 두고 누군가가 말했다. 오이스터계의 스티브 잡스라고. 더즌 오이스터 한남까지 서울에만...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/771dadc5-1153-4973-ab01-76ce6bdee69e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 03:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 09:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[석가탄신일과 성탄절, 올해부터 대체공휴일]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75873</link>
+            <guid>https://www.esquirekorea.co.kr/article/75873</guid>
+            <pubDate>Sat, 18 Mar 2023 09:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[5월 29일은 빨간날이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/1c59941c-3cb6-4ef0-92aa-14edfbea24b1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사이비 종교에 빠지면 벗어나지 못하는 이유 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/75865</link>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 15 Mar 2023 15:22:54 GMT</pubDate>
             <content:encoded><![CDATA[5월 1일까지 참가자를 모집한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/10bf60a7-143f-4ce6-9ef8-4c5e84e9bcc9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50년 넘게 운영 중인 떡볶이 노포 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75807</link>
-            <guid>https://www.esquirekorea.co.kr/article/75807</guid>
-            <pubDate>Wed, 15 Mar 2023 03:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[그 시절 그 맛 그대로 간직한 시장 떡볶이집부터 짜장 떡볶이의 원조까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/ef2396e5-aa98-4038-bc09-b8c2111c4664.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
