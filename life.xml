@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 09:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 15:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라면사리를 무한 리필해 주는 부대찌개집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75914</link>
+            <guid>https://www.esquirekorea.co.kr/article/75914</guid>
+            <pubDate>Mon, 20 Mar 2023 15:23:59 GMT</pubDate>
+            <content:encoded><![CDATA[부대찌개에 킬바사 소시지를 통째로 넣어주는 곳부터 8000원 부대찌개까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/fdf95bb0-50b1-4c52-bbfd-3a5529f18075.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화제의 예능 '크라임씬'이 돌아온다]]></title>
             <link>https://www.esquirekorea.co.kr/article/75890</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 16 Mar 2023 09:23:16 GMT</pubDate>
             <content:encoded><![CDATA[20년 이상 경력의 포장마차 장인들이 모여있는 곳?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/e97e1a52-62b0-4d17-9a70-1c4e92af8a83.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돈두댓] 자위가 필요한 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75831</link>
-            <guid>https://www.esquirekorea.co.kr/article/75831</guid>
-            <pubDate>Thu, 16 Mar 2023 09:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[혼자만의 시간은 소중하니까.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/c0948d74-5824-418f-a202-81cf35233b37.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

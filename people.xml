@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 09:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 15:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빅나티가 최근 중고거래로 구매한 아이템?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75906</link>
+            <guid>https://www.esquirekorea.co.kr/article/75906</guid>
+            <pubDate>Mon, 20 Mar 2023 15:24:07 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/4a249f00-a0a6-4439-ae16-3863cede5597.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화제의 예능 '크라임씬'이 돌아온다]]></title>
             <link>https://www.esquirekorea.co.kr/article/75890</link>
@@ -60,14 +67,6 @@
             <pubDate>Thu, 16 Mar 2023 09:23:35 GMT</pubDate>
             <content:encoded><![CDATA[에스콰이어 유튜브에서 상영 준비를 마쳤다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/b4687b6d-6b83-417c-b765-0b5e0b900d2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part.1 2023 S/S에 기억해야 할 패션 트렌드의 모든 것]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75412</link>
-            <guid>https://www.esquirekorea.co.kr/article/75412</guid>
-            <pubDate>Thu, 16 Mar 2023 03:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[지금의 패션을 이해하기 위해 꼭 알아야 할 트렌드와 이슈를 차곡차곡 모았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/42bb90f0-1506-4562-9f94-c26479ec9d93.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

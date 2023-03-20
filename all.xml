@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 09:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 15:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1382,6 +1382,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/f79b7838-0fda-493f-94b9-024110457d1f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[라면사리를 무한 리필해 주는 부대찌개집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75914</link>
+            <guid>https://www.esquirekorea.co.kr/article/75914</guid>
+            <pubDate>Mon, 20 Mar 2023 15:23:59 GMT</pubDate>
+            <content:encoded><![CDATA[부대찌개에 킬바사 소시지를 통째로 넣어주는 곳부터 8000원 부대찌개까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/fdf95bb0-50b1-4c52-bbfd-3a5529f18075.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[화제의 예능 '크라임씬'이 돌아온다 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/75890</link>
             <guid>https://www.esquirekorea.co.kr/article/75890</guid>
@@ -1438,12 +1446,11 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/e97e1a52-62b0-4d17-9a70-1c4e92af8a83.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[돈두댓] 자위가 필요한 이유 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75831</link>
-            <guid>https://www.esquirekorea.co.kr/article/75831</guid>
-            <pubDate>Thu, 16 Mar 2023 09:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[혼자만의 시간은 소중하니까.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/c0948d74-5824-418f-a202-81cf35233b37.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[빅나티가 최근 중고거래로 구매한 아이템? (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75906</link>
+            <guid>https://www.esquirekorea.co.kr/article/75906</guid>
+            <pubDate>Mon, 20 Mar 2023 15:24:07 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/4a249f00-a0a6-4439-ae16-3863cede5597.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화제의 예능 '크라임씬'이 돌아온다 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1498,14 +1505,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 16 Mar 2023 09:23:35 GMT</pubDate>
             <content:encoded><![CDATA[에스콰이어 유튜브에서 상영 준비를 마쳤다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/b4687b6d-6b83-417c-b765-0b5e0b900d2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part.1 2023 S/S에 기억해야 할 패션 트렌드의 모든 것 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75412</link>
-            <guid>https://www.esquirekorea.co.kr/article/75412</guid>
-            <pubDate>Mon, 13 Mar 2023 15:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[지금의 패션을 이해하기 위해 꼭 알아야 할 트렌드와 이슈를 차곡차곡 모았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/42bb90f0-1506-4562-9f94-c26479ec9d93.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블랙핑크 지수, 첫 솔로 앨범 발매 (에스콰이어 코리아 ─ 나우)]]></title>
