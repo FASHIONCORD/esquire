@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 03:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 09:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실물로 제작한 슈퍼 마리오 신발]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75750</link>
+            <guid>https://www.esquirekorea.co.kr/article/75750</guid>
+            <pubDate>Mon, 20 Mar 2023 09:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[레드윙 슈즈와 함께 만들었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/9c38e658-11c7-480b-a31e-594ce84faa29.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알렉산더 맥퀸의 클래식]]></title>
             <link>https://www.esquirekorea.co.kr/article/75245</link>
@@ -60,14 +68,6 @@
             <guid>https://www.esquirekorea.co.kr/article/75189</guid>
             <pubDate>Sat, 11 Mar 2023 15:19:13 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/e79cf6cb-68c9-4ebf-ae12-87131fae899d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루이비통의 위트]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75627</link>
-            <guid>https://www.esquirekorea.co.kr/article/75627</guid>
-            <pubDate>Fri, 10 Mar 2023 15:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[재기 발랄한 가방을 면밀히 들여다보다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/a484012c-c14d-4db0-9763-4468f20d5d55.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
