@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 15:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 03:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화제의 예능 '크라임씬'이 돌아온다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75890</link>
+            <guid>https://www.esquirekorea.co.kr/article/75890</guid>
+            <pubDate>Mon, 20 Mar 2023 03:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[올해 말 티빙에서 방영 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/0b4e65d0-8836-4bbd-ac1e-30e0cdbdf6cf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part2. NCT 재현이 말하는 아이돌과 팬의 소중한 관계]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75872</link>
+            <guid>https://www.esquirekorea.co.kr/article/75872</guid>
+            <pubDate>Mon, 20 Mar 2023 03:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[재현은 매일 다른 옷을 고르지만, 자신이 고른 옷들을 모아두고 보면 맥락이 보인다고 했다. 맥...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/81120d06-95b3-47f6-b4d1-b6fa118d7e1b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Part1. NCT 재현은 결국 취향은 맥락이라고 말했다]]></title>
             <link>https://www.esquirekorea.co.kr/article/75859</link>
@@ -52,21 +68,6 @@
             <pubDate>Thu, 16 Mar 2023 03:21:38 GMT</pubDate>
             <content:encoded><![CDATA[지금의 패션을 이해하기 위해 꼭 알아야 할 트렌드와 이슈를 차곡차곡 모았다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/42bb90f0-1506-4562-9f94-c26479ec9d93.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[덱스의 최근 소비 리스트 전격 공개!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75688</link>
-            <guid>https://www.esquirekorea.co.kr/article/75688</guid>
-            <pubDate>Wed, 15 Mar 2023 09:21:26 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/6d547c5c-99d0-4949-b566-905562273622.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['홍철책빵'에 이어 오픈하는 아이스크림 매장]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75687</link>
-            <guid>https://www.esquirekorea.co.kr/article/75687</guid>
-            <pubDate>Tue, 14 Mar 2023 09:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[3월 31일 신사동에서 오픈한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/bf66d2ef-70fa-4c67-9fd9-6791f0989363.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
