@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 03:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 09:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8000원 이하 서울 가성비 한식 뷔페 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75915</link>
+            <guid>https://www.esquirekorea.co.kr/article/75915</guid>
+            <pubDate>Tue, 21 Mar 2023 09:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[매일 달라지는 10가지 넘는 반찬과 무제한 라면까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/5c092b72-7ef9-4995-be3b-a9e53dd090d1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라면사리를 무한 리필해 주는 부대찌개집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75914</link>
+            <guid>https://www.esquirekorea.co.kr/article/75914</guid>
+            <pubDate>Tue, 21 Mar 2023 09:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[부대찌개에 킬바사 소시지를 통째로 넣어주는 곳부터 8000원 부대찌개까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/fdf95bb0-50b1-4c52-bbfd-3a5529f18075.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하루 20인분! 한정 판매하는 고깃집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/75878</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 16 Mar 2023 09:23:01 GMT</pubDate>
             <content:encoded><![CDATA[30년 경력의 택시 기사 맛집부터 주차장에 택시로 붐비는 검증된 맛집까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/6889256d-c9a9-4dc1-b0ac-be828301e724.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[40년 넘게 운영 중인 초밥 노포 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75826</link>
-            <guid>https://www.esquirekorea.co.kr/article/75826</guid>
-            <pubDate>Thu, 16 Mar 2023 09:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[한국식 초밥의 본고장부터 60년 넘게 한결같은 맛을 유지하는 곳까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/4d46f9da-17a0-4764-817c-f3a0aa728ac3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CU, 짱구 맥주 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75820</link>
-            <guid>https://www.esquirekorea.co.kr/article/75820</guid>
-            <pubDate>Thu, 16 Mar 2023 09:23:01 GMT</pubDate>
-            <content:encoded><![CDATA['짱구는 못말려' 등장인물들이 그려져 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/f79b7838-0fda-493f-94b9-024110457d1f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

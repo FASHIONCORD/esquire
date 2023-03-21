@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 03:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 09:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스웨덴 전기바이크의 등장]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75737</link>
+            <guid>https://www.esquirekorea.co.kr/article/75737</guid>
+            <pubDate>Tue, 21 Mar 2023 09:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[디자인과 성능 어느 것도 놓치지 않았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/12/52febb1c-5d84-4a98-a55c-ae4f7c7678d8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 최초로 품목 허가 받은 타액 PCR 진단 키트]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75736</link>
+            <guid>https://www.esquirekorea.co.kr/article/75736</guid>
+            <pubDate>Tue, 21 Mar 2023 09:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[용기에 침만 뱉으면 검체 채취가 끝난다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/294759a6-cd0b-4133-b961-f06fbff3524f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나랑, 노랑! 아이폰14에 찾아온 옐로 컬러]]></title>
             <link>https://www.esquirekorea.co.kr/article/75681</link>
@@ -51,21 +67,6 @@
             <pubDate>Thu, 09 Mar 2023 09:23:13 GMT</pubDate>
             <content:encoded><![CDATA[챗 GPT보다 한국어를 6500배 잘한다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/9067cd95-0489-4bfc-a7bd-0d9f2ce79491.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['카메라 시장은 망했다'는 말이 나온 지도 벌써 10년, 지금 카메라 시장은 어떻게 되어 있을까?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75178</link>
-            <guid>https://www.esquirekorea.co.kr/article/75178</guid>
-            <pubDate>Tue, 07 Mar 2023 15:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[모두가 입을 모아 ‘카메라는 죽었다’라고 말하던 때가 있었다. 정말 그럴까? 오늘날 카메라 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/1379d898-0183-468c-af0c-eb63eb5d6f7c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[챗GPT를 어시스턴트로 고용해봤다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75383</link>
-            <guid>https://www.esquirekorea.co.kr/article/75383</guid>
-            <pubDate>Fri, 03 Mar 2023 15:21:45 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/dd2ff3c0-1d84-42d5-9cb2-2936e6a64485.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
