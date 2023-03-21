@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 15:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 03:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1258,6 +1258,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/25/76570013-411d-4695-a80e-21f1bb310b6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나랑, 노랑! 아이폰14에 찾아온 옐로 컬러 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75681</link>
+            <guid>https://www.esquirekorea.co.kr/article/75681</guid>
+            <pubDate>Tue, 21 Mar 2023 03:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[봄의 개나리를 닮은 색이 찾아왔다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/579199f8-1702-44ea-a90e-b4a27b0b7e2b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[크기보다 중요한 건 테크닉 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/75626</link>
             <guid>https://www.esquirekorea.co.kr/article/75626</guid>
@@ -1308,14 +1316,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/75383</guid>
             <pubDate>Fri, 03 Mar 2023 15:21:45 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/dd2ff3c0-1d84-42d5-9cb2-2936e6a64485.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VR 게임으로 출시되는 '오징어 게임' (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75166</link>
-            <guid>https://www.esquirekorea.co.kr/article/75166</guid>
-            <pubDate>Fri, 24 Feb 2023 09:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[가상현실 속 오징어 게임은 어떤 모습일까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/21/751e9495-b5d5-4ac5-a863-bbbc6197f03c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하루 20인분! 한정 판매하는 고깃집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
