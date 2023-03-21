@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 09:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 15:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1447,6 +1447,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/2145186c-6e32-4ec5-8c6b-de69ecd8c39c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이도현이라는 영광 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75885</link>
+            <guid>https://www.esquirekorea.co.kr/article/75885</guid>
+            <pubDate>Tue, 21 Mar 2023 15:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[이도현 같은 배우와 같은 시대를 사는 영광. 루이 비통 2023 S/S를 만날 수 있는 호강.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/3c02bbc9-8eab-415f-96af-7e99d6a1013e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빅나티가 최근 중고거래로 구매한 아이템? (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/75906</link>
             <guid>https://www.esquirekorea.co.kr/article/75906</guid>
@@ -1498,14 +1506,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 17 Mar 2023 03:23:56 GMT</pubDate>
             <content:encoded><![CDATA[넌 모르잖아. 2002년 한일 월드컵에서 송혜교가 조 주첨을 했다는 사실.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/5dbf3cff-3bbf-468d-bcca-9a958b66175b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재현과 프라다가 만든 한 편의 단편 영화 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75791</link>
-            <guid>https://www.esquirekorea.co.kr/article/75791</guid>
-            <pubDate>Thu, 16 Mar 2023 09:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[에스콰이어 유튜브에서 상영 준비를 마쳤다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/b4687b6d-6b83-417c-b765-0b5e0b900d2e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블랙핑크 지수, 첫 솔로 앨범 발매 (에스콰이어 코리아 ─ 나우)]]></title>
