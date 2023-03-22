@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 15:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 03:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이도현, ‘더 글로리’를 본 가족들의 반응은?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75926</link>
+            <guid>https://www.esquirekorea.co.kr/article/75926</guid>
+            <pubDate>Wed, 22 Mar 2023 03:20:33 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/19/06dc1cad-214b-4c71-8c56-6c97f7946adc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이도현이라는 영광]]></title>
             <link>https://www.esquirekorea.co.kr/article/75885</link>
@@ -59,14 +66,6 @@
             <guid>https://www.esquirekorea.co.kr/article/75811</guid>
             <pubDate>Fri, 17 Mar 2023 15:21:43 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/2ce76995-1712-4fe8-8f8f-80a90533f24a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연진아. 나 지금 TMI 알려줘서 되게 신나. ‘더 글로리’ 송혜교 TMI 12.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75798</link>
-            <guid>https://www.esquirekorea.co.kr/article/75798</guid>
-            <pubDate>Fri, 17 Mar 2023 03:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[넌 모르잖아. 2002년 한일 월드컵에서 송혜교가 조 주첨을 했다는 사실.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/5dbf3cff-3bbf-468d-bcca-9a958b66175b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

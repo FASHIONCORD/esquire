@@ -4,9 +4,24 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 15:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 03:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파인 다이닝, 아 유 파인?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75924</link>
+            <guid>https://www.esquirekorea.co.kr/article/75924</guid>
+            <pubDate>Wed, 22 Mar 2023 03:20:16 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/dcfb3062-65fa-4efa-8ca1-b0d35e61a011.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[광진구 대학가 맛집_ 건국대, 세종대 편]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75920</link>
+            <guid>https://www.esquirekorea.co.kr/article/75920</guid>
+            <pubDate>Wed, 22 Mar 2023 03:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[40년 전통 돼지 불백부터 미슐랭 선정 고기 국수, 커피, 와인바까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/1efa2a91-14ee-435b-9729-865c2ae94300.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[8000원 이하 서울 가성비 한식 뷔페 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/75915</link>
@@ -54,22 +69,6 @@
             <pubDate>Sat, 18 Mar 2023 03:22:15 GMT</pubDate>
             <content:encoded><![CDATA[초록은 당신의 근육과 사고와 마음을 충전하기에 가장 적합한 색이다. 식물이 내는 초록이라면 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/8a735cf7-8b25-45b3-b539-a552ac93d68b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안주 맛집의 향연! 서울의 포차 거리 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75834</link>
-            <guid>https://www.esquirekorea.co.kr/article/75834</guid>
-            <pubDate>Sat, 18 Mar 2023 03:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[20년 이상 경력의 포장마차 장인들이 모여있는 곳?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/e97e1a52-62b0-4d17-9a70-1c4e92af8a83.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[택시 기사들의 연남동 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75827</link>
-            <guid>https://www.esquirekorea.co.kr/article/75827</guid>
-            <pubDate>Thu, 16 Mar 2023 09:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[30년 경력의 택시 기사 맛집부터 주차장에 택시로 붐비는 검증된 맛집까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/6889256d-c9a9-4dc1-b0ac-be828301e724.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

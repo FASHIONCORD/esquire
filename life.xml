@@ -4,9 +4,24 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 15:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 03:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한화그룹, 세계 현대미술의 중심 ‘퐁피두 센터’ 유치]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76008</link>
+            <guid>https://www.esquirekorea.co.kr/article/76008</guid>
+            <pubDate>Wed, 22 Mar 2023 03:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[루브르 박물관을 설계한 건축가 장 미셀 빌모트가 설계에 참여한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/9b7664e7-cec9-41a5-9e70-b22ee9e83fd9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소설가 정지돈이 챗GPT를 활용해 쓴 첫 소설 <끝없이 두 갈래로 갈라지는 복도가 있는 회사>]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75968</link>
+            <guid>https://www.esquirekorea.co.kr/article/75968</guid>
+            <pubDate>Wed, 22 Mar 2023 03:20:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/08586462-4012-4eaf-a132-4f347a83c3ee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[50년 이상 운영한 치킨 노포 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/75961</link>
@@ -54,22 +69,6 @@
             <pubDate>Mon, 20 Mar 2023 09:22:09 GMT</pubDate>
             <content:encoded><![CDATA[올해 말 티빙에서 방영 예정.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/0b4e65d0-8836-4bbd-ac1e-30e0cdbdf6cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하루 20인분! 한정 판매하는 고깃집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75878</link>
-            <guid>https://www.esquirekorea.co.kr/article/75878</guid>
-            <pubDate>Mon, 20 Mar 2023 03:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[쯔양과 세븐틴 멤버들이 극찬한 곱창집부터 갈매기살을 통째로 내주는 곳까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/7a042e1a-f9a5-4a16-b534-c2a4ba7b292a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙, 디저트 서바이벌 리얼리티 ‘더 디저트’ 포스터 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75874</link>
-            <guid>https://www.esquirekorea.co.kr/article/75874</guid>
-            <pubDate>Sat, 18 Mar 2023 15:19:32 GMT</pubDate>
-            <content:encoded><![CDATA['솔로지옥' 제작진도 참여했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/2145186c-6e32-4ec5-8c6b-de69ecd8c39c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
