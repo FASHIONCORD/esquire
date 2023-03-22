@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 09:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 15:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 31일 오픈하는 애플 강남]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75824</link>
+            <guid>https://www.esquirekorea.co.kr/article/75824</guid>
+            <pubDate>Wed, 22 Mar 2023 15:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[개점일 오픈 시간 체크하고 가자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/cd81e1c0-9620-4280-a4b4-90a2bc6de52d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스웨덴 전기바이크의 등장]]></title>
             <link>https://www.esquirekorea.co.kr/article/75737</link>
@@ -59,14 +67,6 @@
             <guid>https://www.esquirekorea.co.kr/article/75455</guid>
             <pubDate>Sat, 11 Mar 2023 15:19:30 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/e38c619d-9031-40a0-96ff-9b2cb7a00da6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버, 한국형 초대규모 인공지능 ‘하이퍼클로바X’ 7월 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75433</link>
-            <guid>https://www.esquirekorea.co.kr/article/75433</guid>
-            <pubDate>Thu, 09 Mar 2023 09:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[챗 GPT보다 한국어를 6500배 잘한다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/28/9067cd95-0489-4bfc-a7bd-0d9f2ce79491.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
