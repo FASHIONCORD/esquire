@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 03:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 09:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4년 만에 개최되는 '경주벚꽃축제']]></title>
+            <link>https://www.esquirekorea.co.kr/article/75741</link>
+            <guid>https://www.esquirekorea.co.kr/article/75741</guid>
+            <pubDate>Wed, 22 Mar 2023 09:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[반려견도 함께 즐길 수 있는 댕댕이 놀이터도 선보인다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/12/e7706bb7-49c2-4b27-b39a-b068e4293501.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성관계 전 피해야 할 음식 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75686</link>
+            <guid>https://www.esquirekorea.co.kr/article/75686</guid>
+            <pubDate>Wed, 22 Mar 2023 09:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[바위처럼 단단해지고 싶다면 4가지 음식은 피하자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/7531bca3-8448-4bc9-876e-4ad15b17ee31.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 지수, 첫 솔로 앨범 발매]]></title>
             <link>https://www.esquirekorea.co.kr/article/75581</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 06 Mar 2023 09:23:59 GMT</pubDate>
             <content:encoded><![CDATA[2017년 이후 6년 만에 트로피를 차지했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/ec1b8616-61cc-48da-9d88-1d5625f7406c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '반지의 제왕' 새 시리즈 제작]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75342</link>
-            <guid>https://www.esquirekorea.co.kr/article/75342</guid>
-            <pubDate>Fri, 03 Mar 2023 15:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[광대하고 스펙터클한 여정이 다시 시작된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/25/1fd0d10b-80ed-435f-9b5d-d9f9adac180b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 지민, 솔로 앨범 트랙 리스트 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75325</link>
-            <guid>https://www.esquirekorea.co.kr/article/75325</guid>
-            <pubDate>Thu, 02 Mar 2023 09:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[같은 멤버 RM도 이번 앨범에 참여했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/24/fac19b30-1e10-4493-b72f-c6cda5504f50.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

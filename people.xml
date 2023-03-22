@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 03:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 09:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 재현 보조개 찌르기 몇 번까지 허용?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75932</link>
+            <guid>https://www.esquirekorea.co.kr/article/75932</guid>
+            <pubDate>Wed, 22 Mar 2023 09:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[귀여운 댓글인터뷰는 에스콰이어 유튜브에서 볼 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/d1062170-adcc-4fe8-92ba-e38ce7117ec1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강호동, 이승기의 '강심장'이 돌아온다고?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75931</link>
+            <guid>https://www.esquirekorea.co.kr/article/75931</guid>
+            <pubDate>Wed, 22 Mar 2023 09:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[다시 돌아오기까지 10년이 걸렸다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/7c2ab637-4529-4c45-9384-349fd841c962.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이도현, ‘더 글로리’를 본 가족들의 반응은?]]></title>
             <link>https://www.esquirekorea.co.kr/article/75926</link>
@@ -52,20 +68,6 @@
             <pubDate>Sun, 19 Mar 2023 09:20:31 GMT</pubDate>
             <content:encoded><![CDATA[재현은 매일 다른 옷을 고르지만, 자신이 고른 옷들을 모아두고 보면 맥락이 보인다고 했다. 맥...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/a0fb5d5c-8904-4643-8f26-76d04a719f9c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차주영 프로필 사진 비하인드?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75846</link>
-            <guid>https://www.esquirekorea.co.kr/article/75846</guid>
-            <pubDate>Sat, 18 Mar 2023 09:19:19 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/15/b9b90bac-cdee-4c2b-bf9b-6e65cda0a968.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[용준형이 최근 직접 구매한 아이템은?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75811</link>
-            <guid>https://www.esquirekorea.co.kr/article/75811</guid>
-            <pubDate>Fri, 17 Mar 2023 15:21:43 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/2ce76995-1712-4fe8-8f8f-80a90533f24a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 03:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 09:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전 메뉴가 만원 이하인 서울 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76012</link>
+            <guid>https://www.esquirekorea.co.kr/article/76012</guid>
+            <pubDate>Wed, 22 Mar 2023 09:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[50여 종의 메뉴를 내주는 곳부터 백종원의 3대 천왕 라면까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/e935a034-649e-46e0-aa3d-d27f566322aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파이렉스, 카페 노티드와 콜라보한 신제품 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76009</link>
+            <guid>https://www.esquirekorea.co.kr/article/76009</guid>
+            <pubDate>Wed, 22 Mar 2023 09:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[노티드를 대표하는 캐릭터가 파이렉스 제품에?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/f6c45492-dac9-4ec5-b461-49e6c285db9b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[50년 이상 운영한 치킨 노포 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75961</link>
+            <guid>https://www.esquirekorea.co.kr/article/75961</guid>
+            <pubDate>Wed, 22 Mar 2023 09:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[전기구이 마늘 치킨부터 국내 최초 치킨 프랜차이즈까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/84edd8de-9c2e-4ac7-acc3-98f3354c9590.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파인 다이닝, 아 유 파인?]]></title>
             <link>https://www.esquirekorea.co.kr/article/75924</link>
@@ -45,30 +69,6 @@
             <pubDate>Mon, 20 Mar 2023 09:22:01 GMT</pubDate>
             <content:encoded><![CDATA[쯔양과 세븐틴 멤버들이 극찬한 곱창집부터 갈매기살을 통째로 내주는 곳까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/7a042e1a-f9a5-4a16-b534-c2a4ba7b292a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 트렌드 급상승 키워드 ‘서울 3대 탕수육’ 맛집]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75877</link>
-            <guid>https://www.esquirekorea.co.kr/article/75877</guid>
-            <pubDate>Sat, 18 Mar 2023 09:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[‘생활의 달인’ 은둔식달에 소개된 후 서울 3대 탕수육이 구글 트렌드 급상승에 올랐다. 용산,...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/854d3808-1d1b-4a8d-a0d7-948493122af6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티빙, 디저트 서바이벌 리얼리티 ‘더 디저트’ 포스터 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75874</link>
-            <guid>https://www.esquirekorea.co.kr/article/75874</guid>
-            <pubDate>Sat, 18 Mar 2023 03:22:15 GMT</pubDate>
-            <content:encoded><![CDATA['솔로지옥' 제작진도 참여했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/2145186c-6e32-4ec5-8c6b-de69ecd8c39c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도심 속에서 자연을 느낄 수 있는 식물원 카페 8]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75258</link>
-            <guid>https://www.esquirekorea.co.kr/article/75258</guid>
-            <pubDate>Sat, 18 Mar 2023 03:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[초록은 당신의 근육과 사고와 마음을 충전하기에 가장 적합한 색이다. 식물이 내는 초록이라면 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/8a735cf7-8b25-45b3-b539-a552ac93d68b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
