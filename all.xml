@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 09:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 15:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1132,6 +1132,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[크롭의 계절 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76056</link>
+            <guid>https://www.esquirekorea.co.kr/article/76056</guid>
+            <pubDate>Thu, 23 Mar 2023 15:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[여전히 올라가는 중.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/458301c6-411d-43ff-a0c2-b3108310c314.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[GUIDED BY THE STARS (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/76055</link>
             <guid>https://www.esquirekorea.co.kr/article/76055</guid>
@@ -1186,14 +1194,6 @@ The New MINI Countryman과 일상에
             <pubDate>Mon, 20 Mar 2023 09:21:20 GMT</pubDate>
             <content:encoded><![CDATA[레드윙 슈즈와 함께 만들었다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/9c38e658-11c7-480b-a31e-594ce84faa29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알렉산더 맥퀸의 클래식 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75245</link>
-            <guid>https://www.esquirekorea.co.kr/article/75245</guid>
-            <pubDate>Fri, 17 Mar 2023 03:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[테일러링에 대한 가장 현재적 변주.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/6cc3ebdb-a4b0-42cc-8fda-ff597230ac5e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제임스 본드 탄생 60주년을 기념하는 오메가 (에스콰이어 코리아 ─ 와치)]]></title>
