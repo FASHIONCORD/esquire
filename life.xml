@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 03:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 09:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 롤라팔루자 출연 아티스트 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76048</link>
+            <guid>https://www.esquirekorea.co.kr/article/76048</guid>
+            <pubDate>Thu, 23 Mar 2023 09:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[투모로우바이투게더도 헤드라이너로 선정됐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/4c8d42c3-62d7-4b69-b551-3d1fd98fd003.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먹으면 설사 예약! 설사를 유발하는 의외의 식품 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76042</link>
+            <guid>https://www.esquirekorea.co.kr/article/76042</guid>
+            <pubDate>Thu, 23 Mar 2023 09:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[몸에 좋다는 마늘, 브로콜리 마저?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/1ad10063-eff0-4345-8308-c4b62f195a70.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숯가마 삼겹살이 있는 전국 찜질방 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76041</link>
@@ -53,22 +69,6 @@
             <pubDate>Wed, 22 Mar 2023 09:21:17 GMT</pubDate>
             <content:encoded><![CDATA[50여 종의 메뉴를 내주는 곳부터 백종원의 3대 천왕 라면까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/e935a034-649e-46e0-aa3d-d27f566322aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파이렉스, 카페 노티드와 콜라보한 신제품 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76009</link>
-            <guid>https://www.esquirekorea.co.kr/article/76009</guid>
-            <pubDate>Wed, 22 Mar 2023 09:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[노티드를 대표하는 캐릭터가 파이렉스 제품에?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/f6c45492-dac9-4ec5-b461-49e6c285db9b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한화그룹, 세계 현대미술의 중심 ‘퐁피두 센터’ 유치]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76008</link>
-            <guid>https://www.esquirekorea.co.kr/article/76008</guid>
-            <pubDate>Wed, 22 Mar 2023 03:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[루브르 박물관을 설계한 건축가 장 미셀 빌모트가 설계에 참여한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/9b7664e7-cec9-41a5-9e70-b22ee9e83fd9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

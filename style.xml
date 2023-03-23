@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 03:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 09:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GUIDED BY THE STARS]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76055</link>
+            <guid>https://www.esquirekorea.co.kr/article/76055</guid>
+            <pubDate>Thu, 23 Mar 2023 09:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[피라미드를 배경으로 펼쳐진 디올 맨 2023 가을 컬렉션]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/5fbe4735-ed41-4f7a-91d8-95df224a3703.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다니엘 헤니와 함께]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75896</link>
+            <guid>https://www.esquirekorea.co.kr/article/75896</guid>
+            <pubDate>Thu, 23 Mar 2023 09:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[필드에서 도심까지, 콜마르 2023 S/S 컬렉션과 함께한 다니엘 헤니의 강렬한 순간들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/6a548ba9-86fe-4c38-b0fd-98f1e30fc23a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기쁜 우리 젊은 날]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75756</link>
+            <guid>https://www.esquirekorea.co.kr/article/75756</guid>
+            <pubDate>Thu, 23 Mar 2023 09:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[폴로 랄프로렌 스니커즈를 신고 우리가 함께 한 하루.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/8a154127-bd4e-44b6-8b09-393b1b9f7940.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[펜디의 2023 S/S 컬렉션]]></title>
             <link>https://www.esquirekorea.co.kr/article/75255</link>
@@ -46,30 +70,6 @@
             <pubDate>Fri, 17 Mar 2023 03:22:27 GMT</pubDate>
             <content:encoded><![CDATA[테일러링에 대한 가장 현재적 변주.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/6cc3ebdb-a4b0-42cc-8fda-ff597230ac5e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구찌와 떠나는 여행]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75252</link>
-            <guid>https://www.esquirekorea.co.kr/article/75252</guid>
-            <pubDate>Fri, 17 Mar 2023 03:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[훌쩍 떠나고 싶은 날.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/12/9c60c6c4-0a9b-4ea1-87bd-b097f2896bf5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part.2 2023 S/S에 기억해야 할 패션 트렌드의 모든 것]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75427</link>
-            <guid>https://www.esquirekorea.co.kr/article/75427</guid>
-            <pubDate>Tue, 14 Mar 2023 03:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[지금의 패션을 이해하기 위해 꼭 알아야 할 트렌드와 이슈를 차곡차곡 모았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/c8842eeb-ee25-491d-827a-ee37fd9f5eeb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part.1 2023 S/S에 기억해야 할 패션 트렌드의 모든 것]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75412</link>
-            <guid>https://www.esquirekorea.co.kr/article/75412</guid>
-            <pubDate>Mon, 13 Mar 2023 15:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[지금의 패션을 이해하기 위해 꼭 알아야 할 트렌드와 이슈를 차곡차곡 모았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/42bb90f0-1506-4562-9f94-c26479ec9d93.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

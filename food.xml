@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 03:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 09:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 시장 속 다이닝바 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76032</link>
+            <guid>https://www.esquirekorea.co.kr/article/76032</guid>
+            <pubDate>Thu, 23 Mar 2023 09:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[시장에서 직접 구입한 재료로 음식을 내어주는 곳부터 시장 상인과 협업한 메뉴를 선보이는 곳까...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/399046d7-6606-4327-aebb-0f2442565818.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파도 소리 들려오는! 서울 근교 오션뷰 카페 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76028</link>
+            <guid>https://www.esquirekorea.co.kr/article/76028</guid>
+            <pubDate>Thu, 23 Mar 2023 09:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[파노라마로 펼쳐진 오션뷰 카페에서 일렁이는 파도 소리와 함께 힐링해 보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/68ae157d-1ee5-4de9-9fa2-33e6a93bbe29.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전 메뉴가 만원 이하인 서울 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76012</link>
@@ -53,22 +69,6 @@
             <pubDate>Tue, 21 Mar 2023 09:20:22 GMT</pubDate>
             <content:encoded><![CDATA[매일 달라지는 10가지 넘는 반찬과 무제한 라면까지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/5c092b72-7ef9-4995-be3b-a9e53dd090d1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라면사리를 무한 리필해 주는 부대찌개집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75914</link>
-            <guid>https://www.esquirekorea.co.kr/article/75914</guid>
-            <pubDate>Tue, 21 Mar 2023 09:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[부대찌개에 킬바사 소시지를 통째로 넣어주는 곳부터 8000원 부대찌개까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/fdf95bb0-50b1-4c52-bbfd-3a5529f18075.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하루 20인분! 한정 판매하는 고깃집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75878</link>
-            <guid>https://www.esquirekorea.co.kr/article/75878</guid>
-            <pubDate>Mon, 20 Mar 2023 09:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[쯔양과 세븐틴 멤버들이 극찬한 곱창집부터 갈매기살을 통째로 내주는 곳까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/7a042e1a-f9a5-4a16-b534-c2a4ba7b292a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

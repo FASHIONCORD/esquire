@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 03:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 09:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['꽃선비 열애사' 정건주는 여자 보는 눈이 약한 사주?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75967</link>
+            <guid>https://www.esquirekorea.co.kr/article/75967</guid>
+            <pubDate>Thu, 23 Mar 2023 09:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[오늘 첫 방송을 마친 정건주의 사주를 보고 왔다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/35a271a8-f322-4d5b-88f8-e2f12ede1800.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT 재현 보조개 찌르기 몇 번까지 허용?]]></title>
             <link>https://www.esquirekorea.co.kr/article/75932</link>
@@ -60,14 +68,6 @@
             <pubDate>Mon, 20 Mar 2023 03:21:42 GMT</pubDate>
             <content:encoded><![CDATA[재현은 매일 다른 옷을 고르지만, 자신이 고른 옷들을 모아두고 보면 맥락이 보인다고 했다. 맥...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/81120d06-95b3-47f6-b4d1-b6fa118d7e1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part1. NCT 재현은 결국 취향은 맥락이라고 말했다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75859</link>
-            <guid>https://www.esquirekorea.co.kr/article/75859</guid>
-            <pubDate>Sun, 19 Mar 2023 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[재현은 매일 다른 옷을 고르지만, 자신이 고른 옷들을 모아두고 보면 맥락이 보인다고 했다. 맥...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/a0fb5d5c-8904-4643-8f26-76d04a719f9c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
