@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 15:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 03:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미란이가 휴대폰 케이스에 30만원 쓴 이유?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76019</link>
+            <guid>https://www.esquirekorea.co.kr/article/76019</guid>
+            <pubDate>Fri, 24 Mar 2023 03:20:37 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/c6e97cc9-f3fb-4a9c-993d-58014514a06c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['꽃선비 열애사' 정건주는 여자 보는 눈이 약한 사주?]]></title>
             <link>https://www.esquirekorea.co.kr/article/75967</link>
@@ -60,14 +67,6 @@
             <pubDate>Mon, 20 Mar 2023 03:21:42 GMT</pubDate>
             <content:encoded><![CDATA[올해 말 티빙에서 방영 예정.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/0b4e65d0-8836-4bbd-ac1e-30e0cdbdf6cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part2. NCT 재현이 말하는 아이돌과 팬의 소중한 관계]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75872</link>
-            <guid>https://www.esquirekorea.co.kr/article/75872</guid>
-            <pubDate>Mon, 20 Mar 2023 03:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[재현은 매일 다른 옷을 고르지만, 자신이 고른 옷들을 모아두고 보면 맥락이 보인다고 했다. 맥...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/81120d06-95b3-47f6-b4d1-b6fa118d7e1b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

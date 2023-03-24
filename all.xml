@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 15:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 03:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1321,6 +1321,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/e38c619d-9031-40a0-96ff-9b2cb7a00da6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[숯가마 삼겹살이 있는 전국 찜질방 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76041</link>
+            <guid>https://www.esquirekorea.co.kr/article/76041</guid>
+            <pubDate>Thu, 23 Mar 2023 03:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[3초 만에 초벌 되는 삼겹살 맛집부터 찜질을 즐기는 고양이가 있는 곳까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/ca015a53-52e0-4958-a462-9c27be3e8907.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서울 시장 속 다이닝바 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/76032</link>
             <guid>https://www.esquirekorea.co.kr/article/76032</guid>
@@ -1374,14 +1382,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 22 Mar 2023 03:20:16 GMT</pubDate>
             <content:encoded><![CDATA[40년 전통 돼지 불백부터 미슐랭 선정 고기 국수, 커피, 와인바까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/1efa2a91-14ee-435b-9729-865c2ae94300.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8000원 이하 서울 가성비 한식 뷔페 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75915</link>
-            <guid>https://www.esquirekorea.co.kr/article/75915</guid>
-            <pubDate>Tue, 21 Mar 2023 09:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[매일 달라지는 10가지 넘는 반찬과 무제한 라면까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/5c092b72-7ef9-4995-be3b-a9e53dd090d1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 롤라팔루자 출연 아티스트 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1447,6 +1447,13 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/e935a034-649e-46e0-aa3d-d27f566322aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미란이가 휴대폰 케이스에 30만원 쓴 이유? (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76019</link>
+            <guid>https://www.esquirekorea.co.kr/article/76019</guid>
+            <pubDate>Fri, 24 Mar 2023 03:20:37 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/c6e97cc9-f3fb-4a9c-993d-58014514a06c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['꽃선비 열애사' 정건주는 여자 보는 눈이 약한 사주? (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/75967</link>
             <guid>https://www.esquirekorea.co.kr/article/75967</guid>
@@ -1499,14 +1506,6 @@ The New MINI Countryman과 일상에
             <pubDate>Mon, 20 Mar 2023 03:21:42 GMT</pubDate>
             <content:encoded><![CDATA[올해 말 티빙에서 방영 예정.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/0b4e65d0-8836-4bbd-ac1e-30e0cdbdf6cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part2. NCT 재현이 말하는 아이돌과 팬의 소중한 관계 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75872</link>
-            <guid>https://www.esquirekorea.co.kr/article/75872</guid>
-            <pubDate>Mon, 20 Mar 2023 03:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[재현은 매일 다른 옷을 고르지만, 자신이 고른 옷들을 모아두고 보면 맥락이 보인다고 했다. 맥...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/81120d06-95b3-47f6-b4d1-b6fa118d7e1b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[4년 만에 개최되는 '경주벚꽃축제' (에스콰이어 코리아 ─ 나우)]]></title>
