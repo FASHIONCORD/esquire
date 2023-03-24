@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 09:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 15:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먹으면 설사 예약! 설사를 유발하는 의외의 식품 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76042</link>
+            <guid>https://www.esquirekorea.co.kr/article/76042</guid>
+            <pubDate>Fri, 24 Mar 2023 15:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[몸에 좋다는 마늘, 브로콜리 마저?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/1ad10063-eff0-4345-8308-c4b62f195a70.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숯가마 삼겹살이 있는 전국 찜질방 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76041</link>
@@ -61,14 +69,6 @@
             <guid>https://www.esquirekorea.co.kr/article/75924</guid>
             <pubDate>Wed, 22 Mar 2023 03:20:16 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/dcfb3062-65fa-4efa-8ca1-b0d35e61a011.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광진구 대학가 맛집_ 건국대, 세종대 편]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75920</link>
-            <guid>https://www.esquirekorea.co.kr/article/75920</guid>
-            <pubDate>Wed, 22 Mar 2023 03:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[40년 전통 돼지 불백부터 미슐랭 선정 고기 국수, 커피, 와인바까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/1efa2a91-14ee-435b-9729-865c2ae94300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

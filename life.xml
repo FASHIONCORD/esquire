@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 09:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 15:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이촌 한강공원에 떠 있는 수영장 개장 예정]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76067</link>
+            <guid>https://www.esquirekorea.co.kr/article/76067</guid>
+            <pubDate>Fri, 24 Mar 2023 15:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[규모는 약 900제곱미터.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/83d5269c-5450-415a-b5cd-059c3a151a66.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[돈두댓] 최소의 에너지만 사용하는 섹스 체위]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76066</link>
+            <guid>https://www.esquirekorea.co.kr/article/76066</guid>
+            <pubDate>Fri, 24 Mar 2023 15:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[몸은 지쳐도 맘은 뜨거운 커플을 위하여]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/cfdd5cde-f63a-4bb8-8610-2c70240c9286.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[100평 이상의 서울, 경기 대형 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76049</link>
@@ -53,22 +69,6 @@
             <pubDate>Wed, 22 Mar 2023 09:21:17 GMT</pubDate>
             <content:encoded><![CDATA[시장에서 직접 구입한 재료로 음식을 내어주는 곳부터 시장 상인과 협업한 메뉴를 선보이는 곳까...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/399046d7-6606-4327-aebb-0f2442565818.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파도 소리 들려오는! 서울 근교 오션뷰 카페 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76028</link>
-            <guid>https://www.esquirekorea.co.kr/article/76028</guid>
-            <pubDate>Wed, 22 Mar 2023 09:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[파노라마로 펼쳐진 오션뷰 카페에서 일렁이는 파도 소리와 함께 힐링해 보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/68ae157d-1ee5-4de9-9fa2-33e6a93bbe29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스, ‘TV 자막 설정 기능’ 도입]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76013</link>
-            <guid>https://www.esquirekorea.co.kr/article/76013</guid>
-            <pubDate>Wed, 22 Mar 2023 09:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[크기와 스타일을 내 취향대로.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/e5eebf89-e4c6-4bf8-a6b3-b218882abc91.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
