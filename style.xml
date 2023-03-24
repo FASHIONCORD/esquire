@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 03:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 09:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디올 맨의 2023 Fall 컬렉션]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76047</link>
+            <guid>https://www.esquirekorea.co.kr/article/76047</guid>
+            <pubDate>Fri, 24 Mar 2023 09:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[이집트 가자지구의 피라미드를 배경으로 펼쳐졌던 디올 맨 2023 Fall 컬렉션. 생경한 아름다움이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/51e42b81-0e96-4ce5-8c41-3dd6cfd46fa8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크롭의 계절]]></title>
             <link>https://www.esquirekorea.co.kr/article/76056</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Mar 2023 15:21:04 GMT</pubDate>
             <content:encoded><![CDATA[더 구조적으로, 훨씬 더 역동적으로 진화한 스니커즈.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/15212db1-376d-400a-b067-143dab2d781b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실물로 제작한 슈퍼 마리오 신발]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75750</link>
-            <guid>https://www.esquirekorea.co.kr/article/75750</guid>
-            <pubDate>Mon, 20 Mar 2023 09:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[레드윙 슈즈와 함께 만들었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/9c38e658-11c7-480b-a31e-594ce84faa29.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
