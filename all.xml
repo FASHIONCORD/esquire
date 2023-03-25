@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 09:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 15:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1385,6 +1385,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/dcfb3062-65fa-4efa-8ca1-b0d35e61a011.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[루프탑이 있는 서울 호프집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76072</link>
+            <guid>https://www.esquirekorea.co.kr/article/76072</guid>
+            <pubDate>Sat, 25 Mar 2023 15:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[양조사가 직접 만든 수제 맥주 맛집부터 대형 스크린 루프탑까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/66f0f3fd-f41f-4863-9df8-1404770d6d14.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이촌 한강공원에 떠 있는 수영장 개장 예정 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/76067</link>
             <guid>https://www.esquirekorea.co.kr/article/76067</guid>
@@ -1440,12 +1448,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/e25534fe-5aad-4949-8bd2-ffc71f928109.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울 시장 속 다이닝바 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76032</link>
-            <guid>https://www.esquirekorea.co.kr/article/76032</guid>
-            <pubDate>Wed, 22 Mar 2023 09:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[시장에서 직접 구입한 재료로 음식을 내어주는 곳부터 시장 상인과 협업한 메뉴를 선보이는 곳까...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/399046d7-6606-4327-aebb-0f2442565818.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Part2. 신재하가 30대를 맞이하는 자세 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75949</link>
+            <guid>https://www.esquirekorea.co.kr/article/75949</guid>
+            <pubDate>Sat, 25 Mar 2023 15:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[신재하는 여전히 연기의 벽을 느끼지만, 조급하지 않다. 지난 10년간 쌓아온 스스로를 믿어서다....]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/f23c3e2d-a6b2-4207-bb4c-b9c5f030c793.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정건주, 장항준 감독과 술친구 된 썰? (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1499,14 +1507,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/75926</guid>
             <pubDate>Wed, 22 Mar 2023 03:20:33 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/19/06dc1cad-214b-4c71-8c56-6c97f7946adc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이도현이라는 영광 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75885</link>
-            <guid>https://www.esquirekorea.co.kr/article/75885</guid>
-            <pubDate>Tue, 21 Mar 2023 15:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[이도현 같은 배우와 같은 시대를 사는 영광. 루이 비통 2023 S/S를 만날 수 있는 호강.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/3c02bbc9-8eab-415f-96af-7e99d6a1013e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[4년 만에 개최되는 '경주벚꽃축제' (에스콰이어 코리아 ─ 나우)]]></title>
