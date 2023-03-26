@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 09:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 15:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세븐과 8년 열애 후 결혼에 골인하는 이다해, 그녀의 TMI 10.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76079</link>
+            <guid>https://www.esquirekorea.co.kr/article/76079</guid>
+            <pubDate>Sun, 26 Mar 2023 15:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[소믈리에 자격증이 있는 이다해는 호주 시민권자라고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/d83b6fb9-ac87-465f-92c1-f7f8ddcdd09f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Part2. 신재하가 30대를 맞이하는 자세]]></title>
             <link>https://www.esquirekorea.co.kr/article/75949</link>
@@ -60,13 +68,6 @@
             <pubDate>Wed, 22 Mar 2023 09:21:28 GMT</pubDate>
             <content:encoded><![CDATA[다시 돌아오기까지 10년이 걸렸다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/7c2ab637-4529-4c45-9384-349fd841c962.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이도현, ‘더 글로리’를 본 가족들의 반응은?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75926</link>
-            <guid>https://www.esquirekorea.co.kr/article/75926</guid>
-            <pubDate>Wed, 22 Mar 2023 03:20:33 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/19/06dc1cad-214b-4c71-8c56-6c97f7946adc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

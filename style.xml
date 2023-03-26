@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 09:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 15:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데이트 필수품, 이세이미야케]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76085</link>
+            <guid>https://www.esquirekorea.co.kr/article/76085</guid>
+            <pubDate>Sun, 26 Mar 2023 15:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[그녀에게 더 잘 보이고 싶다면 이세이미야케를 뿌리자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/15465416-c671-46d1-b991-49d3e7534659.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디올 맨의 2023 Fall 컬렉션]]></title>
             <link>https://www.esquirekorea.co.kr/article/76047</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Mar 2023 15:21:04 GMT</pubDate>
             <content:encoded><![CDATA[에스콰이어 유튜브에서 상영 준비를 마쳤다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/b4687b6d-6b83-417c-b765-0b5e0b900d2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스니커즈의 새 얼굴]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75784</link>
-            <guid>https://www.esquirekorea.co.kr/article/75784</guid>
-            <pubDate>Wed, 22 Mar 2023 15:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[더 구조적으로, 훨씬 더 역동적으로 진화한 스니커즈.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/15212db1-376d-400a-b067-143dab2d781b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
