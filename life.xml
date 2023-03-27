@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 15:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 03:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차박 명소! 포항 도구해수욕장과 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76091</link>
+            <guid>https://www.esquirekorea.co.kr/article/76091</guid>
+            <pubDate>Mon, 27 Mar 2023 03:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[하와이가 생각나는 해수욕장부터 포항에서만 먹을 수 있는 장어 요리까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/8dc97a26-3463-43c3-a665-4ba349c6f849.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[루프탑이 있는 서울 호프집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76072</link>
@@ -62,13 +70,6 @@
             <pubDate>Thu, 23 Mar 2023 03:20:04 GMT</pubDate>
             <content:encoded><![CDATA[3초 만에 초벌 되는 삼겹살 맛집부터 찜질을 즐기는 고양이가 있는 곳까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/ca015a53-52e0-4958-a462-9c27be3e8907.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정건주, 장항준 감독과 술친구 된 썰?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76036</link>
-            <guid>https://www.esquirekorea.co.kr/article/76036</guid>
-            <pubDate>Thu, 23 Mar 2023 03:20:04 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/e25534fe-5aad-4949-8bd2-ffc71f928109.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
