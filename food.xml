@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 03:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 09:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울에서 맛보는 제주 돔베고기 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76094</link>
+            <guid>https://www.esquirekorea.co.kr/article/76094</guid>
+            <pubDate>Tue, 28 Mar 2023 09:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[차원이 다른 부드러움을 자랑하는 돔베고기를 아직도 안 먹어봤다면?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/27bd1298-030e-42a1-9d2a-bca954a6d4f0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차박 명소! 포항 도구해수욕장과 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76091</link>
+            <guid>https://www.esquirekorea.co.kr/article/76091</guid>
+            <pubDate>Tue, 28 Mar 2023 09:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[하와이가 생각나는 해수욕장부터 포항에서만 먹을 수 있는 장어 요리까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/8dc97a26-3463-43c3-a665-4ba349c6f849.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[루프탑이 있는 서울 호프집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76072</link>
+            <guid>https://www.esquirekorea.co.kr/article/76072</guid>
+            <pubDate>Tue, 28 Mar 2023 09:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[양조사가 직접 만든 수제 맥주 맛집부터 대형 스크린 루프탑까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/66f0f3fd-f41f-4863-9df8-1404770d6d14.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[100평 이상의 서울, 경기 대형 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76049</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 23 Mar 2023 09:19:45 GMT</pubDate>
             <content:encoded><![CDATA[파노라마로 펼쳐진 오션뷰 카페에서 일렁이는 파도 소리와 함께 힐링해 보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/68ae157d-1ee5-4de9-9fa2-33e6a93bbe29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 메뉴가 만원 이하인 서울 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76012</link>
-            <guid>https://www.esquirekorea.co.kr/article/76012</guid>
-            <pubDate>Wed, 22 Mar 2023 09:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[50여 종의 메뉴를 내주는 곳부터 백종원의 3대 천왕 라면까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/e935a034-649e-46e0-aa3d-d27f566322aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파이렉스, 카페 노티드와 콜라보한 신제품 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76009</link>
-            <guid>https://www.esquirekorea.co.kr/article/76009</guid>
-            <pubDate>Wed, 22 Mar 2023 09:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[노티드를 대표하는 캐릭터가 파이렉스 제품에?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/f6c45492-dac9-4ec5-b461-49e6c285db9b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50년 이상 운영한 치킨 노포 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75961</link>
-            <guid>https://www.esquirekorea.co.kr/article/75961</guid>
-            <pubDate>Wed, 22 Mar 2023 09:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[전기구이 마늘 치킨부터 국내 최초 치킨 프랜차이즈까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/84edd8de-9c2e-4ac7-acc3-98f3354c9590.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

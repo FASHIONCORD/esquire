@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 03:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 09:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안희연, 촬영 중 정수리 물린 사건?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76127</link>
+            <guid>https://www.esquirekorea.co.kr/article/76127</guid>
+            <pubDate>Tue, 28 Mar 2023 09:21:56 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/dda52e78-7787-4cda-9c4b-d903fc73b817.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Part2. 차주영이 말하는 <진짜가 나타났다!> 장세진과 차주영의 싱크로율]]></title>
             <link>https://www.esquirekorea.co.kr/article/75982</link>
@@ -60,14 +67,6 @@
             <guid>https://www.esquirekorea.co.kr/article/76019</guid>
             <pubDate>Fri, 24 Mar 2023 03:20:37 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/c6e97cc9-f3fb-4a9c-993d-58014514a06c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['꽃선비 열애사' 정건주는 여자 보는 눈이 약한 사주?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75967</link>
-            <guid>https://www.esquirekorea.co.kr/article/75967</guid>
-            <pubDate>Thu, 23 Mar 2023 09:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[오늘 첫 방송을 마친 정건주의 사주를 보고 왔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/35a271a8-f322-4d5b-88f8-e2f12ede1800.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
