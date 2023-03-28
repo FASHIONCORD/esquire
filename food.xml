@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 09:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 15:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국식 버팔로윙 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76132</link>
+            <guid>https://www.esquirekorea.co.kr/article/76132</guid>
+            <pubDate>Tue, 28 Mar 2023 15:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[압구정, 방배, 이태원, 홍대에서 찾은 진한 미국의 맛.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/0ab494d7-5ad9-49eb-8181-cdf050893da8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울에서 맛보는 제주 돔베고기 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76094</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 23 Mar 2023 09:19:45 GMT</pubDate>
             <content:encoded><![CDATA[시장에서 직접 구입한 재료로 음식을 내어주는 곳부터 시장 상인과 협업한 메뉴를 선보이는 곳까...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/399046d7-6606-4327-aebb-0f2442565818.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파도 소리 들려오는! 서울 근교 오션뷰 카페 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76028</link>
-            <guid>https://www.esquirekorea.co.kr/article/76028</guid>
-            <pubDate>Thu, 23 Mar 2023 09:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[파노라마로 펼쳐진 오션뷰 카페에서 일렁이는 파도 소리와 함께 힐링해 보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/68ae157d-1ee5-4de9-9fa2-33e6a93bbe29.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

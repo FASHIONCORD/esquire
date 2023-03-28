@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 09:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 15:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지구 끝까지 달려도 편안한 커플 러닝화]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76086</link>
+            <guid>https://www.esquirekorea.co.kr/article/76086</guid>
+            <pubDate>Tue, 28 Mar 2023 15:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[평소에도 신고 다니고 싶을 정도로 편하고 예쁜 커플 러닝화를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/7770ca3e-da2d-43bb-8a23-7dd70ff442fb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데이트 필수품, 이세이미야케]]></title>
             <link>https://www.esquirekorea.co.kr/article/76085</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 22 Mar 2023 15:21:04 GMT</pubDate>
             <content:encoded><![CDATA[자연의 컬러와 편안한 실루엣 위에 얹은 보헤미안 감성, 펜디의 2023 S/S 컬렉션.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/69562931-9b85-45d9-befe-ee1ebc894e85.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재현과 프라다가 만든 한 편의 단편 영화]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75791</link>
-            <guid>https://www.esquirekorea.co.kr/article/75791</guid>
-            <pubDate>Wed, 22 Mar 2023 15:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[에스콰이어 유튜브에서 상영 준비를 마쳤다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/b4687b6d-6b83-417c-b765-0b5e0b900d2e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

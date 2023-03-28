@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 09:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 15:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파리에 사는 인도인, 서울에 사는 스위스인, 바르셀로나에 사는 리투아니아인이 도시에 대한 유튜브를 만든 이유]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75953</link>
+            <guid>https://www.esquirekorea.co.kr/article/75953</guid>
+            <pubDate>Tue, 28 Mar 2023 15:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[이국 도시에 살며, 전 세계를 향해 그 도시의 삶에 대해 말하고 있는 사람들. 유튜버 여섯 명...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/c3aaf20c-d562-415e-a287-e8aefb5b234e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안희연, 촬영 중 정수리 물린 사건?]]></title>
             <link>https://www.esquirekorea.co.kr/article/76127</link>
@@ -60,13 +68,6 @@
             <pubDate>Fri, 24 Mar 2023 15:21:28 GMT</pubDate>
             <content:encoded><![CDATA[신재하는 여전히 연기의 벽을 느끼지만, 조급하지 않다. 지난 10년간 쌓아온 스스로를 믿어서다....]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/a9e0b071-4b51-42b5-9ba9-040b0d9a86b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미란이가 휴대폰 케이스에 30만원 쓴 이유?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76019</link>
-            <guid>https://www.esquirekorea.co.kr/article/76019</guid>
-            <pubDate>Fri, 24 Mar 2023 03:20:37 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/c6e97cc9-f3fb-4a9c-993d-58014514a06c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
