@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 15:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 03:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[100년 된 전국 중식당 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76218</link>
+            <guid>https://www.esquirekorea.co.kr/article/76218</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[100년 넘게 똑같은 맛의 간짜장을 내주는 곳부터 유일무이 물짜장 맛집까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/eda31710-43b6-41da-832a-1cd6f622209a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글렌피딕이 만든 시간의 철학이 담긴 위스키들]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76159</link>
+            <guid>https://www.esquirekorea.co.kr/article/76159</guid>
+            <pubDate>Wed, 29 Mar 2023 03:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[글렌피딕이 컴퓨테이셔널 아트와 사운드 비주얼 아트의 세계로 위스키가 품은 시간을 재해석했던 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/2be942df-66ef-44ad-81e5-77e9125b0d0e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국식 버팔로윙 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/76132</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 24 Mar 2023 15:21:12 GMT</pubDate>
             <content:encoded><![CDATA[몸에 좋다는 마늘, 브로콜리 마저?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/1ad10063-eff0-4345-8308-c4b62f195a70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숯가마 삼겹살이 있는 전국 찜질방 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76041</link>
-            <guid>https://www.esquirekorea.co.kr/article/76041</guid>
-            <pubDate>Fri, 24 Mar 2023 03:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[3초 만에 초벌 되는 삼겹살 맛집부터 찜질을 즐기는 고양이가 있는 곳까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/ca015a53-52e0-4958-a462-9c27be3e8907.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 시장 속 다이닝바 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76032</link>
-            <guid>https://www.esquirekorea.co.kr/article/76032</guid>
-            <pubDate>Thu, 23 Mar 2023 09:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[시장에서 직접 구입한 재료로 음식을 내어주는 곳부터 시장 상인과 협업한 메뉴를 선보이는 곳까...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/399046d7-6606-4327-aebb-0f2442565818.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
