@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 09:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 17:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[응봉산 개나리 축제 데이트 코스 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76236</link>
+            <guid>https://www.esquirekorea.co.kr/article/76236</guid>
+            <pubDate>Wed, 29 Mar 2023 17:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[서울에서 가장 먼저 봄이 오는 응봉산과 함께 봄을 만끽해보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/02223fb6-45ba-4525-a8e5-4d0681c71ece.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[만원 이하로 즐기는 샤브샤브 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76234</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 28 Mar 2023 09:21:39 GMT</pubDate>
             <content:encoded><![CDATA[양조사가 직접 만든 수제 맥주 맛집부터 대형 스크린 루프탑까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/66f0f3fd-f41f-4863-9df8-1404770d6d14.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[100평 이상의 서울, 경기 대형 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76049</link>
-            <guid>https://www.esquirekorea.co.kr/article/76049</guid>
-            <pubDate>Mon, 27 Mar 2023 15:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[어딜 가나 웨이팅으로 스트레스라면 쾌적한 대형 맛집으로 향해보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/e8c07637-7717-4892-aa05-4e8e52defbc3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
