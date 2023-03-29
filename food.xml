@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 03:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 09:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[만원 이하로 즐기는 샤브샤브 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76234</link>
+            <guid>https://www.esquirekorea.co.kr/article/76234</guid>
+            <pubDate>Wed, 29 Mar 2023 09:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[6천원에 4가지 맛을 즐길 수 있는 곳부터 양고기 샤브샤브 맛집까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/643391a4-e239-4db3-86ab-3ae8efe9ab57.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[100년 된 전국 중식당 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76218</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 27 Mar 2023 15:22:18 GMT</pubDate>
             <content:encoded><![CDATA[어딜 가나 웨이팅으로 스트레스라면 쾌적한 대형 맛집으로 향해보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/e8c07637-7717-4892-aa05-4e8e52defbc3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먹으면 설사 예약! 설사를 유발하는 의외의 식품 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76042</link>
-            <guid>https://www.esquirekorea.co.kr/article/76042</guid>
-            <pubDate>Fri, 24 Mar 2023 15:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[몸에 좋다는 마늘, 브로콜리 마저?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/1ad10063-eff0-4345-8308-c4b62f195a70.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

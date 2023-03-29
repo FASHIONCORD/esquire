@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 03:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 09:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1322,6 +1322,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/c6f3e1a2-8086-4610-a3e6-a7f8589c4ab1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[만원 이하로 즐기는 샤브샤브 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76234</link>
+            <guid>https://www.esquirekorea.co.kr/article/76234</guid>
+            <pubDate>Wed, 29 Mar 2023 09:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[6천원에 4가지 맛을 즐길 수 있는 곳부터 양고기 샤브샤브 맛집까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/643391a4-e239-4db3-86ab-3ae8efe9ab57.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[100년 된 전국 중식당 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/76218</link>
             <guid>https://www.esquirekorea.co.kr/article/76218</guid>
@@ -1378,18 +1386,26 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/e8c07637-7717-4892-aa05-4e8e52defbc3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[먹으면 설사 예약! 설사를 유발하는 의외의 식품 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76042</link>
-            <guid>https://www.esquirekorea.co.kr/article/76042</guid>
-            <pubDate>Thu, 23 Mar 2023 09:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[몸에 좋다는 마늘, 브로콜리 마저?!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/1ad10063-eff0-4345-8308-c4b62f195a70.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[응봉산 개나리 축제 데이트 코스 5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76236</link>
+            <guid>https://www.esquirekorea.co.kr/article/76236</guid>
+            <pubDate>Wed, 29 Mar 2023 09:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[서울에서 가장 먼저 봄이 오는 응봉산과 함께 봄을 만끽해보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/02223fb6-45ba-4525-a8e5-4d0681c71ece.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[만원 이하로 즐기는 샤브샤브 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76234</link>
+            <guid>https://www.esquirekorea.co.kr/article/76234</guid>
+            <pubDate>Wed, 29 Mar 2023 09:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[6천원에 4가지 맛을 즐길 수 있는 곳부터 양고기 샤브샤브 맛집까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/643391a4-e239-4db3-86ab-3ae8efe9ab57.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[100년 된 전국 중식당 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/76218</link>
             <guid>https://www.esquirekorea.co.kr/article/76218</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:58 GMT</pubDate>
+            <pubDate>Wed, 29 Mar 2023 03:19:51 GMT</pubDate>
             <content:encoded><![CDATA[100년 넘게 똑같은 맛의 간짜장을 내주는 곳부터 유일무이 물짜장 맛집까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/eda31710-43b6-41da-832a-1cd6f622209a.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1433,18 +1449,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/c3aaf20c-d562-415e-a287-e8aefb5b234e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[딥티크의 '심플 오브젝트' 컬렉션이 전혀 심플하지 않은 이유 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76134</link>
-            <guid>https://www.esquirekorea.co.kr/article/76134</guid>
-            <pubDate>Tue, 28 Mar 2023 09:21:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/25/b123ebb9-ac89-4e33-9475-adbaaad92a2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안희연, 촬영 중 정수리 물린 사건? (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76127</link>
-            <guid>https://www.esquirekorea.co.kr/article/76127</guid>
-            <pubDate>Tue, 28 Mar 2023 09:21:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/dda52e78-7787-4cda-9c4b-d903fc73b817.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[마쓰다(마츠다) 부장이 말한다 "오사카에선 줄 서지 마세요" (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76035</link>
+            <guid>https://www.esquirekorea.co.kr/article/76035</guid>
+            <pubDate>Wed, 29 Mar 2023 09:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[맛있는 걸 위해 죽음을 불사하는 오사카인, 그러나 부대 앞 할아버지가 ‘쇼팅깡’에 끓여 준 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/3dff6513-edd2-4684-be2a-15a6392ca753.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파리에 사는 인도인, 서울에 사는 스위스인, 바르셀로나에 사는 리투아니아인이 도시에 대한 유튜브를 만든 이유 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1499,14 +1509,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/76036</guid>
             <pubDate>Thu, 23 Mar 2023 03:20:04 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/e25534fe-5aad-4949-8bd2-ffc71f928109.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part1. 신재하가 사극을 하고 싶었던 이유는? (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75948</link>
-            <guid>https://www.esquirekorea.co.kr/article/75948</guid>
-            <pubDate>Fri, 24 Mar 2023 15:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[신재하는 여전히 연기의 벽을 느끼지만, 조급하지 않다. 지난 10년간 쌓아온 스스로를 믿어서다....]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/a9e0b071-4b51-42b5-9ba9-040b0d9a86b7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 글로리 파트 2, 공개 하루 만에 글로벌 3위 (에스콰이어 코리아 ─ 나우)]]></title>

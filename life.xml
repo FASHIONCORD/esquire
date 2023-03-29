@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 03:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 09:23:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[응봉산 개나리 축제 데이트 코스 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76236</link>
+            <guid>https://www.esquirekorea.co.kr/article/76236</guid>
+            <pubDate>Wed, 29 Mar 2023 09:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[서울에서 가장 먼저 봄이 오는 응봉산과 함께 봄을 만끽해보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/02223fb6-45ba-4525-a8e5-4d0681c71ece.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[만원 이하로 즐기는 샤브샤브 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76234</link>
+            <guid>https://www.esquirekorea.co.kr/article/76234</guid>
+            <pubDate>Wed, 29 Mar 2023 09:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[6천원에 4가지 맛을 즐길 수 있는 곳부터 양고기 샤브샤브 맛집까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/643391a4-e239-4db3-86ab-3ae8efe9ab57.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[100년 된 전국 중식당 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76218</link>
@@ -53,20 +69,6 @@
             <pubDate>Tue, 28 Mar 2023 09:21:48 GMT</pubDate>
             <content:encoded><![CDATA[이국 도시에 살며, 전 세계를 향해 그 도시의 삶에 대해 말하고 있는 사람들. 유튜버 여섯 명...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/c3aaf20c-d562-415e-a287-e8aefb5b234e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딥티크의 '심플 오브젝트' 컬렉션이 전혀 심플하지 않은 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76134</link>
-            <guid>https://www.esquirekorea.co.kr/article/76134</guid>
-            <pubDate>Tue, 28 Mar 2023 09:21:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/25/b123ebb9-ac89-4e33-9475-adbaaad92a2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안희연, 촬영 중 정수리 물린 사건?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76127</link>
-            <guid>https://www.esquirekorea.co.kr/article/76127</guid>
-            <pubDate>Tue, 28 Mar 2023 09:21:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/dda52e78-7787-4cda-9c4b-d903fc73b817.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
