@@ -4,9 +4,24 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 03:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 09:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 닭 오마카세 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76249</link>
+            <guid>https://www.esquirekorea.co.kr/article/76249</guid>
+            <pubDate>Thu, 30 Mar 2023 09:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[당일 도계된 닭만 사용하는 곳부터 맞춤 화로를 제작해 구워주는 곳까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/aaa59b7c-f925-4c81-b9b8-67597d31481a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미군 베테랑 겸 소설가가 직접 취재한 '우크라이나의 비밀 병기', 자원봉사자와 외인부대의 세계]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76045</link>
+            <guid>https://www.esquirekorea.co.kr/article/76045</guid>
+            <pubDate>Thu, 30 Mar 2023 09:22:12 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/e1e96a03-3d7f-4c4a-bf0a-534355d3ff25.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세계선수권 대회에서 은메달을 딴 차준환 선수. 아역배우 출신 차준환의 TMI 11.]]></title>
             <link>https://www.esquirekorea.co.kr/article/76238</link>
@@ -54,21 +69,6 @@
             <pubDate>Tue, 28 Mar 2023 09:21:48 GMT</pubDate>
             <content:encoded><![CDATA[전야제에는 공연과 불꽃놀이도 펼쳐진다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/0189c97a-81b0-46de-b5c0-6b6275ea7f27.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브의 SM 인수 포기, SM 팬들은 마음을 놓아도 되는 걸까?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76199</link>
-            <guid>https://www.esquirekorea.co.kr/article/76199</guid>
-            <pubDate>Tue, 28 Mar 2023 09:21:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/08c4e8f1-9238-4d57-96e8-4afb07bcf0d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제대로 된 광기, 레이디 가가의 할리 퀸 등장]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76149</link>
-            <guid>https://www.esquirekorea.co.kr/article/76149</guid>
-            <pubDate>Tue, 28 Mar 2023 09:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[영화 &lt;조커: 폴리 아 되&gt; 촬영 중 포착했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/b6d5cdaa-7168-4326-bb45-8552eb84e0f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

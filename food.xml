@@ -4,9 +4,32 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 03:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 09:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 속 숨겨진 실비집 2023 ver.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76256</link>
+            <guid>https://www.esquirekorea.co.kr/article/76256</guid>
+            <pubDate>Thu, 30 Mar 2023 09:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[원하는 메뉴를 바로 요리해 주는 것은 물론! 재료에 들어간 비용만 받는 실비집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/aecb674b-5756-4f43-b708-3e1edc05fc23.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 닭 오마카세 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76249</link>
+            <guid>https://www.esquirekorea.co.kr/article/76249</guid>
+            <pubDate>Thu, 30 Mar 2023 09:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[당일 도계된 닭만 사용하는 곳부터 맞춤 화로를 제작해 구워주는 곳까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/aaa59b7c-f925-4c81-b9b8-67597d31481a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글렌피딕이 시간의 철학을 담은 위스키들]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76248</link>
+            <guid>https://www.esquirekorea.co.kr/article/76248</guid>
+            <pubDate>Thu, 30 Mar 2023 09:22:00 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/f6e521aa-0708-4859-9444-2671bfec6466.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[응봉산 개나리 축제 데이트 코스 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/76236</link>
@@ -46,30 +69,6 @@
             <pubDate>Tue, 28 Mar 2023 15:21:48 GMT</pubDate>
             <content:encoded><![CDATA[압구정, 방배, 이태원, 홍대에서 찾은 진한 미국의 맛.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/0ab494d7-5ad9-49eb-8181-cdf050893da8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울에서 맛보는 제주 돔베고기 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76094</link>
-            <guid>https://www.esquirekorea.co.kr/article/76094</guid>
-            <pubDate>Tue, 28 Mar 2023 09:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[차원이 다른 부드러움을 자랑하는 돔베고기를 아직도 안 먹어봤다면?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/27bd1298-030e-42a1-9d2a-bca954a6d4f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차박 명소! 포항 도구해수욕장과 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76091</link>
-            <guid>https://www.esquirekorea.co.kr/article/76091</guid>
-            <pubDate>Tue, 28 Mar 2023 09:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[하와이가 생각나는 해수욕장부터 포항에서만 먹을 수 있는 장어 요리까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/8dc97a26-3463-43c3-a665-4ba349c6f849.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루프탑이 있는 서울 호프집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76072</link>
-            <guid>https://www.esquirekorea.co.kr/article/76072</guid>
-            <pubDate>Tue, 28 Mar 2023 09:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[양조사가 직접 만든 수제 맥주 맛집부터 대형 스크린 루프탑까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/66f0f3fd-f41f-4863-9df8-1404770d6d14.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
