@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 09:23:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 15:24:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계선수권 대회에서 은메달을 딴 차준환 선수. 아역배우 출신 차준환의 TMI 11.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76238</link>
+            <guid>https://www.esquirekorea.co.kr/article/76238</guid>
+            <pubDate>Thu, 30 Mar 2023 15:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[차준환이 생각하는 깻잎 논쟁은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/37074234-64e8-4875-95a4-d6cf81f10a5a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<그것이 알고 싶다>의 간판 PD 배정훈이 '100% 리얼 수사 다큐멘터리' <국가수사본부>로 돌아온 이유]]></title>
             <link>https://www.esquirekorea.co.kr/article/75984</link>
@@ -61,14 +69,6 @@
             <pubDate>Mon, 27 Mar 2023 09:20:58 GMT</pubDate>
             <content:encoded><![CDATA[차주영은 자유분방함을 추구하지만 보수적이고, 동시에 어떤 선 안에 자신을 가두고 싶진 않다. ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/a59e0d67-cb0a-4852-8137-8dd7662174d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐과 8년 열애 후 결혼에 골인하는 이다해, 그녀의 TMI 10.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76079</link>
-            <guid>https://www.esquirekorea.co.kr/article/76079</guid>
-            <pubDate>Sun, 26 Mar 2023 15:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[소믈리에 자격증이 있는 이다해는 호주 시민권자라고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/d83b6fb9-ac87-465f-92c1-f7f8ddcdd09f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

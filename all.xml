@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 09:23:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 15:24:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1323,6 +1323,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/04/9381534f-7ed7-4343-a0df-88104730986d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[돼지 한 마리에 단 300g? 모소리살 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76313</link>
+            <guid>https://www.esquirekorea.co.kr/article/76313</guid>
+            <pubDate>Thu, 30 Mar 2023 15:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[멜젓에 찍어 먹는 제주식 모소리살부터 당일 도축량만 파는 곳까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/1f051045-7acb-4acf-8b10-1ec98add7385.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서울 속 숨겨진 실비집 2023 ver. (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/76256</link>
             <guid>https://www.esquirekorea.co.kr/article/76256</guid>
@@ -1378,18 +1386,10 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/2be942df-66ef-44ad-81e5-77e9125b0d0e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미국식 버팔로윙 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76132</link>
-            <guid>https://www.esquirekorea.co.kr/article/76132</guid>
-            <pubDate>Tue, 28 Mar 2023 15:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[압구정, 방배, 이태원, 홍대에서 찾은 진한 미국의 맛.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/0ab494d7-5ad9-49eb-8181-cdf050893da8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[서울 닭 오마카세 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/76249</link>
             <guid>https://www.esquirekorea.co.kr/article/76249</guid>
-            <pubDate>Thu, 30 Mar 2023 09:22:12 GMT</pubDate>
+            <pubDate>Thu, 30 Mar 2023 09:22:00 GMT</pubDate>
             <content:encoded><![CDATA[당일 도계된 닭만 사용하는 곳부터 맞춤 화로를 제작해 구워주는 곳까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/aaa59b7c-f925-4c81-b9b8-67597d31481a.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1449,6 +1449,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/0189c97a-81b0-46de-b5c0-6b6275ea7f27.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세계선수권 대회에서 은메달을 딴 차준환 선수. 아역배우 출신 차준환의 TMI 11. (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76238</link>
+            <guid>https://www.esquirekorea.co.kr/article/76238</guid>
+            <pubDate>Thu, 30 Mar 2023 03:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[차준환이 생각하는 깻잎 논쟁은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/37074234-64e8-4875-95a4-d6cf81f10a5a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<그것이 알고 싶다>의 간판 PD 배정훈이 '100% 리얼 수사 다큐멘터리' <국가수사본부>로 돌아온 이유 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/75984</link>
             <guid>https://www.esquirekorea.co.kr/article/75984</guid>
@@ -1502,14 +1510,6 @@ The New MINI Countryman과 일상에
             <pubDate>Mon, 27 Mar 2023 09:20:58 GMT</pubDate>
             <content:encoded><![CDATA[차주영은 자유분방함을 추구하지만 보수적이고, 동시에 어떤 선 안에 자신을 가두고 싶진 않다. ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/a59e0d67-cb0a-4852-8137-8dd7662174d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐과 8년 열애 후 결혼에 골인하는 이다해, 그녀의 TMI 10. (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76079</link>
-            <guid>https://www.esquirekorea.co.kr/article/76079</guid>
-            <pubDate>Sun, 26 Mar 2023 15:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[소믈리에 자격증이 있는 이다해는 호주 시민권자라고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/d83b6fb9-ac87-465f-92c1-f7f8ddcdd09f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 글로리 파트 2, 공개 하루 만에 글로벌 3위 (에스콰이어 코리아 ─ 나우)]]></title>
