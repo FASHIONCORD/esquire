@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 03:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 09:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제로 소주의 진실과 답정너]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76329</link>
+            <guid>https://www.esquirekorea.co.kr/article/76329</guid>
+            <pubDate>Fri, 31 Mar 2023 09:19:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/d01d9c3f-2b9a-4cc1-be90-66fbb6cff08d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돼지 한 마리에 단 300g? 모소리살 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76313</link>
@@ -61,14 +68,6 @@
             <pubDate>Wed, 29 Mar 2023 03:19:51 GMT</pubDate>
             <content:encoded><![CDATA[100년 넘게 똑같은 맛의 간짜장을 내주는 곳부터 유일무이 물짜장 맛집까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/eda31710-43b6-41da-832a-1cd6f622209a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글렌피딕이 만든 시간의 철학이 담긴 위스키들]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76159</link>
-            <guid>https://www.esquirekorea.co.kr/article/76159</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[글렌피딕이 컴퓨테이셔널 아트와 사운드 비주얼 아트의 세계로 위스키가 품은 시간을 재해석했던 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/2be942df-66ef-44ad-81e5-77e9125b0d0e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
