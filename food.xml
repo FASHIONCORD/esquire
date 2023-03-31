@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 09:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 15:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지드래곤, 타이거 맥주 글로벌 앰버서더 발탁]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76343</link>
+            <guid>https://www.esquirekorea.co.kr/article/76343</guid>
+            <pubDate>Fri, 31 Mar 2023 15:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[타이거 맥주 신제품도 함께 공개했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/34e19c79-1786-4bc5-b00c-d3b486177ea2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제로 소주의 진실과 답정너]]></title>
             <link>https://www.esquirekorea.co.kr/article/76329</link>
@@ -60,14 +68,6 @@
             <pubDate>Wed, 29 Mar 2023 09:22:30 GMT</pubDate>
             <content:encoded><![CDATA[6천원에 4가지 맛을 즐길 수 있는 곳부터 양고기 샤브샤브 맛집까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/643391a4-e239-4db3-86ab-3ae8efe9ab57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[100년 된 전국 중식당 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76218</link>
-            <guid>https://www.esquirekorea.co.kr/article/76218</guid>
-            <pubDate>Wed, 29 Mar 2023 03:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[100년 넘게 똑같은 맛의 간짜장을 내주는 곳부터 유일무이 물짜장 맛집까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/eda31710-43b6-41da-832a-1cd6f622209a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
