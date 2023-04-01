@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 09:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 15:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<에스콰이어> 에디터들이 추천하는 이 달의 책]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76395</link>
+            <guid>https://www.esquirekorea.co.kr/article/76395</guid>
+            <pubDate>Sat, 01 Apr 2023 15:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[중쇄를 거듭해 더 많은 사람이 읽었으면 하는 책들을 &lt;에스콰이어&gt; 에디터들이 골랐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/c8355523-4d77-4e47-9318-f39bf1fdadf8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강화도에서만 맛볼 수 있는 젓국갈비 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76358</link>
+            <guid>https://www.esquirekorea.co.kr/article/76358</guid>
+            <pubDate>Sat, 01 Apr 2023 15:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[젓국갈비의 원조부터 돼지갈비와 같이 즐기는 젓국갈비까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/fe2c7fde-d0c7-42ba-88cd-3b047678128f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[웨스 앤더슨 신작 6월 개봉 확정]]></title>
             <link>https://www.esquirekorea.co.kr/article/76352</link>
@@ -52,22 +68,6 @@
             <guid>https://www.esquirekorea.co.kr/article/76045</guid>
             <pubDate>Thu, 30 Mar 2023 09:22:12 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/e1e96a03-3d7f-4c4a-bf0a-534355d3ff25.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계선수권 대회에서 은메달을 딴 차준환 선수. 아역배우 출신 차준환의 TMI 11.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76238</link>
-            <guid>https://www.esquirekorea.co.kr/article/76238</guid>
-            <pubDate>Thu, 30 Mar 2023 03:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[차준환이 생각하는 깻잎 논쟁은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/37074234-64e8-4875-95a4-d6cf81f10a5a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[응봉산 개나리 축제 데이트 코스 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76236</link>
-            <guid>https://www.esquirekorea.co.kr/article/76236</guid>
-            <pubDate>Wed, 29 Mar 2023 09:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[서울에서 가장 먼저 봄이 오는 응봉산과 함께 봄을 만끽해보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/02223fb6-45ba-4525-a8e5-4d0681c71ece.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 09:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 15:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PARIS SYNDROME]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76043</link>
+            <guid>https://www.esquirekorea.co.kr/article/76043</guid>
+            <pubDate>Sat, 01 Apr 2023 15:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[셀린느 옴므의 2023년 겨울 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/06cb1729-aa8e-47ff-b43b-34f593902918.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올봄 교복은 이것!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76087</link>
+            <guid>https://www.esquirekorea.co.kr/article/76087</guid>
+            <pubDate>Sat, 01 Apr 2023 15:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[편안한 걸 좋아하는 커플에게 이 옷을 추천한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/159c4aa8-24d3-4756-8412-7b98759ec644.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지구 끝까지 달려도 편안한 커플 러닝화]]></title>
             <link>https://www.esquirekorea.co.kr/article/76086</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 23 Mar 2023 09:19:17 GMT</pubDate>
             <content:encoded><![CDATA[필드에서 도심까지, 콜마르 2023 S/S 컬렉션과 함께한 다니엘 헤니의 강렬한 순간들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/20/6a548ba9-86fe-4c38-b0fd-98f1e30fc23a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기쁜 우리 젊은 날]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75756</link>
-            <guid>https://www.esquirekorea.co.kr/article/75756</guid>
-            <pubDate>Thu, 23 Mar 2023 09:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[폴로 랄프로렌 스니커즈를 신고 우리가 함께 한 하루.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/8a154127-bd4e-44b6-8b09-393b1b9f7940.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펜디의 2023 S/S 컬렉션]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75255</link>
-            <guid>https://www.esquirekorea.co.kr/article/75255</guid>
-            <pubDate>Wed, 22 Mar 2023 15:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[자연의 컬러와 편안한 실루엣 위에 얹은 보헤미안 감성, 펜디의 2023 S/S 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/69562931-9b85-45d9-befe-ee1ebc894e85.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
