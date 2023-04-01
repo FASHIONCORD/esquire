@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 03:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 09:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강화도에서만 맛볼 수 있는 젓국갈비 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76358</link>
+            <guid>https://www.esquirekorea.co.kr/article/76358</guid>
+            <pubDate>Sat, 01 Apr 2023 09:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[젓국갈비의 원조부터 돼지갈비와 같이 즐기는 젓국갈비까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/fe2c7fde-d0c7-42ba-88cd-3b047678128f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴진스, 코카콜라 브랜드 모델 발탁]]></title>
             <link>https://www.esquirekorea.co.kr/article/76351</link>
@@ -60,14 +68,6 @@
             <guid>https://www.esquirekorea.co.kr/article/76248</guid>
             <pubDate>Thu, 30 Mar 2023 09:22:00 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/f6e521aa-0708-4859-9444-2671bfec6466.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[응봉산 개나리 축제 데이트 코스 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76236</link>
-            <guid>https://www.esquirekorea.co.kr/article/76236</guid>
-            <pubDate>Thu, 30 Mar 2023 03:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[서울에서 가장 먼저 봄이 오는 응봉산과 함께 봄을 만끽해보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/02223fb6-45ba-4525-a8e5-4d0681c71ece.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
