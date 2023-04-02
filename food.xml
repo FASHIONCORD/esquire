@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 09:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 15:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위대한 가족이 만든 위대한 와인 '로스 콥의 피노 누아']]></title>
+            <link>https://www.esquirekorea.co.kr/article/76065</link>
+            <guid>https://www.esquirekorea.co.kr/article/76065</guid>
+            <pubDate>Sun, 02 Apr 2023 15:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[위대한 와인은 가족이 만든다. 한 세대가 아니라 여러 세대에 걸쳐 하나의 가족이 위대한 와인...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/517baa9a-42b1-4ca0-a2d3-7bbc1164e15d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강화도에서만 맛볼 수 있는 젓국갈비 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76358</link>
@@ -61,13 +69,6 @@
             <pubDate>Thu, 30 Mar 2023 09:22:00 GMT</pubDate>
             <content:encoded><![CDATA[당일 도계된 닭만 사용하는 곳부터 맞춤 화로를 제작해 구워주는 곳까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/aaa59b7c-f925-4c81-b9b8-67597d31481a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글렌피딕이 시간의 철학을 담은 위스키들]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76248</link>
-            <guid>https://www.esquirekorea.co.kr/article/76248</guid>
-            <pubDate>Thu, 30 Mar 2023 09:22:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/f6e521aa-0708-4859-9444-2671bfec6466.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
