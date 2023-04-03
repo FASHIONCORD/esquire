@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 09:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 15:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버버리부터 몽클레르까지 런던 패션위크 2023 FW 리뷰]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76142</link>
+            <guid>https://www.esquirekorea.co.kr/article/76142</guid>
+            <pubDate>Mon, 03 Apr 2023 15:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[버버리의 담백한 우아미부터 나타샤 진코의 우악스러움까지, 런던 패션위크 2023 F/W를 대표하는...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/c6dc9fec-2597-4746-a6a5-b8066e1e15bf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<사랑이라 말해요> 배우 안희연 화보 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/76110</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 23 Mar 2023 15:19:32 GMT</pubDate>
             <content:encoded><![CDATA[여전히 올라가는 중.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/458301c6-411d-43ff-a0c2-b3108310c314.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GUIDED BY THE STARS]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76055</link>
-            <guid>https://www.esquirekorea.co.kr/article/76055</guid>
-            <pubDate>Thu, 23 Mar 2023 09:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[피라미드를 배경으로 펼쳐진 디올 맨 2023 가을 컬렉션]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/5fbe4735-ed41-4f7a-91d8-95df224a3703.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
