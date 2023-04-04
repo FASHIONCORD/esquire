@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 15:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 03:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글 트렌드 '갈비' 급상승 맛집 리스트]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76401</link>
+            <guid>https://www.esquirekorea.co.kr/article/76401</guid>
+            <pubDate>Tue, 04 Apr 2023 03:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[생생정보 방영 등갈비 맛집에 이어 돼지갈비, LA 갈비, 서울 소갈비 모든 갈비의 맛집을 알아...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/2c8f214c-d1e1-49bf-8bab-660a2f4418ff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경회루 특별관람 개방! 근처 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76397</link>
+            <guid>https://www.esquirekorea.co.kr/article/76397</guid>
+            <pubDate>Tue, 04 Apr 2023 03:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[접근 제한 구역이었던 2층에 올라갈 수 있다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/c86c4715-206c-46a1-ac20-6d372ed5067b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울X도쿄 다르고도 닮은 두 도시 이야기]]></title>
             <link>https://www.esquirekorea.co.kr/article/76069</link>
@@ -53,22 +69,6 @@
             <pubDate>Fri, 31 Mar 2023 15:21:59 GMT</pubDate>
             <content:encoded><![CDATA[멜젓에 찍어 먹는 제주식 모소리살부터 당일 도축량만 파는 곳까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/1f051045-7acb-4acf-8b10-1ec98add7385.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돈두댓] 섹스를 부르는 향기 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76307</link>
-            <guid>https://www.esquirekorea.co.kr/article/76307</guid>
-            <pubDate>Fri, 31 Mar 2023 15:21:59 GMT</pubDate>
-            <content:encoded><![CDATA["이거 내 살 냄새야"]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/e9160590-9d9f-4e3b-90f3-fedda64fb9a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 닭 오마카세 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76249</link>
-            <guid>https://www.esquirekorea.co.kr/article/76249</guid>
-            <pubDate>Thu, 30 Mar 2023 09:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[당일 도계된 닭만 사용하는 곳부터 맞춤 화로를 제작해 구워주는 곳까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/aaa59b7c-f925-4c81-b9b8-67597d31481a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
