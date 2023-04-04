@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 03:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 09:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이킹 슈즈 '무브'와 '트라이포드 미드'의 대안이 없는 이유]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76003</link>
+            <guid>https://www.esquirekorea.co.kr/article/76003</guid>
+            <pubDate>Tue, 04 Apr 2023 09:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[새롭게 돌아온 코오롱스포츠의 시그니처 하이킹 슈즈 모델 ‘무브’와 ‘트라이포드 미드’. 이 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/02/fccb39e1-0b9b-46d9-8d5f-9e81296bb68c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산과 하이킹 슈즈 제짝 찾기 '하이킹 매치메이커']]></title>
+            <link>https://www.esquirekorea.co.kr/article/76005</link>
+            <guid>https://www.esquirekorea.co.kr/article/76005</guid>
+            <pubDate>Tue, 04 Apr 2023 09:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[산행에서 가장 중요한 건 하이킹 슈즈의 선택이다. 다양한 한국 산의 땅들을 어떤 신발을 신고...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/02/51bf5cd7-7975-437a-b758-e6dca4de6eb7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글 트렌드 '갈비' 급상승 맛집 리스트]]></title>
             <link>https://www.esquirekorea.co.kr/article/76401</link>
@@ -54,21 +70,6 @@
             <pubDate>Sat, 01 Apr 2023 09:17:32 GMT</pubDate>
             <content:encoded><![CDATA[공식 예고편도 함께 공개했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/e1574784-a659-490f-a0bf-067b4b8eeac5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부업 유튜버, 본업 변호사가 본 유튜브의 어두운 생태계]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76328</link>
-            <guid>https://www.esquirekorea.co.kr/article/76328</guid>
-            <pubDate>Sat, 01 Apr 2023 03:19:33 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/f842a37c-a436-4c3e-bb4b-fd99dacb515b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돼지 한 마리에 단 300g? 모소리살 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76313</link>
-            <guid>https://www.esquirekorea.co.kr/article/76313</guid>
-            <pubDate>Fri, 31 Mar 2023 15:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[멜젓에 찍어 먹는 제주식 모소리살부터 당일 도축량만 파는 곳까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/1f051045-7acb-4acf-8b10-1ec98add7385.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
