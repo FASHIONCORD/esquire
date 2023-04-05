@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 09:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 15:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[50년 넘게 운영 중인 곱창 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76466</link>
+            <guid>https://www.esquirekorea.co.kr/article/76466</guid>
+            <pubDate>Wed, 05 Apr 2023 15:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[70년 동안 한자리를 지킨 곳부터 백종원이 포장해 간 양념 직화 곱창까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/96f13fea-11cb-4635-8b2b-26a469069cb7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신인 보이그룹 도재정 데뷔 초읽기! NCT 도영, 재현, 정우의 TMI 15.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76463</link>
+            <guid>https://www.esquirekorea.co.kr/article/76463</guid>
+            <pubDate>Wed, 05 Apr 2023 15:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[떡잎부터 남달랐던 도재정은 학창 시절부터 인기를 몰고 다녔다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/7d622ac5-615e-47fa-aa53-4b481e902cb7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해리포터, 드라마 시리즈 제작 확정]]></title>
             <link>https://www.esquirekorea.co.kr/article/76449</link>
@@ -53,22 +69,6 @@
             <pubDate>Tue, 04 Apr 2023 03:20:05 GMT</pubDate>
             <content:encoded><![CDATA[생생정보 방영 등갈비 맛집에 이어 돼지갈비, LA 갈비, 서울 소갈비 모든 갈비의 맛집을 알아...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/2c8f214c-d1e1-49bf-8bab-660a2f4418ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경회루 특별관람 개방! 근처 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76397</link>
-            <guid>https://www.esquirekorea.co.kr/article/76397</guid>
-            <pubDate>Tue, 04 Apr 2023 03:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[접근 제한 구역이었던 2층에 올라갈 수 있다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/c86c4715-206c-46a1-ac20-6d372ed5067b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울X도쿄 다르고도 닮은 두 도시 이야기]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76069</link>
-            <guid>https://www.esquirekorea.co.kr/article/76069</guid>
-            <pubDate>Mon, 03 Apr 2023 15:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[김영준은 일제강점기 서울의 확장에 대해 연구하며 도쿄와 서울의 모습을 수집한다. 그가 보내온...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/b249536d-11e4-423f-bb07-f5750639355a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
