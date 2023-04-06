@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 15:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 03:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[50년 넘게 운영 중인 곱창 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76466</link>
+            <guid>https://www.esquirekorea.co.kr/article/76466</guid>
+            <pubDate>Thu, 06 Apr 2023 03:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[70년 동안 한자리를 지킨 곳부터 백종원이 포장해 간 양념 직화 곱창까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/96f13fea-11cb-4635-8b2b-26a469069cb7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[루이비통, 한국에 세 번째 팝업 레스토랑 개설 예정]]></title>
             <link>https://www.esquirekorea.co.kr/article/76447</link>
@@ -61,14 +69,6 @@
             <pubDate>Sun, 02 Apr 2023 15:17:47 GMT</pubDate>
             <content:encoded><![CDATA[위대한 와인은 가족이 만든다. 한 세대가 아니라 여러 세대에 걸쳐 하나의 가족이 위대한 와인...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/517baa9a-42b1-4ca0-a2d3-7bbc1164e15d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강화도에서만 맛볼 수 있는 젓국갈비 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76358</link>
-            <guid>https://www.esquirekorea.co.kr/article/76358</guid>
-            <pubDate>Sat, 01 Apr 2023 09:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[젓국갈비의 원조부터 돼지갈비와 같이 즐기는 젓국갈비까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/fe2c7fde-d0c7-42ba-88cd-3b047678128f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
