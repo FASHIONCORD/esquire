@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 09:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 15:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콘서트 말고, 전기영화]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76478</link>
+            <guid>https://www.esquirekorea.co.kr/article/76478</guid>
+            <pubDate>Thu, 06 Apr 2023 15:18:20 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/55a51f85-1a64-458e-a4e9-0cc4c9984117.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울 경기 숲 뷰 레스토랑 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76475</link>
@@ -61,14 +68,6 @@
             <guid>https://www.esquirekorea.co.kr/article/76441</guid>
             <pubDate>Tue, 04 Apr 2023 15:22:40 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/8ee5458a-d27c-4666-90df-e8fdb497afee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이킹 슈즈 '무브'와 '트라이포드 미드'의 대안이 없는 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76003</link>
-            <guid>https://www.esquirekorea.co.kr/article/76003</guid>
-            <pubDate>Tue, 04 Apr 2023 09:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[새롭게 돌아온 코오롱스포츠의 시그니처 하이킹 슈즈 모델 ‘무브’와 ‘트라이포드 미드’. 이 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/02/fccb39e1-0b9b-46d9-8d5f-9e81296bb68c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
