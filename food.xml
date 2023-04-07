@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 03:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 09:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[50년 넘는 전통을 이어 온 국밥 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76473</link>
+            <guid>https://www.esquirekorea.co.kr/article/76473</guid>
+            <pubDate>Fri, 07 Apr 2023 09:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[백종원이 극찬한 소머리국밥집부터 단일 메뉴로 50년 넘게 세월을 지켜온 곳까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/040b7190-73e5-4f80-925a-5f472703e493.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[50년 넘게 운영 중인 곱창 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76466</link>
@@ -61,14 +69,6 @@
             <pubDate>Tue, 04 Apr 2023 03:19:56 GMT</pubDate>
             <content:encoded><![CDATA[60년 전통의 보쌈 노포부터 구워서 먹는 이색 수육까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/9b0f9731-628d-419a-9b6d-c2c0f99d8c4a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위대한 가족이 만든 위대한 와인 '로스 콥의 피노 누아']]></title>
-            <link>https://www.esquirekorea.co.kr/article/76065</link>
-            <guid>https://www.esquirekorea.co.kr/article/76065</guid>
-            <pubDate>Sun, 02 Apr 2023 15:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[위대한 와인은 가족이 만든다. 한 세대가 아니라 여러 세대에 걸쳐 하나의 가족이 위대한 와인...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/517baa9a-42b1-4ca0-a2d3-7bbc1164e15d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

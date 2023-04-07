@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 03:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 09:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스, 코카콜라 브랜드 모델 발탁]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76351</link>
+            <guid>https://www.esquirekorea.co.kr/article/76351</guid>
+            <pubDate>Fri, 07 Apr 2023 09:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[CM 음원도 공개될 예정이라고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/b83fa125-f218-4e56-bbf0-e0fbb9a460ec.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지드래곤, 타이거 맥주 글로벌 앰버서더 발탁]]></title>
             <link>https://www.esquirekorea.co.kr/article/76343</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 29 Mar 2023 09:22:47 GMT</pubDate>
             <content:encoded><![CDATA[맛있는 걸 위해 죽음을 불사하는 오사카인, 그러나 부대 앞 할아버지가 ‘쇼팅깡’에 끓여 준 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/3dff6513-edd2-4684-be2a-15a6392ca753.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파리에 사는 인도인, 서울에 사는 스위스인, 바르셀로나에 사는 리투아니아인이 도시에 대한 유튜브를 만든 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75953</link>
-            <guid>https://www.esquirekorea.co.kr/article/75953</guid>
-            <pubDate>Tue, 28 Mar 2023 15:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[이국 도시에 살며, 전 세계를 향해 그 도시의 삶에 대해 말하고 있는 사람들. 유튜버 여섯 명...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/c3aaf20c-d562-415e-a287-e8aefb5b234e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

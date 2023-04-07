@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 03:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 09:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모든 안주가 만원대 이하인 서울 주점 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76492</link>
+            <guid>https://www.esquirekorea.co.kr/article/76492</guid>
+            <pubDate>Fri, 07 Apr 2023 09:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[메인 메뉴가 전부 5,900원인 맛집부터 50여 종의 안주를 내어주는 이자카야까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/65030027-e7db-4048-b014-cc51715ca91d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[콘서트 말고, 전기영화]]></title>
             <link>https://www.esquirekorea.co.kr/article/76478</link>
@@ -61,13 +69,6 @@
             <pubDate>Tue, 04 Apr 2023 15:22:40 GMT</pubDate>
             <content:encoded><![CDATA[런던의 미슐랭 2스타 레스토랑 ‘이코이’와 함께 협업한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/01579177-7884-4123-90e2-e301cb946a4f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국힙은 몰락을 향해 가고 있는가?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76441</link>
-            <guid>https://www.esquirekorea.co.kr/article/76441</guid>
-            <pubDate>Tue, 04 Apr 2023 15:22:40 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/8ee5458a-d27c-4666-90df-e8fdb497afee.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
