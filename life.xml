@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 15:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 03:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화관이 있는 전국 카페 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76504</link>
+            <guid>https://www.esquirekorea.co.kr/article/76504</guid>
+            <pubDate>Sat, 08 Apr 2023 03:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[영화관을 무료로 대관해 주는 곳부터 제주 바다가 보이는 영화관카페까지]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/dbb2129c-07df-4513-994c-0f2dbc09b138.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바비 인형이 영화로 돌아온다고?]]></title>
             <link>https://www.esquirekorea.co.kr/article/76502</link>
@@ -60,14 +68,6 @@
             <pubDate>Wed, 05 Apr 2023 15:22:35 GMT</pubDate>
             <content:encoded><![CDATA[70년 동안 한자리를 지킨 곳부터 백종원이 포장해 간 양념 직화 곱창까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/96f13fea-11cb-4635-8b2b-26a469069cb7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신인 보이그룹 도재정 데뷔 초읽기! NCT 도영, 재현, 정우의 TMI 15.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76463</link>
-            <guid>https://www.esquirekorea.co.kr/article/76463</guid>
-            <pubDate>Wed, 05 Apr 2023 15:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[떡잎부터 남달랐던 도재정은 학창 시절부터 인기를 몰고 다녔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/7d622ac5-615e-47fa-aa53-4b481e902cb7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
