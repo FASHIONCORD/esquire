@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 03:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 09:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1323,6 +1323,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/512196c7-ae99-4916-b924-b865c36263ec.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[식객 허영만 맛집 2023 ver. (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76474</link>
+            <guid>https://www.esquirekorea.co.kr/article/76474</guid>
+            <pubDate>Thu, 06 Apr 2023 03:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[허영만 화백이 새롭게 알게된 꺼먹지 맛집부터 고기 시키면 술이 서비스로 나오는 곳까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/54844cc2-41df-43c7-92c5-adce80520fd7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[50년 넘는 전통을 이어 온 국밥 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/76473</link>
             <guid>https://www.esquirekorea.co.kr/article/76473</guid>
@@ -1378,12 +1386,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/4b135416-6bd1-4baf-aa05-621d46ab9e8b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울 수육 노포 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76371</link>
-            <guid>https://www.esquirekorea.co.kr/article/76371</guid>
-            <pubDate>Tue, 04 Apr 2023 03:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[60년 전통의 보쌈 노포부터 구워서 먹는 이색 수육까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/9b0f9731-628d-419a-9b6d-c2c0f99d8c4a.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[동남아 국가들이 '그린 엔진'에 총력을 기울이는 이유 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76027</link>
+            <guid>https://www.esquirekorea.co.kr/article/76027</guid>
+            <pubDate>Sun, 09 Apr 2023 09:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[흔히 동남아라고 불리는 아세안 지역이 세계 시장의 눈길을 끌고 있다. 발전의 흐름에 올라타기...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/9ee16e78-3080-418a-a4d8-5fff06979c36.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화관이 있는 전국 카페 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1438,14 +1446,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 06 Apr 2023 03:19:52 GMT</pubDate>
             <content:encoded><![CDATA[허영만 화백이 새롭게 알게된 꺼먹지 맛집부터 고기 시키면 술이 서비스로 나오는 곳까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/54844cc2-41df-43c7-92c5-adce80520fd7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50년 넘게 운영 중인 곱창 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76466</link>
-            <guid>https://www.esquirekorea.co.kr/article/76466</guid>
-            <pubDate>Wed, 05 Apr 2023 15:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[70년 동안 한자리를 지킨 곳부터 백종원이 포장해 간 양념 직화 곱창까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/96f13fea-11cb-4635-8b2b-26a469069cb7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴진스, 코카콜라 브랜드 모델 발탁 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1512,6 +1512,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/3dff6513-edd2-4684-be2a-15a6392ca753.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[클래식 마니아들을 위한 애플 뮤직 클래식 앱 등장 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75754</link>
+            <guid>https://www.esquirekorea.co.kr/article/75754</guid>
+            <pubDate>Sun, 09 Apr 2023 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[500만 곡에 달하는 방대한 리스트를 자랑한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/4d52f76e-2940-4e94-9ad8-e3f29f55f3fb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더 글로리 파트 2, 공개 하루 만에 글로벌 3위 (에스콰이어 코리아 ─ 나우)]]></title>
             <link>https://www.esquirekorea.co.kr/article/75742</link>
             <guid>https://www.esquirekorea.co.kr/article/75742</guid>
@@ -1566,14 +1574,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sun, 12 Mar 2023 09:19:03 GMT</pubDate>
             <content:encoded><![CDATA[오는 3월 3일 뮤직비디오도 함께 공개된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/6ddbbef9-ee0d-4b03-a443-5f1e2b3ff857.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엑소 카이, 새 앨범 티저 이미지 공개 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75362</link>
-            <guid>https://www.esquirekorea.co.kr/article/75362</guid>
-            <pubDate>Thu, 09 Mar 2023 09:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[이번에는 어떤 퍼포먼스를 보여줄지 기대된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/d4c18995-b6c7-46b6-89dd-ea218d0da284.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 보면 볼수록 빠져 드는 테니스 스커트 (에스콰이어 코리아 ─ 이샵)]]></title>

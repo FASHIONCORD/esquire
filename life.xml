@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 03:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 09:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동남아 국가들이 '그린 엔진'에 총력을 기울이는 이유]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76027</link>
+            <guid>https://www.esquirekorea.co.kr/article/76027</guid>
+            <pubDate>Sun, 09 Apr 2023 09:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[흔히 동남아라고 불리는 아세안 지역이 세계 시장의 눈길을 끌고 있다. 발전의 흐름에 올라타기...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/9ee16e78-3080-418a-a4d8-5fff06979c36.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화관이 있는 전국 카페 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76504</link>
@@ -60,14 +68,6 @@
             <pubDate>Thu, 06 Apr 2023 03:19:52 GMT</pubDate>
             <content:encoded><![CDATA[허영만 화백이 새롭게 알게된 꺼먹지 맛집부터 고기 시키면 술이 서비스로 나오는 곳까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/54844cc2-41df-43c7-92c5-adce80520fd7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50년 넘게 운영 중인 곱창 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76466</link>
-            <guid>https://www.esquirekorea.co.kr/article/76466</guid>
-            <pubDate>Wed, 05 Apr 2023 15:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[70년 동안 한자리를 지킨 곳부터 백종원이 포장해 간 양념 직화 곱창까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/96f13fea-11cb-4635-8b2b-26a469069cb7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

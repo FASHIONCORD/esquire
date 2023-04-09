@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 03:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 09:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클래식 마니아들을 위한 애플 뮤직 클래식 앱 등장]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75754</link>
+            <guid>https://www.esquirekorea.co.kr/article/75754</guid>
+            <pubDate>Sun, 09 Apr 2023 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[500만 곡에 달하는 방대한 리스트를 자랑한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/4d52f76e-2940-4e94-9ad8-e3f29f55f3fb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 글로리 파트 2, 공개 하루 만에 글로벌 3위]]></title>
             <link>https://www.esquirekorea.co.kr/article/75742</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 12 Mar 2023 09:19:03 GMT</pubDate>
             <content:encoded><![CDATA[오는 3월 3일 뮤직비디오도 함께 공개된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/6ddbbef9-ee0d-4b03-a443-5f1e2b3ff857.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엑소 카이, 새 앨범 티저 이미지 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75362</link>
-            <guid>https://www.esquirekorea.co.kr/article/75362</guid>
-            <pubDate>Thu, 09 Mar 2023 09:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[이번에는 어떤 퍼포먼스를 보여줄지 기대된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/d4c18995-b6c7-46b6-89dd-ea218d0da284.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
