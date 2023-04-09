@@ -4,9 +4,24 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 09:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 15:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주얼리를 한 남자]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76477</link>
+            <guid>https://www.esquirekorea.co.kr/article/76477</guid>
+            <pubDate>Sun, 09 Apr 2023 15:17:36 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/01040e96-dfff-4611-bf03-592ac51de062.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가드너의 옷]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76105</link>
+            <guid>https://www.esquirekorea.co.kr/article/76105</guid>
+            <pubDate>Sun, 09 Apr 2023 15:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[새 계절을 가꾸는 시간.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/816debd4-a886-49a3-94ec-30ede2cc097a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘의 프레피]]></title>
             <link>https://www.esquirekorea.co.kr/article/76155</link>
@@ -54,22 +69,6 @@
             <pubDate>Sun, 02 Apr 2023 15:17:24 GMT</pubDate>
             <content:encoded><![CDATA[청초하면서도 도발적인 양가적 매력을 발산했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/683a02da-806c-42bc-b29b-9ef6a8ef9ae8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PARIS SYNDROME]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76043</link>
-            <guid>https://www.esquirekorea.co.kr/article/76043</guid>
-            <pubDate>Sat, 01 Apr 2023 15:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[셀린느 옴므의 2023년 겨울 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/06cb1729-aa8e-47ff-b43b-34f593902918.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올봄 교복은 이것!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76087</link>
-            <guid>https://www.esquirekorea.co.kr/article/76087</guid>
-            <pubDate>Sat, 01 Apr 2023 15:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[편안한 걸 좋아하는 커플에게 이 옷을 추천한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/159c4aa8-24d3-4756-8412-7b98759ec644.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
