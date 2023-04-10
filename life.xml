@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 15:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 03:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밑반찬을 푸짐하게 내주는 횟집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76523</link>
+            <guid>https://www.esquirekorea.co.kr/article/76523</guid>
+            <pubDate>Mon, 10 Apr 2023 03:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[일명 ‘스끼다시’를 60가지 내주는 곳부터 꽃게찜을 서비스로 주는 곳까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/429a11e8-1c40-4844-85ac-acf57a3d361c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동남아 국가들이 '그린 엔진'에 총력을 기울이는 이유]]></title>
             <link>https://www.esquirekorea.co.kr/article/76027</link>
@@ -60,14 +68,6 @@
             <pubDate>Thu, 06 Apr 2023 03:19:52 GMT</pubDate>
             <content:encoded><![CDATA[도심을 떠나 한적하게 식사하기 좋은 숲속 레스토랑을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/d2b2543c-7c06-434c-9900-24f1c47a0f6d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식객 허영만 맛집 2023 ver.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76474</link>
-            <guid>https://www.esquirekorea.co.kr/article/76474</guid>
-            <pubDate>Thu, 06 Apr 2023 03:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[허영만 화백이 새롭게 알게된 꺼먹지 맛집부터 고기 시키면 술이 서비스로 나오는 곳까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/54844cc2-41df-43c7-92c5-adce80520fd7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

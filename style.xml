@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 15:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 03:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[깅엄체크를 입는 날]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76495</link>
+            <guid>https://www.esquirekorea.co.kr/article/76495</guid>
+            <pubDate>Mon, 10 Apr 2023 03:18:50 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/ca8d802b-be1f-4266-8765-7b6505094ef3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주얼리를 한 남자]]></title>
             <link>https://www.esquirekorea.co.kr/article/76477</link>
@@ -61,14 +68,6 @@
             <pubDate>Mon, 03 Apr 2023 15:19:39 GMT</pubDate>
             <content:encoded><![CDATA[버버리의 담백한 우아미부터 나타샤 진코의 우악스러움까지, 런던 패션위크 2023 F/W를 대표하는...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/c6dc9fec-2597-4746-a6a5-b8066e1e15bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<사랑이라 말해요> 배우 안희연 화보 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76110</link>
-            <guid>https://www.esquirekorea.co.kr/article/76110</guid>
-            <pubDate>Sun, 02 Apr 2023 15:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[청초하면서도 도발적인 양가적 매력을 발산했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/683a02da-806c-42bc-b29b-9ef6a8ef9ae8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

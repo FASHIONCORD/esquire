@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 15:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 03:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 경기 숲 뷰 레스토랑 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76475</link>
+            <guid>https://www.esquirekorea.co.kr/article/76475</guid>
+            <pubDate>Mon, 10 Apr 2023 03:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[도심을 떠나 한적하게 식사하기 좋은 숲속 레스토랑을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/d2b2543c-7c06-434c-9900-24f1c47a0f6d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[식객 허영만 맛집 2023 ver.]]></title>
             <link>https://www.esquirekorea.co.kr/article/76474</link>
@@ -61,14 +69,6 @@
             <pubDate>Tue, 04 Apr 2023 15:22:32 GMT</pubDate>
             <content:encoded><![CDATA[접근 제한 구역이었던 2층에 올라갈 수 있다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/01/c86c4715-206c-46a1-ac20-6d372ed5067b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울의 무제한 칵테일 바 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76390</link>
-            <guid>https://www.esquirekorea.co.kr/article/76390</guid>
-            <pubDate>Tue, 04 Apr 2023 09:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[칵테일부터 위스키 그리고 생맥주까지 모두 무제한으로 즐길 수 있다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/31/4b135416-6bd1-4baf-aa05-621d46ab9e8b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
