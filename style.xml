@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 09:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 15:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에디슬리먼이 만든 향수]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76514</link>
+            <guid>https://www.esquirekorea.co.kr/article/76514</guid>
+            <pubDate>Mon, 10 Apr 2023 15:17:36 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/f1257828-43be-4cb4-9d50-463029b7c93e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[깅엄체크를 입는 날]]></title>
             <link>https://www.esquirekorea.co.kr/article/76495</link>
@@ -60,14 +67,6 @@
             <pubDate>Tue, 04 Apr 2023 15:20:25 GMT</pubDate>
             <content:encoded><![CDATA[정국은 원래도 캘빈클라인의 팬이었다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/6204e36f-0759-4ec2-a65a-1d7d38456649.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버버리부터 몽클레르까지 런던 패션위크 2023 FW 리뷰]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76142</link>
-            <guid>https://www.esquirekorea.co.kr/article/76142</guid>
-            <pubDate>Mon, 03 Apr 2023 15:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[버버리의 담백한 우아미부터 나타샤 진코의 우악스러움까지, 런던 패션위크 2023 F/W를 대표하는...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/27/c6dc9fec-2597-4746-a6a5-b8066e1e15bf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
