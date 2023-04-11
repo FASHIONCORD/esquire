@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 15:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 03:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나들이 필수템! 카메라 대여해주는 곳 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76535</link>
+            <guid>https://www.esquirekorea.co.kr/article/76535</guid>
+            <pubDate>Tue, 11 Apr 2023 03:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[카메라 구입이 가능한 곳부터 커피와 함께 즐길 수 있는 곳까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/439ddee7-4c4c-44b3-9798-f4f49c201124.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밑반찬을 푸짐하게 내주는 횟집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76523</link>
@@ -60,14 +68,6 @@
             <guid>https://www.esquirekorea.co.kr/article/76478</guid>
             <pubDate>Thu, 06 Apr 2023 15:18:20 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/55a51f85-1a64-458e-a4e9-0cc4c9984117.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 경기 숲 뷰 레스토랑 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76475</link>
-            <guid>https://www.esquirekorea.co.kr/article/76475</guid>
-            <pubDate>Thu, 06 Apr 2023 03:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[도심을 떠나 한적하게 식사하기 좋은 숲속 레스토랑을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/d2b2543c-7c06-434c-9900-24f1c47a0f6d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
