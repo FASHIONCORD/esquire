@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 09:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 15:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[짜장면이 하얗다고? 전국 백짜장 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76561</link>
+            <guid>https://www.esquirekorea.co.kr/article/76561</guid>
+            <pubDate>Tue, 11 Apr 2023 15:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[‘백종원의 3대 천왕'과 ‘신서유기'에도 소개되었던 이색 짜장면 맛집.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/0bfe27b0-3bfa-4dcc-b8aa-8b677f9a55e1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울의 만두전골 노포 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76547</link>
+            <guid>https://www.esquirekorea.co.kr/article/76547</guid>
+            <pubDate>Tue, 11 Apr 2023 15:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[미쉐린 가이드에 6번 이상 선정된 곳부터 45년 전통의 만두 맛집까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/09/8fe2c434-0cda-49aa-bf29-c10f5e604ea1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밑반찬을 푸짐하게 내주는 횟집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76523</link>
+            <guid>https://www.esquirekorea.co.kr/article/76523</guid>
+            <pubDate>Tue, 11 Apr 2023 15:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[일명 ‘스끼다시’를 60가지 내주는 곳부터 꽃게찜을 서비스로 주는 곳까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/429a11e8-1c40-4844-85ac-acf57a3d361c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영화관이 있는 전국 카페 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76504</link>
@@ -46,29 +70,6 @@
             <pubDate>Fri, 07 Apr 2023 09:18:17 GMT</pubDate>
             <content:encoded><![CDATA[백종원이 극찬한 소머리국밥집부터 단일 메뉴로 50년 넘게 세월을 지켜온 곳까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/040b7190-73e5-4f80-925a-5f472703e493.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50년 넘게 운영 중인 곱창 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76466</link>
-            <guid>https://www.esquirekorea.co.kr/article/76466</guid>
-            <pubDate>Thu, 06 Apr 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[70년 동안 한자리를 지킨 곳부터 백종원이 포장해 간 양념 직화 곱창까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/96f13fea-11cb-4635-8b2b-26a469069cb7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루이비통, 한국에 세 번째 팝업 레스토랑 개설 예정]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76447</link>
-            <guid>https://www.esquirekorea.co.kr/article/76447</guid>
-            <pubDate>Wed, 05 Apr 2023 15:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[런던의 미슐랭 2스타 레스토랑 ‘이코이’와 함께 협업한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/01579177-7884-4123-90e2-e301cb946a4f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스카치도 버번도 아닌 다른 위스키들]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76408</link>
-            <guid>https://www.esquirekorea.co.kr/article/76408</guid>
-            <pubDate>Tue, 04 Apr 2023 15:22:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/0882e6b2-cba9-40ff-aed3-7218cff4461a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 09:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 15:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이콘(iKON)의 빛나는 화보]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76510</link>
+            <guid>https://www.esquirekorea.co.kr/article/76510</guid>
+            <pubDate>Tue, 11 Apr 2023 15:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[에스콰이어 홈페이지에서만 볼 수 있는 컷도 준비되어 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/8526faab-3189-4deb-820a-5c353d321a22.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신인 보이그룹 도재정 데뷔 초읽기! NCT 도영, 재현, 정우의 TMI 15.]]></title>
             <link>https://www.esquirekorea.co.kr/article/76463</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 04 Apr 2023 03:20:13 GMT</pubDate>
             <content:encoded><![CDATA[정국은 원래도 캘빈클라인의 팬이었다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/6204e36f-0759-4ec2-a65a-1d7d38456649.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계선수권 대회에서 은메달을 딴 차준환 선수. 아역배우 출신 차준환의 TMI 11.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76238</link>
-            <guid>https://www.esquirekorea.co.kr/article/76238</guid>
-            <pubDate>Thu, 30 Mar 2023 15:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[차준환이 생각하는 깻잎 논쟁은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/37074234-64e8-4875-95a4-d6cf81f10a5a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

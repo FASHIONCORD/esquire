@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 09:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 15:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['피터팬 & 웬디' 공식 예고편 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76591</link>
+            <guid>https://www.esquirekorea.co.kr/article/76591</guid>
+            <pubDate>Tue, 11 Apr 2023 15:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니 플러스에 4월 28일 공개.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/b664dc3a-4b02-4aa2-9758-65c440f90bd3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이스라엘 아데산야, UFC 287 알렉스 페레이라에게 7년 만에 승리]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76559</link>
+            <guid>https://www.esquirekorea.co.kr/article/76559</guid>
+            <pubDate>Tue, 11 Apr 2023 15:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[미들급 챔피언 타이틀을 탈환했다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/559c5777-b431-4eed-8be5-3865432301c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울시, 반려식물 종합병원 개원]]></title>
             <link>https://www.esquirekorea.co.kr/article/76546</link>
@@ -53,22 +69,6 @@
             <pubDate>Sun, 09 Apr 2023 09:17:25 GMT</pubDate>
             <content:encoded><![CDATA[흔히 동남아라고 불리는 아세안 지역이 세계 시장의 눈길을 끌고 있다. 발전의 흐름에 올라타기...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/9ee16e78-3080-418a-a4d8-5fff06979c36.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화관이 있는 전국 카페 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76504</link>
-            <guid>https://www.esquirekorea.co.kr/article/76504</guid>
-            <pubDate>Sat, 08 Apr 2023 03:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[영화관을 무료로 대관해 주는 곳부터 제주 바다가 보이는 영화관카페까지]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/dbb2129c-07df-4513-994c-0f2dbc09b138.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바비 인형이 영화로 돌아온다고?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76502</link>
-            <guid>https://www.esquirekorea.co.kr/article/76502</guid>
-            <pubDate>Fri, 07 Apr 2023 15:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[바비는 마고로비가, 켄은 라이언 고슬링이 맡았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/15e53405-648b-4389-922e-0b20d7888e24.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
