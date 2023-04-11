@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 03:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 09:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신인 보이그룹 도재정 데뷔 초읽기! NCT 도영, 재현, 정우의 TMI 15.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76463</link>
+            <guid>https://www.esquirekorea.co.kr/article/76463</guid>
+            <pubDate>Tue, 11 Apr 2023 09:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[떡잎부터 남달랐던 도재정은 학창 시절부터 인기를 몰고 다녔다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/7d622ac5-615e-47fa-aa53-4b481e902cb7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트위터의 상징, 파랑새 로고가 사라졌다.]]></title>
             <link>https://www.esquirekorea.co.kr/article/76448</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 30 Mar 2023 15:23:53 GMT</pubDate>
             <content:encoded><![CDATA[차준환이 생각하는 깻잎 논쟁은?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/37074234-64e8-4875-95a4-d6cf81f10a5a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<그것이 알고 싶다>의 간판 PD 배정훈이 '100% 리얼 수사 다큐멘터리' <국가수사본부>로 돌아온 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75984</link>
-            <guid>https://www.esquirekorea.co.kr/article/75984</guid>
-            <pubDate>Thu, 30 Mar 2023 09:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;그것이 알고 싶다&gt;의 간판 PD 배정훈이  ‘100% 리얼 수사 다큐멘터리’ &lt;국가수사본부&gt;로 돌...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/ce5cf631-5e61-4256-9775-641ed01c4d6f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 03:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 09:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내 첫 민간 우주발사체 시험 발사 성공]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76010</link>
+            <guid>https://www.esquirekorea.co.kr/article/76010</guid>
+            <pubDate>Tue, 11 Apr 2023 09:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[한국판 스페이스 X 시대가 막이 올랐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/464bf3b0-bba1-41a0-aec8-8c4262ff7180.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플 페이, 한국에서 공식 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/76007</link>
@@ -62,13 +70,6 @@
             <pubDate>Tue, 21 Mar 2023 03:20:44 GMT</pubDate>
             <content:encoded><![CDATA[봄의 개나리를 닮은 색이 찾아왔다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/579199f8-1702-44ea-a90e-b4a27b0b7e2b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크기보다 중요한 건 테크닉]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75626</link>
-            <guid>https://www.esquirekorea.co.kr/article/75626</guid>
-            <pubDate>Sat, 18 Mar 2023 03:21:35 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/08/512196c7-ae99-4916-b924-b865c36263ec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
