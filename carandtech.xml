@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 09:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 15:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[루이 비통의 3세대 이어폰은 노이즈 캔슬링 이어폰으로서의 기능은 물론, '패션 액세서리'로서의 역할도 톡톡히 한다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76054</link>
+            <guid>https://www.esquirekorea.co.kr/article/76054</guid>
+            <pubDate>Wed, 12 Apr 2023 15:19:43 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/1fc8d66f-b63b-4efc-bc5a-0a2458306975.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국내 첫 민간 우주발사체 시험 발사 성공]]></title>
             <link>https://www.esquirekorea.co.kr/article/76010</link>
@@ -62,14 +69,6 @@
             <pubDate>Tue, 21 Mar 2023 09:20:07 GMT</pubDate>
             <content:encoded><![CDATA[용기에 침만 뱉으면 검체 채취가 끝난다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/11/294759a6-cd0b-4133-b961-f06fbff3524f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나랑, 노랑! 아이폰14에 찾아온 옐로 컬러]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75681</link>
-            <guid>https://www.esquirekorea.co.kr/article/75681</guid>
-            <pubDate>Tue, 21 Mar 2023 03:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[봄의 개나리를 닮은 색이 찾아왔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/09/579199f8-1702-44ea-a90e-b4a27b0b7e2b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
