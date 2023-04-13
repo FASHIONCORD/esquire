@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 15:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 03:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사이비 종교에 빠지면 벗어나지 못하는 이유 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75865</link>
+            <guid>https://www.esquirekorea.co.kr/article/75865</guid>
+            <pubDate>Thu, 13 Apr 2023 03:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[‘나는 신이다’를 보고 ‘왜 저래?’를 외쳤던 이들이라면 꼭 읽어 보길.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/fa59fe6e-9317-42f2-8048-6b75ab9d8336.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클래식 마니아들을 위한 애플 뮤직 클래식 앱 등장]]></title>
             <link>https://www.esquirekorea.co.kr/article/75754</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 12 Mar 2023 09:19:03 GMT</pubDate>
             <content:encoded><![CDATA[소변이라고 노란색만 있는 것은 아니다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/fce28231-a6f1-49df-8786-98584265be37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 제이홉, 솔로 싱글 곡 발표]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75365</link>
-            <guid>https://www.esquirekorea.co.kr/article/75365</guid>
-            <pubDate>Sun, 12 Mar 2023 09:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[오는 3월 3일 뮤직비디오도 함께 공개된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/6ddbbef9-ee0d-4b03-a443-5f1e2b3ff857.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
