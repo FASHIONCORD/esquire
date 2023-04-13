@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 09:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 15:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1257,6 +1257,13 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/25/76570013-411d-4695-a80e-21f1bb310b6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[부업 유튜버, 본업 변호사가 본 유튜브의 어두운 생태계 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76328</link>
+            <guid>https://www.esquirekorea.co.kr/article/76328</guid>
+            <pubDate>Thu, 13 Apr 2023 15:19:53 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/f842a37c-a436-4c3e-bb4b-fd99dacb515b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[구글 검색창을 망가뜨리는 그로구가 나타났다 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/76104</link>
             <guid>https://www.esquirekorea.co.kr/article/76104</guid>
@@ -1310,14 +1317,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 22 Mar 2023 15:21:22 GMT</pubDate>
             <content:encoded><![CDATA[개점일 오픈 시간 체크하고 가자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/cd81e1c0-9620-4280-a4b4-90a2bc6de52d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스웨덴 전기바이크의 등장 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75737</link>
-            <guid>https://www.esquirekorea.co.kr/article/75737</guid>
-            <pubDate>Tue, 21 Mar 2023 09:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[디자인과 성능 어느 것도 놓치지 않았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/12/52febb1c-5d84-4a98-a55c-ae4f7c7678d8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빌보드 1위! BTS 지민이 다녀간 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1384,10 +1383,26 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/54844cc2-41df-43c7-92c5-adce80520fd7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[서울 도루묵 구이 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76602</link>
+            <guid>https://www.esquirekorea.co.kr/article/76602</guid>
+            <pubDate>Thu, 13 Apr 2023 15:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[서울에서 유독 찾기 힘든 도루묵 구이를 40년째 내주는 맛집?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/71e14687-225d-4682-bebb-8578c5c0b076.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘인디아나 존스: 운명의 다이얼’ 메인 예고편 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76599</link>
+            <guid>https://www.esquirekorea.co.kr/article/76599</guid>
+            <pubDate>Thu, 13 Apr 2023 15:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[오는 6월 개봉 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/6ab48d0a-efa4-4fa8-af45-2979249d2abc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빌보드 1위! BTS 지민이 다녀간 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/76598</link>
             <guid>https://www.esquirekorea.co.kr/article/76598</guid>
-            <pubDate>Thu, 13 Apr 2023 09:19:43 GMT</pubDate>
+            <pubDate>Thu, 13 Apr 2023 09:19:20 GMT</pubDate>
             <content:encoded><![CDATA[지민의 어릴 적 추억이 담긴 중국집부터 멤버들과 함께 가는 단골 고깃집까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/f0420bce-3ece-4dd9-8e56-abb8e3522497.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1431,20 +1446,11 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/08/4e90a014-8cb8-4f86-b376-8feff8be057c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나들이 필수템! 카메라 대여해주는 곳 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76535</link>
-            <guid>https://www.esquirekorea.co.kr/article/76535</guid>
-            <pubDate>Tue, 11 Apr 2023 03:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[카메라 구입이 가능한 곳부터 커피와 함께 즐길 수 있는 곳까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/439ddee7-4c4c-44b3-9798-f4f49c201124.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밑반찬을 푸짐하게 내주는 횟집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76523</link>
-            <guid>https://www.esquirekorea.co.kr/article/76523</guid>
-            <pubDate>Mon, 10 Apr 2023 03:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[일명 ‘스끼다시’를 60가지 내주는 곳부터 꽃게찜을 서비스로 주는 곳까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/429a11e8-1c40-4844-85ac-acf57a3d361c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[아이콘 십년지기 우정 금 간 날? (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76522</link>
+            <guid>https://www.esquirekorea.co.kr/article/76522</guid>
+            <pubDate>Thu, 13 Apr 2023 15:20:28 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/8accdcd1-c371-49c5-b64c-070795283dce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이콘(iKON)의 빛나는 화보 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1501,14 +1507,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 04 Apr 2023 09:19:45 GMT</pubDate>
             <content:encoded><![CDATA[팀버랜드 부츠의 50주년을 기념하는 퓨처 73 프로젝트가 공개됐다. 퓨처 메이커 움베르토 레온과...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/d83cc89d-9b9a-4a74-abaf-3296bc413558.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, 캘빈클라인 글로벌 엠버서더 발탁 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76244</link>
-            <guid>https://www.esquirekorea.co.kr/article/76244</guid>
-            <pubDate>Tue, 04 Apr 2023 03:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[정국은 원래도 캘빈클라인의 팬이었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/28/6204e36f-0759-4ec2-a65a-1d7d38456649.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사이비 종교에 빠지면 벗어나지 못하는 이유 4 (에스콰이어 코리아 ─ 나우)]]></title>

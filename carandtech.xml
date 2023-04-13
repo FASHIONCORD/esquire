@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 09:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 15:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부업 유튜버, 본업 변호사가 본 유튜브의 어두운 생태계]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76328</link>
+            <guid>https://www.esquirekorea.co.kr/article/76328</guid>
+            <pubDate>Thu, 13 Apr 2023 15:19:53 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/f842a37c-a436-4c3e-bb4b-fd99dacb515b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글 검색창을 망가뜨리는 그로구가 나타났다]]></title>
             <link>https://www.esquirekorea.co.kr/article/76104</link>
@@ -61,14 +68,6 @@
             <pubDate>Wed, 22 Mar 2023 15:21:22 GMT</pubDate>
             <content:encoded><![CDATA[개점일 오픈 시간 체크하고 가자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/cd81e1c0-9620-4280-a4b4-90a2bc6de52d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스웨덴 전기바이크의 등장]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75737</link>
-            <guid>https://www.esquirekorea.co.kr/article/75737</guid>
-            <pubDate>Tue, 21 Mar 2023 09:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[디자인과 성능 어느 것도 놓치지 않았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/12/52febb1c-5d84-4a98-a55c-ae4f7c7678d8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
