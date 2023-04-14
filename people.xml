@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 15:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 03:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연우가 촬영 전 먹는 붓기 관리 아이템?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76567</link>
+            <guid>https://www.esquirekorea.co.kr/article/76567</guid>
+            <pubDate>Fri, 14 Apr 2023 03:20:50 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/730ba6a0-fb5e-45c5-8b21-9861fe4643c9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이콘 십년지기 우정 금 간 날?]]></title>
             <link>https://www.esquirekorea.co.kr/article/76522</link>
@@ -61,14 +68,6 @@
             <pubDate>Thu, 06 Apr 2023 09:19:34 GMT</pubDate>
             <content:encoded><![CDATA[타이거 맥주 신제품도 함께 공개했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/34e19c79-1786-4bc5-b00c-d3b486177ea2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팀버랜드 부츠 50주년을 탄생을 기념하는 퓨처 73 프로젝트]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76294</link>
-            <guid>https://www.esquirekorea.co.kr/article/76294</guid>
-            <pubDate>Tue, 04 Apr 2023 09:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[팀버랜드 부츠의 50주년을 기념하는 퓨처 73 프로젝트가 공개됐다. 퓨처 메이커 움베르토 레온과...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/d83cc89d-9b9a-4a74-abaf-3296bc413558.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

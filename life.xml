@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 15:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 03:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숙성회 무한리필 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76608</link>
+            <guid>https://www.esquirekorea.co.kr/article/76608</guid>
+            <pubDate>Fri, 14 Apr 2023 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[7가지 숙성회를 내어주는 곳부터 바다를 바라보며 먹을 수 있는 곳까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/1330fda0-6352-4257-a1b3-d4e520572481.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울 도루묵 구이 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76602</link>
@@ -62,13 +70,6 @@
             <pubDate>Tue, 11 Apr 2023 09:19:43 GMT</pubDate>
             <content:encoded><![CDATA["좋았어?"라는 말 대신 필요한 한마디]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/08/3f8ae4a0-b8a7-43ae-8490-b6d6725f9f5b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 세계적 화두, '15분 도시'에 대해 창안자에게 직접 의미를 물었다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76536</link>
-            <guid>https://www.esquirekorea.co.kr/article/76536</guid>
-            <pubDate>Tue, 11 Apr 2023 09:19:43 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/08/4e90a014-8cb8-4f86-b376-8feff8be057c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 15:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 03:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1319,6 +1319,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/cd81e1c0-9620-4280-a4b4-90a2bc6de52d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[서울 도루묵 구이 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76602</link>
+            <guid>https://www.esquirekorea.co.kr/article/76602</guid>
+            <pubDate>Thu, 13 Apr 2023 15:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[서울에서 유독 찾기 힘든 도루묵 구이를 40년째 내주는 맛집?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/71e14687-225d-4682-bebb-8578c5c0b076.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빌보드 1위! BTS 지민이 다녀간 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/76598</link>
             <guid>https://www.esquirekorea.co.kr/article/76598</guid>
@@ -1375,12 +1383,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/d2b2543c-7c06-434c-9900-24f1c47a0f6d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[식객 허영만 맛집 2023 ver. (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76474</link>
-            <guid>https://www.esquirekorea.co.kr/article/76474</guid>
-            <pubDate>Thu, 06 Apr 2023 03:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[허영만 화백이 새롭게 알게된 꺼먹지 맛집부터 고기 시키면 술이 서비스로 나오는 곳까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/54844cc2-41df-43c7-92c5-adce80520fd7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[숙성회 무한리필 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76608</link>
+            <guid>https://www.esquirekorea.co.kr/article/76608</guid>
+            <pubDate>Fri, 14 Apr 2023 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[7가지 숙성회를 내어주는 곳부터 바다를 바라보며 먹을 수 있는 곳까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/1330fda0-6352-4257-a1b3-d4e520572481.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울 도루묵 구이 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1439,11 +1447,11 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/08/3f8ae4a0-b8a7-43ae-8490-b6d6725f9f5b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전 세계적 화두, '15분 도시'에 대해 창안자에게 직접 의미를 물었다 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76536</link>
-            <guid>https://www.esquirekorea.co.kr/article/76536</guid>
-            <pubDate>Tue, 11 Apr 2023 09:19:43 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/08/4e90a014-8cb8-4f86-b376-8feff8be057c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[연우가 촬영 전 먹는 붓기 관리 아이템? (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76567</link>
+            <guid>https://www.esquirekorea.co.kr/article/76567</guid>
+            <pubDate>Fri, 14 Apr 2023 03:20:50 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/730ba6a0-fb5e-45c5-8b21-9861fe4643c9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이콘 십년지기 우정 금 간 날? (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1499,14 +1507,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 06 Apr 2023 09:19:34 GMT</pubDate>
             <content:encoded><![CDATA[타이거 맥주 신제품도 함께 공개했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/34e19c79-1786-4bc5-b00c-d3b486177ea2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팀버랜드 부츠 50주년을 탄생을 기념하는 퓨처 73 프로젝트 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76294</link>
-            <guid>https://www.esquirekorea.co.kr/article/76294</guid>
-            <pubDate>Tue, 04 Apr 2023 09:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[팀버랜드 부츠의 50주년을 기념하는 퓨처 73 프로젝트가 공개됐다. 퓨처 메이커 움베르토 레온과...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/29/d83cc89d-9b9a-4a74-abaf-3296bc413558.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사이비 종교에 빠지면 벗어나지 못하는 이유 4 (에스콰이어 코리아 ─ 나우)]]></title>

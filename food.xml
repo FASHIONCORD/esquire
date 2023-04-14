@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 15:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 03:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 도루묵 구이 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76602</link>
+            <guid>https://www.esquirekorea.co.kr/article/76602</guid>
+            <pubDate>Fri, 14 Apr 2023 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[서울에서 유독 찾기 힘든 도루묵 구이를 40년째 내주는 맛집?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/71e14687-225d-4682-bebb-8578c5c0b076.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빌보드 1위! BTS 지민이 다녀간 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76598</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 10 Apr 2023 03:19:16 GMT</pubDate>
             <content:encoded><![CDATA[도심을 떠나 한적하게 식사하기 좋은 숲속 레스토랑을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/04/d2b2543c-7c06-434c-9900-24f1c47a0f6d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식객 허영만 맛집 2023 ver.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76474</link>
-            <guid>https://www.esquirekorea.co.kr/article/76474</guid>
-            <pubDate>Sun, 09 Apr 2023 09:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[허영만 화백이 새롭게 알게된 꺼먹지 맛집부터 고기 시키면 술이 서비스로 나오는 곳까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/54844cc2-41df-43c7-92c5-adce80520fd7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
