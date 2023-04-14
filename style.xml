@@ -4,7 +4,7 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 03:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 09:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,12 +61,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/03/1ce8cb08-ac29-4252-81c0-ec2595c0ddf4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[산과 하이킹 슈즈 제짝 찾기 '하이킹 매치메이커']]></title>
-            <link>https://www.esquirekorea.co.kr/article/76005</link>
-            <guid>https://www.esquirekorea.co.kr/article/76005</guid>
-            <pubDate>Thu, 06 Apr 2023 15:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[산행에서 가장 중요한 건 하이킹 슈즈의 선택이다. 다양한 한국 산의 땅들을 어떤 신발을 신고...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/02/51bf5cd7-7975-437a-b758-e6dca4de6eb7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[하이킹 슈즈 '무브'와 '트라이포드 미드'의 대안이 없는 이유]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76003</link>
+            <guid>https://www.esquirekorea.co.kr/article/76003</guid>
+            <pubDate>Fri, 14 Apr 2023 09:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[새롭게 돌아온 코오롱스포츠의 시그니처 하이킹 슈즈 모델 ‘무브’와 ‘트라이포드 미드’. 이 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/02/fccb39e1-0b9b-46d9-8d5f-9e81296bb68c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
