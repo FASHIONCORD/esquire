@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 03:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 09:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한강뷰 8만원 이하 고급 코스 요리 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76612</link>
+            <guid>https://www.esquirekorea.co.kr/article/76612</guid>
+            <pubDate>Sat, 15 Apr 2023 09:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[평범한 일상 속 특별함을 선사해 줄 레스토랑을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/1a17b013-a801-4683-a558-7be9150d59b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[숙성회 무한리필 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76608</link>
+            <guid>https://www.esquirekorea.co.kr/article/76608</guid>
+            <pubDate>Sat, 15 Apr 2023 09:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[7가지 숙성회를 내어주는 곳부터 바다를 바라보며 먹을 수 있는 곳까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/1330fda0-6352-4257-a1b3-d4e520572481.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울 순대카세 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76607</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 11 Apr 2023 15:20:11 GMT</pubDate>
             <content:encoded><![CDATA[일명 ‘스끼다시’를 60가지 내주는 곳부터 꽃게찜을 서비스로 주는 곳까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/429a11e8-1c40-4844-85ac-acf57a3d361c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화관이 있는 전국 카페 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76504</link>
-            <guid>https://www.esquirekorea.co.kr/article/76504</guid>
-            <pubDate>Tue, 11 Apr 2023 09:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[영화관을 무료로 대관해 주는 곳부터 제주 바다가 보이는 영화관카페까지]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/dbb2129c-07df-4513-994c-0f2dbc09b138.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모든 안주가 만원대 이하인 서울 주점 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76492</link>
-            <guid>https://www.esquirekorea.co.kr/article/76492</guid>
-            <pubDate>Tue, 11 Apr 2023 09:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[메인 메뉴가 전부 5,900원인 맛집부터 50여 종의 안주를 내어주는 이자카야까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/65030027-e7db-4048-b014-cc51715ca91d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

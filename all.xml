@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 03:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 09:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1318,6 +1318,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/cd81e1c0-9620-4280-a4b4-90a2bc6de52d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한강뷰 8만원 이하 고급 코스 요리 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76612</link>
+            <guid>https://www.esquirekorea.co.kr/article/76612</guid>
+            <pubDate>Sat, 15 Apr 2023 09:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[평범한 일상 속 특별함을 선사해 줄 레스토랑을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/1a17b013-a801-4683-a558-7be9150d59b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[숙성회 무한리필 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76608</link>
+            <guid>https://www.esquirekorea.co.kr/article/76608</guid>
+            <pubDate>Fri, 14 Apr 2023 03:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[7가지 숙성회를 내어주는 곳부터 바다를 바라보며 먹을 수 있는 곳까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/1330fda0-6352-4257-a1b3-d4e520572481.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서울 순대카세 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/76607</link>
             <guid>https://www.esquirekorea.co.kr/article/76607</guid>
@@ -1366,20 +1382,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/429a11e8-1c40-4844-85ac-acf57a3d361c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영화관이 있는 전국 카페 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76504</link>
-            <guid>https://www.esquirekorea.co.kr/article/76504</guid>
-            <pubDate>Sat, 08 Apr 2023 03:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[영화관을 무료로 대관해 주는 곳부터 제주 바다가 보이는 영화관카페까지]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/dbb2129c-07df-4513-994c-0f2dbc09b138.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모든 안주가 만원대 이하인 서울 주점 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76492</link>
-            <guid>https://www.esquirekorea.co.kr/article/76492</guid>
-            <pubDate>Fri, 07 Apr 2023 09:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[메인 메뉴가 전부 5,900원인 맛집부터 50여 종의 안주를 내어주는 이자카야까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/05/65030027-e7db-4048-b014-cc51715ca91d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘시티 포레스티벌 2023’ 5월 20일 노들섬 개최 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76653</link>
+            <guid>https://www.esquirekorea.co.kr/article/76653</guid>
+            <pubDate>Sat, 15 Apr 2023 09:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[다채로운 운동 클래스부터 뮤직 페스티벌까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/59179a81-ac6a-4b6a-851f-c8a832ffbc01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리가 살고 싶은 도시 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1436,14 +1444,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 11 Apr 2023 15:20:21 GMT</pubDate>
             <content:encoded><![CDATA[미들급 챔피언 타이틀을 탈환했다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/559c5777-b431-4eed-8be5-3865432301c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시, 반려식물 종합병원 개원 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76546</link>
-            <guid>https://www.esquirekorea.co.kr/article/76546</guid>
-            <pubDate>Tue, 11 Apr 2023 09:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[진단실부터 처방실, 치료실까지 모두 갖췄다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/09/5f2aa31d-4e64-45e2-8c4b-6d6ae6074fb1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이콘(iKON)과 함께한 에술콰이어 (에스콰이어 코리아 ─ 피플)]]></title>
