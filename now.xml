@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 03:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 09:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먹으면 설사 예약! 설사를 유발하는 의외의 식품 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76042</link>
+            <guid>https://www.esquirekorea.co.kr/article/76042</guid>
+            <pubDate>Sun, 16 Apr 2023 09:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[몸에 좋다는 마늘, 브로콜리 마저?!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/1ad10063-eff0-4345-8308-c4b62f195a70.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사이비 종교에 빠지면 벗어나지 못하는 이유 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/75865</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 13 Mar 2023 03:22:17 GMT</pubDate>
             <content:encoded><![CDATA[가상과 현실의 모호한 경계를 허무는 그 첫 번째 이야기]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/03/0936db4c-ded3-43b6-ae39-0ed0fb802590.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소변색으로 알아보는 건강 상태]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75476</link>
-            <guid>https://www.esquirekorea.co.kr/article/75476</guid>
-            <pubDate>Sun, 12 Mar 2023 09:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[소변이라고 노란색만 있는 것은 아니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/02/fce28231-a6f1-49df-8786-98584265be37.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
