@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 03:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 09:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘시티 포레스티벌 2023’ 5월 20일 노들섬 개최]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76653</link>
+            <guid>https://www.esquirekorea.co.kr/article/76653</guid>
+            <pubDate>Mon, 17 Apr 2023 09:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[다채로운 운동 클래스부터 뮤직 페스티벌까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/59179a81-ac6a-4b6a-851f-c8a832ffbc01.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한강뷰 8만원 이하 고급 코스 요리 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76612</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 11 Apr 2023 15:20:11 GMT</pubDate>
             <content:encoded><![CDATA[미쉐린 가이드에 6번 이상 선정된 곳부터 45년 전통의 만두 맛집까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/09/8fe2c434-0cda-49aa-bf29-c10f5e604ea1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밑반찬을 푸짐하게 내주는 횟집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76523</link>
-            <guid>https://www.esquirekorea.co.kr/article/76523</guid>
-            <pubDate>Tue, 11 Apr 2023 15:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[일명 ‘스끼다시’를 60가지 내주는 곳부터 꽃게찜을 서비스로 주는 곳까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/429a11e8-1c40-4844-85ac-acf57a3d361c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
