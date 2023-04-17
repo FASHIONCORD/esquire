@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 09:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 15:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안재현이 매주 로또를 사는 이유?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76676</link>
+            <guid>https://www.esquirekorea.co.kr/article/76676</guid>
+            <pubDate>Mon, 17 Apr 2023 15:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[안재현의 쇼핑 리스트를 공개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/0e89a2de-6a79-4743-a1f5-cc3bd64d0d3b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이효리 새 인스타그램 개설]]></title>
             <link>https://www.esquirekorea.co.kr/article/76672</link>
@@ -60,14 +68,6 @@
             <guid>https://www.esquirekorea.co.kr/article/76522</guid>
             <pubDate>Thu, 13 Apr 2023 15:20:28 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/8accdcd1-c371-49c5-b64c-070795283dce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이콘(iKON)의 빛나는 화보]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76510</link>
-            <guid>https://www.esquirekorea.co.kr/article/76510</guid>
-            <pubDate>Tue, 11 Apr 2023 15:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[에스콰이어 홈페이지에서만 볼 수 있는 컷도 준비되어 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/8526faab-3189-4deb-820a-5c353d321a22.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
