@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 03:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 09:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1132,6 +1132,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2023년의 반바지 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76643</link>
+            <guid>https://www.esquirekorea.co.kr/article/76643</guid>
+            <pubDate>Tue, 18 Apr 2023 09:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[벌써 여름을 기다리며.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/3ea903ac-49aa-421e-baad-9c7ad05847ef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[컬러 레더 재킷 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/76615</link>
             <guid>https://www.esquirekorea.co.kr/article/76615</guid>
@@ -1184,13 +1192,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/76514</guid>
             <pubDate>Mon, 10 Apr 2023 15:17:36 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/f1257828-43be-4cb4-9d50-463029b7c93e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깅엄체크를 입는 날 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76495</link>
-            <guid>https://www.esquirekorea.co.kr/article/76495</guid>
-            <pubDate>Mon, 10 Apr 2023 03:18:50 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/06/ca8d802b-be1f-4266-8765-7b6505094ef3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제임스 본드 탄생 60주년을 기념하는 오메가 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1319,6 +1320,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/cd81e1c0-9620-4280-a4b4-90a2bc6de52d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이색 몸보신 메뉴! 파김치 장어 전골 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76698</link>
+            <guid>https://www.esquirekorea.co.kr/article/76698</guid>
+            <pubDate>Tue, 18 Apr 2023 09:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[얼큰한 감칠맛과 고소함이 넘치는 색다른 장어 요리로 원기충전해 보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/0d3c30d5-a5b2-4b17-b042-8273a346353c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어묵의 대변신! 어묵 오마카세 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76674</link>
+            <guid>https://www.esquirekorea.co.kr/article/76674</guid>
+            <pubDate>Tue, 18 Apr 2023 09:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[3대 전통의 역사를 가진 어묵부터 세상에서 제일 얇은 어묵까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/b1aa06a6-982e-48c5-9ef4-f51b6db72368.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘시티 포레스티벌 2023’ 5월 20일 노들섬 개최 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/76653</link>
             <guid>https://www.esquirekorea.co.kr/article/76653</guid>
@@ -1367,20 +1384,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/f0420bce-3ece-4dd9-8e56-abb8e3522497.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[짜장면이 하얗다고? 전국 백짜장 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76561</link>
-            <guid>https://www.esquirekorea.co.kr/article/76561</guid>
-            <pubDate>Tue, 11 Apr 2023 15:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[‘백종원의 3대 천왕'과 ‘신서유기'에도 소개되었던 이색 짜장면 맛집.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/0bfe27b0-3bfa-4dcc-b8aa-8b677f9a55e1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[박찬욱 감독의 신작 '동조자' 예고편 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76677</link>
+            <guid>https://www.esquirekorea.co.kr/article/76677</guid>
+            <pubDate>Tue, 18 Apr 2023 09:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[1인 다역을 맡은 로버트 다우니 주니어의 모습을 확인할 수 있다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/dc03bde4-eca9-42c5-ba00-762a9c9076b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울의 만두전골 노포 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76547</link>
-            <guid>https://www.esquirekorea.co.kr/article/76547</guid>
-            <pubDate>Tue, 11 Apr 2023 15:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[미쉐린 가이드에 6번 이상 선정된 곳부터 45년 전통의 만두 맛집까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/09/8fe2c434-0cda-49aa-bf29-c10f5e604ea1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[어묵의 대변신! 어묵 오마카세 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76674</link>
+            <guid>https://www.esquirekorea.co.kr/article/76674</guid>
+            <pubDate>Tue, 18 Apr 2023 09:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[3대 전통의 역사를 가진 어묵부터 세상에서 제일 얇은 어묵까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/b1aa06a6-982e-48c5-9ef4-f51b6db72368.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[돈두댓] 식상한 섹스를 타파할 이색적인 콘돔 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1429,22 +1446,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 13 Apr 2023 15:20:18 GMT</pubDate>
             <content:encoded><![CDATA[서울에서 유독 찾기 힘든 도루묵 구이를 40년째 내주는 맛집?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/71e14687-225d-4682-bebb-8578c5c0b076.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘인디아나 존스: 운명의 다이얼’ 메인 예고편 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76599</link>
-            <guid>https://www.esquirekorea.co.kr/article/76599</guid>
-            <pubDate>Thu, 13 Apr 2023 15:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[오는 6월 개봉 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/6ab48d0a-efa4-4fa8-af45-2979249d2abc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌보드 1위! BTS 지민이 다녀간 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76598</link>
-            <guid>https://www.esquirekorea.co.kr/article/76598</guid>
-            <pubDate>Thu, 13 Apr 2023 09:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[지민의 어릴 적 추억이 담긴 중국집부터 멤버들과 함께 가는 단골 고깃집까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/f0420bce-3ece-4dd9-8e56-abb8e3522497.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안재현이 매주 로또를 사는 이유? (에스콰이어 코리아 ─ 피플)]]></title>

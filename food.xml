@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 03:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 09:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이색 몸보신 메뉴! 파김치 장어 전골 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76698</link>
+            <guid>https://www.esquirekorea.co.kr/article/76698</guid>
+            <pubDate>Tue, 18 Apr 2023 09:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[얼큰한 감칠맛과 고소함이 넘치는 색다른 장어 요리로 원기충전해 보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/0d3c30d5-a5b2-4b17-b042-8273a346353c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어묵의 대변신! 어묵 오마카세 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76674</link>
+            <guid>https://www.esquirekorea.co.kr/article/76674</guid>
+            <pubDate>Tue, 18 Apr 2023 09:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[3대 전통의 역사를 가진 어묵부터 세상에서 제일 얇은 어묵까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/b1aa06a6-982e-48c5-9ef4-f51b6db72368.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘시티 포레스티벌 2023’ 5월 20일 노들섬 개최]]></title>
             <link>https://www.esquirekorea.co.kr/article/76653</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 13 Apr 2023 09:19:20 GMT</pubDate>
             <content:encoded><![CDATA[지민의 어릴 적 추억이 담긴 중국집부터 멤버들과 함께 가는 단골 고깃집까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/f0420bce-3ece-4dd9-8e56-abb8e3522497.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짜장면이 하얗다고? 전국 백짜장 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76561</link>
-            <guid>https://www.esquirekorea.co.kr/article/76561</guid>
-            <pubDate>Tue, 11 Apr 2023 15:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[‘백종원의 3대 천왕'과 ‘신서유기'에도 소개되었던 이색 짜장면 맛집.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/0bfe27b0-3bfa-4dcc-b8aa-8b677f9a55e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울의 만두전골 노포 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76547</link>
-            <guid>https://www.esquirekorea.co.kr/article/76547</guid>
-            <pubDate>Tue, 11 Apr 2023 15:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[미쉐린 가이드에 6번 이상 선정된 곳부터 45년 전통의 만두 맛집까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/09/8fe2c434-0cda-49aa-bf29-c10f5e604ea1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

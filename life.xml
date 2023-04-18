@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 03:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 09:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박찬욱 감독의 신작 '동조자' 예고편 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76677</link>
+            <guid>https://www.esquirekorea.co.kr/article/76677</guid>
+            <pubDate>Tue, 18 Apr 2023 09:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[1인 다역을 맡은 로버트 다우니 주니어의 모습을 확인할 수 있다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/dc03bde4-eca9-42c5-ba00-762a9c9076b9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어묵의 대변신! 어묵 오마카세 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76674</link>
+            <guid>https://www.esquirekorea.co.kr/article/76674</guid>
+            <pubDate>Tue, 18 Apr 2023 09:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[3대 전통의 역사를 가진 어묵부터 세상에서 제일 얇은 어묵까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/b1aa06a6-982e-48c5-9ef4-f51b6db72368.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[돈두댓] 식상한 섹스를 타파할 이색적인 콘돔 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76667</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 13 Apr 2023 15:20:18 GMT</pubDate>
             <content:encoded><![CDATA[서울에서 유독 찾기 힘든 도루묵 구이를 40년째 내주는 맛집?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/71e14687-225d-4682-bebb-8578c5c0b076.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘인디아나 존스: 운명의 다이얼’ 메인 예고편 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76599</link>
-            <guid>https://www.esquirekorea.co.kr/article/76599</guid>
-            <pubDate>Thu, 13 Apr 2023 15:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[오는 6월 개봉 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/6ab48d0a-efa4-4fa8-af45-2979249d2abc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌보드 1위! BTS 지민이 다녀간 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76598</link>
-            <guid>https://www.esquirekorea.co.kr/article/76598</guid>
-            <pubDate>Thu, 13 Apr 2023 09:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[지민의 어릴 적 추억이 담긴 중국집부터 멤버들과 함께 가는 단골 고깃집까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/f0420bce-3ece-4dd9-8e56-abb8e3522497.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
