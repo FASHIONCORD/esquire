@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 15:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 03:32:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[60년 넘게 운영한 삼겹살 노포 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76705</link>
+            <guid>https://www.esquirekorea.co.kr/article/76705</guid>
+            <pubDate>Wed, 19 Apr 2023 03:32:26 GMT</pubDate>
+            <content:encoded><![CDATA[70년 넘게 한자리에서 볏짚 삼겹살을 고집하는 곳?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/0a036826-aeed-4831-aaa5-facacc7953bf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박찬욱 감독의 신작 '동조자' 예고편 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/76677</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 14 Apr 2023 03:20:42 GMT</pubDate>
             <content:encoded><![CDATA[7가지 숙성회를 내어주는 곳부터 바다를 바라보며 먹을 수 있는 곳까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/1330fda0-6352-4257-a1b3-d4e520572481.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 도루묵 구이 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76602</link>
-            <guid>https://www.esquirekorea.co.kr/article/76602</guid>
-            <pubDate>Thu, 13 Apr 2023 15:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[서울에서 유독 찾기 힘든 도루묵 구이를 40년째 내주는 맛집?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/71e14687-225d-4682-bebb-8578c5c0b076.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
