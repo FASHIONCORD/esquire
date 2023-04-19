@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 09:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 15:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강동원과 열애설 난 블랙핑크 로제 TMI 12.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76741</link>
+            <guid>https://www.esquirekorea.co.kr/article/76741</guid>
+            <pubDate>Wed, 19 Apr 2023 15:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[미니언즈 바나나송 가사를 외우고 있다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/08556cf7-a817-4e00-b1c3-6a4985a9c26a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 리사의 이름, 새로운 꽃 이름으로 채택]]></title>
             <link>https://www.esquirekorea.co.kr/article/76679</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 14 Apr 2023 09:18:47 GMT</pubDate>
             <content:encoded><![CDATA[지민의 어릴 적 추억이 담긴 중국집부터 멤버들과 함께 가는 단골 고깃집까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/f0420bce-3ece-4dd9-8e56-abb8e3522497.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데뷔 앞둔 아이브 장원영 친언니 장다아 TMI 10]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76573</link>
-            <guid>https://www.esquirekorea.co.kr/article/76573</guid>
-            <pubDate>Fri, 14 Apr 2023 09:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[얼굴도 예쁜데 손마저 예뻐, 손 모델을 준비한 적이 있다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/3db89678-f3d8-4098-8036-34bdc93e8dda.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
