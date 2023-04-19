@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 03:32:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 09:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블랙핑크 리사의 이름, 새로운 꽃 이름으로 채택]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76679</link>
+            <guid>https://www.esquirekorea.co.kr/article/76679</guid>
+            <pubDate>Wed, 19 Apr 2023 09:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[한 번도 발견된 적 없는 태국의 멸종 위기종 식물]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/898a5cf0-845d-4fdf-b5db-291b7a690063.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박찬욱 감독의 신작 '동조자' 예고편 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76677</link>
+            <guid>https://www.esquirekorea.co.kr/article/76677</guid>
+            <pubDate>Wed, 19 Apr 2023 09:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[1인 다역을 맡은 로버트 다우니 주니어의 모습을 확인할 수 있다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/dc03bde4-eca9-42c5-ba00-762a9c9076b9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안재현이 매주 로또를 사는 이유?]]></title>
             <link>https://www.esquirekorea.co.kr/article/76676</link>
@@ -54,20 +70,6 @@
             <pubDate>Fri, 14 Apr 2023 09:18:47 GMT</pubDate>
             <content:encoded><![CDATA[얼굴도 예쁜데 손마저 예뻐, 손 모델을 준비한 적이 있다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/3db89678-f3d8-4098-8036-34bdc93e8dda.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연우가 촬영 전 먹는 붓기 관리 아이템?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76567</link>
-            <guid>https://www.esquirekorea.co.kr/article/76567</guid>
-            <pubDate>Fri, 14 Apr 2023 03:20:50 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/10/730ba6a0-fb5e-45c5-8b21-9861fe4643c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이콘 십년지기 우정 금 간 날?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76522</link>
-            <guid>https://www.esquirekorea.co.kr/article/76522</guid>
-            <pubDate>Thu, 13 Apr 2023 15:20:28 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/8accdcd1-c371-49c5-b64c-070795283dce.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
