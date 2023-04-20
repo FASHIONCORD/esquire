@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 03:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 09:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[표예진이 멈추지 못 하는 아이템?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76749</link>
+            <guid>https://www.esquirekorea.co.kr/article/76749</guid>
+            <pubDate>Thu, 20 Apr 2023 09:20:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/6d938988-f67f-4acf-8e2f-253a7b765df5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['우리는 매일 이별을 향해 걸어가지' 새 앨범 발매를 앞둔 소유 화보 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/76746</link>
@@ -62,14 +69,6 @@
             <pubDate>Mon, 17 Apr 2023 09:19:57 GMT</pubDate>
             <content:encoded><![CDATA[유니클로가 후원하는 2023 서울코리아오픈 국제휠체어테니스대회에 참가하는 '고든 리드'를 누구보...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/efbe0091-6a92-4b11-8a7a-377bc0e42dff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이콘(iKON)과 함께한 에술콰이어]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76610</link>
-            <guid>https://www.esquirekorea.co.kr/article/76610</guid>
-            <pubDate>Fri, 14 Apr 2023 09:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[아이콘 멤버들이 술마실 때 부르는 노래방 18번은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/3728fd30-7f18-401c-9498-40d37ce15cf8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

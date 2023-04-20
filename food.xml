@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 03:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 09:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['제과명장'이 운영하는 전국 빵집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76775</link>
+            <guid>https://www.esquirekorea.co.kr/article/76775</guid>
+            <pubDate>Thu, 20 Apr 2023 09:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[국내에 단 15명뿐인 제과 명장이 만드는 빵은 어떤 맛일까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/c8fe10f1-3494-49f8-b3c8-4d968bfa54ff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 창동골목시장 속 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76774</link>
+            <guid>https://www.esquirekorea.co.kr/article/76774</guid>
+            <pubDate>Thu, 20 Apr 2023 09:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[40년 전통을 가진 줄 서서 먹는 토스트집부터 모든 메뉴가 만원 이하인 노포 분식집까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/3514a6de-469d-4caa-b9c3-034ad1c03458.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[50년 넘게 운영한 잔치국수 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76740</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 17 Apr 2023 09:19:37 GMT</pubDate>
             <content:encoded><![CDATA[다채로운 운동 클래스부터 뮤직 페스티벌까지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/59179a81-ac6a-4b6a-851f-c8a832ffbc01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한강뷰 8만원 이하 고급 코스 요리 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76612</link>
-            <guid>https://www.esquirekorea.co.kr/article/76612</guid>
-            <pubDate>Sat, 15 Apr 2023 09:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[평범한 일상 속 특별함을 선사해 줄 레스토랑을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/1a17b013-a801-4683-a558-7be9150d59b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숙성회 무한리필 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76608</link>
-            <guid>https://www.esquirekorea.co.kr/article/76608</guid>
-            <pubDate>Sat, 15 Apr 2023 09:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[7가지 숙성회를 내어주는 곳부터 바다를 바라보며 먹을 수 있는 곳까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/1330fda0-6352-4257-a1b3-d4e520572481.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 03:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 09:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 닭꼬치 노포 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76786</link>
+            <guid>https://www.esquirekorea.co.kr/article/76786</guid>
+            <pubDate>Thu, 20 Apr 2023 09:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[가격 부담 없는 2차 술집을 찾고 있다면?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/2ba576aa-0c71-461d-a96d-384d7ce08125.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['제과명장'이 운영하는 전국 빵집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76775</link>
+            <guid>https://www.esquirekorea.co.kr/article/76775</guid>
+            <pubDate>Thu, 20 Apr 2023 09:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[국내에 단 15명뿐인 제과 명장이 만드는 빵은 어떤 맛일까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/c8fe10f1-3494-49f8-b3c8-4d968bfa54ff.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에어서울, 항공 운임 '0원' 특가 행사 진행]]></title>
             <link>https://www.esquirekorea.co.kr/article/76769</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 18 Apr 2023 09:19:48 GMT</pubDate>
             <content:encoded><![CDATA[3대 전통의 역사를 가진 어묵부터 세상에서 제일 얇은 어묵까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/b1aa06a6-982e-48c5-9ef4-f51b6db72368.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돈두댓] 식상한 섹스를 타파할 이색적인 콘돔 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76667</link>
-            <guid>https://www.esquirekorea.co.kr/article/76667</guid>
-            <pubDate>Mon, 17 Apr 2023 09:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[생김새부터 맛과 향까지 다채롭다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/2bf8cf82-287b-4b04-9ce0-edb581b7049e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 2016 리우패럴림픽 금메달리스트 '고든 리드' 인터뷰]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76666</link>
-            <guid>https://www.esquirekorea.co.kr/article/76666</guid>
-            <pubDate>Mon, 17 Apr 2023 03:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[유니클로가 후원하는 2023 서울코리아오픈 국제휠체어테니스대회에 참가하는 '고든 리드'를 누구보...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/efbe0091-6a92-4b11-8a7a-377bc0e42dff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
