@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 09:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 15:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1321,6 +1321,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/cd81e1c0-9620-4280-a4b4-90a2bc6de52d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[서울 닭꼬치 노포 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76786</link>
+            <guid>https://www.esquirekorea.co.kr/article/76786</guid>
+            <pubDate>Thu, 20 Apr 2023 09:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[가격 부담 없는 2차 술집을 찾고 있다면?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/2ba576aa-0c71-461d-a96d-384d7ce08125.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[5천원대 서울 구내식당_ 공기업 편 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/76785</link>
             <guid>https://www.esquirekorea.co.kr/article/76785</guid>
@@ -1377,12 +1385,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/0d3c30d5-a5b2-4b17-b042-8273a346353c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어묵의 대변신! 어묵 오마카세 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76674</link>
-            <guid>https://www.esquirekorea.co.kr/article/76674</guid>
-            <pubDate>Tue, 18 Apr 2023 09:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[3대 전통의 역사를 가진 어묵부터 세상에서 제일 얇은 어묵까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/b1aa06a6-982e-48c5-9ef4-f51b6db72368.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[돈두댓] 가슴은 만질수록 커진다? 곧이 믿으면 안 되는 성 상식 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76813</link>
+            <guid>https://www.esquirekorea.co.kr/article/76813</guid>
+            <pubDate>Fri, 21 Apr 2023 15:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[바로 알고 바로 쓰자]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/4940d9e8-910d-4860-be24-f4ac25204df3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[EPL '맨체스터 시티' 올여름 한국에 온다 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1439,14 +1447,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 19 Apr 2023 03:32:17 GMT</pubDate>
             <content:encoded><![CDATA[70년 넘게 한자리에서 볏짚 삼겹살을 고집하는 곳?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/0a036826-aeed-4831-aaa5-facacc7953bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박찬욱 감독의 신작 '동조자' 예고편 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76677</link>
-            <guid>https://www.esquirekorea.co.kr/article/76677</guid>
-            <pubDate>Tue, 18 Apr 2023 09:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[1인 다역을 맡은 로버트 다우니 주니어의 모습을 확인할 수 있다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/dc03bde4-eca9-42c5-ba00-762a9c9076b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Part1. <더글로리> 이도현은 작품을 할 때마다 운다 (에스콰이어 코리아 ─ 피플)]]></title>

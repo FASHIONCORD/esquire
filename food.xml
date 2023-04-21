@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 09:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 15:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 닭꼬치 노포 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76786</link>
+            <guid>https://www.esquirekorea.co.kr/article/76786</guid>
+            <pubDate>Fri, 21 Apr 2023 15:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[가격 부담 없는 2차 술집을 찾고 있다면?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/2ba576aa-0c71-461d-a96d-384d7ce08125.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[5천원대 서울 구내식당_ 공기업 편]]></title>
             <link>https://www.esquirekorea.co.kr/article/76785</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 18 Apr 2023 09:19:38 GMT</pubDate>
             <content:encoded><![CDATA[얼큰한 감칠맛과 고소함이 넘치는 색다른 장어 요리로 원기충전해 보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/0d3c30d5-a5b2-4b17-b042-8273a346353c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어묵의 대변신! 어묵 오마카세 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76674</link>
-            <guid>https://www.esquirekorea.co.kr/article/76674</guid>
-            <pubDate>Tue, 18 Apr 2023 09:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[3대 전통의 역사를 가진 어묵부터 세상에서 제일 얇은 어묵까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/b1aa06a6-982e-48c5-9ef4-f51b6db72368.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
