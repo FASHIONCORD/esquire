@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 15:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 03:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EPL '맨체스터 시티' 올여름 한국에 온다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76801</link>
+            <guid>https://www.esquirekorea.co.kr/article/76801</guid>
+            <pubDate>Fri, 21 Apr 2023 03:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[오는 7월말, 펩 과르디올라를 비롯 엘링 홀란다, 케빈 더 브라위너, 잭 그릴리쉬 등 맨시티의 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/6487d751-468f-46b1-b575-5f1ddbe14eef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울 닭꼬치 노포 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76786</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 18 Apr 2023 09:19:48 GMT</pubDate>
             <content:encoded><![CDATA[1인 다역을 맡은 로버트 다우니 주니어의 모습을 확인할 수 있다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/dc03bde4-eca9-42c5-ba00-762a9c9076b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어묵의 대변신! 어묵 오마카세 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76674</link>
-            <guid>https://www.esquirekorea.co.kr/article/76674</guid>
-            <pubDate>Tue, 18 Apr 2023 09:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[3대 전통의 역사를 가진 어묵부터 세상에서 제일 얇은 어묵까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/b1aa06a6-982e-48c5-9ef4-f51b6db72368.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

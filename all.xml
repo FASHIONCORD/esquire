@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 15:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 03:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1321,6 +1321,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/14/cd81e1c0-9620-4280-a4b4-90a2bc6de52d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[5천원대 서울 구내식당_ 공기업 편 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76785</link>
+            <guid>https://www.esquirekorea.co.kr/article/76785</guid>
+            <pubDate>Fri, 21 Apr 2023 03:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[푸짐한 식사를 즐길 수 있는 외부인 출입 가능한 구내식당을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/374ae6d1-a01a-44b8-8c0c-92aa600dfde8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['제과명장'이 운영하는 전국 빵집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/76775</link>
             <guid>https://www.esquirekorea.co.kr/article/76775</guid>
@@ -1377,12 +1385,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/b1aa06a6-982e-48c5-9ef4-f51b6db72368.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘시티 포레스티벌 2023’ 5월 20일 노들섬 개최 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76653</link>
-            <guid>https://www.esquirekorea.co.kr/article/76653</guid>
-            <pubDate>Sat, 15 Apr 2023 09:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[다채로운 운동 클래스부터 뮤직 페스티벌까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/59179a81-ac6a-4b6a-851f-c8a832ffbc01.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[EPL '맨체스터 시티' 올여름 한국에 온다 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76801</link>
+            <guid>https://www.esquirekorea.co.kr/article/76801</guid>
+            <pubDate>Fri, 21 Apr 2023 03:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[오는 7월말, 펩 과르디올라를 비롯 엘링 홀란다, 케빈 더 브라위너, 잭 그릴리쉬 등 맨시티의 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/6487d751-468f-46b1-b575-5f1ddbe14eef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울 닭꼬치 노포 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1439,14 +1447,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 18 Apr 2023 09:19:48 GMT</pubDate>
             <content:encoded><![CDATA[1인 다역을 맡은 로버트 다우니 주니어의 모습을 확인할 수 있다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/dc03bde4-eca9-42c5-ba00-762a9c9076b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어묵의 대변신! 어묵 오마카세 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76674</link>
-            <guid>https://www.esquirekorea.co.kr/article/76674</guid>
-            <pubDate>Tue, 18 Apr 2023 09:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[3대 전통의 역사를 가진 어묵부터 세상에서 제일 얇은 어묵까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/b1aa06a6-982e-48c5-9ef4-f51b6db72368.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[표예진이 멈추지 못 하는 아이템? (에스콰이어 코리아 ─ 피플)]]></title>
