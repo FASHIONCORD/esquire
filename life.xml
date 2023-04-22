@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 09:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 15:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월 제철! 주꾸미 구이 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76821</link>
+            <guid>https://www.esquirekorea.co.kr/article/76821</guid>
+            <pubDate>Sat, 22 Apr 2023 15:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[주꾸미 하나로 미쉐린 맛집에 등재된 곳은 어디?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/4f4bdc17-d86a-437b-b180-69a0f7c9c6e5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[돈두댓] 가슴은 만질수록 커진다? 곧이 믿으면 안 되는 성 상식 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76813</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 19 Apr 2023 09:24:56 GMT</pubDate>
             <content:encoded><![CDATA[벨기에에 이어 전 연령대 안락사를 허용한 두 번째 국가가 됐다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/31fed31c-ee12-4824-8ef2-93d1ef804526.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[60년 넘게 운영한 삼겹살 노포 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76705</link>
-            <guid>https://www.esquirekorea.co.kr/article/76705</guid>
-            <pubDate>Wed, 19 Apr 2023 03:32:26 GMT</pubDate>
-            <content:encoded><![CDATA[70년 넘게 한자리에서 볏짚 삼겹살을 고집하는 곳?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/0a036826-aeed-4831-aaa5-facacc7953bf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
