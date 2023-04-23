@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 09:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 15:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1195,6 +1195,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/08/296cbf30-ff35-4887-a565-aa8bda2215c8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[샤넬 마드모아젤 프리베 피케 귀 워치의 탄생 (에스콰이어 코리아 ─ 와치)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75116</link>
+            <guid>https://www.esquirekorea.co.kr/article/75116</guid>
+            <pubDate>Sun, 23 Apr 2023 15:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[핀쿠션의 정신으로 완성된 아름다움.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/416e5a7d-0f54-48d1-a66b-1ccbaa1baecc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진화를 거듭한 아쿠아레이서 프로페셔널 200 솔라그래프 (에스콰이어 코리아 ─ 와치)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/74121</link>
+            <guid>https://www.esquirekorea.co.kr/article/74121</guid>
+            <pubDate>Sun, 23 Apr 2023 15:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[태그호이어의 신작, 태그호이어 아쿠아레이서 프로페셔널 200 솔라그래프 티타늄이 공개됐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/16/b41cd993-f677-422e-b3ed-5132deefda0e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제임스 본드 탄생 60주년을 기념하는 오메가 (에스콰이어 코리아 ─ 와치)]]></title>
             <link>https://www.esquirekorea.co.kr/article/73983</link>
             <guid>https://www.esquirekorea.co.kr/article/73983</guid>
@@ -1241,22 +1257,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sat, 28 Jan 2023 03:23:50 GMT</pubDate>
             <content:encoded><![CDATA[에스콰이어와 엘르의 합방 콘텐츠 시리즈 예물 반지 편!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/25/9e1a7598-98a1-423d-bb3b-f202bd92713a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part2. 로몬은 운동이 마음을 단련하는 방법이라 말했다 (에스콰이어 코리아 ─ 와치)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/72495</link>
-            <guid>https://www.esquirekorea.co.kr/article/72495</guid>
-            <pubDate>Sun, 25 Dec 2022 15:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[로몬은 결국 밸런스라고 말했다. 와인도 판소리도 즐겁지만, 가족은 그 모든 것보다 소중하고, ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/25/767bd3da-13e6-409e-bfbf-1e483550805d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part1. 로몬이 요새 푹 빠져버린 것 (에스콰이어 코리아 ─ 와치)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/72438</link>
-            <guid>https://www.esquirekorea.co.kr/article/72438</guid>
-            <pubDate>Sun, 25 Dec 2022 15:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[로몬은 결국 밸런스라고 말했다. 와인도 판소리도 즐겁지만, 가족은 그 모든 것보다 소중하고, ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/25/76570013-411d-4695-a80e-21f1bb310b6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부업 유튜버, 본업 변호사가 본 유튜브의 어두운 생태계 (에스콰이어 코리아 ─ 카&테크)]]></title>
