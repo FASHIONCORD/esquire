@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 09:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 15:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무한 리필해 주는 양념갈비 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76902</link>
+            <guid>https://www.esquirekorea.co.kr/article/76902</guid>
+            <pubDate>Mon, 24 Apr 2023 15:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[라면, 된장찌개까지 무제한 제공하는 양념 갈비 맛집?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/8b6cbde9-efb2-4d35-9116-4bd7f0f4ba68.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홍콩에서 반려견 전용 딤섬 카트 출시]]></title>
             <link>https://www.esquirekorea.co.kr/article/76875</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 20 Apr 2023 09:20:21 GMT</pubDate>
             <content:encoded><![CDATA[가격 부담 없는 2차 술집을 찾고 있다면?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/2ba576aa-0c71-461d-a96d-384d7ce08125.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['제과명장'이 운영하는 전국 빵집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76775</link>
-            <guid>https://www.esquirekorea.co.kr/article/76775</guid>
-            <pubDate>Thu, 20 Apr 2023 09:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[국내에 단 15명뿐인 제과 명장이 만드는 빵은 어떤 맛일까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/c8fe10f1-3494-49f8-b3c8-4d968bfa54ff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

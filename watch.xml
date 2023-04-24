@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 와치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 09:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 15:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[까르띠에 탱크 프랑세즈의 귀환]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75568</link>
+            <guid>https://www.esquirekorea.co.kr/article/75568</guid>
+            <pubDate>Mon, 24 Apr 2023 15:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[1996년에 탄생한 까르띠에 탱크 프랑세즈가 2023년, 더 우아하고 강렬하게 돌아왔다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/3419718e-bcec-4be9-87d6-fe80def299d7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일상에서 차는 다이버 워치]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75368</link>
+            <guid>https://www.esquirekorea.co.kr/article/75368</guid>
+            <pubDate>Mon, 24 Apr 2023 15:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[일상에서 차는 다이버 워치란 이런 것.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/93665f51-fb88-44ad-9f4d-d4644910cb9e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[샤넬 마드모아젤 프리베 피케 귀 워치의 탄생]]></title>
             <link>https://www.esquirekorea.co.kr/article/75116</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 21 Feb 2023 15:24:22 GMT</pubDate>
             <content:encoded><![CDATA[페라가모 워치로 통하는 우리만의 시간.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/14/ef0af63c-da90-47f4-bfa3-4870cc9f7226.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손목 위 팝아트의 향연]]></title>
-            <link>https://www.esquirekorea.co.kr/article/73005</link>
-            <guid>https://www.esquirekorea.co.kr/article/73005</guid>
-            <pubDate>Sat, 28 Jan 2023 03:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[스마트 워치, 타임플릭으로 스타일을 입다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/02/d9c2b9f1-fb75-41b0-a8da-aa79f2c37226.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결혼 반지, 럭셔리 브랜드 다이아 반지가 99만원?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/72711</link>
-            <guid>https://www.esquirekorea.co.kr/article/72711</guid>
-            <pubDate>Sat, 28 Jan 2023 03:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[에스콰이어와 엘르의 합방 콘텐츠 시리즈 예물 반지 편!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/25/9e1a7598-98a1-423d-bb3b-f202bd92713a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
