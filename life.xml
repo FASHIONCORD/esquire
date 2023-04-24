@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 03:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 09:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍콩에서 반려견 전용 딤섬 카트 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76875</link>
+            <guid>https://www.esquirekorea.co.kr/article/76875</guid>
+            <pubDate>Mon, 24 Apr 2023 09:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[맛은 물론, 건강까지 챙겼다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/c898d71a-2c7c-4799-8492-d92ddd8088aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[춘곤증 비상! 춘곤증 퇴치 음식 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76854</link>
+            <guid>https://www.esquirekorea.co.kr/article/76854</guid>
+            <pubDate>Mon, 24 Apr 2023 09:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 이유 없이 졸리다면?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/e3bba3e6-274e-4063-8e1e-8032e771296b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 당장 돈쭐내야 할 점포 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/76845</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 20 Apr 2023 09:20:21 GMT</pubDate>
             <content:encoded><![CDATA[국내에 단 15명뿐인 제과 명장이 만드는 빵은 어떤 맛일까?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/c8fe10f1-3494-49f8-b3c8-4d968bfa54ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에어서울, 항공 운임 '0원' 특가 행사 진행]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76769</link>
-            <guid>https://www.esquirekorea.co.kr/article/76769</guid>
-            <pubDate>Wed, 19 Apr 2023 15:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[탑승 기간은 4월 19일부터 7월 20일까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/eade3075-906f-4076-b6e0-f9952dfaaaf5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50년 넘게 운영한 잔치국수 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76740</link>
-            <guid>https://www.esquirekorea.co.kr/article/76740</guid>
-            <pubDate>Wed, 19 Apr 2023 09:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[70년째 잔치국수 단일 메뉴만 고집하는 맛집?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/77cca07d-2fcd-45ee-ae43-428a045f736d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 03:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 09:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우주에서 '열일'하고 있는 다누리가 보낸 영상]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76651</link>
+            <guid>https://www.esquirekorea.co.kr/article/76651</guid>
+            <pubDate>Mon, 24 Apr 2023 09:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[달 뒷면의 지표면을 생생하게 담았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/a7ae74ef-67cd-4bcc-a263-9d8c55b29645.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울시, 반려식물 종합병원 개원]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76546</link>
+            <guid>https://www.esquirekorea.co.kr/article/76546</guid>
+            <pubDate>Mon, 24 Apr 2023 09:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[진단실부터 처방실, 치료실까지 모두 갖췄다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/09/5f2aa31d-4e64-45e2-8c4b-6d6ae6074fb1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 '너의 모든 것' 시즌 5로 종결]]></title>
             <link>https://www.esquirekorea.co.kr/article/76157</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 27 Mar 2023 03:21:38 GMT</pubDate>
             <content:encoded><![CDATA[나 지금 되게 신나.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/12/be69103f-b07c-4093-adfd-805cedf9f9be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4년 만에 개최되는 '경주벚꽃축제']]></title>
-            <link>https://www.esquirekorea.co.kr/article/75741</link>
-            <guid>https://www.esquirekorea.co.kr/article/75741</guid>
-            <pubDate>Wed, 22 Mar 2023 09:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[반려견도 함께 즐길 수 있는 댕댕이 놀이터도 선보인다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/12/e7706bb7-49c2-4b27-b39a-b068e4293501.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성관계 전 피해야 할 음식 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75686</link>
-            <guid>https://www.esquirekorea.co.kr/article/75686</guid>
-            <pubDate>Wed, 22 Mar 2023 09:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[바위처럼 단단해지고 싶다면 4가지 음식은 피하자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/10/7531bca3-8448-4bc9-876e-4ad15b17ee31.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
