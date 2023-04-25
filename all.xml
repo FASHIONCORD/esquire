@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 03:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 09:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1385,6 +1385,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/3514a6de-469d-4caa-b9c3-034ad1c03458.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[크루아상을 누룽지처럼 눌러 만든 ‘크룽지’ 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76924</link>
+            <guid>https://www.esquirekorea.co.kr/article/76924</guid>
+            <pubDate>Tue, 25 Apr 2023 09:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[프랑스 전통 빵 크루아상을 누룽지처럼 얇고 바삭하게 누른 것이 특징이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/23/57143af2-e785-4f8b-af31-3d919a4a9200.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서울의 소꼬리찜 노포 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/76919</link>
             <guid>https://www.esquirekorea.co.kr/article/76919</guid>
@@ -1439,14 +1447,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 21 Apr 2023 15:19:31 GMT</pubDate>
             <content:encoded><![CDATA[바로 알고 바로 쓰자]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/4940d9e8-910d-4860-be24-f4ac25204df3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EPL '맨체스터 시티' 올여름 한국에 온다 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76801</link>
-            <guid>https://www.esquirekorea.co.kr/article/76801</guid>
-            <pubDate>Fri, 21 Apr 2023 03:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[오는 7월말, 펩 과르디올라를 비롯 엘링 홀란다, 케빈 더 브라위너, 잭 그릴리쉬 등 맨시티의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/6487d751-468f-46b1-b575-5f1ddbe14eef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배너(VANNER), 피크타임 최종 1위 (에스콰이어 코리아 ─ 피플)]]></title>
