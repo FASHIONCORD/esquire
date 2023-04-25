@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 15:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 03:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장어구이 무한리필 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76877</link>
+            <guid>https://www.esquirekorea.co.kr/article/76877</guid>
+            <pubDate>Tue, 25 Apr 2023 03:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[기온차가 심한 요즘, 장어 먹고 기력보충하자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/5f4bced3-3745-4bbc-8b0b-881fc4aeccc6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[춘곤증 비상! 춘곤증 퇴치 음식 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76854</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 20 Apr 2023 09:20:13 GMT</pubDate>
             <content:encoded><![CDATA[40년 전통을 가진 줄 서서 먹는 토스트집부터 모든 메뉴가 만원 이하인 노포 분식집까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/3514a6de-469d-4caa-b9c3-034ad1c03458.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50년 넘게 운영한 잔치국수 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76740</link>
-            <guid>https://www.esquirekorea.co.kr/article/76740</guid>
-            <pubDate>Wed, 19 Apr 2023 15:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[70년째 잔치국수 단일 메뉴만 고집하는 맛집?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/77cca07d-2fcd-45ee-ae43-428a045f736d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

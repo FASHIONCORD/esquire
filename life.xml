@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 15:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 03:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울의 소꼬리찜 노포 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76919</link>
+            <guid>https://www.esquirekorea.co.kr/article/76919</guid>
+            <pubDate>Tue, 25 Apr 2023 03:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[40년은 기본! 3대를 이어 맛을 지키고 있는 전통있는 곳까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/22/6c88c2f2-0f92-497a-b48b-690adc021839.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무한 리필해 주는 양념갈비 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/76902</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 21 Apr 2023 03:20:34 GMT</pubDate>
             <content:encoded><![CDATA[오는 7월말, 펩 과르디올라를 비롯 엘링 홀란다, 케빈 더 브라위너, 잭 그릴리쉬 등 맨시티의 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/6487d751-468f-46b1-b575-5f1ddbe14eef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 닭꼬치 노포 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76786</link>
-            <guid>https://www.esquirekorea.co.kr/article/76786</guid>
-            <pubDate>Thu, 20 Apr 2023 09:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[가격 부담 없는 2차 술집을 찾고 있다면?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/2ba576aa-0c71-461d-a96d-384d7ce08125.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
