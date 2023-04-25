@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 와치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 09:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 15:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워치스앤원더스 2023 특집 '쇼파드']]></title>
+            <link>https://www.esquirekorea.co.kr/article/76931</link>
+            <guid>https://www.esquirekorea.co.kr/article/76931</guid>
+            <pubDate>Tue, 25 Apr 2023 15:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[L.U.C 1860, 알파인 이글 41 XPS, 밀레 말리아 클래식 크로노그래프를 비롯해 매뉴팩처 방문...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/838332c5-1918-4449-a717-25a78538fdf7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미도와 김수현의 스펙트럼]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75851</link>
+            <guid>https://www.esquirekorea.co.kr/article/75851</guid>
+            <pubDate>Tue, 25 Apr 2023 15:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[경계를 넘나드는 미도와 김수현의 조우.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/60b6d379-9af0-4df0-9c49-3a8fead7144a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[까르띠에 탱크 프랑세즈의 귀환]]></title>
             <link>https://www.esquirekorea.co.kr/article/75568</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 06 Mar 2023 09:21:49 GMT</pubDate>
             <content:encoded><![CDATA[샤넬의 하이 주얼리 피스, 워치 주얼리 컬렉션과 함께한 특별한 홀리데이 나이트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/23/f0c26b7a-0010-416e-80df-ab6445816bfe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 손목 위에는 어떤 시계가 어울릴까?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/73265</link>
-            <guid>https://www.esquirekorea.co.kr/article/73265</guid>
-            <pubDate>Mon, 27 Feb 2023 09:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[고르는 재미가 있다! 홀리데이를 맞이 해밀턴 워치 컬렉션 총집합!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/15/1e8e974e-d023-4523-b09b-38cf47cd73d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[커플 워치를 찾는다면?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/73253</link>
-            <guid>https://www.esquirekorea.co.kr/article/73253</guid>
-            <pubDate>Tue, 21 Feb 2023 15:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[페라가모 워치로 통하는 우리만의 시간.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/14/ef0af63c-da90-47f4-bfa3-4870cc9f7226.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
