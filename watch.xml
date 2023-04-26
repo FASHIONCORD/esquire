@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 와치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 09:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 15:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워치스앤원더스 2023 특집 '제니스']]></title>
+            <link>https://www.esquirekorea.co.kr/article/76856</link>
+            <guid>https://www.esquirekorea.co.kr/article/76856</guid>
+            <pubDate>Wed, 26 Apr 2023 15:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[올해 제니스의 시선은 하늘로 향했다. 제니가 선보인 파일럿 컬렉션의 다양한 변주를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/f69813d5-398d-434e-98fa-1a7a9f2b50bd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워치스앤원더스 2023 특집 '까르띠에']]></title>
+            <link>https://www.esquirekorea.co.kr/article/76850</link>
+            <guid>https://www.esquirekorea.co.kr/article/76850</guid>
+            <pubDate>Wed, 26 Apr 2023 15:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[산토스 뒤몽 스켈레톤 마이크로 로터, 파샤 드 까르띠에 스켈레톤, 까르띠에 프리베 탱크 노말 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/71b5de10-199c-42da-87ee-c57a9d545628.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[워치스앤원더스 2023 특집 '쇼파드']]></title>
             <link>https://www.esquirekorea.co.kr/article/76931</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 23 Apr 2023 15:19:28 GMT</pubDate>
             <content:encoded><![CDATA[태그호이어의 신작, 태그호이어 아쿠아레이서 프로페셔널 200 솔라그래프 티타늄이 공개됐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/16/b41cd993-f677-422e-b3ed-5132deefda0e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제임스 본드 탄생 60주년을 기념하는 오메가]]></title>
-            <link>https://www.esquirekorea.co.kr/article/73983</link>
-            <guid>https://www.esquirekorea.co.kr/article/73983</guid>
-            <pubDate>Fri, 17 Mar 2023 03:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[제임스 본드 탄생 60주년을 기념하는 오메가의 블랙 타이 이벤트와 스페셜 에디션 모델.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/05/370e7b5c-0c5b-466d-a571-115bba62c352.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웰컴 투 샤넬 홀리데이!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/73646</link>
-            <guid>https://www.esquirekorea.co.kr/article/73646</guid>
-            <pubDate>Mon, 06 Mar 2023 09:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬의 하이 주얼리 피스, 워치 주얼리 컬렉션과 함께한 특별한 홀리데이 나이트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202212/23/f0c26b7a-0010-416e-80df-ab6445816bfe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
