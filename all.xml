@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 03:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 09:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1321,6 +1321,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/418cf641-2bc9-4ff3-a5f5-40e06cf44430.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[50년 넘게 운영한 쌈밥 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76969</link>
+            <guid>https://www.esquirekorea.co.kr/article/76969</guid>
+            <pubDate>Wed, 26 Apr 2023 03:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[만원대에 즐길 수 있는 한우 쌈밥?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/fe4d1a3c-2882-4d01-951f-ddb1836a8c54.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[크루아상을 누룽지처럼 눌러 만든 ‘크룽지’ 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/76924</link>
             <guid>https://www.esquirekorea.co.kr/article/76924</guid>
@@ -1377,14 +1385,6 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/8c7188f3-5884-47d8-8ae5-e5a064293609.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[4월 제철! 주꾸미 구이 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76821</link>
-            <guid>https://www.esquirekorea.co.kr/article/76821</guid>
-            <pubDate>Sat, 22 Apr 2023 15:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[주꾸미 하나로 미쉐린 맛집에 등재된 곳은 어디?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/4f4bdc17-d86a-437b-b180-69a0f7c9c6e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[돈두댓] 나도 모르게 성기 건강을 해치는 의외의 행동 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/77035</link>
             <guid>https://www.esquirekorea.co.kr/article/77035</guid>
@@ -1406,7 +1406,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/77031</guid>
             <pubDate>Wed, 26 Apr 2023 03:20:09 GMT</pubDate>
             <content:encoded><![CDATA[7천원에 건강식부터 디저트까지 한 번에 즐길 수 있다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/c1864e82-55b3-4279-97a0-76a57e119e3e.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/c1864e82-55b3-4279-97a0-76a57e119e3e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예술 복제 기술은 이미 '무엇이 원본이냐'하는 문제가 의미 없어질 만큼 발달했다 (에스콰이어 코리아 ─ 라이프)]]></title>
