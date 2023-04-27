@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 09:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 15:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Part3. 식케이는 'TTM'를 듣고 "당했다"라고 말했다.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76809</link>
+            <guid>https://www.esquirekorea.co.kr/article/76809</guid>
+            <pubDate>Thu, 27 Apr 2023 15:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;에스콰이어&gt; 음원 프로젝트 ‘TTM’에 비아이와 레디 그리고 식케이가 함께했다. 늦은 밤, 폐차...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/821e878c-9801-4ba6-829c-2071d0459f1d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part2. 레디가 131에 합류하게 된 이유]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76808</link>
+            <guid>https://www.esquirekorea.co.kr/article/76808</guid>
+            <pubDate>Thu, 27 Apr 2023 15:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;에스콰이어&gt; 음원 프로젝트 ‘TTM’에 비아이와 레디 그리고 식케이가 함께했다. 늦은 밤, 폐차...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/1b9016ad-c49e-4e54-8667-10d9c8e62464.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[돈두댓] 나도 모르게 성기 건강을 해치는 의외의 행동 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/77035</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 26 Apr 2023 03:20:09 GMT</pubDate>
             <content:encoded><![CDATA[지금 우리가 괌으로 떠나야 하는 이유.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/53b078d8-8642-4b18-add0-e3d699937070.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NASA, 모의 화성에서 1년 살기 프로젝트 실시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76951</link>
-            <guid>https://www.esquirekorea.co.kr/article/76951</guid>
-            <pubDate>Wed, 26 Apr 2023 03:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[실험은 오는 7월부터 1년 동안 진행한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/88a51572-9b31-464f-ac07-3174f7f1bd7c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘2023 롤드컵’ 결승전 고척스카이돔서 개최]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76949</link>
-            <guid>https://www.esquirekorea.co.kr/article/76949</guid>
-            <pubDate>Wed, 26 Apr 2023 03:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[2018년 이후 5년 만에 한국에서 열린다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/664dc038-0110-441b-a0d7-6d71ae0bbef6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

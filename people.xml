@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 09:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 15:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Part2. 산부인과 의사 '공태경' 역할을 위해 안재현이 준비한 것들]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76849</link>
+            <guid>https://www.esquirekorea.co.kr/article/76849</guid>
+            <pubDate>Thu, 27 Apr 2023 15:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[안재현은 좋은 사람이다. 펜으로 꾹꾹 눌러 진심 어린 글을 쓰고, 최대한 많은 사람에게 편안함...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/dd48ad9f-e669-4ad1-a23d-89c528914d3e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part1. 안재현이 데뷔 후 첫 공백기에 책을 쓰기로 결심했던 이유]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76846</link>
+            <guid>https://www.esquirekorea.co.kr/article/76846</guid>
+            <pubDate>Thu, 27 Apr 2023 15:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[안재현은 좋은 사람이다. 펜으로 꾹꾹 눌러 진심 어린 글을 쓰고, 최대한 많은 사람에게 편안함...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/8c54c5e2-45f1-4ebb-bfd9-15a9462544d9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[케플러 촬영 중 소리 지른 이유?]]></title>
             <link>https://www.esquirekorea.co.kr/article/76890</link>
@@ -53,21 +69,6 @@
             <pubDate>Fri, 21 Apr 2023 09:19:05 GMT</pubDate>
             <content:encoded><![CDATA[이도현은 &lt;더글로리&gt;의 주여정이 100점 만점에 70점이라고 말했다. 자신에게 가혹하리만큼 낮은 점...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/d5caf24d-22cc-4d48-9cf0-5c279b9c57a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[표예진이 멈추지 못 하는 아이템?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76749</link>
-            <guid>https://www.esquirekorea.co.kr/article/76749</guid>
-            <pubDate>Thu, 20 Apr 2023 09:20:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/6d938988-f67f-4acf-8e2f-253a7b765df5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['우리는 매일 이별을 향해 걸어가지' 새 앨범 발매를 앞둔 소유 화보 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76746</link>
-            <guid>https://www.esquirekorea.co.kr/article/76746</guid>
-            <pubDate>Thu, 20 Apr 2023 03:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[내일(18일) 오후 6시 신곡으로 돌아오는 소유를 미리 만나고 왔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/4443198a-122b-4a6c-b314-0ccb7b0556d8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

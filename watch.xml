@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 와치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 09:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 15:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워치스앤원더스 2023 특집 '로저드뷔']]></title>
+            <link>https://www.esquirekorea.co.kr/article/77028</link>
+            <guid>https://www.esquirekorea.co.kr/article/77028</guid>
+            <pubDate>Thu, 27 Apr 2023 15:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[브랜드의 CMO 사드리 카이저를 만나 올해의 신제품 모노볼텍스™ 스플릿 세컨즈 크로노그래프에 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/fc4d1ca9-d956-468e-9756-23145ed2f22a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워치스앤원더스 2023 특집 '위블로']]></title>
+            <link>https://www.esquirekorea.co.kr/article/76852</link>
+            <guid>https://www.esquirekorea.co.kr/article/76852</guid>
+            <pubDate>Thu, 27 Apr 2023 15:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[워치스앤원더스2023년에서 공개한 스퀘어뱅 컬렉션의 다양한 모델을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/8cfb6ab1-6698-4007-a5a3-042f19ff9c59.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[워치스앤원더스 2023 특집 '제니스']]></title>
             <link>https://www.esquirekorea.co.kr/article/76856</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 24 Apr 2023 15:19:49 GMT</pubDate>
             <content:encoded><![CDATA[일상에서 차는 다이버 워치란 이런 것.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/93665f51-fb88-44ad-9f4d-d4644910cb9e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬 마드모아젤 프리베 피케 귀 워치의 탄생]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75116</link>
-            <guid>https://www.esquirekorea.co.kr/article/75116</guid>
-            <pubDate>Sun, 23 Apr 2023 15:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[핀쿠션의 정신으로 완성된 아름다움.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/416e5a7d-0f54-48d1-a66b-1ccbaa1baecc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진화를 거듭한 아쿠아레이서 프로페셔널 200 솔라그래프]]></title>
-            <link>https://www.esquirekorea.co.kr/article/74121</link>
-            <guid>https://www.esquirekorea.co.kr/article/74121</guid>
-            <pubDate>Sun, 23 Apr 2023 15:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[태그호이어의 신작, 태그호이어 아쿠아레이서 프로페셔널 200 솔라그래프 티타늄이 공개됐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/16/b41cd993-f677-422e-b3ed-5132deefda0e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
