@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 03:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 09:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1321,6 +1321,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/418cf641-2bc9-4ff3-a5f5-40e06cf44430.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[만원 이하 서울 구내식당_ 일반 기업 편 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77031</link>
+            <guid>https://www.esquirekorea.co.kr/article/77031</guid>
+            <pubDate>Wed, 26 Apr 2023 03:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[7천원에 건강식부터 디저트까지 한 번에 즐길 수 있다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/c1864e82-55b3-4279-97a0-76a57e119e3e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[씨름선수 윤코치 노포 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/77030</link>
             <guid>https://www.esquirekorea.co.kr/article/77030</guid>
@@ -1377,12 +1385,28 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/5f4bced3-3745-4bbc-8b0b-881fc4aeccc6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[춘곤증 비상! 춘곤증 퇴치 음식 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76854</link>
-            <guid>https://www.esquirekorea.co.kr/article/76854</guid>
-            <pubDate>Sun, 23 Apr 2023 03:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 이유 없이 졸리다면?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/e3bba3e6-274e-4063-8e1e-8032e771296b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[행정안전부에서 지정한 서울 착한가격업소 5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77115</link>
+            <guid>https://www.esquirekorea.co.kr/article/77115</guid>
+            <pubDate>Fri, 28 Apr 2023 09:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[오겹살, 삼겹살, 차돌박이까지 모두 만원에 내주는 곳?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/8afb85cd-6b64-4270-bc35-9ada6f429c88.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나체 상태로 보는 전시가 있다고? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77108</link>
+            <guid>https://www.esquirekorea.co.kr/article/77108</guid>
+            <pubDate>Fri, 28 Apr 2023 09:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[프랑스에서 단 90분만 진행된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/b402cdd4-8fa0-46eb-80fe-1824904d215b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part1. 비아이가 생각하는 허전함의 정의 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76806</link>
+            <guid>https://www.esquirekorea.co.kr/article/76806</guid>
+            <pubDate>Fri, 28 Apr 2023 09:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;에스콰이어&gt; 음원 프로젝트 ‘TTM’에 비아이와 레디 그리고 식케이가 함께했다. 늦은 밤, 폐차...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/93c0b118-abb9-403a-a496-cc25b7d4d9cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Part3. 식케이는 'TTM'를 듣고 "당했다"라고 말했다. (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1425,28 +1449,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/c1864e82-55b3-4279-97a0-76a57e119e3e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[예술 복제 기술은 이미 '무엇이 원본이냐'하는 문제가 의미 없어질 만큼 발달했다 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76994</link>
-            <guid>https://www.esquirekorea.co.kr/article/76994</guid>
-            <pubDate>Wed, 26 Apr 2023 03:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[콘스탄티누스 대제의 거상은 분리된 조각들을 토대로 재건 과정 중이다. 카라바조와 베로네세의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/36675f28-7be4-495f-be16-36c1b3b65e96.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Part1. 비아이가 생각하는 허전함의 정의 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76806</link>
+            <guid>https://www.esquirekorea.co.kr/article/76806</guid>
+            <pubDate>Fri, 28 Apr 2023 09:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;에스콰이어&gt; 음원 프로젝트 ‘TTM’에 비아이와 레디 그리고 식케이가 함께했다. 늦은 밤, 폐차...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/93c0b118-abb9-403a-a496-cc25b7d4d9cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[50년 넘게 운영한 쌈밥 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76969</link>
-            <guid>https://www.esquirekorea.co.kr/article/76969</guid>
-            <pubDate>Wed, 26 Apr 2023 03:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[만원대에 즐길 수 있는 한우 쌈밥?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/fe4d1a3c-2882-4d01-951f-ddb1836a8c54.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[괌에서의 진짜 휴양 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76957</link>
-            <guid>https://www.esquirekorea.co.kr/article/76957</guid>
-            <pubDate>Wed, 26 Apr 2023 03:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[지금 우리가 괌으로 떠나야 하는 이유.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/53b078d8-8642-4b18-add0-e3d699937070.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Part3. 식케이는 'TTM'를 듣고 "당했다"라고 말했다. (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76809</link>
+            <guid>https://www.esquirekorea.co.kr/article/76809</guid>
+            <pubDate>Thu, 27 Apr 2023 15:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;에스콰이어&gt; 음원 프로젝트 ‘TTM’에 비아이와 레디 그리고 식케이가 함께했다. 늦은 밤, 폐차...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/821e878c-9801-4ba6-829c-2071d0459f1d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Part2. 산부인과 의사 '공태경' 역할을 위해 안재현이 준비한 것들 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1496,20 +1512,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/235986cd-c7ad-4732-9d3a-b1e21530d8b0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Part2. 이도현이 <더글로리> 주여정에게 70점을 주는 이유 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76752</link>
-            <guid>https://www.esquirekorea.co.kr/article/76752</guid>
-            <pubDate>Mon, 24 Apr 2023 03:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[이도현은 &lt;더글로리&gt;의 주여정이 100점 만점에 70점이라고 말했다. 자신에게 가혹하리만큼 낮은 점...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/e63407cd-e4d8-4fc1-9660-0c4844eb6141.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part1. <더글로리> 이도현은 작품을 할 때마다 운다 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76751</link>
-            <guid>https://www.esquirekorea.co.kr/article/76751</guid>
-            <pubDate>Fri, 21 Apr 2023 09:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[이도현은 &lt;더글로리&gt;의 주여정이 100점 만점에 70점이라고 말했다. 자신에게 가혹하리만큼 낮은 점...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/d5caf24d-22cc-4d48-9cf0-5c279b9c57a6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[한국 피겨 대표팀, 첫 출전 월드 팀 트로피서 준우승 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76718</link>
+            <guid>https://www.esquirekorea.co.kr/article/76718</guid>
+            <pubDate>Fri, 28 Apr 2023 09:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[1점 차로 일본을 제치고 은메달을 획득했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/16/e439d7a5-6dc5-428e-bcee-01be0a4f6b11.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우주에서 '열일'하고 있는 다누리가 보낸 영상 (에스콰이어 코리아 ─ 나우)]]></title>
@@ -1566,14 +1574,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sun, 09 Apr 2023 09:17:42 GMT</pubDate>
             <content:encoded><![CDATA[500만 곡에 달하는 방대한 리스트를 자랑한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/4d52f76e-2940-4e94-9ad8-e3f29f55f3fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 글로리 파트 2, 공개 하루 만에 글로벌 3위 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75742</link>
-            <guid>https://www.esquirekorea.co.kr/article/75742</guid>
-            <pubDate>Mon, 27 Mar 2023 03:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[나 지금 되게 신나.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/12/be69103f-b07c-4093-adfd-805cedf9f9be.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 보면 볼수록 빠져 드는 테니스 스커트 (에스콰이어 코리아 ─ 이샵)]]></title>

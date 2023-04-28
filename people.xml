@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 03:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 09:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Part1. 비아이가 생각하는 허전함의 정의]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76806</link>
+            <guid>https://www.esquirekorea.co.kr/article/76806</guid>
+            <pubDate>Fri, 28 Apr 2023 09:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;에스콰이어&gt; 음원 프로젝트 ‘TTM’에 비아이와 레디 그리고 식케이가 함께했다. 늦은 밤, 폐차...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/93c0b118-abb9-403a-a496-cc25b7d4d9cc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part3. 식케이는 'TTM'를 듣고 "당했다"라고 말했다.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76809</link>
+            <guid>https://www.esquirekorea.co.kr/article/76809</guid>
+            <pubDate>Fri, 28 Apr 2023 09:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;에스콰이어&gt; 음원 프로젝트 ‘TTM’에 비아이와 레디 그리고 식케이가 함께했다. 늦은 밤, 폐차...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/821e878c-9801-4ba6-829c-2071d0459f1d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Part2. 산부인과 의사 '공태경' 역할을 위해 안재현이 준비한 것들]]></title>
             <link>https://www.esquirekorea.co.kr/article/76849</link>
@@ -53,22 +69,6 @@
             <pubDate>Mon, 24 Apr 2023 09:19:34 GMT</pubDate>
             <content:encoded><![CDATA[팀11시가 1위를 차지했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/235986cd-c7ad-4732-9d3a-b1e21530d8b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part2. 이도현이 <더글로리> 주여정에게 70점을 주는 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76752</link>
-            <guid>https://www.esquirekorea.co.kr/article/76752</guid>
-            <pubDate>Mon, 24 Apr 2023 03:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[이도현은 &lt;더글로리&gt;의 주여정이 100점 만점에 70점이라고 말했다. 자신에게 가혹하리만큼 낮은 점...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/e63407cd-e4d8-4fc1-9660-0c4844eb6141.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part1. <더글로리> 이도현은 작품을 할 때마다 운다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76751</link>
-            <guid>https://www.esquirekorea.co.kr/article/76751</guid>
-            <pubDate>Fri, 21 Apr 2023 09:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[이도현은 &lt;더글로리&gt;의 주여정이 100점 만점에 70점이라고 말했다. 자신에게 가혹하리만큼 낮은 점...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/19/d5caf24d-22cc-4d48-9cf0-5c279b9c57a6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

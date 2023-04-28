@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 03:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 09:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국 피겨 대표팀, 첫 출전 월드 팀 트로피서 준우승]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76718</link>
+            <guid>https://www.esquirekorea.co.kr/article/76718</guid>
+            <pubDate>Fri, 28 Apr 2023 09:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[1점 차로 일본을 제치고 은메달을 획득했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/16/e439d7a5-6dc5-428e-bcee-01be0a4f6b11.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우주에서 '열일'하고 있는 다누리가 보낸 영상]]></title>
             <link>https://www.esquirekorea.co.kr/article/76651</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 09 Apr 2023 09:17:42 GMT</pubDate>
             <content:encoded><![CDATA[500만 곡에 달하는 방대한 리스트를 자랑한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/13/4d52f76e-2940-4e94-9ad8-e3f29f55f3fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 글로리 파트 2, 공개 하루 만에 글로벌 3위]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75742</link>
-            <guid>https://www.esquirekorea.co.kr/article/75742</guid>
-            <pubDate>Mon, 27 Mar 2023 03:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[나 지금 되게 신나.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/12/be69103f-b07c-4093-adfd-805cedf9f9be.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

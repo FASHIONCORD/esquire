@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 03:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 09:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행정안전부에서 지정한 서울 착한가격업소 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77115</link>
+            <guid>https://www.esquirekorea.co.kr/article/77115</guid>
+            <pubDate>Fri, 28 Apr 2023 09:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[오겹살, 삼겹살, 차돌박이까지 모두 만원에 내주는 곳?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/8afb85cd-6b64-4270-bc35-9ada6f429c88.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나체 상태로 보는 전시가 있다고?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77108</link>
+            <guid>https://www.esquirekorea.co.kr/article/77108</guid>
+            <pubDate>Fri, 28 Apr 2023 09:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[프랑스에서 단 90분만 진행된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/b402cdd4-8fa0-46eb-80fe-1824904d215b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part1. 비아이가 생각하는 허전함의 정의]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76806</link>
+            <guid>https://www.esquirekorea.co.kr/article/76806</guid>
+            <pubDate>Fri, 28 Apr 2023 09:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;에스콰이어&gt; 음원 프로젝트 ‘TTM’에 비아이와 레디 그리고 식케이가 함께했다. 늦은 밤, 폐차...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/93c0b118-abb9-403a-a496-cc25b7d4d9cc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Part3. 식케이는 'TTM'를 듣고 "당했다"라고 말했다.]]></title>
             <link>https://www.esquirekorea.co.kr/article/76809</link>
@@ -46,30 +70,6 @@
             <pubDate>Wed, 26 Apr 2023 03:20:09 GMT</pubDate>
             <content:encoded><![CDATA[7천원에 건강식부터 디저트까지 한 번에 즐길 수 있다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/c1864e82-55b3-4279-97a0-76a57e119e3e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예술 복제 기술은 이미 '무엇이 원본이냐'하는 문제가 의미 없어질 만큼 발달했다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76994</link>
-            <guid>https://www.esquirekorea.co.kr/article/76994</guid>
-            <pubDate>Wed, 26 Apr 2023 03:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[콘스탄티누스 대제의 거상은 분리된 조각들을 토대로 재건 과정 중이다. 카라바조와 베로네세의 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/36675f28-7be4-495f-be16-36c1b3b65e96.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50년 넘게 운영한 쌈밥 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76969</link>
-            <guid>https://www.esquirekorea.co.kr/article/76969</guid>
-            <pubDate>Wed, 26 Apr 2023 03:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[만원대에 즐길 수 있는 한우 쌈밥?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/fe4d1a3c-2882-4d01-951f-ddb1836a8c54.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[괌에서의 진짜 휴양]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76957</link>
-            <guid>https://www.esquirekorea.co.kr/article/76957</guid>
-            <pubDate>Wed, 26 Apr 2023 03:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[지금 우리가 괌으로 떠나야 하는 이유.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/53b078d8-8642-4b18-add0-e3d699937070.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
