@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 15:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 03:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데뷔 앞둔 아이브 장원영 친언니 장다아 TMI 10]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35840789&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35840789&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Fri, 28 Apr 2023 03:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MjVfMzgg/MDAxNjgyNDEzODkwMDU1.WFt3eN3B0KM_ap5zD44ggnTeN7wf8B1a_X2YF8P27LIg.X4RJ7gcBR_0ZXbgp06M93rw4q8906KtSeHK2qpqKNh4g.JPEG/I7XenXdakZyU2pLJvR-OV6HBQFns.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세븐과 8년 열애 후 결혼에 골인하는 이다해, 그녀의 TMI 10.]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35749789&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Nov 2022 03:44:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTVfMTU5/MDAxNjQ0ODk1MDM2NjI5.Tn-mavv8XMbJygAArcCnBpgAV5yarAhlAVOZzkGvpykg.xUDJl1FAxUk_h31WX8FeisLuz-wTMt4RRyp1nV4HQ0Qg.PNG/IQDrVxkFXeXUSuXeXrLgtKqxdVeo.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['옷소매' 준호에 대해 당신이 몰랐던 사실 17]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33101278&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33101278&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:44:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTFfMjYz/MDAxNjQxODU0ODQ3OTM2.G3nJVEPKluuXRn48TblQIR0YZVc5hwsZ6qRxapl6DsQg.a_DNyRPYIf8y8v_Up4oH_qfaY5j470PlB9WfraXwQDEg.PNG/IwCUN3s5Gq4SF0WZJ95KKZHQkgds.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
