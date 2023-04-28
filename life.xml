@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 09:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 15:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숨은 맛집을 찾아서! 서울 상가 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77141</link>
+            <guid>https://www.esquirekorea.co.kr/article/77141</guid>
+            <pubDate>Fri, 28 Apr 2023 15:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[이영자가 반한 수제비부터 제주의 맛을 그대로 재현한 맛집까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/c58cc635-95bb-495a-8333-7906e88fbecb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[행정안전부에서 지정한 서울 착한가격업소 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/77115</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 26 Apr 2023 09:18:50 GMT</pubDate>
             <content:encoded><![CDATA[서비스로 양념게장에 돼지고기가 듬뿍 들어간 김치찌개까지 나온다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/dac9ef03-c2c5-4261-adfd-581b50a1125e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만원 이하 서울 구내식당_ 일반 기업 편]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77031</link>
-            <guid>https://www.esquirekorea.co.kr/article/77031</guid>
-            <pubDate>Wed, 26 Apr 2023 03:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[7천원에 건강식부터 디저트까지 한 번에 즐길 수 있다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/c1864e82-55b3-4279-97a0-76a57e119e3e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

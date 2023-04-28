@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 09:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 15:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성수동 갈비 골목 대표 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77032</link>
+            <guid>https://www.esquirekorea.co.kr/article/77032</guid>
+            <pubDate>Fri, 28 Apr 2023 15:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[서비스로 양념게장에 돼지고기가 듬뿍 들어간 김치찌개까지 나온다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/dac9ef03-c2c5-4261-adfd-581b50a1125e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[만원 이하 서울 구내식당_ 일반 기업 편]]></title>
             <link>https://www.esquirekorea.co.kr/article/77031</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 26 Apr 2023 03:20:00 GMT</pubDate>
             <content:encoded><![CDATA[라면, 된장찌개까지 무제한 제공하는 양념 갈비 맛집?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/8b6cbde9-efb2-4d35-9116-4bd7f0f4ba68.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장어구이 무한리필 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76877</link>
-            <guid>https://www.esquirekorea.co.kr/article/76877</guid>
-            <pubDate>Tue, 25 Apr 2023 03:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[기온차가 심한 요즘, 장어 먹고 기력보충하자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/5f4bced3-3745-4bbc-8b0b-881fc4aeccc6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
