@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 09:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 15:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행정안전부에서 지정한 서울 착한가격업소 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77115</link>
+            <guid>https://www.esquirekorea.co.kr/article/77115</guid>
+            <pubDate>Sat, 29 Apr 2023 15:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[오겹살, 삼겹살, 차돌박이까지 모두 만원에 내주는 곳?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/8afb85cd-6b64-4270-bc35-9ada6f429c88.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성수동 갈비 골목 대표 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/77032</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 26 Apr 2023 03:20:00 GMT</pubDate>
             <content:encoded><![CDATA[40년은 기본! 3대를 이어 맛을 지키고 있는 전통있는 곳까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/22/6c88c2f2-0f92-497a-b48b-690adc021839.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무한 리필해 주는 양념갈비 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76902</link>
-            <guid>https://www.esquirekorea.co.kr/article/76902</guid>
-            <pubDate>Wed, 26 Apr 2023 03:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[라면, 된장찌개까지 무제한 제공하는 양념 갈비 맛집?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/8b6cbde9-efb2-4d35-9116-4bd7f0f4ba68.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
