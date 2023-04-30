@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 와치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 03:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 09:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워치스앤원더스 2023 특집 'IWC 샤프하우젠']]></title>
+            <link>https://www.esquirekorea.co.kr/article/77123</link>
+            <guid>https://www.esquirekorea.co.kr/article/77123</guid>
+            <pubDate>Sun, 30 Apr 2023 09:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[IWC 샤프하우젠의 신제품 인제니어 오토매틱 40, 파일럿 워치 크로노그래프 41 탑건 오세아나, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/f0e14917-88b0-45f4-9fef-31a87667a7bb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[워치스앤원더스 2023 특집 '태그 호이어']]></title>
             <link>https://www.esquirekorea.co.kr/article/76853</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 25 Apr 2023 15:19:59 GMT</pubDate>
             <content:encoded><![CDATA[경계를 넘나드는 미도와 김수현의 조우.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/60b6d379-9af0-4df0-9c49-3a8fead7144a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[까르띠에 탱크 프랑세즈의 귀환]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75568</link>
-            <guid>https://www.esquirekorea.co.kr/article/75568</guid>
-            <pubDate>Mon, 24 Apr 2023 15:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[1996년에 탄생한 까르띠에 탱크 프랑세즈가 2023년, 더 우아하고 강렬하게 돌아왔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/3419718e-bcec-4be9-87d6-fe80def299d7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

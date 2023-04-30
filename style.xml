@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 03:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 09:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[춘곤증 비상! 춘곤증 퇴치 음식 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76854</link>
+            <guid>https://www.esquirekorea.co.kr/article/76854</guid>
+            <pubDate>Sun, 30 Apr 2023 09:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 이유 없이 졸리다면?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/e3bba3e6-274e-4063-8e1e-8032e771296b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[발망 X 에비앙 협업 컬렉션 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/76767</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 17 Apr 2023 09:19:11 GMT</pubDate>
             <content:encoded><![CDATA[봄은 가죽에도 물든다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/b2fe7fd3-87c1-40bc-bc91-97c3999f783e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[향기로 씻는다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76583</link>
-            <guid>https://www.esquirekorea.co.kr/article/76583</guid>
-            <pubDate>Sat, 15 Apr 2023 15:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[우디한 향의 보디 워시 8.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/e343ec51-4e0a-4ada-afb4-9a6564a65dfe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 03:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 09:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘TTM’ 프로젝트 차트인 공약?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77166</link>
+            <guid>https://www.esquirekorea.co.kr/article/77166</guid>
+            <pubDate>Sun, 30 Apr 2023 09:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[프로젝트의 시작부터 생동감 넘치는 촬영 현장까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/4e3f7072-8583-4837-9dc4-ae964d2de94f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[생으로 먹으면 절대! 안 되는 음식 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/77158</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 27 Apr 2023 15:18:39 GMT</pubDate>
             <content:encoded><![CDATA[&lt;에스콰이어&gt; 음원 프로젝트 ‘TTM’에 비아이와 레디 그리고 식케이가 함께했다. 늦은 밤, 폐차...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/821e878c-9801-4ba6-829c-2071d0459f1d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part2. 레디가 131에 합류하게 된 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76808</link>
-            <guid>https://www.esquirekorea.co.kr/article/76808</guid>
-            <pubDate>Thu, 27 Apr 2023 15:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;에스콰이어&gt; 음원 프로젝트 ‘TTM’에 비아이와 레디 그리고 식케이가 함께했다. 늦은 밤, 폐차...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/1b9016ad-c49e-4e54-8667-10d9c8e62464.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
