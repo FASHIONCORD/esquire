@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 15:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 03:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘나 혼자 산다’ 일일 게스트 김대호 아나운서 TMI 12.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77140</link>
+            <guid>https://www.esquirekorea.co.kr/article/77140</guid>
+            <pubDate>Sun, 30 Apr 2023 03:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[다마스를 타고 다닌다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/4512bede-3647-4618-98bb-8f3217025bb5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Part2. 레디가 131에 합류하게 된 이유]]></title>
             <link>https://www.esquirekorea.co.kr/article/76808</link>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 26 Apr 2023 03:20:20 GMT</pubDate>
             <content:encoded><![CDATA[&lt;모범택시2&gt;와 &lt;청춘월담&gt; 종영을 앞두고 배우 표예진을 만났다. 그녀는 아직도 하고 싶은 연기,...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/f99cb67a-23c0-4968-b861-7df66846d717.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part1. '표예진 연기 너무 잘한다'는 유튜브 댓글들에 표예진 배우가 보인 반응]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76738</link>
-            <guid>https://www.esquirekorea.co.kr/article/76738</guid>
-            <pubDate>Wed, 26 Apr 2023 03:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;모범택시2&gt;와 &lt;청춘월담&gt; 종영을 앞두고 배우 표예진을 만났다. 그녀는 아직도 하고 싶은 연기,...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/99f73a3f-4b94-4118-86c0-8c392c15dc2d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

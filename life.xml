@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 15:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 03:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생으로 먹으면 절대! 안 되는 음식 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77158</link>
+            <guid>https://www.esquirekorea.co.kr/article/77158</guid>
+            <pubDate>Sun, 30 Apr 2023 03:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[생(生)으로 먹었다가 생사(生死)를 오갈 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/3d7c67d9-02d7-4c2c-b429-60085908c6b8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비아이 x 식케이 x 레디 ‘TTM’ 뮤직비디오 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77142</link>
+            <guid>https://www.esquirekorea.co.kr/article/77142</guid>
+            <pubDate>Sun, 30 Apr 2023 03:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[에스콰이어와 함께한 음원 프로젝트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/5f315810-9609-438a-aa22-e5804cd3d730.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숨은 맛집을 찾아서! 서울 상가 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/77141</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 27 Apr 2023 15:18:39 GMT</pubDate>
             <content:encoded><![CDATA[&lt;에스콰이어&gt; 음원 프로젝트 ‘TTM’에 비아이와 레디 그리고 식케이가 함께했다. 늦은 밤, 폐차...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/1b9016ad-c49e-4e54-8667-10d9c8e62464.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돈두댓] 나도 모르게 성기 건강을 해치는 의외의 행동 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77035</link>
-            <guid>https://www.esquirekorea.co.kr/article/77035</guid>
-            <pubDate>Wed, 26 Apr 2023 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[문제의 원인은 가까이 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/ff630f14-31db-40c7-8a33-6bc37df3e207.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성수동 갈비 골목 대표 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77032</link>
-            <guid>https://www.esquirekorea.co.kr/article/77032</guid>
-            <pubDate>Wed, 26 Apr 2023 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[서비스로 양념게장에 돼지고기가 듬뿍 들어간 김치찌개까지 나온다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/dac9ef03-c2c5-4261-adfd-581b50a1125e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
