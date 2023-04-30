@@ -4,9 +4,24 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 09:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 15:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어플, 쇼룸, 랩스, 3가지 구조의 혁신적 중고 시계 플랫폼 ‘바이버’.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76886</link>
+            <guid>https://www.esquirekorea.co.kr/article/76886</guid>
+            <pubDate>Sun, 30 Apr 2023 15:17:51 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/29/dbb235f4-9edd-4a80-a7f2-9a9fcf4156df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울시 새 슬로건 '서울, 마이 소울(Seoul, my soul)' 발표]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77171</link>
+            <guid>https://www.esquirekorea.co.kr/article/77171</guid>
+            <pubDate>Sun, 30 Apr 2023 15:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[굿바이 '아이 서울 유']]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/8b70cf89-1df7-49a4-9ced-628a50f2494e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘TTM’ 프로젝트 차트인 공약?]]></title>
             <link>https://www.esquirekorea.co.kr/article/77166</link>
@@ -54,22 +69,6 @@
             <pubDate>Fri, 28 Apr 2023 09:18:50 GMT</pubDate>
             <content:encoded><![CDATA[프랑스에서 단 90분만 진행된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/b402cdd4-8fa0-46eb-80fe-1824904d215b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part1. 비아이가 생각하는 허전함의 정의]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76806</link>
-            <guid>https://www.esquirekorea.co.kr/article/76806</guid>
-            <pubDate>Fri, 28 Apr 2023 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;에스콰이어&gt; 음원 프로젝트 ‘TTM’에 비아이와 레디 그리고 식케이가 함께했다. 늦은 밤, 폐차...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/93c0b118-abb9-403a-a496-cc25b7d4d9cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part3. 식케이는 'TTM'를 듣고 "당했다"라고 말했다.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76809</link>
-            <guid>https://www.esquirekorea.co.kr/article/76809</guid>
-            <pubDate>Thu, 27 Apr 2023 15:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;에스콰이어&gt; 음원 프로젝트 ‘TTM’에 비아이와 레디 그리고 식케이가 함께했다. 늦은 밤, 폐차...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/821e878c-9801-4ba6-829c-2071d0459f1d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
