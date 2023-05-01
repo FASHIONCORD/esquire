@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 09:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 15:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몽블랑 익스플로러와 우도환이 함께한 후각적 여정]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77125</link>
+            <guid>https://www.esquirekorea.co.kr/article/77125</guid>
+            <pubDate>Mon, 01 May 2023 15:18:39 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/d52cbe3e-ccb7-4040-a61b-c0c5eba6eb23.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[춘곤증 비상! 춘곤증 퇴치 음식 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/76854</link>
@@ -62,14 +69,6 @@
             <pubDate>Tue, 18 Apr 2023 09:19:05 GMT</pubDate>
             <content:encoded><![CDATA[벌써 여름을 기다리며.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/3ea903ac-49aa-421e-baad-9c7ad05847ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컬러 레더 재킷]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76615</link>
-            <guid>https://www.esquirekorea.co.kr/article/76615</guid>
-            <pubDate>Mon, 17 Apr 2023 09:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[봄은 가죽에도 물든다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/12/b2fe7fd3-87c1-40bc-bc91-97c3999f783e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
