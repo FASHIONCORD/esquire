@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 03:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 09:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1447,6 +1447,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/b402cdd4-8fa0-46eb-80fe-1824904d215b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[비아이 x 식케이 x 레디 ‘TTM’ 뮤직비디오 공개 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77142</link>
+            <guid>https://www.esquirekorea.co.kr/article/77142</guid>
+            <pubDate>Sun, 30 Apr 2023 03:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[에스콰이어와 함께한 음원 프로젝트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/5f315810-9609-438a-aa22-e5804cd3d730.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘나 혼자 산다’ 일일 게스트 김대호 아나운서 TMI 12. (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/77140</link>
             <guid>https://www.esquirekorea.co.kr/article/77140</guid>
@@ -1500,14 +1508,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/76890</guid>
             <pubDate>Wed, 26 Apr 2023 03:20:20 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/009788d8-18a6-4c78-85ec-880002f26dab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part2. 표예진이 <모범택시> 방영분을 보고 밤새 울었던 이유 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76842</link>
-            <guid>https://www.esquirekorea.co.kr/article/76842</guid>
-            <pubDate>Wed, 26 Apr 2023 03:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;모범택시2&gt;와 &lt;청춘월담&gt; 종영을 앞두고 배우 표예진을 만났다. 그녀는 아직도 하고 싶은 연기,...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/20/f99cb67a-23c0-4968-b861-7df66846d717.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[천명관 장편소설 '고래' 부커상 최종 후보 선정 (에스콰이어 코리아 ─ 나우)]]></title>
