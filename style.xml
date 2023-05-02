@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 09:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 15:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어플, 쇼룸, 랩스, 3가지 구조의 혁신적 중고 시계 플랫폼 ‘바이버’.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76886</link>
+            <guid>https://www.esquirekorea.co.kr/article/76886</guid>
+            <pubDate>Tue, 02 May 2023 15:20:53 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/dbb235f4-9edd-4a80-a7f2-9a9fcf4156df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[점잖은 신발이 지루하지 않은 이유, 제냐 트리플 스티치 스니커즈]]></title>
             <link>https://www.esquirekorea.co.kr/article/76858</link>
@@ -60,14 +67,6 @@
             <pubDate>Wed, 26 Apr 2023 15:19:50 GMT</pubDate>
             <content:encoded><![CDATA[일월수목원에서 봄을 맞이한 케플러 멤버 9인 모두를 만나고 왔다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/aa31ab93-1a2f-427e-89a1-ed9f805bcd3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기본 중의 기본]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76696</link>
-            <guid>https://www.esquirekorea.co.kr/article/76696</guid>
-            <pubDate>Thu, 20 Apr 2023 09:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[강인한 블랙 선글라스 하나면 충분하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/977bc088-8024-48eb-ae90-81f9b71542b0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
