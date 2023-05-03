@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 03:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 09:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틱톡, 틱톡, 시한폭탄 틱톡]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77217</link>
+            <guid>https://www.esquirekorea.co.kr/article/77217</guid>
+            <pubDate>Wed, 03 May 2023 09:17:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/071fb77c-1fa1-4c74-840e-cb940544ca4f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[티쏘 국내 첫 단독 부티크 여의도 IFC몰 오픈]]></title>
             <link>https://www.esquirekorea.co.kr/article/77215</link>
@@ -61,14 +68,6 @@
             <pubDate>Sun, 30 Apr 2023 03:18:46 GMT</pubDate>
             <content:encoded><![CDATA[생(生)으로 먹었다가 생사(生死)를 오갈 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/3d7c67d9-02d7-4c2c-b429-60085908c6b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비아이 x 식케이 x 레디 ‘TTM’ 뮤직비디오 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77142</link>
-            <guid>https://www.esquirekorea.co.kr/article/77142</guid>
-            <pubDate>Sun, 30 Apr 2023 03:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[에스콰이어와 함께한 음원 프로젝트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/5f315810-9609-438a-aa22-e5804cd3d730.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
