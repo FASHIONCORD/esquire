@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 09:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 15:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김포 한옥마을 근처 가볼 곳 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77209</link>
+            <guid>https://www.esquirekorea.co.kr/article/77209</guid>
+            <pubDate>Wed, 03 May 2023 15:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[하루에 딱 3시간만 맛볼 수 있는 짬뽕?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/30/67aa50f7-b669-436e-9be5-e1e8cf949421.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TV 속 '요리 전문가'들이 말하는 한식 요리 비법은 모두 사실일까?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77207</link>
+            <guid>https://www.esquirekorea.co.kr/article/77207</guid>
+            <pubDate>Wed, 03 May 2023 15:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[어머니가 알려준 요리 비법은 모두 만고의  진리일까? TV 속 한식 명장들이 갖은 시도 끝에 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/30/3b3f08f0-a930-470f-b5e5-db8c3e10e5fc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미리보는 미슐랭 2024! 선공개 맛집 6]]></title>
             <link>https://www.esquirekorea.co.kr/article/77199</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 28 Apr 2023 15:20:01 GMT</pubDate>
             <content:encoded><![CDATA[서비스로 양념게장에 돼지고기가 듬뿍 들어간 김치찌개까지 나온다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/dac9ef03-c2c5-4261-adfd-581b50a1125e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만원 이하 서울 구내식당_ 일반 기업 편]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77031</link>
-            <guid>https://www.esquirekorea.co.kr/article/77031</guid>
-            <pubDate>Fri, 28 Apr 2023 09:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[7천원에 건강식부터 디저트까지 한 번에 즐길 수 있다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/c1864e82-55b3-4279-97a0-76a57e119e3e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[씨름선수 윤코치 노포 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77030</link>
-            <guid>https://www.esquirekorea.co.kr/article/77030</guid>
-            <pubDate>Thu, 27 Apr 2023 15:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[대세 먹방 유튜버인 씨름선수 윤정수! 그가 다녀간 노포 맛집은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/8395ee14-e26c-49dd-978d-b81d9699b5aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

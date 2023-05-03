@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 09:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 15:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1132,6 +1132,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[홈 프래그런스 미학 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77206</link>
+            <guid>https://www.esquirekorea.co.kr/article/77206</guid>
+            <pubDate>Wed, 03 May 2023 15:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[향으로 기록하는 시간의 형태.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/30/e923e82c-5643-477d-856f-f0034ee5e922.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[어플, 쇼룸, 랩스, 3가지 구조의 혁신적 중고 시계 플랫폼 ‘바이버’. (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/76886</link>
             <guid>https://www.esquirekorea.co.kr/article/76886</guid>
@@ -1183,14 +1191,6 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 26 Apr 2023 15:19:50 GMT</pubDate>
             <content:encoded><![CDATA[취향이 다른 여행자 세 명의 가방 속 물건들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/16/ce417aab-6926-4ed3-8a4f-91aa22d87473.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새 앨범 'LOVESTRUCK!'으로 돌아온 케플러(kep1er) 완전체 화보 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76703</link>
-            <guid>https://www.esquirekorea.co.kr/article/76703</guid>
-            <pubDate>Wed, 26 Apr 2023 15:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[일월수목원에서 봄을 맞이한 케플러 멤버 9인 모두를 만나고 왔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/aa31ab93-1a2f-427e-89a1-ed9f805bcd3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[워치스앤원더스 2023 특집 'IWC 샤프하우젠' (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1319,6 +1319,22 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/418cf641-2bc9-4ff3-a5f5-40e06cf44430.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김포 한옥마을 근처 가볼 곳 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77209</link>
+            <guid>https://www.esquirekorea.co.kr/article/77209</guid>
+            <pubDate>Tue, 02 May 2023 15:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[하루에 딱 3시간만 맛볼 수 있는 짬뽕?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/30/67aa50f7-b669-436e-9be5-e1e8cf949421.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TV 속 '요리 전문가'들이 말하는 한식 요리 비법은 모두 사실일까? (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77207</link>
+            <guid>https://www.esquirekorea.co.kr/article/77207</guid>
+            <pubDate>Wed, 03 May 2023 15:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[어머니가 알려준 요리 비법은 모두 만고의  진리일까? TV 속 한식 명장들이 갖은 시도 끝에 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/30/3b3f08f0-a930-470f-b5e5-db8c3e10e5fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미리보는 미슐랭 2024! 선공개 맛집 6 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/77199</link>
             <guid>https://www.esquirekorea.co.kr/article/77199</guid>
@@ -1367,20 +1383,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/dac9ef03-c2c5-4261-adfd-581b50a1125e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[만원 이하 서울 구내식당_ 일반 기업 편 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77031</link>
-            <guid>https://www.esquirekorea.co.kr/article/77031</guid>
-            <pubDate>Wed, 26 Apr 2023 03:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[7천원에 건강식부터 디저트까지 한 번에 즐길 수 있다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/c1864e82-55b3-4279-97a0-76a57e119e3e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[오마카세 제공? 숙소 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77288</link>
+            <guid>https://www.esquirekorea.co.kr/article/77288</guid>
+            <pubDate>Wed, 03 May 2023 15:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[감성 숙소에서 오마카세까지 한 번에 즐길 수 있다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/09d9dbb7-ddb6-4e38-8e0a-50185b4228e5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[씨름선수 윤코치 노포 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77030</link>
-            <guid>https://www.esquirekorea.co.kr/article/77030</guid>
-            <pubDate>Thu, 27 Apr 2023 15:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[대세 먹방 유튜버인 씨름선수 윤정수! 그가 다녀간 노포 맛집은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/8395ee14-e26c-49dd-978d-b81d9699b5aa.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[당신이 그리스와 터키 사이의 작은 섬나라, 키프로스의 이름을 기억해야 하는 이유 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76940</link>
+            <guid>https://www.esquirekorea.co.kr/article/76940</guid>
+            <pubDate>Wed, 03 May 2023 15:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[지중해의 작은 섬나라, 키프로스. 국내에는 미처 알려지지 않은 이 미지의 섬이 가진 너비와 깊...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/77ff812a-2e60-4a73-956b-98f5a74072da.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[틱톡, 틱톡, 시한폭탄 틱톡 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1427,22 +1443,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sun, 30 Apr 2023 15:17:51 GMT</pubDate>
             <content:encoded><![CDATA[굿바이 '아이 서울 유']]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/8b70cf89-1df7-49a4-9ced-628a50f2494e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘TTM’ 프로젝트 차트인 공약? (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77166</link>
-            <guid>https://www.esquirekorea.co.kr/article/77166</guid>
-            <pubDate>Sun, 30 Apr 2023 09:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[프로젝트의 시작부터 생동감 넘치는 촬영 현장까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/4e3f7072-8583-4837-9dc4-ae964d2de94f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생으로 먹으면 절대! 안 되는 음식 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77158</link>
-            <guid>https://www.esquirekorea.co.kr/article/77158</guid>
-            <pubDate>Sun, 30 Apr 2023 03:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[생(生)으로 먹었다가 생사(生死)를 오갈 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/3d7c67d9-02d7-4c2c-b429-60085908c6b8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비아이 x 식케이 x 레디 ‘TTM’ 뮤직비디오 공개 (에스콰이어 코리아 ─ 피플)]]></title>

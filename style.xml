@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 09:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 15:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홈 프래그런스 미학]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77206</link>
+            <guid>https://www.esquirekorea.co.kr/article/77206</guid>
+            <pubDate>Wed, 03 May 2023 15:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[향으로 기록하는 시간의 형태.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/30/e923e82c-5643-477d-856f-f0034ee5e922.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어플, 쇼룸, 랩스, 3가지 구조의 혁신적 중고 시계 플랫폼 ‘바이버’.]]></title>
             <link>https://www.esquirekorea.co.kr/article/76886</link>
@@ -59,14 +67,6 @@
             <pubDate>Wed, 26 Apr 2023 15:19:50 GMT</pubDate>
             <content:encoded><![CDATA[취향이 다른 여행자 세 명의 가방 속 물건들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/16/ce417aab-6926-4ed3-8a4f-91aa22d87473.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새 앨범 'LOVESTRUCK!'으로 돌아온 케플러(kep1er) 완전체 화보]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76703</link>
-            <guid>https://www.esquirekorea.co.kr/article/76703</guid>
-            <pubDate>Wed, 26 Apr 2023 15:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[일월수목원에서 봄을 맞이한 케플러 멤버 9인 모두를 만나고 왔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/15/aa31ab93-1a2f-427e-89a1-ed9f805bcd3b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

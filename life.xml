@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 09:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 15:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오마카세 제공? 숙소 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77288</link>
+            <guid>https://www.esquirekorea.co.kr/article/77288</guid>
+            <pubDate>Wed, 03 May 2023 15:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[감성 숙소에서 오마카세까지 한 번에 즐길 수 있다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/09d9dbb7-ddb6-4e38-8e0a-50185b4228e5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신이 그리스와 터키 사이의 작은 섬나라, 키프로스의 이름을 기억해야 하는 이유]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76940</link>
+            <guid>https://www.esquirekorea.co.kr/article/76940</guid>
+            <pubDate>Wed, 03 May 2023 15:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[지중해의 작은 섬나라, 키프로스. 국내에는 미처 알려지지 않은 이 미지의 섬이 가진 너비와 깊...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/77ff812a-2e60-4a73-956b-98f5a74072da.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[틱톡, 틱톡, 시한폭탄 틱톡]]></title>
             <link>https://www.esquirekorea.co.kr/article/77217</link>
@@ -52,22 +68,6 @@
             <pubDate>Sun, 30 Apr 2023 15:17:51 GMT</pubDate>
             <content:encoded><![CDATA[굿바이 '아이 서울 유']]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/8b70cf89-1df7-49a4-9ced-628a50f2494e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘TTM’ 프로젝트 차트인 공약?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77166</link>
-            <guid>https://www.esquirekorea.co.kr/article/77166</guid>
-            <pubDate>Sun, 30 Apr 2023 09:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[프로젝트의 시작부터 생동감 넘치는 촬영 현장까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/4e3f7072-8583-4837-9dc4-ae964d2de94f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생으로 먹으면 절대! 안 되는 음식 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77158</link>
-            <guid>https://www.esquirekorea.co.kr/article/77158</guid>
-            <pubDate>Sun, 30 Apr 2023 03:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[생(生)으로 먹었다가 생사(生死)를 오갈 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/3d7c67d9-02d7-4c2c-b429-60085908c6b8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
