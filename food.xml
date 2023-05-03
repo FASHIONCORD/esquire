@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 15:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 03:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생으로 먹으면 절대! 안 되는 음식 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77158</link>
+            <guid>https://www.esquirekorea.co.kr/article/77158</guid>
+            <pubDate>Wed, 03 May 2023 03:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[생(生)으로 먹었다가 생사(生死)를 오갈 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/3d7c67d9-02d7-4c2c-b429-60085908c6b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숨은 맛집을 찾아서! 서울 상가 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/77141</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 27 Apr 2023 15:18:31 GMT</pubDate>
             <content:encoded><![CDATA[만원대에 즐길 수 있는 한우 쌈밥?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/fe4d1a3c-2882-4d01-951f-ddb1836a8c54.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크루아상을 누룽지처럼 눌러 만든 ‘크룽지’ 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76924</link>
-            <guid>https://www.esquirekorea.co.kr/article/76924</guid>
-            <pubDate>Wed, 26 Apr 2023 09:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[프랑스 전통 빵 크루아상을 누룽지처럼 얇고 바삭하게 누른 것이 특징이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/23/57143af2-e785-4f8b-af31-3d919a4a9200.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

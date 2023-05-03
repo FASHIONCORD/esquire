@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 15:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 03:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1319,6 +1319,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/18/418cf641-2bc9-4ff3-a5f5-40e06cf44430.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[생으로 먹으면 절대! 안 되는 음식 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77158</link>
+            <guid>https://www.esquirekorea.co.kr/article/77158</guid>
+            <pubDate>Sun, 30 Apr 2023 03:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[생(生)으로 먹었다가 생사(生死)를 오갈 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/3d7c67d9-02d7-4c2c-b429-60085908c6b8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[숨은 맛집을 찾아서! 서울 상가 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/77141</link>
             <guid>https://www.esquirekorea.co.kr/article/77141</guid>
@@ -1375,12 +1383,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/fe4d1a3c-2882-4d01-951f-ddb1836a8c54.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크루아상을 누룽지처럼 눌러 만든 ‘크룽지’ 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76924</link>
-            <guid>https://www.esquirekorea.co.kr/article/76924</guid>
-            <pubDate>Tue, 25 Apr 2023 09:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[프랑스 전통 빵 크루아상을 누룽지처럼 얇고 바삭하게 누른 것이 특징이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/23/57143af2-e785-4f8b-af31-3d919a4a9200.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[티쏘 국내 첫 단독 부티크 여의도 IFC몰 오픈 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77215</link>
+            <guid>https://www.esquirekorea.co.kr/article/77215</guid>
+            <pubDate>Wed, 03 May 2023 03:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[사람의 손길이 닿을 때 더욱 생기를 얻는 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/cdab48ef-be9f-4b93-b23c-29852e4b0cfb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나이키와 평생 계약 맺은 케빈 듀란트 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1436,14 +1444,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sun, 30 Apr 2023 03:18:46 GMT</pubDate>
             <content:encoded><![CDATA[에스콰이어와 함께한 음원 프로젝트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/5f315810-9609-438a-aa22-e5804cd3d730.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숨은 맛집을 찾아서! 서울 상가 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77141</link>
-            <guid>https://www.esquirekorea.co.kr/article/77141</guid>
-            <pubDate>Fri, 28 Apr 2023 15:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[이영자가 반한 수제비부터 제주의 맛을 그대로 재현한 맛집까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/c58cc635-95bb-495a-8333-7906e88fbecb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비아이 x 식케이 x 레디 ‘TTM’ 뮤직비디오 공개 (에스콰이어 코리아 ─ 피플)]]></title>
