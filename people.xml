@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 03:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 09:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['우리 연애 시뮬레이션' 이종혁, 이승규가 서로에게 탐나는 아이템?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77181</link>
+            <guid>https://www.esquirekorea.co.kr/article/77181</guid>
+            <pubDate>Thu, 04 May 2023 09:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[유튜브에서 풀버전을 만날 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/c30b769e-2f2c-4ab7-b5cd-f434fd67830b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘TTM’ 프로젝트 차트인 공약?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77166</link>
+            <guid>https://www.esquirekorea.co.kr/article/77166</guid>
+            <pubDate>Thu, 04 May 2023 09:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[프로젝트의 시작부터 생동감 넘치는 촬영 현장까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/4e3f7072-8583-4837-9dc4-ae964d2de94f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비아이 x 식케이 x 레디 ‘TTM’ 뮤직비디오 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/77142</link>
@@ -54,21 +70,6 @@
             <pubDate>Thu, 27 Apr 2023 15:18:47 GMT</pubDate>
             <content:encoded><![CDATA[안재현은 좋은 사람이다. 펜으로 꾹꾹 눌러 진심 어린 글을 쓰고, 최대한 많은 사람에게 편안함...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/dd48ad9f-e669-4ad1-a23d-89c528914d3e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part1. 안재현이 데뷔 후 첫 공백기에 책을 쓰기로 결심했던 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76846</link>
-            <guid>https://www.esquirekorea.co.kr/article/76846</guid>
-            <pubDate>Thu, 27 Apr 2023 15:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[안재현은 좋은 사람이다. 펜으로 꾹꾹 눌러 진심 어린 글을 쓰고, 최대한 많은 사람에게 편안함...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/8c54c5e2-45f1-4ebb-bfd9-15a9462544d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케플러 촬영 중 소리 지른 이유?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76890</link>
-            <guid>https://www.esquirekorea.co.kr/article/76890</guid>
-            <pubDate>Wed, 26 Apr 2023 03:20:20 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/21/009788d8-18a6-4c78-85ec-880002f26dab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

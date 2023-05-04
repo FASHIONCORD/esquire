@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 03:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 09:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[짜장면과는 다른 맛? '중깐' 맛집 3]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77292</link>
+            <guid>https://www.esquirekorea.co.kr/article/77292</guid>
+            <pubDate>Thu, 04 May 2023 09:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[목포에서도 딱 세 곳에서만 먹을 수 있다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/9b71338a-35b8-4887-9251-ab453f3f8286.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오마카세 제공? 숙소 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77288</link>
+            <guid>https://www.esquirekorea.co.kr/article/77288</guid>
+            <pubDate>Thu, 04 May 2023 09:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[감성 숙소에서 오마카세까지 한 번에 즐길 수 있다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/09d9dbb7-ddb6-4e38-8e0a-50185b4228e5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김포 한옥마을 근처 가볼 곳 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/77209</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 30 Apr 2023 03:18:38 GMT</pubDate>
             <content:encoded><![CDATA[단돈 1만 4천원 게장 무한리필 맛집부터 꽃게찜과 계란찜을 서비스로 제공해 주는 곳까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/f1491c19-2b2f-4809-b151-2cb58057fad0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행정안전부에서 지정한 서울 착한가격업소 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77115</link>
-            <guid>https://www.esquirekorea.co.kr/article/77115</guid>
-            <pubDate>Sat, 29 Apr 2023 15:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[오겹살, 삼겹살, 차돌박이까지 모두 만원에 내주는 곳?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/8afb85cd-6b64-4270-bc35-9ada6f429c88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성수동 갈비 골목 대표 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77032</link>
-            <guid>https://www.esquirekorea.co.kr/article/77032</guid>
-            <pubDate>Fri, 28 Apr 2023 15:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[서비스로 양념게장에 돼지고기가 듬뿍 들어간 김치찌개까지 나온다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/dac9ef03-c2c5-4261-adfd-581b50a1125e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
