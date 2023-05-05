@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 15:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 03:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티쏘 국내 첫 단독 부티크 여의도 IFC몰 오픈]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77215</link>
+            <guid>https://www.esquirekorea.co.kr/article/77215</guid>
+            <pubDate>Fri, 05 May 2023 03:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[사람의 손길이 닿을 때 더욱 생기를 얻는 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/cdab48ef-be9f-4b93-b23c-29852e4b0cfb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홈 프래그런스 미학]]></title>
             <link>https://www.esquirekorea.co.kr/article/77206</link>
@@ -59,14 +67,6 @@
             <pubDate>Fri, 28 Apr 2023 15:19:04 GMT</pubDate>
             <content:encoded><![CDATA[내일(18일) 오후 6시 신곡으로 돌아오는 소유를 미리 만나고 왔다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/4443198a-122b-4a6c-b314-0ccb7b0556d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트래블 메이트]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76068</link>
-            <guid>https://www.esquirekorea.co.kr/article/76068</guid>
-            <pubDate>Wed, 26 Apr 2023 15:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[취향이 다른 여행자 세 명의 가방 속 물건들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/16/ce417aab-6926-4ed3-8a4f-91aa22d87473.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
