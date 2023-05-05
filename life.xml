@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 03:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 09:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리는 야구라는 게임을 고쳐 쓸 수 있을까?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76946</link>
+            <guid>https://www.esquirekorea.co.kr/article/76946</guid>
+            <pubDate>Fri, 05 May 2023 09:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[야구는 미국의 국민 스포츠로 불려왔다. 그러나 관중은 줄었고, 젊은이들은 등을 돌렸다. 2023년...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/ae33bece-15df-4fcf-85f7-e2dc70d616d9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찰스 3세를 보는 다른 관점]]></title>
             <link>https://www.esquirekorea.co.kr/article/77323</link>
@@ -61,13 +69,6 @@
             <pubDate>Wed, 03 May 2023 15:19:47 GMT</pubDate>
             <content:encoded><![CDATA[지중해의 작은 섬나라, 키프로스. 국내에는 미처 알려지지 않은 이 미지의 섬이 가진 너비와 깊...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/77ff812a-2e60-4a73-956b-98f5a74072da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡, 틱톡, 시한폭탄 틱톡]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77217</link>
-            <guid>https://www.esquirekorea.co.kr/article/77217</guid>
-            <pubDate>Wed, 03 May 2023 09:17:58 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/071fb77c-1fa1-4c74-840e-cb940544ca4f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
