@@ -4,9 +4,24 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 15:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 03:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[50년 넘게 운영한 백숙 노포 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77345</link>
+            <guid>https://www.esquirekorea.co.kr/article/77345</guid>
+            <pubDate>Sat, 06 May 2023 03:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[한 그릇을 만드는 데 3일이 걸리는 백숙?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/543a5de0-de2f-49e8-8e5a-58e172895dfc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[돈두댓] A컵은 출연할 수 없다고? 전 세계 독특한 성인물 관련법 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77338</link>
+            <guid>https://www.esquirekorea.co.kr/article/77338</guid>
+            <pubDate>Sat, 06 May 2023 03:19:42 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/4749127d-fbcf-4e5a-a134-300e7713ea41.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리는 야구라는 게임을 고쳐 쓸 수 있을까?]]></title>
             <link>https://www.esquirekorea.co.kr/article/76946</link>
@@ -53,22 +68,6 @@
             <pubDate>Thu, 04 May 2023 03:19:55 GMT</pubDate>
             <content:encoded><![CDATA[아직 푸꾸옥이 어떤 곳인지 모른다면 그건 다행이다. 반드시 가봐야 할 목적지 하나가 남아 있...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/304efb98-1cd3-4d9f-b7a6-2826977a047b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오마카세 제공? 숙소 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77288</link>
-            <guid>https://www.esquirekorea.co.kr/article/77288</guid>
-            <pubDate>Wed, 03 May 2023 15:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[감성 숙소에서 오마카세까지 한 번에 즐길 수 있다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/09d9dbb7-ddb6-4e38-8e0a-50185b4228e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신이 그리스와 터키 사이의 작은 섬나라, 키프로스의 이름을 기억해야 하는 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76940</link>
-            <guid>https://www.esquirekorea.co.kr/article/76940</guid>
-            <pubDate>Wed, 03 May 2023 15:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[지중해의 작은 섬나라, 키프로스. 국내에는 미처 알려지지 않은 이 미지의 섬이 가진 너비와 깊...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/77ff812a-2e60-4a73-956b-98f5a74072da.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

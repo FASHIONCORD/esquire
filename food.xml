@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 15:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 03:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시장 속 노포 냉면집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77321</link>
+            <guid>https://www.esquirekorea.co.kr/article/77321</guid>
+            <pubDate>Sat, 06 May 2023 03:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[냉면골목의 터줏대감 사골 냉면집부터 줄 서서 먹는 매운 냉면집까지]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/97a263fb-da70-48c5-a075-b87cb6be6c57.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울에서 찾은 전국 향토 음식 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/77308</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 03 May 2023 03:20:04 GMT</pubDate>
             <content:encoded><![CDATA[생(生)으로 먹었다가 생사(生死)를 오갈 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/3d7c67d9-02d7-4c2c-b429-60085908c6b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숨은 맛집을 찾아서! 서울 상가 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77141</link>
-            <guid>https://www.esquirekorea.co.kr/article/77141</guid>
-            <pubDate>Tue, 02 May 2023 15:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[이영자가 반한 수제비부터 제주의 맛을 그대로 재현한 맛집까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/c58cc635-95bb-495a-8333-7906e88fbecb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
