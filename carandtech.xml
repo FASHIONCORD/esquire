@@ -4,9 +4,24 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 09:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 15:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포드 레인저 랩터가 사냥을 시작한다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76668</link>
+            <guid>https://www.esquirekorea.co.kr/article/76668</guid>
+            <pubDate>Sat, 06 May 2023 15:17:15 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/49ab3036-0a29-4d10-afb1-39a6c80b7d18.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우주에서 '열일'하고 있는 다누리가 보낸 영상]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76651</link>
+            <guid>https://www.esquirekorea.co.kr/article/76651</guid>
+            <pubDate>Sat, 06 May 2023 15:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[달 뒷면의 지표면을 생생하게 담았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/a7ae74ef-67cd-4bcc-a263-9d8c55b29645.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EV 9이 제안하는 새로운 전기차 라이프]]></title>
             <link>https://www.esquirekorea.co.kr/article/76641</link>
@@ -51,22 +66,6 @@
             <guid>https://www.esquirekorea.co.kr/article/76054</guid>
             <pubDate>Wed, 12 Apr 2023 15:19:43 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/1fc8d66f-b63b-4efc-bc5a-0a2458306975.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 첫 민간 우주발사체 시험 발사 성공]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76010</link>
-            <guid>https://www.esquirekorea.co.kr/article/76010</guid>
-            <pubDate>Tue, 11 Apr 2023 09:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[한국판 스페이스 X 시대가 막이 올랐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/464bf3b0-bba1-41a0-aec8-8c4262ff7180.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 페이, 한국에서 공식 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76007</link>
-            <guid>https://www.esquirekorea.co.kr/article/76007</guid>
-            <pubDate>Fri, 07 Apr 2023 03:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[현대카드를 등록한 후 사용이 가능하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/21/dfc1e739-0861-49c2-b8fd-d8172ad1eb48.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
