@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 09:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 15:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1132,6 +1132,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[도나텔라 베르사체가 말하고 싶은 것 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76988</link>
+            <guid>https://www.esquirekorea.co.kr/article/76988</guid>
+            <pubDate>Sun, 07 May 2023 15:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[로스앤젤레스의 석양처럼 극적이었던 베르사체의 2023 F/W 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/d51df074-9b82-405d-849b-2d3914476e79.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[티쏘 국내 첫 단독 부티크 여의도 IFC몰 오픈 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/77215</link>
             <guid>https://www.esquirekorea.co.kr/article/77215</guid>
@@ -1183,14 +1191,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sat, 29 Apr 2023 15:17:05 GMT</pubDate>
             <content:encoded><![CDATA[다양한 스포츠 웨어부터 액세서리까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/c2a2e669-e1b8-41d2-804a-845fcb56fbd0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['우리는 매일 이별을 향해 걸어가지' 새 앨범 발매를 앞둔 소유 화보 공개 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76746</link>
-            <guid>https://www.esquirekorea.co.kr/article/76746</guid>
-            <pubDate>Fri, 28 Apr 2023 15:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[내일(18일) 오후 6시 신곡으로 돌아오는 소유를 미리 만나고 왔다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/17/4443198a-122b-4a6c-b314-0ccb7b0556d8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[워치스앤원더스 2023 특집 'IWC 샤프하우젠' (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1257,6 +1257,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/60b6d379-9af0-4df0-9c49-3a8fead7144a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[챗GPT와 안경을 결합한 리즈GPT 등장 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77100</link>
+            <guid>https://www.esquirekorea.co.kr/article/77100</guid>
+            <pubDate>Sun, 07 May 2023 15:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[아이언맨의 안경 속 비서 자비스가 현실로 다가온다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/d1343487-4ce9-462c-a434-494deb26206f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[포드 레인저 랩터가 사냥을 시작한다 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/76668</link>
             <guid>https://www.esquirekorea.co.kr/article/76668</guid>
@@ -1308,13 +1316,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 13 Apr 2023 03:20:30 GMT</pubDate>
             <content:encoded><![CDATA[포스 능력을 이용하는 것을 볼 수 있다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/24/74687bfa-6552-4651-bf32-5b4b41023560.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루이 비통의 3세대 이어폰은 노이즈 캔슬링 이어폰으로서의 기능은 물론, '패션 액세서리'로서의 역할도 톡톡히 한다 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76054</link>
-            <guid>https://www.esquirekorea.co.kr/article/76054</guid>
-            <pubDate>Wed, 12 Apr 2023 15:19:43 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/1fc8d66f-b63b-4efc-bc5a-0a2458306975.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[50년 넘게 운영한 백숙 노포 5 (에스콰이어 코리아 ─ 푸드)]]></title>
