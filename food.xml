@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 03:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 09:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[50년 넘게 운영한 백숙 노포 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77345</link>
+            <guid>https://www.esquirekorea.co.kr/article/77345</guid>
+            <pubDate>Sun, 07 May 2023 09:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[한 그릇을 만드는 데 3일이 걸리는 백숙?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/543a5de0-de2f-49e8-8e5a-58e172895dfc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고기 무한리필 해주는 캠핑장 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/77322</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 03 May 2023 15:19:38 GMT</pubDate>
             <content:encoded><![CDATA[어머니가 알려준 요리 비법은 모두 만고의  진리일까? TV 속 한식 명장들이 갖은 시도 끝에 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/30/3b3f08f0-a930-470f-b5e5-db8c3e10e5fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미리보는 미슐랭 2024! 선공개 맛집 6]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77199</link>
-            <guid>https://www.esquirekorea.co.kr/article/77199</guid>
-            <pubDate>Wed, 03 May 2023 09:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[이미 ‘핫’하지만, 더욱 웨이팅이 길어지기 전에 꼭 방문해야 할 맛집 리스트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/aa549cfc-ba18-4395-a30c-67f75eec2589.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

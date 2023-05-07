@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 03:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 09:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1317,6 +1317,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/23/1fc8d66f-b63b-4efc-bc5a-0a2458306975.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[50년 넘게 운영한 백숙 노포 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77345</link>
+            <guid>https://www.esquirekorea.co.kr/article/77345</guid>
+            <pubDate>Sat, 06 May 2023 03:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[한 그릇을 만드는 데 3일이 걸리는 백숙?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/543a5de0-de2f-49e8-8e5a-58e172895dfc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[고기 무한리필 해주는 캠핑장 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/77322</link>
             <guid>https://www.esquirekorea.co.kr/article/77322</guid>
@@ -1373,12 +1381,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/30/3b3f08f0-a930-470f-b5e5-db8c3e10e5fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미리보는 미슐랭 2024! 선공개 맛집 6 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77199</link>
-            <guid>https://www.esquirekorea.co.kr/article/77199</guid>
-            <pubDate>Wed, 03 May 2023 09:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[이미 ‘핫’하지만, 더욱 웨이팅이 길어지기 전에 꼭 방문해야 할 맛집 리스트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/aa549cfc-ba18-4395-a30c-67f75eec2589.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[가장 최신의 그루밍 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77311</link>
+            <guid>https://www.esquirekorea.co.kr/article/77311</guid>
+            <pubDate>Sun, 07 May 2023 09:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[그루밍을 다시 쓰는 뉴 타입 그루머 9.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/d178f8bf-a858-4b43-bbc2-d338a6f6efad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[50년 넘게 운영한 백숙 노포 5 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1433,14 +1441,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 04 May 2023 09:21:11 GMT</pubDate>
             <content:encoded><![CDATA[목포에서도 딱 세 곳에서만 먹을 수 있다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/9b71338a-35b8-4887-9251-ab453f3f8286.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸꾸옥, 당신이 모르던 파라다이스 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76991</link>
-            <guid>https://www.esquirekorea.co.kr/article/76991</guid>
-            <pubDate>Thu, 04 May 2023 03:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[아직 푸꾸옥이 어떤 곳인지 모른다면 그건 다행이다. 반드시 가봐야 할 목적지 하나가 남아 있...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/304efb98-1cd3-4d9f-b7a6-2826977a047b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['우리 연애 시뮬레이션' 이종혁, 이승규가 서로에게 탐나는 아이템? (에스콰이어 코리아 ─ 피플)]]></title>
