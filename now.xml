@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 15:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 03:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[춘곤증 비상! 춘곤증 퇴치 음식 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76854</link>
+            <guid>https://www.esquirekorea.co.kr/article/76854</guid>
+            <pubDate>Mon, 08 May 2023 03:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 이유 없이 졸리다면?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/e3bba3e6-274e-4063-8e1e-8032e771296b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[천명관 장편소설 '고래' 부커상 최종 후보 선정]]></title>
             <link>https://www.esquirekorea.co.kr/article/76810</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 16 Apr 2023 09:17:53 GMT</pubDate>
             <content:encoded><![CDATA[몸에 좋다는 마늘, 브로콜리 마저?!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/22/1ad10063-eff0-4345-8308-c4b62f195a70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사이비 종교에 빠지면 벗어나지 못하는 이유 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/75865</link>
-            <guid>https://www.esquirekorea.co.kr/article/75865</guid>
-            <pubDate>Thu, 13 Apr 2023 03:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[‘나는 신이다’를 보고 ‘왜 저래?’를 외쳤던 이들이라면 꼭 읽어 보길.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/16/fa59fe6e-9317-42f2-8048-6b75ab9d8336.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

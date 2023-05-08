@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 15:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 03:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 위켄드 X 블루보틀 원두 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77346</link>
+            <guid>https://www.esquirekorea.co.kr/article/77346</guid>
+            <pubDate>Mon, 08 May 2023 03:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[그의 고향인 에티오피아 풍미를 담아냈다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/60deddf5-1a1f-4812-bf24-d168eaa57c79.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[50년 넘게 운영한 백숙 노포 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/77345</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 03 May 2023 15:19:38 GMT</pubDate>
             <content:encoded><![CDATA[하루에 딱 3시간만 맛볼 수 있는 짬뽕?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/30/67aa50f7-b669-436e-9be5-e1e8cf949421.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TV 속 '요리 전문가'들이 말하는 한식 요리 비법은 모두 사실일까?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77207</link>
-            <guid>https://www.esquirekorea.co.kr/article/77207</guid>
-            <pubDate>Wed, 03 May 2023 15:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[어머니가 알려준 요리 비법은 모두 만고의  진리일까? TV 속 한식 명장들이 갖은 시도 끝에 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/30/3b3f08f0-a930-470f-b5e5-db8c3e10e5fc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
