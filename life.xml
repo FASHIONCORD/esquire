@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 03:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 09:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아트부산에서 기자를 설레게 했던 10개의 작품들]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77356</link>
+            <guid>https://www.esquirekorea.co.kr/article/77356</guid>
+            <pubDate>Mon, 08 May 2023 09:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[이 작품들을 찾아다니며 보물 찾기를 해봐도 재밌을 것이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/1518a054-2eb1-4ee3-b7a6-b347256f8bdd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가장 최신의 그루밍]]></title>
             <link>https://www.esquirekorea.co.kr/article/77311</link>
@@ -60,14 +68,6 @@
             <pubDate>Thu, 04 May 2023 09:21:19 GMT</pubDate>
             <content:encoded><![CDATA[모든 재료를 제주에서 직송 받는 맛집?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/7942a251-c141-4ab2-864e-3de3bd5990f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짜장면과는 다른 맛? '중깐' 맛집 3]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77292</link>
-            <guid>https://www.esquirekorea.co.kr/article/77292</guid>
-            <pubDate>Thu, 04 May 2023 09:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[목포에서도 딱 세 곳에서만 먹을 수 있다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/9b71338a-35b8-4887-9251-ab453f3f8286.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

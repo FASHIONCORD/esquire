@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 03:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 09:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스테파노로시와 함께 준비하는 여름 샌들]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77258</link>
+            <guid>https://www.esquirekorea.co.kr/article/77258</guid>
+            <pubDate>Mon, 08 May 2023 09:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[나른한 햇살과 느긋한 파도, 그리고 스테파노로시.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/a7aa53ed-c68c-4467-b120-921a6212e96b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도나텔라 베르사체가 말하고 싶은 것]]></title>
             <link>https://www.esquirekorea.co.kr/article/76988</link>
@@ -59,14 +67,6 @@
             <pubDate>Sun, 30 Apr 2023 09:18:00 GMT</pubDate>
             <content:encoded><![CDATA[요즘 이유 없이 졸리다면?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/e3bba3e6-274e-4063-8e1e-8032e771296b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발망 X 에비앙 협업 컬렉션 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76767</link>
-            <guid>https://www.esquirekorea.co.kr/article/76767</guid>
-            <pubDate>Sat, 29 Apr 2023 15:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[다양한 스포츠 웨어부터 액세서리까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/18/c2a2e669-e1b8-41d2-804a-845fcb56fbd0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
