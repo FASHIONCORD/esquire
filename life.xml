@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 03:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 09:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[양방향 맥주캔의 등장]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77372</link>
+            <guid>https://www.esquirekorea.co.kr/article/77372</guid>
+            <pubDate>Tue, 09 May 2023 09:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[황금비율의 맥주를 만들 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/da945d3c-01cd-4fd7-8ccc-9a2fa85c5fa4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[책 읽는 서울광장 오픈! 가볼 만한 곳 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/77370</link>
@@ -61,13 +69,6 @@
             <pubDate>Fri, 05 May 2023 09:19:28 GMT</pubDate>
             <content:encoded><![CDATA[야구는 미국의 국민 스포츠로 불려왔다. 그러나 관중은 줄었고, 젊은이들은 등을 돌렸다. 2023년...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/ae33bece-15df-4fcf-85f7-e2dc70d616d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찰스 3세를 보는 다른 관점]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77323</link>
-            <guid>https://www.esquirekorea.co.kr/article/77323</guid>
-            <pubDate>Fri, 05 May 2023 03:19:50 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/f2a1ee6c-404a-4670-8658-eeeae533060f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 03:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 09:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수원러가 직접 추천한 수원 왕갈비 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77380</link>
+            <guid>https://www.esquirekorea.co.kr/article/77380</guid>
+            <pubDate>Tue, 09 May 2023 09:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[갈비의 도시 수원을 대표하는 왕갈비 맛집을 탐험해 보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/7908e7f1-2b9c-4144-baf5-7c923de876de.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[책 읽는 서울광장 오픈! 가볼 만한 곳 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77370</link>
+            <guid>https://www.esquirekorea.co.kr/article/77370</guid>
+            <pubDate>Tue, 09 May 2023 09:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[5,000여권의 책이 있는 야외 도서관?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/25faed21-82a5-4d4c-b6cd-a8a4fc0b9ce7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[후쿠오카 미나 텐진 쇼핑몰 투어 & 후쿠오카 맛집 리스트 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/77363</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 05 May 2023 09:19:18 GMT</pubDate>
             <content:encoded><![CDATA[모든 재료를 제주에서 직송 받는 맛집?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/7942a251-c141-4ab2-864e-3de3bd5990f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짜장면과는 다른 맛? '중깐' 맛집 3]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77292</link>
-            <guid>https://www.esquirekorea.co.kr/article/77292</guid>
-            <pubDate>Thu, 04 May 2023 09:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[목포에서도 딱 세 곳에서만 먹을 수 있다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/9b71338a-35b8-4887-9251-ab453f3f8286.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오마카세 제공? 숙소 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77288</link>
-            <guid>https://www.esquirekorea.co.kr/article/77288</guid>
-            <pubDate>Thu, 04 May 2023 09:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[감성 숙소에서 오마카세까지 한 번에 즐길 수 있다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/09d9dbb7-ddb6-4e38-8e0a-50185b4228e5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
