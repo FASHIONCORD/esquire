@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 09:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 15:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1132,6 +1132,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[담담하고 방탕하게 입었다 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77267</link>
+            <guid>https://www.esquirekorea.co.kr/article/77267</guid>
+            <pubDate>Tue, 09 May 2023 15:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[흐린 날의 슈트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/b1d102fb-1df4-4280-a460-08f4bd1fc48a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[봄을 입는 방법 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/77254</link>
             <guid>https://www.esquirekorea.co.kr/article/77254</guid>
@@ -1184,13 +1192,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/76858</guid>
             <pubDate>Tue, 02 May 2023 03:19:14 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/0dd5f78f-9651-4afb-8905-2a210d771622.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몽블랑 익스플로러와 우도환이 함께한 후각적 여정 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77125</link>
-            <guid>https://www.esquirekorea.co.kr/article/77125</guid>
-            <pubDate>Mon, 01 May 2023 15:18:39 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/d52cbe3e-ccb7-4040-a61b-c0c5eba6eb23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[워치스앤원더스 2023 특집 'IWC 샤프하우젠' (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1257,6 +1258,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/60b6d379-9af0-4df0-9c49-3a8fead7144a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[EQE SUV와 마이바흐 전기차가 보여준 벤츠의 미래 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77369</link>
+            <guid>https://www.esquirekorea.co.kr/article/77369</guid>
+            <pubDate>Tue, 09 May 2023 15:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[135년간 최고가 아니면 만들지 않는다는 신념을 지켜온 메르세데스-벤츠에게 뛰어난 승차감과 멋진...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/9d2f2ffb-a642-4738-b68d-afad88887e87.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[거침없는 올 뉴 디펜더 130 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/77355</link>
             <guid>https://www.esquirekorea.co.kr/article/77355</guid>
@@ -1311,11 +1320,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/51ddbdc3-6193-4cb9-9b94-65b72e569359.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[부업 유튜버, 본업 변호사가 본 유튜브의 어두운 생태계 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76328</link>
-            <guid>https://www.esquirekorea.co.kr/article/76328</guid>
-            <pubDate>Thu, 13 Apr 2023 15:19:53 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/30/f842a37c-a436-4c3e-bb4b-fd99dacb515b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[서울에서 맛보는 대만의 맛. 대만음식 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77382</link>
+            <guid>https://www.esquirekorea.co.kr/article/77382</guid>
+            <pubDate>Tue, 09 May 2023 15:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[지금 현재 SNS에서 가장 핫한 곳부터 미슐랭에 5년 연속 선정됐었던 곳까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/29dd6087-24c6-4514-97b8-45a4f1dbb68e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수원러가 직접 추천한 수원 왕갈비 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1374,12 +1384,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/97a263fb-da70-48c5-a075-b87cb6be6c57.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울에서 찾은 전국 향토 음식 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77308</link>
-            <guid>https://www.esquirekorea.co.kr/article/77308</guid>
-            <pubDate>Thu, 04 May 2023 09:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[모든 재료를 제주에서 직송 받는 맛집?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/7942a251-c141-4ab2-864e-3de3bd5990f7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[80년 넘게 떡갈비를 내주는 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77410</link>
+            <guid>https://www.esquirekorea.co.kr/article/77410</guid>
+            <pubDate>Tue, 09 May 2023 15:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[수라상의 고기 다짐을 변형해 처음으로 떡갈비를 고안한 집?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/41ff139b-fdef-4289-a811-e278c71ef33e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울에서 맛보는 대만의 맛. 대만음식 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77382</link>
+            <guid>https://www.esquirekorea.co.kr/article/77382</guid>
+            <pubDate>Tue, 09 May 2023 15:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[지금 현재 SNS에서 가장 핫한 곳부터 미슐랭에 5년 연속 선정됐었던 곳까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/29dd6087-24c6-4514-97b8-45a4f1dbb68e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[양방향 맥주캔의 등장 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1428,21 +1446,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sat, 06 May 2023 03:19:42 GMT</pubDate>
             <content:encoded><![CDATA[한 그릇을 만드는 데 3일이 걸리는 백숙?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/543a5de0-de2f-49e8-8e5a-58e172895dfc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돈두댓] A컵은 출연할 수 없다고? 전 세계 독특한 성인물 관련법 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77338</link>
-            <guid>https://www.esquirekorea.co.kr/article/77338</guid>
-            <pubDate>Sat, 06 May 2023 03:19:42 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/4749127d-fbcf-4e5a-a134-300e7713ea41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 야구라는 게임을 고쳐 쓸 수 있을까? (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76946</link>
-            <guid>https://www.esquirekorea.co.kr/article/76946</guid>
-            <pubDate>Fri, 05 May 2023 09:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[야구는 미국의 국민 스포츠로 불려왔다. 그러나 관중은 줄었고, 젊은이들은 등을 돌렸다. 2023년...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/ae33bece-15df-4fcf-85f7-e2dc70d616d9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['우리 연애 시뮬레이션' 이종혁, 이승규가 서로에게 탐나는 아이템? (에스콰이어 코리아 ─ 피플)]]></title>

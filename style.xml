@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 09:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 15:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[담담하고 방탕하게 입었다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77267</link>
+            <guid>https://www.esquirekorea.co.kr/article/77267</guid>
+            <pubDate>Tue, 09 May 2023 15:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[흐린 날의 슈트.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/b1d102fb-1df4-4280-a460-08f4bd1fc48a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄을 입는 방법]]></title>
             <link>https://www.esquirekorea.co.kr/article/77254</link>
@@ -60,13 +68,6 @@
             <guid>https://www.esquirekorea.co.kr/article/76858</guid>
             <pubDate>Tue, 02 May 2023 03:19:14 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/0dd5f78f-9651-4afb-8905-2a210d771622.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몽블랑 익스플로러와 우도환이 함께한 후각적 여정]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77125</link>
-            <guid>https://www.esquirekorea.co.kr/article/77125</guid>
-            <pubDate>Mon, 01 May 2023 15:18:39 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/d52cbe3e-ccb7-4040-a61b-c0c5eba6eb23.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

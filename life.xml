@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 09:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 15:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[80년 넘게 떡갈비를 내주는 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77410</link>
+            <guid>https://www.esquirekorea.co.kr/article/77410</guid>
+            <pubDate>Tue, 09 May 2023 15:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[수라상의 고기 다짐을 변형해 처음으로 떡갈비를 고안한 집?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/41ff139b-fdef-4289-a811-e278c71ef33e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울에서 맛보는 대만의 맛. 대만음식 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77382</link>
+            <guid>https://www.esquirekorea.co.kr/article/77382</guid>
+            <pubDate>Tue, 09 May 2023 15:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[지금 현재 SNS에서 가장 핫한 곳부터 미슐랭에 5년 연속 선정됐었던 곳까지!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/29dd6087-24c6-4514-97b8-45a4f1dbb68e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[양방향 맥주캔의 등장]]></title>
             <link>https://www.esquirekorea.co.kr/article/77372</link>
@@ -54,21 +70,6 @@
             <pubDate>Sat, 06 May 2023 03:19:42 GMT</pubDate>
             <content:encoded><![CDATA[한 그릇을 만드는 데 3일이 걸리는 백숙?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/543a5de0-de2f-49e8-8e5a-58e172895dfc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돈두댓] A컵은 출연할 수 없다고? 전 세계 독특한 성인물 관련법 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77338</link>
-            <guid>https://www.esquirekorea.co.kr/article/77338</guid>
-            <pubDate>Sat, 06 May 2023 03:19:42 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/4749127d-fbcf-4e5a-a134-300e7713ea41.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 야구라는 게임을 고쳐 쓸 수 있을까?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76946</link>
-            <guid>https://www.esquirekorea.co.kr/article/76946</guid>
-            <pubDate>Fri, 05 May 2023 09:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[야구는 미국의 국민 스포츠로 불려왔다. 그러나 관중은 줄었고, 젊은이들은 등을 돌렸다. 2023년...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/ae33bece-15df-4fcf-85f7-e2dc70d616d9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
