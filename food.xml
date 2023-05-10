@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 03:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 09:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[80년 넘게 떡갈비를 내주는 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77410</link>
+            <guid>https://www.esquirekorea.co.kr/article/77410</guid>
+            <pubDate>Wed, 10 May 2023 09:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[수라상의 고기 다짐을 변형해 처음으로 떡갈비를 고안한 집?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/41ff139b-fdef-4289-a811-e278c71ef33e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세계에서 가장 비싼 아이스크림의 등장]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77398</link>
+            <guid>https://www.esquirekorea.co.kr/article/77398</guid>
+            <pubDate>Wed, 10 May 2023 09:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[장인이 수작업으로 만든 금장 숟가락도 증정된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/dfe2cf43-4e3c-4c19-ad1a-fa20f9f0a7e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울에서 맛보는 대만의 맛. 대만음식 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/77382</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 07 May 2023 09:17:22 GMT</pubDate>
             <content:encoded><![CDATA[한 그릇을 만드는 데 3일이 걸리는 백숙?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/543a5de0-de2f-49e8-8e5a-58e172895dfc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고기 무한리필 해주는 캠핑장 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77322</link>
-            <guid>https://www.esquirekorea.co.kr/article/77322</guid>
-            <pubDate>Sun, 07 May 2023 03:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[제주도 흑돼지 무한리필 캠핑장부터 다양한 고기 부위를 내어주는 곳까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/1e086ff4-9e0e-4126-a44f-b8c65d445686.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시장 속 노포 냉면집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77321</link>
-            <guid>https://www.esquirekorea.co.kr/article/77321</guid>
-            <pubDate>Sat, 06 May 2023 03:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[냉면골목의 터줏대감 사골 냉면집부터 줄 서서 먹는 매운 냉면집까지]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/97a263fb-da70-48c5-a075-b87cb6be6c57.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
