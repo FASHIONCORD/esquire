@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 09:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 03:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어플, 쇼룸, 랩스, 3가지 구조의 혁신적 중고 시계 플랫폼 ‘바이버’.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76886</link>
+            <guid>https://www.esquirekorea.co.kr/article/76886</guid>
+            <pubDate>Thu, 11 May 2023 03:19:22 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/dbb235f4-9edd-4a80-a7f2-9a9fcf4156df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['우리 연애 시뮬레이션' 이종혁, 이승규가 서로에게 탐나는 아이템?]]></title>
             <link>https://www.esquirekorea.co.kr/article/77181</link>
@@ -62,14 +69,6 @@
             <pubDate>Fri, 28 Apr 2023 09:19:14 GMT</pubDate>
             <content:encoded><![CDATA[&lt;에스콰이어&gt; 음원 프로젝트 ‘TTM’에 비아이와 레디 그리고 식케이가 함께했다. 늦은 밤, 폐차...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/821e878c-9801-4ba6-829c-2071d0459f1d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part2. 산부인과 의사 '공태경' 역할을 위해 안재현이 준비한 것들]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76849</link>
-            <guid>https://www.esquirekorea.co.kr/article/76849</guid>
-            <pubDate>Thu, 27 Apr 2023 15:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[안재현은 좋은 사람이다. 펜으로 꾹꾹 눌러 진심 어린 글을 쓰고, 최대한 많은 사람에게 편안함...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/dd48ad9f-e669-4ad1-a23d-89c528914d3e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 09:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 03:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태국 차오프라야 강 전망을 모두 가진 '아바니플러스 리버사이드 방콕']]></title>
+            <link>https://www.esquirekorea.co.kr/article/77451</link>
+            <guid>https://www.esquirekorea.co.kr/article/77451</guid>
+            <pubDate>Thu, 11 May 2023 03:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[모든 객실에서 차오프라야 강이 내려다보이는 아바니 그룹의 아바니플러스 리버사이드 방콕 호텔을...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/232fc504-88c0-4937-b8b6-93caee770ff8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신의 텐트를 돋보이게 해 줄 아이템 12]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77096</link>
+            <guid>https://www.esquirekorea.co.kr/article/77096</guid>
+            <pubDate>Thu, 11 May 2023 03:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[누군가에게 캠핑은 나만의 장비를 가지고 스왜그를 뽐내는 은밀한 전장이다. 5명의 하드코어 캠퍼...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/1a1bed0b-544c-4652-8d76-b0874689fafb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[100년 넘게 운영 중인 노포 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/77446</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 09 May 2023 15:19:41 GMT</pubDate>
             <content:encoded><![CDATA[지금 현재 SNS에서 가장 핫한 곳부터 미슐랭에 5년 연속 선정됐었던 곳까지!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/29dd6087-24c6-4514-97b8-45a4f1dbb68e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양방향 맥주캔의 등장]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77372</link>
-            <guid>https://www.esquirekorea.co.kr/article/77372</guid>
-            <pubDate>Tue, 09 May 2023 09:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[황금비율의 맥주를 만들 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/da945d3c-01cd-4fd7-8ccc-9a2fa85c5fa4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[책 읽는 서울광장 오픈! 가볼 만한 곳 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77370</link>
-            <guid>https://www.esquirekorea.co.kr/article/77370</guid>
-            <pubDate>Mon, 08 May 2023 15:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[5,000여권의 책이 있는 야외 도서관?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/25faed21-82a5-4d4c-b6cd-a8a4fc0b9ce7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

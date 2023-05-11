@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 09:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 03:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[특수부위 마니아들이 찾는 도래창 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77440</link>
+            <guid>https://www.esquirekorea.co.kr/article/77440</guid>
+            <pubDate>Thu, 11 May 2023 03:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[치킨, 족발, 삼겹살의 맛이 동시에 나는 마성의 특수부위?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/18006d19-caba-4c30-b83d-cf8bb36643f4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[80년 넘게 떡갈비를 내주는 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/77410</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 08 May 2023 03:20:37 GMT</pubDate>
             <content:encoded><![CDATA[그의 고향인 에티오피아 풍미를 담아냈다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/60deddf5-1a1f-4812-bf24-d168eaa57c79.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50년 넘게 운영한 백숙 노포 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77345</link>
-            <guid>https://www.esquirekorea.co.kr/article/77345</guid>
-            <pubDate>Sun, 07 May 2023 09:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[한 그릇을 만드는 데 3일이 걸리는 백숙?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/543a5de0-de2f-49e8-8e5a-58e172895dfc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
