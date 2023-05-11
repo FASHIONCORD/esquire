@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 03:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 09:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나이키와 평생 계약 맺은 케빈 듀란트]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77210</link>
+            <guid>https://www.esquirekorea.co.kr/article/77210</guid>
+            <pubDate>Thu, 11 May 2023 09:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[나이키가 스포츠 선수와 평생 계약을 맺은 것은 이번이 네 번째다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/30/1e26c441-8dec-4042-b93d-3d59811f520d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어플, 쇼룸, 랩스, 3가지 구조의 혁신적 중고 시계 플랫폼 ‘바이버’.]]></title>
             <link>https://www.esquirekorea.co.kr/article/76886</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 28 Apr 2023 09:19:14 GMT</pubDate>
             <content:encoded><![CDATA[&lt;에스콰이어&gt; 음원 프로젝트 ‘TTM’에 비아이와 레디 그리고 식케이가 함께했다. 늦은 밤, 폐차...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/93c0b118-abb9-403a-a496-cc25b7d4d9cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part3. 식케이는 'TTM'를 듣고 "당했다"라고 말했다.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76809</link>
-            <guid>https://www.esquirekorea.co.kr/article/76809</guid>
-            <pubDate>Fri, 28 Apr 2023 09:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;에스콰이어&gt; 음원 프로젝트 ‘TTM’에 비아이와 레디 그리고 식케이가 함께했다. 늦은 밤, 폐차...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/821e878c-9801-4ba6-829c-2071d0459f1d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

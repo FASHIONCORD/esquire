@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 03:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 09:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTNfMjU3/MDAxNjQyMDUxNDc2ODE5.FdPwvBnvrq_RXtO5TImaO-CrvLIXiJsCRV9ZNfM1rrIg.I_f5gx-fXtrG5gBAjQBGSAn_jMiF2g1IAEFGYFva4rgg.PNG/IItk2l0TaGtEVGLwc69ULCWoC5do.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가정의 달! 소중한 사람과 가기 좋은 식당 5 (네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&DRINK)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35922322&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35922322&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 11 May 2023 09:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MTFfNTQg/MDAxNjgzNzgyNzUwMzY3.1HCAvvkycRpTAJF1lQD0EO0qVb--eSWGBsUtmk4QvnQg.cj4Jfse3NKN4wmf0Hm1zvd9O6tU8yCEJMGpgnRPIMngg.JPEG/Ik8r1Zf7B9x4ExHDDIgMVNMiX3js.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[장어구이 무한리필 맛집 4 (네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&DRINK)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35917751&amp;memberNo=40217187&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35917751&amp;memberNo=40217187&amp;navigationType=push</guid>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 17 Mar 2023 03:21:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMTZfMjYg/MDAxNjc4OTUwMjMzOTYw.uYYe5zJXukSwykB-pDE4kZNbVsadPKcCk3YDz1eP3vgg.vLQWrZmBYQeeSqaqXVOYQv527L9uNpaWysHEaQXWr6og.JPEG/IGpa7sR9n9D4gG9_JD_yVbTrcdUk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하루 2시간만 운영! 맛 보장 전국 맛집 4 (네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&DRINK)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35588496&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35588496&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Wed, 15 Mar 2023 03:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMDhfMTc2/MDAxNjc4MjQyMzk5MzI2.nGcnxWA4wzqRmE0m4l8oAI9pLFRedoTIV2i8yfyAqFkg.YaaaSb-eilNv3Co6Q3CTz-RjeJYhwz1CDRccSLrOTa8g.JPEG/IlQESRal3G7kdCHvz_JtzI53PLFk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다시 돌아온 바시티 재킷 (네이버 포스트 ─ 에스콰이어 코리아 ─ ESHOP)]]></title>
@@ -1260,6 +1260,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/60b6d379-9af0-4df0-9c49-3a8fead7144a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[서울모터쇼에서 발견한 자동차의 미래 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77378</link>
+            <guid>https://www.esquirekorea.co.kr/article/77378</guid>
+            <pubDate>Thu, 11 May 2023 09:17:44 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/e0eada36-4444-43d1-baa5-4b246ed85d13.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대 모터스튜디오 말하는 집의 정의란? (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77376</link>
+            <guid>https://www.esquirekorea.co.kr/article/77376</guid>
+            <pubDate>Thu, 11 May 2023 09:17:44 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/98df2fc2-0c9e-4dd7-941a-f75bce48ea94.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[EQE SUV와 마이바흐 전기차가 보여준 벤츠의 미래 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/77369</link>
             <guid>https://www.esquirekorea.co.kr/article/77369</guid>
@@ -1306,20 +1320,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/658d6404-2926-45c4-8cf7-b3633128ff04.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[두바이 자동차 번호판 197억 원에 낙찰 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76597</link>
-            <guid>https://www.esquirekorea.co.kr/article/76597</guid>
-            <pubDate>Fri, 05 May 2023 03:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[세계에서 가장 비싼 자동차 번호판으로 신기록을 세웠다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/11539586-325e-4ac4-8681-5daf92fcaf68.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대자동차, 아이오닉 5 디즈니 한정판 공개 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76520</link>
-            <guid>https://www.esquirekorea.co.kr/article/76520</guid>
-            <pubDate>Wed, 26 Apr 2023 09:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[디즈니 100주년 기념 에디션이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/51ddbdc3-6193-4cb9-9b94-65b72e569359.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[참다랑어 100%! 참치 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77442</link>
+            <guid>https://www.esquirekorea.co.kr/article/77442</guid>
+            <pubDate>Thu, 11 May 2023 09:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[참치 고급 어종인 참다랑어를 100% 내어주는 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/0720a9f7-c7c0-4067-86f5-43de31640a49.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[특수부위 마니아들이 찾는 도래창 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1378,12 +1384,20 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/f1fcfaa1-62d1-4a3a-836f-36018173f860.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더 위켄드 X 블루보틀 원두 출시 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77346</link>
-            <guid>https://www.esquirekorea.co.kr/article/77346</guid>
-            <pubDate>Mon, 08 May 2023 03:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[그의 고향인 에티오피아 풍미를 담아냈다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/60deddf5-1a1f-4812-bf24-d168eaa57c79.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[잠수교 뚜벅뚜벅 축제 시작! 가볼 만한 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77455</link>
+            <guid>https://www.esquirekorea.co.kr/article/77455</guid>
+            <pubDate>Thu, 11 May 2023 09:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[칼국수와 치킨을 같이 내주는 곳부터 섬 위에 떠 있는 와인바까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/c6c2688f-a454-48c8-b5b9-eec97f41f0a6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캐나다 국민 커피 팀 홀튼 국내 진출! (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77453</link>
+            <guid>https://www.esquirekorea.co.kr/article/77453</guid>
+            <pubDate>Thu, 11 May 2023 09:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 2위 커피 브랜드의 대표 메뉴는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/ba173264-60a3-4381-9b1d-9bee1a1e0c1a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[태국 차오프라야 강 전망을 모두 가진 '아바니플러스 리버사이드 방콕' (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1434,20 +1448,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/238cb5ac-44e3-4b93-8030-826ad43bc58b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[80년 넘게 떡갈비를 내주는 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77410</link>
-            <guid>https://www.esquirekorea.co.kr/article/77410</guid>
-            <pubDate>Tue, 09 May 2023 15:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[수라상의 고기 다짐을 변형해 처음으로 떡갈비를 고안한 집?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/41ff139b-fdef-4289-a811-e278c71ef33e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울에서 맛보는 대만의 맛. 대만음식 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77382</link>
-            <guid>https://www.esquirekorea.co.kr/article/77382</guid>
-            <pubDate>Tue, 09 May 2023 15:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[지금 현재 SNS에서 가장 핫한 곳부터 미슐랭에 5년 연속 선정됐었던 곳까지!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/29dd6087-24c6-4514-97b8-45a4f1dbb68e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[나이키와 평생 계약 맺은 케빈 듀란트 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77210</link>
+            <guid>https://www.esquirekorea.co.kr/article/77210</guid>
+            <pubDate>Thu, 11 May 2023 09:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[나이키가 스포츠 선수와 평생 계약을 맺은 것은 이번이 네 번째다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/30/1e26c441-8dec-4042-b93d-3d59811f520d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어플, 쇼룸, 랩스, 3가지 구조의 혁신적 중고 시계 플랫폼 ‘바이버’. (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1503,14 +1509,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 28 Apr 2023 09:18:50 GMT</pubDate>
             <content:encoded><![CDATA[&lt;에스콰이어&gt; 음원 프로젝트 ‘TTM’에 비아이와 레디 그리고 식케이가 함께했다. 늦은 밤, 폐차...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/93c0b118-abb9-403a-a496-cc25b7d4d9cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part3. 식케이는 'TTM'를 듣고 "당했다"라고 말했다. (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76809</link>
-            <guid>https://www.esquirekorea.co.kr/article/76809</guid>
-            <pubDate>Thu, 27 Apr 2023 15:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;에스콰이어&gt; 음원 프로젝트 ‘TTM’에 비아이와 레디 그리고 식케이가 함께했다. 늦은 밤, 폐차...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/821e878c-9801-4ba6-829c-2071d0459f1d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NASA, 모의 화성에서 1년 살기 프로젝트 실시 (에스콰이어 코리아 ─ 나우)]]></title>

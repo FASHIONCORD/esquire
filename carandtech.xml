@@ -4,9 +4,23 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 03:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 09:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울모터쇼에서 발견한 자동차의 미래]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77378</link>
+            <guid>https://www.esquirekorea.co.kr/article/77378</guid>
+            <pubDate>Thu, 11 May 2023 09:17:44 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/e0eada36-4444-43d1-baa5-4b246ed85d13.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대 모터스튜디오 말하는 집의 정의란?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77376</link>
+            <guid>https://www.esquirekorea.co.kr/article/77376</guid>
+            <pubDate>Thu, 11 May 2023 09:17:44 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/98df2fc2-0c9e-4dd7-941a-f75bce48ea94.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EQE SUV와 마이바흐 전기차가 보여준 벤츠의 미래]]></title>
             <link>https://www.esquirekorea.co.kr/article/77369</link>
@@ -52,22 +66,6 @@
             <guid>https://www.esquirekorea.co.kr/article/76641</guid>
             <pubDate>Fri, 05 May 2023 15:19:26 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/658d6404-2926-45c4-8cf7-b3633128ff04.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두바이 자동차 번호판 197억 원에 낙찰]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76597</link>
-            <guid>https://www.esquirekorea.co.kr/article/76597</guid>
-            <pubDate>Fri, 05 May 2023 03:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[세계에서 가장 비싼 자동차 번호판으로 신기록을 세웠다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/11/11539586-325e-4ac4-8681-5daf92fcaf68.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대자동차, 아이오닉 5 디즈니 한정판 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76520</link>
-            <guid>https://www.esquirekorea.co.kr/article/76520</guid>
-            <pubDate>Wed, 26 Apr 2023 09:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[디즈니 100주년 기념 에디션이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/07/51ddbdc3-6193-4cb9-9b94-65b72e569359.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
