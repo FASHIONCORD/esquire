@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 09:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 15:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문종업이 피크타임을 위해 구매한 것?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77435</link>
+            <guid>https://www.esquirekorea.co.kr/article/77435</guid>
+            <pubDate>Thu, 11 May 2023 15:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[문종업의 '바이 마이 셀프'는 에스콰이어 유튜브 채널에서 볼 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/f4da3bd4-7a3c-41f4-b109-01ad5dab48f0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['피크타임' 문종업 화보 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77402</link>
+            <guid>https://www.esquirekorea.co.kr/article/77402</guid>
+            <pubDate>Thu, 11 May 2023 15:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[어느 옷이든 다 소화하는 문종업의 화보를 공개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/c0fe87ff-9ea6-40d4-abca-9133c98fcd87.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올 여름의 모든 프린트]]></title>
             <link>https://www.esquirekorea.co.kr/article/77274</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 07 May 2023 15:18:07 GMT</pubDate>
             <content:encoded><![CDATA[로스앤젤레스의 석양처럼 극적이었던 베르사체의 2023 F/W 컬렉션.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/d51df074-9b82-405d-849b-2d3914476e79.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티쏘 국내 첫 단독 부티크 여의도 IFC몰 오픈]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77215</link>
-            <guid>https://www.esquirekorea.co.kr/article/77215</guid>
-            <pubDate>Fri, 05 May 2023 03:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[사람의 손길이 닿을 때 더욱 생기를 얻는 곳.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/cdab48ef-be9f-4b93-b23c-29852e4b0cfb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홈 프래그런스 미학]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77206</link>
-            <guid>https://www.esquirekorea.co.kr/article/77206</guid>
-            <pubDate>Wed, 03 May 2023 15:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[향으로 기록하는 시간의 형태.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/30/e923e82c-5643-477d-856f-f0034ee5e922.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

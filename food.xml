@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 09:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 15:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캐나다 국민 커피 팀 홀튼 국내 진출!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77453</link>
+            <guid>https://www.esquirekorea.co.kr/article/77453</guid>
+            <pubDate>Thu, 11 May 2023 15:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 2위 커피 브랜드의 대표 메뉴는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/ba173264-60a3-4381-9b1d-9bee1a1e0c1a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[100년 넘게 운영 중인 노포 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77446</link>
+            <guid>https://www.esquirekorea.co.kr/article/77446</guid>
+            <pubDate>Thu, 11 May 2023 15:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[100평의 목조 건물을 1915년부터 그대로 이어온 비빔밥 맛집?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/f9e8f95d-986e-467f-8070-fb1944923a72.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[참다랑어 100%! 참치 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/77442</link>
@@ -54,22 +70,6 @@
             <pubDate>Tue, 09 May 2023 09:18:28 GMT</pubDate>
             <content:encoded><![CDATA[갈비의 도시 수원을 대표하는 왕갈비 맛집을 탐험해 보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/7908e7f1-2b9c-4144-baf5-7c923de876de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[책 읽는 서울광장 오픈! 가볼 만한 곳 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77370</link>
-            <guid>https://www.esquirekorea.co.kr/article/77370</guid>
-            <pubDate>Tue, 09 May 2023 09:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[5,000여권의 책이 있는 야외 도서관?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/06/25faed21-82a5-4d4c-b6cd-a8a4fc0b9ce7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후쿠오카 미나 텐진 쇼핑몰 투어 & 후쿠오카 맛집 리스트 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77363</link>
-            <guid>https://www.esquirekorea.co.kr/article/77363</guid>
-            <pubDate>Mon, 08 May 2023 09:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[규슈 최대 규모의 유니클로 매장을 가진 미나 텐진 쇼핑몰이 지난 4월 28일 리뉴얼 오픈했다. ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/f1fcfaa1-62d1-4a3a-836f-36018173f860.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
