@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 09:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 15:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눈곱 감기 비상! 눈 건강을 지키는 습관 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77483</link>
+            <guid>https://www.esquirekorea.co.kr/article/77483</guid>
+            <pubDate>Fri, 12 May 2023 15:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[모니터를 볼 때 올바른 각도와 거리는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/a8cb31cc-2b49-4abf-bcb6-8011e1f2b490.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['인천투어패스' 여행 시 가볼 만한 곳 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77482</link>
+            <guid>https://www.esquirekorea.co.kr/article/77482</guid>
+            <pubDate>Fri, 12 May 2023 15:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[미술관 무료 관람부터 막걸리 양조장 투어까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/cd87f0d6-64ec-43cc-9e06-1222b2b6630e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10월 내한하는 샘 스미스]]></title>
             <link>https://www.esquirekorea.co.kr/article/77473</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 11 May 2023 09:18:03 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 2위 커피 브랜드의 대표 메뉴는?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/ba173264-60a3-4381-9b1d-9bee1a1e0c1a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태국 차오프라야 강 전망을 모두 가진 '아바니플러스 리버사이드 방콕']]></title>
-            <link>https://www.esquirekorea.co.kr/article/77451</link>
-            <guid>https://www.esquirekorea.co.kr/article/77451</guid>
-            <pubDate>Thu, 11 May 2023 03:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[모든 객실에서 차오프라야 강이 내려다보이는 아바니 그룹의 아바니플러스 리버사이드 방콕 호텔을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/232fc504-88c0-4937-b8b6-93caee770ff8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 텐트를 돋보이게 해 줄 아이템 12]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77096</link>
-            <guid>https://www.esquirekorea.co.kr/article/77096</guid>
-            <pubDate>Thu, 11 May 2023 03:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[누군가에게 캠핑은 나만의 장비를 가지고 스왜그를 뽐내는 은밀한 전장이다. 5명의 하드코어 캠퍼...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/1a1bed0b-544c-4652-8d76-b0874689fafb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
