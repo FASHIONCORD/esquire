@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 03:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 09:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마음에 드는 차를 만들기 위해 회사를 차렸다고?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76944</link>
+            <guid>https://www.esquirekorea.co.kr/article/76944</guid>
+            <pubDate>Fri, 12 May 2023 09:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[왜 내가 원하는 차는 없을까? 누군가 그 이유를 생각만 하는 사이에 ‘없으면 내가 만들지 뭐...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/ddc1857d-8b91-4be8-8a22-c28248c7e25c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구글, 첫 폴더블 폰 '픽셀 폴드' 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77383</link>
+            <guid>https://www.esquirekorea.co.kr/article/77383</guid>
+            <pubDate>Fri, 12 May 2023 09:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[정확한 사양은 오는 10일에 발표한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/82674bb5-6e6a-4547-9d71-ee0c2c124795.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울모터쇼에서 발견한 자동차의 미래]]></title>
             <link>https://www.esquirekorea.co.kr/article/77378</link>
@@ -51,21 +67,6 @@
             <guid>https://www.esquirekorea.co.kr/article/76668</guid>
             <pubDate>Sat, 06 May 2023 15:17:15 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/49ab3036-0a29-4d10-afb1-39a6c80b7d18.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우주에서 '열일'하고 있는 다누리가 보낸 영상]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76651</link>
-            <guid>https://www.esquirekorea.co.kr/article/76651</guid>
-            <pubDate>Sat, 06 May 2023 15:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[달 뒷면의 지표면을 생생하게 담았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/a7ae74ef-67cd-4bcc-a263-9d8c55b29645.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EV 9이 제안하는 새로운 전기차 라이프]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76641</link>
-            <guid>https://www.esquirekorea.co.kr/article/76641</guid>
-            <pubDate>Fri, 05 May 2023 15:19:26 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/13/658d6404-2926-45c4-8cf7-b3633128ff04.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

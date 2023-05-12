@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 03:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 09:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영원한 디바이자 흥행 보증 수표, ‘닥터 차정숙’ 엄정화 TMI 10.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77340</link>
+            <guid>https://www.esquirekorea.co.kr/article/77340</guid>
+            <pubDate>Fri, 12 May 2023 09:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[엄정화는 치킨, 피자를 시켜 먹은 적이 없다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/ba3ddeb0-bad1-40ab-8b59-059c69e2e9df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문종업, 피크타임으로 은퇴 고민?]]></title>
             <link>https://www.esquirekorea.co.kr/article/77263</link>
@@ -61,14 +69,6 @@
             <pubDate>Sun, 30 Apr 2023 03:18:54 GMT</pubDate>
             <content:encoded><![CDATA[다마스를 타고 다닌다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/4512bede-3647-4618-98bb-8f3217025bb5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part2. 레디가 131에 합류하게 된 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76808</link>
-            <guid>https://www.esquirekorea.co.kr/article/76808</guid>
-            <pubDate>Fri, 28 Apr 2023 15:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;에스콰이어&gt; 음원 프로젝트 ‘TTM’에 비아이와 레디 그리고 식케이가 함께했다. 늦은 밤, 폐차...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/1b9016ad-c49e-4e54-8667-10d9c8e62464.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
