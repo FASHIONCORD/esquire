@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 09:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 15:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돌아올 빅토리아 시크릿 쇼에 대한 솔직한 단상]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77489</link>
+            <guid>https://www.esquirekorea.co.kr/article/77489</guid>
+            <pubDate>Sat, 13 May 2023 15:18:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/0c41437f-434f-4081-ba86-37296b382984.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈곱 감기 비상! 눈 건강을 지키는 습관 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/77483</link>
@@ -62,14 +69,6 @@
             <pubDate>Thu, 11 May 2023 09:18:03 GMT</pubDate>
             <content:encoded><![CDATA[칼국수와 치킨을 같이 내주는 곳부터 섬 위에 떠 있는 와인바까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/c6c2688f-a454-48c8-b5b9-eec97f41f0a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐나다 국민 커피 팀 홀튼 국내 진출!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77453</link>
-            <guid>https://www.esquirekorea.co.kr/article/77453</guid>
-            <pubDate>Thu, 11 May 2023 09:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 2위 커피 브랜드의 대표 메뉴는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/ba173264-60a3-4381-9b1d-9bee1a1e0c1a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
