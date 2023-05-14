@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 09:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 15:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[류이치 사카모토 사후 컴필레이션 앨범 ‘TRAVESÍA’ 발매]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77506</link>
+            <guid>https://www.esquirekorea.co.kr/article/77506</guid>
+            <pubDate>Sun, 14 May 2023 15:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[곤잘레스 이냐리투 감독이 선곡한 베스트 트랙.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/94c4e7d7-eda2-448e-b6ff-e5b8192403af.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돌아올 빅토리아 시크릿 쇼에 대한 솔직한 단상]]></title>
             <link>https://www.esquirekorea.co.kr/article/77489</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 11 May 2023 15:19:59 GMT</pubDate>
             <content:encoded><![CDATA[라오스의 옛 수도 루앙 프라방은 도시 전체가 유네스코 문화유산이다. 그 중심에 위치한 아바니...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/fbe4f6c1-013c-45e5-b7b5-69fd85de1aa3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠수교 뚜벅뚜벅 축제 시작! 가볼 만한 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77455</link>
-            <guid>https://www.esquirekorea.co.kr/article/77455</guid>
-            <pubDate>Thu, 11 May 2023 09:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[칼국수와 치킨을 같이 내주는 곳부터 섬 위에 떠 있는 와인바까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/c6c2688f-a454-48c8-b5b9-eec97f41f0a6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

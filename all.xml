@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 09:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 15:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1132,6 +1132,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Part.1 뭘 좀 아는 사람들의 그루밍 베스트 아이템 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77305</link>
+            <guid>https://www.esquirekorea.co.kr/article/77305</guid>
+            <pubDate>Sun, 14 May 2023 15:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[화장품 좀 써본 25명이 골랐다.  두고 두고 쓰는, 떨어지면 또 사는 그루밍 아이템.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/19bc2980-2d72-4c59-bd9b-c65c27db9f41.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Part.2 뭘 좀 아는 사람들의 그루밍 베스트 아이템 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/77307</link>
             <guid>https://www.esquirekorea.co.kr/article/77307</guid>
@@ -1186,14 +1194,6 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 09 May 2023 15:19:08 GMT</pubDate>
             <content:encoded><![CDATA[흐린 날의 슈트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/b1d102fb-1df4-4280-a460-08f4bd1fc48a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄을 입는 방법 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77254</link>
-            <guid>https://www.esquirekorea.co.kr/article/77254</guid>
-            <pubDate>Tue, 09 May 2023 09:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[곱고 어여쁘게 차려입은 봄날의 소년들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/03/c703d488-6a7a-47cc-b40c-617e5c065b35.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[워치스앤원더스 2023 특집 'IWC 샤프하우젠' (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1260,6 +1260,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/60b6d379-9af0-4df0-9c49-3a8fead7144a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[당신의 텐트를 돋보이게 해 줄 아이템 12 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77096</link>
+            <guid>https://www.esquirekorea.co.kr/article/77096</guid>
+            <pubDate>Sun, 14 May 2023 15:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[누군가에게 캠핑은 나만의 장비를 가지고 스왜그를 뽐내는 은밀한 전장이다. 5명의 하드코어 캠퍼...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/1a1bed0b-544c-4652-8d76-b0874689fafb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[마음에 드는 차를 만들기 위해 회사를 차렸다고? (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/76944</link>
             <guid>https://www.esquirekorea.co.kr/article/76944</guid>
@@ -1312,13 +1320,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sun, 07 May 2023 15:18:27 GMT</pubDate>
             <content:encoded><![CDATA[아이언맨의 안경 속 비서 자비스가 현실로 다가온다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/d1343487-4ce9-462c-a434-494deb26206f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포드 레인저 랩터가 사냥을 시작한다 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76668</link>
-            <guid>https://www.esquirekorea.co.kr/article/76668</guid>
-            <pubDate>Sat, 06 May 2023 15:17:15 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/14/49ab3036-0a29-4d10-afb1-39a6c80b7d18.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['인천투어패스' 여행 시 가볼 만한 곳 5 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1385,6 +1386,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/41ff139b-fdef-4289-a811-e278c71ef33e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[류이치 사카모토 사후 컴필레이션 앨범 ‘TRAVESÍA’ 발매 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77506</link>
+            <guid>https://www.esquirekorea.co.kr/article/77506</guid>
+            <pubDate>Sun, 14 May 2023 15:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[곤잘레스 이냐리투 감독이 선곡한 베스트 트랙.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/94c4e7d7-eda2-448e-b6ff-e5b8192403af.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[돌아올 빅토리아 시크릿 쇼에 대한 솔직한 단상 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/77489</link>
             <guid>https://www.esquirekorea.co.kr/article/77489</guid>
@@ -1438,14 +1447,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 11 May 2023 15:19:59 GMT</pubDate>
             <content:encoded><![CDATA[라오스의 옛 수도 루앙 프라방은 도시 전체가 유네스코 문화유산이다. 그 중심에 위치한 아바니...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/fbe4f6c1-013c-45e5-b7b5-69fd85de1aa3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠수교 뚜벅뚜벅 축제 시작! 가볼 만한 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77455</link>
-            <guid>https://www.esquirekorea.co.kr/article/77455</guid>
-            <pubDate>Thu, 11 May 2023 09:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[칼국수와 치킨을 같이 내주는 곳부터 섬 위에 떠 있는 와인바까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/c6c2688f-a454-48c8-b5b9-eec97f41f0a6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영원한 디바이자 흥행 보증 수표, ‘닥터 차정숙’ 엄정화 TMI 10. (에스콰이어 코리아 ─ 피플)]]></title>
