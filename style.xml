@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 09:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 15:28:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눈곱 감기 비상! 눈 건강을 지키는 습관 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77483</link>
+            <guid>https://www.esquirekorea.co.kr/article/77483</guid>
+            <pubDate>Mon, 15 May 2023 15:27:07 GMT</pubDate>
+            <content:encoded><![CDATA[모니터를 볼 때 올바른 각도와 거리는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/a8cb31cc-2b49-4abf-bcb6-8011e1f2b490.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Part.1 뭘 좀 아는 사람들의 그루밍 베스트 아이템]]></title>
             <link>https://www.esquirekorea.co.kr/article/77305</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 May 2023 03:18:33 GMT</pubDate>
             <content:encoded><![CDATA[그루밍을 다시 쓰는 뉴 타입 그루머 9.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/d178f8bf-a858-4b43-bbc2-d338a6f6efad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[담담하고 방탕하게 입었다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77267</link>
-            <guid>https://www.esquirekorea.co.kr/article/77267</guid>
-            <pubDate>Tue, 09 May 2023 15:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[흐린 날의 슈트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/b1d102fb-1df4-4280-a460-08f4bd1fc48a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
