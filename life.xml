@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 03:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 09:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[돈두댓 서베이] 섹스 직후 들으면 정이 뚝 떨어지는 말]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77510</link>
+            <guid>https://www.esquirekorea.co.kr/article/77510</guid>
+            <pubDate>Mon, 15 May 2023 09:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[가만히 있으면 중간은 간다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/c609cb7b-8525-4187-9e8e-438616c59a10.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[류이치 사카모토 사후 컴필레이션 앨범 ‘TRAVESÍA’ 발매]]></title>
             <link>https://www.esquirekorea.co.kr/article/77506</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 11 May 2023 15:19:59 GMT</pubDate>
             <content:encoded><![CDATA[‘지속 가능’한 ‘패션’은 과연 공존 가능한 개념일까? 지속 가능한 의류산업의 이면을 들여다...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/a2d27669-065d-43b1-a58e-e6771f65b384.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유네스코 문화유산 속 자리한 아바니플러스 루앙 프라방]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77456</link>
-            <guid>https://www.esquirekorea.co.kr/article/77456</guid>
-            <pubDate>Thu, 11 May 2023 15:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[라오스의 옛 수도 루앙 프라방은 도시 전체가 유네스코 문화유산이다. 그 중심에 위치한 아바니...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/fbe4f6c1-013c-45e5-b7b5-69fd85de1aa3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
