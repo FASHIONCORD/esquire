@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 15:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 03:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시장 속 노포 삼겹살 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77485</link>
+            <guid>https://www.esquirekorea.co.kr/article/77485</guid>
+            <pubDate>Tue, 16 May 2023 03:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[시장 상인들의 숨은 맛집이자 가성비까지 갖춘 시장 삼겹살 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/ee87f33a-6d01-4996-b1f9-f2f9203fd04b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고퀄리티! 한우 무한리필 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/77484</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 May 2023 09:17:52 GMT</pubDate>
             <content:encoded><![CDATA[참치 고급 어종인 참다랑어를 100% 내어주는 맛집을 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/0720a9f7-c7c0-4067-86f5-43de31640a49.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특수부위 마니아들이 찾는 도래창 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77440</link>
-            <guid>https://www.esquirekorea.co.kr/article/77440</guid>
-            <pubDate>Thu, 11 May 2023 03:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[치킨, 족발, 삼겹살의 맛이 동시에 나는 마성의 특수부위?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/18006d19-caba-4c30-b83d-cf8bb36643f4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
