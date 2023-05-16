@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 03:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 09:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[술과 음악이 흐르는 공간. 서울의 라이브 재즈바 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77516</link>
+            <guid>https://www.esquirekorea.co.kr/article/77516</guid>
+            <pubDate>Tue, 16 May 2023 09:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[박나래와 코드 쿤스트가 '나 혼자 산다'에서 들린 그곳?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/336a3806-3c34-4ad5-8fc3-7ce5ed23ed19.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시장 속 노포 삼겹살 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/77485</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 May 2023 15:19:50 GMT</pubDate>
             <content:encoded><![CDATA[100평의 목조 건물을 1915년부터 그대로 이어온 비빔밥 맛집?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/f9e8f95d-986e-467f-8070-fb1944923a72.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[참다랑어 100%! 참치 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77442</link>
-            <guid>https://www.esquirekorea.co.kr/article/77442</guid>
-            <pubDate>Thu, 11 May 2023 09:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[참치 고급 어종인 참다랑어를 100% 내어주는 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/0720a9f7-c7c0-4067-86f5-43de31640a49.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

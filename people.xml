@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 03:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 09:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이승규, 이종혁 패딩 논쟁 종결편?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77343</link>
+            <guid>https://www.esquirekorea.co.kr/article/77343</guid>
+            <pubDate>Tue, 16 May 2023 09:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[이승규와 이종혁의 댓글 인터뷰는 유튜브에서 확인할 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/04/61befc74-c0c5-4502-8713-5d54a568907f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영원한 디바이자 흥행 보증 수표, ‘닥터 차정숙’ 엄정화 TMI 10.]]></title>
             <link>https://www.esquirekorea.co.kr/article/77340</link>
@@ -61,14 +69,6 @@
             <pubDate>Tue, 02 May 2023 09:19:24 GMT</pubDate>
             <content:encoded><![CDATA[에스콰이어와 함께한 음원 프로젝트.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/5f315810-9609-438a-aa22-e5804cd3d730.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘나 혼자 산다’ 일일 게스트 김대호 아나운서 TMI 12.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77140</link>
-            <guid>https://www.esquirekorea.co.kr/article/77140</guid>
-            <pubDate>Sun, 30 Apr 2023 03:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[다마스를 타고 다닌다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/4512bede-3647-4618-98bb-8f3217025bb5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

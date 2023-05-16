@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 03:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 09:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캘리포니아의 에너지로 가득항 루이 비통 향수]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77490</link>
+            <guid>https://www.esquirekorea.co.kr/article/77490</guid>
+            <pubDate>Tue, 16 May 2023 09:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[루이 비통의 새로운 콜로뉴 퍼퓸 퍼시픽 칠은 캘리포니아의 아름다운 해변과 건강한 삶의 태도에...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/5b0050bf-ea13-4fd7-a753-43ecbb80ca1b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈곱 감기 비상! 눈 건강을 지키는 습관 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/77483</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 May 2023 03:18:33 GMT</pubDate>
             <content:encoded><![CDATA[그래픽을 입은 여름 옷들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/76c38cb1-9c0c-460b-9164-04d4afa0721b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 최신의 그루밍]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77311</link>
-            <guid>https://www.esquirekorea.co.kr/article/77311</guid>
-            <pubDate>Thu, 11 May 2023 03:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[그루밍을 다시 쓰는 뉴 타입 그루머 9.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/d178f8bf-a858-4b43-bbc2-d338a6f6efad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
