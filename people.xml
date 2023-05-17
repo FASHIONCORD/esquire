@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 03:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 09:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[등장부터 핫이슈, ‘구미호뎐 1938’ 김소연 TMI 12.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77472</link>
+            <guid>https://www.esquirekorea.co.kr/article/77472</guid>
+            <pubDate>Wed, 17 May 2023 09:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[아역상 수상 후 항의 전화를 받았다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/bd35facc-ac52-4dd1-8881-ae9071a7bcc1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이승규, 이종혁 패딩 논쟁 종결편?]]></title>
             <link>https://www.esquirekorea.co.kr/article/77343</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 04 May 2023 09:21:59 GMT</pubDate>
             <content:encoded><![CDATA[프로젝트의 시작부터 생동감 넘치는 촬영 현장까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/4e3f7072-8583-4837-9dc4-ae964d2de94f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비아이 x 식케이 x 레디 ‘TTM’ 뮤직비디오 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77142</link>
-            <guid>https://www.esquirekorea.co.kr/article/77142</guid>
-            <pubDate>Tue, 02 May 2023 09:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[에스콰이어와 함께한 음원 프로젝트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/5f315810-9609-438a-aa22-e5804cd3d730.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
