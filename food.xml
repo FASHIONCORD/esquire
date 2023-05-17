@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 09:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 15:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[50년 넘게 운영한 닭갈비 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77551</link>
+            <guid>https://www.esquirekorea.co.kr/article/77551</guid>
+            <pubDate>Wed, 17 May 2023 15:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[8천원에 노계와 육계를 동시에 맛볼 수 있는 닭갈비?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/ebf20c71-ce38-44d6-b1f5-5384572cdc14.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[과연 '배양육'은 기후 위기 시대 인류를 구원할 열쇠일까?]]></title>
             <link>https://www.esquirekorea.co.kr/article/77397</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 12 May 2023 15:19:22 GMT</pubDate>
             <content:encoded><![CDATA[맛은 물론 비주얼과 분위기까지 잡은 서울의 양식, 중식, 일식, 한식당]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/a42577ed-38b8-4f33-a129-1782fe521936.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠수교 뚜벅뚜벅 축제 시작! 가볼 만한 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77455</link>
-            <guid>https://www.esquirekorea.co.kr/article/77455</guid>
-            <pubDate>Fri, 12 May 2023 15:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[칼국수와 치킨을 같이 내주는 곳부터 섬 위에 떠 있는 와인바까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/c6c2688f-a454-48c8-b5b9-eec97f41f0a6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
