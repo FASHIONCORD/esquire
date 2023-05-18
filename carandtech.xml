@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 03:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 09:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집에서도 충전 가능한 초소형 전기차?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77477</link>
+            <guid>https://www.esquirekorea.co.kr/article/77477</guid>
+            <pubDate>Thu, 18 May 2023 09:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[지금껏 출시된 소형차 중 가장 가볍다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/d59802dd-2b83-4e39-84c8-f36a4b093290.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오톡 '조용히 나가기' 기능 도입]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77474</link>
+            <guid>https://www.esquirekorea.co.kr/article/77474</guid>
+            <pubDate>Thu, 18 May 2023 09:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[단체 채팅방에서 조용히 나가는 것이 가능해졌다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/9c654343-dd05-45b4-ac41-21b4bc55cde2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당신의 텐트를 돋보이게 해 줄 아이템 12]]></title>
             <link>https://www.esquirekorea.co.kr/article/77096</link>
@@ -52,22 +68,6 @@
             <pubDate>Tue, 09 May 2023 15:19:25 GMT</pubDate>
             <content:encoded><![CDATA[135년간 최고가 아니면 만들지 않는다는 신념을 지켜온 메르세데스-벤츠에게 뛰어난 승차감과 멋진...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/9d2f2ffb-a642-4738-b68d-afad88887e87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거침없는 올 뉴 디펜더 130]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77355</link>
-            <guid>https://www.esquirekorea.co.kr/article/77355</guid>
-            <pubDate>Mon, 08 May 2023 03:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[사람이 많거나 짐이 많거나 길이 험해도 랜드로버 올 뉴 디펜더 130과 함께라면.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/05/3ddb77e6-da59-4383-9060-8b72e8df5df5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[챗GPT와 안경을 결합한 리즈GPT 등장]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77100</link>
-            <guid>https://www.esquirekorea.co.kr/article/77100</guid>
-            <pubDate>Sun, 07 May 2023 15:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[아이언맨의 안경 속 비서 자비스가 현실로 다가온다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/d1343487-4ce9-462c-a434-494deb26206f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

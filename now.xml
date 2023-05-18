@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 03:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 09:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[36년 만에 속편 제작이 확정된 '비틀쥬스 2']]></title>
+            <link>https://www.esquirekorea.co.kr/article/77505</link>
+            <guid>https://www.esquirekorea.co.kr/article/77505</guid>
+            <pubDate>Thu, 18 May 2023 09:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[전작에 이어 팀 버튼이 연출을 맡는다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/1c6fe486-fa8f-4c4d-9a83-155f8d6c2ebb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[눈곱 감기 비상! 눈 건강을 지키는 습관 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77483</link>
+            <guid>https://www.esquirekorea.co.kr/article/77483</guid>
+            <pubDate>Thu, 18 May 2023 09:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[모니터를 볼 때 올바른 각도와 거리는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/a8cb31cc-2b49-4abf-bcb6-8011e1f2b490.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캐나다 국민 커피 팀 홀튼 국내 진출!]]></title>
             <link>https://www.esquirekorea.co.kr/article/77453</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 10 May 2023 09:19:26 GMT</pubDate>
             <content:encoded><![CDATA[실험은 오는 7월부터 1년 동안 진행한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/88a51572-9b31-464f-ac07-3174f7f1bd7c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘2023 롤드컵’ 결승전 고척스카이돔서 개최]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76949</link>
-            <guid>https://www.esquirekorea.co.kr/article/76949</guid>
-            <pubDate>Mon, 08 May 2023 09:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[2018년 이후 5년 만에 한국에서 열린다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/664dc038-0110-441b-a0d7-6d71ae0bbef6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[춘곤증 비상! 춘곤증 퇴치 음식 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76854</link>
-            <guid>https://www.esquirekorea.co.kr/article/76854</guid>
-            <pubDate>Mon, 08 May 2023 03:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[요즘 이유 없이 졸리다면?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/e3bba3e6-274e-4063-8e1e-8032e771296b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

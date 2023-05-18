@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 03:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 09:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴 맨]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77309</link>
+            <guid>https://www.esquirekorea.co.kr/article/77309</guid>
+            <pubDate>Thu, 18 May 2023 09:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[헤어부터 메이크업까지, 트렌드를 앞서가는 남자들에게 추천하는 그루밍 아이디어 6.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/13/b5d2a845-a278-42f6-bd3e-7e218e6529f2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캘리포니아의 에너지로 가득항 루이 비통 향수]]></title>
             <link>https://www.esquirekorea.co.kr/article/77490</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 May 2023 15:19:22 GMT</pubDate>
             <content:encoded><![CDATA[어느 옷이든 다 소화하는 문종업의 화보를 공개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/c0fe87ff-9ea6-40d4-abca-9133c98fcd87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올 여름의 모든 프린트]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77274</link>
-            <guid>https://www.esquirekorea.co.kr/article/77274</guid>
-            <pubDate>Thu, 11 May 2023 03:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[그래픽을 입은 여름 옷들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/76c38cb1-9c0c-460b-9164-04d4afa0721b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

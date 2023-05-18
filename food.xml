@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 03:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 09:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[족발을 무한리필 해주는 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77581</link>
+            <guid>https://www.esquirekorea.co.kr/article/77581</guid>
+            <pubDate>Thu, 18 May 2023 09:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원에 족발, 보쌈, 감자탕이 모두 무한 리필?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/c92eb423-9087-455e-a5fe-09d2dd68f7c2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울에서 맛보는 대구 명물 복어 불고기 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77566</link>
+            <guid>https://www.esquirekorea.co.kr/article/77566</guid>
+            <pubDate>Thu, 18 May 2023 09:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[대구의 10味 중 하나인 복불고기를 아직 안 먹어봤다면 당장 향해보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/224a3607-957d-4ee7-aef3-6cccdab6908e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[50년 넘게 운영한 닭갈비 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/77551</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 15 May 2023 09:20:52 GMT</pubDate>
             <content:encoded><![CDATA[마블링 좋은 투뿔 한우집부터 강원도 횡성 한우 무한리필집까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/62581501-3311-498c-bd36-2de74c1d869c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인천투어패스' 여행 시 가볼 만한 곳 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77482</link>
-            <guid>https://www.esquirekorea.co.kr/article/77482</guid>
-            <pubDate>Fri, 12 May 2023 15:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[미술관 무료 관람부터 막걸리 양조장 투어까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/cd87f0d6-64ec-43cc-9e06-1222b2b6630e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가정의 달! 소중한 사람과 가기 좋은 식당 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77386</link>
-            <guid>https://www.esquirekorea.co.kr/article/77386</guid>
-            <pubDate>Fri, 12 May 2023 15:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[맛은 물론 비주얼과 분위기까지 잡은 서울의 양식, 중식, 일식, 한식당]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/a42577ed-38b8-4f33-a129-1782fe521936.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
