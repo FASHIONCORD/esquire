@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 15:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 03:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1386,6 +1386,13 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/a42577ed-38b8-4f33-a129-1782fe521936.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[만화를 통해 만났던 더 넓은 세상 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77525</link>
+            <guid>https://www.esquirekorea.co.kr/article/77525</guid>
+            <pubDate>Thu, 18 May 2023 03:19:03 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/14/8d491094-5362-4850-a794-b35ee9f38306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[글렌모렌지의 새로운 캠페인 론칭 파티 현장! (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/77517</link>
             <guid>https://www.esquirekorea.co.kr/article/77517</guid>
@@ -1439,14 +1446,6 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 12 May 2023 15:19:22 GMT</pubDate>
             <content:encoded><![CDATA[미술관 무료 관람부터 막걸리 양조장 투어까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/cd87f0d6-64ec-43cc-9e06-1222b2b6630e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10월 내한하는 샘 스미스 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77473</link>
-            <guid>https://www.esquirekorea.co.kr/article/77473</guid>
-            <pubDate>Fri, 12 May 2023 09:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[콘서트 장소는 체조경기장이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/fd576712-da12-4b35-a0e5-95e663333064.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[등장부터 핫이슈, ‘구미호뎐 1938’ 김소연 TMI 12. (에스콰이어 코리아 ─ 피플)]]></title>
