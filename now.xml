@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 03:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 09:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글렌모렌지의 새로운 캠페인 론칭 파티 현장!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77517</link>
+            <guid>https://www.esquirekorea.co.kr/article/77517</guid>
+            <pubDate>Fri, 19 May 2023 09:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[It’s Kind Of Delicious And Wonderful]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/585a2656-ff0c-4c8b-a9be-a4138ae6717d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[36년 만에 속편 제작이 확정된 '비틀쥬스 2']]></title>
             <link>https://www.esquirekorea.co.kr/article/77505</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 11 May 2023 15:20:18 GMT</pubDate>
             <content:encoded><![CDATA[생(生)으로 먹었다가 생사(生死)를 오갈 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/3d7c67d9-02d7-4c2c-b429-60085908c6b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NASA, 모의 화성에서 1년 살기 프로젝트 실시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76951</link>
-            <guid>https://www.esquirekorea.co.kr/article/76951</guid>
-            <pubDate>Wed, 10 May 2023 09:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[실험은 오는 7월부터 1년 동안 진행한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/88a51572-9b31-464f-ac07-3174f7f1bd7c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

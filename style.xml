@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 03:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 09:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[떠나요. 백팩을 메고]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77269</link>
+            <guid>https://www.esquirekorea.co.kr/article/77269</guid>
+            <pubDate>Fri, 19 May 2023 09:19:37 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/2ac3131f-1cc3-496c-84e2-dd1506443b4e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다양한 패턴을 즐기는 계절]]></title>
             <link>https://www.esquirekorea.co.kr/article/77526</link>
@@ -61,14 +68,6 @@
             <pubDate>Fri, 12 May 2023 15:18:39 GMT</pubDate>
             <content:encoded><![CDATA[곧 여름, 피셔맨 샌들이 필요한 계절이다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/c60dd4d0-1a0f-45bb-89b4-7187cf75765c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문종업이 피크타임을 위해 구매한 것?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77435</link>
-            <guid>https://www.esquirekorea.co.kr/article/77435</guid>
-            <pubDate>Thu, 11 May 2023 15:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[문종업의 '바이 마이 셀프'는 에스콰이어 유튜브 채널에서 볼 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/f4da3bd4-7a3c-41f4-b109-01ad5dab48f0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 03:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 09:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YG 새 걸그룹, 베이비몬스터 데뷔 멤버 확정]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77493</link>
+            <guid>https://www.esquirekorea.co.kr/article/77493</guid>
+            <pubDate>Fri, 19 May 2023 09:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[베이비몬스터 연습생 7명이 모두 함께한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/536cf1d3-6643-40be-a4d1-fc258050dc78.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10월 내한하는 샘 스미스]]></title>
             <link>https://www.esquirekorea.co.kr/article/77473</link>
@@ -61,14 +69,6 @@
             <guid>https://www.esquirekorea.co.kr/article/76886</guid>
             <pubDate>Thu, 11 May 2023 03:19:22 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/dbb235f4-9edd-4a80-a7f2-9a9fcf4156df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['우리 연애 시뮬레이션' 이종혁, 이승규가 서로에게 탐나는 아이템?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77181</link>
-            <guid>https://www.esquirekorea.co.kr/article/77181</guid>
-            <pubDate>Thu, 04 May 2023 09:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[유튜브에서 풀버전을 만날 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/c30b769e-2f2c-4ab7-b5cd-f434fd67830b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
