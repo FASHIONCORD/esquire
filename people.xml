@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 09:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 15:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일론 머스크, 트위터 CEO에서 사임]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77507</link>
+            <guid>https://www.esquirekorea.co.kr/article/77507</guid>
+            <pubDate>Fri, 19 May 2023 15:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[회사 인수 약 7개월 만에 물러난다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/15fdd9b2-abf1-4c42-bb23-d519d41ee64d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YG 새 걸그룹, 베이비몬스터 데뷔 멤버 확정]]></title>
             <link>https://www.esquirekorea.co.kr/article/77493</link>
@@ -62,13 +70,6 @@
             <pubDate>Thu, 11 May 2023 09:18:19 GMT</pubDate>
             <content:encoded><![CDATA[나이키가 스포츠 선수와 평생 계약을 맺은 것은 이번이 네 번째다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/30/1e26c441-8dec-4042-b93d-3d59811f520d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어플, 쇼룸, 랩스, 3가지 구조의 혁신적 중고 시계 플랫폼 ‘바이버’.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76886</link>
-            <guid>https://www.esquirekorea.co.kr/article/76886</guid>
-            <pubDate>Thu, 11 May 2023 03:19:22 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/dbb235f4-9edd-4a80-a7f2-9a9fcf4156df.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

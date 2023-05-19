@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 09:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 15:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시원한 폭포 앞에서 즐기는 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77664</link>
+            <guid>https://www.esquirekorea.co.kr/article/77664</guid>
+            <pubDate>Fri, 19 May 2023 15:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[초여름 시원하게 맞이하는 방법! 전국 곳곳의 폭포뷰 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/f0888172-86ae-4d6b-a8ad-b7e657c94530.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[속까지 든든한 술안주! 스지찜 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/77652</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 18 May 2023 09:18:28 GMT</pubDate>
             <content:encoded><![CDATA[만원도 안 되는 가격에 면사리, 보리밥까지 무한리필 해주는 가성비 맛집?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/198e5272-add1-4bd9-bca5-dfa0d7816255.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[족발을 무한리필 해주는 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77581</link>
-            <guid>https://www.esquirekorea.co.kr/article/77581</guid>
-            <pubDate>Thu, 18 May 2023 09:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원에 족발, 보쌈, 감자탕이 모두 무한 리필?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/c92eb423-9087-455e-a5fe-09d2dd68f7c2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
