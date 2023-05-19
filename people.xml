@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 15:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 03:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10월 내한하는 샘 스미스]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77473</link>
+            <guid>https://www.esquirekorea.co.kr/article/77473</guid>
+            <pubDate>Fri, 19 May 2023 03:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[콘서트 장소는 체조경기장이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/fd576712-da12-4b35-a0e5-95e663333064.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[등장부터 핫이슈, ‘구미호뎐 1938’ 김소연 TMI 12.]]></title>
             <link>https://www.esquirekorea.co.kr/article/77472</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 04 May 2023 09:21:59 GMT</pubDate>
             <content:encoded><![CDATA[유튜브에서 풀버전을 만날 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/c30b769e-2f2c-4ab7-b5cd-f434fd67830b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘TTM’ 프로젝트 차트인 공약?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77166</link>
-            <guid>https://www.esquirekorea.co.kr/article/77166</guid>
-            <pubDate>Thu, 04 May 2023 09:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[프로젝트의 시작부터 생동감 넘치는 촬영 현장까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/4e3f7072-8583-4837-9dc4-ae964d2de94f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

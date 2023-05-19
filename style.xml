@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 15:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 03:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다양한 패턴을 즐기는 계절]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77526</link>
+            <guid>https://www.esquirekorea.co.kr/article/77526</guid>
+            <pubDate>Fri, 19 May 2023 03:20:50 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/14/8aecfa70-b763-4025-af0c-f00bf58b99cd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴 맨]]></title>
             <link>https://www.esquirekorea.co.kr/article/77309</link>
@@ -62,14 +69,6 @@
             <pubDate>Thu, 11 May 2023 15:19:22 GMT</pubDate>
             <content:encoded><![CDATA[문종업의 '바이 마이 셀프'는 에스콰이어 유튜브 채널에서 볼 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/f4da3bd4-7a3c-41f4-b109-01ad5dab48f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['피크타임' 문종업 화보 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77402</link>
-            <guid>https://www.esquirekorea.co.kr/article/77402</guid>
-            <pubDate>Thu, 11 May 2023 15:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[어느 옷이든 다 소화하는 문종업의 화보를 공개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/c0fe87ff-9ea6-40d4-abca-9133c98fcd87.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
