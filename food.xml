@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 03:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 15:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방귀가 잦고 냄새가 고약해졌다면? 강력한 방귀 원인 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77635</link>
+            <guid>https://www.esquirekorea.co.kr/article/77635</guid>
+            <pubDate>Sat, 20 May 2023 15:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[수다를 많이 떨어도 방귀가 잦아진다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/0efcf656-59ab-4b9e-9dad-b41f450f0af1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[면사리를 무한리필 해주는 칼국수 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/77624</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 17 May 2023 03:19:39 GMT</pubDate>
             <content:encoded><![CDATA[재래식 축산으로 생산되는 동물 고기를 대체할 방안으로 배양육이 떠오르고 있다. 아직 우리에게...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/13/c250d15c-4499-4760-9c5b-4abfc32c95a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글렌모렌지의 새로운 캠페인 론칭 파티 현장!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77517</link>
-            <guid>https://www.esquirekorea.co.kr/article/77517</guid>
-            <pubDate>Wed, 17 May 2023 03:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[It’s Kind Of Delicious And Wonderful]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/585a2656-ff0c-4c8b-a9be-a4138ae6717d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
