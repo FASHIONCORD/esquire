@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 15:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 03:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맛과 건강 모두를 잡은 전국 '들밥' 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77667</link>
+            <guid>https://www.esquirekorea.co.kr/article/77667</guid>
+            <pubDate>Sun, 21 May 2023 03:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[한정식 최강으로 손꼽히는 들밥 맛집을 모았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/3b5380ca-7c42-45bc-abf1-39069f202544.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시원한 폭포 앞에서 즐기는 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/77664</link>
@@ -16,12 +24,12 @@
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/f0888172-86ae-4d6b-a8ad-b7e657c94530.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[속까지 든든한 술안주! 스지찜 맛집 4]]></title>
+            <title><![CDATA[속까지 든든한 술안주 스지찜 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/77652</link>
             <guid>https://www.esquirekorea.co.kr/article/77652</guid>
             <pubDate>Fri, 19 May 2023 09:20:11 GMT</pubDate>
             <content:encoded><![CDATA[양지와 도가니를 듬뿍 넣어주는 나주식 스지찜?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/c6482015-0d6b-4fc4-815c-0f607c7d8cf7.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/20/c6482015-0d6b-4fc4-815c-0f607c7d8cf7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GS25, 반려동물 돌봄과 훈련 서비스 출시]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 18 May 2023 09:18:28 GMT</pubDate>
             <content:encoded><![CDATA[오르가슴을 느낄 때 나타나는 신체적 현상을 그녀들에게 물었다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/b30e68f0-f855-4bf7-89a1-49f4286db896.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[면사리를 무한리필 해주는 칼국수 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77624</link>
-            <guid>https://www.esquirekorea.co.kr/article/77624</guid>
-            <pubDate>Thu, 18 May 2023 09:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[만원도 안 되는 가격에 면사리, 보리밥까지 무한리필 해주는 가성비 맛집?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/198e5272-add1-4bd9-bca5-dfa0d7816255.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
