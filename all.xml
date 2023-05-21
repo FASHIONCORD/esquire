@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 03:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 09:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1258,6 +1258,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/71b5de10-199c-42da-87ee-c57a9d545628.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우주에서 연인과 함께 근사한 저녁을 즐길 수 있다고? (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77503</link>
+            <guid>https://www.esquirekorea.co.kr/article/77503</guid>
+            <pubDate>Sun, 21 May 2023 09:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[105,000파운드(한화 약 1억 7600만원)이면 가능하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/fa811b01-3745-44f5-b62e-284d9079a183.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[집에서도 충전 가능한 초소형 전기차? (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/77477</link>
             <guid>https://www.esquirekorea.co.kr/article/77477</guid>
@@ -1312,12 +1320,12 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/98df2fc2-0c9e-4dd7-941a-f75bce48ea94.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[EQE SUV와 마이바흐 전기차가 보여준 벤츠의 미래 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77369</link>
-            <guid>https://www.esquirekorea.co.kr/article/77369</guid>
-            <pubDate>Tue, 09 May 2023 15:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[135년간 최고가 아니면 만들지 않는다는 신념을 지켜온 메르세데스-벤츠에게 뛰어난 승차감과 멋진...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/9d2f2ffb-a642-4738-b68d-afad88887e87.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[시원한 폭포 앞에서 즐기는 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77664</link>
+            <guid>https://www.esquirekorea.co.kr/article/77664</guid>
+            <pubDate>Fri, 19 May 2023 15:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[초여름 시원하게 맞이하는 방법! 전국 곳곳의 폭포뷰 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/f0888172-86ae-4d6b-a8ad-b7e657c94530.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[속까지 든든한 술안주 스지찜 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1374,14 +1382,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 18 May 2023 09:18:19 GMT</pubDate>
             <content:encoded><![CDATA[대구의 10味 중 하나인 복불고기를 아직 안 먹어봤다면 당장 향해보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/224a3607-957d-4ee7-aef3-6cccdab6908e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50년 넘게 운영한 닭갈비 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77551</link>
-            <guid>https://www.esquirekorea.co.kr/article/77551</guid>
-            <pubDate>Wed, 17 May 2023 15:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[8천원에 노계와 육계를 동시에 맛볼 수 있는 닭갈비?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/ebf20c71-ce38-44d6-b1f5-5384572cdc14.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[맛과 건강 모두를 잡은 전국 '들밥' 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>

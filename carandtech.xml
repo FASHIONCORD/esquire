@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 03:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 09:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우주에서 연인과 함께 근사한 저녁을 즐길 수 있다고?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77503</link>
+            <guid>https://www.esquirekorea.co.kr/article/77503</guid>
+            <pubDate>Sun, 21 May 2023 09:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[105,000파운드(한화 약 1억 7600만원)이면 가능하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/fa811b01-3745-44f5-b62e-284d9079a183.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[집에서도 충전 가능한 초소형 전기차?]]></title>
             <link>https://www.esquirekorea.co.kr/article/77477</link>
@@ -60,14 +68,6 @@
             <guid>https://www.esquirekorea.co.kr/article/77376</guid>
             <pubDate>Thu, 11 May 2023 09:17:44 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/98df2fc2-0c9e-4dd7-941a-f75bce48ea94.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EQE SUV와 마이바흐 전기차가 보여준 벤츠의 미래]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77369</link>
-            <guid>https://www.esquirekorea.co.kr/article/77369</guid>
-            <pubDate>Tue, 09 May 2023 15:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[135년간 최고가 아니면 만들지 않는다는 신념을 지켜온 메르세데스-벤츠에게 뛰어난 승차감과 멋진...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/09/9d2f2ffb-a642-4738-b68d-afad88887e87.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
