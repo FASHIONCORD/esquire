@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 15:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 03:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트위터의 새로운 CEO, 린다 야카리노]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77529</link>
+            <guid>https://www.esquirekorea.co.kr/article/77529</guid>
+            <pubDate>Mon, 22 May 2023 03:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[광고 전문가가 다시 쓰는 트위터의 미래?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/14/08d2cdb8-ca07-4bca-9e0d-2eda4759ebc9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, ‘애플워치 프라이드 에디션’ 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77504</link>
+            <guid>https://www.esquirekorea.co.kr/article/77504</guid>
+            <pubDate>Mon, 22 May 2023 03:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[다양성을 지지하기 위해.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/3787d254-0a25-4aab-84fe-e2c4ffcf8249.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우주에서 연인과 함께 근사한 저녁을 즐길 수 있다고?]]></title>
             <link>https://www.esquirekorea.co.kr/article/77503</link>
@@ -54,20 +70,6 @@
             <pubDate>Fri, 12 May 2023 09:18:07 GMT</pubDate>
             <content:encoded><![CDATA[정확한 사양은 오는 10일에 발표한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/82674bb5-6e6a-4547-9d71-ee0c2c124795.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울모터쇼에서 발견한 자동차의 미래]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77378</link>
-            <guid>https://www.esquirekorea.co.kr/article/77378</guid>
-            <pubDate>Thu, 11 May 2023 09:17:44 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/07/e0eada36-4444-43d1-baa5-4b246ed85d13.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대 모터스튜디오 말하는 집의 정의란?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77376</link>
-            <guid>https://www.esquirekorea.co.kr/article/77376</guid>
-            <pubDate>Thu, 11 May 2023 09:17:44 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/98df2fc2-0c9e-4dd7-941a-f75bce48ea94.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

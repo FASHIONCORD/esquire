@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 15:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 03:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국 최초 '분노의 질주' OST 참여한 지민]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77668</link>
+            <guid>https://www.esquirekorea.co.kr/article/77668</guid>
+            <pubDate>Mon, 22 May 2023 03:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[뮤직비디오에도 출연했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/0ad61010-486d-4ce8-aa3a-52d28fbc5456.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[맛과 건강 모두를 잡은 전국 '들밥' 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/77667</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 19 May 2023 03:21:40 GMT</pubDate>
             <content:encoded><![CDATA[수다를 많이 떨어도 방귀가 잦아진다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/0efcf656-59ab-4b9e-9dad-b41f450f0af1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돈두댓] 절정에 다다른 그녀의 시그널]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77629</link>
-            <guid>https://www.esquirekorea.co.kr/article/77629</guid>
-            <pubDate>Thu, 18 May 2023 09:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[오르가슴을 느낄 때 나타나는 신체적 현상을 그녀들에게 물었다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/b30e68f0-f855-4bf7-89a1-49f4286db896.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
