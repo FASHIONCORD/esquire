@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 03:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 09:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애주가들의 히든 메뉴? 호래기 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77698</link>
+            <guid>https://www.esquirekorea.co.kr/article/77698</guid>
+            <pubDate>Tue, 23 May 2023 09:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[야장에서 즐기는 신선한 호래기 회 한 접시!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/dd04a284-96ae-4282-9bf7-f6b645126a79.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2026 FIFA 월드컵 로고 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77674</link>
+            <guid>https://www.esquirekorea.co.kr/article/77674</guid>
+            <pubDate>Tue, 23 May 2023 09:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[최초의 3개국 동시 개최 월드컵이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/44f41399-3e43-43ec-a21f-df7744a60a9e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베르나르 베르베르 내한, 독자들과 여행 떠난다]]></title>
             <link>https://www.esquirekorea.co.kr/article/77672</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 19 May 2023 09:20:11 GMT</pubDate>
             <content:encoded><![CDATA[펫시터 업체 '와요'와 협업했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/cce406e8-51b6-4ea1-b69c-0935dc741697.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어린이대공원을 탈출했던 얼룩말 '세로'에게 여자친구가 생긴다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77643</link>
-            <guid>https://www.esquirekorea.co.kr/article/77643</guid>
-            <pubDate>Fri, 19 May 2023 09:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[이 외에도 세로를 위한 여러 환경이 개선된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/2c6926db-1c00-48b4-bf7e-bb58e2beff14.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DDP에서 숙박이 가능하다고?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77642</link>
-            <guid>https://www.esquirekorea.co.kr/article/77642</guid>
-            <pubDate>Fri, 19 May 2023 09:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 단 1명만 체험할 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/f7e501a4-5383-40eb-b302-a4d2bdffe425.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
