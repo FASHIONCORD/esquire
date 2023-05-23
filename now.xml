@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 15:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 03:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본에서 리메이크되는 '환승연애']]></title>
+            <link>https://www.esquirekorea.co.kr/article/77552</link>
+            <guid>https://www.esquirekorea.co.kr/article/77552</guid>
+            <pubDate>Tue, 23 May 2023 03:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[6월 15일 아마존 프라임서 전 세계 공개된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/7b4fcd39-ed4f-4a13-b2ec-65f6b75e678d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[글렌모렌지의 새로운 캠페인 론칭 파티 현장!]]></title>
             <link>https://www.esquirekorea.co.kr/article/77517</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 12 May 2023 09:18:56 GMT</pubDate>
             <content:encoded><![CDATA[사람의 손길이 닿을 때 더욱 생기를 얻는 곳.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/cdab48ef-be9f-4b93-b23c-29852e4b0cfb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생으로 먹으면 절대! 안 되는 음식 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77158</link>
-            <guid>https://www.esquirekorea.co.kr/article/77158</guid>
-            <pubDate>Thu, 11 May 2023 15:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[생(生)으로 먹었다가 생사(生死)를 오갈 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/3d7c67d9-02d7-4c2c-b429-60085908c6b8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
