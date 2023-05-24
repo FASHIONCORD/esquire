@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 15:23:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 03:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1385,6 +1385,14 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/0efcf656-59ab-4b9e-9dad-b41f450f0af1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[50년 넘게 운영 중인 막국수 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77730</link>
+            <guid>https://www.esquirekorea.co.kr/article/77730</guid>
+            <pubDate>Wed, 24 May 2023 03:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[서울에서 맛보는 이북식 막국수의 맛?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/faf7fd49-588d-4a6d-becf-5198a3cbf9fd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[알파고와 체스 한 게임? 말이 자동으로 움직이는 체스보드 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/77711</link>
             <guid>https://www.esquirekorea.co.kr/article/77711</guid>
@@ -1396,7 +1404,7 @@ The New MINI Countryman과 일상에
             <title><![CDATA[전국 석갈비 노포 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/77702</link>
             <guid>https://www.esquirekorea.co.kr/article/77702</guid>
-            <pubDate>Tue, 23 May 2023 15:23:08 GMT</pubDate>
+            <pubDate>Tue, 23 May 2023 15:22:57 GMT</pubDate>
             <content:encoded><![CDATA[30년은 기본! 3대를 이어 60년 이상 운영하고 있는 곳 까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/20/fc281f38-3040-49ee-8294-7de32f1d3c90.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1439,14 +1447,6 @@ The New MINI Countryman과 일상에
             <pubDate>Sun, 21 May 2023 03:21:42 GMT</pubDate>
             <content:encoded><![CDATA[한정식 최강으로 손꼽히는 들밥 맛집을 모았다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/3b5380ca-7c42-45bc-abf1-39069f202544.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시원한 폭포 앞에서 즐기는 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77664</link>
-            <guid>https://www.esquirekorea.co.kr/article/77664</guid>
-            <pubDate>Fri, 19 May 2023 15:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[초여름 시원하게 맞이하는 방법! 전국 곳곳의 폭포뷰 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/f0888172-86ae-4d6b-a8ad-b7e657c94530.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Part 2. 스트레이 키즈 현진이 춤, 작사작곡, 글쓰기, 그림에 가진 마음들 (에스콰이어 코리아 ─ 피플)]]></title>
