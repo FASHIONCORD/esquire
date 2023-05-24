@@ -4,9 +4,24 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 03:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 09:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘하트시그널4’ 단발좌 김지영 TMI 12.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77724</link>
+            <guid>https://www.esquirekorea.co.kr/article/77724</guid>
+            <pubDate>Wed, 24 May 2023 09:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[그녀가 꼽은 이상형은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/26052976-9422-4131-8974-5ea1b73653ec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part2. 인피니트 엘 김명수가 복귀작 <넘버스: 빌딩숲의 감시자들>과 새로 설립한 인피니트 컴퍼니에 기대하는 것들]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77619</link>
+            <guid>https://www.esquirekorea.co.kr/article/77619</guid>
+            <pubDate>Wed, 24 May 2023 09:18:47 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/28cdab9c-77dc-470f-abd8-4caa12bfa532.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Part 2. 스트레이 키즈 현진이 춤, 작사작곡, 글쓰기, 그림에 가진 마음들]]></title>
             <link>https://www.esquirekorea.co.kr/article/77623</link>
@@ -50,22 +65,6 @@
             <pubDate>Mon, 22 May 2023 09:19:40 GMT</pubDate>
             <content:encoded><![CDATA[오는 6월 성수동에서 열리는 까르띠에 타임 언리미티드 전시를 앞두고 배우 최시원을 만났다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/4b261067-0d53-473c-a683-f6973da535fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금발로 미모 리즈 갱신, 에스파 카리나 TMI 12.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77610</link>
-            <guid>https://www.esquirekorea.co.kr/article/77610</guid>
-            <pubDate>Mon, 22 May 2023 03:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[카리나의 데뷔명은 자스민이 될 뻔 했다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/17/d396eac8-ae7e-4737-b038-01ff073b7844.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티모시 샬라메와 마주한 샤넬]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77576</link>
-            <guid>https://www.esquirekorea.co.kr/article/77576</guid>
-            <pubDate>Mon, 22 May 2023 03:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[블루 드 샤넬의 뉴 앰배서더 티모시 샬라메가 보여주는 새로운 향의 형태.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/e0c499b8-481c-4657-89b4-2a30d5666796.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 03:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 09:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[술안주부터 해장까지, 뼈칼국수 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77754</link>
+            <guid>https://www.esquirekorea.co.kr/article/77754</guid>
+            <pubDate>Wed, 24 May 2023 09:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[돼지 목뼈로 육수를 내고 면도 직접 뽑아주는 곳?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/c85522de-4314-43e2-832d-0270b693299a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두바이에 거대한 달 모형 리조트 개발 추진]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77752</link>
+            <guid>https://www.esquirekorea.co.kr/article/77752</guid>
+            <pubDate>Wed, 24 May 2023 09:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[총사업비 약 7조 원에 이른다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/f847a8ee-9750-4fd4-a8e7-91bf40d0850e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[50년 넘게 운영 중인 막국수 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/77730</link>
@@ -54,22 +70,6 @@
             <pubDate>Mon, 22 May 2023 09:19:30 GMT</pubDate>
             <content:encoded><![CDATA[작가와 함께 강원도 출렁다리를 건널 수 있다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/85816da4-a66e-408f-93e7-44f901b935f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 최초 '분노의 질주' OST 참여한 지민]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77668</link>
-            <guid>https://www.esquirekorea.co.kr/article/77668</guid>
-            <pubDate>Mon, 22 May 2023 03:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직비디오에도 출연했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/0ad61010-486d-4ce8-aa3a-52d28fbc5456.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맛과 건강 모두를 잡은 전국 '들밥' 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77667</link>
-            <guid>https://www.esquirekorea.co.kr/article/77667</guid>
-            <pubDate>Sun, 21 May 2023 03:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[한정식 최강으로 손꼽히는 들밥 맛집을 모았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/3b5380ca-7c42-45bc-abf1-39069f202544.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

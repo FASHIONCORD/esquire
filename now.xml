@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 03:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 09:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[커트 코베인이 연주하던 부서진 기타의 낙찰가는?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77744</link>
+            <guid>https://www.esquirekorea.co.kr/article/77744</guid>
+            <pubDate>Wed, 24 May 2023 09:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[예상 낙찰가의 10배 가까이 뛰어넘었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/a9f609a9-b080-4d08-bfca-dbdec174ccea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카멜 커피 대표 박강현과 브랜드 매니저 박종진과 함께한 시계 토크]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77679</link>
+            <guid>https://www.esquirekorea.co.kr/article/77679</guid>
+            <pubDate>Wed, 24 May 2023 09:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[중고 시계 플랫폼 바이버와 함께한 대담한 사람들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/862530e4-10a9-47cb-94bc-83eb0dbda35a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어린이대공원을 탈출했던 얼룩말 '세로'에게 여자친구가 생긴다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77643</link>
+            <guid>https://www.esquirekorea.co.kr/article/77643</guid>
+            <pubDate>Wed, 24 May 2023 09:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[이 외에도 세로를 위한 여러 환경이 개선된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/2c6926db-1c00-48b4-bf7e-bb58e2beff14.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방귀가 잦고 냄새가 고약해졌다면? 강력한 방귀 원인 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/77635</link>
@@ -46,30 +70,6 @@
             <pubDate>Thu, 18 May 2023 09:18:45 GMT</pubDate>
             <content:encoded><![CDATA[전작에 이어 팀 버튼이 연출을 맡는다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/1c6fe486-fa8f-4c4d-9a83-155f8d6c2ebb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈곱 감기 비상! 눈 건강을 지키는 습관 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77483</link>
-            <guid>https://www.esquirekorea.co.kr/article/77483</guid>
-            <pubDate>Thu, 18 May 2023 09:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[모니터를 볼 때 올바른 각도와 거리는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/a8cb31cc-2b49-4abf-bcb6-8011e1f2b490.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐나다 국민 커피 팀 홀튼 국내 진출!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77453</link>
-            <guid>https://www.esquirekorea.co.kr/article/77453</guid>
-            <pubDate>Mon, 15 May 2023 15:28:18 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 2위 커피 브랜드의 대표 메뉴는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/ba173264-60a3-4381-9b1d-9bee1a1e0c1a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 데뷔 10주년 기념우표 발행]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77407</link>
-            <guid>https://www.esquirekorea.co.kr/article/77407</guid>
-            <pubDate>Mon, 15 May 2023 15:28:18 GMT</pubDate>
-            <content:encoded><![CDATA[내달 13일부터 구매할 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/18c1de01-ca1b-4a89-a95c-9451c169f7e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
