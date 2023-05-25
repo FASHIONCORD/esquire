@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 03:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 09:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Part1. 미주의 홀로서기]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77722</link>
+            <guid>https://www.esquirekorea.co.kr/article/77722</guid>
+            <pubDate>Thu, 25 May 2023 09:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[솔로 데뷔를 앞둔 미주는 티비에서 보던 그 사람과는 전혀 다른 사람이었다. 깨끗한 표정과 차...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/48e3e524-1c70-482e-b0e6-6d03ebe46eb5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스파, 멤버별 개인 인스타그램 개설]]></title>
             <link>https://www.esquirekorea.co.kr/article/77726</link>
@@ -57,14 +65,6 @@
             <guid>https://www.esquirekorea.co.kr/article/77695</guid>
             <pubDate>Mon, 22 May 2023 09:19:40 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/2a92b5a4-5ab4-4b30-b791-fc5a67d6ca74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 최초 '분노의 질주' OST 참여한 지민]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77668</link>
-            <guid>https://www.esquirekorea.co.kr/article/77668</guid>
-            <pubDate>Mon, 22 May 2023 09:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[뮤직비디오에도 출연했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/0ad61010-486d-4ce8-aa3a-52d28fbc5456.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

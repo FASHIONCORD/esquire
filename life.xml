@@ -4,9 +4,33 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 03:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 09:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추억의 잡지 '엠알케이(미스터케이)'가 돌아온다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77800</link>
+            <guid>https://www.esquirekorea.co.kr/article/77800</guid>
+            <pubDate>Thu, 25 May 2023 09:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[그것도 무려 한정판.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/e3e4e31f-7550-453b-a7d9-568f743be0ce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[THE REAL MAN]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77783</link>
+            <guid>https://www.esquirekorea.co.kr/article/77783</guid>
+            <pubDate>Thu, 25 May 2023 09:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[운동에 진심인 다섯 남자의 단단하고 아름다운 몸.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/a2950131-a61d-43d0-98a9-c48185fc5719.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서해안의 맛을 집 앞에서? 서울 게국지 맛집 3]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77780</link>
+            <guid>https://www.esquirekorea.co.kr/article/77780</guid>
+            <pubDate>Thu, 25 May 2023 09:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[서울의 단 3곳에서만 맛볼 수 있는 게국지?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/15932e06-5476-49ca-a88f-9cd886df764f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[술안주부터 해장까지, 뼈칼국수 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/77754</link>
@@ -46,30 +70,6 @@
             <pubDate>Tue, 23 May 2023 15:23:08 GMT</pubDate>
             <content:encoded><![CDATA[30년은 기본! 3대를 이어 60년 이상 운영하고 있는 곳 까지.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/20/fc281f38-3040-49ee-8294-7de32f1d3c90.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애주가들의 히든 메뉴? 호래기 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77698</link>
-            <guid>https://www.esquirekorea.co.kr/article/77698</guid>
-            <pubDate>Tue, 23 May 2023 09:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[야장에서 즐기는 신선한 호래기 회 한 접시!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/dd04a284-96ae-4282-9bf7-f6b645126a79.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2026 FIFA 월드컵 로고 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77674</link>
-            <guid>https://www.esquirekorea.co.kr/article/77674</guid>
-            <pubDate>Tue, 23 May 2023 09:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[최초의 3개국 동시 개최 월드컵이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/44f41399-3e43-43ec-a21f-df7744a60a9e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베르나르 베르베르 내한, 독자들과 여행 떠난다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77672</link>
-            <guid>https://www.esquirekorea.co.kr/article/77672</guid>
-            <pubDate>Mon, 22 May 2023 09:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[작가와 함께 강원도 출렁다리를 건널 수 있다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/85816da4-a66e-408f-93e7-44f901b935f2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
