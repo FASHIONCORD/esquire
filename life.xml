@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 03:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 09:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[거사를 앞두고 사정량 늘리는 방법 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77825</link>
+            <guid>https://www.esquirekorea.co.kr/article/77825</guid>
+            <pubDate>Fri, 26 May 2023 09:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[차오르는 느낌이 다르다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/81014e47-a54e-4a15-af53-c913d92705d5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추억의 잡지 '엠알케이(미스터케이)'가 돌아온다]]></title>
             <link>https://www.esquirekorea.co.kr/article/77800</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 23 May 2023 15:23:08 GMT</pubDate>
             <content:encoded><![CDATA[AI에게 강습을 받을 수도 있다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/42de0887-2811-4c8d-be3a-77bc7dcc6b11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전국 석갈비 노포 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77702</link>
-            <guid>https://www.esquirekorea.co.kr/article/77702</guid>
-            <pubDate>Tue, 23 May 2023 15:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[30년은 기본! 3대를 이어 60년 이상 운영하고 있는 곳 까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/20/fc281f38-3040-49ee-8294-7de32f1d3c90.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
