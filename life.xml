@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 09:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 15:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[돈두댓] 섹스가 하고 싶을 때 보내는 은밀한 시그널]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77867</link>
+            <guid>https://www.esquirekorea.co.kr/article/77867</guid>
+            <pubDate>Sat, 27 May 2023 15:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[직접 받아본 주옥같은 시그널만 모았다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/91e94575-b0ee-41e5-8e06-7a7fbfdaf2c1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혼네(HONNE)가 내한한다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77849</link>
+            <guid>https://www.esquirekorea.co.kr/article/77849</guid>
+            <pubDate>Sat, 27 May 2023 15:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[8월 17일, 18일 양일간 진행.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/50043308-74fa-4b92-b0ad-c404f41fe16b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[곱창을 못 먹는다면? 낙우새 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/77839</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 24 May 2023 09:18:34 GMT</pubDate>
             <content:encoded><![CDATA[돼지 목뼈로 육수를 내고 면도 직접 뽑아주는 곳?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/c85522de-4314-43e2-832d-0270b693299a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두바이에 거대한 달 모형 리조트 개발 추진]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77752</link>
-            <guid>https://www.esquirekorea.co.kr/article/77752</guid>
-            <pubDate>Wed, 24 May 2023 09:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[총사업비 약 7조 원에 이른다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/f847a8ee-9750-4fd4-a8e7-91bf40d0850e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50년 넘게 운영 중인 막국수 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77730</link>
-            <guid>https://www.esquirekorea.co.kr/article/77730</guid>
-            <pubDate>Wed, 24 May 2023 03:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[서울에서 맛보는 이북식 막국수의 맛?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/faf7fd49-588d-4a6d-becf-5198a3cbf9fd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
