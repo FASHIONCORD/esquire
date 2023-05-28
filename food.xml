@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 03:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 09:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[40년 넘게 운영한 양식집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77816</link>
+            <guid>https://www.esquirekorea.co.kr/article/77816</guid>
+            <pubDate>Sun, 28 May 2023 09:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[80년대 인테리어가 그대로 보존된 곳부터 40년 동안 프로포즈 명당으로 불리는 곳까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/6c4cfe53-305a-4ac5-938e-5eb8b4bd2de3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서해안의 맛을 집 앞에서? 서울 게국지 맛집 3]]></title>
             <link>https://www.esquirekorea.co.kr/article/77780</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 23 May 2023 15:22:57 GMT</pubDate>
             <content:encoded><![CDATA[통문어와 활전복이 듬뿍 들어간 갈비찜으로 기력보충하자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/21/66aff18e-3074-4640-abd1-7d5682ff0588.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전국 석갈비 노포 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77702</link>
-            <guid>https://www.esquirekorea.co.kr/article/77702</guid>
-            <pubDate>Tue, 23 May 2023 15:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[30년은 기본! 3대를 이어 60년 이상 운영하고 있는 곳 까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/20/fc281f38-3040-49ee-8294-7de32f1d3c90.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
