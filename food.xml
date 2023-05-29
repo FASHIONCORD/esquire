@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 09:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 15:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[곱창을 못 먹는다면? 낙우새 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77839</link>
+            <guid>https://www.esquirekorea.co.kr/article/77839</guid>
+            <pubDate>Mon, 29 May 2023 15:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[낙지, 우삼겹, 새우를 푸짐하게 넣어주는데 밥과 라면까지 무한리필?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/e11cdf19-a77d-4078-bb4c-1beabf300092.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야장을 즐길 수 있는 100평 술집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77831</link>
+            <guid>https://www.esquirekorea.co.kr/article/77831</guid>
+            <pubDate>Mon, 29 May 2023 15:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[여름을 제대로 즐길 수 있는 야장 대형 술집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/59c11601-9ce6-450f-81ce-893655674bb0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[40년 넘게 운영한 양식집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/77816</link>
@@ -54,22 +70,6 @@
             <pubDate>Wed, 24 May 2023 09:18:23 GMT</pubDate>
             <content:encoded><![CDATA[서울에서 맛보는 이북식 막국수의 맛?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/faf7fd49-588d-4a6d-becf-5198a3cbf9fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민초맛 바나나킥의 등장?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77707</link>
-            <guid>https://www.esquirekorea.co.kr/article/77707</guid>
-            <pubDate>Tue, 23 May 2023 15:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[출시는 22일 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/21/9cc481ac-d759-442f-b82c-5af7da0ffcf4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이색 보양식! 서울 전복문어갈비찜 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77706</link>
-            <guid>https://www.esquirekorea.co.kr/article/77706</guid>
-            <pubDate>Tue, 23 May 2023 15:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[통문어와 활전복이 듬뿍 들어간 갈비찜으로 기력보충하자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/21/66aff18e-3074-4640-abd1-7d5682ff0588.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
