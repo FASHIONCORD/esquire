@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 03:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 09:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에르메스에서 출시한 에어팟 프로 2 케이스]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77751</link>
+            <guid>https://www.esquirekorea.co.kr/article/77751</guid>
+            <pubDate>Tue, 30 May 2023 09:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[에어팟 4개 가격과 맞멎는다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/fedf096c-42fe-4e75-8cb2-a922a742159c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[커트 코베인이 연주하던 부서진 기타의 낙찰가는?]]></title>
             <link>https://www.esquirekorea.co.kr/article/77744</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 19 May 2023 09:21:01 GMT</pubDate>
             <content:encoded><![CDATA[It’s Kind Of Delicious And Wonderful]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/585a2656-ff0c-4c8b-a9be-a4138ae6717d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[36년 만에 속편 제작이 확정된 '비틀쥬스 2']]></title>
-            <link>https://www.esquirekorea.co.kr/article/77505</link>
-            <guid>https://www.esquirekorea.co.kr/article/77505</guid>
-            <pubDate>Thu, 18 May 2023 09:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[전작에 이어 팀 버튼이 연출을 맡는다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/1c6fe486-fa8f-4c4d-9a83-155f8d6c2ebb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

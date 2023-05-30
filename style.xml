@@ -1,72 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 스타일</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 03:20:10 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[티모시 샬라메와 마주한 샤넬]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77576</link>
-            <guid>https://www.esquirekorea.co.kr/article/77576</guid>
-            <pubDate>Wed, 24 May 2023 09:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[블루 드 샤넬의 뉴 앰배서더 티모시 샬라메가 보여주는 새로운 향의 형태.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/e0c499b8-481c-4657-89b4-2a30d5666796.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스니커즈가 파생상품이 된 시대]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77557</link>
-            <guid>https://www.esquirekorea.co.kr/article/77557</guid>
-            <pubDate>Tue, 23 May 2023 15:22:08 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/16/98ffe52f-8714-415d-95f1-2ae25fdfcb53.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[떠나요. 백팩을 메고]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77269</link>
-            <guid>https://www.esquirekorea.co.kr/article/77269</guid>
-            <pubDate>Fri, 19 May 2023 09:19:37 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/15/2ac3131f-1cc3-496c-84e2-dd1506443b4e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다양한 패턴을 즐기는 계절]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77526</link>
-            <guid>https://www.esquirekorea.co.kr/article/77526</guid>
-            <pubDate>Fri, 19 May 2023 03:20:50 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/14/8aecfa70-b763-4025-af0c-f00bf58b99cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴 맨]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77309</link>
-            <guid>https://www.esquirekorea.co.kr/article/77309</guid>
-            <pubDate>Thu, 18 May 2023 09:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[헤어부터 메이크업까지, 트렌드를 앞서가는 남자들에게 추천하는 그루밍 아이디어 6.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/13/b5d2a845-a278-42f6-bd3e-7e218e6529f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캘리포니아의 에너지로 가득항 루이 비통 향수]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77490</link>
-            <guid>https://www.esquirekorea.co.kr/article/77490</guid>
-            <pubDate>Wed, 17 May 2023 03:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[루이 비통의 새로운 콜로뉴 퍼퓸 퍼시픽 칠은 캘리포니아의 아름다운 해변과 건강한 삶의 태도에...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/5b0050bf-ea13-4fd7-a753-43ecbb80ca1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈곱 감기 비상! 눈 건강을 지키는 습관 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77483</link>
-            <guid>https://www.esquirekorea.co.kr/article/77483</guid>
-            <pubDate>Mon, 15 May 2023 15:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[모니터를 볼 때 올바른 각도와 거리는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/a8cb31cc-2b49-4abf-bcb6-8011e1f2b490.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part.1 뭘 좀 아는 사람들의 그루밍 베스트 아이템]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77305</link>
-            <guid>https://www.esquirekorea.co.kr/article/77305</guid>
-            <pubDate>Sun, 14 May 2023 15:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[화장품 좀 써본 25명이 골랐다.  두고 두고 쓰는, 떨어지면 또 사는 그루밍 아이템.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/19bc2980-2d72-4c59-bd9b-c65c27db9f41.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/style</id>
+    <title>에스콰이어 코리아 ─ 스타일</title>
+    <updated>2023-05-30T09:19:11.361Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[까르띠에 타임 언리미티드 영상 시리즈_#최시원]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77608</id>
+        <link href="https://www.esquirekorea.co.kr/article/77608"/>
+        <updated>2023-05-30T09:17:38.147Z</updated>
+        <content type="html"><![CDATA[오는 6월 성수동에서 열리는 까르띠에 타임 언리미티드 전시를 앞두고 배우 최시원을 만났다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방귀가 잦고 냄새가 고약해졌다면? 강력한 방귀 원인 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77635</id>
+        <link href="https://www.esquirekorea.co.kr/article/77635"/>
+        <updated>2023-05-30T09:17:38.150Z</updated>
+        <content type="html"><![CDATA[수다를 많이 떨어도 방귀가 잦아진다고?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티모시 샬라메와 마주한 샤넬]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77576</id>
+        <link href="https://www.esquirekorea.co.kr/article/77576"/>
+        <updated>2023-05-24T09:17:47.921Z</updated>
+        <content type="html"><![CDATA[블루 드 샤넬의 뉴 앰배서더 티모시 샬라메가 보여주는 새로운 향의 형태.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스니커즈가 파생상품이 된 시대]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77557</id>
+        <link href="https://www.esquirekorea.co.kr/article/77557"/>
+        <updated>2023-05-23T15:22:08.957Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[떠나요. 백팩을 메고]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77269</id>
+        <link href="https://www.esquirekorea.co.kr/article/77269"/>
+        <updated>2023-05-19T09:19:37.225Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다양한 패턴을 즐기는 계절]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77526</id>
+        <link href="https://www.esquirekorea.co.kr/article/77526"/>
+        <updated>2023-05-19T03:20:50.123Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴 맨]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77309</id>
+        <link href="https://www.esquirekorea.co.kr/article/77309"/>
+        <updated>2023-05-18T09:17:52.294Z</updated>
+        <content type="html"><![CDATA[헤어부터 메이크업까지, 트렌드를 앞서가는 남자들에게 추천하는 그루밍 아이디어 6.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캘리포니아의 에너지로 가득항 루이 비통 향수]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77490</id>
+        <link href="https://www.esquirekorea.co.kr/article/77490"/>
+        <updated>2023-05-17T03:19:12.040Z</updated>
+        <content type="html"><![CDATA[루이 비통의 새로운 콜로뉴 퍼퓸 퍼시픽 칠은 캘리포니아의 아름다운 해변과 건강한 삶의 태도에...]]></content>
+    </entry>
+</feed>
