@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 15:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 03:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BMW가 만든 세계 첫 전기 요트]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77648</link>
+            <guid>https://www.esquirekorea.co.kr/article/77648</guid>
+            <pubDate>Tue, 30 May 2023 03:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[76회 칸 국제영화제에서 만나볼 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/c113a50a-b575-46d8-bfca-706121305f25.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['미니게임천국'이 8년만에 돌아온다]]></title>
             <link>https://www.esquirekorea.co.kr/article/77647</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 14 May 2023 15:17:40 GMT</pubDate>
             <content:encoded><![CDATA[누군가에게 캠핑은 나만의 장비를 가지고 스왜그를 뽐내는 은밀한 전장이다. 5명의 하드코어 캠퍼...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/10/1a1bed0b-544c-4652-8d76-b0874689fafb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마음에 드는 차를 만들기 위해 회사를 차렸다고?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/76944</link>
-            <guid>https://www.esquirekorea.co.kr/article/76944</guid>
-            <pubDate>Fri, 12 May 2023 09:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[왜 내가 원하는 차는 없을까? 누군가 그 이유를 생각만 하는 사이에 ‘없으면 내가 만들지 뭐...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/08/ddc1857d-8b91-4be8-8a22-c28248c7e25c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
