@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2023-05-30T09:19:11.361Z</updated>
+    <updated>2023-05-31T15:20:21.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[요즘 핫한 유전자 검사는 어디서 하면 좋을까?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77983</id>
+        <link href="https://www.esquirekorea.co.kr/article/77983"/>
+        <updated>2023-05-31T15:19:22.246Z</updated>
+        <content type="html"><![CDATA[세계에서 가장 포괄적인 유전자 검사 키트 서클 DNA에 대해서]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세티스파이 X 오클리 협업 아이템 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77827</id>
+        <link href="https://www.esquirekorea.co.kr/article/77827"/>
+        <updated>2023-05-31T15:19:22.270Z</updated>
+        <content type="html"><![CDATA[프랑스의 감성과 미국의 기술력이 만났을 때.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE REAL MAN]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77783</id>
+        <link href="https://www.esquirekorea.co.kr/article/77783"/>
+        <updated>2023-05-31T15:19:22.270Z</updated>
+        <content type="html"><![CDATA[운동에 진심인 다섯 남자의 단단하고 아름다운 몸.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카멜 커피 대표 박강현과 브랜드 매니저 박종진과 함께한 시계 토크]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77679</id>
+        <link href="https://www.esquirekorea.co.kr/article/77679"/>
+        <updated>2023-05-31T15:19:22.270Z</updated>
+        <content type="html"><![CDATA[중고 시계 플랫폼 바이버와 함께한 대담한 사람들.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[까르띠에 타임 언리미티드 영상 시리즈_#최시원]]></title>
         <id>https://www.esquirekorea.co.kr/article/77608</id>
@@ -31,31 +59,5 @@
         <id>https://www.esquirekorea.co.kr/article/77557</id>
         <link href="https://www.esquirekorea.co.kr/article/77557"/>
         <updated>2023-05-23T15:22:08.957Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[떠나요. 백팩을 메고]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77269</id>
-        <link href="https://www.esquirekorea.co.kr/article/77269"/>
-        <updated>2023-05-19T09:19:37.225Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다양한 패턴을 즐기는 계절]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77526</id>
-        <link href="https://www.esquirekorea.co.kr/article/77526"/>
-        <updated>2023-05-19T03:20:50.123Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴 맨]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77309</id>
-        <link href="https://www.esquirekorea.co.kr/article/77309"/>
-        <updated>2023-05-18T09:17:52.294Z</updated>
-        <content type="html"><![CDATA[헤어부터 메이크업까지, 트렌드를 앞서가는 남자들에게 추천하는 그루밍 아이디어 6.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캘리포니아의 에너지로 가득항 루이 비통 향수]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77490</id>
-        <link href="https://www.esquirekorea.co.kr/article/77490"/>
-        <updated>2023-05-17T03:19:12.040Z</updated>
-        <content type="html"><![CDATA[루이 비통의 새로운 콜로뉴 퍼퓸 퍼시픽 칠은 캘리포니아의 아름다운 해변과 건강한 삶의 태도에...]]></content>
     </entry>
 </feed>

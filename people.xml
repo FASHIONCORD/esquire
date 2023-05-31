@@ -1,73 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 피플</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 09:19:11 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[성찬, 쇼타로 NCT 떠난다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77832</link>
-            <guid>https://www.esquirekorea.co.kr/article/77832</guid>
-            <pubDate>Tue, 30 May 2023 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 보이 그룹으로 데뷔 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/4b2ff5ca-d2a2-49e3-b29e-5f489844dc13.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비욘세와 제이지가 캘리포니아에서 가장 비싼 집을 구입했다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77823</link>
-            <guid>https://www.esquirekorea.co.kr/article/77823</guid>
-            <pubDate>Tue, 30 May 2023 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[가격은 얼마?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/c0a571a0-75ab-405d-812e-22332cbd21cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part2. 미주는 지금부터 새로운 시나리오를 쓰고 싶다고 말했다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77723</link>
-            <guid>https://www.esquirekorea.co.kr/article/77723</guid>
-            <pubDate>Tue, 30 May 2023 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[솔로 데뷔를 앞둔 미주는 티비에서 보던 그 사람과는 전혀 다른 사람이었다. 깨끗한 표정과 차...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/367d3216-f959-4429-b4aa-023279f029d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part1. 미주의 홀로서기]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77722</link>
-            <guid>https://www.esquirekorea.co.kr/article/77722</guid>
-            <pubDate>Thu, 25 May 2023 09:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[솔로 데뷔를 앞둔 미주는 티비에서 보던 그 사람과는 전혀 다른 사람이었다. 깨끗한 표정과 차...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/48e3e524-1c70-482e-b0e6-6d03ebe46eb5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파, 멤버별 개인 인스타그램 개설]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77726</link>
-            <guid>https://www.esquirekorea.co.kr/article/77726</guid>
-            <pubDate>Thu, 25 May 2023 03:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[개설 후 4시간만에 100만 팔로워 달성.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/39908304-baa7-4a8f-826c-1a923159811d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘하트시그널4’ 단발좌 김지영 TMI 12.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77724</link>
-            <guid>https://www.esquirekorea.co.kr/article/77724</guid>
-            <pubDate>Wed, 24 May 2023 09:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[그녀가 꼽은 이상형은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/26052976-9422-4131-8974-5ea1b73653ec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part2. 인피니트 엘 김명수가 복귀작 <넘버스: 빌딩숲의 감시자들>과 새로 설립한 인피니트 컴퍼니에 기대하는 것들]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77619</link>
-            <guid>https://www.esquirekorea.co.kr/article/77619</guid>
-            <pubDate>Wed, 24 May 2023 09:18:47 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/28cdab9c-77dc-470f-abd8-4caa12bfa532.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part 2. 스트레이 키즈 현진이 춤, 작사작곡, 글쓰기, 그림에 가진 마음들]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77623</link>
-            <guid>https://www.esquirekorea.co.kr/article/77623</guid>
-            <pubDate>Tue, 23 May 2023 03:20:09 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/3cdd1b81-f2e2-4be1-a97b-5b7989cd69cf.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/people</id>
+    <title>에스콰이어 코리아 ─ 피플</title>
+    <updated>2023-05-31T15:20:21.184Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현진이 가장 많이 돌려본 직캠?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77889</id>
+        <link href="https://www.esquirekorea.co.kr/article/77889"/>
+        <updated>2023-05-31T15:20:04.057Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혼네(HONNE)가 내한한다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77849</id>
+        <link href="https://www.esquirekorea.co.kr/article/77849"/>
+        <updated>2023-05-31T15:20:04.058Z</updated>
+        <content type="html"><![CDATA[8월 17일, 18일 양일간 진행.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성찬, 쇼타로 NCT 떠난다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77832</id>
+        <link href="https://www.esquirekorea.co.kr/article/77832"/>
+        <updated>2023-05-30T09:18:50.195Z</updated>
+        <content type="html"><![CDATA[새로운 보이 그룹으로 데뷔 예정.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비욘세와 제이지가 캘리포니아에서 가장 비싼 집을 구입했다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77823</id>
+        <link href="https://www.esquirekorea.co.kr/article/77823"/>
+        <updated>2023-05-30T09:18:50.197Z</updated>
+        <content type="html"><![CDATA[가격은 얼마?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part2. 미주는 지금부터 새로운 시나리오를 쓰고 싶다고 말했다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77723</id>
+        <link href="https://www.esquirekorea.co.kr/article/77723"/>
+        <updated>2023-05-30T09:18:50.201Z</updated>
+        <content type="html"><![CDATA[솔로 데뷔를 앞둔 미주는 티비에서 보던 그 사람과는 전혀 다른 사람이었다. 깨끗한 표정과 차...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part1. 미주의 홀로서기]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77722</id>
+        <link href="https://www.esquirekorea.co.kr/article/77722"/>
+        <updated>2023-05-25T09:20:20.881Z</updated>
+        <content type="html"><![CDATA[솔로 데뷔를 앞둔 미주는 티비에서 보던 그 사람과는 전혀 다른 사람이었다. 깨끗한 표정과 차...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에스파, 멤버별 개인 인스타그램 개설]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77726</id>
+        <link href="https://www.esquirekorea.co.kr/article/77726"/>
+        <updated>2023-05-25T03:21:00.436Z</updated>
+        <content type="html"><![CDATA[개설 후 4시간만에 100만 팔로워 달성.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘하트시그널4’ 단발좌 김지영 TMI 12.]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77724</id>
+        <link href="https://www.esquirekorea.co.kr/article/77724"/>
+        <updated>2023-05-24T09:18:47.060Z</updated>
+        <content type="html"><![CDATA[그녀가 꼽은 이상형은?]]></content>
+    </entry>
+</feed>
