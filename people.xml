@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 03:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 09:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국과 일본의 힙합 발전을 이끌어 온 더콰이엇과 ZEEBRA가 만났다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77799</link>
+            <guid>https://www.esquirekorea.co.kr/article/77799</guid>
+            <pubDate>Fri, 02 Jun 2023 09:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2023년은 힙합 장르가 세상에 등장한 지 50년이 되는 해다. 이를 기념하며, 서로 다른 방식으로...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/4279186d-7306-48ca-bdb8-d375733ba43d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화제의 영화 '범죄도시3' 드디어 내일(5/31) 개봉]]></title>
             <link>https://www.esquirekorea.co.kr/article/77963</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 25 May 2023 09:20:20 GMT</pubDate>
             <content:encoded><![CDATA[솔로 데뷔를 앞둔 미주는 티비에서 보던 그 사람과는 전혀 다른 사람이었다. 깨끗한 표정과 차...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/48e3e524-1c70-482e-b0e6-6d03ebe46eb5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스파, 멤버별 개인 인스타그램 개설]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77726</link>
-            <guid>https://www.esquirekorea.co.kr/article/77726</guid>
-            <pubDate>Thu, 25 May 2023 03:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[개설 후 4시간만에 100만 팔로워 달성.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/39908304-baa7-4a8f-826c-1a923159811d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
