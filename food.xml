@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 푸드</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 15:20:47 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[전국 이색 두루치기 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78023</link>
-            <guid>https://www.esquirekorea.co.kr/article/78023</guid>
-            <pubDate>Thu, 01 Jun 2023 15:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[커다란 철판에 끓여 먹는 오리 두루치기의 맛?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/e0f4a9ee-2776-4b2d-ad74-cd59e335ca81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 맛지도 ‘새로오픈’ 서울 곱창 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78014</link>
-            <guid>https://www.esquirekorea.co.kr/article/78014</guid>
-            <pubDate>Thu, 01 Jun 2023 09:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[새로오픈 카테고리로 찾은 신상 곱창 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/bed12844-ee4a-400e-8afa-6f31b97ede9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10년 동안 가격이 그대로인 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77988</link>
-            <guid>https://www.esquirekorea.co.kr/article/77988</guid>
-            <pubDate>Thu, 01 Jun 2023 09:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[참치 회 무한리필을 만원대에 즐길 수 있다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/a9eac34a-7c8c-4773-99ca-5acf8471247d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발렌타인 위스키 제국의 황제 '샌디 히슬롭']]></title>
-            <link>https://www.esquirekorea.co.kr/article/77805</link>
-            <guid>https://www.esquirekorea.co.kr/article/77805</guid>
-            <pubDate>Thu, 01 Jun 2023 03:36:27 GMT</pubDate>
-            <content:encoded><![CDATA[샌디 히슬롭은 세계 최대 블렌디드 위스키 브랜드 중 하나인 발렌타인과 럭셔리 위스키의 대명사...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/ec9adc05-090b-4034-bb8c-824534f6de89.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로얄살루트 찰스 2세 대관식 에디션 공개 현장에 가다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77943</link>
-            <guid>https://www.esquirekorea.co.kr/article/77943</guid>
-            <pubDate>Thu, 01 Jun 2023 03:36:27 GMT</pubDate>
-            <content:encoded><![CDATA[영국의 왕가와 운명을 같이하는 브랜드 로얄살루트가 ‘찰스 3세 대관식 에디션’ 발표를 위해 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/8543d3c7-41ac-4475-8f60-c729878a08ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울의 도삭면 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77935</link>
-            <guid>https://www.esquirekorea.co.kr/article/77935</guid>
-            <pubDate>Wed, 31 May 2023 15:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[수제비와 칼국수 사이, 이색적인 식감의 도삭면 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/28/a3b16b47-11f2-4d33-888c-c3102898187a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올 여름 만나야 할 보석같은 스파클링 와인들]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77922</link>
-            <guid>https://www.esquirekorea.co.kr/article/77922</guid>
-            <pubDate>Wed, 31 May 2023 15:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[브랜드 샴페인과 펫낫 사이, 당신이 잘 몰랐던 섬세하고 아름다운 버블들에 관하여.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/27/585a0fe2-89e6-4a57-8a61-d54571e02907.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백종원이 다녀간 포방터시장 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77883</link>
-            <guid>https://www.esquirekorea.co.kr/article/77883</guid>
-            <pubDate>Tue, 30 May 2023 09:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[4시까지만 맛볼 수 있는 30년 넘은 수제비 맛집?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/958acfd1-9ba4-44df-acee-b9a1c32e64e8.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/food</id>
+    <title>에스콰이어 코리아 ─ 푸드</title>
+    <updated>2023-06-02T03:21:21.857Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전국 이색 두루치기 맛집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78023</id>
+        <link href="https://www.esquirekorea.co.kr/article/78023"/>
+        <updated>2023-06-01T15:20:01.965Z</updated>
+        <content type="html"><![CDATA[커다란 철판에 끓여 먹는 오리 두루치기의 맛?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버 맛지도 ‘새로오픈’ 서울 곱창 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78014</id>
+        <link href="https://www.esquirekorea.co.kr/article/78014"/>
+        <updated>2023-06-01T09:23:06.634Z</updated>
+        <content type="html"><![CDATA[새로오픈 카테고리로 찾은 신상 곱창 맛집을 소개한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10년 동안 가격이 그대로인 맛집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77988</id>
+        <link href="https://www.esquirekorea.co.kr/article/77988"/>
+        <updated>2023-06-01T09:23:06.638Z</updated>
+        <content type="html"><![CDATA[참치 회 무한리필을 만원대에 즐길 수 있다고?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[발렌타인 위스키 제국의 황제 '샌디 히슬롭']]></title>
+        <id>https://www.esquirekorea.co.kr/article/77805</id>
+        <link href="https://www.esquirekorea.co.kr/article/77805"/>
+        <updated>2023-06-01T03:36:27.949Z</updated>
+        <content type="html"><![CDATA[샌디 히슬롭은 세계 최대 블렌디드 위스키 브랜드 중 하나인 발렌타인과 럭셔리 위스키의 대명사...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로얄살루트 찰스 2세 대관식 에디션 공개 현장에 가다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77943</id>
+        <link href="https://www.esquirekorea.co.kr/article/77943"/>
+        <updated>2023-06-01T03:36:27.965Z</updated>
+        <content type="html"><![CDATA[영국의 왕가와 운명을 같이하는 브랜드 로얄살루트가 ‘찰스 3세 대관식 에디션’ 발표를 위해 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울의 도삭면 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77935</id>
+        <link href="https://www.esquirekorea.co.kr/article/77935"/>
+        <updated>2023-05-31T15:19:46.357Z</updated>
+        <content type="html"><![CDATA[수제비와 칼국수 사이, 이색적인 식감의 도삭면 맛집을 소개한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올 여름 만나야 할 보석같은 스파클링 와인들]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77922</id>
+        <link href="https://www.esquirekorea.co.kr/article/77922"/>
+        <updated>2023-05-31T15:19:46.359Z</updated>
+        <content type="html"><![CDATA[브랜드 샴페인과 펫낫 사이, 당신이 잘 몰랐던 섬세하고 아름다운 버블들에 관하여.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백종원이 다녀간 포방터시장 맛집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77883</id>
+        <link href="https://www.esquirekorea.co.kr/article/77883"/>
+        <updated>2023-05-30T09:18:14.349Z</updated>
+        <content type="html"><![CDATA[4시까지만 맛볼 수 있는 30년 넘은 수제비 맛집?]]></content>
+    </entry>
+</feed>
