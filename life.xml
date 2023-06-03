@@ -1,62 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/life</id>
-    <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-06-02T15:22:58.848Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[데뷔 10주년 팬송 발매하는 방탄소년단]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78039</id>
-        <link href="https://www.esquirekorea.co.kr/article/78039"/>
-        <updated>2023-06-02T09:17:57.838Z</updated>
-        <content type="html"><![CDATA[슈가가 프로듀싱을 맡고, RM과 제이홉이 곡 작업에 참여했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과연 한국의 의료 시스템은 무너지고 있나?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77852</id>
-        <link href="https://www.esquirekorea.co.kr/article/77852"/>
-        <updated>2023-06-02T09:17:57.844Z</updated>
-        <content type="html"><![CDATA[근무 중 뇌출혈로 쓰러진 대형 병원 간호사가 의사가 없어 사망하고, 심하게 다친 청소년이 받...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이젠 서촌에서도 이솝의 향기를 맡을 수 있다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77822</id>
-        <link href="https://www.esquirekorea.co.kr/article/77822"/>
-        <updated>2023-06-02T09:17:57.845Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흑인 인어공주는 당신을 위한 것이 아니다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78033</id>
-        <link href="https://www.esquirekorea.co.kr/article/78033"/>
-        <updated>2023-06-01T09:23:16.504Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전국 막걸리 양조장 투어 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78029</id>
-        <link href="https://www.esquirekorea.co.kr/article/78029"/>
-        <updated>2023-06-01T03:36:38.741Z</updated>
-        <content type="html"><![CDATA[100년의 역사를 가진 막걸리 양조장부터 나만의 막걸리를 만들 수 있는 곳까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전국 이색 두루치기 맛집 5]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78023</id>
-        <link href="https://www.esquirekorea.co.kr/article/78023"/>
-        <updated>2023-06-01T03:36:38.743Z</updated>
-        <content type="html"><![CDATA[커다란 철판에 끓여 먹는 오리 두루치기의 맛?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드림캐쳐 천장 뚫는 데시벨의 대향연!]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78018</id>
-        <link href="https://www.esquirekorea.co.kr/article/78018"/>
-        <updated>2023-05-31T15:19:55.513Z</updated>
-        <content type="html"><![CDATA[막내가 언니들에게 화를 낸 이유?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 맛지도 ‘새로오픈’ 서울 곱창 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78014</id>
-        <link href="https://www.esquirekorea.co.kr/article/78014"/>
-        <updated>2023-05-31T15:19:55.522Z</updated>
-        <content type="html"><![CDATA[새로오픈 카테고리로 찾은 신상 곱창 맛집을 소개한다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 03 Jun 2023 03:18:56 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[돈두댓] 브라질리언 왁싱이 섹스에 미치는 영향]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78063</link>
+            <guid>https://www.esquirekorea.co.kr/article/78063</guid>
+            <pubDate>Sat, 03 Jun 2023 03:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[매끈한 Y존으로 상대를 맞이한다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/72b5aa16-12fa-4705-8111-895be3e41aa7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[4년 만에 돌아오는 '블랙미러' 시즌 6 예고편 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78043</link>
+            <guid>https://www.esquirekorea.co.kr/article/78043</guid>
+            <pubDate>Sat, 03 Jun 2023 03:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[다섯 개의 에피소드로 이루어진다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/3f3f3221-a178-42d9-aa3c-b413abc1da3c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데뷔 10주년 팬송 발매하는 방탄소년단]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78039</link>
+            <guid>https://www.esquirekorea.co.kr/article/78039</guid>
+            <pubDate>Fri, 02 Jun 2023 09:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[슈가가 프로듀싱을 맡고, RM과 제이홉이 곡 작업에 참여했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/a9ebdadf-2c16-4ab8-b46a-934b56ab97bf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과연 한국의 의료 시스템은 무너지고 있나?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77852</link>
+            <guid>https://www.esquirekorea.co.kr/article/77852</guid>
+            <pubDate>Fri, 02 Jun 2023 09:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[근무 중 뇌출혈로 쓰러진 대형 병원 간호사가 의사가 없어 사망하고, 심하게 다친 청소년이 받...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/0fd80a3a-f00f-457a-b4aa-c5feeec1f5db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이젠 서촌에서도 이솝의 향기를 맡을 수 있다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77822</link>
+            <guid>https://www.esquirekorea.co.kr/article/77822</guid>
+            <pubDate>Fri, 02 Jun 2023 09:17:57 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/0c1b774e-093b-4c7d-8cd9-892c2e370312.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[흑인 인어공주는 당신을 위한 것이 아니다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78033</link>
+            <guid>https://www.esquirekorea.co.kr/article/78033</guid>
+            <pubDate>Thu, 01 Jun 2023 09:23:16 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/3662962e-86c5-495f-a53b-e843bbb99c2a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전국 막걸리 양조장 투어 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78029</link>
+            <guid>https://www.esquirekorea.co.kr/article/78029</guid>
+            <pubDate>Thu, 01 Jun 2023 03:36:38 GMT</pubDate>
+            <content:encoded><![CDATA[100년의 역사를 가진 막걸리 양조장부터 나만의 막걸리를 만들 수 있는 곳까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/631dbdc3-0aec-4ef1-a219-1c19e4475b54.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전국 이색 두루치기 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78023</link>
+            <guid>https://www.esquirekorea.co.kr/article/78023</guid>
+            <pubDate>Thu, 01 Jun 2023 03:36:38 GMT</pubDate>
+            <content:encoded><![CDATA[커다란 철판에 끓여 먹는 오리 두루치기의 맛?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/e0f4a9ee-2776-4b2d-ad74-cd59e335ca81.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
