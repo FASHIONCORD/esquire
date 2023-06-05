@@ -1,73 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 스타일</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 03:22:15 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[기술은 어디까지 왔을까?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77978</link>
-            <guid>https://www.esquirekorea.co.kr/article/77978</guid>
-            <pubDate>Fri, 02 Jun 2023 15:21:27 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/97421c38-d2e6-4939-977a-1857ff646ada.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름을 입는 방법]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77998</link>
-            <guid>https://www.esquirekorea.co.kr/article/77998</guid>
-            <pubDate>Fri, 02 Jun 2023 09:17:25 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/9b9ab297-49b1-4be0-bc0f-66360a20aad9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신곡 'BONVOYAGE'로 돌아온 드림캐쳐 화보]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77986</link>
-            <guid>https://www.esquirekorea.co.kr/article/77986</guid>
-            <pubDate>Fri, 02 Jun 2023 09:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[드림캐쳐 완전체 7인의 화보를 공개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/95b40358-7950-451b-b7a7-6c3f95ba2ca3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 핫한 유전자 검사는 어디서 하면 좋을까?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77983</link>
-            <guid>https://www.esquirekorea.co.kr/article/77983</guid>
-            <pubDate>Wed, 31 May 2023 15:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[세계에서 가장 포괄적인 유전자 검사 키트 서클 DNA에 대해서]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/35771455-d391-43c3-94c4-495757094a06.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세티스파이 X 오클리 협업 아이템 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77827</link>
-            <guid>https://www.esquirekorea.co.kr/article/77827</guid>
-            <pubDate>Wed, 31 May 2023 15:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[프랑스의 감성과 미국의 기술력이 만났을 때.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/2705f422-cdb0-4130-96ec-4147655b4c8c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THE REAL MAN]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77783</link>
-            <guid>https://www.esquirekorea.co.kr/article/77783</guid>
-            <pubDate>Wed, 31 May 2023 15:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[운동에 진심인 다섯 남자의 단단하고 아름다운 몸.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/25/a2950131-a61d-43d0-98a9-c48185fc5719.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카멜 커피 대표 박강현과 브랜드 매니저 박종진과 함께한 시계 토크]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77679</link>
-            <guid>https://www.esquirekorea.co.kr/article/77679</guid>
-            <pubDate>Wed, 31 May 2023 15:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[중고 시계 플랫폼 바이버와 함께한 대담한 사람들.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/862530e4-10a9-47cb-94bc-83eb0dbda35a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[까르띠에 타임 언리미티드 영상 시리즈_#최시원]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77608</link>
-            <guid>https://www.esquirekorea.co.kr/article/77608</guid>
-            <pubDate>Tue, 30 May 2023 09:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[오는 6월 성수동에서 열리는 까르띠에 타임 언리미티드 전시를 앞두고 배우 최시원을 만났다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/4b261067-0d53-473c-a683-f6973da535fb.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/style</id>
+    <title>에스콰이어 코리아 ─ 스타일</title>
+    <updated>2023-06-05T09:20:29.003Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기술은 어디까지 왔을까?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77978</id>
+        <link href="https://www.esquirekorea.co.kr/article/77978"/>
+        <updated>2023-06-02T15:21:27.027Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여름을 입는 방법]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77998</id>
+        <link href="https://www.esquirekorea.co.kr/article/77998"/>
+        <updated>2023-06-02T09:17:25.251Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신곡 'BONVOYAGE'로 돌아온 드림캐쳐 화보]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77986</id>
+        <link href="https://www.esquirekorea.co.kr/article/77986"/>
+        <updated>2023-06-02T09:17:25.253Z</updated>
+        <content type="html"><![CDATA[드림캐쳐 완전체 7인의 화보를 공개한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 핫한 유전자 검사는 어디서 하면 좋을까?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77983</id>
+        <link href="https://www.esquirekorea.co.kr/article/77983"/>
+        <updated>2023-05-31T15:19:22.246Z</updated>
+        <content type="html"><![CDATA[세계에서 가장 포괄적인 유전자 검사 키트 서클 DNA에 대해서]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세티스파이 X 오클리 협업 아이템 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77827</id>
+        <link href="https://www.esquirekorea.co.kr/article/77827"/>
+        <updated>2023-05-31T15:19:22.270Z</updated>
+        <content type="html"><![CDATA[프랑스의 감성과 미국의 기술력이 만났을 때.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE REAL MAN]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77783</id>
+        <link href="https://www.esquirekorea.co.kr/article/77783"/>
+        <updated>2023-05-31T15:19:22.270Z</updated>
+        <content type="html"><![CDATA[운동에 진심인 다섯 남자의 단단하고 아름다운 몸.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카멜 커피 대표 박강현과 브랜드 매니저 박종진과 함께한 시계 토크]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77679</id>
+        <link href="https://www.esquirekorea.co.kr/article/77679"/>
+        <updated>2023-05-31T15:19:22.270Z</updated>
+        <content type="html"><![CDATA[중고 시계 플랫폼 바이버와 함께한 대담한 사람들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[까르띠에 타임 언리미티드 영상 시리즈_#최시원]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77608</id>
+        <link href="https://www.esquirekorea.co.kr/article/77608"/>
+        <updated>2023-05-30T09:17:38.147Z</updated>
+        <content type="html"><![CDATA[오는 6월 성수동에서 열리는 까르띠에 타임 언리미티드 전시를 앞두고 배우 최시원을 만났다.]]></content>
+    </entry>
+</feed>
