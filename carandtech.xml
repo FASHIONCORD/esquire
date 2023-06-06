@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 15:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 03:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소니가 새롭게 공개한 PS5 컨트롤러]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77712</link>
+            <guid>https://www.esquirekorea.co.kr/article/77712</guid>
+            <pubDate>Tue, 06 Jun 2023 03:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[몸이 불편한 게이머들을 위해 만들었다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/a6b35821-34a9-4ef6-bd8a-5ae2c352406a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알파고와 체스 한 게임? 말이 자동으로 움직이는 체스보드]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77711</link>
+            <guid>https://www.esquirekorea.co.kr/article/77711</guid>
+            <pubDate>Tue, 06 Jun 2023 03:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[AI에게 강습을 받을 수도 있다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/42de0887-2811-4c8d-be3a-77bc7dcc6b11.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[메타, 텍스트 기반의 새로운 SNS 출시 예정?]]></title>
             <link>https://www.esquirekorea.co.kr/article/77708</link>
@@ -54,22 +70,6 @@
             <pubDate>Sun, 21 May 2023 09:16:57 GMT</pubDate>
             <content:encoded><![CDATA[105,000파운드(한화 약 1억 7600만원)이면 가능하다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/fa811b01-3745-44f5-b62e-284d9079a183.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집에서도 충전 가능한 초소형 전기차?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77477</link>
-            <guid>https://www.esquirekorea.co.kr/article/77477</guid>
-            <pubDate>Thu, 18 May 2023 09:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[지금껏 출시된 소형차 중 가장 가볍다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/d59802dd-2b83-4e39-84c8-f36a4b093290.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카카오톡 '조용히 나가기' 기능 도입]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77474</link>
-            <guid>https://www.esquirekorea.co.kr/article/77474</guid>
-            <pubDate>Thu, 18 May 2023 09:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[단체 채팅방에서 조용히 나가는 것이 가능해졌다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/11/9c654343-dd05-45b4-ac41-21b4bc55cde2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
