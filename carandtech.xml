@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 카&amp;테크</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 03:25:08 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[소니가 새롭게 공개한 PS5 컨트롤러]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77712</link>
-            <guid>https://www.esquirekorea.co.kr/article/77712</guid>
-            <pubDate>Tue, 06 Jun 2023 03:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[몸이 불편한 게이머들을 위해 만들었다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/a6b35821-34a9-4ef6-bd8a-5ae2c352406a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알파고와 체스 한 게임? 말이 자동으로 움직이는 체스보드]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77711</link>
-            <guid>https://www.esquirekorea.co.kr/article/77711</guid>
-            <pubDate>Tue, 06 Jun 2023 03:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[AI에게 강습을 받을 수도 있다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/42de0887-2811-4c8d-be3a-77bc7dcc6b11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타, 텍스트 기반의 새로운 SNS 출시 예정?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77708</link>
-            <guid>https://www.esquirekorea.co.kr/article/77708</guid>
-            <pubDate>Mon, 05 Jun 2023 09:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[인스타그램과 트위터의 장점만 모아놨다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/21/313e52a1-6862-4e5d-9726-1419784408be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BMW가 만든 세계 첫 전기 요트]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77648</link>
-            <guid>https://www.esquirekorea.co.kr/article/77648</guid>
-            <pubDate>Tue, 30 May 2023 03:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[76회 칸 국제영화제에서 만나볼 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/c113a50a-b575-46d8-bfca-706121305f25.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['미니게임천국'이 8년만에 돌아온다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77647</link>
-            <guid>https://www.esquirekorea.co.kr/article/77647</guid>
-            <pubDate>Mon, 29 May 2023 03:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[6월 중 출시 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/cde5e36b-f1f6-4eef-b5bd-f7a898433c65.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트위터의 새로운 CEO, 린다 야카리노]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77529</link>
-            <guid>https://www.esquirekorea.co.kr/article/77529</guid>
-            <pubDate>Mon, 22 May 2023 03:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[광고 전문가가 다시 쓰는 트위터의 미래?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/14/08d2cdb8-ca07-4bca-9e0d-2eda4759ebc9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, ‘애플워치 프라이드 에디션’ 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77504</link>
-            <guid>https://www.esquirekorea.co.kr/article/77504</guid>
-            <pubDate>Mon, 22 May 2023 03:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[다양성을 지지하기 위해.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/3787d254-0a25-4aab-84fe-e2c4ffcf8249.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우주에서 연인과 함께 근사한 저녁을 즐길 수 있다고?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77503</link>
-            <guid>https://www.esquirekorea.co.kr/article/77503</guid>
-            <pubDate>Sun, 21 May 2023 09:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[105,000파운드(한화 약 1억 7600만원)이면 가능하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/12/fa811b01-3745-44f5-b62e-284d9079a183.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/carandtech</id>
+    <title>에스콰이어 코리아 ─ 카&amp;테크</title>
+    <updated>2023-06-06T09:19:37.442Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소니가 새롭게 공개한 PS5 컨트롤러]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77712</id>
+        <link href="https://www.esquirekorea.co.kr/article/77712"/>
+        <updated>2023-06-06T03:24:06.181Z</updated>
+        <content type="html"><![CDATA[몸이 불편한 게이머들을 위해 만들었다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알파고와 체스 한 게임? 말이 자동으로 움직이는 체스보드]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77711</id>
+        <link href="https://www.esquirekorea.co.kr/article/77711"/>
+        <updated>2023-06-06T03:24:06.192Z</updated>
+        <content type="html"><![CDATA[AI에게 강습을 받을 수도 있다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메타, 텍스트 기반의 새로운 SNS 출시 예정?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77708</id>
+        <link href="https://www.esquirekorea.co.kr/article/77708"/>
+        <updated>2023-06-05T09:19:18.776Z</updated>
+        <content type="html"><![CDATA[인스타그램과 트위터의 장점만 모아놨다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMW가 만든 세계 첫 전기 요트]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77648</id>
+        <link href="https://www.esquirekorea.co.kr/article/77648"/>
+        <updated>2023-05-30T03:19:16.221Z</updated>
+        <content type="html"><![CDATA[76회 칸 국제영화제에서 만나볼 수 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미니게임천국'이 8년만에 돌아온다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77647</id>
+        <link href="https://www.esquirekorea.co.kr/article/77647"/>
+        <updated>2023-05-29T03:19:28.041Z</updated>
+        <content type="html"><![CDATA[6월 중 출시 예정.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트위터의 새로운 CEO, 린다 야카리노]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77529</id>
+        <link href="https://www.esquirekorea.co.kr/article/77529"/>
+        <updated>2023-05-22T03:21:03.493Z</updated>
+        <content type="html"><![CDATA[광고 전문가가 다시 쓰는 트위터의 미래?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, ‘애플워치 프라이드 에디션’ 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77504</id>
+        <link href="https://www.esquirekorea.co.kr/article/77504"/>
+        <updated>2023-05-22T03:21:03.509Z</updated>
+        <content type="html"><![CDATA[다양성을 지지하기 위해.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우주에서 연인과 함께 근사한 저녁을 즐길 수 있다고?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77503</id>
+        <link href="https://www.esquirekorea.co.kr/article/77503"/>
+        <updated>2023-05-21T09:16:57.567Z</updated>
+        <content type="html"><![CDATA[105,000파운드(한화 약 1억 7600만원)이면 가능하다.]]></content>
+    </entry>
+</feed>
