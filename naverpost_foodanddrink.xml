@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 15:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 03:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[술과 음악이 흐르는 공간. 서울의 라이브 재즈바 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36054107&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36054107&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Wed, 07 Jun 2023 03:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MDdfMTg5/MDAxNjg2MTAyNDc1MjM1.hlbrHGu4dKxfNbIrMEntX2kP2fwTFeo_nqmM7-7JtEIg.ewkrLKNIWPr3wS3aMklaZHalCUkAjkEfBYhm-Gzk0FEg.JPEG/IkL1pI0mY1zuXlZmq5-ATaEH1DP0.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시장 속 노포 삼겹살 맛집 4]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35995364&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 09 Apr 2023 03:17:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDdfMjEy/MDAxNjgwODMwNTA4MzA1.OZVMGvZcWK2PkTW1Fz9OJTrjASjN1TBuAb1aGGiQy60g.hiVl3P4HUeMEWcRZ6vNUELQ7foBX9G56wyAj_XngtCEg.JPEG/IFlKqpndG4WZ0Yu6TIdeBYhHyCQk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파도 소리 들려오는! 서울 근교 오션뷰 카페 4]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35742496&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35742496&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Sat, 08 Apr 2023 03:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA0MDZfMTEg/MDAxNjgwNzYwNTQ0MjY5.u2Nh5SHBerBUcHlmpXlWwWSQfRGQ_LD3cjvIvPskahYg.0f2iuYhMwbXmndk5lq344wlld3_8BXBkiTw77bktEfQg.JPEG/Ivbmzfc0aPK_FpFVu5qtaxWSaCp0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
