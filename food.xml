@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 푸드</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 09:20:48 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[육회를 서비스로 내주는 고깃집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78099</link>
-            <guid>https://www.esquirekorea.co.kr/article/78099</guid>
-            <pubDate>Tue, 06 Jun 2023 15:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[고기만 시켰는데 전복과 육회가 서비스로 나오는 곳?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/685516e8-8ec2-4095-bb1d-8273d4ce544c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 아귀수육 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78068</link>
-            <guid>https://www.esquirekorea.co.kr/article/78068</guid>
-            <pubDate>Tue, 06 Jun 2023 03:24:27 GMT</pubDate>
-            <content:encoded><![CDATA[냉동이 아닌 생아귀를 사용해 코스 요리를 내주는 곳?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/c7278b98-165b-4215-bf47-85efa9b32114.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20첩 이상 내주는 고깃집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78065</link>
-            <guid>https://www.esquirekorea.co.kr/article/78065</guid>
-            <pubDate>Mon, 05 Jun 2023 09:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[양념게장과 육회, 활어회가 반찬으로 나온다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/2e01a722-5ad3-4b9e-91dc-138cd58f24f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[300도 돌판에 나오는 돌짜장 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78049</link>
-            <guid>https://www.esquirekorea.co.kr/article/78049</guid>
-            <pubDate>Sun, 04 Jun 2023 15:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[먹는 내내 따뜻한 온기로 일정한 맛을 유지시켜주는 돌판 짜장면 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/e710b502-7165-4c55-bb4d-62cb34a85e62.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[솜사탕 맛 오레오의 등장]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78040</link>
-            <guid>https://www.esquirekorea.co.kr/article/78040</guid>
-            <pubDate>Sun, 04 Jun 2023 03:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[솜사탕을 녹여 먹는 맛을 그대로 재현했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/41997100-2adc-4591-9018-ece82229b0ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소주가 서비스로 나오는 맛집 3]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78034</link>
-            <guid>https://www.esquirekorea.co.kr/article/78034</guid>
-            <pubDate>Fri, 02 Jun 2023 15:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[식사와 함께 가볍게 반주하기 좋은 소주 서비스 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/079d1d13-016b-4cdc-8d6b-e6acb7be5d24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전국 이색 두루치기 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78023</link>
-            <guid>https://www.esquirekorea.co.kr/article/78023</guid>
-            <pubDate>Thu, 01 Jun 2023 15:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[커다란 철판에 끓여 먹는 오리 두루치기의 맛?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/e0f4a9ee-2776-4b2d-ad74-cd59e335ca81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 맛지도 ‘새로오픈’ 서울 곱창 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78014</link>
-            <guid>https://www.esquirekorea.co.kr/article/78014</guid>
-            <pubDate>Thu, 01 Jun 2023 09:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[새로오픈 카테고리로 찾은 신상 곱창 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/bed12844-ee4a-400e-8afa-6f31b97ede9d.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/food</id>
+    <title>에스콰이어 코리아 ─ 푸드</title>
+    <updated>2023-06-07T15:20:53.272Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[계곡 뷰를 가진 갈비 맛집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78111</id>
+        <link href="https://www.esquirekorea.co.kr/article/78111"/>
+        <updated>2023-06-07T15:20:03.770Z</updated>
+        <content type="html"><![CDATA[갈비는 물론 간장게장, 해물탕까지 내주는 계곡 맛집?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[육회를 서비스로 내주는 고깃집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78099</id>
+        <link href="https://www.esquirekorea.co.kr/article/78099"/>
+        <updated>2023-06-06T15:20:00.167Z</updated>
+        <content type="html"><![CDATA[고기만 시켰는데 전복과 육회가 서비스로 나오는 곳?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 아귀수육 맛집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78068</id>
+        <link href="https://www.esquirekorea.co.kr/article/78068"/>
+        <updated>2023-06-06T03:24:27.359Z</updated>
+        <content type="html"><![CDATA[냉동이 아닌 생아귀를 사용해 코스 요리를 내주는 곳?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20첩 이상 내주는 고깃집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78065</id>
+        <link href="https://www.esquirekorea.co.kr/article/78065"/>
+        <updated>2023-06-05T09:19:43.566Z</updated>
+        <content type="html"><![CDATA[양념게장과 육회, 활어회가 반찬으로 나온다고?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[300도 돌판에 나오는 돌짜장 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78049</id>
+        <link href="https://www.esquirekorea.co.kr/article/78049"/>
+        <updated>2023-06-04T15:19:36.474Z</updated>
+        <content type="html"><![CDATA[먹는 내내 따뜻한 온기로 일정한 맛을 유지시켜주는 돌판 짜장면 맛집을 소개한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[솜사탕 맛 오레오의 등장]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78040</id>
+        <link href="https://www.esquirekorea.co.kr/article/78040"/>
+        <updated>2023-06-04T03:29:29.851Z</updated>
+        <content type="html"><![CDATA[솜사탕을 녹여 먹는 맛을 그대로 재현했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소주가 서비스로 나오는 맛집 3]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78034</id>
+        <link href="https://www.esquirekorea.co.kr/article/78034"/>
+        <updated>2023-06-02T15:22:00.292Z</updated>
+        <content type="html"><![CDATA[식사와 함께 가볍게 반주하기 좋은 소주 서비스 맛집을 소개한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전국 이색 두루치기 맛집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78023</id>
+        <link href="https://www.esquirekorea.co.kr/article/78023"/>
+        <updated>2023-06-01T15:20:01.965Z</updated>
+        <content type="html"><![CDATA[커다란 철판에 끓여 먹는 오리 두루치기의 맛?]]></content>
+    </entry>
+</feed>
