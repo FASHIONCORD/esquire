@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 03:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 09:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드림캐쳐 천장 뚫는 데시벨의 대향연!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78018</link>
+            <guid>https://www.esquirekorea.co.kr/article/78018</guid>
+            <pubDate>Wed, 07 Jun 2023 09:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[막내가 언니들에게 화를 낸 이유?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/40bc4741-09bb-4bf4-ad79-dbc1d08bfbce.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신곡 'BONVOYAGE'로 돌아온 드림캐쳐 화보]]></title>
             <link>https://www.esquirekorea.co.kr/article/77986</link>
@@ -61,14 +69,6 @@
             <pubDate>Tue, 30 May 2023 09:18:50 GMT</pubDate>
             <content:encoded><![CDATA[가격은 얼마?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/c0a571a0-75ab-405d-812e-22332cbd21cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part2. 미주는 지금부터 새로운 시나리오를 쓰고 싶다고 말했다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77723</link>
-            <guid>https://www.esquirekorea.co.kr/article/77723</guid>
-            <pubDate>Tue, 30 May 2023 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[솔로 데뷔를 앞둔 미주는 티비에서 보던 그 사람과는 전혀 다른 사람이었다. 깨끗한 표정과 차...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/23/367d3216-f959-4429-b4aa-023279f029d8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
