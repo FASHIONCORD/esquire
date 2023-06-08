@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2023-06-08T03:25:36.357Z</updated>
+    <updated>2023-06-08T09:20:13.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
     <entry>
@@ -37,6 +37,7 @@
         <id>https://www.esquirekorea.co.kr/article/77978</id>
         <link href="https://www.esquirekorea.co.kr/article/77978"/>
         <updated>2023-06-02T15:21:27.027Z</updated>
+        <content type="html"><![CDATA[전설의 레슬러들이 요즘 옷을 입는다면? 몇 가지 키워드로 AI와 함께 만든 가상의 화보.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여름을 입는 방법]]></title>
