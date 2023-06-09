@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/food</id>
-    <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2023-06-08T15:19:42.443Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[50년 넘게 운영한 물회 노포 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78152</id>
-        <link href="https://www.esquirekorea.co.kr/article/78152"/>
-        <updated>2023-06-08T09:19:38.130Z</updated>
-        <content type="html"><![CDATA[블루리본서베이 선정 물회 맛집부터 허영만 화백의 물회 단골 맛집까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제철 맞은 우니 소바 맛집 5]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78145</id>
-        <link href="https://www.esquirekorea.co.kr/article/78145"/>
-        <updated>2023-06-08T09:19:38.132Z</updated>
-        <content type="html"><![CDATA[우니를 젤리에 비벼 먹는 소바의 정체?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI가 추천하는 여의도 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78114</id>
-        <link href="https://www.esquirekorea.co.kr/article/78114"/>
-        <updated>2023-06-08T09:19:38.133Z</updated>
-        <content type="html"><![CDATA[Chat GPT 보다 정확도가 높은 바드(Bard), 빙챗(Bing Chat)에게 각각 물어보았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[계곡 뷰를 가진 갈비 맛집 5]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78111</id>
-        <link href="https://www.esquirekorea.co.kr/article/78111"/>
-        <updated>2023-06-07T15:20:03.770Z</updated>
-        <content type="html"><![CDATA[갈비는 물론 간장게장, 해물탕까지 내주는 계곡 맛집?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[육회를 서비스로 내주는 고깃집 5]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78099</id>
-        <link href="https://www.esquirekorea.co.kr/article/78099"/>
-        <updated>2023-06-06T15:20:00.167Z</updated>
-        <content type="html"><![CDATA[고기만 시켰는데 전복과 육회가 서비스로 나오는 곳?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 아귀수육 맛집 5]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78068</id>
-        <link href="https://www.esquirekorea.co.kr/article/78068"/>
-        <updated>2023-06-06T03:24:27.359Z</updated>
-        <content type="html"><![CDATA[냉동이 아닌 생아귀를 사용해 코스 요리를 내주는 곳?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20첩 이상 내주는 고깃집 5]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78065</id>
-        <link href="https://www.esquirekorea.co.kr/article/78065"/>
-        <updated>2023-06-05T09:19:43.566Z</updated>
-        <content type="html"><![CDATA[양념게장과 육회, 활어회가 반찬으로 나온다고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[300도 돌판에 나오는 돌짜장 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78049</id>
-        <link href="https://www.esquirekorea.co.kr/article/78049"/>
-        <updated>2023-06-04T15:19:36.474Z</updated>
-        <content type="html"><![CDATA[먹는 내내 따뜻한 온기로 일정한 맛을 유지시켜주는 돌판 짜장면 맛집을 소개한다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 푸드</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 09 Jun 2023 03:28:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[50년 넘게 운영한 물회 노포 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78152</link>
+            <guid>https://www.esquirekorea.co.kr/article/78152</guid>
+            <pubDate>Thu, 08 Jun 2023 09:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[블루리본서베이 선정 물회 맛집부터 허영만 화백의 물회 단골 맛집까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/e6f0dd75-8861-45f9-90fb-970240f95ee1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제철 맞은 우니 소바 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78145</link>
+            <guid>https://www.esquirekorea.co.kr/article/78145</guid>
+            <pubDate>Thu, 08 Jun 2023 09:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[우니를 젤리에 비벼 먹는 소바의 정체?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/81aec46f-cb29-4feb-b49a-f9c4acc52912.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI가 추천하는 여의도 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78114</link>
+            <guid>https://www.esquirekorea.co.kr/article/78114</guid>
+            <pubDate>Thu, 08 Jun 2023 09:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[Chat GPT 보다 정확도가 높은 바드(Bard), 빙챗(Bing Chat)에게 각각 물어보았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/349c271f-589b-4e09-ae71-c4154a16c49b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[계곡 뷰를 가진 갈비 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78111</link>
+            <guid>https://www.esquirekorea.co.kr/article/78111</guid>
+            <pubDate>Wed, 07 Jun 2023 15:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[갈비는 물론 간장게장, 해물탕까지 내주는 계곡 맛집?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/04/eb4d8ee3-565e-4828-9b7b-a6254d57b516.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[육회를 서비스로 내주는 고깃집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78099</link>
+            <guid>https://www.esquirekorea.co.kr/article/78099</guid>
+            <pubDate>Tue, 06 Jun 2023 15:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[고기만 시켰는데 전복과 육회가 서비스로 나오는 곳?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/685516e8-8ec2-4095-bb1d-8273d4ce544c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 아귀수육 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78068</link>
+            <guid>https://www.esquirekorea.co.kr/article/78068</guid>
+            <pubDate>Tue, 06 Jun 2023 03:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[냉동이 아닌 생아귀를 사용해 코스 요리를 내주는 곳?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/c7278b98-165b-4215-bf47-85efa9b32114.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[20첩 이상 내주는 고깃집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78065</link>
+            <guid>https://www.esquirekorea.co.kr/article/78065</guid>
+            <pubDate>Mon, 05 Jun 2023 09:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[양념게장과 육회, 활어회가 반찬으로 나온다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/2e01a722-5ad3-4b9e-91dc-138cd58f24f4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[300도 돌판에 나오는 돌짜장 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78049</link>
+            <guid>https://www.esquirekorea.co.kr/article/78049</guid>
+            <pubDate>Sun, 04 Jun 2023 15:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[먹는 내내 따뜻한 온기로 일정한 맛을 유지시켜주는 돌판 짜장면 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/e710b502-7165-4c55-bb4d-62cb34a85e62.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
