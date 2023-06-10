@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Jun 2023 03:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2023 09:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요즘 핫한 유전자 검사는 어디서 하면 좋을까?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77983</link>
+            <guid>https://www.esquirekorea.co.kr/article/77983</guid>
+            <pubDate>Sat, 10 Jun 2023 09:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[세계에서 가장 포괄적인 유전자 검사 키트 서클 DNA에 대해서]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/35771455-d391-43c3-94c4-495757094a06.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세티스파이 X 오클리 협업 아이템 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/77827</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 24 May 2023 09:18:55 GMT</pubDate>
             <content:encoded><![CDATA[중고 시계 플랫폼 바이버와 함께한 대담한 사람들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/862530e4-10a9-47cb-94bc-83eb0dbda35a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어린이대공원을 탈출했던 얼룩말 '세로'에게 여자친구가 생긴다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77643</link>
-            <guid>https://www.esquirekorea.co.kr/article/77643</guid>
-            <pubDate>Wed, 24 May 2023 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[이 외에도 세로를 위한 여러 환경이 개선된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/18/2c6926db-1c00-48b4-bf7e-bb58e2beff14.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
