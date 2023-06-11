@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 03:30:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 09:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1312,7 +1312,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/78162</guid>
             <pubDate>Fri, 09 Jun 2023 09:18:13 GMT</pubDate>
             <content:encoded><![CDATA[장어와 메기가 통째로 들어가는 보양식 끝판왕.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/06/33f9a955-e2ca-4406-8d4c-e2ccf677990b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[50년 넘게 운영한 물회 노포 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1320,7 +1319,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/78152</guid>
             <pubDate>Thu, 08 Jun 2023 09:19:38 GMT</pubDate>
             <content:encoded><![CDATA[블루리본서베이 선정 물회 맛집부터 허영만 화백의 물회 단골 맛집까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/e6f0dd75-8861-45f9-90fb-970240f95ee1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제철 맞은 우니 소바 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1328,7 +1326,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/78145</guid>
             <pubDate>Thu, 08 Jun 2023 09:19:38 GMT</pubDate>
             <content:encoded><![CDATA[우니를 젤리에 비벼 먹는 소바의 정체?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/81aec46f-cb29-4feb-b49a-f9c4acc52912.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AI가 추천하는 여의도 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1336,7 +1333,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/78114</guid>
             <pubDate>Thu, 08 Jun 2023 09:19:38 GMT</pubDate>
             <content:encoded><![CDATA[Chat GPT 보다 정확도가 높은 바드(Bard), 빙챗(Bing Chat)에게 각각 물어보았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/349c271f-589b-4e09-ae71-c4154a16c49b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[계곡 뷰를 가진 갈비 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1344,7 +1340,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/78111</guid>
             <pubDate>Wed, 07 Jun 2023 15:20:03 GMT</pubDate>
             <content:encoded><![CDATA[갈비는 물론 간장게장, 해물탕까지 내주는 계곡 맛집?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/04/eb4d8ee3-565e-4828-9b7b-a6254d57b516.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[육회를 서비스로 내주는 고깃집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1352,7 +1347,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/78099</guid>
             <pubDate>Tue, 06 Jun 2023 15:20:00 GMT</pubDate>
             <content:encoded><![CDATA[고기만 시켰는데 전복과 육회가 서비스로 나오는 곳?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/685516e8-8ec2-4095-bb1d-8273d4ce544c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울 아귀수육 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1360,7 +1354,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/78068</guid>
             <pubDate>Tue, 06 Jun 2023 03:24:27 GMT</pubDate>
             <content:encoded><![CDATA[냉동이 아닌 생아귀를 사용해 코스 요리를 내주는 곳?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/c7278b98-165b-4215-bf47-85efa9b32114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[20첩 이상 내주는 고깃집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1368,10 +1361,9 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/78065</guid>
             <pubDate>Mon, 05 Jun 2023 09:19:43 GMT</pubDate>
             <content:encoded><![CDATA[양념게장과 육회, 활어회가 반찬으로 나온다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/2e01a722-5ad3-4b9e-91dc-138cd58f24f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[맛 보장, 면 푸짐하게 리필해 주는 라멘 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <title><![CDATA[맛 보장, 면을 푸짐하게 리필해 주는 라멘 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/78221</link>
             <guid>https://www.esquirekorea.co.kr/article/78221</guid>
             <pubDate>Thu, 08 Jun 2023 09:19:47 GMT</pubDate>
@@ -1417,6 +1409,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/77810</guid>
             <pubDate>Thu, 08 Jun 2023 03:24:48 GMT</pubDate>
             <content:encoded><![CDATA[가구를 다루는 세계 최대 규모의 축제, 밀라노 디자인 위크에서 삼성전자 비스포크를 만났다. 국...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/875cf979-a8c3-4876-9807-dd520fdd9934.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이번 밀라노 디자인 위크에서 볼 수 있었던 글로벌 패션 하우스들의 '디자인'적 진면목 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1424,6 +1417,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/77804</guid>
             <pubDate>Thu, 08 Jun 2023 03:24:48 GMT</pubDate>
             <content:encoded><![CDATA[올해 밀라노 디자인 위크에서 만난 낯익은 패션 브랜드들. 그들 각자의 색깔이 낼 수 있는 최...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/06/79c921a4-44ce-4058-828b-d5ee7073a9bf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이젠 서촌에서도 이솝의 향기를 맡을 수 있다 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1549,6 +1543,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/72228</guid>
             <pubDate>Sat, 26 Nov 2022 03:50:04 GMT</pubDate>
             <content:encoded><![CDATA[가을 단풍 무드 한 스푼]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/09/a0e22075-ce8d-449b-826e-dd394b83088d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 가을을 시크하게 보내는 방법 (에스콰이어 코리아 ─ 이샵)]]></title>
@@ -1556,6 +1551,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/71860</guid>
             <pubDate>Sat, 26 Nov 2022 03:50:04 GMT</pubDate>
             <content:encoded><![CDATA[스웨트셔츠 한 장이면 준비 끝!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/07/a416f95f-4ae2-4ca7-8f50-6d95f38fa65d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 가을 멋쟁이의 스타일을 살리는 가죽백 (에스콰이어 코리아 ─ 이샵)]]></title>
@@ -1563,6 +1559,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/71859</guid>
             <pubDate>Sat, 26 Nov 2022 03:50:04 GMT</pubDate>
             <content:encoded><![CDATA[시선을 빼앗는 브라운 컬러]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/04/3852c9a7-044b-401d-94cd-d420139bf552.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 지금은 바시티 재킷 시대 (에스콰이어 코리아 ─ 이샵)]]></title>
@@ -1570,6 +1567,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/71858</guid>
             <pubDate>Sat, 26 Nov 2022 03:50:04 GMT</pubDate>
             <content:encoded><![CDATA[너와 나의 연결 고리, 핫한 아우터]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202211/02/f3775fbd-f74c-4704-908f-4236cf682340.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 겨울에 더 사랑받는 아이템, 비니 (에스콰이어 코리아 ─ 이샵)]]></title>
@@ -1577,6 +1575,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/72003</guid>
             <pubDate>Sat, 26 Nov 2022 03:50:04 GMT</pubDate>
             <content:encoded><![CDATA[다가오고 있는 비니의 계절]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/31/c1265e27-a706-4c94-a72c-fa952a4036cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 옷 잘 입는 남자들의 필수템 (에스콰이어 코리아 ─ 이샵)]]></title>
@@ -1584,6 +1583,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/71960</guid>
             <pubDate>Sat, 26 Nov 2022 03:50:04 GMT</pubDate>
             <content:encoded><![CDATA[매일 입어도 다른 듯한 셔츠 느낌 내기]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/28/19cf14ac-1146-4c84-9b00-f1e08f962402.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 새로운 기분, 새로운 레더 재킷 스타일링 (에스콰이어 코리아 ─ 이샵)]]></title>
@@ -1591,6 +1591,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/71877</guid>
             <pubDate>Sat, 26 Nov 2022 03:50:04 GMT</pubDate>
             <content:encoded><![CDATA[옷장 속 레더 재킷을 꺼낼 때]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/26/bb61e021-d100-4128-bf0a-4fee9bce1c50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 입자마자 시크함 장착 (에스콰이어 코리아 ─ 이샵)]]></title>
@@ -1598,6 +1599,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/71777</guid>
             <pubDate>Sat, 26 Nov 2022 03:50:04 GMT</pubDate>
             <content:encoded><![CDATA[매일 입어도 질리지 않을 인생 레더 재킷]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/24/d7410fbf-cee5-4b53-80dc-a59b582a9e11.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

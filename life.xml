@@ -1,63 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/life</id>
-    <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-06-11T03:30:52.055Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[맛 보장, 면 푸짐하게 리필해 주는 라멘 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78221</id>
-        <link href="https://www.esquirekorea.co.kr/article/78221"/>
-        <updated>2023-06-08T09:19:47.209Z</updated>
-        <content type="html"><![CDATA[미쉐린 가이드에 등재된 라멘집도 있다고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[본격 여름휴가 맞이 해외여행 30만원대 지상낙원 호텔 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78214</id>
-        <link href="https://www.esquirekorea.co.kr/article/78214"/>
-        <updated>2023-06-08T09:19:47.215Z</updated>
-        <content type="html"><![CDATA[럭셔리 호텔부터 자연 속 풀빌라 리조트, 세계문화유산, 골프까지. 취향 따라 30만원대에 누릴 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PGA와 LIV가 벌이고 있는 골프전쟁]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78047</id>
-        <link href="https://www.esquirekorea.co.kr/article/78047"/>
-        <updated>2023-06-08T09:19:47.217Z</updated>
-        <content type="html"><![CDATA[지난해 LIV(리브)가 날린 ‘오일머니’ 어퍼컷에 PGA는 영구 제명과 랭킹 제외 원투 펀치로 응...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[괴근식물, 이 독특한 식물에 깃드는 마음에 대하여]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78205</id>
-        <link href="https://www.esquirekorea.co.kr/article/78205"/>
-        <updated>2023-06-08T09:19:47.220Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이브, 새 걸그룹 서바이벌 '알 유 넥스트(R U Next)' 시작]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78188</id>
-        <link href="https://www.esquirekorea.co.kr/article/78188"/>
-        <updated>2023-06-08T09:19:47.223Z</updated>
-        <content type="html"><![CDATA[르세라핌과 뉴진스를 이을 다음 걸그룹은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['환승연애' 시즌 3 올 하반기 공개]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78182</id>
-        <link href="https://www.esquirekorea.co.kr/article/78182"/>
-        <updated>2023-06-08T09:19:47.225Z</updated>
-        <content type="html"><![CDATA[디즈니 플러스의 첫 연애 리얼리티 프로그램 '핑크 라이'를 론칭한 김인하 PD가 연출을 맡는다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성전자 비스포크의 올해 밀라노 디자인 위크 전시에 지난 전시 3배 인원이 몰렸던 이유]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77810</id>
-        <link href="https://www.esquirekorea.co.kr/article/77810"/>
-        <updated>2023-06-08T03:24:48.763Z</updated>
-        <content type="html"><![CDATA[가구를 다루는 세계 최대 규모의 축제, 밀라노 디자인 위크에서 삼성전자 비스포크를 만났다. 국...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이번 밀라노 디자인 위크에서 볼 수 있었던 글로벌 패션 하우스들의 '디자인'적 진면목]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77804</id>
-        <link href="https://www.esquirekorea.co.kr/article/77804"/>
-        <updated>2023-06-08T03:24:48.769Z</updated>
-        <content type="html"><![CDATA[올해 밀라노 디자인 위크에서 만난 낯익은 패션 브랜드들. 그들 각자의 색깔이 낼 수 있는 최...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 11 Jun 2023 09:18:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[맛 보장, 면을 푸짐하게 리필해 주는 라멘 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78221</link>
+            <guid>https://www.esquirekorea.co.kr/article/78221</guid>
+            <pubDate>Thu, 08 Jun 2023 09:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[미쉐린 가이드에 등재된 라멘집도 있다고?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[본격 여름휴가 맞이 해외여행 30만원대 지상낙원 호텔 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78214</link>
+            <guid>https://www.esquirekorea.co.kr/article/78214</guid>
+            <pubDate>Thu, 08 Jun 2023 09:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[럭셔리 호텔부터 자연 속 풀빌라 리조트, 세계문화유산, 골프까지. 취향 따라 30만원대에 누릴 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[PGA와 LIV가 벌이고 있는 골프전쟁]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78047</link>
+            <guid>https://www.esquirekorea.co.kr/article/78047</guid>
+            <pubDate>Thu, 08 Jun 2023 09:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 LIV(리브)가 날린 ‘오일머니’ 어퍼컷에 PGA는 영구 제명과 랭킹 제외 원투 펀치로 응...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[괴근식물, 이 독특한 식물에 깃드는 마음에 대하여]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78205</link>
+            <guid>https://www.esquirekorea.co.kr/article/78205</guid>
+            <pubDate>Thu, 08 Jun 2023 09:19:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[하이브, 새 걸그룹 서바이벌 '알 유 넥스트(R U Next)' 시작]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78188</link>
+            <guid>https://www.esquirekorea.co.kr/article/78188</guid>
+            <pubDate>Thu, 08 Jun 2023 09:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[르세라핌과 뉴진스를 이을 다음 걸그룹은?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['환승연애' 시즌 3 올 하반기 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78182</link>
+            <guid>https://www.esquirekorea.co.kr/article/78182</guid>
+            <pubDate>Thu, 08 Jun 2023 09:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니 플러스의 첫 연애 리얼리티 프로그램 '핑크 라이'를 론칭한 김인하 PD가 연출을 맡는다...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자 비스포크의 올해 밀라노 디자인 위크 전시에 지난 전시 3배 인원이 몰렸던 이유]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77810</link>
+            <guid>https://www.esquirekorea.co.kr/article/77810</guid>
+            <pubDate>Thu, 08 Jun 2023 03:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[가구를 다루는 세계 최대 규모의 축제, 밀라노 디자인 위크에서 삼성전자 비스포크를 만났다. 국...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/875cf979-a8c3-4876-9807-dd520fdd9934.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이번 밀라노 디자인 위크에서 볼 수 있었던 글로벌 패션 하우스들의 '디자인'적 진면목]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77804</link>
+            <guid>https://www.esquirekorea.co.kr/article/77804</guid>
+            <pubDate>Thu, 08 Jun 2023 03:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[올해 밀라노 디자인 위크에서 만난 낯익은 패션 브랜드들. 그들 각자의 색깔이 낼 수 있는 최...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/06/79c921a4-44ce-4058-828b-d5ee7073a9bf.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
