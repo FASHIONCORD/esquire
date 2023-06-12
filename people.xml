@@ -1,62 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/people</id>
-    <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-06-12T09:20:06.525Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[이젠 서촌에서도 이솝의 향기를 맡을 수 있다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77822</id>
-        <link href="https://www.esquirekorea.co.kr/article/77822"/>
-        <updated>2023-06-09T09:18:32.786Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드림캐쳐 천장 뚫는 데시벨의 대향연!]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78018</id>
-        <link href="https://www.esquirekorea.co.kr/article/78018"/>
-        <updated>2023-06-07T09:20:11.095Z</updated>
-        <content type="html"><![CDATA[막내가 언니들에게 화를 낸 이유?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신곡 'BONVOYAGE'로 돌아온 드림캐쳐 화보]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77986</id>
-        <link href="https://www.esquirekorea.co.kr/article/77986"/>
-        <updated>2023-06-05T09:20:03.636Z</updated>
-        <content type="html"><![CDATA[드림캐쳐 완전체 7인의 화보를 공개한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국과 일본의 힙합 발전을 이끌어 온 더콰이엇과 ZEEBRA가 만났다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77799</id>
-        <link href="https://www.esquirekorea.co.kr/article/77799"/>
-        <updated>2023-06-02T09:18:06.421Z</updated>
-        <content type="html"><![CDATA[2023년은 힙합 장르가 세상에 등장한 지 50년이 되는 해다. 이를 기념하며, 서로 다른 방식으로...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화제의 영화 '범죄도시3' 드디어 내일(5/31) 개봉]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77963</id>
-        <link href="https://www.esquirekorea.co.kr/article/77963"/>
-        <updated>2023-06-01T03:36:48.841Z</updated>
-        <content type="html"><![CDATA[메인 '빌런캐'는 영화를 위해 20kg를 증량한 이준혁이 맡았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현진이 가장 많이 돌려본 직캠?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77889</id>
-        <link href="https://www.esquirekorea.co.kr/article/77889"/>
-        <updated>2023-05-31T15:20:04.057Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혼네(HONNE)가 내한한다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77849</id>
-        <link href="https://www.esquirekorea.co.kr/article/77849"/>
-        <updated>2023-05-31T15:20:04.058Z</updated>
-        <content type="html"><![CDATA[8월 17일, 18일 양일간 진행.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성찬, 쇼타로 NCT 떠난다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77832</id>
-        <link href="https://www.esquirekorea.co.kr/article/77832"/>
-        <updated>2023-05-30T09:18:50.195Z</updated>
-        <content type="html"><![CDATA[새로운 보이 그룹으로 데뷔 예정.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 피플</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 12 Jun 2023 15:20:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이젠 서촌에서도 이솝의 향기를 맡을 수 있다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77822</link>
+            <guid>https://www.esquirekorea.co.kr/article/77822</guid>
+            <pubDate>Fri, 09 Jun 2023 09:18:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[드림캐쳐 천장 뚫는 데시벨의 대향연!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78018</link>
+            <guid>https://www.esquirekorea.co.kr/article/78018</guid>
+            <pubDate>Wed, 07 Jun 2023 09:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[막내가 언니들에게 화를 낸 이유?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신곡 'BONVOYAGE'로 돌아온 드림캐쳐 화보]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77986</link>
+            <guid>https://www.esquirekorea.co.kr/article/77986</guid>
+            <pubDate>Mon, 05 Jun 2023 09:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[드림캐쳐 완전체 7인의 화보를 공개한다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한국과 일본의 힙합 발전을 이끌어 온 더콰이엇과 ZEEBRA가 만났다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77799</link>
+            <guid>https://www.esquirekorea.co.kr/article/77799</guid>
+            <pubDate>Fri, 02 Jun 2023 09:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2023년은 힙합 장르가 세상에 등장한 지 50년이 되는 해다. 이를 기념하며, 서로 다른 방식으로...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[화제의 영화 '범죄도시3' 드디어 내일(5/31) 개봉]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77963</link>
+            <guid>https://www.esquirekorea.co.kr/article/77963</guid>
+            <pubDate>Thu, 01 Jun 2023 03:36:48 GMT</pubDate>
+            <content:encoded><![CDATA[메인 '빌런캐'는 영화를 위해 20kg를 증량한 이준혁이 맡았다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[현진이 가장 많이 돌려본 직캠?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77889</link>
+            <guid>https://www.esquirekorea.co.kr/article/77889</guid>
+            <pubDate>Wed, 31 May 2023 15:20:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[혼네(HONNE)가 내한한다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77849</link>
+            <guid>https://www.esquirekorea.co.kr/article/77849</guid>
+            <pubDate>Wed, 31 May 2023 15:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[8월 17일, 18일 양일간 진행.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[성찬, 쇼타로 NCT 떠난다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77832</link>
+            <guid>https://www.esquirekorea.co.kr/article/77832</guid>
+            <pubDate>Tue, 30 May 2023 09:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 보이 그룹으로 데뷔 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/4b2ff5ca-d2a2-49e3-b29e-5f489844dc13.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
