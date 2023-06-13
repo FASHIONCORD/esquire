@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 03:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 09:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[혹시 지금 우리가 보고 있는 것이 실리콘밸리의 종말은 아닐까?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78052</link>
+            <guid>https://www.esquirekorea.co.kr/article/78052</guid>
+            <pubDate>Tue, 13 Jun 2023 09:19:01 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/2a3e41bd-b72f-4ec3-9023-c122a44671a2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 비스포크의 올해 밀라노 디자인 위크 전시에 지난 전시 3배 인원이 몰렸던 이유]]></title>
             <link>https://www.esquirekorea.co.kr/article/77810</link>
@@ -62,14 +69,6 @@
             <pubDate>Tue, 06 Jun 2023 03:24:06 GMT</pubDate>
             <content:encoded><![CDATA[몸이 불편한 게이머들을 위해 만들었다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/a6b35821-34a9-4ef6-bd8a-5ae2c352406a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알파고와 체스 한 게임? 말이 자동으로 움직이는 체스보드]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77711</link>
-            <guid>https://www.esquirekorea.co.kr/article/77711</guid>
-            <pubDate>Tue, 06 Jun 2023 03:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[AI에게 강습을 받을 수도 있다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/42de0887-2811-4c8d-be3a-77bc7dcc6b11.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
