@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 03:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 09:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캐딜락의 첫 전기차 리릭의 등장]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78285</link>
+            <guid>https://www.esquirekorea.co.kr/article/78285</guid>
+            <pubDate>Wed, 14 Jun 2023 09:18:14 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/11/995df8c0-f37a-4007-a356-5bd2b8c5ea64.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[혹시 지금 우리가 보고 있는 것이 실리콘밸리의 종말은 아닐까?]]></title>
             <link>https://www.esquirekorea.co.kr/article/78052</link>
@@ -61,14 +68,6 @@
             <pubDate>Tue, 06 Jun 2023 15:19:50 GMT</pubDate>
             <content:encoded><![CDATA[공기 없는 타이어까지 장착했다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/28/a2cd11d1-d88d-430e-9224-2a5f09927f8d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소니가 새롭게 공개한 PS5 컨트롤러]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77712</link>
-            <guid>https://www.esquirekorea.co.kr/article/77712</guid>
-            <pubDate>Tue, 06 Jun 2023 03:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[몸이 불편한 게이머들을 위해 만들었다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/22/a6b35821-34a9-4ef6-bd8a-5ae2c352406a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
