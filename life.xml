@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-06-14T09:19:14.801Z</updated>
+    <updated>2023-06-14T15:20:13.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[멜론 데이터가 빌보드 차트에 반영된다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78234</id>
+        <link href="https://www.esquirekorea.co.kr/article/78234"/>
+        <updated>2023-06-14T15:19:36.580Z</updated>
+        <content type="html"><![CDATA[국내 음악 스트리밍 서비스 최초.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코레일 X 쏘카, 하프팩 기차여행 출시]]></title>
         <id>https://www.esquirekorea.co.kr/article/78233</id>
@@ -52,12 +59,5 @@
         <id>https://www.esquirekorea.co.kr/article/78205</id>
         <link href="https://www.esquirekorea.co.kr/article/78205"/>
         <updated>2023-06-08T09:19:47.220Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이브, 새 걸그룹 서바이벌 '알 유 넥스트(R U Next)' 시작]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78188</id>
-        <link href="https://www.esquirekorea.co.kr/article/78188"/>
-        <updated>2023-06-08T09:19:47.223Z</updated>
-        <content type="html"><![CDATA[르세라핌과 뉴진스를 이을 다음 걸그룹은?]]></content>
     </entry>
 </feed>
