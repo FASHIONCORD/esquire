@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-06-13T15:20:38.957Z</updated>
+    <updated>2023-06-14T03:22:18.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디즈니+ '아소카' 상영일 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78232</id>
+        <link href="https://www.esquirekorea.co.kr/article/78232"/>
+        <updated>2023-06-14T03:21:47.894Z</updated>
+        <content type="html"><![CDATA[은하계를 위협하는 문제를 찾아 나선다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예거 르쿨트르, 한국 아티스트 강이연과 함께한 '오리진(ORIGIN)' 공개]]></title>
         <id>https://www.esquirekorea.co.kr/article/78187</id>
@@ -52,12 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/78182"/>
         <updated>2023-06-08T09:19:47.225Z</updated>
         <content type="html"><![CDATA[디즈니 플러스의 첫 연애 리얼리티 프로그램 '핑크 라이'를 론칭한 김인하 PD가 연출을 맡는다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성전자 비스포크의 올해 밀라노 디자인 위크 전시에 지난 전시 3배 인원이 몰렸던 이유]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77810</id>
-        <link href="https://www.esquirekorea.co.kr/article/77810"/>
-        <updated>2023-06-08T03:24:48.763Z</updated>
-        <content type="html"><![CDATA[가구를 다루는 세계 최대 규모의 축제, 밀라노 디자인 위크에서 삼성전자 비스포크를 만났다. 국...]]></content>
     </entry>
 </feed>

@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 스타일</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 15:20:39 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[몽클레르(MONCLER), '몽클레르 X FRGMT' 컬렉션 론칭]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78247</link>
-            <guid>https://www.esquirekorea.co.kr/article/78247</guid>
-            <pubDate>Tue, 13 Jun 2023 09:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 앰버서더 황민현과 함께한 '몽클레르 X FRGMT' 캠페인을 선보였다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/e7751dd6-3768-44ab-9705-85b758735feb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 쇼츠를 입는 4가지 태도]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78061</link>
-            <guid>https://www.esquirekorea.co.kr/article/78061</guid>
-            <pubDate>Mon, 12 Jun 2023 15:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[리넨부터 레더, 테리, 데님까지. 여름 쇼츠를 입는 4가지 태도.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/1cda515b-de86-4167-842a-4398e0a31e53.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낯선 거리, 생 로랑을 입은 로렌]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78046</link>
-            <guid>https://www.esquirekorea.co.kr/article/78046</guid>
-            <pubDate>Sun, 11 Jun 2023 15:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[낯선 거리, 레드 핫 칠리 페퍼스의 노래, 로렌이 말하는 생 로랑.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/857adaa7-5266-4376-8895-93d381ec71fe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4년 간의 리노베이션을 거쳐 새롭게 태어난 뉴욕 티파니 랜드마크]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77855</link>
-            <guid>https://www.esquirekorea.co.kr/article/77855</guid>
-            <pubDate>Sun, 11 Jun 2023 15:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[티파니의 뉴욕 5번가 매장이 4년여의 리노베이션을 거쳐 드디어 모습을 드러냈다. 이 매장의 새...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/53b53a62-fa5a-4dab-99ce-cb5cfc6c6aed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제모하는 남자]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77976</link>
-            <guid>https://www.esquirekorea.co.kr/article/77976</guid>
-            <pubDate>Fri, 09 Jun 2023 15:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[털과 아름답게 이별하는 네 가지 방법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/bf6d3132-8439-4869-8e30-60b8135eb8cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[끌로에 떠나는 가브리엘 허스트]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78163</link>
-            <guid>https://www.esquirekorea.co.kr/article/78163</guid>
-            <pubDate>Fri, 09 Jun 2023 09:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[안젤리나 졸리와 협업을 준비 중이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/06/0fd99a31-cddf-4920-8479-e086c2acdd98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타투와 나]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78045</link>
-            <guid>https://www.esquirekorea.co.kr/article/78045</guid>
-            <pubDate>Thu, 08 Jun 2023 15:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[여섯 명의 타투이스트에게 가장 아끼는 타투를 묻다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/03/a2eba352-d7d1-46b6-a179-a45e6fe2a2c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가품이 가장 많은 스니커즈 모델은?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78092</link>
-            <guid>https://www.esquirekorea.co.kr/article/78092</guid>
-            <pubDate>Thu, 08 Jun 2023 03:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[나이키 덩크 범고래는 몇 위?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/4f6c61d0-e872-4770-9988-032be4396c0b.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/style</id>
+    <title>에스콰이어 코리아 ─ 스타일</title>
+    <updated>2023-06-14T03:22:18.549Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몽클레르(MONCLER), '몽클레르 X FRGMT' 컬렉션 론칭]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78247</id>
+        <link href="https://www.esquirekorea.co.kr/article/78247"/>
+        <updated>2023-06-13T09:18:42.880Z</updated>
+        <content type="html"><![CDATA[글로벌 앰버서더 황민현과 함께한 '몽클레르 X FRGMT' 캠페인을 선보였다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여름 쇼츠를 입는 4가지 태도]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78061</id>
+        <link href="https://www.esquirekorea.co.kr/article/78061"/>
+        <updated>2023-06-12T15:18:31.829Z</updated>
+        <content type="html"><![CDATA[리넨부터 레더, 테리, 데님까지. 여름 쇼츠를 입는 4가지 태도.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[낯선 거리, 생 로랑을 입은 로렌]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78046</id>
+        <link href="https://www.esquirekorea.co.kr/article/78046"/>
+        <updated>2023-06-11T15:17:12.973Z</updated>
+        <content type="html"><![CDATA[낯선 거리, 레드 핫 칠리 페퍼스의 노래, 로렌이 말하는 생 로랑.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4년 간의 리노베이션을 거쳐 새롭게 태어난 뉴욕 티파니 랜드마크]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77855</id>
+        <link href="https://www.esquirekorea.co.kr/article/77855"/>
+        <updated>2023-06-11T15:17:12.976Z</updated>
+        <content type="html"><![CDATA[티파니의 뉴욕 5번가 매장이 4년여의 리노베이션을 거쳐 드디어 모습을 드러냈다. 이 매장의 새...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제모하는 남자]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77976</id>
+        <link href="https://www.esquirekorea.co.kr/article/77976"/>
+        <updated>2023-06-09T15:18:58.833Z</updated>
+        <content type="html"><![CDATA[털과 아름답게 이별하는 네 가지 방법.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[끌로에 떠나는 가브리엘 허스트]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78163</id>
+        <link href="https://www.esquirekorea.co.kr/article/78163"/>
+        <updated>2023-06-09T09:17:37.250Z</updated>
+        <content type="html"><![CDATA[안젤리나 졸리와 협업을 준비 중이다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[타투와 나]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78045</id>
+        <link href="https://www.esquirekorea.co.kr/article/78045"/>
+        <updated>2023-06-08T15:18:16.238Z</updated>
+        <content type="html"><![CDATA[여섯 명의 타투이스트에게 가장 아끼는 타투를 묻다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가품이 가장 많은 스니커즈 모델은?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78092</id>
+        <link href="https://www.esquirekorea.co.kr/article/78092"/>
+        <updated>2023-06-08T03:24:01.232Z</updated>
+        <content type="html"><![CDATA[나이키 덩크 범고래는 몇 위?]]></content>
+    </entry>
+</feed>
