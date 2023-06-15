@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-06-15T03:21:31.953Z</updated>
+    <updated>2023-06-15T09:19:36.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디즈니, 1억 5000만원 상당의 여행 상품 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78235</id>
+        <link href="https://www.esquirekorea.co.kr/article/78235"/>
+        <updated>2023-06-15T09:19:00.796Z</updated>
+        <content type="html"><![CDATA[전용기를 타고 각국의 디즈니랜드를 방문한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[멜론 데이터가 빌보드 차트에 반영된다]]></title>
         <id>https://www.esquirekorea.co.kr/article/78234</id>
@@ -53,11 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/78047"/>
         <updated>2023-06-08T09:19:47.217Z</updated>
         <content type="html"><![CDATA[지난해 LIV(리브)가 날린 ‘오일머니’ 어퍼컷에 PGA는 영구 제명과 랭킹 제외 원투 펀치로 응...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[괴근식물, 이 독특한 식물에 깃드는 마음에 대하여]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78205</id>
-        <link href="https://www.esquirekorea.co.kr/article/78205"/>
-        <updated>2023-06-08T09:19:47.220Z</updated>
     </entry>
 </feed>

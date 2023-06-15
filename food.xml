@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 푸드</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 03:21:31 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[닭 껍질로 만두를 만드는 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78265</link>
-            <guid>https://www.esquirekorea.co.kr/article/78265</guid>
-            <pubDate>Thu, 15 Jun 2023 03:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[닭다리 하나가 통째로 들어가는 라멘까지 맛볼 수 있는 곳?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/218753fa-9445-4526-84cc-53059c7c9636.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50년 전통 수유시장 속 노포 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78239</link>
-            <guid>https://www.esquirekorea.co.kr/article/78239</guid>
-            <pubDate>Wed, 14 Jun 2023 15:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[전통 시장으로 노포 맛집 투어를 떠나보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/815be82f-c74a-4be4-8ed5-3e22fb56bde7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소고기 무한리필 해주는 편백찜 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78236</link>
-            <guid>https://www.esquirekorea.co.kr/article/78236</guid>
-            <pubDate>Wed, 14 Jun 2023 15:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[소고기 무한리필은 물론 훠궈, 월남쌈까지 무한으로 즐길 수 있다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/8426a520-9879-498f-8c30-5f2221c167a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맛 보장, 면을 푸짐하게 리필해 주는 라멘 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78221</link>
-            <guid>https://www.esquirekorea.co.kr/article/78221</guid>
-            <pubDate>Wed, 14 Jun 2023 15:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[미쉐린 가이드에 등재된 라멘집도 있다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/11/25f2e97f-90ff-46f1-8ed7-4296b70c44e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 제일 맛있는 병어회 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78200</link>
-            <guid>https://www.esquirekorea.co.kr/article/78200</guid>
-            <pubDate>Wed, 14 Jun 2023 15:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[대통령이 즐겨 찾던 남도음식 전문점?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/cb8aa8df-c600-47c4-b444-f9477a81b470.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경상도 보양식을 집 앞에서? 어탕국수 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78162</link>
-            <guid>https://www.esquirekorea.co.kr/article/78162</guid>
-            <pubDate>Fri, 09 Jun 2023 09:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[장어와 메기가 통째로 들어가는 보양식 끝판왕.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/06/33f9a955-e2ca-4406-8d4c-e2ccf677990b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50년 넘게 운영한 물회 노포 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78152</link>
-            <guid>https://www.esquirekorea.co.kr/article/78152</guid>
-            <pubDate>Thu, 08 Jun 2023 09:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[블루리본서베이 선정 물회 맛집부터 허영만 화백의 물회 단골 맛집까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/e6f0dd75-8861-45f9-90fb-970240f95ee1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제철 맞은 우니 소바 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78145</link>
-            <guid>https://www.esquirekorea.co.kr/article/78145</guid>
-            <pubDate>Thu, 08 Jun 2023 09:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[우니를 젤리에 비벼 먹는 소바의 정체?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/05/81aec46f-cb29-4feb-b49a-f9c4acc52912.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/food</id>
+    <title>에스콰이어 코리아 ─ 푸드</title>
+    <updated>2023-06-15T09:19:36.039Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[멕시코 여름 별미 비리아타코 맛집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78372</id>
+        <link href="https://www.esquirekorea.co.kr/article/78372"/>
+        <updated>2023-06-15T09:18:49.770Z</updated>
+        <content type="html"><![CDATA[매일 아침 준비하는 재료로 멕시코 정통의 타코를 만들어주는 곳?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[닭 껍질로 만두를 만드는 맛집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78265</id>
+        <link href="https://www.esquirekorea.co.kr/article/78265"/>
+        <updated>2023-06-15T03:20:18.204Z</updated>
+        <content type="html"><![CDATA[닭다리 하나가 통째로 들어가는 라멘까지 맛볼 수 있는 곳?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50년 전통 수유시장 속 노포 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78239</id>
+        <link href="https://www.esquirekorea.co.kr/article/78239"/>
+        <updated>2023-06-14T15:19:27.776Z</updated>
+        <content type="html"><![CDATA[전통 시장으로 노포 맛집 투어를 떠나보자.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소고기 무한리필 해주는 편백찜 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78236</id>
+        <link href="https://www.esquirekorea.co.kr/article/78236"/>
+        <updated>2023-06-14T15:19:27.777Z</updated>
+        <content type="html"><![CDATA[소고기 무한리필은 물론 훠궈, 월남쌈까지 무한으로 즐길 수 있다고?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맛 보장, 면을 푸짐하게 리필해 주는 라멘 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78221</id>
+        <link href="https://www.esquirekorea.co.kr/article/78221"/>
+        <updated>2023-06-14T15:19:27.778Z</updated>
+        <content type="html"><![CDATA[미쉐린 가이드에 등재된 라멘집도 있다고?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지금 제일 맛있는 병어회 맛집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78200</id>
+        <link href="https://www.esquirekorea.co.kr/article/78200"/>
+        <updated>2023-06-14T15:19:27.779Z</updated>
+        <content type="html"><![CDATA[대통령이 즐겨 찾던 남도음식 전문점?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경상도 보양식을 집 앞에서? 어탕국수 맛집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78162</id>
+        <link href="https://www.esquirekorea.co.kr/article/78162"/>
+        <updated>2023-06-09T09:18:13.264Z</updated>
+        <content type="html"><![CDATA[장어와 메기가 통째로 들어가는 보양식 끝판왕.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50년 넘게 운영한 물회 노포 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78152</id>
+        <link href="https://www.esquirekorea.co.kr/article/78152"/>
+        <updated>2023-06-08T09:19:38.130Z</updated>
+        <content type="html"><![CDATA[블루리본서베이 선정 물회 맛집부터 허영만 화백의 물회 단골 맛집까지.]]></content>
+    </entry>
+</feed>
