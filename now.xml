@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/now</id>
     <title>에스콰이어 코리아 ─ 나우</title>
-    <updated>2023-06-15T15:23:14.502Z</updated>
+    <updated>2023-06-16T03:21:51.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일론 머스크가 세계 최고 부자 타이틀을 탈환했다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78086</id>
+        <link href="https://www.esquirekorea.co.kr/article/78086"/>
+        <updated>2023-06-16T03:21:09.561Z</updated>
+        <content type="html"><![CDATA[그렇다면 2위는 누구?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요즘 핫한 유전자 검사는 어디서 하면 좋을까?]]></title>
         <id>https://www.esquirekorea.co.kr/article/77983</id>
@@ -53,12 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/77744"/>
         <updated>2023-05-24T09:18:55.981Z</updated>
         <content type="html"><![CDATA[예상 낙찰가의 10배 가까이 뛰어넘었다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카멜 커피 대표 박강현과 브랜드 매니저 박종진과 함께한 시계 토크]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77679</id>
-        <link href="https://www.esquirekorea.co.kr/article/77679"/>
-        <updated>2023-05-24T09:18:55.996Z</updated>
-        <content type="html"><![CDATA[중고 시계 플랫폼 바이버와 함께한 대담한 사람들.]]></content>
     </entry>
 </feed>
