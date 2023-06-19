@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ TECH</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 15:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 03:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도로위를 질주하는 환상적인 컨버터블 7대]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36091271&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36091271&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Mon, 19 Jun 2023 03:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MTRfNDcg/MDAxNjg2NzA2NTcyOTU4.hSIDgoUiptyD_7pmO8UVvY1PvIbP2-tQMh3mHwACk7Ag.WLgoV3vK91O7ogFWuEFPa3N88dfdrG774JzTRXjQtHwg.JPEG/IKqdRYQFqnGI7sTRQZAUj9zJBldc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[집에서 만들어 즐기는 수제 맥주, LG 홈브루]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=33816194&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Nov 2022 03:44:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTA0MTBfODAg/MDAxNTU0ODYyNTI3OTUz.-7mMoXMWFZJQjNgVa0DJjm7sjT4RKdrtMB6w9G-qIxcg.obxwpUHEffK6PI6XpYYRgpRNYgj0b2RRgWeloLZzROgg.JPEG/IecitKg0ganZS2t_qLze8DZ9i1mI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잃어버렸던 라이딩 감각을 일깨워 줄 BMW R 1250 GS]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=19032139&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=19032139&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:44:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAxOTA0MDlfMTEw/MDAxNTU0Nzc3MzAzODA1.AEaki6VOwVMj3ncvn6HOcTXpKRCYkpBYo6RDK6pDBpIg.WgTT-E6qWQqOP7BQS9adQZuKkyCnCk5NDDmYJhtuMFMg.JPEG/IoGtQDDui-h_cEhfGVen0725ldmY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
