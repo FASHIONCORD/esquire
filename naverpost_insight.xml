@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ INSIGHT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 15:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 03:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[약을 먹지 않고 설사 멈추는 방법 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36091639&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36091639&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Tue, 20 Jun 2023 03:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MTRfMTQ3/MDAxNjg2NzA3MjExODYx.ruw6OQGmehOz8rvorRywJ9_59UC9R02-oGJOhW58yKcg.iWTST0xzc1BFpzaPSMyz3IvremuB3THWlJUWsHvUytsg.JPEG/IXaWLrdryBTS-gz1XTHuG3vMeGIo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[결혼식장에서 하면 안 되는 행동들 5]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=34646157&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Nov 2022 03:43:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTRfMTkg/MDAxNjQyMTE1MDExMzUw.8do9AkN4533lT4VsC7DkwtCk4dSdX7F_OAPJ70T6Rc0g.2_HumcdGbR4XeL-O74oD7QsQweyde3lT28SSv27S1wwg.PNG/IIk-Vy5hm7-jfEUmpS2nPozA5Epk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘서울 KTX 1시간’ 가벼운 마음의 공주 여행 코스 5]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33118276&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33118276&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:43:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTNfMjU3/MDAxNjQyMDUxNDc2ODE5.FdPwvBnvrq_RXtO5TImaO-CrvLIXiJsCRV9ZNfM1rrIg.I_f5gx-fXtrG5gBAjQBGSAn_jMiF2g1IAEFGYFva4rgg.PNG/IItk2l0TaGtEVGLwc69ULCWoC5do.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
