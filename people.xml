@@ -1,62 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/people</id>
-    <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-06-20T15:20:26.145Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[일론 머스크가 세계 최고 부자 타이틀을 탈환했다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78086</id>
-        <link href="https://www.esquirekorea.co.kr/article/78086"/>
-        <updated>2023-06-18T09:18:28.220Z</updated>
-        <content type="html"><![CDATA[그렇다면 2위는 누구?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데뷔 10주년 팬송 발매하는 방탄소년단]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78039</id>
-        <link href="https://www.esquirekorea.co.kr/article/78039"/>
-        <updated>2023-06-16T09:18:23.546Z</updated>
-        <content type="html"><![CDATA[슈가가 프로듀싱을 맡고, RM과 제이홉이 곡 작업에 참여했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이젠 서촌에서도 이솝의 향기를 맡을 수 있다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77822</id>
-        <link href="https://www.esquirekorea.co.kr/article/77822"/>
-        <updated>2023-06-09T09:18:32.786Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드림캐쳐 천장 뚫는 데시벨의 대향연!]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78018</id>
-        <link href="https://www.esquirekorea.co.kr/article/78018"/>
-        <updated>2023-06-07T09:20:11.095Z</updated>
-        <content type="html"><![CDATA[막내가 언니들에게 화를 낸 이유?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신곡 'BONVOYAGE'로 돌아온 드림캐쳐 화보]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77986</id>
-        <link href="https://www.esquirekorea.co.kr/article/77986"/>
-        <updated>2023-06-05T09:20:03.636Z</updated>
-        <content type="html"><![CDATA[드림캐쳐 완전체 7인의 화보를 공개한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국과 일본의 힙합 발전을 이끌어 온 더콰이엇과 ZEEBRA가 만났다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77799</id>
-        <link href="https://www.esquirekorea.co.kr/article/77799"/>
-        <updated>2023-06-02T09:18:06.421Z</updated>
-        <content type="html"><![CDATA[2023년은 힙합 장르가 세상에 등장한 지 50년이 되는 해다. 이를 기념하며, 서로 다른 방식으로...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화제의 영화 '범죄도시3' 드디어 내일(5/31) 개봉]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77963</id>
-        <link href="https://www.esquirekorea.co.kr/article/77963"/>
-        <updated>2023-06-01T03:36:48.841Z</updated>
-        <content type="html"><![CDATA[메인 '빌런캐'는 영화를 위해 20kg를 증량한 이준혁이 맡았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현진이 가장 많이 돌려본 직캠?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77889</id>
-        <link href="https://www.esquirekorea.co.kr/article/77889"/>
-        <updated>2023-05-31T15:20:04.057Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 피플</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 21 Jun 2023 03:21:27 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이브, 새 걸그룹 서바이벌 '알 유 넥스트(R U Next)' 시작]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78188</link>
+            <guid>https://www.esquirekorea.co.kr/article/78188</guid>
+            <pubDate>Wed, 21 Jun 2023 03:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[르세라핌과 뉴진스를 이을 다음 걸그룹은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/792e66f8-6aea-441b-92f9-6a1769205fc8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘범죄도시3’ 미남 빌런 이준혁 TMI 12.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78129</link>
+            <guid>https://www.esquirekorea.co.kr/article/78129</guid>
+            <pubDate>Wed, 21 Jun 2023 03:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[직접 모바일 게임을 개발했다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/c1fbeef4-4f8f-485c-b1d3-a624daf5c241.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일론 머스크가 세계 최고 부자 타이틀을 탈환했다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78086</link>
+            <guid>https://www.esquirekorea.co.kr/article/78086</guid>
+            <pubDate>Sun, 18 Jun 2023 09:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[그렇다면 2위는 누구?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/562d96c3-9752-4bee-853b-8b2121787f98.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데뷔 10주년 팬송 발매하는 방탄소년단]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78039</link>
+            <guid>https://www.esquirekorea.co.kr/article/78039</guid>
+            <pubDate>Fri, 16 Jun 2023 09:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[슈가가 프로듀싱을 맡고, RM과 제이홉이 곡 작업에 참여했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/a9ebdadf-2c16-4ab8-b46a-934b56ab97bf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이젠 서촌에서도 이솝의 향기를 맡을 수 있다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77822</link>
+            <guid>https://www.esquirekorea.co.kr/article/77822</guid>
+            <pubDate>Fri, 09 Jun 2023 09:18:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/0c1b774e-093b-4c7d-8cd9-892c2e370312.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드림캐쳐 천장 뚫는 데시벨의 대향연!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78018</link>
+            <guid>https://www.esquirekorea.co.kr/article/78018</guid>
+            <pubDate>Wed, 07 Jun 2023 09:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[막내가 언니들에게 화를 낸 이유?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/40bc4741-09bb-4bf4-ad79-dbc1d08bfbce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신곡 'BONVOYAGE'로 돌아온 드림캐쳐 화보]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77986</link>
+            <guid>https://www.esquirekorea.co.kr/article/77986</guid>
+            <pubDate>Mon, 05 Jun 2023 09:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[드림캐쳐 완전체 7인의 화보를 공개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/95b40358-7950-451b-b7a7-6c3f95ba2ca3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국과 일본의 힙합 발전을 이끌어 온 더콰이엇과 ZEEBRA가 만났다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77799</link>
+            <guid>https://www.esquirekorea.co.kr/article/77799</guid>
+            <pubDate>Fri, 02 Jun 2023 09:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[2023년은 힙합 장르가 세상에 등장한 지 50년이 되는 해다. 이를 기념하며, 서로 다른 방식으로...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/30/4279186d-7306-48ca-bdb8-d375733ba43d.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
