@@ -1,74 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 피플</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 09:19:50 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이준호X임윤아 '킹더랜드' 첫방 D-1]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78413</link>
-            <guid>https://www.esquirekorea.co.kr/article/78413</guid>
-            <pubDate>Wed, 21 Jun 2023 09:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[두 사람이 선보일 케미가 기대된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/8b7676f5-072a-455c-99f4-0cde06a38bd4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서강준 전역 후 먹고 싶었던 음식?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78258</link>
-            <guid>https://www.esquirekorea.co.kr/article/78258</guid>
-            <pubDate>Wed, 21 Jun 2023 09:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[가장 마음에 드는 별명은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/11/dd0add7a-7093-4fb8-8dd0-a8d02fb49fd5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브, 새 걸그룹 서바이벌 '알 유 넥스트(R U Next)' 시작]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78188</link>
-            <guid>https://www.esquirekorea.co.kr/article/78188</guid>
-            <pubDate>Wed, 21 Jun 2023 03:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[르세라핌과 뉴진스를 이을 다음 걸그룹은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/792e66f8-6aea-441b-92f9-6a1769205fc8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘범죄도시3’ 미남 빌런 이준혁 TMI 12.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78129</link>
-            <guid>https://www.esquirekorea.co.kr/article/78129</guid>
-            <pubDate>Wed, 21 Jun 2023 03:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[직접 모바일 게임을 개발했다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/07/c1fbeef4-4f8f-485c-b1d3-a624daf5c241.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일론 머스크가 세계 최고 부자 타이틀을 탈환했다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78086</link>
-            <guid>https://www.esquirekorea.co.kr/article/78086</guid>
-            <pubDate>Sun, 18 Jun 2023 09:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[그렇다면 2위는 누구?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/562d96c3-9752-4bee-853b-8b2121787f98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데뷔 10주년 팬송 발매하는 방탄소년단]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78039</link>
-            <guid>https://www.esquirekorea.co.kr/article/78039</guid>
-            <pubDate>Fri, 16 Jun 2023 09:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[슈가가 프로듀싱을 맡고, RM과 제이홉이 곡 작업에 참여했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/a9ebdadf-2c16-4ab8-b46a-934b56ab97bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이젠 서촌에서도 이솝의 향기를 맡을 수 있다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77822</link>
-            <guid>https://www.esquirekorea.co.kr/article/77822</guid>
-            <pubDate>Fri, 09 Jun 2023 09:18:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/01/0c1b774e-093b-4c7d-8cd9-892c2e370312.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드림캐쳐 천장 뚫는 데시벨의 대향연!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78018</link>
-            <guid>https://www.esquirekorea.co.kr/article/78018</guid>
-            <pubDate>Wed, 07 Jun 2023 09:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[막내가 언니들에게 화를 낸 이유?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/40bc4741-09bb-4bf4-ad79-dbc1d08bfbce.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/people</id>
+    <title>에스콰이어 코리아 ─ 피플</title>
+    <updated>2023-06-21T15:19:22.417Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준호X임윤아 '킹더랜드' 첫방 D-1]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78413</id>
+        <link href="https://www.esquirekorea.co.kr/article/78413"/>
+        <updated>2023-06-21T09:19:17.589Z</updated>
+        <content type="html"><![CDATA[두 사람이 선보일 케미가 기대된다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서강준 전역 후 먹고 싶었던 음식?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78258</id>
+        <link href="https://www.esquirekorea.co.kr/article/78258"/>
+        <updated>2023-06-21T09:19:17.592Z</updated>
+        <content type="html"><![CDATA[가장 마음에 드는 별명은?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하이브, 새 걸그룹 서바이벌 '알 유 넥스트(R U Next)' 시작]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78188</id>
+        <link href="https://www.esquirekorea.co.kr/article/78188"/>
+        <updated>2023-06-21T03:21:01.356Z</updated>
+        <content type="html"><![CDATA[르세라핌과 뉴진스를 이을 다음 걸그룹은?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘범죄도시3’ 미남 빌런 이준혁 TMI 12.]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78129</id>
+        <link href="https://www.esquirekorea.co.kr/article/78129"/>
+        <updated>2023-06-21T03:21:01.358Z</updated>
+        <content type="html"><![CDATA[직접 모바일 게임을 개발했다고?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일론 머스크가 세계 최고 부자 타이틀을 탈환했다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78086</id>
+        <link href="https://www.esquirekorea.co.kr/article/78086"/>
+        <updated>2023-06-18T09:18:28.220Z</updated>
+        <content type="html"><![CDATA[그렇다면 2위는 누구?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데뷔 10주년 팬송 발매하는 방탄소년단]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78039</id>
+        <link href="https://www.esquirekorea.co.kr/article/78039"/>
+        <updated>2023-06-16T09:18:23.546Z</updated>
+        <content type="html"><![CDATA[슈가가 프로듀싱을 맡고, RM과 제이홉이 곡 작업에 참여했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이젠 서촌에서도 이솝의 향기를 맡을 수 있다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77822</id>
+        <link href="https://www.esquirekorea.co.kr/article/77822"/>
+        <updated>2023-06-09T09:18:32.786Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드림캐쳐 천장 뚫는 데시벨의 대향연!]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78018</id>
+        <link href="https://www.esquirekorea.co.kr/article/78018"/>
+        <updated>2023-06-07T09:20:11.095Z</updated>
+        <content type="html"><![CDATA[막내가 언니들에게 화를 낸 이유?]]></content>
+    </entry>
+</feed>
