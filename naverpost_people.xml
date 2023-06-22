@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 15:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 03:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘범죄도시3’ 미남 빌런 이준혁 TMI 12]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36093153&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36093153&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 22 Jun 2023 03:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MTRfMjM2/MDAxNjg2NzIyNTI2Nzg2.YK59XnbNYZT9sndcvB9N-RWjg3ty2PHNiMqBkzHWZucg.xxmkVVJFNh0ZsQ06TpKDxlvslkaLDa8_Odry6gTwEDQg.JPEG/I43zJQOTzTm27VhIOugKsjgYM03g.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데뷔 앞둔 아이브 장원영 친언니 장다아 TMI 10]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=35840789&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Nov 2022 03:44:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjNfMTA3/MDAxNjQ4MDI1OTMyODkz._aCSjm-xU5ATxxC2UL_Y3XGKUa6RR7ovAU55DF56Pncg.ndP-Suugu4_Ktj1Qby4IdAzDQOiWz5-SCTw9mKnKIVwg.JPEG/Iw8To9uwSoWRzjKDv2fKrJha-nI0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀럽으로 보는 눈 관상 7가지]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33299455&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33299455&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:44:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAyMTVfMTU5/MDAxNjQ0ODk1MDM2NjI5.Tn-mavv8XMbJygAArcCnBpgAV5yarAhlAVOZzkGvpykg.xUDJl1FAxUk_h31WX8FeisLuz-wTMt4RRyp1nV4HQ0Qg.PNG/IQDrVxkFXeXUSuXeXrLgtKqxdVeo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

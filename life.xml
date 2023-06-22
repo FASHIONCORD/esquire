@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 15:19:22 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[명동역에서 남산까지 가는 곤돌라가 생긴다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78488</link>
-            <guid>https://www.esquirekorea.co.kr/article/78488</guid>
-            <pubDate>Wed, 21 Jun 2023 09:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[5~6분이면 정상에 도착할 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/da1e107a-a044-4571-9461-c3c74e97dbdc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거대 수상 도시 '도겐 시티']]></title>
-            <link>https://www.esquirekorea.co.kr/article/78487</link>
-            <guid>https://www.esquirekorea.co.kr/article/78487</guid>
-            <pubDate>Wed, 21 Jun 2023 09:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[전쟁, 자연재해 발생 시 비상 대피소로 사용할 수도 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/6c32392e-3a5a-413d-8659-f489e6db108f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니 100주년 기념 콘서트가 한국에서 열린다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78486</link>
-            <guid>https://www.esquirekorea.co.kr/article/78486</guid>
-            <pubDate>Wed, 21 Jun 2023 09:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[디즈니 영화의 음악을 오케스트라 공연으로 만나볼 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/4faad4da-73db-4d88-87f1-b8ba388b363e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오징어게임 시즌2'가 돌아온다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78440</link>
-            <guid>https://www.esquirekorea.co.kr/article/78440</guid>
-            <pubDate>Wed, 21 Jun 2023 09:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[더 새롭고 화려해진 라인업과 함께.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/18/5de30576-9e44-4451-a918-1c0749c94314.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭉텅이로 썰어주는 깍둑 고기 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78419</link>
-            <guid>https://www.esquirekorea.co.kr/article/78419</guid>
-            <pubDate>Tue, 20 Jun 2023 09:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[육즙 팡! 비주얼도 팡!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/0277eb21-2e19-4875-819a-0b27ff09bf1e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 동치미 국수 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78415</link>
-            <guid>https://www.esquirekorea.co.kr/article/78415</guid>
-            <pubDate>Tue, 20 Jun 2023 09:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[직화불고기와 함께 즐기는 메밀 동치미국수의 맛?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/58803f8b-b774-4563-8d8b-df5fe16973a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이준호X임윤아 '킹더랜드' 첫방 D-1]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78413</link>
-            <guid>https://www.esquirekorea.co.kr/article/78413</guid>
-            <pubDate>Tue, 20 Jun 2023 09:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[두 사람이 선보일 케미가 기대된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/8b7676f5-072a-455c-99f4-0cde06a38bd4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클림트의 마지막 작품 '부채를 든 여인' 경매 등장]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78406</link>
-            <guid>https://www.esquirekorea.co.kr/article/78406</guid>
-            <pubDate>Tue, 20 Jun 2023 09:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[유럽 내 회화 작품 중 최고가를 예상한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/fd301169-4679-46dd-a622-a79e5cf4e113.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/life</id>
+    <title>에스콰이어 코리아 ─ 라이프</title>
+    <updated>2023-06-22T03:20:22.738Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[명동역에서 남산까지 가는 곤돌라가 생긴다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78488</id>
+        <link href="https://www.esquirekorea.co.kr/article/78488"/>
+        <updated>2023-06-21T09:19:08.415Z</updated>
+        <content type="html"><![CDATA[5~6분이면 정상에 도착할 수 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거대 수상 도시 '도겐 시티']]></title>
+        <id>https://www.esquirekorea.co.kr/article/78487</id>
+        <link href="https://www.esquirekorea.co.kr/article/78487"/>
+        <updated>2023-06-21T09:19:08.420Z</updated>
+        <content type="html"><![CDATA[전쟁, 자연재해 발생 시 비상 대피소로 사용할 수도 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디즈니 100주년 기념 콘서트가 한국에서 열린다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78486</id>
+        <link href="https://www.esquirekorea.co.kr/article/78486"/>
+        <updated>2023-06-21T09:19:08.429Z</updated>
+        <content type="html"><![CDATA[디즈니 영화의 음악을 오케스트라 공연으로 만나볼 수 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오징어게임 시즌2'가 돌아온다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78440</id>
+        <link href="https://www.esquirekorea.co.kr/article/78440"/>
+        <updated>2023-06-21T09:19:08.430Z</updated>
+        <content type="html"><![CDATA[더 새롭고 화려해진 라인업과 함께.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뭉텅이로 썰어주는 깍둑 고기 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78419</id>
+        <link href="https://www.esquirekorea.co.kr/article/78419"/>
+        <updated>2023-06-20T09:18:41.133Z</updated>
+        <content type="html"><![CDATA[육즙 팡! 비주얼도 팡!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 동치미 국수 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78415</id>
+        <link href="https://www.esquirekorea.co.kr/article/78415"/>
+        <updated>2023-06-20T09:18:41.136Z</updated>
+        <content type="html"><![CDATA[직화불고기와 함께 즐기는 메밀 동치미국수의 맛?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준호X임윤아 '킹더랜드' 첫방 D-1]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78413</id>
+        <link href="https://www.esquirekorea.co.kr/article/78413"/>
+        <updated>2023-06-20T09:18:41.137Z</updated>
+        <content type="html"><![CDATA[두 사람이 선보일 케미가 기대된다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[클림트의 마지막 작품 '부채를 든 여인' 경매 등장]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78406</id>
+        <link href="https://www.esquirekorea.co.kr/article/78406"/>
+        <updated>2023-06-20T09:18:41.154Z</updated>
+        <content type="html"><![CDATA[유럽 내 회화 작품 중 최고가를 예상한다.]]></content>
+    </entry>
+</feed>
