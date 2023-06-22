@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-06-22T03:20:22.738Z</updated>
+    <updated>2023-06-22T09:19:08.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민재, 아시아에서 '몸값이 가장 비싼 선수' 1위 등극]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78532</id>
+        <link href="https://www.esquirekorea.co.kr/article/78532"/>
+        <updated>2023-06-22T09:18:21.019Z</updated>
+        <content type="html"><![CDATA[2등은 누구일까?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도심 속 힐링, 시티포레스티벌 2023 현장 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78507</id>
+        <link href="https://www.esquirekorea.co.kr/article/78507"/>
+        <updated>2023-06-22T09:18:21.020Z</updated>
+        <content type="html"><![CDATA[노들섬 잔디광장에서 열린 웰니스 페스티벌의 에너지 가득한 현장을 담았다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[명동역에서 남산까지 가는 곤돌라가 생긴다]]></title>
         <id>https://www.esquirekorea.co.kr/article/78488</id>
@@ -46,19 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/78415"/>
         <updated>2023-06-20T09:18:41.136Z</updated>
         <content type="html"><![CDATA[직화불고기와 함께 즐기는 메밀 동치미국수의 맛?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호X임윤아 '킹더랜드' 첫방 D-1]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78413</id>
-        <link href="https://www.esquirekorea.co.kr/article/78413"/>
-        <updated>2023-06-20T09:18:41.137Z</updated>
-        <content type="html"><![CDATA[두 사람이 선보일 케미가 기대된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클림트의 마지막 작품 '부채를 든 여인' 경매 등장]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78406</id>
-        <link href="https://www.esquirekorea.co.kr/article/78406"/>
-        <updated>2023-06-20T09:18:41.154Z</updated>
-        <content type="html"><![CDATA[유럽 내 회화 작품 중 최고가를 예상한다.]]></content>
     </entry>
 </feed>
