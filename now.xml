@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 나우</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 03:38:17 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[클림트의 마지막 작품 '부채를 든 여인' 경매 등장]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78406</link>
-            <guid>https://www.esquirekorea.co.kr/article/78406</guid>
-            <pubDate>Thu, 22 Jun 2023 15:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[유럽 내 회화 작품 중 최고가를 예상한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/fd301169-4679-46dd-a622-a79e5cf4e113.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신작 '스파이더맨'서 현대차 미래 모빌리티 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78284</link>
-            <guid>https://www.esquirekorea.co.kr/article/78284</guid>
-            <pubDate>Wed, 21 Jun 2023 09:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[2099년 미래 도시 속 아이오닉의 모습은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/10/fcb09bb4-6c92-46b7-bfc4-ca0b041c8db2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맛 보장, 면을 푸짐하게 리필해 주는 라멘 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78221</link>
-            <guid>https://www.esquirekorea.co.kr/article/78221</guid>
-            <pubDate>Sat, 17 Jun 2023 09:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[미쉐린 가이드에 등재된 라멘집도 있다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/11/25f2e97f-90ff-46f1-8ed7-4296b70c44e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가품이 가장 많은 스니커즈 모델은?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78092</link>
-            <guid>https://www.esquirekorea.co.kr/article/78092</guid>
-            <pubDate>Sat, 17 Jun 2023 09:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[나이키 덩크 범고래는 몇 위?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/4f6c61d0-e872-4770-9988-032be4396c0b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[약을 먹지 않고 설사 멈추는 방법 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78088</link>
-            <guid>https://www.esquirekorea.co.kr/article/78088</guid>
-            <pubDate>Fri, 16 Jun 2023 09:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[약을 구할 수 없을 때 알아두면 유용하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/fa04f8f9-ad98-4aec-a78d-d109296452fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일론 머스크가 세계 최고 부자 타이틀을 탈환했다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78086</link>
-            <guid>https://www.esquirekorea.co.kr/article/78086</guid>
-            <pubDate>Fri, 16 Jun 2023 03:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[그렇다면 2위는 누구?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/02/562d96c3-9752-4bee-853b-8b2121787f98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 핫한 유전자 검사는 어디서 하면 좋을까?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77983</link>
-            <guid>https://www.esquirekorea.co.kr/article/77983</guid>
-            <pubDate>Sat, 10 Jun 2023 09:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[세계에서 가장 포괄적인 유전자 검사 키트 서클 DNA에 대해서]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/31/35771455-d391-43c3-94c4-495757094a06.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세티스파이 X 오클리 협업 아이템 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77827</link>
-            <guid>https://www.esquirekorea.co.kr/article/77827</guid>
-            <pubDate>Thu, 08 Jun 2023 09:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[프랑스의 감성과 미국의 기술력이 만났을 때.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/24/2705f422-cdb0-4130-96ec-4147655b4c8c.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/now</id>
+    <title>에스콰이어 코리아 ─ 나우</title>
+    <updated>2023-06-23T09:22:47.166Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뭉텅이로 썰어주는 깍둑 고기 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78419</id>
+        <link href="https://www.esquirekorea.co.kr/article/78419"/>
+        <updated>2023-06-23T09:22:37.400Z</updated>
+        <content type="html"><![CDATA[육즙 팡! 비주얼도 팡!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[클림트의 마지막 작품 '부채를 든 여인' 경매 등장]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78406</id>
+        <link href="https://www.esquirekorea.co.kr/article/78406"/>
+        <updated>2023-06-22T15:22:14.324Z</updated>
+        <content type="html"><![CDATA[유럽 내 회화 작품 중 최고가를 예상한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신작 '스파이더맨'서 현대차 미래 모빌리티 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78284</id>
+        <link href="https://www.esquirekorea.co.kr/article/78284"/>
+        <updated>2023-06-21T09:19:26.545Z</updated>
+        <content type="html"><![CDATA[2099년 미래 도시 속 아이오닉의 모습은?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맛 보장, 면을 푸짐하게 리필해 주는 라멘 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78221</id>
+        <link href="https://www.esquirekorea.co.kr/article/78221"/>
+        <updated>2023-06-17T09:17:51.996Z</updated>
+        <content type="html"><![CDATA[미쉐린 가이드에 등재된 라멘집도 있다고?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가품이 가장 많은 스니커즈 모델은?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78092</id>
+        <link href="https://www.esquirekorea.co.kr/article/78092"/>
+        <updated>2023-06-17T09:17:51.997Z</updated>
+        <content type="html"><![CDATA[나이키 덩크 범고래는 몇 위?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[약을 먹지 않고 설사 멈추는 방법 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78088</id>
+        <link href="https://www.esquirekorea.co.kr/article/78088"/>
+        <updated>2023-06-16T09:18:31.881Z</updated>
+        <content type="html"><![CDATA[약을 구할 수 없을 때 알아두면 유용하다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일론 머스크가 세계 최고 부자 타이틀을 탈환했다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78086</id>
+        <link href="https://www.esquirekorea.co.kr/article/78086"/>
+        <updated>2023-06-16T03:21:09.561Z</updated>
+        <content type="html"><![CDATA[그렇다면 2위는 누구?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 핫한 유전자 검사는 어디서 하면 좋을까?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/77983</id>
+        <link href="https://www.esquirekorea.co.kr/article/77983"/>
+        <updated>2023-06-10T09:17:44.692Z</updated>
+        <content type="html"><![CDATA[세계에서 가장 포괄적인 유전자 검사 키트 서클 DNA에 대해서]]></content>
+    </entry>
+</feed>
