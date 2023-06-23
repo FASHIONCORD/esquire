@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-06-23T09:22:47.160Z</updated>
+    <updated>2023-06-23T15:21:59.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Part1. 서강준이 팬들에게 쓴 손편지 내용은?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78501</id>
+        <link href="https://www.esquirekorea.co.kr/article/78501"/>
+        <updated>2023-06-23T15:21:38.604Z</updated>
+        <content type="html"><![CDATA[18개월의 군복무를 무사히 마친 그는 연기를 밧줄에 빗대어 이야기했다. 이제 그에게 닿은 세...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Part 2. 드러머가 되고 싶은 남자, 이진욱]]></title>
         <id>https://www.esquirekorea.co.kr/article/78534</id>
@@ -51,12 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/78258"/>
         <updated>2023-06-21T09:19:17.592Z</updated>
         <content type="html"><![CDATA[가장 마음에 드는 별명은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이브, 새 걸그룹 서바이벌 '알 유 넥스트(R U Next)' 시작]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78188</id>
-        <link href="https://www.esquirekorea.co.kr/article/78188"/>
-        <updated>2023-06-21T03:21:01.356Z</updated>
-        <content type="html"><![CDATA[르세라핌과 뉴진스를 이을 다음 걸그룹은?]]></content>
     </entry>
 </feed>
