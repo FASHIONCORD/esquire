@@ -1,62 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/style</id>
-    <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2023-06-24T03:31:19.965Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[에스투파와 한보름이 완성한 싱그러운 여름]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78343</id>
-        <link href="https://www.esquirekorea.co.kr/article/78343"/>
-        <updated>2023-06-23T09:21:42.813Z</updated>
-        <content type="html"><![CDATA[영상은 에스콰이어 유튜브 채널에서도 만날 수 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태양을 마주보는 방법]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78177</id>
-        <link href="https://www.esquirekorea.co.kr/article/78177"/>
-        <updated>2023-06-23T03:36:11.641Z</updated>
-        <content type="html"><![CDATA[여름 햇살 아래서도 든든한 선케어 제품 12.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빛의 색, 네온의 파장]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78291</id>
-        <link href="https://www.esquirekorea.co.kr/article/78291"/>
-        <updated>2023-06-19T09:19:35.610Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당장 준비해야 할 여름 선글라스들]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78058</id>
-        <link href="https://www.esquirekorea.co.kr/article/78058"/>
-        <updated>2023-06-14T15:18:49.019Z</updated>
-        <content type="html"><![CDATA[여름, 스포츠 선글라스로 도시에서 살아남기.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신나게 자유롭게 입는 펑키 룩]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78278</id>
-        <link href="https://www.esquirekorea.co.kr/article/78278"/>
-        <updated>2023-06-14T09:17:36.771Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몽클레르(MONCLER), '몽클레르 X FRGMT' 컬렉션 론칭]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78247</id>
-        <link href="https://www.esquirekorea.co.kr/article/78247"/>
-        <updated>2023-06-13T09:18:42.880Z</updated>
-        <content type="html"><![CDATA[글로벌 앰버서더 황민현과 함께한 '몽클레르 X FRGMT' 캠페인을 선보였다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름 쇼츠를 입는 4가지 태도]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78061</id>
-        <link href="https://www.esquirekorea.co.kr/article/78061"/>
-        <updated>2023-06-12T15:18:31.829Z</updated>
-        <content type="html"><![CDATA[리넨부터 레더, 테리, 데님까지. 여름 쇼츠를 입는 4가지 태도.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낯선 거리, 생 로랑을 입은 로렌]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78046</id>
-        <link href="https://www.esquirekorea.co.kr/article/78046"/>
-        <updated>2023-06-11T15:17:12.973Z</updated>
-        <content type="html"><![CDATA[낯선 거리, 레드 핫 칠리 페퍼스의 노래, 로렌이 말하는 생 로랑.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 스타일</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 24 Jun 2023 09:20:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에스투파와 한보름이 완성한 싱그러운 여름]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78343</link>
+            <guid>https://www.esquirekorea.co.kr/article/78343</guid>
+            <pubDate>Fri, 23 Jun 2023 09:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[영상은 에스콰이어 유튜브 채널에서도 만날 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/63fcedc7-fad9-47ab-b4a7-c245d5f4a25e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태양을 마주보는 방법]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78177</link>
+            <guid>https://www.esquirekorea.co.kr/article/78177</guid>
+            <pubDate>Fri, 23 Jun 2023 03:36:11 GMT</pubDate>
+            <content:encoded><![CDATA[여름 햇살 아래서도 든든한 선케어 제품 12.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/ce7b2ed0-bb02-4ab9-a618-80add079cf8e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빛의 색, 네온의 파장]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78291</link>
+            <guid>https://www.esquirekorea.co.kr/article/78291</guid>
+            <pubDate>Mon, 19 Jun 2023 09:19:35 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/589a4a88-e725-44ea-9f4f-3680ad71aac7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당장 준비해야 할 여름 선글라스들]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78058</link>
+            <guid>https://www.esquirekorea.co.kr/article/78058</guid>
+            <pubDate>Wed, 14 Jun 2023 15:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[여름, 스포츠 선글라스로 도시에서 살아남기.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/f0da60c2-d4f4-4351-a3e7-6ba55a204788.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신나게 자유롭게 입는 펑키 룩]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78278</link>
+            <guid>https://www.esquirekorea.co.kr/article/78278</guid>
+            <pubDate>Wed, 14 Jun 2023 09:17:36 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/10/3440610a-d772-4c63-93b8-366de60b841c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몽클레르(MONCLER), '몽클레르 X FRGMT' 컬렉션 론칭]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78247</link>
+            <guid>https://www.esquirekorea.co.kr/article/78247</guid>
+            <pubDate>Tue, 13 Jun 2023 09:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 앰버서더 황민현과 함께한 '몽클레르 X FRGMT' 캠페인을 선보였다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/e7751dd6-3768-44ab-9705-85b758735feb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름 쇼츠를 입는 4가지 태도]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78061</link>
+            <guid>https://www.esquirekorea.co.kr/article/78061</guid>
+            <pubDate>Mon, 12 Jun 2023 15:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[리넨부터 레더, 테리, 데님까지. 여름 쇼츠를 입는 4가지 태도.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/1cda515b-de86-4167-842a-4398e0a31e53.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[낯선 거리, 생 로랑을 입은 로렌]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78046</link>
+            <guid>https://www.esquirekorea.co.kr/article/78046</guid>
+            <pubDate>Sun, 11 Jun 2023 15:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[낯선 거리, 레드 핫 칠리 페퍼스의 노래, 로렌이 말하는 생 로랑.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/857adaa7-5266-4376-8895-93d381ec71fe.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
