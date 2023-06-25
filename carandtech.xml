@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 03:37:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 09:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미니쿠퍼보다 작은 픽업 트럭 등장]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78456</link>
+            <guid>https://www.esquirekorea.co.kr/article/78456</guid>
+            <pubDate>Sun, 25 Jun 2023 09:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[2026년부터 본격 생산 시작.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/b66fda13-8f31-48be-b03d-b4085a5ceb36.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로봇이 배달하는 시대가 온다]]></title>
             <link>https://www.esquirekorea.co.kr/article/78441</link>
@@ -60,13 +68,6 @@
             <guid>https://www.esquirekorea.co.kr/article/78285</guid>
             <pubDate>Wed, 14 Jun 2023 09:18:14 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/11/995df8c0-f37a-4007-a356-5bd2b8c5ea64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혹시 지금 우리가 보고 있는 것이 실리콘밸리의 종말은 아닐까?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78052</link>
-            <guid>https://www.esquirekorea.co.kr/article/78052</guid>
-            <pubDate>Tue, 13 Jun 2023 09:19:01 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/09/2a3e41bd-b72f-4ec3-9023-c122a44671a2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
