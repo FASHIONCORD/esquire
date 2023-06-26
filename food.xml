@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/food</id>
-    <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2023-06-25T15:25:14.399Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[서울 대파 막창 맛집 5]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78547</id>
-        <link href="https://www.esquirekorea.co.kr/article/78547"/>
-        <updated>2023-06-25T15:24:29.755Z</updated>
-        <content type="html"><![CDATA[대만식 튀긴 대파 막창부터 황토가마에서 초벌해주는 막창까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 노포 육회비빔면 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78546</id>
-        <link href="https://www.esquirekorea.co.kr/article/78546"/>
-        <updated>2023-06-25T03:36:32.688Z</updated>
-        <content type="html"><![CDATA[시장 속 노포 육회비빔면 맛집부터 일본식 육회비빔면 맛집까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시원한 동굴 속에서 즐기는 이색 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78545</id>
-        <link href="https://www.esquirekorea.co.kr/article/78545"/>
-        <updated>2023-06-23T09:22:11.575Z</updated>
-        <content type="html"><![CDATA[동굴 속 신비로운 분위기는 물론 시원함까지 더해져 여름 데이트 맛집으로 추천한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먹고 보고 즐긴 베트남 호이안 3박 4일 VLOG]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78544</id>
-        <link href="https://www.esquirekorea.co.kr/article/78544"/>
-        <updated>2023-06-23T09:22:11.576Z</updated>
-        <content type="html"><![CDATA[호이안 어디까지 가봤니?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가게에서 직접 숙성하는 오향족발 맛집 5]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78485</id>
-        <link href="https://www.esquirekorea.co.kr/article/78485"/>
-        <updated>2023-06-22T09:18:11.888Z</updated>
-        <content type="html"><![CDATA[성시경이 극찬한 족발과 중화요리를 같이 내주는 맛집?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름 별미 백김치 국수 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78437</id>
-        <link href="https://www.esquirekorea.co.kr/article/78437"/>
-        <updated>2023-06-21T09:18:57.952Z</updated>
-        <content type="html"><![CDATA[직접 담근 백김치와 열무를 듬뿍 넣어주는 백김치 국수 맛집?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한우를 튀겨주는 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78422</id>
-        <link href="https://www.esquirekorea.co.kr/article/78422"/>
-        <updated>2023-06-21T09:18:57.955Z</updated>
-        <content type="html"><![CDATA[한우 튀김과 함께 육사시미, 한우 물회까지 맛볼 수 있는 곳?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뭉텅이로 썰어주는 깍둑 고기 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78419</id>
-        <link href="https://www.esquirekorea.co.kr/article/78419"/>
-        <updated>2023-06-21T09:18:57.957Z</updated>
-        <content type="html"><![CDATA[육즙 팡! 비주얼도 팡!]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 푸드</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 26 Jun 2023 03:41:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 대파 막창 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78547</link>
+            <guid>https://www.esquirekorea.co.kr/article/78547</guid>
+            <pubDate>Sun, 25 Jun 2023 15:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[대만식 튀긴 대파 막창부터 황토가마에서 초벌해주는 막창까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/bc1337f1-dff0-46d2-b4eb-48843996d80a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 노포 육회비빔면 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78546</link>
+            <guid>https://www.esquirekorea.co.kr/article/78546</guid>
+            <pubDate>Sun, 25 Jun 2023 03:36:32 GMT</pubDate>
+            <content:encoded><![CDATA[시장 속 노포 육회비빔면 맛집부터 일본식 육회비빔면 맛집까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/0737a3b6-cbf5-4804-9f03-cb172a70fe09.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시원한 동굴 속에서 즐기는 이색 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78545</link>
+            <guid>https://www.esquirekorea.co.kr/article/78545</guid>
+            <pubDate>Fri, 23 Jun 2023 09:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[동굴 속 신비로운 분위기는 물론 시원함까지 더해져 여름 데이트 맛집으로 추천한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/21/4a2fa521-ccdd-4167-a3bf-e47147dc80f5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먹고 보고 즐긴 베트남 호이안 3박 4일 VLOG]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78544</link>
+            <guid>https://www.esquirekorea.co.kr/article/78544</guid>
+            <pubDate>Fri, 23 Jun 2023 09:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[호이안 어디까지 가봤니?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/0305ed47-af81-409a-8c8c-3741adf87cf0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가게에서 직접 숙성하는 오향족발 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78485</link>
+            <guid>https://www.esquirekorea.co.kr/article/78485</guid>
+            <pubDate>Thu, 22 Jun 2023 09:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[성시경이 극찬한 족발과 중화요리를 같이 내주는 맛집?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/accb3954-c9c8-45b3-b54f-8dc57bb2120a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름 별미 백김치 국수 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78437</link>
+            <guid>https://www.esquirekorea.co.kr/article/78437</guid>
+            <pubDate>Wed, 21 Jun 2023 09:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[직접 담근 백김치와 열무를 듬뿍 넣어주는 백김치 국수 맛집?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/17/1fd3c9ad-de43-4133-932c-072ca0daa3be.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한우를 튀겨주는 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78422</link>
+            <guid>https://www.esquirekorea.co.kr/article/78422</guid>
+            <pubDate>Wed, 21 Jun 2023 09:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[한우 튀김과 함께 육사시미, 한우 물회까지 맛볼 수 있는 곳?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/d73cc957-fe16-4109-b871-975c0a51974e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뭉텅이로 썰어주는 깍둑 고기 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78419</link>
+            <guid>https://www.esquirekorea.co.kr/article/78419</guid>
+            <pubDate>Wed, 21 Jun 2023 09:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[육즙 팡! 비주얼도 팡!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/16/0277eb21-2e19-4875-819a-0b27ff09bf1e.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
