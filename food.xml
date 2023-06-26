@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/food</id>
     <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2023-06-26T09:22:29.125Z</updated>
+    <updated>2023-06-26T15:21:20.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새로운 오마카세의 등장, 교촌필방]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78591</id>
+        <link href="https://www.esquirekorea.co.kr/article/78591"/>
+        <updated>2023-06-26T15:20:42.908Z</updated>
+        <content type="html"><![CDATA[오마카세부터 4가지 시그니처 메뉴를 한 번에 맛볼 수 있는 플래터까지.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 대파 막창 맛집 5]]></title>
         <id>https://www.esquirekorea.co.kr/article/78547</id>
@@ -53,12 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/78422"/>
         <updated>2023-06-21T09:18:57.955Z</updated>
         <content type="html"><![CDATA[한우 튀김과 함께 육사시미, 한우 물회까지 맛볼 수 있는 곳?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뭉텅이로 썰어주는 깍둑 고기 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78419</id>
-        <link href="https://www.esquirekorea.co.kr/article/78419"/>
-        <updated>2023-06-21T09:18:57.957Z</updated>
-        <content type="html"><![CDATA[육즙 팡! 비주얼도 팡!]]></content>
     </entry>
 </feed>
