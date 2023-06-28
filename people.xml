@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-06-28T09:23:31.838Z</updated>
+    <updated>2023-06-28T15:28:48.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Part1. 배우 김남희가 대본도 읽기 전에 영화 <어디로 가고 싶으신가요> 출연을 결정한 이유]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78499</id>
+        <link href="https://www.esquirekorea.co.kr/article/78499"/>
+        <updated>2023-06-28T15:28:24.161Z</updated>
+        <content type="html"><![CDATA[김남희는 스스로가 원래의 자신 같지 않은 사람으로 보이는 건 싫다고 했다. 근사해 보이든, 따...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박서준과 열애설? 수스 TMI12.]]></title>
         <id>https://www.esquirekorea.co.kr/article/78572</id>
@@ -51,12 +58,5 @@
         <id>https://www.esquirekorea.co.kr/article/78484</id>
         <link href="https://www.esquirekorea.co.kr/article/78484"/>
         <updated>2023-06-22T09:18:30.347Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오징어게임 시즌2'가 돌아온다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78440</id>
-        <link href="https://www.esquirekorea.co.kr/article/78440"/>
-        <updated>2023-06-22T03:20:02.687Z</updated>
-        <content type="html"><![CDATA[더 새롭고 화려해진 라인업과 함께.]]></content>
     </entry>
 </feed>
