@@ -1,74 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 카&amp;테크</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 03:31:44 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[거대 수상 도시 '도겐 시티']]></title>
-            <link>https://www.esquirekorea.co.kr/article/78487</link>
-            <guid>https://www.esquirekorea.co.kr/article/78487</guid>
-            <pubDate>Mon, 26 Jun 2023 15:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[전쟁, 자연재해 발생 시 비상 대피소로 사용할 수도 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/6c32392e-3a5a-413d-8659-f489e6db108f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미니쿠퍼보다 작은 픽업 트럭 등장]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78456</link>
-            <guid>https://www.esquirekorea.co.kr/article/78456</guid>
-            <pubDate>Sun, 25 Jun 2023 09:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[2026년부터 본격 생산 시작.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/b66fda13-8f31-48be-b03d-b4085a5ceb36.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로봇이 배달하는 시대가 온다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78441</link>
-            <guid>https://www.esquirekorea.co.kr/article/78441</guid>
-            <pubDate>Thu, 22 Jun 2023 09:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[저렴한 배달비와 함께.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/18/d29b448b-ae30-4c60-ab99-6fe7e3110e17.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비틀즈, AI로 완성된 마지막 곡 발매 예정]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78364</link>
-            <guid>https://www.esquirekorea.co.kr/article/78364</guid>
-            <pubDate>Thu, 22 Jun 2023 09:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[AI 기술을 통해 '존 레논'의 목소리를 담아냈다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/e0f548a6-3406-41ff-a805-2cafc8ea0475.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[계단 오르는 로봇청소기의 등장]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78341</link>
-            <guid>https://www.esquirekorea.co.kr/article/78341</guid>
-            <pubDate>Tue, 20 Jun 2023 09:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[주변 환경을 감지하는 건 물론, 음성인식도 가능하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/3d773f94-5df3-4308-b990-c6b5573d3d1c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도로위를 질주하는 환상적인 컨버터블 7대]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78055</link>
-            <guid>https://www.esquirekorea.co.kr/article/78055</guid>
-            <pubDate>Tue, 20 Jun 2023 09:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[묵은 체증이 싹 가실 만큼 상쾌한 드라이빙을 선사하는 최신 오픈 톱 모델 7대의 면면.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/dd6d3cf5-65f7-410c-a29e-38357df7ef5a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폭스바겐 ID.4의 주행거리가 늘어난 이유는?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78290</link>
-            <guid>https://www.esquirekorea.co.kr/article/78290</guid>
-            <pubDate>Mon, 19 Jun 2023 09:19:59 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/76c05270-5a7f-4152-8bb5-f9b9a152c999.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[땀을 흘리는 휴머노이드 로봇의 등장]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78287</link>
-            <guid>https://www.esquirekorea.co.kr/article/78287</guid>
-            <pubDate>Sun, 18 Jun 2023 09:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[기후 변화에 대비하기 위하여.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/11/53d0d66d-dba5-4e89-8c2f-82730d40373f.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/carandtech</id>
+    <title>에스콰이어 코리아 ─ 카&amp;테크</title>
+    <updated>2023-06-28T09:23:31.924Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[명동역에서 남산까지 가는 곤돌라가 생긴다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78488</id>
+        <link href="https://www.esquirekorea.co.kr/article/78488"/>
+        <updated>2023-06-28T09:22:35.375Z</updated>
+        <content type="html"><![CDATA[5~6분이면 정상에 도착할 수 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거대 수상 도시 '도겐 시티']]></title>
+        <id>https://www.esquirekorea.co.kr/article/78487</id>
+        <link href="https://www.esquirekorea.co.kr/article/78487"/>
+        <updated>2023-06-26T15:20:32.764Z</updated>
+        <content type="html"><![CDATA[전쟁, 자연재해 발생 시 비상 대피소로 사용할 수도 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미니쿠퍼보다 작은 픽업 트럭 등장]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78456</id>
+        <link href="https://www.esquirekorea.co.kr/article/78456"/>
+        <updated>2023-06-25T09:19:57.910Z</updated>
+        <content type="html"><![CDATA[2026년부터 본격 생산 시작.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로봇이 배달하는 시대가 온다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78441</id>
+        <link href="https://www.esquirekorea.co.kr/article/78441"/>
+        <updated>2023-06-22T09:18:02.262Z</updated>
+        <content type="html"><![CDATA[저렴한 배달비와 함께.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비틀즈, AI로 완성된 마지막 곡 발매 예정]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78364</id>
+        <link href="https://www.esquirekorea.co.kr/article/78364"/>
+        <updated>2023-06-22T09:18:02.264Z</updated>
+        <content type="html"><![CDATA[AI 기술을 통해 '존 레논'의 목소리를 담아냈다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[계단 오르는 로봇청소기의 등장]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78341</id>
+        <link href="https://www.esquirekorea.co.kr/article/78341"/>
+        <updated>2023-06-20T09:18:12.930Z</updated>
+        <content type="html"><![CDATA[주변 환경을 감지하는 건 물론, 음성인식도 가능하다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도로위를 질주하는 환상적인 컨버터블 7대]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78055</id>
+        <link href="https://www.esquirekorea.co.kr/article/78055"/>
+        <updated>2023-06-20T09:18:12.932Z</updated>
+        <content type="html"><![CDATA[묵은 체증이 싹 가실 만큼 상쾌한 드라이빙을 선사하는 최신 오픈 톱 모델 7대의 면면.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[폭스바겐 ID.4의 주행거리가 늘어난 이유는?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78290</id>
+        <link href="https://www.esquirekorea.co.kr/article/78290"/>
+        <updated>2023-06-19T09:19:59.344Z</updated>
+    </entry>
+</feed>
