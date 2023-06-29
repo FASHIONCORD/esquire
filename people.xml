@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-06-28T15:28:48.406Z</updated>
+    <updated>2023-06-29T03:38:07.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Part2. 배우 김남희는 '생태계를 파괴하는' 배우가 되고 싶다고 했다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78612</id>
+        <link href="https://www.esquirekorea.co.kr/article/78612"/>
+        <updated>2023-06-29T03:37:35.655Z</updated>
+        <content type="html"><![CDATA[김남희는 스스로가 원래의 자신 같지 않은 사람으로 보이는 건 싫다고 했다. 근사해 보이든, 따...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Part1. 배우 김남희가 대본도 읽기 전에 영화 <어디로 가고 싶으신가요> 출연을 결정한 이유]]></title>
         <id>https://www.esquirekorea.co.kr/article/78499</id>
@@ -52,11 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/78523"/>
         <updated>2023-06-22T09:18:30.345Z</updated>
         <content type="html"><![CDATA[지난 본보야지(BONVOYAGE) 컴백 화보에 이어 B컷을 더 공개한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 1. 이진욱은 예술이 결국의 구체화의 문제라고 말했다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78484</id>
-        <link href="https://www.esquirekorea.co.kr/article/78484"/>
-        <updated>2023-06-22T09:18:30.347Z</updated>
     </entry>
 </feed>
