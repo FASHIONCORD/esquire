@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 03:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 09:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리는 AI가 그린 만화를 받아들일 수 있을까?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78816</link>
+            <guid>https://www.esquirekorea.co.kr/article/78816</guid>
+            <pubDate>Fri, 30 Jun 2023 09:20:39 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/c3a620f2-ceb1-4487-a8ff-4274c07a3e22.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Part3. 새벽 2시에 배가 출출할 때 가기 좋은 식당들_이태원편]]></title>
             <link>https://www.esquirekorea.co.kr/article/78817</link>
@@ -21,7 +28,7 @@
             <guid>https://www.esquirekorea.co.kr/article/78810</guid>
             <pubDate>Thu, 29 Jun 2023 15:22:19 GMT</pubDate>
             <content:encoded><![CDATA[도심 속 휴양지 컨셉의 수영장부터 바다를 바라보며 수영할 수 있는 곳까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/0f70cc28-2aff-4697-9f05-cb0b18996735.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/0f70cc28-2aff-4697-9f05-cb0b18996735.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['오징어 게임2' 새로운 캐스팅 라인업 공개]]></title>
@@ -62,14 +69,6 @@
             <pubDate>Thu, 29 Jun 2023 09:22:01 GMT</pubDate>
             <content:encoded><![CDATA[무려 32개 팀이 출전한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/56a59b88-1ecf-4577-be2b-da3ebd56b741.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑도 하고 심장 건강도 체크하는 시대]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78643</link>
-            <guid>https://www.esquirekorea.co.kr/article/78643</guid>
-            <pubDate>Thu, 29 Jun 2023 03:37:26 GMT</pubDate>
-            <content:encoded><![CDATA[쇼핑카트에 손만 올리면 된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/25/fb5be9c2-c9bb-4900-804a-b3711c15cd2b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
