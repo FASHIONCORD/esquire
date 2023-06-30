@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/life</id>
-    <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-06-29T15:22:47.308Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[비투숙객 이용 가능, 5성급 호텔 수영장 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78810</id>
-        <link href="https://www.esquirekorea.co.kr/article/78810"/>
-        <updated>2023-06-29T15:22:19.794Z</updated>
-        <content type="html"><![CDATA[도심 속 휴양지 컨셉의 수영장부터 바다를 바라보며 수영할 수 있는 곳까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오징어 게임2' 새로운 캐스팅 라인업 공개]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78778</id>
-        <link href="https://www.esquirekorea.co.kr/article/78778"/>
-        <updated>2023-06-29T15:22:19.799Z</updated>
-        <content type="html"><![CDATA[최승현과 조유리가 합류한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그림 같은 풀빌라, 온전한 휴식! 꿈꾸던 휴양지 베트남 퀴논 VLOG]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78768</id>
-        <link href="https://www.esquirekorea.co.kr/article/78768"/>
-        <updated>2023-06-29T15:22:19.803Z</updated>
-        <content type="html"><![CDATA[여름 휴가에서 인생 사진을 건질 수 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 지휘자가 무대에 서는 공연?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78761</id>
-        <link href="https://www.esquirekorea.co.kr/article/78761"/>
-        <updated>2023-06-29T15:22:19.804Z</updated>
-        <content type="html"><![CDATA[공연은 30일 국립극장에서 열린다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[god, KBS 단독쇼 출연]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78760</id>
-        <link href="https://www.esquirekorea.co.kr/article/78760"/>
-        <updated>2023-06-29T15:22:19.805Z</updated>
-        <content type="html"><![CDATA[나훈아, 심수봉, 임영웅, 송골매의 뒤를 잇는다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIFA, 2025년 클럽 월드컵 개최지 미국 확정]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78648</id>
-        <link href="https://www.esquirekorea.co.kr/article/78648"/>
-        <updated>2023-06-29T09:22:01.869Z</updated>
-        <content type="html"><![CDATA[무려 32개 팀이 출전한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼핑도 하고 심장 건강도 체크하는 시대]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78643</id>
-        <link href="https://www.esquirekorea.co.kr/article/78643"/>
-        <updated>2023-06-29T03:37:26.552Z</updated>
-        <content type="html"><![CDATA[쇼핑카트에 손만 올리면 된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미리보는 미쉐린 2024! 5, 6월 선공개 맛집]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78639</id>
-        <link href="https://www.esquirekorea.co.kr/article/78639"/>
-        <updated>2023-06-28T09:22:56.021Z</updated>
-        <content type="html"><![CDATA[프렌치 다이닝부터 일식 그릴 마스터가 운영하는 오마카세까지.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 30 Jun 2023 03:26:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Part3. 새벽 2시에 배가 출출할 때 가기 좋은 식당들_이태원편]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78817</link>
+            <guid>https://www.esquirekorea.co.kr/article/78817</guid>
+            <pubDate>Fri, 30 Jun 2023 03:25:46 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹이 빼앗아간 여러 가지 중 가장 안타까운 건 사라져버린 막차 가게들이다. 동이 트는 걸...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/01b3f1c8-29ce-4695-843e-b9ed13504b64.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비투숙객 이용 가능, 5성급 호텔 수영장 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78810</link>
+            <guid>https://www.esquirekorea.co.kr/article/78810</guid>
+            <pubDate>Thu, 29 Jun 2023 15:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[도심 속 휴양지 컨셉의 수영장부터 바다를 바라보며 수영할 수 있는 곳까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/0f70cc28-2aff-4697-9f05-cb0b18996735.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['오징어 게임2' 새로운 캐스팅 라인업 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78778</link>
+            <guid>https://www.esquirekorea.co.kr/article/78778</guid>
+            <pubDate>Thu, 29 Jun 2023 15:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[최승현과 조유리가 합류한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/8f5f365c-046e-49b7-9bb6-7c93701a2413.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그림 같은 풀빌라, 온전한 휴식! 꿈꾸던 휴양지 베트남 퀴논 VLOG]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78768</link>
+            <guid>https://www.esquirekorea.co.kr/article/78768</guid>
+            <pubDate>Thu, 29 Jun 2023 15:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[여름 휴가에서 인생 사진을 건질 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/478b7e12-f19d-4dcc-b591-e0e37272dc8d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI 지휘자가 무대에 서는 공연?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78761</link>
+            <guid>https://www.esquirekorea.co.kr/article/78761</guid>
+            <pubDate>Thu, 29 Jun 2023 15:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[공연은 30일 국립극장에서 열린다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/5c925c27-aa3b-4180-9592-f103dcd7011b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[god, KBS 단독쇼 출연]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78760</link>
+            <guid>https://www.esquirekorea.co.kr/article/78760</guid>
+            <pubDate>Thu, 29 Jun 2023 15:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[나훈아, 심수봉, 임영웅, 송골매의 뒤를 잇는다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/d0fbd630-3b83-4850-816a-043dcd044d2e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FIFA, 2025년 클럽 월드컵 개최지 미국 확정]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78648</link>
+            <guid>https://www.esquirekorea.co.kr/article/78648</guid>
+            <pubDate>Thu, 29 Jun 2023 09:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[무려 32개 팀이 출전한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/56a59b88-1ecf-4577-be2b-da3ebd56b741.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑도 하고 심장 건강도 체크하는 시대]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78643</link>
+            <guid>https://www.esquirekorea.co.kr/article/78643</guid>
+            <pubDate>Thu, 29 Jun 2023 03:37:26 GMT</pubDate>
+            <content:encoded><![CDATA[쇼핑카트에 손만 올리면 된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/25/fb5be9c2-c9bb-4900-804a-b3711c15cd2b.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
