@@ -1,74 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 푸드</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 15:20:24 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Part2. 새벽 2시에 배가 출출할 때 가기 좋은 식당들_강남&논현편]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78818</link>
-            <guid>https://www.esquirekorea.co.kr/article/78818</guid>
-            <pubDate>Fri, 30 Jun 2023 15:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[팬데믹이 빼앗아간 여러 가지 중 가장 안타까운 건 사라져버린 막차 가게들이다. 동이 트는 걸...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/2865dca8-eb0a-4dc3-8207-b8963bb8b844.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part1. 새벽 2시에 배가 출출할 때 가기 좋은 식당들_홍대편]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78684</link>
-            <guid>https://www.esquirekorea.co.kr/article/78684</guid>
-            <pubDate>Fri, 30 Jun 2023 15:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[팬데믹이 빼앗아간 여러 가지 중 가장 안타까운 건 사라져버린 막차 가게들이다. 동이 트는 걸...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/eb79ed32-1d65-40ab-b72a-dd465107225f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 백김치찌개 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78814</link>
-            <guid>https://www.esquirekorea.co.kr/article/78814</guid>
-            <pubDate>Fri, 30 Jun 2023 09:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[서울에서 4곳 밖에 없는 백김치찌개 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/0e2f45d6-f69e-4ad7-a432-9cf499ac3f7f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외부인 출입가능, 대학교 학식 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78813</link>
-            <guid>https://www.esquirekorea.co.kr/article/78813</guid>
-            <pubDate>Thu, 29 Jun 2023 15:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[서울 인근 직장인들에게 가성비 맛집으로 소문난 학식 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/dccb188d-1f60-46cc-8ee7-061f2940cd1c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그림 같은 풀빌라, 온전한 휴식! 꿈꾸던 휴양지 베트남 퀴논 VLOG]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78768</link>
-            <guid>https://www.esquirekorea.co.kr/article/78768</guid>
-            <pubDate>Thu, 29 Jun 2023 15:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[여름 휴가에서 인생 사진을 건질 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/478b7e12-f19d-4dcc-b591-e0e37272dc8d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콤부차가 뭔지 알지 못하면 제대로 마시기가 어려운 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78676</link>
-            <guid>https://www.esquirekorea.co.kr/article/78676</guid>
-            <pubDate>Thu, 29 Jun 2023 15:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[뭔지 모르면, 마시지 못한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/2e50f21c-2291-4ab6-93fe-957b2e55b984.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 한국의 '빙수 문화'는 어디쯤 와 있을까?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78503</link>
-            <guid>https://www.esquirekorea.co.kr/article/78503</guid>
-            <pubDate>Thu, 29 Jun 2023 15:22:09 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/a5c10c54-a7f6-4730-a70f-e85747b3e408.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미리보는 미쉐린 2024! 5, 6월 선공개 맛집]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78639</link>
-            <guid>https://www.esquirekorea.co.kr/article/78639</guid>
-            <pubDate>Thu, 29 Jun 2023 15:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[프렌치 다이닝부터 일식 그릴 마스터가 운영하는 오마카세까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/25/1f588d05-7dd8-49ad-a893-c166816243a0.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/food</id>
+    <title>에스콰이어 코리아 ─ 푸드</title>
+    <updated>2023-07-02T03:33:02.010Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Part2. 새벽 2시에 배가 출출할 때 가기 좋은 식당들_강남&논현편]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78818</id>
+        <link href="https://www.esquirekorea.co.kr/article/78818"/>
+        <updated>2023-06-30T15:20:15.758Z</updated>
+        <content type="html"><![CDATA[팬데믹이 빼앗아간 여러 가지 중 가장 안타까운 건 사라져버린 막차 가게들이다. 동이 트는 걸...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part1. 새벽 2시에 배가 출출할 때 가기 좋은 식당들_홍대편]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78684</id>
+        <link href="https://www.esquirekorea.co.kr/article/78684"/>
+        <updated>2023-06-30T15:20:15.758Z</updated>
+        <content type="html"><![CDATA[팬데믹이 빼앗아간 여러 가지 중 가장 안타까운 건 사라져버린 막차 가게들이다. 동이 트는 걸...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 백김치찌개 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78814</id>
+        <link href="https://www.esquirekorea.co.kr/article/78814"/>
+        <updated>2023-06-30T09:20:24.036Z</updated>
+        <content type="html"><![CDATA[서울에서 4곳 밖에 없는 백김치찌개 맛집을 소개한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외부인 출입가능, 대학교 학식 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78813</id>
+        <link href="https://www.esquirekorea.co.kr/article/78813"/>
+        <updated>2023-06-29T15:22:09.806Z</updated>
+        <content type="html"><![CDATA[서울 인근 직장인들에게 가성비 맛집으로 소문난 학식 맛집을 소개한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그림 같은 풀빌라, 온전한 휴식! 꿈꾸던 휴양지 베트남 퀴논 VLOG]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78768</id>
+        <link href="https://www.esquirekorea.co.kr/article/78768"/>
+        <updated>2023-06-29T15:22:09.807Z</updated>
+        <content type="html"><![CDATA[여름 휴가에서 인생 사진을 건질 수 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[콤부차가 뭔지 알지 못하면 제대로 마시기가 어려운 이유]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78676</id>
+        <link href="https://www.esquirekorea.co.kr/article/78676"/>
+        <updated>2023-06-29T15:22:09.821Z</updated>
+        <content type="html"><![CDATA[뭔지 모르면, 마시지 못한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지금 한국의 '빙수 문화'는 어디쯤 와 있을까?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78503</id>
+        <link href="https://www.esquirekorea.co.kr/article/78503"/>
+        <updated>2023-06-29T15:22:09.823Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미리보는 미쉐린 2024! 5, 6월 선공개 맛집]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78639</id>
+        <link href="https://www.esquirekorea.co.kr/article/78639"/>
+        <updated>2023-06-29T15:22:09.826Z</updated>
+        <content type="html"><![CDATA[프렌치 다이닝부터 일식 그릴 마스터가 운영하는 오마카세까지.]]></content>
+    </entry>
+</feed>
