@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 15:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 03:30:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[워터밤 직캠 160만을 기록한 권은비 TMI 12.]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36163828&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36163828&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Mon, 03 Jul 2023 03:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjhfNTUg/MDAxNjg3OTMyNzc3NjAy.Y3YfnA-0Qxe2TWtGeE2K3Xsiu21EhFKzWep4g5zipmog.2Jv0KpwLGOdpYWLayzUGEVTxnPAfUUjIeHi_I4ztubkg.JPEG/Ih09BBPsZgTLGh8GuGv_1xp_2IEU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘범죄도시3’ 미남 빌런 이준혁 TMI 12]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36093153&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 23 Jun 2023 09:21:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MzFfMjgx/MDAxNjUzOTgzNDg1NzU2.oZvbCMF25C-6BQVQ0MX3StXVKY7x-zOf3HamyTIlAcAg.jcTo3I9ZdOdltbSRR5KUPBdlg_QFujyE2gJBGZxV198g.JPEG/ICG3rs4oSVvI7iYbnH_saJprAgMM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드롱기, 도슨트의 오감을 깨우다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33502359&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33502359&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Fri, 23 Jun 2023 09:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAzMjNfMTA3/MDAxNjQ4MDI1OTMyODkz._aCSjm-xU5ATxxC2UL_Y3XGKUa6RR7ovAU55DF56Pncg.ndP-Suugu4_Ktj1Qby4IdAzDQOiWz5-SCTw9mKnKIVwg.JPEG/Iw8To9uwSoWRzjKDv2fKrJha-nI0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

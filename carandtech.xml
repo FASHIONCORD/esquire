@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/carandtech</id>
     <title>에스콰이어 코리아 ─ 카&amp;테크</title>
-    <updated>2023-07-02T15:20:05.610Z</updated>
+    <updated>2023-07-03T03:30:03.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[포르쉐가 전기 요트를 만들면 어떤 모습?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78674</id>
+        <link href="https://www.esquirekorea.co.kr/article/78674"/>
+        <updated>2023-07-03T03:29:04.921Z</updated>
+        <content type="html"><![CDATA[오스트리아 조선소 '프라우셔'와 손잡고 2024년 전기 요트를 한정 출시한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쇼핑도 하고 심장 건강도 체크하는 시대]]></title>
         <id>https://www.esquirekorea.co.kr/article/78643</id>
@@ -53,12 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/78441"/>
         <updated>2023-06-22T09:18:02.262Z</updated>
         <content type="html"><![CDATA[저렴한 배달비와 함께.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비틀즈, AI로 완성된 마지막 곡 발매 예정]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78364</id>
-        <link href="https://www.esquirekorea.co.kr/article/78364"/>
-        <updated>2023-06-22T09:18:02.264Z</updated>
-        <content type="html"><![CDATA[AI 기술을 통해 '존 레논'의 목소리를 담아냈다.]]></content>
     </entry>
 </feed>
