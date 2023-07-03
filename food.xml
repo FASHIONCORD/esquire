@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/food</id>
     <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2023-07-03T09:24:32.073Z</updated>
+    <updated>2023-07-03T15:25:29.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Part4. 새벽 2시에 배가 출출할 때 가기 좋은 식당들_신사&압구정편]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78815</id>
+        <link href="https://www.esquirekorea.co.kr/article/78815"/>
+        <updated>2023-07-03T15:24:21.521Z</updated>
+        <content type="html"><![CDATA[팬데믹이 빼앗아간 여러 가지 중 가장 안타까운 건 사라져버린 막차 가게들이다. 동이 트는 걸...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Part2. 새벽 2시에 배가 출출할 때 가기 좋은 식당들_강남&논현편]]></title>
         <id>https://www.esquirekorea.co.kr/article/78818</id>
@@ -52,12 +59,5 @@
         <id>https://www.esquirekorea.co.kr/article/78503</id>
         <link href="https://www.esquirekorea.co.kr/article/78503"/>
         <updated>2023-06-29T15:22:09.823Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미리보는 미쉐린 2024! 5, 6월 선공개 맛집]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78639</id>
-        <link href="https://www.esquirekorea.co.kr/article/78639"/>
-        <updated>2023-06-29T15:22:09.826Z</updated>
-        <content type="html"><![CDATA[프렌치 다이닝부터 일식 그릴 마스터가 운영하는 오마카세까지.]]></content>
     </entry>
 </feed>
