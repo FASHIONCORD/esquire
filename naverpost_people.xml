@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 15:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 03:33:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박서준과 열애설? 수스 TMI12.]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36164006&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36164006&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Tue, 04 Jul 2023 03:31:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjhfNCAg/MDAxNjg3OTMzOTkwMDQw.2Z4EWeqNnOHUWuzzcOhFAYusvo0OEvq9UQVcyIEJC-Ig.R-JSc-eZ05IEN_ueyLu_RMljWX63Dj3AyFhSY08lTl8g.JPEG/IYaIoAmFVfPekjEufXF8ir4hg1_Y.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[워터밤 직캠 160만을 기록한 권은비 TMI 12.]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36163828&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 23 Jun 2023 09:21:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjBfMjIx/MDAxNjU1NzA1MzYxODI0.IK-Wdx7_W8PvkkgeU5I9OFJEiidZUkieuzaOCKbv-b0g.PmrKlyNSh-yQPQ0Ciq6ocHuAqvIGipIciwIoaB-fNQYg.JPEG/IgWs55MmlP2SMDRerxyJ-PC1B-uM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“추앙한다” 손석구에 대해 몰랐던 사실 12]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33889125&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33889125&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Fri, 23 Jun 2023 09:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MzFfMjgx/MDAxNjUzOTgzNDg1NzU2.oZvbCMF25C-6BQVQ0MX3StXVKY7x-zOf3HamyTIlAcAg.jcTo3I9ZdOdltbSRR5KUPBdlg_QFujyE2gJBGZxV198g.JPEG/ICG3rs4oSVvI7iYbnH_saJprAgMM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
