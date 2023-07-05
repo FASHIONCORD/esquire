@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/food</id>
     <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2023-07-05T03:32:43.161Z</updated>
+    <updated>2023-07-05T09:24:51.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Part3. 새벽 2시에 배가 출출할 때 가기 좋은 식당들_이태원편]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78817</id>
+        <link href="https://www.esquirekorea.co.kr/article/78817"/>
+        <updated>2023-07-05T09:23:43.155Z</updated>
+        <content type="html"><![CDATA[팬데믹이 빼앗아간 여러 가지 중 가장 안타까운 건 사라져버린 막차 가게들이다. 동이 트는 걸...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Part4. 새벽 2시에 배가 출출할 때 가기 좋은 식당들_신사&압구정편]]></title>
         <id>https://www.esquirekorea.co.kr/article/78815</id>
@@ -53,11 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/78676"/>
         <updated>2023-06-29T15:22:09.821Z</updated>
         <content type="html"><![CDATA[뭔지 모르면, 마시지 못한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금 한국의 '빙수 문화'는 어디쯤 와 있을까?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78503</id>
-        <link href="https://www.esquirekorea.co.kr/article/78503"/>
-        <updated>2023-06-29T15:22:09.823Z</updated>
     </entry>
 </feed>
