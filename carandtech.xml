@@ -1,74 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 카&amp;테크</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 09:24:51 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[당신의 일상을 한 차원 산뜻하게 만들어줄 뱅앤올룹슨과 다이슨의 신제품]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78774</link>
-            <guid>https://www.esquirekorea.co.kr/article/78774</guid>
-            <pubDate>Wed, 05 Jul 2023 09:23:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/9780992a-02fd-4265-9ef4-085faeab74b3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 지휘자가 무대에 서는 공연?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78761</link>
-            <guid>https://www.esquirekorea.co.kr/article/78761</guid>
-            <pubDate>Mon, 03 Jul 2023 09:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[공연은 30일 국립극장에서 열린다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/5c925c27-aa3b-4180-9592-f103dcd7011b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포르쉐가 전기 요트를 만들면 어떤 모습?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78674</link>
-            <guid>https://www.esquirekorea.co.kr/article/78674</guid>
-            <pubDate>Mon, 03 Jul 2023 03:29:04 GMT</pubDate>
-            <content:encoded><![CDATA[오스트리아 조선소 '프라우셔'와 손잡고 2024년 전기 요트를 한정 출시한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/6913debc-78ba-4bff-9009-16565da6e9c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼핑도 하고 심장 건강도 체크하는 시대]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78643</link>
-            <guid>https://www.esquirekorea.co.kr/article/78643</guid>
-            <pubDate>Sun, 02 Jul 2023 03:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[쇼핑카트에 손만 올리면 된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/25/fb5be9c2-c9bb-4900-804a-b3711c15cd2b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램, 릴스 저장 기능 도입]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78567</link>
-            <guid>https://www.esquirekorea.co.kr/article/78567</guid>
-            <pubDate>Sun, 02 Jul 2023 03:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[공개 계정의 릴스를 자유롭게 저장할 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/b7f4d685-0e75-4df3-87f6-0f215acd90e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포르쉐, 75주년 기념 엑스박스와 협업 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78565</link>
-            <guid>https://www.esquirekorea.co.kr/article/78565</guid>
-            <pubDate>Wed, 28 Jun 2023 15:27:42 GMT</pubDate>
-            <content:encoded><![CDATA[75개 한정으로 추첨을 통해 제공.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/22/003e562d-df76-424e-9d87-47c85c795eb3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명동역에서 남산까지 가는 곤돌라가 생긴다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78488</link>
-            <guid>https://www.esquirekorea.co.kr/article/78488</guid>
-            <pubDate>Wed, 28 Jun 2023 09:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[5~6분이면 정상에 도착할 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/da1e107a-a044-4571-9461-c3c74e97dbdc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거대 수상 도시 '도겐 시티']]></title>
-            <link>https://www.esquirekorea.co.kr/article/78487</link>
-            <guid>https://www.esquirekorea.co.kr/article/78487</guid>
-            <pubDate>Mon, 26 Jun 2023 15:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[전쟁, 자연재해 발생 시 비상 대피소로 사용할 수도 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/6c32392e-3a5a-413d-8659-f489e6db108f.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/carandtech</id>
+    <title>에스콰이어 코리아 ─ 카&amp;테크</title>
+    <updated>2023-07-05T15:25:30.624Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[당신의 일상을 한 차원 산뜻하게 만들어줄 뱅앤올룹슨과 다이슨의 신제품]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78774</id>
+        <link href="https://www.esquirekorea.co.kr/article/78774"/>
+        <updated>2023-07-05T09:23:32.940Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 지휘자가 무대에 서는 공연?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78761</id>
+        <link href="https://www.esquirekorea.co.kr/article/78761"/>
+        <updated>2023-07-03T09:23:09.208Z</updated>
+        <content type="html"><![CDATA[공연은 30일 국립극장에서 열린다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포르쉐가 전기 요트를 만들면 어떤 모습?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78674</id>
+        <link href="https://www.esquirekorea.co.kr/article/78674"/>
+        <updated>2023-07-03T03:29:04.921Z</updated>
+        <content type="html"><![CDATA[오스트리아 조선소 '프라우셔'와 손잡고 2024년 전기 요트를 한정 출시한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쇼핑도 하고 심장 건강도 체크하는 시대]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78643</id>
+        <link href="https://www.esquirekorea.co.kr/article/78643"/>
+        <updated>2023-07-02T03:31:43.436Z</updated>
+        <content type="html"><![CDATA[쇼핑카트에 손만 올리면 된다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인스타그램, 릴스 저장 기능 도입]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78567</id>
+        <link href="https://www.esquirekorea.co.kr/article/78567"/>
+        <updated>2023-07-02T03:31:43.447Z</updated>
+        <content type="html"><![CDATA[공개 계정의 릴스를 자유롭게 저장할 수 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포르쉐, 75주년 기념 엑스박스와 협업 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78565</id>
+        <link href="https://www.esquirekorea.co.kr/article/78565"/>
+        <updated>2023-06-28T15:27:42.553Z</updated>
+        <content type="html"><![CDATA[75개 한정으로 추첨을 통해 제공.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[명동역에서 남산까지 가는 곤돌라가 생긴다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78488</id>
+        <link href="https://www.esquirekorea.co.kr/article/78488"/>
+        <updated>2023-06-28T09:22:35.375Z</updated>
+        <content type="html"><![CDATA[5~6분이면 정상에 도착할 수 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거대 수상 도시 '도겐 시티']]></title>
+        <id>https://www.esquirekorea.co.kr/article/78487</id>
+        <link href="https://www.esquirekorea.co.kr/article/78487"/>
+        <updated>2023-06-26T15:20:32.764Z</updated>
+        <content type="html"><![CDATA[전쟁, 자연재해 발생 시 비상 대피소로 사용할 수도 있다.]]></content>
+    </entry>
+</feed>
