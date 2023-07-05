@@ -1,73 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 스타일</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 15:24:30 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[드디어 문을 연 조던 월드 오브 플라이트 서울 홍대]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78618</link>
-            <guid>https://www.esquirekorea.co.kr/article/78618</guid>
-            <pubDate>Mon, 03 Jul 2023 15:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[밀라노, 도쿄에 이은 전세계 3번째 매장이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/d5bfb439-c0cb-45d1-998c-3045ac742a5b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디올 2024 서머 맨즈 컬렉션 생중계]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78526</link>
-            <guid>https://www.esquirekorea.co.kr/article/78526</guid>
-            <pubDate>Fri, 30 Jun 2023 09:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[한국시간으로 6월 23일 금요일 오후 10시, 파리 현지에서 열리는 킴 존스의 SUMMER 2024 ME...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/40df1074-744d-4f87-9bf4-744edb50dad0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강아지가 물어뜯지 못하는 샌들?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78464</link>
-            <guid>https://www.esquirekorea.co.kr/article/78464</guid>
-            <pubDate>Wed, 28 Jun 2023 03:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[세계에서 가장 쓴 소재로 제작.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/19/3d55497a-cd8f-402c-bd2c-54be8add2224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청명한 여름을 위한 형형색색 슬라이드 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78379</link>
-            <guid>https://www.esquirekorea.co.kr/article/78379</guid>
-            <pubDate>Wed, 28 Jun 2023 03:29:58 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/15/d6b3852b-5c79-4618-a166-32c5f404e33f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[형형색색 아름다운 한보름과 에스투파]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78347</link>
-            <guid>https://www.esquirekorea.co.kr/article/78347</guid>
-            <pubDate>Sun, 25 Jun 2023 15:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[이들의 화보는 에스콰이어 7월호에 담긴다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/14/1844b483-0791-4914-9e00-50419140be1c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스투파와 한보름이 완성한 싱그러운 여름]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78343</link>
-            <guid>https://www.esquirekorea.co.kr/article/78343</guid>
-            <pubDate>Fri, 23 Jun 2023 09:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[영상은 에스콰이어 유튜브 채널에서도 만날 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/63fcedc7-fad9-47ab-b4a7-c245d5f4a25e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태양을 마주보는 방법]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78177</link>
-            <guid>https://www.esquirekorea.co.kr/article/78177</guid>
-            <pubDate>Fri, 23 Jun 2023 03:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[여름 햇살 아래서도 든든한 선케어 제품 12.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/13/ce7b2ed0-bb02-4ab9-a618-80add079cf8e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛의 색, 네온의 파장]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78291</link>
-            <guid>https://www.esquirekorea.co.kr/article/78291</guid>
-            <pubDate>Mon, 19 Jun 2023 09:19:35 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/589a4a88-e725-44ea-9f4f-3680ad71aac7.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/style</id>
+    <title>에스콰이어 코리아 ─ 스타일</title>
+    <updated>2023-07-05T03:32:43.141Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드디어 문을 연 조던 월드 오브 플라이트 서울 홍대]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78618</id>
+        <link href="https://www.esquirekorea.co.kr/article/78618"/>
+        <updated>2023-07-03T15:23:54.641Z</updated>
+        <content type="html"><![CDATA[밀라노, 도쿄에 이은 전세계 3번째 매장이다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디올 2024 서머 맨즈 컬렉션 생중계]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78526</id>
+        <link href="https://www.esquirekorea.co.kr/article/78526"/>
+        <updated>2023-06-30T09:19:44.662Z</updated>
+        <content type="html"><![CDATA[한국시간으로 6월 23일 금요일 오후 10시, 파리 현지에서 열리는 킴 존스의 SUMMER 2024 ME...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강아지가 물어뜯지 못하는 샌들?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78464</id>
+        <link href="https://www.esquirekorea.co.kr/article/78464"/>
+        <updated>2023-06-28T03:29:58.233Z</updated>
+        <content type="html"><![CDATA[세계에서 가장 쓴 소재로 제작.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청명한 여름을 위한 형형색색 슬라이드 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78379</id>
+        <link href="https://www.esquirekorea.co.kr/article/78379"/>
+        <updated>2023-06-28T03:29:58.236Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[형형색색 아름다운 한보름과 에스투파]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78347</id>
+        <link href="https://www.esquirekorea.co.kr/article/78347"/>
+        <updated>2023-06-25T15:23:58.512Z</updated>
+        <content type="html"><![CDATA[이들의 화보는 에스콰이어 7월호에 담긴다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에스투파와 한보름이 완성한 싱그러운 여름]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78343</id>
+        <link href="https://www.esquirekorea.co.kr/article/78343"/>
+        <updated>2023-06-23T09:21:42.813Z</updated>
+        <content type="html"><![CDATA[영상은 에스콰이어 유튜브 채널에서도 만날 수 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태양을 마주보는 방법]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78177</id>
+        <link href="https://www.esquirekorea.co.kr/article/78177"/>
+        <updated>2023-06-23T03:36:11.641Z</updated>
+        <content type="html"><![CDATA[여름 햇살 아래서도 든든한 선케어 제품 12.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빛의 색, 네온의 파장]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78291</id>
+        <link href="https://www.esquirekorea.co.kr/article/78291"/>
+        <updated>2023-06-19T09:19:35.610Z</updated>
+    </entry>
+</feed>
