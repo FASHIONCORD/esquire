@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-07-05T15:25:30.593Z</updated>
+    <updated>2023-07-06T03:33:05.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뻔한 여행지가 아니다, <에스콰이어>가 추천하는 나이대별 여행지 9곳]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78508</id>
+        <link href="https://www.esquirekorea.co.kr/article/78508"/>
+        <updated>2023-07-06T03:32:40.425Z</updated>
+        <content type="html"><![CDATA[몇 살이 되었든 간에, 여행은 스스로에게 줄 수 있는 최고의 선물이다. &lt;에스콰이어&gt;는 나이대별...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4년 만에 열리는 '2023 물총축제']]></title>
         <id>https://www.esquirekorea.co.kr/article/78854</id>
@@ -52,12 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/78837"/>
         <updated>2023-07-01T03:35:00.151Z</updated>
         <content type="html"><![CDATA[올 여름엔 살얼음 동동 머리까지 시원해지는 냉칼국수 한 그릇 어때요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9월 첫 내한 공연하는 포스트 말론]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78827</id>
-        <link href="https://www.esquirekorea.co.kr/article/78827"/>
-        <updated>2023-06-30T15:20:28.140Z</updated>
-        <content type="html"><![CDATA[공연 일정은 9월 23일.]]></content>
     </entry>
 </feed>
