@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/food</id>
-    <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2023-07-06T03:33:05.915Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[여름 별미 쫄깃한 냉칼국수 맛집 5]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78837</id>
-        <link href="https://www.esquirekorea.co.kr/article/78837"/>
-        <updated>2023-07-06T03:32:30.710Z</updated>
-        <content type="html"><![CDATA[올 여름엔 살얼음 동동 머리까지 시원해지는 냉칼국수 한 그릇 어때요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part3. 새벽 2시에 배가 출출할 때 가기 좋은 식당들_이태원편]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78817</id>
-        <link href="https://www.esquirekorea.co.kr/article/78817"/>
-        <updated>2023-07-05T09:23:43.155Z</updated>
-        <content type="html"><![CDATA[팬데믹이 빼앗아간 여러 가지 중 가장 안타까운 건 사라져버린 막차 가게들이다. 동이 트는 걸...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part4. 새벽 2시에 배가 출출할 때 가기 좋은 식당들_신사&압구정편]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78815</id>
-        <link href="https://www.esquirekorea.co.kr/article/78815"/>
-        <updated>2023-07-03T15:24:21.521Z</updated>
-        <content type="html"><![CDATA[팬데믹이 빼앗아간 여러 가지 중 가장 안타까운 건 사라져버린 막차 가게들이다. 동이 트는 걸...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part2. 새벽 2시에 배가 출출할 때 가기 좋은 식당들_강남&논현편]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78818</id>
-        <link href="https://www.esquirekorea.co.kr/article/78818"/>
-        <updated>2023-06-30T15:20:15.758Z</updated>
-        <content type="html"><![CDATA[팬데믹이 빼앗아간 여러 가지 중 가장 안타까운 건 사라져버린 막차 가게들이다. 동이 트는 걸...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part1. 새벽 2시에 배가 출출할 때 가기 좋은 식당들_홍대편]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78684</id>
-        <link href="https://www.esquirekorea.co.kr/article/78684"/>
-        <updated>2023-06-30T15:20:15.758Z</updated>
-        <content type="html"><![CDATA[팬데믹이 빼앗아간 여러 가지 중 가장 안타까운 건 사라져버린 막차 가게들이다. 동이 트는 걸...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 백김치찌개 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78814</id>
-        <link href="https://www.esquirekorea.co.kr/article/78814"/>
-        <updated>2023-06-30T09:20:24.036Z</updated>
-        <content type="html"><![CDATA[서울에서 4곳 밖에 없는 백김치찌개 맛집을 소개한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외부인 출입가능, 대학교 학식 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78813</id>
-        <link href="https://www.esquirekorea.co.kr/article/78813"/>
-        <updated>2023-06-29T15:22:09.806Z</updated>
-        <content type="html"><![CDATA[서울 인근 직장인들에게 가성비 맛집으로 소문난 학식 맛집을 소개한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그림 같은 풀빌라, 온전한 휴식! 꿈꾸던 휴양지 베트남 퀴논 VLOG]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78768</id>
-        <link href="https://www.esquirekorea.co.kr/article/78768"/>
-        <updated>2023-06-29T15:22:09.807Z</updated>
-        <content type="html"><![CDATA[여름 휴가에서 인생 사진을 건질 수 있다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 푸드</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 06 Jul 2023 09:22:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김대호 아나운서가 퇴근 후 다녀간 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78849</link>
+            <guid>https://www.esquirekorea.co.kr/article/78849</guid>
+            <pubDate>Thu, 06 Jul 2023 09:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[고독한 대식가 김대호 아나운서가 다녀간 곳은 어디?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/01/bfef3e70-df1d-4a1b-9ab7-1332412c77a2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국식 해물찜 보일링크랩 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78843</link>
+            <guid>https://www.esquirekorea.co.kr/article/78843</guid>
+            <pubDate>Thu, 06 Jul 2023 09:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[하와이에서 맛본 보일링크랩, 서울과 제주에서 찾은 미국 해물요리 바닷가재 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/bc0aace6-ca80-47e6-aa8d-7a341f61d4c6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여름 별미 쫄깃한 냉칼국수 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78837</link>
+            <guid>https://www.esquirekorea.co.kr/article/78837</guid>
+            <pubDate>Thu, 06 Jul 2023 03:32:30 GMT</pubDate>
+            <content:encoded><![CDATA[올 여름엔 살얼음 동동 머리까지 시원해지는 냉칼국수 한 그릇 어때요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/6ec3501e-64eb-4427-91dc-9778b1f2b1cb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part3. 새벽 2시에 배가 출출할 때 가기 좋은 식당들_이태원편]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78817</link>
+            <guid>https://www.esquirekorea.co.kr/article/78817</guid>
+            <pubDate>Wed, 05 Jul 2023 09:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹이 빼앗아간 여러 가지 중 가장 안타까운 건 사라져버린 막차 가게들이다. 동이 트는 걸...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/01b3f1c8-29ce-4695-843e-b9ed13504b64.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part4. 새벽 2시에 배가 출출할 때 가기 좋은 식당들_신사&압구정편]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78815</link>
+            <guid>https://www.esquirekorea.co.kr/article/78815</guid>
+            <pubDate>Mon, 03 Jul 2023 15:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹이 빼앗아간 여러 가지 중 가장 안타까운 건 사라져버린 막차 가게들이다. 동이 트는 걸...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/1074b688-f5a9-412d-9573-3368228cb965.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part2. 새벽 2시에 배가 출출할 때 가기 좋은 식당들_강남&논현편]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78818</link>
+            <guid>https://www.esquirekorea.co.kr/article/78818</guid>
+            <pubDate>Fri, 30 Jun 2023 15:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹이 빼앗아간 여러 가지 중 가장 안타까운 건 사라져버린 막차 가게들이다. 동이 트는 걸...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/2865dca8-eb0a-4dc3-8207-b8963bb8b844.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part1. 새벽 2시에 배가 출출할 때 가기 좋은 식당들_홍대편]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78684</link>
+            <guid>https://www.esquirekorea.co.kr/article/78684</guid>
+            <pubDate>Fri, 30 Jun 2023 15:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹이 빼앗아간 여러 가지 중 가장 안타까운 건 사라져버린 막차 가게들이다. 동이 트는 걸...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/eb79ed32-1d65-40ab-b72a-dd465107225f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 백김치찌개 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78814</link>
+            <guid>https://www.esquirekorea.co.kr/article/78814</guid>
+            <pubDate>Fri, 30 Jun 2023 09:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[서울에서 4곳 밖에 없는 백김치찌개 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/0e2f45d6-f69e-4ad7-a432-9cf499ac3f7f.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
