@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-07-07T03:31:20.042Z</updated>
+    <updated>2023-07-07T09:21:46.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하트시그널 음악감독 박철환이 휴식할 때 듣는 음악 리스트]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78846</id>
+        <link href="https://www.esquirekorea.co.kr/article/78846"/>
+        <updated>2023-07-07T09:21:22.797Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오징어 게임2' 새로운 캐스팅 라인업 공개]]></title>
         <id>https://www.esquirekorea.co.kr/article/78778</id>
@@ -53,12 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/78499"/>
         <updated>2023-06-28T15:28:24.161Z</updated>
         <content type="html"><![CDATA[김남희는 스스로가 원래의 자신 같지 않은 사람으로 보이는 건 싫다고 했다. 근사해 보이든, 따...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박서준과 열애설? 수스 TMI12.]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78572</id>
-        <link href="https://www.esquirekorea.co.kr/article/78572"/>
-        <updated>2023-06-26T15:21:00.856Z</updated>
-        <content type="html"><![CDATA[기안84가 수스에게 장난으로 열애설 콘텐츠를 권유했다고?]]></content>
     </entry>
 </feed>
