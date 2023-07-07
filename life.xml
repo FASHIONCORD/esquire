@@ -1,62 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/life</id>
-    <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-07-06T15:23:38.968Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA['나혼산' 팜유즈가 다녀간 목포 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78943</id>
-        <link href="https://www.esquirekorea.co.kr/article/78943"/>
-        <updated>2023-07-06T15:23:02.501Z</updated>
-        <content type="html"><![CDATA[진정한 목포의 맛을 찾아서.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<나는 솔로>와 <하트시그널> 사이의 거리]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78930</id>
-        <link href="https://www.esquirekorea.co.kr/article/78930"/>
-        <updated>2023-07-06T15:23:02.520Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[귀촌을 꿈꾸는 당신이 반드시 알아야 할 것]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78502</id>
-        <link href="https://www.esquirekorea.co.kr/article/78502"/>
-        <updated>2023-07-06T15:23:02.523Z</updated>
-        <content type="html"><![CDATA[귀향은 고향으로, 귀농은 농업으로, 귀촌은 시골로 돌아가는 것이다. 하지만 세 단어에는 ‘도시...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 인터넷 속도는 계속 느려지는 걸까?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78859</id>
-        <link href="https://www.esquirekorea.co.kr/article/78859"/>
-        <updated>2023-07-06T09:21:56.882Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뻔한 여행지가 아니다, <에스콰이어>가 추천하는 나이대별 여행지 9곳]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78508</id>
-        <link href="https://www.esquirekorea.co.kr/article/78508"/>
-        <updated>2023-07-06T03:32:40.425Z</updated>
-        <content type="html"><![CDATA[몇 살이 되었든 간에, 여행은 스스로에게 줄 수 있는 최고의 선물이다. &lt;에스콰이어&gt;는 나이대별...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4년 만에 열리는 '2023 물총축제']]></title>
-        <id>https://www.esquirekorea.co.kr/article/78854</id>
-        <link href="https://www.esquirekorea.co.kr/article/78854"/>
-        <updated>2023-07-05T09:23:51.782Z</updated>
-        <content type="html"><![CDATA[오는 7월 5일부터 위메프에서 사전 예매를 시작한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마리오 보타의 영혼이 담긴 남양성모성지 대성당을 찾았다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78700</id>
-        <link href="https://www.esquirekorea.co.kr/article/78700"/>
-        <updated>2023-07-04T15:23:53.912Z</updated>
-        <content type="html"><![CDATA[마리오 보타와 조각가 줄리아노 반지의 영혼이 담긴 남양성모성지 성모 마리아 대성당을 찾았다....]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<에스콰이어> 에디터들이 추천하는 7월의 책]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78850</id>
-        <link href="https://www.esquirekorea.co.kr/article/78850"/>
-        <updated>2023-07-03T15:24:46.954Z</updated>
-        <content type="html"><![CDATA[중쇄를 거듭해 더 많은 사람이 읽었으면 하는 책들을 &lt;에스콰이어&gt; 에디터들이 골랐다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 07 Jul 2023 03:31:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['나혼산' 팜유즈가 다녀간 목포 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78943</link>
+            <guid>https://www.esquirekorea.co.kr/article/78943</guid>
+            <pubDate>Thu, 06 Jul 2023 15:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[진정한 목포의 맛을 찾아서.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[<나는 솔로>와 <하트시그널> 사이의 거리]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78930</link>
+            <guid>https://www.esquirekorea.co.kr/article/78930</guid>
+            <pubDate>Thu, 06 Jul 2023 15:23:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[귀촌을 꿈꾸는 당신이 반드시 알아야 할 것]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78502</link>
+            <guid>https://www.esquirekorea.co.kr/article/78502</guid>
+            <pubDate>Thu, 06 Jul 2023 15:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[귀향은 고향으로, 귀농은 농업으로, 귀촌은 시골로 돌아가는 것이다. 하지만 세 단어에는 ‘도시...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[왜 인터넷 속도는 계속 느려지는 걸까?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78859</link>
+            <guid>https://www.esquirekorea.co.kr/article/78859</guid>
+            <pubDate>Thu, 06 Jul 2023 09:21:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[뻔한 여행지가 아니다, <에스콰이어>가 추천하는 나이대별 여행지 9곳]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78508</link>
+            <guid>https://www.esquirekorea.co.kr/article/78508</guid>
+            <pubDate>Thu, 06 Jul 2023 03:32:40 GMT</pubDate>
+            <content:encoded><![CDATA[몇 살이 되었든 간에, 여행은 스스로에게 줄 수 있는 최고의 선물이다. &lt;에스콰이어&gt;는 나이대별...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[4년 만에 열리는 '2023 물총축제']]></title>
+            <link>https://www.esquirekorea.co.kr/article/78854</link>
+            <guid>https://www.esquirekorea.co.kr/article/78854</guid>
+            <pubDate>Wed, 05 Jul 2023 09:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[오는 7월 5일부터 위메프에서 사전 예매를 시작한다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마리오 보타의 영혼이 담긴 남양성모성지 대성당을 찾았다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78700</link>
+            <guid>https://www.esquirekorea.co.kr/article/78700</guid>
+            <pubDate>Tue, 04 Jul 2023 15:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[마리오 보타와 조각가 줄리아노 반지의 영혼이 담긴 남양성모성지 성모 마리아 대성당을 찾았다....]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[<에스콰이어> 에디터들이 추천하는 7월의 책]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78850</link>
+            <guid>https://www.esquirekorea.co.kr/article/78850</guid>
+            <pubDate>Mon, 03 Jul 2023 15:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[중쇄를 거듭해 더 많은 사람이 읽었으면 하는 책들을 &lt;에스콰이어&gt; 에디터들이 골랐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/e0a48b32-cc92-453d-a82b-7a6e7de0f540.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
