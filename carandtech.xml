@@ -1,62 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/carandtech</id>
-    <title>에스콰이어 코리아 ─ 카&amp;테크</title>
-    <updated>2023-07-10T03:34:40.928Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[레고, 1961 쉐보레 콜벳 신제품 공개]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78884</id>
-        <link href="https://www.esquirekorea.co.kr/article/78884"/>
-        <updated>2023-07-10T03:33:30.046Z</updated>
-        <content type="html"><![CDATA[콜벳의 70주년을 기념한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 인터넷 속도는 계속 느려지는 걸까?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78859</id>
-        <link href="https://www.esquirekorea.co.kr/article/78859"/>
-        <updated>2023-07-09T15:20:23.535Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI가 그린 페라리 리무진은 어떻게 생겼을까?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78590</id>
-        <link href="https://www.esquirekorea.co.kr/article/78590"/>
-        <updated>2023-07-07T15:22:38.881Z</updated>
-        <content type="html"><![CDATA[&lt;에스콰이어&gt;가 이미지 생성 AI 미드저니를 활용해 이 세상에 존재하지 않는 9대의 차를 만들었...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디아블로 마니아라면 주목!]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78855</id>
-        <link href="https://www.esquirekorea.co.kr/article/78855"/>
-        <updated>2023-07-07T03:30:14.062Z</updated>
-        <content type="html"><![CDATA[게임을 즐기는 것만으론 만족할 수 없는 진성 디아블로 팬을 위하여.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신의 일상을 한 차원 산뜻하게 만들어줄 뱅앤올룹슨과 다이슨의 신제품]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78774</id>
-        <link href="https://www.esquirekorea.co.kr/article/78774"/>
-        <updated>2023-07-05T09:23:32.940Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 지휘자가 무대에 서는 공연?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78761</id>
-        <link href="https://www.esquirekorea.co.kr/article/78761"/>
-        <updated>2023-07-03T09:23:09.208Z</updated>
-        <content type="html"><![CDATA[공연은 30일 국립극장에서 열린다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포르쉐가 전기 요트를 만들면 어떤 모습?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78674</id>
-        <link href="https://www.esquirekorea.co.kr/article/78674"/>
-        <updated>2023-07-03T03:29:04.921Z</updated>
-        <content type="html"><![CDATA[오스트리아 조선소 '프라우셔'와 손잡고 2024년 전기 요트를 한정 출시한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼핑도 하고 심장 건강도 체크하는 시대]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78643</id>
-        <link href="https://www.esquirekorea.co.kr/article/78643"/>
-        <updated>2023-07-02T03:31:43.436Z</updated>
-        <content type="html"><![CDATA[쇼핑카트에 손만 올리면 된다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 카&amp;테크</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 10 Jul 2023 15:22:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레고, 1961 쉐보레 콜벳 신제품 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78884</link>
+            <guid>https://www.esquirekorea.co.kr/article/78884</guid>
+            <pubDate>Mon, 10 Jul 2023 03:33:30 GMT</pubDate>
+            <content:encoded><![CDATA[콜벳의 70주년을 기념한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/010622a2-7586-4085-a1d7-78a3cb41abec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[왜 인터넷 속도는 계속 느려지는 걸까?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78859</link>
+            <guid>https://www.esquirekorea.co.kr/article/78859</guid>
+            <pubDate>Sun, 09 Jul 2023 15:20:23 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/4bec5a6c-e161-4d50-9f39-40050c174638.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI가 그린 페라리 리무진은 어떻게 생겼을까?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78590</link>
+            <guid>https://www.esquirekorea.co.kr/article/78590</guid>
+            <pubDate>Fri, 07 Jul 2023 15:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;에스콰이어&gt;가 이미지 생성 AI 미드저니를 활용해 이 세상에 존재하지 않는 9대의 차를 만들었...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/02/2713c018-1cb2-4822-aa3d-56aee81ea6ff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디아블로 마니아라면 주목!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78855</link>
+            <guid>https://www.esquirekorea.co.kr/article/78855</guid>
+            <pubDate>Fri, 07 Jul 2023 03:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[게임을 즐기는 것만으론 만족할 수 없는 진성 디아블로 팬을 위하여.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/02/8f468669-4bba-4b2f-b4ea-dead15543c42.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신의 일상을 한 차원 산뜻하게 만들어줄 뱅앤올룹슨과 다이슨의 신제품]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78774</link>
+            <guid>https://www.esquirekorea.co.kr/article/78774</guid>
+            <pubDate>Wed, 05 Jul 2023 09:23:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/9780992a-02fd-4265-9ef4-085faeab74b3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI 지휘자가 무대에 서는 공연?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78761</link>
+            <guid>https://www.esquirekorea.co.kr/article/78761</guid>
+            <pubDate>Mon, 03 Jul 2023 09:23:09 GMT</pubDate>
+            <content:encoded><![CDATA[공연은 30일 국립극장에서 열린다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/5c925c27-aa3b-4180-9592-f103dcd7011b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포르쉐가 전기 요트를 만들면 어떤 모습?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78674</link>
+            <guid>https://www.esquirekorea.co.kr/article/78674</guid>
+            <pubDate>Mon, 03 Jul 2023 03:29:04 GMT</pubDate>
+            <content:encoded><![CDATA[오스트리아 조선소 '프라우셔'와 손잡고 2024년 전기 요트를 한정 출시한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/6913debc-78ba-4bff-9009-16565da6e9c6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼핑도 하고 심장 건강도 체크하는 시대]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78643</link>
+            <guid>https://www.esquirekorea.co.kr/article/78643</guid>
+            <pubDate>Sun, 02 Jul 2023 03:31:43 GMT</pubDate>
+            <content:encoded><![CDATA[쇼핑카트에 손만 올리면 된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/25/fb5be9c2-c9bb-4900-804a-b3711c15cd2b.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
