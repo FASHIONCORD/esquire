@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 03:31:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 09:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[술 안주로 별미인 갈비 수육 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79020</link>
+            <guid>https://www.esquirekorea.co.kr/article/79020</guid>
+            <pubDate>Thu, 13 Jul 2023 09:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[뼈대에 붙은 야들야들한 고깃살이 매력인 갈비 수육.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/2e1cee19-9326-417c-aef3-6e15d6b0b7ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[18년 만에 8연승, 한화 이글스 선수들의 대전 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/79006</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 06 Jul 2023 15:22:51 GMT</pubDate>
             <content:encoded><![CDATA[순대국밥, 피자, 베이커리, 디저트 음식 불문. 전국 각지에서 찾은 하루만 맛볼 수 있는 맛집을...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/2302970f-c6be-4419-a321-3ea83f9d6017.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['마이아트뮤지엄' 근처 가볼 곳 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78410</link>
-            <guid>https://www.esquirekorea.co.kr/article/78410</guid>
-            <pubDate>Thu, 06 Jul 2023 15:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[마제소바 맛집부터 무제한 칵테일 바까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/68a8edfa-5ef9-4f6e-8d65-379df9fbb435.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

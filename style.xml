@@ -1,69 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 스타일</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 03:31:59 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[깊은 밤을 위한 모든 의식]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78790</link>
-            <guid>https://www.esquirekorea.co.kr/article/78790</guid>
-            <pubDate>Wed, 12 Jul 2023 15:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[보충제부터 홈 프래그런스, 인핸서까지]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[실버의 계절]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78755</link>
-            <guid>https://www.esquirekorea.co.kr/article/78755</guid>
-            <pubDate>Tue, 11 Jul 2023 09:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[여름의 열기를 압도하는 서늘한 금속성.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[여름을 닮은 리조트 룩]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78791</link>
-            <guid>https://www.esquirekorea.co.kr/article/78791</guid>
-            <pubDate>Mon, 10 Jul 2023 15:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[7월의 바다, 여름을 닮은 리조트 룩.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스니커즈 애호가들이 말하는, 지금 한국의 스니커즈 신에서 가장 흥미로운 지점들]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78702</link>
-            <guid>https://www.esquirekorea.co.kr/article/78702</guid>
-            <pubDate>Fri, 07 Jul 2023 09:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[운동선수를 위한 기능성 제품으로 개발되었으나 이제는 수집의 대상, 패션 아이템의 중심, 심지어...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[밀라노에서 만난 인간 돌체앤가바나 홍태준 화보 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78725</link>
-            <guid>https://www.esquirekorea.co.kr/article/78725</guid>
-            <pubDate>Thu, 06 Jul 2023 15:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[돌체앤가바나 2024 S/S 밀란 패션위크 컬렉션 현장을 찾은 홍태준과 함께 밀라노 밤거리를 거닐...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[프리지아라는 아이콘]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78500</link>
-            <guid>https://www.esquirekorea.co.kr/article/78500</guid>
-            <pubDate>Wed, 05 Jul 2023 15:24:10 GMT</pubDate>
-            <content:encoded><![CDATA[프리지아의 꽃말은 꽃잎의 색에 따라 다르다. 노란색은 천진난만, 흰색은 사려 깊음, 분홍색은 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[드디어 문을 연 조던 월드 오브 플라이트 서울 홍대]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78618</link>
-            <guid>https://www.esquirekorea.co.kr/article/78618</guid>
-            <pubDate>Mon, 03 Jul 2023 15:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[밀라노, 도쿄에 이은 전세계 3번째 매장이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/d5bfb439-c0cb-45d1-998c-3045ac742a5b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디올 2024 서머 맨즈 컬렉션 생중계]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78526</link>
-            <guid>https://www.esquirekorea.co.kr/article/78526</guid>
-            <pubDate>Fri, 30 Jun 2023 09:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[한국시간으로 6월 23일 금요일 오후 10시, 파리 현지에서 열리는 킴 존스의 SUMMER 2024 ME...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/40df1074-744d-4f87-9bf4-744edb50dad0.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/style</id>
+    <title>에스콰이어 코리아 ─ 스타일</title>
+    <updated>2023-07-13T09:20:58.397Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[깊은 밤을 위한 모든 의식]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78790</id>
+        <link href="https://www.esquirekorea.co.kr/article/78790"/>
+        <updated>2023-07-12T15:21:37.626Z</updated>
+        <content type="html"><![CDATA[보충제부터 홈 프래그런스, 인핸서까지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[실버의 계절]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78755</id>
+        <link href="https://www.esquirekorea.co.kr/article/78755"/>
+        <updated>2023-07-11T09:20:07.193Z</updated>
+        <content type="html"><![CDATA[여름의 열기를 압도하는 서늘한 금속성.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여름을 닮은 리조트 룩]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78791</id>
+        <link href="https://www.esquirekorea.co.kr/article/78791"/>
+        <updated>2023-07-10T15:21:13.573Z</updated>
+        <content type="html"><![CDATA[7월의 바다, 여름을 닮은 리조트 룩.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스니커즈 애호가들이 말하는, 지금 한국의 스니커즈 신에서 가장 흥미로운 지점들]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78702</id>
+        <link href="https://www.esquirekorea.co.kr/article/78702"/>
+        <updated>2023-07-07T09:20:22.975Z</updated>
+        <content type="html"><![CDATA[운동선수를 위한 기능성 제품으로 개발되었으나 이제는 수집의 대상, 패션 아이템의 중심, 심지어...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밀라노에서 만난 인간 돌체앤가바나 홍태준 화보 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78725</id>
+        <link href="https://www.esquirekorea.co.kr/article/78725"/>
+        <updated>2023-07-06T15:22:17.576Z</updated>
+        <content type="html"><![CDATA[돌체앤가바나 2024 S/S 밀란 패션위크 컬렉션 현장을 찾은 홍태준과 함께 밀라노 밤거리를 거닐...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프리지아라는 아이콘]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78500</id>
+        <link href="https://www.esquirekorea.co.kr/article/78500"/>
+        <updated>2023-07-05T15:24:10.107Z</updated>
+        <content type="html"><![CDATA[프리지아의 꽃말은 꽃잎의 색에 따라 다르다. 노란색은 천진난만, 흰색은 사려 깊음, 분홍색은 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드디어 문을 연 조던 월드 오브 플라이트 서울 홍대]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78618</id>
+        <link href="https://www.esquirekorea.co.kr/article/78618"/>
+        <updated>2023-07-03T15:23:54.641Z</updated>
+        <content type="html"><![CDATA[밀라노, 도쿄에 이은 전세계 3번째 매장이다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디올 2024 서머 맨즈 컬렉션 생중계]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78526</id>
+        <link href="https://www.esquirekorea.co.kr/article/78526"/>
+        <updated>2023-06-30T09:19:44.662Z</updated>
+        <content type="html"><![CDATA[한국시간으로 6월 23일 금요일 오후 10시, 파리 현지에서 열리는 킴 존스의 SUMMER 2024 ME...]]></content>
+    </entry>
+</feed>
