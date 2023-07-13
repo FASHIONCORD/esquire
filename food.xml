@@ -4,7 +4,7 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 15:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 03:31:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,7 @@
             <guid>https://www.esquirekorea.co.kr/article/79006</guid>
             <pubDate>Wed, 12 Jul 2023 09:20:53 GMT</pubDate>
             <content:encoded><![CDATA[최강 한화! ‘맛잘알’ 한화 선수들이 즐겨 찾는 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/ec78281b-fa9b-428d-8cd1-4eeb1931982a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['마당이 있는 집' 임지연 맛집 4]]></title>
@@ -20,6 +21,7 @@
             <guid>https://www.esquirekorea.co.kr/article/78996</guid>
             <pubDate>Tue, 11 Jul 2023 15:22:58 GMT</pubDate>
             <content:encoded><![CDATA['남편사망정식' 먹방으로 화제 되고 있는 임지연 맛집을 파헤쳐 보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/06b726e2-ffae-4f0d-beb7-a94e28a62c0f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미국에서 한국으로 건너 온 맛집 4]]></title>
@@ -27,6 +29,7 @@
             <guid>https://www.esquirekorea.co.kr/article/78994</guid>
             <pubDate>Mon, 10 Jul 2023 15:21:43 GMT</pubDate>
             <content:encoded><![CDATA[미국 3대 유명 버거 맛집부터 미국 본토의 치킨 맛을 느낄 수 있는 곳까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/dd602610-646d-4aa8-9f47-b490765a6a20.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제철이 가기 전에, 일본식 장어 덮밥 맛집 5]]></title>
@@ -34,6 +37,7 @@
             <guid>https://www.esquirekorea.co.kr/article/78993</guid>
             <pubDate>Mon, 10 Jul 2023 03:33:44 GMT</pubDate>
             <content:encoded><![CDATA[일본식 장어 덮밥 우나기동과 히츠마부시를 정통으로 다루는 맛집을 모았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/09/2319f3c8-f5da-478d-a85b-8d9f73ed6333.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통산 16번째 우승을 차지한 핫도그 먹기 대회 우승자]]></title>
