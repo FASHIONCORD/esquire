@@ -1,74 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 피플</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 09:21:46 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[김보희가 달을 그리기로 한 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78936</link>
-            <guid>https://www.esquirekorea.co.kr/article/78936</guid>
-            <pubDate>Mon, 10 Jul 2023 15:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[2019년 금호미술관에서 열린 김보희 초대전을 보기 위한 줄은 옆 갤러리 입구까지 이어졌다. 작...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/05/b72e4ea4-fc46-47a3-8315-81bf39525b5b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[XG, 응원봉 출시 계획?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78888</link>
-            <guid>https://www.esquirekorea.co.kr/article/78888</guid>
-            <pubDate>Mon, 10 Jul 2023 15:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[에스콰이어 유튜브에서 풀버전을 만날 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/5cec8174-1d45-4ded-b75b-73b26bc49bdd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘킹더랜드’ 이준호와 열애설? 원조 센터 임윤아 TMI 12.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78885</link>
-            <guid>https://www.esquirekorea.co.kr/article/78885</guid>
-            <pubDate>Sun, 09 Jul 2023 03:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[아이돌 씬의 ‘센터’는 윤아가 만든 단어라고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/5a9ed331-7cb8-40ee-ab8d-96ab1bccde06.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DSP 엔터테인먼트 새 걸그룹 이름, '영파씨'라고?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78879</link>
-            <guid>https://www.esquirekorea.co.kr/article/78879</guid>
-            <pubDate>Fri, 07 Jul 2023 15:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[7월 16일 RBW 공연 무대에 설 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/03/231bea68-8a48-4f6d-a804-bf561886a924.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하트시그널 음악감독 박철환이 휴식할 때 듣는 음악 리스트]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78846</link>
-            <guid>https://www.esquirekorea.co.kr/article/78846</guid>
-            <pubDate>Fri, 07 Jul 2023 09:21:22 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/30/ddbf1434-0621-4bb5-bb53-3bda71a7b083.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오징어 게임2' 새로운 캐스팅 라인업 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78778</link>
-            <guid>https://www.esquirekorea.co.kr/article/78778</guid>
-            <pubDate>Wed, 05 Jul 2023 03:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[최승현과 조유리가 합류한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/29/8f5f365c-046e-49b7-9bb6-7c93701a2413.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[god, KBS 단독쇼 출연]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78760</link>
-            <guid>https://www.esquirekorea.co.kr/article/78760</guid>
-            <pubDate>Mon, 03 Jul 2023 09:24:13 GMT</pubDate>
-            <content:encoded><![CDATA[나훈아, 심수봉, 임영웅, 송골매의 뒤를 잇는다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/d0fbd630-3b83-4850-816a-043dcd044d2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워터밤 직캠 160만을 기록한 권은비 TMI 12.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78672</link>
-            <guid>https://www.esquirekorea.co.kr/article/78672</guid>
-            <pubDate>Mon, 03 Jul 2023 09:24:13 GMT</pubDate>
-            <content:encoded><![CDATA[힌두교 신자는 아니지만 바가바드기타 서적을 읽는다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/094be30c-2633-4a33-acf9-0d84061cb21a.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/people</id>
+    <title>에스콰이어 코리아 ─ 피플</title>
+    <updated>2023-07-14T15:22:14.559Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김보희가 달을 그리기로 한 이유]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78936</id>
+        <link href="https://www.esquirekorea.co.kr/article/78936"/>
+        <updated>2023-07-10T15:22:03.027Z</updated>
+        <content type="html"><![CDATA[2019년 금호미술관에서 열린 김보희 초대전을 보기 위한 줄은 옆 갤러리 입구까지 이어졌다. 작...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XG, 응원봉 출시 계획?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78888</id>
+        <link href="https://www.esquirekorea.co.kr/article/78888"/>
+        <updated>2023-07-10T15:22:03.031Z</updated>
+        <content type="html"><![CDATA[에스콰이어 유튜브에서 풀버전을 만날 수 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘킹더랜드’ 이준호와 열애설? 원조 센터 임윤아 TMI 12.]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78885</id>
+        <link href="https://www.esquirekorea.co.kr/article/78885"/>
+        <updated>2023-07-09T03:34:55.325Z</updated>
+        <content type="html"><![CDATA[아이돌 씬의 ‘센터’는 윤아가 만든 단어라고?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DSP 엔터테인먼트 새 걸그룹 이름, '영파씨'라고?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78879</id>
+        <link href="https://www.esquirekorea.co.kr/article/78879"/>
+        <updated>2023-07-07T15:23:04.356Z</updated>
+        <content type="html"><![CDATA[7월 16일 RBW 공연 무대에 설 예정.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하트시그널 음악감독 박철환이 휴식할 때 듣는 음악 리스트]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78846</id>
+        <link href="https://www.esquirekorea.co.kr/article/78846"/>
+        <updated>2023-07-07T09:21:22.797Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오징어 게임2' 새로운 캐스팅 라인업 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78778</id>
+        <link href="https://www.esquirekorea.co.kr/article/78778"/>
+        <updated>2023-07-05T03:32:20.539Z</updated>
+        <content type="html"><![CDATA[최승현과 조유리가 합류한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[god, KBS 단독쇼 출연]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78760</id>
+        <link href="https://www.esquirekorea.co.kr/article/78760"/>
+        <updated>2023-07-03T09:24:13.596Z</updated>
+        <content type="html"><![CDATA[나훈아, 심수봉, 임영웅, 송골매의 뒤를 잇는다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[워터밤 직캠 160만을 기록한 권은비 TMI 12.]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78672</id>
+        <link href="https://www.esquirekorea.co.kr/article/78672"/>
+        <updated>2023-07-03T09:24:13.601Z</updated>
+        <content type="html"><![CDATA[힌두교 신자는 아니지만 바가바드기타 서적을 읽는다고?]]></content>
+    </entry>
+</feed>
