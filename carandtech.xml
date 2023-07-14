@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 15:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 03:33:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쏘나타 디 엣지의 이유있는 변신]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78997</link>
+            <guid>https://www.esquirekorea.co.kr/article/78997</guid>
+            <pubDate>Fri, 14 Jul 2023 03:32:36 GMT</pubDate>
+            <content:encoded><![CDATA[드디어 돌아왔다. 모든 걸 가득 채운 모습으로.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/69af1340-f303-4e75-b2b5-5ba2532645cf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일론 머스크 스페이스X, 하늘 자동차 모델 A 미국 당국 시험 비행 승인]]></title>
             <link>https://www.esquirekorea.co.kr/article/78954</link>
@@ -60,14 +68,6 @@
             <pubDate>Mon, 03 Jul 2023 09:23:09 GMT</pubDate>
             <content:encoded><![CDATA[공연은 30일 국립극장에서 열린다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/28/5c925c27-aa3b-4180-9592-f103dcd7011b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포르쉐가 전기 요트를 만들면 어떤 모습?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78674</link>
-            <guid>https://www.esquirekorea.co.kr/article/78674</guid>
-            <pubDate>Mon, 03 Jul 2023 03:29:04 GMT</pubDate>
-            <content:encoded><![CDATA[오스트리아 조선소 '프라우셔'와 손잡고 2024년 전기 요트를 한정 출시한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/6913debc-78ba-4bff-9009-16565da6e9c6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
