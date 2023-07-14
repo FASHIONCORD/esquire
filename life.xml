@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 03:33:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 09:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장마철에 더 생각나는 구수한 된장칼국수 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79111</link>
+            <guid>https://www.esquirekorea.co.kr/article/79111</guid>
+            <pubDate>Fri, 14 Jul 2023 09:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[장마철 꿉꿉함 날려줄 이색적인 된장칼국수 한 그릇 어때요?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/f7930895-0b49-40dd-935a-f91a6b2c9219.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[맥도날드가 출시한 웨딩 패키지 세트?]]></title>
             <link>https://www.esquirekorea.co.kr/article/79056</link>
@@ -61,14 +69,6 @@
             <pubDate>Mon, 10 Jul 2023 15:21:53 GMT</pubDate>
             <content:encoded><![CDATA[최강 한화! ‘맛잘알’ 한화 선수들이 즐겨 찾는 곳.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/ec78281b-fa9b-428d-8cd1-4eeb1931982a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라마 '악귀' 속 이홍새 역을 맡은 배우 홍경을 만나다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79005</link>
-            <guid>https://www.esquirekorea.co.kr/article/79005</guid>
-            <pubDate>Mon, 10 Jul 2023 03:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[지금 가장 뜨겁게 떠오르고 있는 남자 배우.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/da218999-2b07-45d6-b509-d1fcbecf06e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

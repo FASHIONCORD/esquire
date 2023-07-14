@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/now</id>
     <title>에스콰이어 코리아 ─ 나우</title>
-    <updated>2023-07-14T03:33:36.183Z</updated>
+    <updated>2023-07-14T09:21:46.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강릉시, 반려견 동반 해수욕장 내일부터 운영]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78990</id>
+        <link href="https://www.esquirekorea.co.kr/article/78990"/>
+        <updated>2023-07-14T09:21:20.000Z</updated>
+        <content type="html"><![CDATA[털 날림과 오염을 우려해 반려견 바다 입수는 금지된다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무한 확장의 끝, 'NCT 유니버스: 라스타트' 티저 공개]]></title>
         <id>https://www.esquirekorea.co.kr/article/78988</id>
@@ -53,12 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/78649"/>
         <updated>2023-07-06T09:22:15.100Z</updated>
         <content type="html"><![CDATA[스쿠터와 동일한 색상의 헬멧도 제공한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIFA, 2025년 클럽 월드컵 개최지 미국 확정]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78648</id>
-        <link href="https://www.esquirekorea.co.kr/article/78648"/>
-        <updated>2023-07-01T09:20:10.168Z</updated>
-        <content type="html"><![CDATA[무려 32개 팀이 출전한다.]]></content>
     </entry>
 </feed>
