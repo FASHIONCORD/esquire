@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/food</id>
     <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2023-07-15T03:35:35.960Z</updated>
+    <updated>2023-07-15T09:19:45.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장마철에 더 생각나는 구수한 된장칼국수 맛집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79111</id>
+        <link href="https://www.esquirekorea.co.kr/article/79111"/>
+        <updated>2023-07-15T09:18:50.043Z</updated>
+        <content type="html"><![CDATA[장마철 꿉꿉함 날려줄 이색적인 된장칼국수 한 그릇 어때요?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이제 라거 맥주의 시대가 다시 돌아왔다]]></title>
         <id>https://www.esquirekorea.co.kr/article/79089</id>
@@ -52,12 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/78994"/>
         <updated>2023-07-10T15:21:43.307Z</updated>
         <content type="html"><![CDATA[미국 3대 유명 버거 맛집부터 미국 본토의 치킨 맛을 느낄 수 있는 곳까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제철이 가기 전에, 일본식 장어 덮밥 맛집 5]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78993</id>
-        <link href="https://www.esquirekorea.co.kr/article/78993"/>
-        <updated>2023-07-10T03:33:44.785Z</updated>
-        <content type="html"><![CDATA[일본식 장어 덮밥 우나기동과 히츠마부시를 정통으로 다루는 맛집을 모았다.]]></content>
     </entry>
 </feed>
