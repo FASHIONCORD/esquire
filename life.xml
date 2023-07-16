@@ -1,74 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 03:35:01 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[‘미쉐린 가이드 서울 2023’에 선정된 보양식 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79154</link>
-            <guid>https://www.esquirekorea.co.kr/article/79154</guid>
-            <pubDate>Sat, 15 Jul 2023 15:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[뜨끈하고 영양가 있는 보양식으로 푸짐한 한 끼 식사를 선사한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/ca3960ec-0ca4-48d2-8edc-00326b011254.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뼛속까지 시원하게, 맥주 얼려서 주는 집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79140</link>
-            <guid>https://www.esquirekorea.co.kr/article/79140</guid>
-            <pubDate>Sat, 15 Jul 2023 15:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[눅눅한 장마도, 찌는 듯한 더위도 맥주 한 모금에 싹 가신다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/1eae16fc-f0a2-4131-9d06-516586a849af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장마철에 더 생각나는 구수한 된장칼국수 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79111</link>
-            <guid>https://www.esquirekorea.co.kr/article/79111</guid>
-            <pubDate>Fri, 14 Jul 2023 09:20:56 GMT</pubDate>
-            <content:encoded><![CDATA[장마철 꿉꿉함 날려줄 이색적인 된장칼국수 한 그릇 어때요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/12/f7930895-0b49-40dd-935a-f91a6b2c9219.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맥도날드가 출시한 웨딩 패키지 세트?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79056</link>
-            <guid>https://www.esquirekorea.co.kr/article/79056</guid>
-            <pubDate>Fri, 14 Jul 2023 03:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[치킨버거 1개와 맥너겟 4조각으로 구성되었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/9a27aab8-3a2b-432a-82e1-1dd59a494b11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인천국제공항, 여권과 탑승권 없이 출국이 가능하다?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79050</link>
-            <guid>https://www.esquirekorea.co.kr/article/79050</guid>
-            <pubDate>Fri, 14 Jul 2023 03:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[앞으로는 안면인식만 하면 된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/6b039672-0590-4f0b-bb92-3fc1abebc640.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스트리트 파이터 6'에 KFC의 등장이라]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79036</link>
-            <guid>https://www.esquirekorea.co.kr/article/79036</guid>
-            <pubDate>Fri, 14 Jul 2023 03:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[게임에서 콤보를 쌓으면 KFC 콤보를 먹을 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/97304c73-7b6b-4a30-85e3-77791d961a35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달 위에서 21세기 우주 전쟁이 벌어지고 있다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79028</link>
-            <guid>https://www.esquirekorea.co.kr/article/79028</guid>
-            <pubDate>Thu, 13 Jul 2023 09:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[달 탐사에 다시 전 세계의 관심이 쏠리고 있는 가운데, NASA와 ESA는 적극적으로 '달 표준...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/09/ee13fcf7-b1b3-4d41-92ed-b7f3fe7f67b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SNS는 정말 우리를 바보로 만들었나?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79021</link>
-            <guid>https://www.esquirekorea.co.kr/article/79021</guid>
-            <pubDate>Wed, 12 Jul 2023 09:21:03 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/08/40b4b82a-2c04-47ee-a84d-1a59bbf31203.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/life</id>
+    <title>에스콰이어 코리아 ─ 라이프</title>
+    <updated>2023-07-16T09:19:39.061Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘미쉐린 가이드 서울 2023’에 선정된 보양식 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79154</id>
+        <link href="https://www.esquirekorea.co.kr/article/79154"/>
+        <updated>2023-07-15T15:19:53.782Z</updated>
+        <content type="html"><![CDATA[뜨끈하고 영양가 있는 보양식으로 푸짐한 한 끼 식사를 선사한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뼛속까지 시원하게, 맥주 얼려서 주는 집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79140</id>
+        <link href="https://www.esquirekorea.co.kr/article/79140"/>
+        <updated>2023-07-15T15:19:53.785Z</updated>
+        <content type="html"><![CDATA[눅눅한 장마도, 찌는 듯한 더위도 맥주 한 모금에 싹 가신다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장마철에 더 생각나는 구수한 된장칼국수 맛집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79111</id>
+        <link href="https://www.esquirekorea.co.kr/article/79111"/>
+        <updated>2023-07-14T09:20:56.033Z</updated>
+        <content type="html"><![CDATA[장마철 꿉꿉함 날려줄 이색적인 된장칼국수 한 그릇 어때요?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맥도날드가 출시한 웨딩 패키지 세트?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79056</id>
+        <link href="https://www.esquirekorea.co.kr/article/79056"/>
+        <updated>2023-07-14T03:33:05.032Z</updated>
+        <content type="html"><![CDATA[치킨버거 1개와 맥너겟 4조각으로 구성되었다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천국제공항, 여권과 탑승권 없이 출국이 가능하다?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79050</id>
+        <link href="https://www.esquirekorea.co.kr/article/79050"/>
+        <updated>2023-07-14T03:33:05.033Z</updated>
+        <content type="html"><![CDATA[앞으로는 안면인식만 하면 된다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스트리트 파이터 6'에 KFC의 등장이라]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79036</id>
+        <link href="https://www.esquirekorea.co.kr/article/79036"/>
+        <updated>2023-07-14T03:33:05.036Z</updated>
+        <content type="html"><![CDATA[게임에서 콤보를 쌓으면 KFC 콤보를 먹을 수 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[달 위에서 21세기 우주 전쟁이 벌어지고 있다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79028</id>
+        <link href="https://www.esquirekorea.co.kr/article/79028"/>
+        <updated>2023-07-13T09:20:30.573Z</updated>
+        <content type="html"><![CDATA[달 탐사에 다시 전 세계의 관심이 쏠리고 있는 가운데, NASA와 ESA는 적극적으로 '달 표준...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SNS는 정말 우리를 바보로 만들었나?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79021</id>
+        <link href="https://www.esquirekorea.co.kr/article/79021"/>
+        <updated>2023-07-12T09:21:03.547Z</updated>
+    </entry>
+</feed>
