@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 03:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 09:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[통산 16번째 우승을 차지한 핫도그 먹기 대회 우승자]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78991</link>
+            <guid>https://www.esquirekorea.co.kr/article/78991</guid>
+            <pubDate>Tue, 18 Jul 2023 09:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[무려 10분 동안 62개의 핫도그를 먹었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/90725700-1f71-483a-b199-3d3928d39550.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강릉시, 반려견 동반 해수욕장 내일부터 운영]]></title>
             <link>https://www.esquirekorea.co.kr/article/78990</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 06 Jul 2023 09:22:15 GMT</pubDate>
             <content:encoded><![CDATA[데려오는 겁니다. 아무 일 없이.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/27/37b8a76a-afdd-45ee-8bb1-63b022aaad99.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니, 베스파와 협업한 미키 마우스 에디션 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78649</link>
-            <guid>https://www.esquirekorea.co.kr/article/78649</guid>
-            <pubDate>Thu, 06 Jul 2023 09:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[스쿠터와 동일한 색상의 헬멧도 제공한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/26/5bfb0f5d-63be-4afa-8352-100c4b54927e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
