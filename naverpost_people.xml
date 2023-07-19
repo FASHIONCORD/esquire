@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 03:58:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 09:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<커버 투표 이벤트> 제이홉, 거리에 희망을 풀어 놓다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36274011&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36274011&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Wed, 19 Jul 2023 09:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MTlfMTIy/MDAxNjg5NzQ4NTE3Njcy.6lguw3FiTm8MZLAvLQNzLItxkV-yanwFdRTjJTl1pqQg.dYM10pVV-5YX0SU7znA9l_8CXhotpnn95rB35NqUEBMg.JPEG/IDT7ZsCCml2y7-xzB7KXPzPuDDrQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박서준과 열애설? 수스 TMI12.]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36164006&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 23 Jun 2023 09:21:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMThfMTc4/MDAxNjY2MDU1MzgwNzky.Ghru7o0smHSjSl3dpuIv51dL0Vvwl_XJkb4-SKr5TaQg.yVXtU0InpmQDn8-bIZ_aBmG8C2YZpM0hjRxn6rSn6x8g.JPEG/I_doZgVaLOtU-bY9fvz1NcLLsbEA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손석구가 일부러 몸을 불리기 위해 초콜릿을 먹은 이유]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33991987&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33991987&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Fri, 23 Jun 2023 09:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA2MjBfMjIx/MDAxNjU1NzA1MzYxODI0.IK-Wdx7_W8PvkkgeU5I9OFJEiidZUkieuzaOCKbv-b0g.PmrKlyNSh-yQPQ0Ciq6ocHuAqvIGipIciwIoaB-fNQYg.JPEG/IgWs55MmlP2SMDRerxyJ-PC1B-uM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/food</id>
     <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2023-07-19T03:58:29.686Z</updated>
+    <updated>2023-07-19T09:18:49.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘미쉐린 가이드 서울 2023’에 선정된 보양식 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79154</id>
+        <link href="https://www.esquirekorea.co.kr/article/79154"/>
+        <updated>2023-07-19T09:18:14.534Z</updated>
+        <content type="html"><![CDATA[뜨끈하고 영양가 있는 보양식으로 푸짐한 한 끼 식사를 선사한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뼛속까지 시원하게, 맥주 얼려서 주는 집 4]]></title>
         <id>https://www.esquirekorea.co.kr/article/79140</id>
@@ -52,12 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/79006"/>
         <updated>2023-07-12T09:20:53.787Z</updated>
         <content type="html"><![CDATA[최강 한화! ‘맛잘알’ 한화 선수들이 즐겨 찾는 곳.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마당이 있는 집' 임지연 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78996</id>
-        <link href="https://www.esquirekorea.co.kr/article/78996"/>
-        <updated>2023-07-11T15:22:58.248Z</updated>
-        <content type="html"><![CDATA['남편사망정식' 먹방으로 화제 되고 있는 임지연 맛집을 파헤쳐 보자.]]></content>
     </entry>
 </feed>
