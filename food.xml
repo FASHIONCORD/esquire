@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jul 2023 09:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 15:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름 휴가는 불가리아와 그리스가 정답이다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79215</link>
+            <guid>https://www.esquirekorea.co.kr/article/79215</guid>
+            <pubDate>Sat, 22 Jul 2023 15:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[맛있게 먹고, 쉬고, 회복하며 온전한 휴식을 취하고 싶다면, 당신은 불가리아와 그리스를 놓쳐선...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/21/d1d631d5-49f0-4035-bdfc-1ea2e510e288.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 제이홉이 다녀간 전국 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/79316</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 20 Jul 2023 09:18:50 GMT</pubDate>
             <content:encoded><![CDATA['킹더랜드' 속 이준호, 임윤아가 가까워진 그곳, 힐링 가득 가파도로 가보자.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/d90f843b-2400-4499-8b8d-fc6939c6df70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 보양식, 도라지 백숙 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79155</link>
-            <guid>https://www.esquirekorea.co.kr/article/79155</guid>
-            <pubDate>Thu, 20 Jul 2023 03:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[전국에 단 4곳밖에 없는 도라지 백숙 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/d52654f7-6b21-4c03-bc2a-93116bdf41e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
