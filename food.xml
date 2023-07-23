@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 푸드</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jul 2023 09:18:09 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[여름 휴가는 불가리아와 그리스가 정답이다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79215</link>
-            <guid>https://www.esquirekorea.co.kr/article/79215</guid>
-            <pubDate>Sat, 22 Jul 2023 15:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[맛있게 먹고, 쉬고, 회복하며 온전한 휴식을 취하고 싶다면, 당신은 불가리아와 그리스를 놓쳐선...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/21/d1d631d5-49f0-4035-bdfc-1ea2e510e288.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 제이홉이 다녀간 전국 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79316</link>
-            <guid>https://www.esquirekorea.co.kr/article/79316</guid>
-            <pubDate>Sat, 22 Jul 2023 03:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[광주 출신 제이홉의 광주 맛집부터 진과 함께 감탄한 닭내장집까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/3275cf66-d9de-4db0-aba7-b47cabc94abd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 별미 냉면을 색다르게 즐기는 방법 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79312</link>
-            <guid>https://www.esquirekorea.co.kr/article/79312</guid>
-            <pubDate>Sat, 22 Jul 2023 03:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[본격 냉면의 계절을 맞아 이색 냉면을 알아봤다. 수박, 산낙지, 까나리액젓, 전복 물회를 넣은 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/20c12294-cc08-46a0-9118-7acf3f64c159.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50년 넘게 운영한 메밀 소바 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79300</link>
-            <guid>https://www.esquirekorea.co.kr/article/79300</guid>
-            <pubDate>Fri, 21 Jul 2023 09:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[서울 미래유산 선정된 곳부터 미쉐린 가이드 서울 2023 메밀 맛집까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/4ea23192-3a4f-48e7-b70f-abbe6dad00fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Seven(세븐)으로 돌아온 BTS 정국 고기 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79277</link>
-            <guid>https://www.esquirekorea.co.kr/article/79277</guid>
-            <pubDate>Fri, 21 Jul 2023 09:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[고기에 진심인 정국과 뮤비 속 주인공 한소희도 반한 맛집은 어디?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/a7a06857-165a-479f-9665-7089a651f5e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선상에서 즐기는 해산물 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79234</link>
-            <guid>https://www.esquirekorea.co.kr/article/79234</guid>
-            <pubDate>Thu, 20 Jul 2023 15:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[배 위에서 바로 회를 떠주는 곳도 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/be36304c-0ba7-4a0f-992b-80533f65f4ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비 오는 날엔 역시 부침개, 전 무한리필 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79183</link>
-            <guid>https://www.esquirekorea.co.kr/article/79183</guid>
-            <pubDate>Thu, 20 Jul 2023 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[본격적인 장마가 시작된 요즘. 절로 생각나는 부침개 맛집을 소개한다. 단순한 전 맛집이 아닌 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/15/6f266e6d-bff4-4dfd-8d20-097f8cc25a7f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 대세 '킹더랜드' 촬영지, 가파도 가볼 만한 곳 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79161</link>
-            <guid>https://www.esquirekorea.co.kr/article/79161</guid>
-            <pubDate>Thu, 20 Jul 2023 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA['킹더랜드' 속 이준호, 임윤아가 가까워진 그곳, 힐링 가득 가파도로 가보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/d90f843b-2400-4499-8b8d-fc6939c6df70.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/food</id>
+    <title>에스콰이어 코리아 ─ 푸드</title>
+    <updated>2023-07-23T15:21:45.089Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여름 휴가는 불가리아와 그리스가 정답이다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79215</id>
+        <link href="https://www.esquirekorea.co.kr/article/79215"/>
+        <updated>2023-07-22T15:18:04.795Z</updated>
+        <content type="html"><![CDATA[맛있게 먹고, 쉬고, 회복하며 온전한 휴식을 취하고 싶다면, 당신은 불가리아와 그리스를 놓쳐선...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTS 제이홉이 다녀간 전국 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79316</id>
+        <link href="https://www.esquirekorea.co.kr/article/79316"/>
+        <updated>2023-07-22T03:18:47.122Z</updated>
+        <content type="html"><![CDATA[광주 출신 제이홉의 광주 맛집부터 진과 함께 감탄한 닭내장집까지.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여름 별미 냉면을 색다르게 즐기는 방법 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79312</id>
+        <link href="https://www.esquirekorea.co.kr/article/79312"/>
+        <updated>2023-07-22T03:18:47.131Z</updated>
+        <content type="html"><![CDATA[본격 냉면의 계절을 맞아 이색 냉면을 알아봤다. 수박, 산낙지, 까나리액젓, 전복 물회를 넣은 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50년 넘게 운영한 메밀 소바 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79300</id>
+        <link href="https://www.esquirekorea.co.kr/article/79300"/>
+        <updated>2023-07-21T09:20:55.170Z</updated>
+        <content type="html"><![CDATA[서울 미래유산 선정된 곳부터 미쉐린 가이드 서울 2023 메밀 맛집까지.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seven(세븐)으로 돌아온 BTS 정국 고기 맛집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79277</id>
+        <link href="https://www.esquirekorea.co.kr/article/79277"/>
+        <updated>2023-07-21T09:20:55.172Z</updated>
+        <content type="html"><![CDATA[고기에 진심인 정국과 뮤비 속 주인공 한소희도 반한 맛집은 어디?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선상에서 즐기는 해산물 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79234</id>
+        <link href="https://www.esquirekorea.co.kr/article/79234"/>
+        <updated>2023-07-20T15:19:45.546Z</updated>
+        <content type="html"><![CDATA[배 위에서 바로 회를 떠주는 곳도 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비 오는 날엔 역시 부침개, 전 무한리필 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79183</id>
+        <link href="https://www.esquirekorea.co.kr/article/79183"/>
+        <updated>2023-07-20T09:18:50.029Z</updated>
+        <content type="html"><![CDATA[본격적인 장마가 시작된 요즘. 절로 생각나는 부침개 맛집을 소개한다. 단순한 전 맛집이 아닌 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 대세 '킹더랜드' 촬영지, 가파도 가볼 만한 곳 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79161</id>
+        <link href="https://www.esquirekorea.co.kr/article/79161"/>
+        <updated>2023-07-20T09:18:50.037Z</updated>
+        <content type="html"><![CDATA['킹더랜드' 속 이준호, 임윤아가 가까워진 그곳, 힐링 가득 가파도로 가보자.]]></content>
+    </entry>
+</feed>
