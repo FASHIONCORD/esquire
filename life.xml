@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-07-24T03:20:23.460Z</updated>
+    <updated>2023-07-24T09:23:36.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘그린고트 마법사 은행’ 레고 등장]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79330</id>
+        <link href="https://www.esquirekorea.co.kr/article/79330"/>
+        <updated>2023-07-24T09:22:52.601Z</updated>
+        <content type="html"><![CDATA[해그리드의 비밀 편지까지 만나볼 수 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여름 휴가는 불가리아와 그리스가 정답이다]]></title>
         <id>https://www.esquirekorea.co.kr/article/79215</id>
@@ -53,12 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/79183"/>
         <updated>2023-07-20T09:19:00.794Z</updated>
         <content type="html"><![CDATA[본격적인 장마가 시작된 요즘. 절로 생각나는 부침개 맛집을 소개한다. 단순한 전 맛집이 아닌 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 대세 '킹더랜드' 촬영지, 가파도 가볼 만한 곳 5]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79161</id>
-        <link href="https://www.esquirekorea.co.kr/article/79161"/>
-        <updated>2023-07-19T09:18:23.695Z</updated>
-        <content type="html"><![CDATA['킹더랜드' 속 이준호, 임윤아가 가까워진 그곳, 힐링 가득 가파도로 가보자.]]></content>
     </entry>
 </feed>
