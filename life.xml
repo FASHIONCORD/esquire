@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 09:21:14 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[‘대한민국 최초’ 타이틀이 있는 전국 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79331</link>
-            <guid>https://www.esquirekorea.co.kr/article/79331</guid>
-            <pubDate>Mon, 24 Jul 2023 15:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[본점으로만 운영 중인 국내 최초 순대국 집부터 100년 넘게 이어오는 최초의 밀면 집까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/21/a942c701-1f50-40f9-8f56-d9d0043b6ffa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘그린고트 마법사 은행’ 레고 등장]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79330</link>
-            <guid>https://www.esquirekorea.co.kr/article/79330</guid>
-            <pubDate>Mon, 24 Jul 2023 09:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[해그리드의 비밀 편지까지 만나볼 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/21/a390bf3d-a49b-4fe1-8913-dad19e231d1d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 휴가는 불가리아와 그리스가 정답이다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79215</link>
-            <guid>https://www.esquirekorea.co.kr/article/79215</guid>
-            <pubDate>Sat, 22 Jul 2023 15:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[맛있게 먹고, 쉬고, 회복하며 온전한 휴식을 취하고 싶다면, 당신은 불가리아와 그리스를 놓쳐선...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/21/d1d631d5-49f0-4035-bdfc-1ea2e510e288.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 별미 냉면을 색다르게 즐기는 방법 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79312</link>
-            <guid>https://www.esquirekorea.co.kr/article/79312</guid>
-            <pubDate>Sat, 22 Jul 2023 03:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[본격 냉면의 계절을 맞아 이색 냉면을 알아봤다. 수박, 산낙지, 까나리액젓, 전복 물회를 넣은 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/20c12294-cc08-46a0-9118-7acf3f64c159.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Seven(세븐)으로 돌아온 BTS 정국 고기 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79277</link>
-            <guid>https://www.esquirekorea.co.kr/article/79277</guid>
-            <pubDate>Fri, 21 Jul 2023 09:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[고기에 진심인 정국과 뮤비 속 주인공 한소희도 반한 맛집은 어디?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/a7a06857-165a-479f-9665-7089a651f5e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선상에서 즐기는 해산물 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79234</link>
-            <guid>https://www.esquirekorea.co.kr/article/79234</guid>
-            <pubDate>Fri, 21 Jul 2023 09:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[배 위에서 바로 회를 떠주는 곳도 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/be36304c-0ba7-4a0f-992b-80533f65f4ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매튜 데이 잭슨이라는 영매의 세계]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79205</link>
-            <guid>https://www.esquirekorea.co.kr/article/79205</guid>
-            <pubDate>Fri, 21 Jul 2023 03:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[그를 지나간 아이디어와 이미지들은 회화라고도 할 수 없고 조각이라고도 할 수 없는 기괴한 형...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/8703fe9e-5c4a-4a38-825c-eb77044b2d23.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[40대가 된 밀레니얼 세대는 진짜 어른이 되는 법을 배우고 있다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78736</link>
-            <guid>https://www.esquirekorea.co.kr/article/78736</guid>
-            <pubDate>Thu, 20 Jul 2023 15:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[우리 세대는 모두 불안하고, 괴상하며, 혼란에 빠져 있었다. 마흔 살이 되었어도 중년이라는 기...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/965d4ee0-9335-4a42-a57d-bd2e8457f84d.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/life</id>
+    <title>에스콰이어 코리아 ─ 라이프</title>
+    <updated>2023-07-25T15:24:14.451Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고기로 고기를 싸먹는 고깃집 3]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79335</id>
+        <link href="https://www.esquirekorea.co.kr/article/79335"/>
+        <updated>2023-07-25T15:22:42.459Z</updated>
+        <content type="html"><![CDATA[단백질 든든하게 보충. 이게 바로 진짜 보양식!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘대한민국 최초’ 타이틀이 있는 전국 맛집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79331</id>
+        <link href="https://www.esquirekorea.co.kr/article/79331"/>
+        <updated>2023-07-24T15:20:41.877Z</updated>
+        <content type="html"><![CDATA[본점으로만 운영 중인 국내 최초 순대국 집부터 100년 넘게 이어오는 최초의 밀면 집까지.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘그린고트 마법사 은행’ 레고 등장]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79330</id>
+        <link href="https://www.esquirekorea.co.kr/article/79330"/>
+        <updated>2023-07-24T09:22:52.601Z</updated>
+        <content type="html"><![CDATA[해그리드의 비밀 편지까지 만나볼 수 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여름 휴가는 불가리아와 그리스가 정답이다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79215</id>
+        <link href="https://www.esquirekorea.co.kr/article/79215"/>
+        <updated>2023-07-22T15:18:14.430Z</updated>
+        <content type="html"><![CDATA[맛있게 먹고, 쉬고, 회복하며 온전한 휴식을 취하고 싶다면, 당신은 불가리아와 그리스를 놓쳐선...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여름 별미 냉면을 색다르게 즐기는 방법 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79312</id>
+        <link href="https://www.esquirekorea.co.kr/article/79312"/>
+        <updated>2023-07-22T03:18:55.833Z</updated>
+        <content type="html"><![CDATA[본격 냉면의 계절을 맞아 이색 냉면을 알아봤다. 수박, 산낙지, 까나리액젓, 전복 물회를 넣은 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seven(세븐)으로 돌아온 BTS 정국 고기 맛집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79277</id>
+        <link href="https://www.esquirekorea.co.kr/article/79277"/>
+        <updated>2023-07-21T09:21:06.020Z</updated>
+        <content type="html"><![CDATA[고기에 진심인 정국과 뮤비 속 주인공 한소희도 반한 맛집은 어디?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선상에서 즐기는 해산물 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79234</id>
+        <link href="https://www.esquirekorea.co.kr/article/79234"/>
+        <updated>2023-07-21T09:21:06.025Z</updated>
+        <content type="html"><![CDATA[배 위에서 바로 회를 떠주는 곳도 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매튜 데이 잭슨이라는 영매의 세계]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79205</id>
+        <link href="https://www.esquirekorea.co.kr/article/79205"/>
+        <updated>2023-07-21T03:19:32.061Z</updated>
+        <content type="html"><![CDATA[그를 지나간 아이디어와 이미지들은 회화라고도 할 수 없고 조각이라고도 할 수 없는 기괴한 형...]]></content>
+    </entry>
+</feed>
