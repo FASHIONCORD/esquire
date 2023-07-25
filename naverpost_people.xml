@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 03:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 09:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정국 ‘Seven’ 뮤직비디오 주인공, 한소희 TMI 12.]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36304959&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36304959&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Tue, 25 Jul 2023 09:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjVfMTM5/MDAxNjkwMjY2NzMzMDUw.ejtmQhuOwgJN5MiDl4AtHkQ1uH3RVJL1aM2UoXOyXGkg.vh1K4CNXnycRZs24BLV9577KIIesyTiuqBv-07yjt8cg.JPEG/IGTc3EkHSeqzlzRFSl6_7r6AEsLE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘(7/10) 데뷔! 핫루키 제로베이스원(ZB1) TMI 19.]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36278488&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 23 Jun 2023 09:21:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjVfMTkw/MDAxNjY2Njc2MjYxMDU2.Y9iJd5dBpWuquIEEcXwPYix5uIPUbz5Wiq0t8Yq7ngwg.1nRiYOrI0i7BJV28g5399nTvTuijWvmAZ_nQDpQ7O3cg.JPEG/IoTcVF3SICovkWERq9A0uGP4jMXw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플러팅 장인 ‘환승연애2’ 정현규에 대해 몰랐던 사실 12]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34681158&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34681158&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Fri, 23 Jun 2023 09:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEwMjVfNjEg/MDAxNjY2NjYxNTEzNzcw.ClK7kUPSizwcgZeVBxvu42ZR5LXev55mtbo4ODuBjCgg.mjbIebpMzqFyrP0cjSFvRkGTdPWeeom2qSLjrcmHsIAg.JPEG/I_TNsVbVBh-OebSriq-Cnq2kUUv4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
