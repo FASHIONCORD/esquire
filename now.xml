@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/now</id>
     <title>에스콰이어 코리아 ─ 나우</title>
-    <updated>2023-07-27T09:18:49.144Z</updated>
+    <updated>2023-07-27T15:19:21.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[식품 회사 메이지에서 기획한 가상의 제품들]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79162</id>
+        <link href="https://www.esquirekorea.co.kr/article/79162"/>
+        <updated>2023-07-27T15:18:39.078Z</updated>
+        <content type="html"><![CDATA[먹지 마세요.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뼛속까지 시원하게, 맥주 얼려서 주는 집 4]]></title>
         <id>https://www.esquirekorea.co.kr/article/79140</id>
@@ -53,12 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/78986"/>
         <updated>2023-07-13T03:31:42.153Z</updated>
         <content type="html"><![CDATA[콜라와 케첩이 만나면 어떤 맛일까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4년 만에 열리는 '2023 물총축제']]></title>
-        <id>https://www.esquirekorea.co.kr/article/78854</id>
-        <link href="https://www.esquirekorea.co.kr/article/78854"/>
-        <updated>2023-07-07T09:21:31.960Z</updated>
-        <content type="html"><![CDATA[오는 7월 5일부터 위메프에서 사전 예매를 시작한다.]]></content>
     </entry>
 </feed>
