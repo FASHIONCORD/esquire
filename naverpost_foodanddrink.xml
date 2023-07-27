@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 03:24:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 09:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 26 Jul 2023 03:18:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjVfMTc2/MDAxNjkwMjY5NzU0NTk0.AaLjhW5TzSpfL7Nm9gkGhPPS3Hemr0b7scPpPlRLxmwg.x6_SUwAgbtRdY9aCPxqqH9iBK7sctHaWUOKokaSG8GEg.JPEG/ISUnSgNEUoV2G3R5MZ2PM24Iottg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[50년 넘게 운영한 메밀 소바 맛집 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36305595&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36305595&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 27 Jul 2023 09:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjVfMTk4/MDAxNjkwMjcyMTEwMjIy.KEXZDpNlWWu4YDMu7a8tFv_ZTc9GhrHVaf7SIAZndiIg.roVqtKYPVwloSzlF24KlBD98cBVNeWfV0cPNojGABb0g.JPEG/IZRsI6KXYJJ5zkOVYRZwv3QtARtU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[얼마나 맛있길래? 일주일에 단 하루만 여는 맛집 리스트 4]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 23 Jun 2023 09:20:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MDhfNzIg/MDAxNjg2MTg5ODY3NjIw.of9P62n9m2l3XbhmdlA701kerBSmw3apegZLqCruN4og.RECojPzVpEpHZWgiMnvZvCG5jtCR8njVufdsrbdFp7Qg.JPEG/IShNT8IkLt5qXZe1xtAq0sm-qvHw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50년 넘게 운영한 닭갈비 맛집 5]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36060036&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36060036&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Fri, 23 Jun 2023 09:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MDhfMjEw/MDAxNjg2MTg2NzczNTI3.H3wP1-InsUI6eJDKAO-NnRoaqleIOMDUONr4R9mrL8gg.mZC7ffH0p6KkCkkdOVv1NK8ybiWPSN4JoyFEJrx6kqsg.JPEG/Irx3x9MKcqStfQZInspOKRGE_O-Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

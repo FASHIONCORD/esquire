@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2023-07-27T03:24:05.964Z</updated>
+    <updated>2023-07-27T09:18:49.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파리를 찾은 부쉐론의 얼굴 한소희]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79245</id>
+        <link href="https://www.esquirekorea.co.kr/article/79245"/>
+        <updated>2023-07-27T09:17:14.296Z</updated>
+        <content type="html"><![CDATA[한소희가 부쉐론의 2023 까르뜨 블랑슈 프레젠테이션에 참석했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바다의 옷, 계절의 한 조각]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79208</id>
+        <link href="https://www.esquirekorea.co.kr/article/79208"/>
+        <updated>2023-07-27T09:17:14.299Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하와이안 셔츠의 계절]]></title>
         <id>https://www.esquirekorea.co.kr/article/79224</id>
@@ -43,19 +56,5 @@
         <id>https://www.esquirekorea.co.kr/article/79027</id>
         <link href="https://www.esquirekorea.co.kr/article/79027"/>
         <updated>2023-07-17T15:21:25.789Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드라마 '악귀' 속 이홍새 역을 맡은 배우 홍경을 만나다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79005</id>
-        <link href="https://www.esquirekorea.co.kr/article/79005"/>
-        <updated>2023-07-14T15:20:41.120Z</updated>
-        <content type="html"><![CDATA[지금 가장 뜨겁게 떠오르고 있는 남자 배우.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[깊은 밤을 위한 모든 의식]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78790</id>
-        <link href="https://www.esquirekorea.co.kr/article/78790"/>
-        <updated>2023-07-12T15:21:37.626Z</updated>
-        <content type="html"><![CDATA[보충제부터 홈 프래그런스, 인핸서까지]]></content>
     </entry>
 </feed>
