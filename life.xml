@@ -4,9 +4,23 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 15:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 03:24:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<골 때리는 그녀들> 배우 이영진이 축구를 하며 처음 느낀 것들]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79439</link>
+            <guid>https://www.esquirekorea.co.kr/article/79439</guid>
+            <pubDate>Thu, 27 Jul 2023 03:23:27 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/7482eb5d-5ca8-4f92-8be6-42ffaf1244d3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[변호사가 설명하는, 한국에서 '머그샷'이 공개되지 않는 복잡한 사연]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79423</link>
+            <guid>https://www.esquirekorea.co.kr/article/79423</guid>
+            <pubDate>Thu, 27 Jul 2023 03:23:27 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/25/5532d41b-9d9e-40b2-801e-5f8d4f78dd4f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가정용 사이드 테이블 재떨이?]]></title>
             <link>https://www.esquirekorea.co.kr/article/79409</link>
@@ -54,22 +68,6 @@
             <pubDate>Mon, 24 Jul 2023 09:22:52 GMT</pubDate>
             <content:encoded><![CDATA[해그리드의 비밀 편지까지 만나볼 수 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/21/a390bf3d-a49b-4fe1-8913-dad19e231d1d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 휴가는 불가리아와 그리스가 정답이다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79215</link>
-            <guid>https://www.esquirekorea.co.kr/article/79215</guid>
-            <pubDate>Sat, 22 Jul 2023 15:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[맛있게 먹고, 쉬고, 회복하며 온전한 휴식을 취하고 싶다면, 당신은 불가리아와 그리스를 놓쳐선...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/21/d1d631d5-49f0-4035-bdfc-1ea2e510e288.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 별미 냉면을 색다르게 즐기는 방법 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79312</link>
-            <guid>https://www.esquirekorea.co.kr/article/79312</guid>
-            <pubDate>Sat, 22 Jul 2023 03:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[본격 냉면의 계절을 맞아 이색 냉면을 알아봤다. 수박, 산낙지, 까나리액젓, 전복 물회를 넣은 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/20c12294-cc08-46a0-9118-7acf3f64c159.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
