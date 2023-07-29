@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 나우</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 03:19:43 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[파리를 찾은 부쉐론의 얼굴 한소희]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79245</link>
-            <guid>https://www.esquirekorea.co.kr/article/79245</guid>
-            <pubDate>Fri, 28 Jul 2023 09:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[한소희가 부쉐론의 2023 까르뜨 블랑슈 프레젠테이션에 참석했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/18/109ba78e-51da-44c3-98b1-e573d62ef8d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식품 회사 메이지에서 기획한 가상의 제품들]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79162</link>
-            <guid>https://www.esquirekorea.co.kr/article/79162</guid>
-            <pubDate>Thu, 27 Jul 2023 15:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[먹지 마세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/0a81d830-cb9e-409f-8b51-17e61f65b6e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뼛속까지 시원하게, 맥주 얼려서 주는 집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79140</link>
-            <guid>https://www.esquirekorea.co.kr/article/79140</guid>
-            <pubDate>Thu, 27 Jul 2023 03:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[눅눅한 장마도, 찌는 듯한 더위도 맥주 한 모금에 싹 가신다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/1eae16fc-f0a2-4131-9d06-516586a849af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['참을 수 없는 존재의 가벼움' 밀란 쿤데라 별세]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79133</link>
-            <guid>https://www.esquirekorea.co.kr/article/79133</guid>
-            <pubDate>Fri, 21 Jul 2023 15:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[삼가 고인의 명복을 빕니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/13/9a3b8055-a65c-45d0-afb1-acdaebd92156.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드라마 '악귀' 속 이홍새 역을 맡은 배우 홍경을 만나다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79005</link>
-            <guid>https://www.esquirekorea.co.kr/article/79005</guid>
-            <pubDate>Fri, 21 Jul 2023 09:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[지금 가장 뜨겁게 떠오르고 있는 남자 배우.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/07/da218999-2b07-45d6-b509-d1fcbecf06e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[통산 16번째 우승을 차지한 핫도그 먹기 대회 우승자]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78991</link>
-            <guid>https://www.esquirekorea.co.kr/article/78991</guid>
-            <pubDate>Tue, 18 Jul 2023 09:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[무려 10분 동안 62개의 핫도그를 먹었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/90725700-1f71-483a-b199-3d3928d39550.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강릉시, 반려견 동반 해수욕장 내일부터 운영]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78990</link>
-            <guid>https://www.esquirekorea.co.kr/article/78990</guid>
-            <pubDate>Fri, 14 Jul 2023 09:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[털 날림과 오염을 우려해 반려견 바다 입수는 금지된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/7d8a5c37-1a78-412e-81ca-d7fcdf1e399a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무한 확장의 끝, 'NCT 유니버스: 라스타트' 티저 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78988</link>
-            <guid>https://www.esquirekorea.co.kr/article/78988</guid>
-            <pubDate>Thu, 13 Jul 2023 09:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[NCT 새로운 팀은 6인조로 데뷔한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/06/91c0e72e-0534-44c6-9aec-bbe1ebeef442.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/now</id>
+    <title>에스콰이어 코리아 ─ 나우</title>
+    <updated>2023-07-29T09:16:10.839Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고기로 고기를 싸먹는 고깃집 3]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79335</id>
+        <link href="https://www.esquirekorea.co.kr/article/79335"/>
+        <updated>2023-07-29T09:16:02.278Z</updated>
+        <content type="html"><![CDATA[단백질 든든하게 보충. 이게 바로 진짜 보양식!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파리를 찾은 부쉐론의 얼굴 한소희]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79245</id>
+        <link href="https://www.esquirekorea.co.kr/article/79245"/>
+        <updated>2023-07-28T09:22:10.582Z</updated>
+        <content type="html"><![CDATA[한소희가 부쉐론의 2023 까르뜨 블랑슈 프레젠테이션에 참석했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[식품 회사 메이지에서 기획한 가상의 제품들]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79162</id>
+        <link href="https://www.esquirekorea.co.kr/article/79162"/>
+        <updated>2023-07-27T15:18:39.078Z</updated>
+        <content type="html"><![CDATA[먹지 마세요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뼛속까지 시원하게, 맥주 얼려서 주는 집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79140</id>
+        <link href="https://www.esquirekorea.co.kr/article/79140"/>
+        <updated>2023-07-27T03:23:50.149Z</updated>
+        <content type="html"><![CDATA[눅눅한 장마도, 찌는 듯한 더위도 맥주 한 모금에 싹 가신다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['참을 수 없는 존재의 가벼움' 밀란 쿤데라 별세]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79133</id>
+        <link href="https://www.esquirekorea.co.kr/article/79133"/>
+        <updated>2023-07-21T15:20:52.585Z</updated>
+        <content type="html"><![CDATA[삼가 고인의 명복을 빕니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드라마 '악귀' 속 이홍새 역을 맡은 배우 홍경을 만나다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79005</id>
+        <link href="https://www.esquirekorea.co.kr/article/79005"/>
+        <updated>2023-07-21T09:21:24.959Z</updated>
+        <content type="html"><![CDATA[지금 가장 뜨겁게 떠오르고 있는 남자 배우.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[통산 16번째 우승을 차지한 핫도그 먹기 대회 우승자]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78991</id>
+        <link href="https://www.esquirekorea.co.kr/article/78991"/>
+        <updated>2023-07-18T09:20:24.369Z</updated>
+        <content type="html"><![CDATA[무려 10분 동안 62개의 핫도그를 먹었다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강릉시, 반려견 동반 해수욕장 내일부터 운영]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78990</id>
+        <link href="https://www.esquirekorea.co.kr/article/78990"/>
+        <updated>2023-07-14T09:21:20.000Z</updated>
+        <content type="html"><![CDATA[털 날림과 오염을 우려해 반려견 바다 입수는 금지된다.]]></content>
+    </entry>
+</feed>
