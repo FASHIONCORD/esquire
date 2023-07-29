@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-07-29T09:16:10.834Z</updated>
+    <updated>2023-07-29T15:17:29.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴진스가 다녀간 전국 디저트 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79548</id>
+        <link href="https://www.esquirekorea.co.kr/article/79548"/>
+        <updated>2023-07-29T15:16:57.785Z</updated>
+        <content type="html"><![CDATA[해린과 다니엘의 시선을 사로잡은 타르트 맛집부터 뉴진스 쿠키집으로 유명한 곳까지]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주전자에 넣어주는 살얼음 동동 얼음 막걸리 맛집 5]]></title>
         <id>https://www.esquirekorea.co.kr/article/79530</id>
@@ -52,12 +59,5 @@
         <id>https://www.esquirekorea.co.kr/article/79483</id>
         <link href="https://www.esquirekorea.co.kr/article/79483"/>
         <updated>2023-07-27T15:18:15.299Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시원한 슬러시 소주를 판매하는 서울 고깃집 5]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79447</id>
-        <link href="https://www.esquirekorea.co.kr/article/79447"/>
-        <updated>2023-07-27T15:18:15.301Z</updated>
-        <content type="html"><![CDATA[지글지글 기름진 고기와 찰떡궁합인 눈꽃 소주로 불쾌지수 확 낮춰보자.]]></content>
     </entry>
 </feed>
