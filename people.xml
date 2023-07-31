@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-07-30T15:18:07.994Z</updated>
+    <updated>2023-07-31T03:19:20.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Part1. '뮤지컬'의 존재도 몰랐던 김히어라가 연기를 시작하게 된 계기]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79284</id>
+        <link href="https://www.esquirekorea.co.kr/article/79284"/>
+        <updated>2023-07-31T03:19:00.451Z</updated>
+        <content type="html"><![CDATA[범죄 조직 수장 용사장, 탈북자 계향심, 마약중독자 이사라, 절대악 겔리 버허드, 사랑을 추구하...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유라가 걸스데이 멤버들을 두고 '살면서 이런 마음을 가질 수 있는 사람들이 있다는 게 흔치 않은 일인 것 같다'고 한 이유]]></title>
         <id>https://www.esquirekorea.co.kr/article/79332</id>
@@ -50,11 +57,5 @@
         <id>https://www.esquirekorea.co.kr/article/79217</id>
         <link href="https://www.esquirekorea.co.kr/article/79217"/>
         <updated>2023-07-21T03:19:49.475Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제이홉, 거리에 희망을 풀어 놓다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79216</id>
-        <link href="https://www.esquirekorea.co.kr/article/79216"/>
-        <updated>2023-07-20T15:20:07.848Z</updated>
     </entry>
 </feed>
