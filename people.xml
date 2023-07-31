@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 09:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 15:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[말간 얼굴이 매력적인 김시은 화보 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79503</link>
+            <guid>https://www.esquirekorea.co.kr/article/79503</guid>
+            <pubDate>Mon, 31 Jul 2023 15:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[31일에는 '바이마이셀프'도 오픈 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/c7c09b59-1a56-45dd-9a9c-80426ccdaa5f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Part2. 김히어라가 역할마다 전혀 다른 이미지를 선보일 수 있는 이유]]></title>
             <link>https://www.esquirekorea.co.kr/article/79286</link>
@@ -61,13 +69,6 @@
             <pubDate>Mon, 24 Jul 2023 03:20:04 GMT</pubDate>
             <content:encoded><![CDATA[그는 외향적이지만, 동시에 혼자 있는 시간도 필요하다. 하루 종일 운동에 몰입하면서도 잊지 않...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/802761e0-1607-475b-a455-f352ecf5857f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제이홉의 귀중한 셀피 대공개!]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79289</link>
-            <guid>https://www.esquirekorea.co.kr/article/79289</guid>
-            <pubDate>Fri, 21 Jul 2023 09:21:15 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/242d1e6a-b816-4b6c-895c-e25f49e3a9ed.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
