@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 09:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 15:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찜질방을 품은 전국 펜션 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79570</link>
+            <guid>https://www.esquirekorea.co.kr/article/79570</guid>
+            <pubDate>Wed, 02 Aug 2023 15:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[면역력 증진과 빠른 혈액순환으로 스트레스 해소에 좋은 찜질 효과.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/29/dbbd606d-33db-4a55-a0f9-b9d6384ba7f2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CG는 현대 블록버스터를 어떻게 망쳐 왔나?]]></title>
             <link>https://www.esquirekorea.co.kr/article/79568</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 28 Jul 2023 15:23:45 GMT</pubDate>
             <content:encoded><![CDATA[몇 개월 전, 명실공히 세계에서 가장 칭송받는 레스토랑 중 하나인 노마가 영업 중단을 발표했...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/c0fa388f-f924-4ba6-81b6-ff98ebe39326.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돈까스 가이드 @katz_hunter가 추천하는 서울 돈까스 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79520</link>
-            <guid>https://www.esquirekorea.co.kr/article/79520</guid>
-            <pubDate>Fri, 28 Jul 2023 09:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[돈죽돈산! 맛있는 돈까스를 찾아 전국 투어만 무려 5년 차.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/3f4fa31e-91d3-4b58-a8ed-8f450cb262d8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
