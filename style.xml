@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2023-08-03T09:18:12.916Z</updated>
+    <updated>2023-08-03T15:19:40.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[불가리 세르펜티의 오라]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79516</id>
+        <link href="https://www.esquirekorea.co.kr/article/79516"/>
+        <updated>2023-08-03T15:18:30.687Z</updated>
+        <content type="html"><![CDATA[불가리 세르펜티가 지닌 관능적 태도와 치명적 아름다움.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리가 사랑한 소년들]]></title>
         <id>https://www.esquirekorea.co.kr/article/79513</id>
@@ -53,12 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/79501"/>
         <updated>2023-07-29T15:16:07.467Z</updated>
         <content type="html"><![CDATA[에디 슬리먼이 선보인 로큰롤 무드 정수.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베를린에서 만난 생 로랑 2024 SS 컬렉션]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79296</id>
-        <link href="https://www.esquirekorea.co.kr/article/79296"/>
-        <updated>2023-07-29T15:16:07.471Z</updated>
-        <content type="html"><![CDATA[지난 6월 12일 베를린, 루트비히 미스 반 데어로에가 디자인한 노이에 내셔널 갤러리에서 생 로...]]></content>
     </entry>
 </feed>
