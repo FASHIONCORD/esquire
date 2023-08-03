@@ -1,74 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 03:36:41 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[찜질방을 품은 전국 펜션 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79570</link>
-            <guid>https://www.esquirekorea.co.kr/article/79570</guid>
-            <pubDate>Wed, 02 Aug 2023 15:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[면역력 증진과 빠른 혈액순환으로 스트레스 해소에 좋은 찜질 효과.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/29/dbbd606d-33db-4a55-a0f9-b9d6384ba7f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CG는 현대 블록버스터를 어떻게 망쳐 왔나?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79568</link>
-            <guid>https://www.esquirekorea.co.kr/article/79568</guid>
-            <pubDate>Wed, 02 Aug 2023 09:18:12 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/29/1c0ae528-d760-4698-b506-a26f7dc93a75.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오션월드를 럭셔리하게 즐기는 가장 좋은 방법]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79343</link>
-            <guid>https://www.esquirekorea.co.kr/article/79343</guid>
-            <pubDate>Mon, 31 Jul 2023 15:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[기다란 주차 행렬, 물 반 사람 반의 파도 풀, 녹초의 몸으로 돌아와야 하는 수고는 당신과는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/29/d0ccdc15-4758-412e-89fd-d5e2ccc54b6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이열치열, 얼큰하고 칼칼한 김치수제비 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79555</link>
-            <guid>https://www.esquirekorea.co.kr/article/79555</guid>
-            <pubDate>Mon, 31 Jul 2023 09:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[비 오는 날에도 생각나는 그 맛.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/b1114f34-819d-4de4-bb43-ed73d5040a2a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스가 다녀간 전국 디저트 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79548</link>
-            <guid>https://www.esquirekorea.co.kr/article/79548</guid>
-            <pubDate>Sat, 29 Jul 2023 15:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[해린과 다니엘의 시선을 사로잡은 타르트 맛집부터 뉴진스 쿠키집으로 유명한 곳까지]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/b48f6204-14bb-4f76-8667-af727536ef4a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주전자에 넣어주는 살얼음 동동 얼음 막걸리 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79530</link>
-            <guid>https://www.esquirekorea.co.kr/article/79530</guid>
-            <pubDate>Sat, 29 Jul 2023 03:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[추억은 방울방울, 양은 주전자에 담긴 얼음 막걸리와 푸짐한 안주를 즐겨보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/208e9255-7f6c-4fcb-a7ca-b6d20e590798.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단독주택에 사는 사람들이 꼽은 우리집 제일 멋진 장소들]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79431</link>
-            <guid>https://www.esquirekorea.co.kr/article/79431</guid>
-            <pubDate>Fri, 28 Jul 2023 15:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[5명의 건축주들이 자신의 집에서 가장 사랑하는 사적인 경관을 꼽았다. 그 경관엔 사소하지만 소...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/6083b385-be8e-4967-bb0c-8848a91c50e8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노마의 영업 중단, "파인다이닝은 지속 불가능하다"는 르네 레드제피 셰프의 말을 이해하기 위해 당신이 알아야 할 것]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79283</link>
-            <guid>https://www.esquirekorea.co.kr/article/79283</guid>
-            <pubDate>Fri, 28 Jul 2023 15:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[몇 개월 전, 명실공히 세계에서 가장 칭송받는 레스토랑 중 하나인 노마가 영업 중단을 발표했...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/c0fa388f-f924-4ba6-81b6-ff98ebe39326.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/life</id>
+    <title>에스콰이어 코리아 ─ 라이프</title>
+    <updated>2023-08-03T09:18:12.922Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빠니보틀의 여행 노하우가 담긴 첫 번째 굿즈, 드디어 공개!]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79605</id>
+        <link href="https://www.esquirekorea.co.kr/article/79605"/>
+        <updated>2023-08-03T09:17:46.990Z</updated>
+        <content type="html"><![CDATA[빠니보틀과 스트릿 브랜드 이우가마카라스, 그리고 에스콰이어가 함께 준비한 빠니보틀의 첫 번째...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 친구와 오사카의 코트에서 테니스를 쳤다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79577</id>
+        <link href="https://www.esquirekorea.co.kr/article/79577"/>
+        <updated>2023-08-03T09:17:46.994Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[찜질방을 품은 전국 펜션 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79570</id>
+        <link href="https://www.esquirekorea.co.kr/article/79570"/>
+        <updated>2023-08-02T15:21:18.667Z</updated>
+        <content type="html"><![CDATA[면역력 증진과 빠른 혈액순환으로 스트레스 해소에 좋은 찜질 효과.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CG는 현대 블록버스터를 어떻게 망쳐 왔나?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79568</id>
+        <link href="https://www.esquirekorea.co.kr/article/79568"/>
+        <updated>2023-08-02T09:18:12.749Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오션월드를 럭셔리하게 즐기는 가장 좋은 방법]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79343</id>
+        <link href="https://www.esquirekorea.co.kr/article/79343"/>
+        <updated>2023-07-31T15:23:42.738Z</updated>
+        <content type="html"><![CDATA[기다란 주차 행렬, 물 반 사람 반의 파도 풀, 녹초의 몸으로 돌아와야 하는 수고는 당신과는 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이열치열, 얼큰하고 칼칼한 김치수제비 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79555</id>
+        <link href="https://www.esquirekorea.co.kr/article/79555"/>
+        <updated>2023-07-31T09:19:29.966Z</updated>
+        <content type="html"><![CDATA[비 오는 날에도 생각나는 그 맛.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴진스가 다녀간 전국 디저트 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79548</id>
+        <link href="https://www.esquirekorea.co.kr/article/79548"/>
+        <updated>2023-07-29T15:16:57.785Z</updated>
+        <content type="html"><![CDATA[해린과 다니엘의 시선을 사로잡은 타르트 맛집부터 뉴진스 쿠키집으로 유명한 곳까지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주전자에 넣어주는 살얼음 동동 얼음 막걸리 맛집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79530</id>
+        <link href="https://www.esquirekorea.co.kr/article/79530"/>
+        <updated>2023-07-29T03:18:50.067Z</updated>
+        <content type="html"><![CDATA[추억은 방울방울, 양은 주전자에 담긴 얼음 막걸리와 푸짐한 안주를 즐겨보자.]]></content>
+    </entry>
+</feed>

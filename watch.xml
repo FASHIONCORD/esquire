@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/watch</id>
     <title>에스콰이어 코리아 ─ 와치</title>
-    <updated>2023-08-03T03:36:41.147Z</updated>
+    <updated>2023-08-03T09:18:12.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[예거 르쿨트르, 한국 아티스트 강이연과 함께한 '오리진(ORIGIN)' 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78187</id>
+        <link href="https://www.esquirekorea.co.kr/article/78187"/>
+        <updated>2023-08-03T09:17:20.066Z</updated>
+        <content type="html"><![CDATA[황금비율에서 영감 받은 3D 비디오 스컬프처 작품.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카멜 커피 대표 박강현과 브랜드 매니저 박종진과 함께한 시계 토크]]></title>
         <id>https://www.esquirekorea.co.kr/article/77679</id>
@@ -52,12 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/77124"/>
         <updated>2023-05-19T03:20:57.806Z</updated>
         <content type="html"><![CDATA[파네라이는 올해 라디오미르 컬렉션에 집중했다. 다양한 모델 중에서 두 가지 모델을 소개한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워치스앤원더스 2023 특집 'IWC 샤프하우젠']]></title>
-        <id>https://www.esquirekorea.co.kr/article/77123</id>
-        <link href="https://www.esquirekorea.co.kr/article/77123"/>
-        <updated>2023-04-30T09:18:09.396Z</updated>
-        <content type="html"><![CDATA[IWC 샤프하우젠의 신제품 인제니어 오토매틱 40, 파일럿 워치 크로노그래프 41 탑건 오세아나, ...]]></content>
     </entry>
 </feed>
