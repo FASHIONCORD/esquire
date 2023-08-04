@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2023-08-04T03:20:26.812Z</updated>
+    <updated>2023-08-04T09:20:00.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빠니보틀의 여행 노하우가 담긴 첫 번째 굿즈, 드디어 공개!]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79605</id>
+        <link href="https://www.esquirekorea.co.kr/article/79605"/>
+        <updated>2023-08-04T09:17:58.701Z</updated>
+        <content type="html"><![CDATA[빠니보틀과 스트릿 브랜드 이우가마카라스, 그리고 에스콰이어가 함께 준비한 빠니보틀의 첫 번째...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불가리 세르펜티의 오라]]></title>
         <id>https://www.esquirekorea.co.kr/article/79516</id>
@@ -53,12 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/79503"/>
         <updated>2023-07-29T15:16:07.465Z</updated>
         <content type="html"><![CDATA[31일에는 '바이마이셀프'도 오픈 예정.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셀린느 윈터23 'AGE OF INDIENESS’ 컬렉션 영상 공개]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79501</id>
-        <link href="https://www.esquirekorea.co.kr/article/79501"/>
-        <updated>2023-07-29T15:16:07.467Z</updated>
-        <content type="html"><![CDATA[에디 슬리먼이 선보인 로큰롤 무드 정수.]]></content>
     </entry>
 </feed>
