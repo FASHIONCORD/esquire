@@ -1,62 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/life</id>
-    <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-08-04T09:20:00.440Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[애드 미놀리티가 초대하는 포근한 논바이너리의 세계]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79515</id>
-        <link href="https://www.esquirekorea.co.kr/article/79515"/>
-        <updated>2023-08-03T15:19:12.892Z</updated>
-        <content type="html"><![CDATA[아티스트 애드 미놀리티의 페인팅은 따듯하고, 포근한 기쁨으로 가득하다.  애드는 바로 그 포근...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빠니보틀의 여행 노하우가 담긴 첫 번째 굿즈, 드디어 공개!]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79605</id>
-        <link href="https://www.esquirekorea.co.kr/article/79605"/>
-        <updated>2023-08-03T09:17:46.990Z</updated>
-        <content type="html"><![CDATA[빠니보틀과 스트릿 브랜드 이우가마카라스, 그리고 에스콰이어가 함께 준비한 빠니보틀의 첫 번째...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 친구와 오사카의 코트에서 테니스를 쳤다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79577</id>
-        <link href="https://www.esquirekorea.co.kr/article/79577"/>
-        <updated>2023-08-03T09:17:46.994Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찜질방을 품은 전국 펜션 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79570</id>
-        <link href="https://www.esquirekorea.co.kr/article/79570"/>
-        <updated>2023-08-02T15:21:18.667Z</updated>
-        <content type="html"><![CDATA[면역력 증진과 빠른 혈액순환으로 스트레스 해소에 좋은 찜질 효과.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CG는 현대 블록버스터를 어떻게 망쳐 왔나?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79568</id>
-        <link href="https://www.esquirekorea.co.kr/article/79568"/>
-        <updated>2023-08-02T09:18:12.749Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오션월드를 럭셔리하게 즐기는 가장 좋은 방법]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79343</id>
-        <link href="https://www.esquirekorea.co.kr/article/79343"/>
-        <updated>2023-07-31T15:23:42.738Z</updated>
-        <content type="html"><![CDATA[기다란 주차 행렬, 물 반 사람 반의 파도 풀, 녹초의 몸으로 돌아와야 하는 수고는 당신과는 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이열치열, 얼큰하고 칼칼한 김치수제비 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79555</id>
-        <link href="https://www.esquirekorea.co.kr/article/79555"/>
-        <updated>2023-07-31T09:19:29.966Z</updated>
-        <content type="html"><![CDATA[비 오는 날에도 생각나는 그 맛.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스가 다녀간 전국 디저트 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79548</id>
-        <link href="https://www.esquirekorea.co.kr/article/79548"/>
-        <updated>2023-07-29T15:16:57.785Z</updated>
-        <content type="html"><![CDATA[해린과 다니엘의 시선을 사로잡은 타르트 맛집부터 뉴진스 쿠키집으로 유명한 곳까지]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 04 Aug 2023 15:19:49 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이클 조던과 제임스 르브론 중 진정한 GOAT는 누구?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79616</link>
+            <guid>https://www.esquirekorea.co.kr/article/79616</guid>
+            <pubDate>Fri, 04 Aug 2023 15:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[프로 스포츠 선수들의 가치를 비교하는 건 언제나 흥미로운 가십거리다.  상대를 모욕하기 위해...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/3e40b22b-c9c6-44e8-91c0-61dcb88dd6b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[회전 샤브샤브? 회전 레일이 있는 이색 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79648</link>
+            <guid>https://www.esquirekorea.co.kr/article/79648</guid>
+            <pubDate>Fri, 04 Aug 2023 15:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[회전 레일 고깃집부터 회전 샤브샤브집까지. 어디까지 레일에 올릴 수 있을까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/b0f3d9b4-6e15-4cf7-a9e1-8958b8bc352d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애드 미놀리티가 초대하는 포근한 논바이너리의 세계]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79515</link>
+            <guid>https://www.esquirekorea.co.kr/article/79515</guid>
+            <pubDate>Thu, 03 Aug 2023 15:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[아티스트 애드 미놀리티의 페인팅은 따듯하고, 포근한 기쁨으로 가득하다.  애드는 바로 그 포근...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/1a7e0b00-9e97-427c-ac17-dd81e0805a95.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빠니보틀의 여행 노하우가 담긴 첫 번째 굿즈, 드디어 공개!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79605</link>
+            <guid>https://www.esquirekorea.co.kr/article/79605</guid>
+            <pubDate>Thu, 03 Aug 2023 09:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[빠니보틀과 스트릿 브랜드 이우가마카라스, 그리고 에스콰이어가 함께 준비한 빠니보틀의 첫 번째...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/7248d0b3-2ae3-4277-9e6e-df6e2c5e23fd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국 친구와 오사카의 코트에서 테니스를 쳤다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79577</link>
+            <guid>https://www.esquirekorea.co.kr/article/79577</guid>
+            <pubDate>Thu, 03 Aug 2023 09:17:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/30/661d2621-0cad-41cd-af1c-e5cc84bde06b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찜질방을 품은 전국 펜션 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79570</link>
+            <guid>https://www.esquirekorea.co.kr/article/79570</guid>
+            <pubDate>Wed, 02 Aug 2023 15:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[면역력 증진과 빠른 혈액순환으로 스트레스 해소에 좋은 찜질 효과.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/29/dbbd606d-33db-4a55-a0f9-b9d6384ba7f2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CG는 현대 블록버스터를 어떻게 망쳐 왔나?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79568</link>
+            <guid>https://www.esquirekorea.co.kr/article/79568</guid>
+            <pubDate>Wed, 02 Aug 2023 09:18:12 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/29/1c0ae528-d760-4698-b506-a26f7dc93a75.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오션월드를 럭셔리하게 즐기는 가장 좋은 방법]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79343</link>
+            <guid>https://www.esquirekorea.co.kr/article/79343</guid>
+            <pubDate>Mon, 31 Jul 2023 15:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[기다란 주차 행렬, 물 반 사람 반의 파도 풀, 녹초의 몸으로 돌아와야 하는 수고는 당신과는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/29/d0ccdc15-4758-412e-89fd-d5e2ccc54b6e.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

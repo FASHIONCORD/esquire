@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 09:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 15:19:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아르마냑의 수호자 플로렌스 카스타레데를 만나다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79285</link>
+            <guid>https://www.esquirekorea.co.kr/article/79285</guid>
+            <pubDate>Fri, 04 Aug 2023 15:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[와인을 증류한 술은 우아하다. 그 우아의 세계에서 가장 저평가된 술은 코냑의 사촌 아르마냑이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/c11331d4-8c47-47a1-9336-dbc2035b4a26.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이열치열, 얼큰하고 칼칼한 김치수제비 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/79555</link>
@@ -53,7 +61,7 @@
             <guid>https://www.esquirekorea.co.kr/article/79520</guid>
             <pubDate>Fri, 28 Jul 2023 09:21:38 GMT</pubDate>
             <content:encoded><![CDATA[돈죽돈산! 맛있는 돈까스를 찾아 전국 투어만 무려 5년 차.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/3f4fa31e-91d3-4b58-a8ed-8f450cb262d8.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/372f2f78-ddbb-46b3-99f8-11713139b060.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘빵빵이의 생일파티’ 팝업스토어와 주변 가볼 곳 5]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 28 Jul 2023 09:21:38 GMT</pubDate>
             <content:encoded><![CDATA[팝업스토어와 함께 가볼 만한 핫한 데이트 풀코스를 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/f8a5b263-bfed-4a2a-b206-8edebc3ec9be.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원할머니 플래그십 스토어는 콜키지가 무료? 강남 콜키지 프리 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79463</link>
-            <guid>https://www.esquirekorea.co.kr/article/79463</guid>
-            <pubDate>Fri, 28 Jul 2023 03:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[보쌈, 육전, 낙지볶음, 한우, 양식, 일식에 직접 페어링 하는 재미가 있는 강남 콜키지 프리 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/26/29686d8d-4456-4a32-a536-f967b9873447.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
