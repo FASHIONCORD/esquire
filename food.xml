@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/food</id>
-    <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2023-08-07T03:19:29.975Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[회전 샤브샤브? 회전 레일이 있는 이색 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79648</id>
-        <link href="https://www.esquirekorea.co.kr/article/79648"/>
-        <updated>2023-08-05T03:20:45.175Z</updated>
-        <content type="html"><![CDATA[회전 레일 고깃집부터 회전 샤브샤브집까지. 어디까지 레일에 올릴 수 있을까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아르마냑의 수호자 플로렌스 카스타레데를 만나다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79285</id>
-        <link href="https://www.esquirekorea.co.kr/article/79285"/>
-        <updated>2023-08-04T15:18:56.946Z</updated>
-        <content type="html"><![CDATA[와인을 증류한 술은 우아하다. 그 우아의 세계에서 가장 저평가된 술은 코냑의 사촌 아르마냑이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이열치열, 얼큰하고 칼칼한 김치수제비 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79555</id>
-        <link href="https://www.esquirekorea.co.kr/article/79555"/>
-        <updated>2023-08-04T09:19:08.175Z</updated>
-        <content type="html"><![CDATA[비 오는 날에도 생각나는 그 맛.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스가 다녀간 전국 디저트 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79548</id>
-        <link href="https://www.esquirekorea.co.kr/article/79548"/>
-        <updated>2023-08-03T15:19:02.081Z</updated>
-        <content type="html"><![CDATA[해린과 다니엘의 시선을 사로잡은 타르트 맛집부터 뉴진스 쿠키집으로 유명한 곳까지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주전자에 넣어주는 살얼음 동동 얼음 막걸리 맛집 5]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79530</id>
-        <link href="https://www.esquirekorea.co.kr/article/79530"/>
-        <updated>2023-08-03T15:19:02.082Z</updated>
-        <content type="html"><![CDATA[추억은 방울방울, 양은 주전자에 담긴 얼음 막걸리와 푸짐한 안주를 즐겨보자.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노마의 영업 중단, "파인다이닝은 지속 불가능하다"는 르네 레드제피 셰프의 말을 이해하기 위해 당신이 알아야 할 것]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79283</id>
-        <link href="https://www.esquirekorea.co.kr/article/79283"/>
-        <updated>2023-08-02T15:21:08.342Z</updated>
-        <content type="html"><![CDATA[몇 개월 전, 명실공히 세계에서 가장 칭송받는 레스토랑 중 하나인 노마가 영업 중단을 발표했...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스눕독이 새롭게 선보이는 7가지 맛 아이스크림]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79526</id>
-        <link href="https://www.esquirekorea.co.kr/article/79526"/>
-        <updated>2023-07-31T15:23:28.851Z</updated>
-        <content type="html"><![CDATA[시리얼, 팬케이크, 오트밀, 아이스크림까지. 그다음 식품은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돈까스 가이드 @katz_hunter가 추천하는 서울 돈까스 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79520</id>
-        <link href="https://www.esquirekorea.co.kr/article/79520"/>
-        <updated>2023-07-28T09:21:38.080Z</updated>
-        <content type="html"><![CDATA[돈죽돈산! 맛있는 돈까스를 찾아 전국 투어만 무려 5년 차.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 푸드</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 07 Aug 2023 09:20:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[회전 샤브샤브? 회전 레일이 있는 이색 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79648</link>
+            <guid>https://www.esquirekorea.co.kr/article/79648</guid>
+            <pubDate>Sat, 05 Aug 2023 03:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[회전 레일 고깃집부터 회전 샤브샤브집까지. 어디까지 레일에 올릴 수 있을까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/b0f3d9b4-6e15-4cf7-a9e1-8958b8bc352d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아르마냑의 수호자 플로렌스 카스타레데를 만나다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79285</link>
+            <guid>https://www.esquirekorea.co.kr/article/79285</guid>
+            <pubDate>Fri, 04 Aug 2023 15:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[와인을 증류한 술은 우아하다. 그 우아의 세계에서 가장 저평가된 술은 코냑의 사촌 아르마냑이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/c11331d4-8c47-47a1-9336-dbc2035b4a26.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이열치열, 얼큰하고 칼칼한 김치수제비 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79555</link>
+            <guid>https://www.esquirekorea.co.kr/article/79555</guid>
+            <pubDate>Fri, 04 Aug 2023 09:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[비 오는 날에도 생각나는 그 맛.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/b1114f34-819d-4de4-bb43-ed73d5040a2a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴진스가 다녀간 전국 디저트 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79548</link>
+            <guid>https://www.esquirekorea.co.kr/article/79548</guid>
+            <pubDate>Thu, 03 Aug 2023 15:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[해린과 다니엘의 시선을 사로잡은 타르트 맛집부터 뉴진스 쿠키집으로 유명한 곳까지]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/b48f6204-14bb-4f76-8667-af727536ef4a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주전자에 넣어주는 살얼음 동동 얼음 막걸리 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79530</link>
+            <guid>https://www.esquirekorea.co.kr/article/79530</guid>
+            <pubDate>Thu, 03 Aug 2023 15:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[추억은 방울방울, 양은 주전자에 담긴 얼음 막걸리와 푸짐한 안주를 즐겨보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/208e9255-7f6c-4fcb-a7ca-b6d20e590798.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노마의 영업 중단, "파인다이닝은 지속 불가능하다"는 르네 레드제피 셰프의 말을 이해하기 위해 당신이 알아야 할 것]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79283</link>
+            <guid>https://www.esquirekorea.co.kr/article/79283</guid>
+            <pubDate>Wed, 02 Aug 2023 15:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[몇 개월 전, 명실공히 세계에서 가장 칭송받는 레스토랑 중 하나인 노마가 영업 중단을 발표했...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/c0fa388f-f924-4ba6-81b6-ff98ebe39326.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스눕독이 새롭게 선보이는 7가지 맛 아이스크림]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79526</link>
+            <guid>https://www.esquirekorea.co.kr/article/79526</guid>
+            <pubDate>Mon, 31 Jul 2023 15:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[시리얼, 팬케이크, 오트밀, 아이스크림까지. 그다음 식품은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/e2693fb6-97d5-4ead-b51e-b2c900c07ff4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돈까스 가이드 @katz_hunter가 추천하는 서울 돈까스 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79520</link>
+            <guid>https://www.esquirekorea.co.kr/article/79520</guid>
+            <pubDate>Fri, 28 Jul 2023 09:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[돈죽돈산! 맛있는 돈까스를 찾아 전국 투어만 무려 5년 차.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/372f2f78-ddbb-46b3-99f8-11713139b060.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
