@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 피플</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 09:20:11 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[유겸이 격투기 글러브를 사게 된 이유?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79649</link>
-            <guid>https://www.esquirekorea.co.kr/article/79649</guid>
-            <pubDate>Sat, 05 Aug 2023 03:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[최애 색인 노랑에 얽힌 에피소드도 공개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/5e437559-30b7-41b9-a3dd-c229a699f4e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM 신인 남돌 RIIZE(라이즈) TMI 12]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79629</link>
-            <guid>https://www.esquirekorea.co.kr/article/79629</guid>
-            <pubDate>Sat, 05 Aug 2023 03:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[SM이 4번이나 길거리 캐스팅 한 멤버는?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/6b2355e5-26ce-40cd-b82c-a3922a2f7b90.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아르마냑의 수호자 플로렌스 카스타레데를 만나다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79285</link>
-            <guid>https://www.esquirekorea.co.kr/article/79285</guid>
-            <pubDate>Sat, 05 Aug 2023 03:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[와인을 증류한 술은 우아하다. 그 우아의 세계에서 가장 저평가된 술은 코냑의 사촌 아르마냑이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/c11331d4-8c47-47a1-9336-dbc2035b4a26.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김시은이 최근 구매한 모든 것]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79599</link>
-            <guid>https://www.esquirekorea.co.kr/article/79599</guid>
-            <pubDate>Thu, 03 Aug 2023 09:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[기타 치는 김시은의 모습도 준비했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/7a7a0696-f341-4094-a22e-f395a7e5447c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맨시티 더브라위너, SNL 출연?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79586</link>
-            <guid>https://www.esquirekorea.co.kr/article/79586</guid>
-            <pubDate>Thu, 03 Aug 2023 09:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[맨시티 선수와 마드리드 선수가 ‘신도림 조기축구회’로 합을 맞춘다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/e75da61b-0a2f-4292-b20c-91853bef73b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권은비, 최근 구매한 것 중 가장 마음에 드는 아이템?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79552</link>
-            <guid>https://www.esquirekorea.co.kr/article/79552</guid>
-            <pubDate>Thu, 03 Aug 2023 09:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[권은비의 쇼핑 리스트를 공개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/f88aebb9-fa3a-4d68-8c42-728a04507e7d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 ‘밀수’로 돌아온 고민시 TMI 12]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79511</link>
-            <guid>https://www.esquirekorea.co.kr/article/79511</guid>
-            <pubDate>Tue, 01 Aug 2023 09:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[고민시에게 새로 생긴 별명은 푸바오?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/d7f3ead2-4ec0-4424-926b-7eed086f65ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말간 얼굴이 매력적인 김시은 화보 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79503</link>
-            <guid>https://www.esquirekorea.co.kr/article/79503</guid>
-            <pubDate>Mon, 31 Jul 2023 15:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[31일에는 '바이마이셀프'도 오픈 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/c7c09b59-1a56-45dd-9a9c-80426ccdaa5f.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/people</id>
+    <title>에스콰이어 코리아 ─ 피플</title>
+    <updated>2023-08-09T15:21:53.599Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['범죄도시3' 천만 배우 고규필 화보 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79653</id>
+        <link href="https://www.esquirekorea.co.kr/article/79653"/>
+        <updated>2023-08-09T15:21:31.701Z</updated>
+        <content type="html"><![CDATA['SNL 코리아 시즌 4'까지 접수한 초롱이, 고규필 화보 6컷을 공개한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유겸이 격투기 글러브를 사게 된 이유?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79649</id>
+        <link href="https://www.esquirekorea.co.kr/article/79649"/>
+        <updated>2023-08-05T03:21:06.513Z</updated>
+        <content type="html"><![CDATA[최애 색인 노랑에 얽힌 에피소드도 공개한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM 신인 남돌 RIIZE(라이즈) TMI 12]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79629</id>
+        <link href="https://www.esquirekorea.co.kr/article/79629"/>
+        <updated>2023-08-05T03:21:06.514Z</updated>
+        <content type="html"><![CDATA[SM이 4번이나 길거리 캐스팅 한 멤버는?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아르마냑의 수호자 플로렌스 카스타레데를 만나다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79285</id>
+        <link href="https://www.esquirekorea.co.kr/article/79285"/>
+        <updated>2023-08-05T03:21:06.516Z</updated>
+        <content type="html"><![CDATA[와인을 증류한 술은 우아하다. 그 우아의 세계에서 가장 저평가된 술은 코냑의 사촌 아르마냑이...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김시은이 최근 구매한 모든 것]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79599</id>
+        <link href="https://www.esquirekorea.co.kr/article/79599"/>
+        <updated>2023-08-03T09:17:54.460Z</updated>
+        <content type="html"><![CDATA[기타 치는 김시은의 모습도 준비했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맨시티 더브라위너, SNL 출연?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79586</id>
+        <link href="https://www.esquirekorea.co.kr/article/79586"/>
+        <updated>2023-08-03T09:17:54.461Z</updated>
+        <content type="html"><![CDATA[맨시티 선수와 마드리드 선수가 ‘신도림 조기축구회’로 합을 맞춘다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권은비, 최근 구매한 것 중 가장 마음에 드는 아이템?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79552</id>
+        <link href="https://www.esquirekorea.co.kr/article/79552"/>
+        <updated>2023-08-03T09:17:54.463Z</updated>
+        <content type="html"><![CDATA[권은비의 쇼핑 리스트를 공개한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 ‘밀수’로 돌아온 고민시 TMI 12]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79511</id>
+        <link href="https://www.esquirekorea.co.kr/article/79511"/>
+        <updated>2023-08-01T09:23:24.775Z</updated>
+        <content type="html"><![CDATA[고민시에게 새로 생긴 별명은 푸바오?]]></content>
+    </entry>
+</feed>
