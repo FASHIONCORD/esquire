@@ -4,7 +4,7 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 15:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 03:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,7 @@
             <guid>https://www.esquirekorea.co.kr/article/79683</guid>
             <pubDate>Wed, 09 Aug 2023 09:19:30 GMT</pubDate>
             <content:encoded><![CDATA[항아리에 참숯을 넣어 구워주는 육즙 가득한 삼겹살 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/be7b1382-c3d3-4b47-bc7b-961fd578768b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[회전 샤브샤브? 회전 레일이 있는 이색 맛집 4]]></title>
@@ -20,6 +21,7 @@
             <guid>https://www.esquirekorea.co.kr/article/79648</guid>
             <pubDate>Sat, 05 Aug 2023 03:20:45 GMT</pubDate>
             <content:encoded><![CDATA[회전 레일 고깃집부터 회전 샤브샤브집까지. 어디까지 레일에 올릴 수 있을까?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/b0f3d9b4-6e15-4cf7-a9e1-8958b8bc352d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아르마냑의 수호자 플로렌스 카스타레데를 만나다]]></title>
@@ -27,6 +29,7 @@
             <guid>https://www.esquirekorea.co.kr/article/79285</guid>
             <pubDate>Fri, 04 Aug 2023 15:18:56 GMT</pubDate>
             <content:encoded><![CDATA[와인을 증류한 술은 우아하다. 그 우아의 세계에서 가장 저평가된 술은 코냑의 사촌 아르마냑이...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/c11331d4-8c47-47a1-9336-dbc2035b4a26.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이열치열, 얼큰하고 칼칼한 김치수제비 맛집 4]]></title>
@@ -34,6 +37,7 @@
             <guid>https://www.esquirekorea.co.kr/article/79555</guid>
             <pubDate>Fri, 04 Aug 2023 09:19:08 GMT</pubDate>
             <content:encoded><![CDATA[비 오는 날에도 생각나는 그 맛.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/b1114f34-819d-4de4-bb43-ed73d5040a2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴진스가 다녀간 전국 디저트 맛집 4]]></title>
