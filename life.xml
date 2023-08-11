@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-08-11T03:19:41.267Z</updated>
+    <updated>2023-08-11T09:17:56.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여름 휴가의 새로운 성지, 고성 핫플 가이드]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79813</id>
+        <link href="https://www.esquirekorea.co.kr/article/79813"/>
+        <updated>2023-08-11T09:17:28.221Z</updated>
+        <content type="html"><![CDATA[오픈런 한다는 핫한 식당부터 카페, 펍까지. 고성 핫플의 모든 것.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오는 13일, 밤하늘을 수놓을 '페르세우스 유성우']]></title>
+        <id>https://www.esquirekorea.co.kr/article/79797</id>
+        <link href="https://www.esquirekorea.co.kr/article/79797"/>
+        <updated>2023-08-11T09:17:28.227Z</updated>
+        <content type="html"><![CDATA[3대 유성우 중 하나라고.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계 잼버리 대회, 대체 뭐길래? 잼버리 TMI 10.]]></title>
         <id>https://www.esquirekorea.co.kr/article/79794</id>
@@ -46,19 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/79707"/>
         <updated>2023-08-09T09:19:40.055Z</updated>
         <content type="html"><![CDATA[그가 분석한 여의도의 순대국 맛지도를 소개한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정신과 상담을 겁내는 남성들에게 쓰는 편지]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79517</id>
-        <link href="https://www.esquirekorea.co.kr/article/79517"/>
-        <updated>2023-08-09T09:19:40.062Z</updated>
-        <content type="html"><![CDATA[정신질환을 앓고 있다고 인정하는 것은 특히 남자들에게 쉬운 일이 아니다. 다행히 이러한 세태...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 오픈한 감성 숙소 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79676</id>
-        <link href="https://www.esquirekorea.co.kr/article/79676"/>
-        <updated>2023-08-06T15:18:00.498Z</updated>
-        <content type="html"><![CDATA[이곳이 국내인가, 해외인가. 이국적인 분위기의 신상 감성 숙소를 모았다.]]></content>
     </entry>
 </feed>

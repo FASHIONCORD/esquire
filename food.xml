@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 푸드</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 03:19:41 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[여의도 증권맨 @yeouido_tasty가 추천하는 여의도 순대국 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79707</link>
-            <guid>https://www.esquirekorea.co.kr/article/79707</guid>
-            <pubDate>Thu, 10 Aug 2023 15:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[그가 분석한 여의도의 순대국 맛지도를 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/a85e5881-16b9-4f5d-9b65-0dc3b4cd4d1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마장동 우시장 정육 식당, 식당 사용 설명서]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79703</link>
-            <guid>https://www.esquirekorea.co.kr/article/79703</guid>
-            <pubDate>Thu, 10 Aug 2023 15:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[즉석에서 바로 얻은 고기를 가장 신선하고 저렴하게 맛볼 수 있는 4곳을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/e5b663c8-a2df-4bef-91e0-0d7f82e7ac29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[종로 보쌈 골목 속 노포 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79684</link>
-            <guid>https://www.esquirekorea.co.kr/article/79684</guid>
-            <pubDate>Thu, 10 Aug 2023 09:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[50년 넘는 전통을 가진 곳부터 통영 산지 직송 굴보쌈 맛집까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/8f3b0f41-4a58-4d55-b2bc-a45c394c6ea7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[항아리에 구워주는 삼겹살 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79683</link>
-            <guid>https://www.esquirekorea.co.kr/article/79683</guid>
-            <pubDate>Wed, 09 Aug 2023 09:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[항아리에 참숯을 넣어 구워주는 육즙 가득한 삼겹살 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/be7b1382-c3d3-4b47-bc7b-961fd578768b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[회전 샤브샤브? 회전 레일이 있는 이색 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79648</link>
-            <guid>https://www.esquirekorea.co.kr/article/79648</guid>
-            <pubDate>Sat, 05 Aug 2023 03:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[회전 레일 고깃집부터 회전 샤브샤브집까지. 어디까지 레일에 올릴 수 있을까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/b0f3d9b4-6e15-4cf7-a9e1-8958b8bc352d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아르마냑의 수호자 플로렌스 카스타레데를 만나다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79285</link>
-            <guid>https://www.esquirekorea.co.kr/article/79285</guid>
-            <pubDate>Fri, 04 Aug 2023 15:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[와인을 증류한 술은 우아하다. 그 우아의 세계에서 가장 저평가된 술은 코냑의 사촌 아르마냑이...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/c11331d4-8c47-47a1-9336-dbc2035b4a26.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이열치열, 얼큰하고 칼칼한 김치수제비 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79555</link>
-            <guid>https://www.esquirekorea.co.kr/article/79555</guid>
-            <pubDate>Fri, 04 Aug 2023 09:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[비 오는 날에도 생각나는 그 맛.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/b1114f34-819d-4de4-bb43-ed73d5040a2a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스가 다녀간 전국 디저트 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79548</link>
-            <guid>https://www.esquirekorea.co.kr/article/79548</guid>
-            <pubDate>Thu, 03 Aug 2023 15:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[해린과 다니엘의 시선을 사로잡은 타르트 맛집부터 뉴진스 쿠키집으로 유명한 곳까지]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/b48f6204-14bb-4f76-8667-af727536ef4a.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/food</id>
+    <title>에스콰이어 코리아 ─ 푸드</title>
+    <updated>2023-08-11T09:17:56.121Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[산속에 숨은 운치 가득한 서울 산속 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79714</id>
+        <link href="https://www.esquirekorea.co.kr/article/79714"/>
+        <updated>2023-08-11T09:17:18.110Z</updated>
+        <content type="html"><![CDATA[서울에 이런 식당이 있다고?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여의도 증권맨 @yeouido_tasty가 추천하는 여의도 순대국 맛집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79707</id>
+        <link href="https://www.esquirekorea.co.kr/article/79707"/>
+        <updated>2023-08-10T15:22:20.966Z</updated>
+        <content type="html"><![CDATA[그가 분석한 여의도의 순대국 맛지도를 소개한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마장동 우시장 정육 식당, 식당 사용 설명서]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79703</id>
+        <link href="https://www.esquirekorea.co.kr/article/79703"/>
+        <updated>2023-08-10T15:22:20.968Z</updated>
+        <content type="html"><![CDATA[즉석에서 바로 얻은 고기를 가장 신선하고 저렴하게 맛볼 수 있는 4곳을 소개한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종로 보쌈 골목 속 노포 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79684</id>
+        <link href="https://www.esquirekorea.co.kr/article/79684"/>
+        <updated>2023-08-10T09:19:06.956Z</updated>
+        <content type="html"><![CDATA[50년 넘는 전통을 가진 곳부터 통영 산지 직송 굴보쌈 맛집까지.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[항아리에 구워주는 삼겹살 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79683</id>
+        <link href="https://www.esquirekorea.co.kr/article/79683"/>
+        <updated>2023-08-09T09:19:30.922Z</updated>
+        <content type="html"><![CDATA[항아리에 참숯을 넣어 구워주는 육즙 가득한 삼겹살 맛집을 소개한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[회전 샤브샤브? 회전 레일이 있는 이색 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79648</id>
+        <link href="https://www.esquirekorea.co.kr/article/79648"/>
+        <updated>2023-08-05T03:20:45.175Z</updated>
+        <content type="html"><![CDATA[회전 레일 고깃집부터 회전 샤브샤브집까지. 어디까지 레일에 올릴 수 있을까?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아르마냑의 수호자 플로렌스 카스타레데를 만나다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79285</id>
+        <link href="https://www.esquirekorea.co.kr/article/79285"/>
+        <updated>2023-08-04T15:18:56.946Z</updated>
+        <content type="html"><![CDATA[와인을 증류한 술은 우아하다. 그 우아의 세계에서 가장 저평가된 술은 코냑의 사촌 아르마냑이...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이열치열, 얼큰하고 칼칼한 김치수제비 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79555</id>
+        <link href="https://www.esquirekorea.co.kr/article/79555"/>
+        <updated>2023-08-04T09:19:08.175Z</updated>
+        <content type="html"><![CDATA[비 오는 날에도 생각나는 그 맛.]]></content>
+    </entry>
+</feed>
