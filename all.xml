@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 09:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 15:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1137,12 +1137,14 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/79653</guid>
             <pubDate>Tue, 08 Aug 2023 09:17:21 GMT</pubDate>
             <content:encoded><![CDATA['SNL 코리아 시즌 4'까지 접수한 초롱이, 고규필 화보 6컷을 공개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/c4c637fd-fe5f-4411-984f-b14748f1882d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주얼리 세계에서 가장 밝고 선명하게 반짝이는 이름 PART.1 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/79559</link>
             <guid>https://www.esquirekorea.co.kr/article/79559</guid>
             <pubDate>Fri, 04 Aug 2023 15:18:25 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/9214d872-ef5b-40e1-99ea-72a010f5e55b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빠니보틀의 여행 노하우가 담긴 첫 번째 굿즈, 드디어 공개! (에스콰이어 코리아 ─ 스타일)]]></title>
@@ -1150,6 +1152,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/79605</guid>
             <pubDate>Thu, 03 Aug 2023 09:17:46 GMT</pubDate>
             <content:encoded><![CDATA[빠니보틀과 스트릿 브랜드 이우가마카라스, 그리고 에스콰이어가 함께 준비한 빠니보틀의 첫 번째...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/7248d0b3-2ae3-4277-9e6e-df6e2c5e23fd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[불가리 세르펜티의 오라 (에스콰이어 코리아 ─ 스타일)]]></title>
@@ -1157,6 +1160,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/79516</guid>
             <pubDate>Thu, 03 Aug 2023 15:18:30 GMT</pubDate>
             <content:encoded><![CDATA[불가리 세르펜티가 지닌 관능적 태도와 치명적 아름다움.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/4bf2e050-6d61-4341-b739-7d80f3558359.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리가 사랑한 소년들 (에스콰이어 코리아 ─ 스타일)]]></title>
@@ -1164,6 +1168,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/79513</guid>
             <pubDate>Wed, 02 Aug 2023 15:20:35 GMT</pubDate>
             <content:encoded><![CDATA[소년, 영원히 자유롭고 거침없는 채로.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/30/afe0d963-6e77-4f83-a70d-101428f3a542.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시대를 호령하는 아이콘 뷔와의 숨막히는 눈맞춤 (에스콰이어 코리아 ─ 스타일)]]></title>
@@ -1171,6 +1176,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/79575</guid>
             <pubDate>Wed, 02 Aug 2023 09:17:28 GMT</pubDate>
             <content:encoded><![CDATA[뷔와 함께한 셀린느 23윈터 패션 필름 EP. 3]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/81e11c9e-a8b2-48c4-afab-bf1fd5f04bda.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[눈빛과 손짓으로 완성한 뷔만의 언어 (에스콰이어 코리아 ─ 스타일)]]></title>
@@ -1178,6 +1184,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/79574</guid>
             <pubDate>Tue, 01 Aug 2023 15:22:25 GMT</pubDate>
             <content:encoded><![CDATA[뷔와 함께한 셀린느 23윈터 패션 필름 EP. 2]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/8607c41c-8b3f-4124-b4f0-03f2b2e57979.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시공간을 뒤흔드는 압도적인 피사체 뷔 (에스콰이어 코리아 ─ 스타일)]]></title>
@@ -1185,6 +1192,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/79573</guid>
             <pubDate>Mon, 31 Jul 2023 09:18:38 GMT</pubDate>
             <content:encoded><![CDATA[뷔와 함께한 셀린느 23윈터 패션 필름 EP. 1]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/62c4dcf6-7ecf-4cee-9b98-2e171fae998d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예거 르쿨트르, 한국 아티스트 강이연과 함께한 '오리진(ORIGIN)' 공개 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1255,7 +1263,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/79571</guid>
             <pubDate>Thu, 10 Aug 2023 03:18:50 GMT</pubDate>
             <content:encoded><![CDATA[갤럭시 Z 플립5, 갤럭시 Z 폴드5부터 갤럭시 워치6, 갤럭시 탭 S9 시리즈까지]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/d71d7522-f6f2-416c-821f-4c428c764ed5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오디오 역사의 전설이 된 스피커들, 재해석과 복각과 오마주로 돌아오다 (에스콰이어 코리아 ─ 카&테크)]]></title>
@@ -1263,7 +1270,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/79433</guid>
             <pubDate>Sat, 05 Aug 2023 15:18:53 GMT</pubDate>
             <content:encoded><![CDATA[오디오 역사의 전설이 된 스피커들의 다소 뒤늦은, 하지만 이토록 깊고도 유연한 변주.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/4873c619-4885-484c-b618-63ac269a71f3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엠브라에르 ‘하늘을 나는 택시’ 출시 계획 발표 (에스콰이어 코리아 ─ 카&테크)]]></title>
@@ -1271,7 +1277,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/79377</guid>
             <pubDate>Sat, 05 Aug 2023 15:18:53 GMT</pubDate>
             <content:encoded><![CDATA[2026년 출시 예정]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/22/5b3a69db-63c5-4049-b36e-a178c82f5991.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테슬라, 마침내 전기픽업트럭 '사이버트럭' 생산 시작 (에스콰이어 코리아 ─ 카&테크)]]></title>
@@ -1279,7 +1284,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/79210</guid>
             <pubDate>Wed, 02 Aug 2023 09:17:49 GMT</pubDate>
             <content:encoded><![CDATA[사전 계약만 150만대가 이뤄졌다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/dcf43ca6-1f1c-45a0-acd1-1737475dee70.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세계 최대 크루즈선 '아이콘 오브 더 시즈' 등장 (에스콰이어 코리아 ─ 카&테크)]]></title>
@@ -1287,14 +1291,12 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/79158</guid>
             <pubDate>Tue, 01 Aug 2023 15:23:19 GMT</pubDate>
             <content:encoded><![CDATA[타이타닉호 크기의 5배라고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/a16f6c5a-af62-4d80-8dda-a5813b236231.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 좋은 카밋을 위하여 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/79152</link>
             <guid>https://www.esquirekorea.co.kr/article/79152</guid>
             <pubDate>Mon, 31 Jul 2023 09:19:02 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/f45f82d6-b74f-41b7-b971-5764f9461de7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['스트리트 파이터 6'에 KFC의 등장이라 (에스콰이어 코리아 ─ 카&테크)]]></title>
@@ -1302,7 +1304,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/79036</guid>
             <pubDate>Wed, 26 Jul 2023 15:19:29 GMT</pubDate>
             <content:encoded><![CDATA[게임에서 콤보를 쌓으면 KFC 콤보를 먹을 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/97304c73-7b6b-4a30-85e3-77791d961a35.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아스팔트 위의 피겨스케이팅이란? (에스콰이어 코리아 ─ 카&테크)]]></title>
@@ -1310,7 +1311,27 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/78747</guid>
             <pubDate>Sat, 22 Jul 2023 15:17:41 GMT</pubDate>
             <content:encoded><![CDATA[아스팔트 위에서 타는 피겨 스케이팅. 드리프트를 설명하는 가장 적절한 표현이다. 알고 보면 더...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/b095309a-2f48-4b41-8548-9fd876fd2246.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[맥주가 4000원 이하인 서울 가맥집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79816</link>
+            <guid>https://www.esquirekorea.co.kr/article/79816</guid>
+            <pubDate>Fri, 11 Aug 2023 15:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼마켓과 식당의 조합, 가성비도 감성도 챙겨보자.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[여름 휴가의 새로운 성지, 고성 핫플 가이드 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79813</link>
+            <guid>https://www.esquirekorea.co.kr/article/79813</guid>
+            <pubDate>Fri, 11 Aug 2023 09:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[오픈런 한다는 핫한 식당부터 카페, 펍까지. 고성 핫플의 모든 것.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[진짜 북한 출신이 만드는 평양냉면 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79793</link>
+            <guid>https://www.esquirekorea.co.kr/article/79793</guid>
+            <pubDate>Thu, 10 Aug 2023 15:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[직원 전체가 새터민인 곳부터 7년째 블루리본을 달고 있는 전통 평양냉면 맛집까지.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[산속에 숨은 운치 가득한 서울 산속 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1348,25 +1369,18 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[항아리에 참숯을 넣어 구워주는 육즙 가득한 삼겹살 맛집을 소개한다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[회전 샤브샤브? 회전 레일이 있는 이색 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79648</link>
-            <guid>https://www.esquirekorea.co.kr/article/79648</guid>
-            <pubDate>Fri, 04 Aug 2023 15:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[회전 레일 고깃집부터 회전 샤브샤브집까지. 어디까지 레일에 올릴 수 있을까?]]></content:encoded>
+            <title><![CDATA[더 문으로 돌아온 엑소 도경수(D.O.) 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79819</link>
+            <guid>https://www.esquirekorea.co.kr/article/79819</guid>
+            <pubDate>Fri, 11 Aug 2023 15:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[엑소의 단골 회식 장소부터 가족들과 방문하는 숨겨둔 맛집까지.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아르마냑의 수호자 플로렌스 카스타레데를 만나다 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79285</link>
-            <guid>https://www.esquirekorea.co.kr/article/79285</guid>
-            <pubDate>Fri, 04 Aug 2023 15:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[와인을 증류한 술은 우아하다. 그 우아의 세계에서 가장 저평가된 술은 코냑의 사촌 아르마냑이...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이열치열, 얼큰하고 칼칼한 김치수제비 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79555</link>
-            <guid>https://www.esquirekorea.co.kr/article/79555</guid>
-            <pubDate>Mon, 31 Jul 2023 09:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[비 오는 날에도 생각나는 그 맛.]]></content:encoded>
+            <title><![CDATA[맥주가 4000원 이하인 서울 가맥집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79816</link>
+            <guid>https://www.esquirekorea.co.kr/article/79816</guid>
+            <pubDate>Fri, 11 Aug 2023 15:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼마켓과 식당의 조합, 가성비도 감성도 챙겨보자.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[여름 휴가의 새로운 성지, 고성 핫플 가이드 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1409,20 +1423,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/79714</guid>
             <pubDate>Thu, 10 Aug 2023 09:19:16 GMT</pubDate>
             <content:encoded><![CDATA[서울에 이런 식당이 있다고?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[여름휴가지, 수영장 있는 찜질방 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79712</link>
-            <guid>https://www.esquirekorea.co.kr/article/79712</guid>
-            <pubDate>Wed, 09 Aug 2023 09:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[수영장이 있는 찜질방부터 골프장, 영화관이 있는 곳까지.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[여의도 증권맨 @yeouido_tasty가 추천하는 여의도 순대국 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79707</link>
-            <guid>https://www.esquirekorea.co.kr/article/79707</guid>
-            <pubDate>Wed, 09 Aug 2023 09:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[그가 분석한 여의도의 순대국 맛지도를 소개한다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코미디 프로그램 '코미디빅리그' 9월 폐지 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1486,6 +1486,318 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 03 Aug 2023 09:17:54 GMT</pubDate>
             <content:encoded><![CDATA[맨시티 선수와 마드리드 선수가 ‘신도림 조기축구회’로 합을 맞춘다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/e75da61b-0a2f-4292-b20c-91853bef73b4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권은비, 최근 구매한 것 중 가장 마음에 드는 아이템? (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79552</link>
+            <guid>https://www.esquirekorea.co.kr/article/79552</guid>
+            <pubDate>Fri, 11 Aug 2023 15:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/f88aebb9-fa3a-4d68-8c42-728a04507e7d.jpg');">
+            <a href="/article/79552">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/79552">
+                    권은비, 최근 구매한 것 중 가장 마음에 드는 아이템?                </a>
+            </em>
+            <p class="excerpt">권은비의 쇼핑 리스트를 공개한다.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/f88aebb9-fa3a-4d68-8c42-728a04507e7d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화 ‘밀수’로 돌아온 고민시 TMI 12 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79511</link>
+            <guid>https://www.esquirekorea.co.kr/article/79511</guid>
+            <pubDate>Fri, 11 Aug 2023 15:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/d7f3ead2-4ec0-4424-926b-7eed086f65ea.jpg');">
+            <a href="/article/79511">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/79511">
+                    영화 ‘밀수’로 돌아온 고민시 TMI 12                </a>
+            </em>
+            <p class="excerpt">고민시에게 새로 생긴 별명은 푸바오?</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/d7f3ead2-4ec0-4424-926b-7eed086f65ea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[말간 얼굴이 매력적인 김시은 화보 공개 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79503</link>
+            <guid>https://www.esquirekorea.co.kr/article/79503</guid>
+            <pubDate>Fri, 11 Aug 2023 15:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/c7c09b59-1a56-45dd-9a9c-80426ccdaa5f.jpg');">
+            <a href="/article/79503">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/79503">
+                    말간 얼굴이 매력적인 김시은 화보 공개                </a>
+            </em>
+            <p class="excerpt">31일에는 '바이마이셀프'도 오픈 예정.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/c7c09b59-1a56-45dd-9a9c-80426ccdaa5f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part2. 김히어라가 역할마다 전혀 다른 이미지를 선보일 수 있는 이유 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79286</link>
+            <guid>https://www.esquirekorea.co.kr/article/79286</guid>
+            <pubDate>Fri, 11 Aug 2023 15:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/c1c8a139-cedb-43e4-857d-0af6ec4b1ea7.jpg');">
+            <a href="/article/79286">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/79286">
+                    Part2. 김히어라가 역할마다 전혀 다른 이미지를 선보일 수 있는 이유                </a>
+            </em>
+            <p class="excerpt">범죄 조직 수장 용사장, 탈북자 계향심, 마약중독자 이사라, 절대악 겔리 버허드, 사랑을 추구하...</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/c1c8a139-cedb-43e4-857d-0af6ec4b1ea7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part1. '뮤지컬'의 존재도 몰랐던 김히어라가 연기를 시작하게 된 계기 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79284</link>
+            <guid>https://www.esquirekorea.co.kr/article/79284</guid>
+            <pubDate>Fri, 11 Aug 2023 15:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/af569a9d-b6ba-4965-8a4f-484aae91a7cd.jpg');">
+            <a href="/article/79284">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/79284">
+                    Part1. '뮤지컬'의 존재도 몰랐던 김히어라가 연기를 시작하게 된 계기                </a>
+            </em>
+            <p class="excerpt">범죄 조직 수장 용사장, 탈북자 계향심, 마약중독자 이사라, 절대악 겔리 버허드, 사랑을 추구하...</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/af569a9d-b6ba-4965-8a4f-484aae91a7cd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유라가 걸스데이 멤버들을 두고 '살면서 이런 마음을 가질 수 있는 사람들이 있다는 게 흔치 않은 일인 것 같다'고 한 이유 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79332</link>
+            <guid>https://www.esquirekorea.co.kr/article/79332</guid>
+            <pubDate>Fri, 11 Aug 2023 15:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/f87c7de5-9398-4172-b38c-83e72b8ae2d7.jpg');">
+            <a href="/article/79332">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/79332">
+                    유라가 걸스데이 멤버들을 두고 '살면서 이런 마음을 가질 수 있는 사람들이 있다는 게 흔치 않은 일인 것 같다'고 한 이유                </a>
+            </em>
+            <p class="excerpt">늘 봄처럼 밝고 화사한 이미지로 기억되던 유라는, 이제 새로운 계절들을 그리는 게 행복하다고...</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/f87c7de5-9398-4172-b38c-83e72b8ae2d7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유라가<이 연애는 불가항력>의 윤나연, <기상청 사람들의> 채유진, <지금, 헤어지는 중입니다>의 혜린에 품은 마음들 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79327</link>
+            <guid>https://www.esquirekorea.co.kr/article/79327</guid>
+            <pubDate>Fri, 11 Aug 2023 15:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/21/c2dccc1c-cdfd-4966-88c0-a3f3bedf88de.jpg');">
+            <a href="/article/79327">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/79327">
+                    유라가&lt;이 연애는 불가항력&gt;의 윤나연, &lt;기상청 사람들의&gt; 채유진, &lt;지금, 헤어지는 중입니다&gt;의 혜린에 품은 마음들                </a>
+            </em>
+            <p class="excerpt">늘 봄처럼 밝고 화사한 이미지로 기억되던 유라는, 이제 새로운 계절들을 그리는 게 행복하다고...</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/21/c2dccc1c-cdfd-4966-88c0-a3f3bedf88de.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화제의 남고생 '렁철이' 앞으로의 꿈은? (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79313</link>
+            <guid>https://www.esquirekorea.co.kr/article/79313</guid>
+            <pubDate>Fri, 11 Aug 2023 15:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/e691163d-c8b7-491f-b37d-719662d39254.jpg');">
+                <a href="/article/79313">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/79313">
+                        화제의 남고생 '렁철이' 앞으로의 꿈은?                    </a>
+                </em>
+                <p class="excerpt"></p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/e691163d-c8b7-491f-b37d-719662d39254.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part2. <사냥개들> 시즌2 제작에 대한 이상이의 생각 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79282</link>
+            <guid>https://www.esquirekorea.co.kr/article/79282</guid>
+            <pubDate>Fri, 11 Aug 2023 15:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/558121e3-8858-49bd-a728-32442eb8e41e.jpg');">
+                <a href="/article/79282">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/79282">
+                        Part2. &lt;사냥개들&gt; 시즌2 제작에 대한 이상이의 생각                    </a>
+                </em>
+                <p class="excerpt">그는 외향적이지만, 동시에 혼자 있는 시간도 필요하다. 하루 종일 운동에 몰입하면서도 잊지 않...</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/558121e3-8858-49bd-a728-32442eb8e41e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part1. 이상이가 스스로를 '내향형 인간'이라고 말하는 이유 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79281</link>
+            <guid>https://www.esquirekorea.co.kr/article/79281</guid>
+            <pubDate>Fri, 11 Aug 2023 15:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/802761e0-1607-475b-a455-f352ecf5857f.jpg');">
+                <a href="/article/79281">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/79281">
+                        Part1. 이상이가 스스로를 '내향형 인간'이라고 말하는 이유                    </a>
+                </em>
+                <p class="excerpt">그는 외향적이지만, 동시에 혼자 있는 시간도 필요하다. 하루 종일 운동에 몰입하면서도 잊지 않...</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/20/802761e0-1607-475b-a455-f352ecf5857f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제이홉의 귀중한 셀피 대공개! (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79289</link>
+            <guid>https://www.esquirekorea.co.kr/article/79289</guid>
+            <pubDate>Fri, 11 Aug 2023 15:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/242d1e6a-b816-4b6c-895c-e25f49e3a9ed.jpg');">
+                <a href="/article/79289">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/79289">
+                        제이홉의 귀중한 셀피 대공개!                    </a>
+                </em>
+                <p class="excerpt"></p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/242d1e6a-b816-4b6c-895c-e25f49e3a9ed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[J-hope, out in the Street (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79217</link>
+            <guid>https://www.esquirekorea.co.kr/article/79217</guid>
+            <pubDate>Fri, 11 Aug 2023 15:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/8381f7f9-510b-49ce-bbf6-68fe8282c84c.jpg');">
+                <a href="/article/79217">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/79217">
+                        J-hope, out in the Street                    </a>
+                </em>
+                <p class="excerpt"></p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/8381f7f9-510b-49ce-bbf6-68fe8282c84c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제이홉, 거리에 희망을 풀어 놓다 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79216</link>
+            <guid>https://www.esquirekorea.co.kr/article/79216</guid>
+            <pubDate>Fri, 11 Aug 2023 15:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/0dbb54d2-6115-4053-8d34-5c5e591a338e.jpg');">
+                <a href="/article/79216">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/79216">
+                        제이홉, 거리에 희망을 풀어 놓다                    </a>
+                </em>
+                <p class="excerpt"></p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/19/0dbb54d2-6115-4053-8d34-5c5e591a338e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이열치열, 얼큰하고 칼칼한 김치수제비 맛집 4 (에스콰이어 코리아 ─ 나우)]]></title>

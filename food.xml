@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/food</id>
     <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2023-08-11T09:17:56.121Z</updated>
+    <updated>2023-08-11T15:19:07.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[맥주가 4000원 이하인 서울 가맥집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79816</id>
+        <link href="https://www.esquirekorea.co.kr/article/79816"/>
+        <updated>2023-08-11T15:18:22.395Z</updated>
+        <content type="html"><![CDATA[슈퍼마켓과 식당의 조합, 가성비도 감성도 챙겨보자.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여름 휴가의 새로운 성지, 고성 핫플 가이드]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79813</id>
+        <link href="https://www.esquirekorea.co.kr/article/79813"/>
+        <updated>2023-08-11T15:18:22.397Z</updated>
+        <content type="html"><![CDATA[오픈런 한다는 핫한 식당부터 카페, 펍까지. 고성 핫플의 모든 것.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진짜 북한 출신이 만드는 평양냉면 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79793</id>
+        <link href="https://www.esquirekorea.co.kr/article/79793"/>
+        <updated>2023-08-11T15:18:22.400Z</updated>
+        <content type="html"><![CDATA[직원 전체가 새터민인 곳부터 7년째 블루리본을 달고 있는 전통 평양냉면 맛집까지.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산속에 숨은 운치 가득한 서울 산속 맛집 4]]></title>
         <id>https://www.esquirekorea.co.kr/article/79714</id>
@@ -39,26 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/79683"/>
         <updated>2023-08-09T09:19:30.922Z</updated>
         <content type="html"><![CDATA[항아리에 참숯을 넣어 구워주는 육즙 가득한 삼겹살 맛집을 소개한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[회전 샤브샤브? 회전 레일이 있는 이색 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79648</id>
-        <link href="https://www.esquirekorea.co.kr/article/79648"/>
-        <updated>2023-08-05T03:20:45.175Z</updated>
-        <content type="html"><![CDATA[회전 레일 고깃집부터 회전 샤브샤브집까지. 어디까지 레일에 올릴 수 있을까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아르마냑의 수호자 플로렌스 카스타레데를 만나다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79285</id>
-        <link href="https://www.esquirekorea.co.kr/article/79285"/>
-        <updated>2023-08-04T15:18:56.946Z</updated>
-        <content type="html"><![CDATA[와인을 증류한 술은 우아하다. 그 우아의 세계에서 가장 저평가된 술은 코냑의 사촌 아르마냑이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이열치열, 얼큰하고 칼칼한 김치수제비 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79555</id>
-        <link href="https://www.esquirekorea.co.kr/article/79555"/>
-        <updated>2023-08-04T09:19:08.175Z</updated>
-        <content type="html"><![CDATA[비 오는 날에도 생각나는 그 맛.]]></content>
     </entry>
 </feed>
