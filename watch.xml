@@ -1,63 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/watch</id>
-    <title>에스콰이어 코리아 ─ 와치</title>
-    <updated>2023-08-13T03:19:52.219Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[예거 르쿨트르, 한국 아티스트 강이연과 함께한 '오리진(ORIGIN)' 공개]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78187</id>
-        <link href="https://www.esquirekorea.co.kr/article/78187"/>
-        <updated>2023-08-03T09:17:20.066Z</updated>
-        <content type="html"><![CDATA[황금비율에서 영감 받은 3D 비디오 스컬프처 작품.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카멜 커피 대표 박강현과 브랜드 매니저 박종진과 함께한 시계 토크]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77679</id>
-        <link href="https://www.esquirekorea.co.kr/article/77679"/>
-        <updated>2023-08-01T15:22:37.395Z</updated>
-        <content type="html"><![CDATA[중고 시계 플랫폼 바이버와 함께한 대담한 사람들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[까르띠에 타임 언리미티드 영상 시리즈_#최시원]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77608</id>
-        <link href="https://www.esquirekorea.co.kr/article/77608"/>
-        <updated>2023-07-23T15:20:34.723Z</updated>
-        <content type="html"><![CDATA[오는 6월 성수동에서 열리는 까르띠에 타임 언리미티드 전시를 앞두고 배우 최시원을 만났다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티쏘 국내 첫 단독 부티크 여의도 IFC몰 오픈]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77215</id>
-        <link href="https://www.esquirekorea.co.kr/article/77215"/>
-        <updated>2023-06-20T09:18:03.758Z</updated>
-        <content type="html"><![CDATA[사람의 손길이 닿을 때 더욱 생기를 얻는 곳.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어플, 쇼룸, 랩스, 3가지 구조의 혁신적 중고 시계 플랫폼 ‘바이버’.]]></title>
-        <id>https://www.esquirekorea.co.kr/article/76886</id>
-        <link href="https://www.esquirekorea.co.kr/article/76886"/>
-        <updated>2023-06-12T03:24:13.077Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워치스앤원더스 2023 특집 '에르메스']]></title>
-        <id>https://www.esquirekorea.co.kr/article/76855</id>
-        <link href="https://www.esquirekorea.co.kr/article/76855"/>
-        <updated>2023-06-08T09:19:19.465Z</updated>
-        <content type="html"><![CDATA[에르메스의 대표 남성 시계 H08의 새로운 변주와 문페이즈 워치 아쏘 쁘띠 룬을 소개한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워치스앤원더스 2023 특집 '몽블랑']]></title>
-        <id>https://www.esquirekorea.co.kr/article/77145</id>
-        <link href="https://www.esquirekorea.co.kr/article/77145"/>
-        <updated>2023-05-19T09:19:46.118Z</updated>
-        <content type="html"><![CDATA[몽블랑은 올해도 산악인에 대한 탐구와 모험 정신을 이어간다. 이를 대표하는 3가지 모델을 소개...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워치스앤원더스 2023 특집 '파네라이']]></title>
-        <id>https://www.esquirekorea.co.kr/article/77124</id>
-        <link href="https://www.esquirekorea.co.kr/article/77124"/>
-        <updated>2023-05-19T03:20:57.806Z</updated>
-        <content type="html"><![CDATA[파네라이는 올해 라디오미르 컬렉션에 집중했다. 다양한 모델 중에서 두 가지 모델을 소개한다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 와치</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 13 Aug 2023 09:17:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예거 르쿨트르, 한국 아티스트 강이연과 함께한 '오리진(ORIGIN)' 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78187</link>
+            <guid>https://www.esquirekorea.co.kr/article/78187</guid>
+            <pubDate>Thu, 03 Aug 2023 09:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[황금비율에서 영감 받은 3D 비디오 스컬프처 작품.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/fc593290-4d1c-4d33-97ed-66dd4ebdf7a6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카멜 커피 대표 박강현과 브랜드 매니저 박종진과 함께한 시계 토크]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77679</link>
+            <guid>https://www.esquirekorea.co.kr/article/77679</guid>
+            <pubDate>Tue, 01 Aug 2023 15:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[중고 시계 플랫폼 바이버와 함께한 대담한 사람들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/862530e4-10a9-47cb-94bc-83eb0dbda35a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[까르띠에 타임 언리미티드 영상 시리즈_#최시원]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77608</link>
+            <guid>https://www.esquirekorea.co.kr/article/77608</guid>
+            <pubDate>Sun, 23 Jul 2023 15:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[오는 6월 성수동에서 열리는 까르띠에 타임 언리미티드 전시를 앞두고 배우 최시원을 만났다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/4b261067-0d53-473c-a683-f6973da535fb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티쏘 국내 첫 단독 부티크 여의도 IFC몰 오픈]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77215</link>
+            <guid>https://www.esquirekorea.co.kr/article/77215</guid>
+            <pubDate>Tue, 20 Jun 2023 09:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[사람의 손길이 닿을 때 더욱 생기를 얻는 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/cdab48ef-be9f-4b93-b23c-29852e4b0cfb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어플, 쇼룸, 랩스, 3가지 구조의 혁신적 중고 시계 플랫폼 ‘바이버’.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76886</link>
+            <guid>https://www.esquirekorea.co.kr/article/76886</guid>
+            <pubDate>Mon, 12 Jun 2023 03:24:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/dbb235f4-9edd-4a80-a7f2-9a9fcf4156df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워치스앤원더스 2023 특집 '에르메스']]></title>
+            <link>https://www.esquirekorea.co.kr/article/76855</link>
+            <guid>https://www.esquirekorea.co.kr/article/76855</guid>
+            <pubDate>Thu, 08 Jun 2023 09:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[에르메스의 대표 남성 시계 H08의 새로운 변주와 문페이즈 워치 아쏘 쁘띠 룬을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/49795ae5-9458-4e6a-9007-823ee6a065f3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워치스앤원더스 2023 특집 '몽블랑']]></title>
+            <link>https://www.esquirekorea.co.kr/article/77145</link>
+            <guid>https://www.esquirekorea.co.kr/article/77145</guid>
+            <pubDate>Fri, 19 May 2023 09:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[몽블랑은 올해도 산악인에 대한 탐구와 모험 정신을 이어간다. 이를 대표하는 3가지 모델을 소개...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/ca10ec01-ffb3-4a42-9786-31a6a93c9e50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워치스앤원더스 2023 특집 '파네라이']]></title>
+            <link>https://www.esquirekorea.co.kr/article/77124</link>
+            <guid>https://www.esquirekorea.co.kr/article/77124</guid>
+            <pubDate>Fri, 19 May 2023 03:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[파네라이는 올해 라디오미르 컬렉션에 집중했다. 다양한 모델 중에서 두 가지 모델을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/5326e707-8ade-427c-9052-b1cbd833a4e4.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
