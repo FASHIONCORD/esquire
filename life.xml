@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 03:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 09:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['콘크리트 유토피아'로 돌아온 이병헌, 이민정 부부 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79843</link>
+            <guid>https://www.esquirekorea.co.kr/article/79843</guid>
+            <pubDate>Wed, 16 Aug 2023 09:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[톱스타 부부가 다녀간 전국 맛집을 파헤쳐 보자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/bf1feb1e-b068-41df-a66a-9f97850b82cf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주말에만 운영하는 귀한 카페 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/79837</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 11 Aug 2023 09:17:28 GMT</pubDate>
             <content:encoded><![CDATA[오픈런 한다는 핫한 식당부터 카페, 펍까지. 고성 핫플의 모든 것.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/10/4cb47229-1dc4-439e-81d4-4302436985c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오는 13일, 밤하늘을 수놓을 '페르세우스 유성우']]></title>
-            <link>https://www.esquirekorea.co.kr/article/79797</link>
-            <guid>https://www.esquirekorea.co.kr/article/79797</guid>
-            <pubDate>Fri, 11 Aug 2023 09:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[3대 유성우 중 하나라고.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/b18ef8be-eda6-4d93-bb71-a65157691914.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
