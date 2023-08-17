@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 09:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 15:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서브웨이로 개명하면 '평생 무료 샌드위치 쿠폰'을 준다고?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79840</link>
+            <guid>https://www.esquirekorea.co.kr/article/79840</guid>
+            <pubDate>Thu, 17 Aug 2023 15:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[퍼스트네임을 ‘서브웨이’로 개명하는 고객에게 ‘평생 무료 샌드위치 쿠폰’을 제공하는 이벤트 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/540fff65-e548-4bc7-be83-10f003a3c074.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주말에만 운영하는 귀한 카페 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/79837</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 11 Aug 2023 09:17:18 GMT</pubDate>
             <content:encoded><![CDATA[서울에 이런 식당이 있다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/05/73fae453-e800-4283-be78-1246bf16c91d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여의도 증권맨 @yeouido_tasty가 추천하는 여의도 순대국 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79707</link>
-            <guid>https://www.esquirekorea.co.kr/article/79707</guid>
-            <pubDate>Thu, 10 Aug 2023 15:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[그가 분석한 여의도의 순대국 맛지도를 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/a85e5881-16b9-4f5d-9b65-0dc3b4cd4d1b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
