@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 03:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 09:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주말에만 운영하는 귀한 카페 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79837</link>
+            <guid>https://www.esquirekorea.co.kr/article/79837</guid>
+            <pubDate>Thu, 17 Aug 2023 09:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[오픈런 필수! 크루아상 맛집부터 동화 속 감성 카페까지]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/86cd2da6-79f9-4134-9dcd-a2b3d1fc9964.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고규필 짜파게티 광고 비하인드 썰?]]></title>
             <link>https://www.esquirekorea.co.kr/article/79828</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 10 Aug 2023 15:22:20 GMT</pubDate>
             <content:encoded><![CDATA[그가 분석한 여의도의 순대국 맛지도를 소개한다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/a85e5881-16b9-4f5d-9b65-0dc3b4cd4d1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마장동 우시장 정육 식당, 식당 사용 설명서]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79703</link>
-            <guid>https://www.esquirekorea.co.kr/article/79703</guid>
-            <pubDate>Thu, 10 Aug 2023 15:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[즉석에서 바로 얻은 고기를 가장 신선하고 저렴하게 맛볼 수 있는 4곳을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/e5b663c8-a2df-4bef-91e0-0d7f82e7ac29.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
