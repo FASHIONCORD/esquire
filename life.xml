@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-08-19T09:16:11.198Z</updated>
+    <updated>2023-08-19T15:16:29.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[외부음식 반입 OK! 서울 와인바 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79937</id>
+        <link href="https://www.esquirekorea.co.kr/article/79937"/>
+        <updated>2023-08-19T15:16:03.045Z</updated>
+        <content type="html"><![CDATA[원하는 대로 페어링 해보는 재미.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[달달한 디저트의 성지, 일산 밤리단길 디저트 맛집 4]]></title>
         <id>https://www.esquirekorea.co.kr/article/79931</id>
@@ -53,12 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/79848"/>
         <updated>2023-08-17T09:17:42.322Z</updated>
         <content type="html"><![CDATA[먼저 주위를 잘 둘러보세요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['콘크리트 유토피아'로 돌아온 이병헌, 이민정 부부 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79843</id>
-        <link href="https://www.esquirekorea.co.kr/article/79843"/>
-        <updated>2023-08-16T09:17:31.088Z</updated>
-        <content type="html"><![CDATA[톱스타 부부가 다녀간 전국 맛집을 파헤쳐 보자.]]></content>
     </entry>
 </feed>
