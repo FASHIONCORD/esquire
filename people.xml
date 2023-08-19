@@ -1,62 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/people</id>
-    <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-08-19T03:18:55.277Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[타이니 데스크 한국 론칭, 첫 게스트는 뷔?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79824</id>
-        <link href="https://www.esquirekorea.co.kr/article/79824"/>
-        <updated>2023-08-18T09:17:29.247Z</updated>
-        <content type="html"><![CDATA[8월 25일 첫 공개된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강민혁, 최근 구매한 무더위 필수템은?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79803</id>
-        <link href="https://www.esquirekorea.co.kr/article/79803"/>
-        <updated>2023-08-16T09:17:42.439Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘초롱이’ 고규필, 직접 구매한 마사지건 VS 마동석의 안마?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79695</id>
-        <link href="https://www.esquirekorea.co.kr/article/79695"/>
-        <updated>2023-08-14T15:17:40.968Z</updated>
-        <content type="html"><![CDATA[쇼핑 리스트가 심상치 않다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대만 피자헛 '진격의 거인' 피자 출시]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79694</id>
-        <link href="https://www.esquirekorea.co.kr/article/79694"/>
-        <updated>2023-08-14T15:17:40.970Z</updated>
-        <content type="html"><![CDATA[스페셜 메뉴 한정 판매]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코미디 프로그램 '코미디빅리그' 9월 폐지]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79693</id>
-        <link href="https://www.esquirekorea.co.kr/article/79693"/>
-        <updated>2023-08-11T09:17:35.819Z</updated>
-        <content type="html"><![CDATA[최종화는 9월 13일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류준열의 스펀지밥 퀴즈 타임!]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79680</id>
-        <link href="https://www.esquirekorea.co.kr/article/79680"/>
-        <updated>2023-08-11T03:19:02.611Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범죄도시3' 천만 배우 고규필 화보 공개]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79653</id>
-        <link href="https://www.esquirekorea.co.kr/article/79653"/>
-        <updated>2023-08-09T15:21:31.701Z</updated>
-        <content type="html"><![CDATA['SNL 코리아 시즌 4'까지 접수한 초롱이, 고규필 화보 6컷을 공개한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유겸이 격투기 글러브를 사게 된 이유?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79649</id>
-        <link href="https://www.esquirekorea.co.kr/article/79649"/>
-        <updated>2023-08-05T03:21:06.513Z</updated>
-        <content type="html"><![CDATA[최애 색인 노랑에 얽힌 에피소드도 공개한다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 피플</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 19 Aug 2023 09:16:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타이니 데스크 한국 론칭, 첫 게스트는 뷔?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79824</link>
+            <guid>https://www.esquirekorea.co.kr/article/79824</guid>
+            <pubDate>Fri, 18 Aug 2023 09:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[8월 25일 첫 공개된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/2044df4e-e46c-430c-b7b7-96b9ec070ea1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강민혁, 최근 구매한 무더위 필수템은?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79803</link>
+            <guid>https://www.esquirekorea.co.kr/article/79803</guid>
+            <pubDate>Wed, 16 Aug 2023 09:17:42 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/d01acfef-7949-4351-9e47-2d9104a985a7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘초롱이’ 고규필, 직접 구매한 마사지건 VS 마동석의 안마?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79695</link>
+            <guid>https://www.esquirekorea.co.kr/article/79695</guid>
+            <pubDate>Mon, 14 Aug 2023 15:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[쇼핑 리스트가 심상치 않다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/e4e55d9b-6f30-4154-84bf-07b07776e462.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대만 피자헛 '진격의 거인' 피자 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79694</link>
+            <guid>https://www.esquirekorea.co.kr/article/79694</guid>
+            <pubDate>Mon, 14 Aug 2023 15:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[스페셜 메뉴 한정 판매]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/08caa145-cbed-473f-b70d-1e713bc6f2bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코미디 프로그램 '코미디빅리그' 9월 폐지]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79693</link>
+            <guid>https://www.esquirekorea.co.kr/article/79693</guid>
+            <pubDate>Fri, 11 Aug 2023 09:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[최종화는 9월 13일]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/5c2831c1-2517-4bb9-859c-daadeda56db7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[류준열의 스펀지밥 퀴즈 타임!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79680</link>
+            <guid>https://www.esquirekorea.co.kr/article/79680</guid>
+            <pubDate>Fri, 11 Aug 2023 03:19:02 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/4b68d639-85e7-4cbd-a466-9a72e2caa134.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['범죄도시3' 천만 배우 고규필 화보 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79653</link>
+            <guid>https://www.esquirekorea.co.kr/article/79653</guid>
+            <pubDate>Wed, 09 Aug 2023 15:21:31 GMT</pubDate>
+            <content:encoded><![CDATA['SNL 코리아 시즌 4'까지 접수한 초롱이, 고규필 화보 6컷을 공개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/c4c637fd-fe5f-4411-984f-b14748f1882d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유겸이 격투기 글러브를 사게 된 이유?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79649</link>
+            <guid>https://www.esquirekorea.co.kr/article/79649</guid>
+            <pubDate>Sat, 05 Aug 2023 03:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[최애 색인 노랑에 얽힌 에피소드도 공개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/5e437559-30b7-41b9-a3dd-c229a699f4e0.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
