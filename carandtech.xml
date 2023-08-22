@@ -1,74 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 카&amp;테크</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 15:19:26 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[성남시, 유료 드론 배송 서비스 시작]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79643</link>
-            <guid>https://www.esquirekorea.co.kr/article/79643</guid>
-            <pubDate>Mon, 14 Aug 2023 15:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[하늘에서 음식이 내린다면]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/3ffbf7d4-c36e-483d-bd4f-73950bbfb6d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갤럭시 언팩 2023에서 공개된 삼성전자 신제품 핵심 정리]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79571</link>
-            <guid>https://www.esquirekorea.co.kr/article/79571</guid>
-            <pubDate>Thu, 10 Aug 2023 03:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[갤럭시 Z 플립5, 갤럭시 Z 폴드5부터 갤럭시 워치6, 갤럭시 탭 S9 시리즈까지]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/d71d7522-f6f2-416c-821f-4c428c764ed5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오디오 역사의 전설이 된 스피커들, 재해석과 복각과 오마주로 돌아오다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79433</link>
-            <guid>https://www.esquirekorea.co.kr/article/79433</guid>
-            <pubDate>Sat, 05 Aug 2023 15:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[오디오 역사의 전설이 된 스피커들의 다소 뒤늦은, 하지만 이토록 깊고도 유연한 변주.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/4873c619-4885-484c-b618-63ac269a71f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엠브라에르 ‘하늘을 나는 택시’ 출시 계획 발표]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79377</link>
-            <guid>https://www.esquirekorea.co.kr/article/79377</guid>
-            <pubDate>Sat, 05 Aug 2023 15:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[2026년 출시 예정]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/22/5b3a69db-63c5-4049-b36e-a178c82f5991.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[테슬라, 마침내 전기픽업트럭 '사이버트럭' 생산 시작]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79210</link>
-            <guid>https://www.esquirekorea.co.kr/article/79210</guid>
-            <pubDate>Wed, 02 Aug 2023 09:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[사전 계약만 150만대가 이뤄졌다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/17/dcf43ca6-1f1c-45a0-acd1-1737475dee70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 최대 크루즈선 '아이콘 오브 더 시즈' 등장]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79158</link>
-            <guid>https://www.esquirekorea.co.kr/article/79158</guid>
-            <pubDate>Tue, 01 Aug 2023 15:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[타이타닉호 크기의 5배라고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/a16f6c5a-af62-4d80-8dda-a5813b236231.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 좋은 카밋을 위하여]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79152</link>
-            <guid>https://www.esquirekorea.co.kr/article/79152</guid>
-            <pubDate>Mon, 31 Jul 2023 09:19:02 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/14/f45f82d6-b74f-41b7-b971-5764f9461de7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스트리트 파이터 6'에 KFC의 등장이라]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79036</link>
-            <guid>https://www.esquirekorea.co.kr/article/79036</guid>
-            <pubDate>Wed, 26 Jul 2023 15:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[게임에서 콤보를 쌓으면 KFC 콤보를 먹을 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/10/97304c73-7b6b-4a30-85e3-77791d961a35.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/carandtech</id>
+    <title>에스콰이어 코리아 ─ 카&amp;테크</title>
+    <updated>2023-08-22T03:19:33.611Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[성남시, 유료 드론 배송 서비스 시작]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79643</id>
+        <link href="https://www.esquirekorea.co.kr/article/79643"/>
+        <updated>2023-08-14T15:17:08.044Z</updated>
+        <content type="html"><![CDATA[하늘에서 음식이 내린다면]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[갤럭시 언팩 2023에서 공개된 삼성전자 신제품 핵심 정리]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79571</id>
+        <link href="https://www.esquirekorea.co.kr/article/79571"/>
+        <updated>2023-08-10T03:18:50.043Z</updated>
+        <content type="html"><![CDATA[갤럭시 Z 플립5, 갤럭시 Z 폴드5부터 갤럭시 워치6, 갤럭시 탭 S9 시리즈까지]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오디오 역사의 전설이 된 스피커들, 재해석과 복각과 오마주로 돌아오다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79433</id>
+        <link href="https://www.esquirekorea.co.kr/article/79433"/>
+        <updated>2023-08-05T15:18:53.560Z</updated>
+        <content type="html"><![CDATA[오디오 역사의 전설이 된 스피커들의 다소 뒤늦은, 하지만 이토록 깊고도 유연한 변주.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엠브라에르 ‘하늘을 나는 택시’ 출시 계획 발표]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79377</id>
+        <link href="https://www.esquirekorea.co.kr/article/79377"/>
+        <updated>2023-08-05T15:18:53.563Z</updated>
+        <content type="html"><![CDATA[2026년 출시 예정]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테슬라, 마침내 전기픽업트럭 '사이버트럭' 생산 시작]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79210</id>
+        <link href="https://www.esquirekorea.co.kr/article/79210"/>
+        <updated>2023-08-02T09:17:49.895Z</updated>
+        <content type="html"><![CDATA[사전 계약만 150만대가 이뤄졌다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세계 최대 크루즈선 '아이콘 오브 더 시즈' 등장]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79158</id>
+        <link href="https://www.esquirekorea.co.kr/article/79158"/>
+        <updated>2023-08-01T15:23:19.838Z</updated>
+        <content type="html"><![CDATA[타이타닉호 크기의 5배라고?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더 좋은 카밋을 위하여]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79152</id>
+        <link href="https://www.esquirekorea.co.kr/article/79152"/>
+        <updated>2023-07-31T09:19:02.765Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스트리트 파이터 6'에 KFC의 등장이라]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79036</id>
+        <link href="https://www.esquirekorea.co.kr/article/79036"/>
+        <updated>2023-07-26T15:19:29.248Z</updated>
+        <content type="html"><![CDATA[게임에서 콤보를 쌓으면 KFC 콤보를 먹을 수 있다.]]></content>
+    </entry>
+</feed>
