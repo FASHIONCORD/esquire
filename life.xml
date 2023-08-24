@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 15:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 03:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세상에서 가장 고요한 꿀잠 페스티벌?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79961</link>
+            <guid>https://www.esquirekorea.co.kr/article/79961</guid>
+            <pubDate>Thu, 24 Aug 2023 03:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[누가 누가 더 잘 자나.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/19/c6c95ed9-43fc-43a0-b1ed-98d5fe42a3e2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2023 신용산 신상 와인바 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/79957</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 19 Aug 2023 03:18:05 GMT</pubDate>
             <content:encoded><![CDATA[이 안에 파 있다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/51e5e2f0-21db-468d-870b-ec6a5c94a06b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 '불' 곱창 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79895</link>
-            <guid>https://www.esquirekorea.co.kr/article/79895</guid>
-            <pubDate>Sat, 19 Aug 2023 03:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[화려한 불쇼도 보고, 곱창도 먹고. 꿩 먹고 알 먹는 곱창 맛집을 모아봤다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/67ba8f3a-656c-4b3b-9ba2-756964788125.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

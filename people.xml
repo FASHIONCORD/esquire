@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 15:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 03:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[넷플릭스 ‘마스크걸’ 주오남을 삼킨 안재홍 TMI 12.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79988</link>
+            <guid>https://www.esquirekorea.co.kr/article/79988</guid>
+            <pubDate>Thu, 24 Aug 2023 03:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[‘마스크걸’ 일본어 연기는 모두 애드리브?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/bdbb0e94-3cd7-4ae0-977c-60eaa09e6cae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안유진 다이브에게 추천하는 노래?]]></title>
             <link>https://www.esquirekorea.co.kr/article/79941</link>
@@ -59,14 +67,6 @@
             <guid>https://www.esquirekorea.co.kr/article/79803</guid>
             <pubDate>Wed, 16 Aug 2023 09:17:42 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/09/d01acfef-7949-4351-9e47-2d9104a985a7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘초롱이’ 고규필, 직접 구매한 마사지건 VS 마동석의 안마?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79695</link>
-            <guid>https://www.esquirekorea.co.kr/article/79695</guid>
-            <pubDate>Mon, 14 Aug 2023 15:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[쇼핑 리스트가 심상치 않다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/e4e55d9b-6f30-4154-84bf-07b07776e462.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
