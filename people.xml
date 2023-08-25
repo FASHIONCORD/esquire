@@ -1,60 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/people</id>
-    <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-08-25T09:17:59.889Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Part 1. '완전 즉흥형' 지효가 꼭 한 번 도전해 보고 싶은 여행]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79980</id>
-        <link href="https://www.esquirekorea.co.kr/article/79980"/>
-        <updated>2023-08-25T09:17:43.078Z</updated>
-        <content type="html"><![CDATA[지효는 더는 어떤 목표나 남들의 시선 때문에 움직이고 싶지 않다. 내가 나를 인정하는 하루엔...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신혜선 주연, 영화 '타겟' 개봉 D-7]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80080</id>
-        <link href="https://www.esquirekorea.co.kr/article/80080"/>
-        <updated>2023-08-25T09:17:43.081Z</updated>
-        <content type="html"><![CDATA[신혜선의 첫 스릴러 도전.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 2. 안유진이 할 수 있는 것과 할 수 없는 것]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80057</id>
-        <link href="https://www.esquirekorea.co.kr/article/80057"/>
-        <updated>2023-08-25T03:19:21.520Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트레이키즈, 2023 MTV 비디오 뮤직 어워즈 출연]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80052</id>
-        <link href="https://www.esquirekorea.co.kr/article/80052"/>
-        <updated>2023-08-24T09:18:26.988Z</updated>
-        <content type="html"><![CDATA[시상식은 9월 12일 예정.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 1. 안유진이 가장 사랑하는 자신의 목소리]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80030</id>
-        <link href="https://www.esquirekorea.co.kr/article/80030"/>
-        <updated>2023-08-24T09:18:26.990Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 ‘마스크걸’ 주오남을 삼킨 안재홍 TMI 12.]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79988</id>
-        <link href="https://www.esquirekorea.co.kr/article/79988"/>
-        <updated>2023-08-24T03:19:52.305Z</updated>
-        <content type="html"><![CDATA[‘마스크걸’ 일본어 연기는 모두 애드리브?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안유진 다이브에게 추천하는 노래?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79941</id>
-        <link href="https://www.esquirekorea.co.kr/article/79941"/>
-        <updated>2023-08-23T09:17:58.461Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강민혁 골프 PGA 우승?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79902</id>
-        <link href="https://www.esquirekorea.co.kr/article/79902"/>
-        <updated>2023-08-23T03:19:16.763Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 피플</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 25 Aug 2023 15:19:14 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Part 1. '완전 즉흥형' 지효가 꼭 한 번 도전해 보고 싶은 여행]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79980</link>
+            <guid>https://www.esquirekorea.co.kr/article/79980</guid>
+            <pubDate>Fri, 25 Aug 2023 09:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[지효는 더는 어떤 목표나 남들의 시선 때문에 움직이고 싶지 않다. 내가 나를 인정하는 하루엔...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/2bbc1d3d-49cd-483d-a1d0-78d9c7597503.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신혜선 주연, 영화 '타겟' 개봉 D-7]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80080</link>
+            <guid>https://www.esquirekorea.co.kr/article/80080</guid>
+            <pubDate>Fri, 25 Aug 2023 09:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[신혜선의 첫 스릴러 도전.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/bd9eb17a-b5c7-4f9d-af13-6e5d3f181fc6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part 2. 안유진이 할 수 있는 것과 할 수 없는 것]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80057</link>
+            <guid>https://www.esquirekorea.co.kr/article/80057</guid>
+            <pubDate>Fri, 25 Aug 2023 03:19:21 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/88c7abbf-5d48-4ee4-a1a1-c891e119bfff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스트레이키즈, 2023 MTV 비디오 뮤직 어워즈 출연]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80052</link>
+            <guid>https://www.esquirekorea.co.kr/article/80052</guid>
+            <pubDate>Thu, 24 Aug 2023 09:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[시상식은 9월 12일 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/56d1dea3-3b50-4f56-bca7-8c3dc8c8fe4b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part 1. 안유진이 가장 사랑하는 자신의 목소리]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80030</link>
+            <guid>https://www.esquirekorea.co.kr/article/80030</guid>
+            <pubDate>Thu, 24 Aug 2023 09:18:26 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/2bb32e9d-b13f-4eaf-b75a-c53e89420e77.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스 ‘마스크걸’ 주오남을 삼킨 안재홍 TMI 12.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79988</link>
+            <guid>https://www.esquirekorea.co.kr/article/79988</guid>
+            <pubDate>Thu, 24 Aug 2023 03:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[‘마스크걸’ 일본어 연기는 모두 애드리브?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/21/bdbb0e94-3cd7-4ae0-977c-60eaa09e6cae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안유진 다이브에게 추천하는 노래?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79941</link>
+            <guid>https://www.esquirekorea.co.kr/article/79941</guid>
+            <pubDate>Wed, 23 Aug 2023 09:17:58 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/dbbb301c-a046-4ca5-898f-66985a6e3c6b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강민혁 골프 PGA 우승?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79902</link>
+            <guid>https://www.esquirekorea.co.kr/article/79902</guid>
+            <pubDate>Wed, 23 Aug 2023 03:19:16 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/19b95e22-fec3-444b-909e-6e1832f27a1b.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
