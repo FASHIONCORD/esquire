@@ -1,63 +1,386 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/watch</id>
-    <title>에스콰이어 코리아 ─ 와치</title>
-    <updated>2023-08-24T15:19:28.620Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[예거 르쿨트르, 한국 아티스트 강이연과 함께한 '오리진(ORIGIN)' 공개]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78187</id>
-        <link href="https://www.esquirekorea.co.kr/article/78187"/>
-        <updated>2023-08-03T09:17:20.066Z</updated>
-        <content type="html"><![CDATA[황금비율에서 영감 받은 3D 비디오 스컬프처 작품.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카멜 커피 대표 박강현과 브랜드 매니저 박종진과 함께한 시계 토크]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77679</id>
-        <link href="https://www.esquirekorea.co.kr/article/77679"/>
-        <updated>2023-08-01T15:22:37.395Z</updated>
-        <content type="html"><![CDATA[중고 시계 플랫폼 바이버와 함께한 대담한 사람들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[까르띠에 타임 언리미티드 영상 시리즈_#최시원]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77608</id>
-        <link href="https://www.esquirekorea.co.kr/article/77608"/>
-        <updated>2023-07-23T15:20:34.723Z</updated>
-        <content type="html"><![CDATA[오는 6월 성수동에서 열리는 까르띠에 타임 언리미티드 전시를 앞두고 배우 최시원을 만났다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티쏘 국내 첫 단독 부티크 여의도 IFC몰 오픈]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77215</id>
-        <link href="https://www.esquirekorea.co.kr/article/77215"/>
-        <updated>2023-06-20T09:18:03.758Z</updated>
-        <content type="html"><![CDATA[사람의 손길이 닿을 때 더욱 생기를 얻는 곳.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어플, 쇼룸, 랩스, 3가지 구조의 혁신적 중고 시계 플랫폼 ‘바이버’.]]></title>
-        <id>https://www.esquirekorea.co.kr/article/76886</id>
-        <link href="https://www.esquirekorea.co.kr/article/76886"/>
-        <updated>2023-06-12T03:24:13.077Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워치스앤원더스 2023 특집 '에르메스']]></title>
-        <id>https://www.esquirekorea.co.kr/article/76855</id>
-        <link href="https://www.esquirekorea.co.kr/article/76855"/>
-        <updated>2023-06-08T09:19:19.465Z</updated>
-        <content type="html"><![CDATA[에르메스의 대표 남성 시계 H08의 새로운 변주와 문페이즈 워치 아쏘 쁘띠 룬을 소개한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워치스앤원더스 2023 특집 '몽블랑']]></title>
-        <id>https://www.esquirekorea.co.kr/article/77145</id>
-        <link href="https://www.esquirekorea.co.kr/article/77145"/>
-        <updated>2023-05-19T09:19:46.118Z</updated>
-        <content type="html"><![CDATA[몽블랑은 올해도 산악인에 대한 탐구와 모험 정신을 이어간다. 이를 대표하는 3가지 모델을 소개...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워치스앤원더스 2023 특집 '파네라이']]></title>
-        <id>https://www.esquirekorea.co.kr/article/77124</id>
-        <link href="https://www.esquirekorea.co.kr/article/77124"/>
-        <updated>2023-05-19T03:20:57.806Z</updated>
-        <content type="html"><![CDATA[파네라이는 올해 라디오미르 컬렉션에 집중했다. 다양한 모델 중에서 두 가지 모델을 소개한다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 와치</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 25 Aug 2023 03:19:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예거 르쿨트르, 한국 아티스트 강이연과 함께한 '오리진(ORIGIN)' 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78187</link>
+            <guid>https://www.esquirekorea.co.kr/article/78187</guid>
+            <pubDate>Thu, 03 Aug 2023 09:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[황금비율에서 영감 받은 3D 비디오 스컬프처 작품.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/fc593290-4d1c-4d33-97ed-66dd4ebdf7a6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카멜 커피 대표 박강현과 브랜드 매니저 박종진과 함께한 시계 토크]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77679</link>
+            <guid>https://www.esquirekorea.co.kr/article/77679</guid>
+            <pubDate>Tue, 01 Aug 2023 15:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[중고 시계 플랫폼 바이버와 함께한 대담한 사람들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/862530e4-10a9-47cb-94bc-83eb0dbda35a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[까르띠에 타임 언리미티드 영상 시리즈_#최시원]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77608</link>
+            <guid>https://www.esquirekorea.co.kr/article/77608</guid>
+            <pubDate>Sun, 23 Jul 2023 15:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[오는 6월 성수동에서 열리는 까르띠에 타임 언리미티드 전시를 앞두고 배우 최시원을 만났다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/4b261067-0d53-473c-a683-f6973da535fb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티쏘 국내 첫 단독 부티크 여의도 IFC몰 오픈]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77215</link>
+            <guid>https://www.esquirekorea.co.kr/article/77215</guid>
+            <pubDate>Tue, 20 Jun 2023 09:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[사람의 손길이 닿을 때 더욱 생기를 얻는 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/cdab48ef-be9f-4b93-b23c-29852e4b0cfb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어플, 쇼룸, 랩스, 3가지 구조의 혁신적 중고 시계 플랫폼 ‘바이버’.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76886</link>
+            <guid>https://www.esquirekorea.co.kr/article/76886</guid>
+            <pubDate>Mon, 12 Jun 2023 03:24:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/dbb235f4-9edd-4a80-a7f2-9a9fcf4156df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워치스앤원더스 2023 특집 '에르메스']]></title>
+            <link>https://www.esquirekorea.co.kr/article/76855</link>
+            <guid>https://www.esquirekorea.co.kr/article/76855</guid>
+            <pubDate>Thu, 08 Jun 2023 09:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[에르메스의 대표 남성 시계 H08의 새로운 변주와 문페이즈 워치 아쏘 쁘띠 룬을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/49795ae5-9458-4e6a-9007-823ee6a065f3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워치스앤원더스 2023 특집 '몽블랑']]></title>
+            <link>https://www.esquirekorea.co.kr/article/77145</link>
+            <guid>https://www.esquirekorea.co.kr/article/77145</guid>
+            <pubDate>Fri, 19 May 2023 09:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[몽블랑은 올해도 산악인에 대한 탐구와 모험 정신을 이어간다. 이를 대표하는 3가지 모델을 소개...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/ca10ec01-ffb3-4a42-9786-31a6a93c9e50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워치스앤원더스 2023 특집 '파네라이']]></title>
+            <link>https://www.esquirekorea.co.kr/article/77124</link>
+            <guid>https://www.esquirekorea.co.kr/article/77124</guid>
+            <pubDate>Fri, 19 May 2023 03:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[파네라이는 올해 라디오미르 컬렉션에 집중했다. 다양한 모델 중에서 두 가지 모델을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/27/5326e707-8ade-427c-9052-b1cbd833a4e4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워치스앤원더스 2023 특집 'IWC 샤프하우젠']]></title>
+            <link>https://www.esquirekorea.co.kr/article/77123</link>
+            <guid>https://www.esquirekorea.co.kr/article/77123</guid>
+            <pubDate>Fri, 25 Aug 2023 03:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/f0e14917-88b0-45f4-9fef-31a87667a7bb.jpg');">
+            <a href="/article/77123">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/77123">
+                    워치스앤원더스 2023 특집 'IWC 샤프하우젠'                </a>
+            </em>
+            <p class="excerpt">IWC 샤프하우젠의 신제품 인제니어 오토매틱 40, 파일럿 워치 크로노그래프 41 탑건 오세아나, ...</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/28/f0e14917-88b0-45f4-9fef-31a87667a7bb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워치스앤원더스 2023 특집 '태그 호이어']]></title>
+            <link>https://www.esquirekorea.co.kr/article/76853</link>
+            <guid>https://www.esquirekorea.co.kr/article/76853</guid>
+            <pubDate>Fri, 25 Aug 2023 03:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/4237fa01-13b1-4340-9cae-e0b2a417158f.jpg');">
+            <a href="/article/76853">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76853">
+                    워치스앤원더스 2023 특집 '태그 호이어'                </a>
+            </em>
+            <p class="excerpt">태그 호이어의 신제품 까레라 크로노그래프 글라스박스, 까르레 플라즈마 2, 아쿠아 레이서를 소...</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/4237fa01-13b1-4340-9cae-e0b2a417158f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워치스앤원더스 2023 특집 '로저드뷔']]></title>
+            <link>https://www.esquirekorea.co.kr/article/77028</link>
+            <guid>https://www.esquirekorea.co.kr/article/77028</guid>
+            <pubDate>Fri, 25 Aug 2023 03:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/fc4d1ca9-d956-468e-9756-23145ed2f22a.jpg');">
+            <a href="/article/77028">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/77028">
+                    워치스앤원더스 2023 특집 '로저드뷔'                </a>
+            </em>
+            <p class="excerpt">브랜드의 CMO 사드리 카이저를 만나 올해의 신제품 모노볼텍스™ 스플릿 세컨즈 크로노그래프에 ...</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/26/fc4d1ca9-d956-468e-9756-23145ed2f22a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워치스앤원더스 2023 특집 '위블로']]></title>
+            <link>https://www.esquirekorea.co.kr/article/76852</link>
+            <guid>https://www.esquirekorea.co.kr/article/76852</guid>
+            <pubDate>Fri, 25 Aug 2023 03:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/8cfb6ab1-6698-4007-a5a3-042f19ff9c59.jpg');">
+            <a href="/article/76852">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76852">
+                    워치스앤원더스 2023 특집 '위블로'                </a>
+            </em>
+            <p class="excerpt">워치스앤원더스2023년에서 공개한 스퀘어뱅 컬렉션의 다양한 모델을 소개한다.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/8cfb6ab1-6698-4007-a5a3-042f19ff9c59.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워치스앤원더스 2023 특집 '제니스']]></title>
+            <link>https://www.esquirekorea.co.kr/article/76856</link>
+            <guid>https://www.esquirekorea.co.kr/article/76856</guid>
+            <pubDate>Fri, 25 Aug 2023 03:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/f69813d5-398d-434e-98fa-1a7a9f2b50bd.jpg');">
+            <a href="/article/76856">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76856">
+                    워치스앤원더스 2023 특집 '제니스'                </a>
+            </em>
+            <p class="excerpt">올해 제니스의 시선은 하늘로 향했다. 제니가 선보인 파일럿 컬렉션의 다양한 변주를 소개한다.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/25/f69813d5-398d-434e-98fa-1a7a9f2b50bd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워치스앤원더스 2023 특집 '까르띠에']]></title>
+            <link>https://www.esquirekorea.co.kr/article/76850</link>
+            <guid>https://www.esquirekorea.co.kr/article/76850</guid>
+            <pubDate>Fri, 25 Aug 2023 03:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/71b5de10-199c-42da-87ee-c57a9d545628.jpg');">
+            <a href="/article/76850">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76850">
+                    워치스앤원더스 2023 특집 '까르띠에'                </a>
+            </em>
+            <p class="excerpt">산토스 뒤몽 스켈레톤 마이크로 로터, 파샤 드 까르띠에 스켈레톤, 까르띠에 프리베 탱크 노말 ...</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/71b5de10-199c-42da-87ee-c57a9d545628.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워치스앤원더스 2023 특집 '쇼파드']]></title>
+            <link>https://www.esquirekorea.co.kr/article/76931</link>
+            <guid>https://www.esquirekorea.co.kr/article/76931</guid>
+            <pubDate>Fri, 25 Aug 2023 03:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/838332c5-1918-4449-a717-25a78538fdf7.jpg');">
+            <a href="/article/76931">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/76931">
+                    워치스앤원더스 2023 특집 '쇼파드'                </a>
+            </em>
+            <p class="excerpt">L.U.C 1860, 알파인 이글 41 XPS, 밀레 말리아 클래식 크로노그래프를 비롯해 매뉴팩처 방문...</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202304/24/838332c5-1918-4449-a717-25a78538fdf7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미도와 김수현의 스펙트럼]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75851</link>
+            <guid>https://www.esquirekorea.co.kr/article/75851</guid>
+            <pubDate>Fri, 25 Aug 2023 03:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/60b6d379-9af0-4df0-9c49-3a8fead7144a.jpg');">
+                <a href="/article/75851">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/75851">
+                        미도와 김수현의 스펙트럼                    </a>
+                </em>
+                <p class="excerpt">경계를 넘나드는 미도와 김수현의 조우.</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/17/60b6d379-9af0-4df0-9c49-3a8fead7144a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[까르띠에 탱크 프랑세즈의 귀환]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75568</link>
+            <guid>https://www.esquirekorea.co.kr/article/75568</guid>
+            <pubDate>Fri, 25 Aug 2023 03:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/3419718e-bcec-4be9-87d6-fe80def299d7.jpg');">
+                <a href="/article/75568">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/75568">
+                        까르띠에 탱크 프랑세즈의 귀환                    </a>
+                </em>
+                <p class="excerpt">1996년에 탄생한 까르띠에 탱크 프랑세즈가 2023년, 더 우아하고 강렬하게 돌아왔다. </p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202303/06/3419718e-bcec-4be9-87d6-fe80def299d7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일상에서 차는 다이버 워치]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75368</link>
+            <guid>https://www.esquirekorea.co.kr/article/75368</guid>
+            <pubDate>Fri, 25 Aug 2023 03:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/93665f51-fb88-44ad-9f4d-d4644910cb9e.jpg');">
+                <a href="/article/75368">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/75368">
+                        일상에서 차는 다이버 워치                    </a>
+                </em>
+                <p class="excerpt">일상에서 차는 다이버 워치란 이런 것. </p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/27/93665f51-fb88-44ad-9f4d-d4644910cb9e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[샤넬 마드모아젤 프리베 피케 귀 워치의 탄생]]></title>
+            <link>https://www.esquirekorea.co.kr/article/75116</link>
+            <guid>https://www.esquirekorea.co.kr/article/75116</guid>
+            <pubDate>Fri, 25 Aug 2023 03:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/416e5a7d-0f54-48d1-a66b-1ccbaa1baecc.jpg');">
+                <a href="/article/75116">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/75116">
+                        샤넬 마드모아젤 프리베 피케 귀 워치의 탄생                    </a>
+                </em>
+                <p class="excerpt">핀쿠션의 정신으로 완성된 아름다움.</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202302/20/416e5a7d-0f54-48d1-a66b-1ccbaa1baecc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진화를 거듭한 아쿠아레이서 프로페셔널 200 솔라그래프]]></title>
+            <link>https://www.esquirekorea.co.kr/article/74121</link>
+            <guid>https://www.esquirekorea.co.kr/article/74121</guid>
+            <pubDate>Fri, 25 Aug 2023 03:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202301/16/b41cd993-f677-422e-b3ed-5132deefda0e.jpg');">
+                <a href="/article/74121">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/74121">
+                        진화를 거듭한 아쿠아레이서 프로페셔널 200 솔라그래프                    </a>
+                </em>
+                <p class="excerpt">태그호이어의 신작, 태그호이어 아쿠아레이서 프로페셔널 200 솔라그래프 티타늄이 공개됐다.</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/16/b41cd993-f677-422e-b3ed-5132deefda0e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제임스 본드 탄생 60주년을 기념하는 오메가]]></title>
+            <link>https://www.esquirekorea.co.kr/article/73983</link>
+            <guid>https://www.esquirekorea.co.kr/article/73983</guid>
+            <pubDate>Fri, 25 Aug 2023 03:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202301/05/370e7b5c-0c5b-466d-a571-115bba62c352.jpg');">
+                <a href="/article/73983">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/73983">
+                        제임스 본드 탄생 60주년을 기념하는 오메가                    </a>
+                </em>
+                <p class="excerpt">제임스 본드 탄생 60주년을 기념하는 오메가의 블랙 타이 이벤트와 스페셜 에디션 모델.</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202301/05/370e7b5c-0c5b-466d-a571-115bba62c352.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

@@ -4,15 +4,23 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 15:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 03:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Part 2. 안유진이 할 수 있는 것과 할 수 없는 것]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80057</link>
+            <guid>https://www.esquirekorea.co.kr/article/80057</guid>
+            <pubDate>Fri, 25 Aug 2023 03:19:21 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/88c7abbf-5d48-4ee4-a1a1-c891e119bfff.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스트레이키즈, 2023 MTV 비디오 뮤직 어워즈 출연]]></title>
             <link>https://www.esquirekorea.co.kr/article/80052</link>
             <guid>https://www.esquirekorea.co.kr/article/80052</guid>
             <pubDate>Thu, 24 Aug 2023 09:18:26 GMT</pubDate>
             <content:encoded><![CDATA[시상식은 9월 12일 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/56d1dea3-3b50-4f56-bca7-8c3dc8c8fe4b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Part 1. 안유진이 가장 사랑하는 자신의 목소리]]></title>
@@ -58,14 +66,6 @@
             <pubDate>Wed, 23 Aug 2023 03:19:16 GMT</pubDate>
             <content:encoded><![CDATA[솔로 앨범이 나오기 전 꼭 봐야 할 영상.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/b0027d29-fea6-4e42-9a90-39fb7e80c9a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JTBC 드라마 '힙하게' 내일 첫 방송]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79831</link>
-            <guid>https://www.esquirekorea.co.kr/article/79831</guid>
-            <pubDate>Mon, 21 Aug 2023 09:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[한지민과 이민기가 출연한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/11/57c4b495-6dff-4368-a923-3ce50acc4d45.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
