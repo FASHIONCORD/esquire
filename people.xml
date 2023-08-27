@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-08-27T09:17:04.503Z</updated>
+    <updated>2023-08-27T15:17:13.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Part 2. 지효가 더 이상 어떤 목표를 따로 두지 않는 이유]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79982</id>
+        <link href="https://www.esquirekorea.co.kr/article/79982"/>
+        <updated>2023-08-27T15:16:52.663Z</updated>
+        <content type="html"><![CDATA[지효는 더는 어떤 목표나 남들의 시선 때문에 움직이고 싶지 않다. 내가 나를 인정하는 하루엔...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Part 1. '완전 즉흥형' 지효가 꼭 한 번 도전해 보고 싶은 여행]]></title>
         <id>https://www.esquirekorea.co.kr/article/79980</id>
@@ -50,11 +57,5 @@
         <id>https://www.esquirekorea.co.kr/article/79941</id>
         <link href="https://www.esquirekorea.co.kr/article/79941"/>
         <updated>2023-08-23T09:17:58.461Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강민혁 골프 PGA 우승?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79902</id>
-        <link href="https://www.esquirekorea.co.kr/article/79902"/>
-        <updated>2023-08-23T03:19:16.763Z</updated>
     </entry>
 </feed>
