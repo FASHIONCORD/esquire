@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-08-28T09:19:08.746Z</updated>
+    <updated>2023-08-28T15:19:44.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[혼술하기 좋은 모던 위스키 바 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80170</id>
+        <link href="https://www.esquirekorea.co.kr/article/80170"/>
+        <updated>2023-08-28T15:19:00.709Z</updated>
+        <content type="html"><![CDATA[고요한 분위기에서 즐기는 한잔의 위스키.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공덕 족발 골목 찐 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80159</id>
+        <link href="https://www.esquirekorea.co.kr/article/80159"/>
+        <updated>2023-08-28T15:19:00.710Z</updated>
+        <content type="html"><![CDATA[50년 넘게 운영한 노포 족발집부터 서비스로 머릿고기, 순대, 떡볶이가 나오는 곳까지.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 양꼬치 무한리필 맛집 4]]></title>
         <id>https://www.esquirekorea.co.kr/article/80147</id>
@@ -46,19 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/79988"/>
         <updated>2023-08-25T09:17:34.073Z</updated>
         <content type="html"><![CDATA[‘마스크걸’ 일본어 연기는 모두 애드리브?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['칼하트 WIP'이 만든 카페 국내 진출]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79968</id>
-        <link href="https://www.esquirekorea.co.kr/article/79968"/>
-        <updated>2023-08-24T09:18:17.165Z</updated>
-        <content type="html"><![CDATA[8월 24일 오픈 예정.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세상에서 가장 고요한 꿀잠 페스티벌?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79961</id>
-        <link href="https://www.esquirekorea.co.kr/article/79961"/>
-        <updated>2023-08-24T03:19:40.637Z</updated>
-        <content type="html"><![CDATA[누가 누가 더 잘 자나.]]></content>
     </entry>
 </feed>
