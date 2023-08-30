@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 스타일</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 09:18:50 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Part 3. 트와이스 지효 B컷 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80127</link>
-            <guid>https://www.esquirekorea.co.kr/article/80127</guid>
-            <pubDate>Tue, 29 Aug 2023 03:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[지효의 B컷은 에스콰이어 스레드를 통해서도 만나볼 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/b873f570-58b4-45be-9434-014d45aa204d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라프시몬스식 프라다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80088</link>
-            <guid>https://www.esquirekorea.co.kr/article/80088</guid>
-            <pubDate>Sat, 26 Aug 2023 15:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[프라다-위고.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/5697751c-af37-427a-96e1-ec65199916ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펜디 2023 FW 컬렉션 ‘키오도(Chiodo) 백팩’ 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79903</link>
-            <guid>https://www.esquirekorea.co.kr/article/79903</guid>
-            <pubDate>Fri, 25 Aug 2023 15:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[펜디에서 새롭게 론칭한  키오도 백팩 영상을 공개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/16/7e75faa7-68da-4e28-b260-be0d742e2bbd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈프림 2023 F/W 컬렉션 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79881</link>
-            <guid>https://www.esquirekorea.co.kr/article/79881</guid>
-            <pubDate>Thu, 24 Aug 2023 15:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[오는 19일, 슈프림 도산 스토어에서 직접 만날 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/15/f7289f42-3d8b-43d5-9714-bc7347ee6455.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트와이스 지효가 추천하는 여름 액세서리?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79866</link>
-            <guid>https://www.esquirekorea.co.kr/article/79866</guid>
-            <pubDate>Thu, 24 Aug 2023 15:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[솔로 앨범이 나오기 전 꼭 봐야 할 영상.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/b0027d29-fea6-4e42-9a90-39fb7e80c9a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이 주얼리의 새로운 태도]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79514</link>
-            <guid>https://www.esquirekorea.co.kr/article/79514</guid>
-            <pubDate>Thu, 24 Aug 2023 09:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[조용히 대담하게, 주얼리를 대하는 어떤 태도.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/08/7e41fd13-f656-4d5b-a7e5-8ca3aac67574.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[섬세함으로 삶에 빛을 더하는 세 명의 주얼러를 만났다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79603</link>
-            <guid>https://www.esquirekorea.co.kr/article/79603</guid>
-            <pubDate>Wed, 23 Aug 2023 15:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[지금 주얼리에 관심 있는 사람이라면 기억해야 할 이름.  섬세함으로 삶에 빛을 더하는 세 명...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/05/9964409d-ea1a-48ee-8651-80076942e172.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘초롱이’ 고규필, 직접 구매한 마사지건 VS 마동석의 안마?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79695</link>
-            <guid>https://www.esquirekorea.co.kr/article/79695</guid>
-            <pubDate>Wed, 16 Aug 2023 09:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[쇼핑 리스트가 심상치 않다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/04/e4e55d9b-6f30-4154-84bf-07b07776e462.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/style</id>
+    <title>에스콰이어 코리아 ─ 스타일</title>
+    <updated>2023-08-30T15:19:22.075Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Part 3. 트와이스 지효 B컷 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80127</id>
+        <link href="https://www.esquirekorea.co.kr/article/80127"/>
+        <updated>2023-08-29T03:18:29.605Z</updated>
+        <content type="html"><![CDATA[지효의 B컷은 에스콰이어 스레드를 통해서도 만나볼 수 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라프시몬스식 프라다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80088</id>
+        <link href="https://www.esquirekorea.co.kr/article/80088"/>
+        <updated>2023-08-26T15:16:21.051Z</updated>
+        <content type="html"><![CDATA[프라다-위고.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[펜디 2023 FW 컬렉션 ‘키오도(Chiodo) 백팩’ 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79903</id>
+        <link href="https://www.esquirekorea.co.kr/article/79903"/>
+        <updated>2023-08-25T15:17:54.364Z</updated>
+        <content type="html"><![CDATA[펜디에서 새롭게 론칭한  키오도 백팩 영상을 공개한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슈프림 2023 F/W 컬렉션 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79881</id>
+        <link href="https://www.esquirekorea.co.kr/article/79881"/>
+        <updated>2023-08-24T15:18:26.839Z</updated>
+        <content type="html"><![CDATA[오는 19일, 슈프림 도산 스토어에서 직접 만날 수 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트와이스 지효가 추천하는 여름 액세서리?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79866</id>
+        <link href="https://www.esquirekorea.co.kr/article/79866"/>
+        <updated>2023-08-24T15:18:26.842Z</updated>
+        <content type="html"><![CDATA[솔로 앨범이 나오기 전 꼭 봐야 할 영상.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하이 주얼리의 새로운 태도]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79514</id>
+        <link href="https://www.esquirekorea.co.kr/article/79514"/>
+        <updated>2023-08-24T09:17:26.379Z</updated>
+        <content type="html"><![CDATA[조용히 대담하게, 주얼리를 대하는 어떤 태도.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[섬세함으로 삶에 빛을 더하는 세 명의 주얼러를 만났다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79603</id>
+        <link href="https://www.esquirekorea.co.kr/article/79603"/>
+        <updated>2023-08-23T15:18:19.172Z</updated>
+        <content type="html"><![CDATA[지금 주얼리에 관심 있는 사람이라면 기억해야 할 이름.  섬세함으로 삶에 빛을 더하는 세 명...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘초롱이’ 고규필, 직접 구매한 마사지건 VS 마동석의 안마?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79695</id>
+        <link href="https://www.esquirekorea.co.kr/article/79695"/>
+        <updated>2023-08-16T09:16:48.520Z</updated>
+        <content type="html"><![CDATA[쇼핑 리스트가 심상치 않다.]]></content>
+    </entry>
+</feed>
