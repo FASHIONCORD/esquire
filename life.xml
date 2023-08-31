@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/life</id>
-    <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-08-30T15:19:22.076Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[프리즈를 최대로 즐기기 위한 한남 나이트 아트 맵]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80107</id>
-        <link href="https://www.esquirekorea.co.kr/article/80107"/>
-        <updated>2023-08-30T15:18:50.615Z</updated>
-        <content type="html"><![CDATA[9월 5일부터 7일, 프리즈 서울 2023이 열리는 기간에 서울은 아트의 도시로 변한다. 5일 한남,...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프리즈를 최대로 즐기기 위한 삼청 나이트 아트 맵]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80100</id>
-        <link href="https://www.esquirekorea.co.kr/article/80100"/>
-        <updated>2023-08-30T09:18:19.510Z</updated>
-        <content type="html"><![CDATA[9월 5일부터 7일, 프리즈 서울 2023이 열리는 기간에 서울은 아트의 도시로 변한다. 5일 한남,...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['경기도 다낭시'에 특별한 호텔이 문을 열었다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80033</id>
-        <link href="https://www.esquirekorea.co.kr/article/80033"/>
-        <updated>2023-08-30T09:18:19.512Z</updated>
-        <content type="html"><![CDATA[한국인이 하도 많이 찾아 ‘경기도 다낭시’라 불리는 다낭에 독특한 호텔이 문을 열었다. 전통...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[간판과 다른 메뉴가 대표 메뉴인 전국 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80176</id>
-        <link href="https://www.esquirekorea.co.kr/article/80176"/>
-        <updated>2023-08-30T09:18:19.552Z</updated>
-        <content type="html"><![CDATA[국밥 없는 국밥집부터 칼국수 없는 칼국숫집까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 3대 매운 냉면 맛집 2023 ver]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80173</id>
-        <link href="https://www.esquirekorea.co.kr/article/80173"/>
-        <updated>2023-08-30T09:18:19.554Z</updated>
-        <content type="html"><![CDATA[다음날에도 생각나는 매운 냉면을 소개한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혼술하기 좋은 모던 위스키 바 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80170</id>
-        <link href="https://www.esquirekorea.co.kr/article/80170"/>
-        <updated>2023-08-28T15:19:00.709Z</updated>
-        <content type="html"><![CDATA[고요한 분위기에서 즐기는 한잔의 위스키.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공덕 족발 골목 찐 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80159</id>
-        <link href="https://www.esquirekorea.co.kr/article/80159"/>
-        <updated>2023-08-28T15:19:00.710Z</updated>
-        <content type="html"><![CDATA[50년 넘게 운영한 노포 족발집부터 서비스로 머릿고기, 순대, 떡볶이가 나오는 곳까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 양꼬치 무한리필 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80147</id>
-        <link href="https://www.esquirekorea.co.kr/article/80147"/>
-        <updated>2023-08-28T09:18:38.856Z</updated>
-        <content type="html"><![CDATA[원하는 대로 양껏 골라 먹는 재미! 양꼬치 무한리필 집을 소개한다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 31 Aug 2023 03:21:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프리즈를 최대로 즐기기 위한 한남 나이트 아트 맵]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80107</link>
+            <guid>https://www.esquirekorea.co.kr/article/80107</guid>
+            <pubDate>Wed, 30 Aug 2023 15:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[9월 5일부터 7일, 프리즈 서울 2023이 열리는 기간에 서울은 아트의 도시로 변한다. 5일 한남,...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/d546ec25-fee5-4679-af43-a0b552c7d584.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프리즈를 최대로 즐기기 위한 삼청 나이트 아트 맵]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80100</link>
+            <guid>https://www.esquirekorea.co.kr/article/80100</guid>
+            <pubDate>Wed, 30 Aug 2023 09:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[9월 5일부터 7일, 프리즈 서울 2023이 열리는 기간에 서울은 아트의 도시로 변한다. 5일 한남,...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/2d006e4c-e112-43bb-8e23-a9adea2cc5fd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['경기도 다낭시'에 특별한 호텔이 문을 열었다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80033</link>
+            <guid>https://www.esquirekorea.co.kr/article/80033</guid>
+            <pubDate>Wed, 30 Aug 2023 09:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[한국인이 하도 많이 찾아 ‘경기도 다낭시’라 불리는 다낭에 독특한 호텔이 문을 열었다. 전통...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/dc906939-6374-4030-938b-b06868e2dc25.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[간판과 다른 메뉴가 대표 메뉴인 전국 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80176</link>
+            <guid>https://www.esquirekorea.co.kr/article/80176</guid>
+            <pubDate>Wed, 30 Aug 2023 09:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[국밥 없는 국밥집부터 칼국수 없는 칼국숫집까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/8f8d4598-7b86-4ab7-9d84-205feac26743.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 3대 매운 냉면 맛집 2023 ver]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80173</link>
+            <guid>https://www.esquirekorea.co.kr/article/80173</guid>
+            <pubDate>Wed, 30 Aug 2023 09:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[다음날에도 생각나는 매운 냉면을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/26/c73d8d81-7184-4cc6-bd57-a200ee4c9692.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혼술하기 좋은 모던 위스키 바 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80170</link>
+            <guid>https://www.esquirekorea.co.kr/article/80170</guid>
+            <pubDate>Mon, 28 Aug 2023 15:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[고요한 분위기에서 즐기는 한잔의 위스키.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/26/b38ff6e4-4d5a-4821-9506-0eac43143044.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공덕 족발 골목 찐 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80159</link>
+            <guid>https://www.esquirekorea.co.kr/article/80159</guid>
+            <pubDate>Mon, 28 Aug 2023 15:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[50년 넘게 운영한 노포 족발집부터 서비스로 머릿고기, 순대, 떡볶이가 나오는 곳까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/b2319da5-059e-4896-9d43-c61533109960.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 양꼬치 무한리필 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80147</link>
+            <guid>https://www.esquirekorea.co.kr/article/80147</guid>
+            <pubDate>Mon, 28 Aug 2023 09:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[원하는 대로 양껏 골라 먹는 재미! 양꼬치 무한리필 집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/88b910c2-ac29-43cc-8ece-5145d68fc5ba.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
