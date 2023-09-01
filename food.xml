@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 15:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 03:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[혼술하기 좋은 모던 위스키 바 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80170</link>
+            <guid>https://www.esquirekorea.co.kr/article/80170</guid>
+            <pubDate>Fri, 01 Sep 2023 03:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[고요한 분위기에서 즐기는 한잔의 위스키.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/26/b38ff6e4-4d5a-4821-9506-0eac43143044.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공덕 족발 골목 찐 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/80159</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 25 Aug 2023 09:17:24 GMT</pubDate>
             <content:encoded><![CDATA[최소 200위안(약 3만6천원) 주문 시 무료 서비스 제공.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/f441ebac-3fe9-4dae-bdcb-b0b19d17715a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펍이 있는 전국 감성 숙소 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79953</link>
-            <guid>https://www.esquirekorea.co.kr/article/79953</guid>
-            <pubDate>Thu, 24 Aug 2023 09:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[음주와 숙박이 동시에! 취기가 올라와도 안전귀가할 수 있는 숙소를 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/18/4cd240f7-1802-4f84-a78e-08e1d1aa8d40.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

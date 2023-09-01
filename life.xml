@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 15:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 03:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기내에도 도입 예정인 '노 키즈 존']]></title>
+            <link>https://www.esquirekorea.co.kr/article/80317</link>
+            <guid>https://www.esquirekorea.co.kr/article/80317</guid>
+            <pubDate>Fri, 01 Sep 2023 03:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[추가요금만 지불하면 조용한 비행이 가능하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/c5252845-ad55-45c0-b0e0-f4ad300bace5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프리즈 기간에 서울을 찾는 전 세계 아트 피플 20명]]></title>
             <link>https://www.esquirekorea.co.kr/article/80302</link>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 30 Aug 2023 09:18:19 GMT</pubDate>
             <content:encoded><![CDATA[9월 5일부터 7일, 프리즈 서울 2023이 열리는 기간에 서울은 아트의 도시로 변한다. 5일 한남,...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/2d006e4c-e112-43bb-8e23-a9adea2cc5fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['경기도 다낭시'에 특별한 호텔이 문을 열었다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80033</link>
-            <guid>https://www.esquirekorea.co.kr/article/80033</guid>
-            <pubDate>Wed, 30 Aug 2023 09:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[한국인이 하도 많이 찾아 ‘경기도 다낭시’라 불리는 다낭에 독특한 호텔이 문을 열었다. 전통...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/28/dc906939-6374-4030-938b-b06868e2dc25.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
