@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Sep 2023 03:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 09:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1304,6 +1304,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80337</guid>
             <pubDate>Sat, 02 Sep 2023 03:17:34 GMT</pubDate>
             <content:encoded><![CDATA[자갈 사이 사이로 골고루 익어 더욱 담백한 고기의 맛.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/97d5f620-2f0c-4f28-81f0-74c051b2614a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삽으로 고기 퍼주는 집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1311,6 +1312,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80334</guid>
             <pubDate>Fri, 01 Sep 2023 09:18:19 GMT</pubDate>
             <content:encoded><![CDATA[같은 고기라도 삽으로 퍼주면 더 맛있는 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/13ad02ba-8928-45c3-b208-4fd823ed03e4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피자 위에 랍스터? 이색적인 피자 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1318,6 +1320,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80319</guid>
             <pubDate>Fri, 01 Sep 2023 09:18:19 GMT</pubDate>
             <content:encoded><![CDATA[석류, 포도, 톳 도우까지, 피자의 버라이어티는 무죄.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/1a85f401-8e90-40f6-b674-09e24dc37746.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[충남 보령 로컬 먹투어 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1325,6 +1328,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80282</guid>
             <pubDate>Thu, 31 Aug 2023 09:18:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;전지적참견시점&gt;에 등장한 이영자 칼국수 맛집이 여기라고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/0b00f841-ea7c-4c79-97a4-cf538c02145d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[간판과 다른 메뉴가 대표 메뉴인 전국 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1332,6 +1336,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80176</guid>
             <pubDate>Fri, 01 Sep 2023 09:18:19 GMT</pubDate>
             <content:encoded><![CDATA[국밥 없는 국밥집부터 칼국수 없는 칼국숫집까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/8f8d4598-7b86-4ab7-9d84-205feac26743.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울 3대 매운 냉면 맛집 2023 ver (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1339,6 +1344,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80173</guid>
             <pubDate>Fri, 01 Sep 2023 09:18:19 GMT</pubDate>
             <content:encoded><![CDATA[다음날에도 생각나는 매운 냉면을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/26/c73d8d81-7184-4cc6-bd57-a200ee4c9692.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[혼술하기 좋은 모던 위스키 바 4 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1346,6 +1352,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80170</guid>
             <pubDate>Fri, 01 Sep 2023 03:18:47 GMT</pubDate>
             <content:encoded><![CDATA[고요한 분위기에서 즐기는 한잔의 위스키.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/26/b38ff6e4-4d5a-4821-9506-0eac43143044.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공덕 족발 골목 찐 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1353,6 +1360,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80159</guid>
             <pubDate>Mon, 28 Aug 2023 15:19:00 GMT</pubDate>
             <content:encoded><![CDATA[50년 넘게 운영한 노포 족발집부터 서비스로 머릿고기, 순대, 떡볶이가 나오는 곳까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/b2319da5-059e-4896-9d43-c61533109960.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[UFC 코리안 좀비, 정찬성 선수가 다녀간 서울 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1360,13 +1368,15 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80338</guid>
             <pubDate>Sat, 02 Sep 2023 03:17:41 GMT</pubDate>
             <content:encoded><![CDATA[장모님의 제육볶음보다 맛있다고 인정한 식당은 어디?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/8be1babd-980e-4c4f-a12f-46abb7a01d36.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[불타는 자갈 위에 구워 주는 삼겹살 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/80337</link>
             <guid>https://www.esquirekorea.co.kr/article/80337</guid>
-            <pubDate>Sat, 02 Sep 2023 03:17:41 GMT</pubDate>
+            <pubDate>Sat, 02 Sep 2023 03:17:34 GMT</pubDate>
             <content:encoded><![CDATA[자갈 사이 사이로 골고루 익어 더욱 담백한 고기의 맛.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/97d5f620-2f0c-4f28-81f0-74c051b2614a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삽으로 고기 퍼주는 집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1374,6 +1384,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80334</guid>
             <pubDate>Fri, 01 Sep 2023 09:18:19 GMT</pubDate>
             <content:encoded><![CDATA[같은 고기라도 삽으로 퍼주면 더 맛있는 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/13ad02ba-8928-45c3-b208-4fd823ed03e4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단색조 회화 이후의 한국 미술 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1381,12 +1392,14 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80247</guid>
             <pubDate>Fri, 01 Sep 2023 09:18:30 GMT</pubDate>
             <content:encoded><![CDATA[단색조 회화 이후 한국 미술엔 무엇이 있는가.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/51a0c5c9-f0fa-482e-a1a4-c907bd2fa567.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디지털 모바일 시대에 스포츠 기자가 할 수 있는 것들 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/80328</link>
             <guid>https://www.esquirekorea.co.kr/article/80328</guid>
             <pubDate>Fri, 01 Sep 2023 09:18:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/37d34e35-fefc-4293-88df-a608ea00ee28.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[돈두댓] 섹스 토이 어디까지 써봤니? (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1394,6 +1407,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80323</guid>
             <pubDate>Fri, 01 Sep 2023 09:18:30 GMT</pubDate>
             <content:encoded><![CDATA[요도 안에 넣는 자위 기구도 있다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/70cdaa33-bb71-48ab-861a-45f8c1e884b5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피자 위에 랍스터? 이색적인 피자 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1401,6 +1415,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80319</guid>
             <pubDate>Fri, 01 Sep 2023 09:18:19 GMT</pubDate>
             <content:encoded><![CDATA[석류, 포도, 톳 도우까지, 피자의 버라이어티는 무죄.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/1a85f401-8e90-40f6-b674-09e24dc37746.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기내에도 도입 예정인 '노 키즈 존' (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1408,6 +1423,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80317</guid>
             <pubDate>Fri, 01 Sep 2023 03:18:56 GMT</pubDate>
             <content:encoded><![CDATA[추가요금만 지불하면 조용한 비행이 가능하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/c5252845-ad55-45c0-b0e0-f4ad300bace5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Part 1. 김성균에게 가장 연기를 잘 했다고 생각하는 장면을 물었다 (에스콰이어 코리아 ─ 피플)]]></title>
