@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 15:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 03:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1299,6 +1299,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[2026년 출시 예정]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[불타는 자갈 위에 구워 주는 삼겹살 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80337</link>
+            <guid>https://www.esquirekorea.co.kr/article/80337</guid>
+            <pubDate>Sat, 02 Sep 2023 03:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[자갈 사이 사이로 골고루 익어 더욱 담백한 고기의 맛.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[삽으로 고기 퍼주는 집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/80334</link>
             <guid>https://www.esquirekorea.co.kr/article/80334</guid>
@@ -1348,11 +1355,18 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[50년 넘게 운영한 노포 족발집부터 서비스로 머릿고기, 순대, 떡볶이가 나오는 곳까지.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[서울 양꼬치 무한리필 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80147</link>
-            <guid>https://www.esquirekorea.co.kr/article/80147</guid>
-            <pubDate>Mon, 28 Aug 2023 09:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[원하는 대로 양껏 골라 먹는 재미! 양꼬치 무한리필 집을 소개한다.]]></content:encoded>
+            <title><![CDATA[UFC 코리안 좀비, 정찬성 선수가 다녀간 서울 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80338</link>
+            <guid>https://www.esquirekorea.co.kr/article/80338</guid>
+            <pubDate>Sat, 02 Sep 2023 03:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[장모님의 제육볶음보다 맛있다고 인정한 식당은 어디?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[불타는 자갈 위에 구워 주는 삼겹살 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80337</link>
+            <guid>https://www.esquirekorea.co.kr/article/80337</guid>
+            <pubDate>Sat, 02 Sep 2023 03:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[자갈 사이 사이로 골고루 익어 더욱 담백한 고기의 맛.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[삽으로 고기 퍼주는 집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1360,7 +1374,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80334</guid>
             <pubDate>Fri, 01 Sep 2023 09:18:19 GMT</pubDate>
             <content:encoded><![CDATA[같은 고기라도 삽으로 퍼주면 더 맛있는 법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/13ad02ba-8928-45c3-b208-4fd823ed03e4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[단색조 회화 이후의 한국 미술 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1368,14 +1381,12 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80247</guid>
             <pubDate>Fri, 01 Sep 2023 09:18:30 GMT</pubDate>
             <content:encoded><![CDATA[단색조 회화 이후 한국 미술엔 무엇이 있는가.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/51a0c5c9-f0fa-482e-a1a4-c907bd2fa567.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디지털 모바일 시대에 스포츠 기자가 할 수 있는 것들 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/80328</link>
             <guid>https://www.esquirekorea.co.kr/article/80328</guid>
             <pubDate>Fri, 01 Sep 2023 09:18:30 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/37d34e35-fefc-4293-88df-a608ea00ee28.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[돈두댓] 섹스 토이 어디까지 써봤니? (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1383,7 +1394,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80323</guid>
             <pubDate>Fri, 01 Sep 2023 09:18:30 GMT</pubDate>
             <content:encoded><![CDATA[요도 안에 넣는 자위 기구도 있다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/70cdaa33-bb71-48ab-861a-45f8c1e884b5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피자 위에 랍스터? 이색적인 피자 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1391,7 +1401,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80319</guid>
             <pubDate>Fri, 01 Sep 2023 09:18:19 GMT</pubDate>
             <content:encoded><![CDATA[석류, 포도, 톳 도우까지, 피자의 버라이어티는 무죄.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/1a85f401-8e90-40f6-b674-09e24dc37746.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기내에도 도입 예정인 '노 키즈 존' (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1399,29 +1408,13 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80317</guid>
             <pubDate>Fri, 01 Sep 2023 03:18:56 GMT</pubDate>
             <content:encoded><![CDATA[추가요금만 지불하면 조용한 비행이 가능하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/c5252845-ad55-45c0-b0e0-f4ad300bace5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프리즈 기간에 서울을 찾는 전 세계 아트 피플 20명 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80302</link>
-            <guid>https://www.esquirekorea.co.kr/article/80302</guid>
-            <pubDate>Thu, 31 Aug 2023 15:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[국제 무대에서 활약하는 아트 피플들이 프리즈 기간에 서울로 모인다. 코엑스의 부스들을 돌아다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/9057e13a-437f-4f44-ac5e-f3247a21081f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘스트릿 우먼 파이터 2’ BEBE 리더, 바다리 TMI 12. (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80289</link>
-            <guid>https://www.esquirekorea.co.kr/article/80289</guid>
-            <pubDate>Thu, 31 Aug 2023 15:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[175cm의 레슬링 선수였다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/f061e43c-7348-4bc1-9682-bb9faed76a55.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Part 1. 김성균에게 가장 연기를 잘 했다고 생각하는 장면을 물었다 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/80031</link>
             <guid>https://www.esquirekorea.co.kr/article/80031</guid>
             <pubDate>Wed, 30 Aug 2023 15:19:01 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/d0a96aa7-c0c4-4096-8d7a-2718c27cdb12.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Part 3. 트와이스 지효 B컷 공개 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1429,6 +1422,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80127</guid>
             <pubDate>Tue, 29 Aug 2023 03:18:29 GMT</pubDate>
             <content:encoded><![CDATA[지효의 B컷은 에스콰이어 스레드를 통해서도 만나볼 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/b873f570-58b4-45be-9434-014d45aa204d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Part 2. 지효가 더 이상 어떤 목표를 따로 두지 않는 이유 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1436,6 +1430,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/79982</guid>
             <pubDate>Sun, 27 Aug 2023 15:16:52 GMT</pubDate>
             <content:encoded><![CDATA[지효는 더는 어떤 목표나 남들의 시선 때문에 움직이고 싶지 않다. 내가 나를 인정하는 하루엔...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/57f3c4f7-c899-4928-97d7-0796d673ec4e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Part 1. '완전 즉흥형' 지효가 꼭 한 번 도전해 보고 싶은 여행 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1443,6 +1438,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/79980</guid>
             <pubDate>Fri, 25 Aug 2023 09:17:43 GMT</pubDate>
             <content:encoded><![CDATA[지효는 더는 어떤 목표나 남들의 시선 때문에 움직이고 싶지 않다. 내가 나를 인정하는 하루엔...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/2bbc1d3d-49cd-483d-a1d0-78d9c7597503.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신혜선 주연, 영화 '타겟' 개봉 D-7 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1450,12 +1446,14 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80080</guid>
             <pubDate>Fri, 25 Aug 2023 09:17:43 GMT</pubDate>
             <content:encoded><![CDATA[신혜선의 첫 스릴러 도전.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/bd9eb17a-b5c7-4f9d-af13-6e5d3f181fc6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Part 2. 안유진이 할 수 있는 것과 할 수 없는 것 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/80057</link>
             <guid>https://www.esquirekorea.co.kr/article/80057</guid>
             <pubDate>Fri, 25 Aug 2023 03:19:21 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/88c7abbf-5d48-4ee4-a1a1-c891e119bfff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스트레이키즈, 2023 MTV 비디오 뮤직 어워즈 출연 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1463,12 +1461,14 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80052</guid>
             <pubDate>Thu, 24 Aug 2023 09:18:26 GMT</pubDate>
             <content:encoded><![CDATA[시상식은 9월 12일 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/56d1dea3-3b50-4f56-bca7-8c3dc8c8fe4b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Part 1. 안유진이 가장 사랑하는 자신의 목소리 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/80030</link>
             <guid>https://www.esquirekorea.co.kr/article/80030</guid>
             <pubDate>Thu, 24 Aug 2023 09:18:26 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/2bb32e9d-b13f-4eaf-b75a-c53e89420e77.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[물속에서 시속 11km로 움직일 수 있게 해주는 '제트팩' (에스콰이어 코리아 ─ 나우)]]></title>
