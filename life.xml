@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 03:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 09:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하늘 명소, 천장 통유리 카페 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80341</link>
+            <guid>https://www.esquirekorea.co.kr/article/80341</guid>
+            <pubDate>Sun, 03 Sep 2023 09:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[그림 같은 하늘뷰 아래서 즐기는 디저트와 브런치?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/0cbee793-d44f-4164-aa38-e8c0e3cb6ce0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을 산행 추천, 계곡 뷰 닭 코스요리 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/80340</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 01 Sep 2023 09:18:30 GMT</pubDate>
             <content:encoded><![CDATA[요도 안에 넣는 자위 기구도 있다]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/70cdaa33-bb71-48ab-861a-45f8c1e884b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피자 위에 랍스터? 이색적인 피자 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80319</link>
-            <guid>https://www.esquirekorea.co.kr/article/80319</guid>
-            <pubDate>Fri, 01 Sep 2023 09:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[석류, 포도, 톳 도우까지, 피자의 버라이어티는 무죄.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/1a85f401-8e90-40f6-b674-09e24dc37746.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
