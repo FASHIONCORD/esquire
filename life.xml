@@ -1,63 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/life</id>
-    <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-09-02T15:16:58.254Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[가을 산행 추천, 계곡 뷰 닭 코스요리 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80340</id>
-        <link href="https://www.esquirekorea.co.kr/article/80340"/>
-        <updated>2023-09-02T15:16:29.274Z</updated>
-        <content type="html"><![CDATA[시원한 바람 맞으며 즐길 수 있는 2만원대 닭 코스요리?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UFC 코리안 좀비, 정찬성 선수가 다녀간 서울 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80338</id>
-        <link href="https://www.esquirekorea.co.kr/article/80338"/>
-        <updated>2023-09-02T03:17:41.874Z</updated>
-        <content type="html"><![CDATA[장모님의 제육볶음보다 맛있다고 인정한 식당은 어디?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불타는 자갈 위에 구워 주는 삼겹살 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80337</id>
-        <link href="https://www.esquirekorea.co.kr/article/80337"/>
-        <updated>2023-09-02T03:17:41.877Z</updated>
-        <content type="html"><![CDATA[자갈 사이 사이로 골고루 익어 더욱 담백한 고기의 맛.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삽으로 고기 퍼주는 집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80334</id>
-        <link href="https://www.esquirekorea.co.kr/article/80334"/>
-        <updated>2023-09-01T09:18:30.476Z</updated>
-        <content type="html"><![CDATA[같은 고기라도 삽으로 퍼주면 더 맛있는 법.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단색조 회화 이후의 한국 미술]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80247</id>
-        <link href="https://www.esquirekorea.co.kr/article/80247"/>
-        <updated>2023-09-01T09:18:30.478Z</updated>
-        <content type="html"><![CDATA[단색조 회화 이후 한국 미술엔 무엇이 있는가.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디지털 모바일 시대에 스포츠 기자가 할 수 있는 것들]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80328</id>
-        <link href="https://www.esquirekorea.co.kr/article/80328"/>
-        <updated>2023-09-01T09:18:30.486Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[돈두댓] 섹스 토이 어디까지 써봤니?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80323</id>
-        <link href="https://www.esquirekorea.co.kr/article/80323"/>
-        <updated>2023-09-01T09:18:30.488Z</updated>
-        <content type="html"><![CDATA[요도 안에 넣는 자위 기구도 있다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피자 위에 랍스터? 이색적인 피자 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80319</id>
-        <link href="https://www.esquirekorea.co.kr/article/80319"/>
-        <updated>2023-09-01T09:18:30.490Z</updated>
-        <content type="html"><![CDATA[석류, 포도, 톳 도우까지, 피자의 버라이어티는 무죄.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 03 Sep 2023 03:18:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을 산행 추천, 계곡 뷰 닭 코스요리 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80340</link>
+            <guid>https://www.esquirekorea.co.kr/article/80340</guid>
+            <pubDate>Sat, 02 Sep 2023 15:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[시원한 바람 맞으며 즐길 수 있는 2만원대 닭 코스요리?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/37785721-215c-42ea-a9de-421de179fe1a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UFC 코리안 좀비, 정찬성 선수가 다녀간 서울 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80338</link>
+            <guid>https://www.esquirekorea.co.kr/article/80338</guid>
+            <pubDate>Sat, 02 Sep 2023 03:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[장모님의 제육볶음보다 맛있다고 인정한 식당은 어디?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/8be1babd-980e-4c4f-a12f-46abb7a01d36.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불타는 자갈 위에 구워 주는 삼겹살 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80337</link>
+            <guid>https://www.esquirekorea.co.kr/article/80337</guid>
+            <pubDate>Sat, 02 Sep 2023 03:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[자갈 사이 사이로 골고루 익어 더욱 담백한 고기의 맛.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/97d5f620-2f0c-4f28-81f0-74c051b2614a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삽으로 고기 퍼주는 집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80334</link>
+            <guid>https://www.esquirekorea.co.kr/article/80334</guid>
+            <pubDate>Fri, 01 Sep 2023 09:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[같은 고기라도 삽으로 퍼주면 더 맛있는 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/13ad02ba-8928-45c3-b208-4fd823ed03e4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[단색조 회화 이후의 한국 미술]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80247</link>
+            <guid>https://www.esquirekorea.co.kr/article/80247</guid>
+            <pubDate>Fri, 01 Sep 2023 09:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[단색조 회화 이후 한국 미술엔 무엇이 있는가.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/51a0c5c9-f0fa-482e-a1a4-c907bd2fa567.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디지털 모바일 시대에 스포츠 기자가 할 수 있는 것들]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80328</link>
+            <guid>https://www.esquirekorea.co.kr/article/80328</guid>
+            <pubDate>Fri, 01 Sep 2023 09:18:30 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/37d34e35-fefc-4293-88df-a608ea00ee28.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[돈두댓] 섹스 토이 어디까지 써봤니?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80323</link>
+            <guid>https://www.esquirekorea.co.kr/article/80323</guid>
+            <pubDate>Fri, 01 Sep 2023 09:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[요도 안에 넣는 자위 기구도 있다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/70cdaa33-bb71-48ab-861a-45f8c1e884b5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피자 위에 랍스터? 이색적인 피자 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80319</link>
+            <guid>https://www.esquirekorea.co.kr/article/80319</guid>
+            <pubDate>Fri, 01 Sep 2023 09:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[석류, 포도, 톳 도우까지, 피자의 버라이어티는 무죄.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/1a85f401-8e90-40f6-b674-09e24dc37746.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
