@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 09:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 15:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전국 이색 탕후루 맛집 3]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80346</link>
+            <guid>https://www.esquirekorea.co.kr/article/80346</guid>
+            <pubDate>Thu, 07 Sep 2023 15:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[탕후루 폼 미쳤다!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/95898035-21c7-45ec-ab7c-70cceaf06034.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하늘 명소, 천장 통유리 카페 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80341</link>
+            <guid>https://www.esquirekorea.co.kr/article/80341</guid>
+            <pubDate>Thu, 07 Sep 2023 15:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[그림 같은 하늘뷰 아래서 즐기는 디저트와 브런치?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/0cbee793-d44f-4164-aa38-e8c0e3cb6ce0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을 산행 추천, 계곡 뷰 닭 코스요리 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/80340</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 01 Sep 2023 09:18:19 GMT</pubDate>
             <content:encoded><![CDATA[&lt;전지적참견시점&gt;에 등장한 이영자 칼국수 맛집이 여기라고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/0b00f841-ea7c-4c79-97a4-cf538c02145d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[간판과 다른 메뉴가 대표 메뉴인 전국 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80176</link>
-            <guid>https://www.esquirekorea.co.kr/article/80176</guid>
-            <pubDate>Fri, 01 Sep 2023 09:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[국밥 없는 국밥집부터 칼국수 없는 칼국숫집까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/8f8d4598-7b86-4ab7-9d84-205feac26743.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 3대 매운 냉면 맛집 2023 ver]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80173</link>
-            <guid>https://www.esquirekorea.co.kr/article/80173</guid>
-            <pubDate>Fri, 01 Sep 2023 09:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[다음날에도 생각나는 매운 냉면을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/26/c73d8d81-7184-4cc6-bd57-a200ee4c9692.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
