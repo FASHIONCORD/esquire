@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 카&amp;테크</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 15:20:10 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[물속에서 시속 11km로 움직일 수 있게 해주는 '제트팩']]></title>
-            <link>https://www.esquirekorea.co.kr/article/79870</link>
-            <guid>https://www.esquirekorea.co.kr/article/79870</guid>
-            <pubDate>Sat, 02 Sep 2023 15:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[마이클 펠프스 보다 빠르게 움직일 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/89387d94-2aba-42b8-8e60-bfd1c6ef00f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드리프트가 가능한 세발자전거]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79808</link>
-            <guid>https://www.esquirekorea.co.kr/article/79808</guid>
-            <pubDate>Wed, 30 Aug 2023 15:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[이렇게나 터프한 세발자전거도 있다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/10/befbf3c8-7ea4-4dbd-8fb1-43d436baadb1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전설적인 모터바이크 8대는 무엇?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79602</link>
-            <guid>https://www.esquirekorea.co.kr/article/79602</guid>
-            <pubDate>Tue, 29 Aug 2023 03:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[라이더라면 엄지를 치켜올릴 수밖에 없는 전설의 모터바이크 8대.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/06/48699fc8-b3dd-46c8-924e-7fbf18053921.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손목에 찰 수 있는 에어팟?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79717</link>
-            <guid>https://www.esquirekorea.co.kr/article/79717</guid>
-            <pubDate>Sat, 26 Aug 2023 15:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[애플이 특허를 등록했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/8993ccdc-3a82-4091-97f6-3405df662deb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 최초의 컴퓨터, 애플-1(Apple-1) 경매에 등장]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79651</link>
-            <guid>https://www.esquirekorea.co.kr/article/79651</guid>
-            <pubDate>Fri, 25 Aug 2023 15:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[최초 출시 가격은 한화 약 86만원]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/f70450f1-a0a6-41cb-bec9-72020ac8015b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성남시, 유료 드론 배송 서비스 시작]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79643</link>
-            <guid>https://www.esquirekorea.co.kr/article/79643</guid>
-            <pubDate>Mon, 14 Aug 2023 15:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[하늘에서 음식이 내린다면]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/3ffbf7d4-c36e-483d-bd4f-73950bbfb6d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갤럭시 언팩 2023에서 공개된 삼성전자 신제품 핵심 정리]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79571</link>
-            <guid>https://www.esquirekorea.co.kr/article/79571</guid>
-            <pubDate>Thu, 10 Aug 2023 03:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[갤럭시 Z 플립5, 갤럭시 Z 폴드5부터 갤럭시 워치6, 갤럭시 탭 S9 시리즈까지]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/d71d7522-f6f2-416c-821f-4c428c764ed5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오디오 역사의 전설이 된 스피커들, 재해석과 복각과 오마주로 돌아오다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79433</link>
-            <guid>https://www.esquirekorea.co.kr/article/79433</guid>
-            <pubDate>Sat, 05 Aug 2023 15:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[오디오 역사의 전설이 된 스피커들의 다소 뒤늦은, 하지만 이토록 깊고도 유연한 변주.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/4873c619-4885-484c-b618-63ac269a71f3.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/carandtech</id>
+    <title>에스콰이어 코리아 ─ 카&amp;테크</title>
+    <updated>2023-09-08T03:18:39.586Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘애플-1’ 광고 초안이 낙찰된 가격?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80174</id>
+        <link href="https://www.esquirekorea.co.kr/article/80174"/>
+        <updated>2023-09-08T03:17:51.940Z</updated>
+        <content type="html"><![CDATA[스티브 잡스의 손글씨가 자그마치 약 2억 원.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유튜브 '음원 인식 기능' 서비스 도입]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80161</id>
+        <link href="https://www.esquirekorea.co.kr/article/80161"/>
+        <updated>2023-09-08T03:17:51.943Z</updated>
+        <content type="html"><![CDATA[안드로이드 앱에서만 우선 시행될 예정]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[물속에서 시속 11km로 움직일 수 있게 해주는 '제트팩']]></title>
+        <id>https://www.esquirekorea.co.kr/article/79870</id>
+        <link href="https://www.esquirekorea.co.kr/article/79870"/>
+        <updated>2023-09-02T15:16:06.355Z</updated>
+        <content type="html"><![CDATA[마이클 펠프스 보다 빠르게 움직일 수 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드리프트가 가능한 세발자전거]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79808</id>
+        <link href="https://www.esquirekorea.co.kr/article/79808"/>
+        <updated>2023-08-30T15:18:30.903Z</updated>
+        <content type="html"><![CDATA[이렇게나 터프한 세발자전거도 있다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전설적인 모터바이크 8대는 무엇?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79602</id>
+        <link href="https://www.esquirekorea.co.kr/article/79602"/>
+        <updated>2023-08-29T03:19:18.528Z</updated>
+        <content type="html"><![CDATA[라이더라면 엄지를 치켜올릴 수밖에 없는 전설의 모터바이크 8대.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손목에 찰 수 있는 에어팟?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79717</id>
+        <link href="https://www.esquirekorea.co.kr/article/79717"/>
+        <updated>2023-08-26T15:17:09.300Z</updated>
+        <content type="html"><![CDATA[애플이 특허를 등록했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 최초의 컴퓨터, 애플-1(Apple-1) 경매에 등장]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79651</id>
+        <link href="https://www.esquirekorea.co.kr/article/79651"/>
+        <updated>2023-08-25T15:18:17.378Z</updated>
+        <content type="html"><![CDATA[최초 출시 가격은 한화 약 86만원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성남시, 유료 드론 배송 서비스 시작]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79643</id>
+        <link href="https://www.esquirekorea.co.kr/article/79643"/>
+        <updated>2023-08-14T15:17:08.044Z</updated>
+        <content type="html"><![CDATA[하늘에서 음식이 내린다면]]></content>
+    </entry>
+</feed>
