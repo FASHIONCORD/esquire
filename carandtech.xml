@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 09:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 15:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스마트폰 없이 사용 가능한 '미니미스 스마트 안경' 등장]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80219</link>
+            <guid>https://www.esquirekorea.co.kr/article/80219</guid>
+            <pubDate>Fri, 08 Sep 2023 15:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[앞으로 양손 가볍게 운동이 가능하겠다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/c0476687-192f-4f49-8f79-0eec0942dd55.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘애플-1’ 광고 초안이 낙찰된 가격?]]></title>
             <link>https://www.esquirekorea.co.kr/article/80174</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 25 Aug 2023 15:18:17 GMT</pubDate>
             <content:encoded><![CDATA[최초 출시 가격은 한화 약 86만원]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/f70450f1-a0a6-41cb-bec9-72020ac8015b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성남시, 유료 드론 배송 서비스 시작]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79643</link>
-            <guid>https://www.esquirekorea.co.kr/article/79643</guid>
-            <pubDate>Mon, 14 Aug 2023 15:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[하늘에서 음식이 내린다면]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/3ffbf7d4-c36e-483d-bd4f-73950bbfb6d6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
