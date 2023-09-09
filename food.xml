@@ -4,9 +4,22 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Sep 2023 03:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 09:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[식사하면서 물멍을? 물멍 할 수 있는 이색 식당 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80482</link>
+            <guid>https://www.esquirekorea.co.kr/article/80482</guid>
+            <pubDate>Sat, 09 Sep 2023 09:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[배가 떠있는 호수부터 술잔을 동동 띄우는 포석정까지, 식사와 물멍을 동시에.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[시대를 초월해서 반복되는 슈퍼푸드의 거짓말]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80476</link>
+            <guid>https://www.esquirekorea.co.kr/article/80476</guid>
+            <pubDate>Sat, 09 Sep 2023 09:16:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[9월 8일 개방, 서삼릉 효릉 주변 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/80465</link>
@@ -53,22 +66,6 @@
             <pubDate>Thu, 07 Sep 2023 15:19:16 GMT</pubDate>
             <content:encoded><![CDATA[탕후루 폼 미쳤다!]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/95898035-21c7-45ec-ab7c-70cceaf06034.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하늘 명소, 천장 통유리 카페 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80341</link>
-            <guid>https://www.esquirekorea.co.kr/article/80341</guid>
-            <pubDate>Thu, 07 Sep 2023 15:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[그림 같은 하늘뷰 아래서 즐기는 디저트와 브런치?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/0cbee793-d44f-4164-aa38-e8c0e3cb6ce0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 산행 추천, 계곡 뷰 닭 코스요리 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80340</link>
-            <guid>https://www.esquirekorea.co.kr/article/80340</guid>
-            <pubDate>Wed, 06 Sep 2023 15:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[시원한 바람 맞으며 즐길 수 있는 2만원대 닭 코스요리?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/37785721-215c-42ea-a9de-421de179fe1a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
