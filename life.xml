@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 09:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 15:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성 재벌가 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80493</link>
+            <guid>https://www.esquirekorea.co.kr/article/80493</guid>
+            <pubDate>Sun, 10 Sep 2023 15:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[故 이병철, 故 이건희, 이재용, 이부진이 다녀간 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/09/55566247-b0c4-436d-9407-4e23186d907d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하루에 3시간만 운영하는 돈까스 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80492</link>
+            <guid>https://www.esquirekorea.co.kr/article/80492</guid>
+            <pubDate>Sun, 10 Sep 2023 15:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[기다림은 길어도 기쁨은 순식간인 돈까스 맛집을 모았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/09/1f548e63-5749-4a49-b686-0ee23815e5c9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[식사하면서 물멍을? 물멍 할 수 있는 이색 식당 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/80482</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 08 Sep 2023 09:18:19 GMT</pubDate>
             <content:encoded><![CDATA[지방 함량이 제일 높아 더욱 고소하고 풍미가 넘치는 가을 전어 맛집을 모았다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/54f7768d-7522-4649-b687-944ed6e2ae4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돈두댓] 사람 많은 곳에 적합한 무소음 체위 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80450</link>
-            <guid>https://www.esquirekorea.co.kr/article/80450</guid>
-            <pubDate>Fri, 08 Sep 2023 03:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[추석 때 방문한 부모님 댁에서도 사랑을 멈출 수 없다면 참고해도 좋다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/23148138-2f39-42e6-94e4-90ae42699a22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메뉴에 특허를 보유한 피자 맛집 3]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80444</link>
-            <guid>https://www.esquirekorea.co.kr/article/80444</guid>
-            <pubDate>Fri, 08 Sep 2023 03:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[알록달록한 꽃 피자부터 소금 우유 도우 피자, 명란 시금치 피자까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/798bcb06-7391-4b41-97dd-21c72f55181a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
