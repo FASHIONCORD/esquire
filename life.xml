@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 03:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 09:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[낮은 출산율의 초고령사회는 그저 디스토피아일 것인가?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80099</link>
+            <guid>https://www.esquirekorea.co.kr/article/80099</guid>
+            <pubDate>Mon, 11 Sep 2023 09:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[피라미드 형태였던 전 세계 인구 구조가 역삼각형 모양으로 바뀌어가고 있다. 세계가 인류 역사...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/09/a8e264ae-3980-4599-839a-5d6fb340728a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성 재벌가 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/80493</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Sep 2023 15:16:23 GMT</pubDate>
             <content:encoded><![CDATA[효릉 근처 방갈로에서 맛보는 푸짐한 한정식집?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/e92def72-9920-452d-8568-c4d6510d640b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제철 맞은 서울 전어회 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80458</link>
-            <guid>https://www.esquirekorea.co.kr/article/80458</guid>
-            <pubDate>Fri, 08 Sep 2023 09:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[지방 함량이 제일 높아 더욱 고소하고 풍미가 넘치는 가을 전어 맛집을 모았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/54f7768d-7522-4649-b687-944ed6e2ae4c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
