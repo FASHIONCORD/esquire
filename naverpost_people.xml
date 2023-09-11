@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 15:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 03:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘스트릿 우먼 파이터 2’ BEBE 리더, 바다리 TMI 12.]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36516398&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36516398&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Mon, 11 Sep 2023 03:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDRfMjgz/MDAxNjkzNzg5Nzk4MTM5.8TLBeU1S13TYeJ3Js06Q5Gj7AbS0claGGjEHasT7NlYg.2NkwV5yuOtyZw11aT9bSCXaxLecqvSe8cCKOMHgNBiAg.JPEG/I1_fuElFqeRV0AQocxhoJmcxrGJw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스 ‘마스크걸’ 주오남을 삼킨 안재홍 TMI 12.]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36482387&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 23 Jun 2023 09:21:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMTVfMjg2/MDAxNjY4NDkyMTIyMTA5.d3-6LMSz7GJB8S9ZDks6IW1jqBNoA8Qgto80kZjM1ucg.7Ryz13fHnJJq-FMKDtTXcAQr-C1vyXxum65CnEw0rNsg.JPEG/IECw4Tt5INUv28d9qGwcl6DgjEFI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환승연애2 최대수혜자는 뱀뱀? 매력부자 뱀뱀에 대해 몰랐던 사실 12]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34763178&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34763178&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Fri, 23 Jun 2023 09:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjExMDlfMjg2/MDAxNjY3OTgxNjA0NjQ5.NnQFwGmozvRp6NbVeAgPgPZO6IkDP8uAJUJJnWrrNgwg.pAyPA9f67QAxY5eHfgDU1dcFuefh4hl3okx2b4Bju44g.JPEG/I2GC6reMWiGm6IRWo-S2jjPpLyR8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
