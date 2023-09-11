@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 09:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 15:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이폰 15 공개 임박?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80296</link>
+            <guid>https://www.esquirekorea.co.kr/article/80296</guid>
+            <pubDate>Mon, 11 Sep 2023 15:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[애플이 9월 13일, 새로운 행사를 발표한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/30/68e93206-46a4-435b-9683-2109d872c863.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스마트폰 없이 사용 가능한 '미니미스 스마트 안경' 등장]]></title>
             <link>https://www.esquirekorea.co.kr/article/80219</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 26 Aug 2023 15:17:09 GMT</pubDate>
             <content:encoded><![CDATA[애플이 특허를 등록했다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/07/8993ccdc-3a82-4091-97f6-3405df662deb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 최초의 컴퓨터, 애플-1(Apple-1) 경매에 등장]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79651</link>
-            <guid>https://www.esquirekorea.co.kr/article/79651</guid>
-            <pubDate>Fri, 25 Aug 2023 15:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[최초 출시 가격은 한화 약 86만원]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/f70450f1-a0a6-41cb-bec9-72020ac8015b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
