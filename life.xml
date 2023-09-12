@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 15:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 03:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[혼커족을 위한 서울의 신상 카페 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80501</link>
+            <guid>https://www.esquirekorea.co.kr/article/80501</guid>
+            <pubDate>Tue, 12 Sep 2023 03:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[아늑한 분위기에서 나홀로 즐기는 커피 한 잔의 여유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/09/fdc8b1c6-1b68-4524-836b-badc347b2321.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낮은 출산율의 초고령사회는 그저 디스토피아일 것인가?]]></title>
             <link>https://www.esquirekorea.co.kr/article/80099</link>
@@ -21,7 +29,7 @@
             <guid>https://www.esquirekorea.co.kr/article/80493</guid>
             <pubDate>Sun, 10 Sep 2023 15:17:21 GMT</pubDate>
             <content:encoded><![CDATA[故 이병철, 故 이건희, 이재용, 이부진이 다녀간 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/09/55566247-b0c4-436d-9407-4e23186d907d.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/65e94280-addf-4802-8c99-09bf4b2cde08.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하루에 3시간만 운영하는 돈까스 맛집 4]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 08 Sep 2023 15:16:23 GMT</pubDate>
             <content:encoded><![CDATA[한국 개봉일 미정]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/acb17499-45f6-4fac-ae08-df4217454c3f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9월 8일 개방, 서삼릉 효릉 주변 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80465</link>
-            <guid>https://www.esquirekorea.co.kr/article/80465</guid>
-            <pubDate>Fri, 08 Sep 2023 15:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[효릉 근처 방갈로에서 맛보는 푸짐한 한정식집?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/e92def72-9920-452d-8568-c4d6510d640b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
