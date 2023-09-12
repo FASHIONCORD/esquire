@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/carandtech</id>
     <title>에스콰이어 코리아 ─ 카&amp;테크</title>
-    <updated>2023-09-12T09:19:53.311Z</updated>
+    <updated>2023-09-12T15:20:22.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플 전 CDO인 조니 아이브가 재해석한 전설적 턴테이블]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80038</id>
+        <link href="https://www.esquirekorea.co.kr/article/80038"/>
+        <updated>2023-09-12T15:19:27.599Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이폰 15 공개 임박?]]></title>
         <id>https://www.esquirekorea.co.kr/article/80296</id>
@@ -53,12 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/79602"/>
         <updated>2023-08-29T03:19:18.528Z</updated>
         <content type="html"><![CDATA[라이더라면 엄지를 치켜올릴 수밖에 없는 전설의 모터바이크 8대.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손목에 찰 수 있는 에어팟?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79717</id>
-        <link href="https://www.esquirekorea.co.kr/article/79717"/>
-        <updated>2023-08-26T15:17:09.300Z</updated>
-        <content type="html"><![CDATA[애플이 특허를 등록했다.]]></content>
     </entry>
 </feed>
