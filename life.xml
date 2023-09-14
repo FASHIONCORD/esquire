@@ -1,63 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/life</id>
-    <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-09-14T09:18:45.361Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[미키 마우스, 미니 마우스 최초로 동반 내한 예정]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80551</id>
-        <link href="https://www.esquirekorea.co.kr/article/80551"/>
-        <updated>2023-09-14T09:18:16.554Z</updated>
-        <content type="html"><![CDATA[광화문 광장에서 추석맞이 미키문 점등 행사도 진행한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[롯데월드, 국내 테마파크 최초로 ‘입는 티켓’ 출시]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80530</id>
-        <link href="https://www.esquirekorea.co.kr/article/80530"/>
-        <updated>2023-09-13T09:18:53.030Z</updated>
-        <content type="html"><![CDATA[오늘부터 500벌 한정 수량으로 판매.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[큐레이터로 산다는 것]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80512</id>
-        <link href="https://www.esquirekorea.co.kr/article/80512"/>
-        <updated>2023-09-13T09:18:53.031Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[막걸리와 함께 떠나는 양조장 여행. 경기도편]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80510</id>
-        <link href="https://www.esquirekorea.co.kr/article/80510"/>
-        <updated>2023-09-12T15:19:53.339Z</updated>
-        <content type="html"><![CDATA[여행과 술을 좋아하는 사람은 그 지역의 양조장을 들르기 마련. 전국 양조장 중 서울 근교로 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['당신도 행복해질 수 있다'고 주장하는, 다섯 가지 행복 가이드를 직접 시도해 봤다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80103</id>
-        <link href="https://www.esquirekorea.co.kr/article/80103"/>
-        <updated>2023-09-12T09:19:07.189Z</updated>
-        <content type="html"><![CDATA[우리는 무엇으로 행복해지는가? 이 질문은 더 이상 ‘철학적’ 난제가 아니다. 삶의 만족도가 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혼커족을 위한 서울의 신상 카페 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80501</id>
-        <link href="https://www.esquirekorea.co.kr/article/80501"/>
-        <updated>2023-09-12T03:18:57.601Z</updated>
-        <content type="html"><![CDATA[아늑한 분위기에서 나홀로 즐기는 커피 한 잔의 여유.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낮은 출산율의 초고령사회는 그저 디스토피아일 것인가?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80099</id>
-        <link href="https://www.esquirekorea.co.kr/article/80099"/>
-        <updated>2023-09-11T09:19:28.736Z</updated>
-        <content type="html"><![CDATA[피라미드 형태였던 전 세계 인구 구조가 역삼각형 모양으로 바뀌어가고 있다. 세계가 인류 역사...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성 재벌가 맛집 5]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80493</id>
-        <link href="https://www.esquirekorea.co.kr/article/80493"/>
-        <updated>2023-09-10T15:17:21.728Z</updated>
-        <content type="html"><![CDATA[故 이병철, 故 이건희, 이재용, 이부진이 다녀간 맛집을 소개한다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 14 Sep 2023 15:21:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미키 마우스, 미니 마우스 최초로 동반 내한 예정]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80551</link>
+            <guid>https://www.esquirekorea.co.kr/article/80551</guid>
+            <pubDate>Thu, 14 Sep 2023 09:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[광화문 광장에서 추석맞이 미키문 점등 행사도 진행한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/98cb2358-122f-42ea-8207-1500cfccdddc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[롯데월드, 국내 테마파크 최초로 ‘입는 티켓’ 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80530</link>
+            <guid>https://www.esquirekorea.co.kr/article/80530</guid>
+            <pubDate>Wed, 13 Sep 2023 09:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[오늘부터 500벌 한정 수량으로 판매.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/bbea185b-439c-491a-93e2-cbe5829faa59.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[큐레이터로 산다는 것]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80512</link>
+            <guid>https://www.esquirekorea.co.kr/article/80512</guid>
+            <pubDate>Wed, 13 Sep 2023 09:18:53 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/6fd79e35-3475-43eb-9e66-c7be36af4df5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[막걸리와 함께 떠나는 양조장 여행. 경기도편]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80510</link>
+            <guid>https://www.esquirekorea.co.kr/article/80510</guid>
+            <pubDate>Tue, 12 Sep 2023 15:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[여행과 술을 좋아하는 사람은 그 지역의 양조장을 들르기 마련. 전국 양조장 중 서울 근교로 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/10/49e0f617-8436-4c8a-9042-4982176ff725.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['당신도 행복해질 수 있다'고 주장하는, 다섯 가지 행복 가이드를 직접 시도해 봤다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80103</link>
+            <guid>https://www.esquirekorea.co.kr/article/80103</guid>
+            <pubDate>Tue, 12 Sep 2023 09:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[우리는 무엇으로 행복해지는가? 이 질문은 더 이상 ‘철학적’ 난제가 아니다. 삶의 만족도가 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/10/ee634a35-02a6-4806-ae38-25c0567549dd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혼커족을 위한 서울의 신상 카페 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80501</link>
+            <guid>https://www.esquirekorea.co.kr/article/80501</guid>
+            <pubDate>Tue, 12 Sep 2023 03:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[아늑한 분위기에서 나홀로 즐기는 커피 한 잔의 여유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/09/fdc8b1c6-1b68-4524-836b-badc347b2321.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[낮은 출산율의 초고령사회는 그저 디스토피아일 것인가?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80099</link>
+            <guid>https://www.esquirekorea.co.kr/article/80099</guid>
+            <pubDate>Mon, 11 Sep 2023 09:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[피라미드 형태였던 전 세계 인구 구조가 역삼각형 모양으로 바뀌어가고 있다. 세계가 인류 역사...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/09/a8e264ae-3980-4599-839a-5d6fb340728a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성 재벌가 맛집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80493</link>
+            <guid>https://www.esquirekorea.co.kr/article/80493</guid>
+            <pubDate>Sun, 10 Sep 2023 15:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[故 이병철, 故 이건희, 이재용, 이부진이 다녀간 맛집을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/65e94280-addf-4802-8c99-09bf4b2cde08.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
