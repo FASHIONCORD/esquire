@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 03:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 09:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 12 Sep 2023 03:17:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTFfMTYg/MDAxNjk0Mzk5Mzc1Nzg2.1TBvbABJzRxfN3sYPKmCsebkCE4-xdcg8010npeuZmwg.ho2u3pAxidqbhO1kQOLcsyJfJ1RtooRX68DyZRXl64cg.JPEG/IFB4oxQ791KjG4F4zdM-Zwoz2a3U.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불타는 자갈 위에 구워 주는 삼겹살 맛집 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36544346&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36544346&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 14 Sep 2023 09:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDhfMTg4/MDAxNjk0MTUwODYxMjIy.8ACauv9-ZKKBcLGJ4PV2NH1PE3SF9hQbdTUbbwu0ZO4g.9IBw9Pio88PsfxSfd5oz7yOJd5_8Eug2daHmqlaYHZQg.JPEG/ISrNQQ0PsnszwiQgK9TSwUcPYi2M.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삽으로 고기 퍼주는 집 4]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 15 Aug 2023 09:16:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDdfMjc4/MDAxNjkxMzg5MTI4NTU0.0v-5vr1iFEVycENKYF8__sLBAujLJASOhiLAG3fiiagg.uUVvG3YpfUKJIHLxOu3WpCDR_UM2lzwEQgA9X_qIxN0g.JPEG/IF1DnnQT5ATdqIosPoK4I8LElzTY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이열치열, 얼큰하고 칼칼한 김치수제비 맛집 4]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36352954&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36352954&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Wed, 09 Aug 2023 09:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDNfMTUy/MDAxNjkxMDUxMzMxNTEx.H5PKx83i3o1f2jQPwSavrXSe-3UOLO-u0YXmapNRAtUg.-jQu2cmLjcG21aO9D1BZzV-bpn7rmAnWLyrHKLnHRi4g.JPEG/I1MnVIAKOibTFsnmYS40eQ3OUZxQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

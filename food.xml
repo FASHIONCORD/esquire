@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/food</id>
     <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2023-09-14T03:20:00.039Z</updated>
+    <updated>2023-09-14T09:18:45.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성 재벌가 맛집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80493</id>
+        <link href="https://www.esquirekorea.co.kr/article/80493"/>
+        <updated>2023-09-14T09:18:07.042Z</updated>
+        <content type="html"><![CDATA[故 이병철, 故 이건희, 이재용, 이부진이 다녀간 맛집을 소개한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하루에 3시간만 운영하는 돈까스 맛집 4]]></title>
         <id>https://www.esquirekorea.co.kr/article/80492</id>
@@ -52,11 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/80444"/>
         <updated>2023-09-08T15:16:15.027Z</updated>
         <content type="html"><![CDATA[알록달록한 꽃 피자부터 소금 우유 도우 피자, 명란 시금치 피자까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조니 워커가 대기오염원 잉크로 보틀을 꾸민 이유]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80035</id>
-        <link href="https://www.esquirekorea.co.kr/article/80035"/>
-        <updated>2023-09-08T09:18:08.542Z</updated>
     </entry>
 </feed>
