@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 15:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 03:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 12 Sep 2023 03:17:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTFfMTYg/MDAxNjk0Mzk5Mzc1Nzg2.1TBvbABJzRxfN3sYPKmCsebkCE4-xdcg8010npeuZmwg.ho2u3pAxidqbhO1kQOLcsyJfJ1RtooRX68DyZRXl64cg.JPEG/IFB4oxQ791KjG4F4zdM-Zwoz2a3U.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을 산행 추천, 계곡 뷰 닭 코스요리 맛집 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36544663&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36544663&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Fri, 15 Sep 2023 03:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDhfMTAg/MDAxNjk0MTUyOTA4NjIx.EO2rqdlU4rqL5JUYqZxbm9Eygginc-pSTnwIxPVyiuEg.H01NsHtzJBICYP26tPjcEejUHVWt0wUSJclSImmfHAMg.JPEG/IR9JIMubkDMZnkZra_Z9oRwx-r0I.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[불타는 자갈 위에 구워 주는 삼겹살 맛집 4]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 16 Aug 2023 03:17:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDdfMTEg/MDAxNjkxMzkyMDM4NDU4.KueRlloRQ0sjpjXhFN3n7GaI9nJpuM0-LSvbi1qTom0g.KEDwnPw5YPhWqLP4VUbeIpLiSxxaphjbYIA4HeX3268g.JPEG/IJHUEmZ6mx_v8RMqUul69zsWdDYo.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[회전 샤브샤브? 회전 레일이 있는 이색 맛집 4]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36368428&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36368428&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Tue, 15 Aug 2023 09:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDdfMjc4/MDAxNjkxMzg5MTI4NTU0.0v-5vr1iFEVycENKYF8__sLBAujLJASOhiLAG3fiiagg.uUVvG3YpfUKJIHLxOu3WpCDR_UM2lzwEQgA9X_qIxN0g.JPEG/IF1DnnQT5ATdqIosPoK4I8LElzTY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

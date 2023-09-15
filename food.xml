@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 15:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 03:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[혼커족을 위한 서울의 신상 카페 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80501</link>
+            <guid>https://www.esquirekorea.co.kr/article/80501</guid>
+            <pubDate>Fri, 15 Sep 2023 03:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[아늑한 분위기에서 나홀로 즐기는 커피 한 잔의 여유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/09/fdc8b1c6-1b68-4524-836b-badc347b2321.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성 재벌가 맛집 5]]></title>
             <link>https://www.esquirekorea.co.kr/article/80493</link>
@@ -61,14 +69,6 @@
             <pubDate>Fri, 08 Sep 2023 15:16:15 GMT</pubDate>
             <content:encoded><![CDATA[지방 함량이 제일 높아 더욱 고소하고 풍미가 넘치는 가을 전어 맛집을 모았다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/54f7768d-7522-4649-b687-944ed6e2ae4c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메뉴에 특허를 보유한 피자 맛집 3]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80444</link>
-            <guid>https://www.esquirekorea.co.kr/article/80444</guid>
-            <pubDate>Fri, 08 Sep 2023 15:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[알록달록한 꽃 피자부터 소금 우유 도우 피자, 명란 시금치 피자까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/798bcb06-7391-4b41-97dd-21c72f55181a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
