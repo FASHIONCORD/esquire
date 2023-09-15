@@ -4,9 +4,24 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 09:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 15:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[막걸리와 함께 떠나는 양조장 여행. 경기도편]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80510</link>
+            <guid>https://www.esquirekorea.co.kr/article/80510</guid>
+            <pubDate>Fri, 15 Sep 2023 15:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[여행과 술을 좋아하는 사람은 그 지역의 양조장을 들르기 마련. 전국 양조장 중 서울 근교로 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/10/49e0f617-8436-4c8a-9042-4982176ff725.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디즈니 재질 카페 알바생 제나, 한국 편의점을 털다? K-편의점 음식 먹방 리뷰]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80502</link>
+            <guid>https://www.esquirekorea.co.kr/article/80502</guid>
+            <pubDate>Fri, 15 Sep 2023 15:19:01 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/09/95bb000b-856d-4fe6-bc29-3491632e3e54.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[혼커족을 위한 서울의 신상 카페 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/80501</link>
@@ -53,22 +68,6 @@
             <guid>https://www.esquirekorea.co.kr/article/80476</guid>
             <pubDate>Sat, 09 Sep 2023 09:16:13 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/4915cb20-f6fd-4395-b40f-e831b9cd5cba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9월 8일 개방, 서삼릉 효릉 주변 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80465</link>
-            <guid>https://www.esquirekorea.co.kr/article/80465</guid>
-            <pubDate>Fri, 08 Sep 2023 15:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[효릉 근처 방갈로에서 맛보는 푸짐한 한정식집?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/e92def72-9920-452d-8568-c4d6510d640b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제철 맞은 서울 전어회 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80458</link>
-            <guid>https://www.esquirekorea.co.kr/article/80458</guid>
-            <pubDate>Fri, 08 Sep 2023 15:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[지방 함량이 제일 높아 더욱 고소하고 풍미가 넘치는 가을 전어 맛집을 모았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/07/54f7768d-7522-4649-b687-944ed6e2ae4c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

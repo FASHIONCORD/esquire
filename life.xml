@@ -4,15 +4,24 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 09:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 15:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방탄소년단 정국, MTV VMA '송 오브 서머' 수상]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80589</link>
+            <guid>https://www.esquirekorea.co.kr/article/80589</guid>
+            <pubDate>Fri, 15 Sep 2023 15:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[한국 솔로가수 최초다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/a0e0ef14-389c-47a5-9eaa-3dc018905e34.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임플란티드키드 'OKGO3' 라이브 최초 공개]]></title>
             <link>https://www.esquirekorea.co.kr/article/80572</link>
             <guid>https://www.esquirekorea.co.kr/article/80572</guid>
             <pubDate>Fri, 15 Sep 2023 09:19:08 GMT</pubDate>
             <content:encoded><![CDATA[느슨해진 힙합 신에 긴장을 주는 남자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/c1c23755-af8d-4ef4-b537-c8a4927fbcfe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소문이 무성한 돌싱글즈 4, TMI 14.]]></title>
@@ -20,6 +29,7 @@
             <guid>https://www.esquirekorea.co.kr/article/80566</guid>
             <pubDate>Fri, 15 Sep 2023 09:19:08 GMT</pubDate>
             <content:encoded><![CDATA[베니타는 유명 인플루언서 아미송의 지인?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/25cf9b28-2d9c-4af6-bab6-92fa0900ccb2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미키 마우스, 미니 마우스 최초로 동반 내한 예정]]></title>
@@ -59,14 +69,6 @@
             <pubDate>Tue, 12 Sep 2023 09:19:07 GMT</pubDate>
             <content:encoded><![CDATA[우리는 무엇으로 행복해지는가? 이 질문은 더 이상 ‘철학적’ 난제가 아니다. 삶의 만족도가 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/10/ee634a35-02a6-4806-ae38-25c0567549dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혼커족을 위한 서울의 신상 카페 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80501</link>
-            <guid>https://www.esquirekorea.co.kr/article/80501</guid>
-            <pubDate>Tue, 12 Sep 2023 03:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[아늑한 분위기에서 나홀로 즐기는 커피 한 잔의 여유.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/09/fdc8b1c6-1b68-4524-836b-badc347b2321.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

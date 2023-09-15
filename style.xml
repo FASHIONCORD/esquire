@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 09:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 15:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀린느의 야상곡]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80224</link>
+            <guid>https://www.esquirekorea.co.kr/article/80224</guid>
+            <pubDate>Fri, 15 Sep 2023 15:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[낮고 짙게 깔리는 밤의 공기처럼.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/c3c4cf11-b2ca-4498-90e3-cebec645bd38.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배우 장기용과 벨루티가 완성한 다가올 계절의 예고편]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80349</link>
+            <guid>https://www.esquirekorea.co.kr/article/80349</guid>
+            <pubDate>Fri, 15 Sep 2023 15:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[컨템퍼러리 럭셔리의 본질, 시대와 유행을 초월한 우아함. 장기용과 벨루티 2023 F/W 컬렉션.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/a0c6dd06-c200-466d-ace4-5eca9264d9e3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[매튜 윌리엄스가 설계한 동시대적 쿠튀르]]></title>
             <link>https://www.esquirekorea.co.kr/article/80024</link>
@@ -54,22 +70,6 @@
             <pubDate>Fri, 01 Sep 2023 03:18:18 GMT</pubDate>
             <content:encoded><![CDATA[패션에 대한 순수한 열정과 대담한 비전으로 어느새 세상에 자신의 이름을 알린, 하지만 아직 ...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/25/9f5290fd-192d-4eb5-87b5-4ab53ff88bd2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part 3. 트와이스 지효 B컷 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80127</link>
-            <guid>https://www.esquirekorea.co.kr/article/80127</guid>
-            <pubDate>Tue, 29 Aug 2023 03:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[지효의 B컷은 에스콰이어 스레드를 통해서도 만나볼 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/b873f570-58b4-45be-9434-014d45aa204d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라프시몬스식 프라다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80088</link>
-            <guid>https://www.esquirekorea.co.kr/article/80088</guid>
-            <pubDate>Sat, 26 Aug 2023 15:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[프라다-위고.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/24/5697751c-af37-427a-96e1-ec65199916ff.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
