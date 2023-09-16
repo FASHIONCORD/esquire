@@ -1,74 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 15:19:41 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[방탄소년단 정국, MTV VMA '송 오브 서머' 수상]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80589</link>
-            <guid>https://www.esquirekorea.co.kr/article/80589</guid>
-            <pubDate>Fri, 15 Sep 2023 15:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[한국 솔로가수 최초다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/a0e0ef14-389c-47a5-9eaa-3dc018905e34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임플란티드키드 'OKGO3' 라이브 최초 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80572</link>
-            <guid>https://www.esquirekorea.co.kr/article/80572</guid>
-            <pubDate>Fri, 15 Sep 2023 09:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[느슨해진 힙합 신에 긴장을 주는 남자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/c1c23755-af8d-4ef4-b537-c8a4927fbcfe.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소문이 무성한 돌싱글즈 4, TMI 14.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80566</link>
-            <guid>https://www.esquirekorea.co.kr/article/80566</guid>
-            <pubDate>Fri, 15 Sep 2023 09:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[베니타는 유명 인플루언서 아미송의 지인?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/25cf9b28-2d9c-4af6-bab6-92fa0900ccb2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미키 마우스, 미니 마우스 최초로 동반 내한 예정]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80551</link>
-            <guid>https://www.esquirekorea.co.kr/article/80551</guid>
-            <pubDate>Thu, 14 Sep 2023 09:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[광화문 광장에서 추석맞이 미키문 점등 행사도 진행한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/98cb2358-122f-42ea-8207-1500cfccdddc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[롯데월드, 국내 테마파크 최초로 ‘입는 티켓’ 출시]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80530</link>
-            <guid>https://www.esquirekorea.co.kr/article/80530</guid>
-            <pubDate>Wed, 13 Sep 2023 09:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[오늘부터 500벌 한정 수량으로 판매.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/bbea185b-439c-491a-93e2-cbe5829faa59.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[큐레이터로 산다는 것]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80512</link>
-            <guid>https://www.esquirekorea.co.kr/article/80512</guid>
-            <pubDate>Wed, 13 Sep 2023 09:18:53 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/11/6fd79e35-3475-43eb-9e66-c7be36af4df5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[막걸리와 함께 떠나는 양조장 여행. 경기도편]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80510</link>
-            <guid>https://www.esquirekorea.co.kr/article/80510</guid>
-            <pubDate>Tue, 12 Sep 2023 15:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[여행과 술을 좋아하는 사람은 그 지역의 양조장을 들르기 마련. 전국 양조장 중 서울 근교로 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/10/49e0f617-8436-4c8a-9042-4982176ff725.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['당신도 행복해질 수 있다'고 주장하는, 다섯 가지 행복 가이드를 직접 시도해 봤다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80103</link>
-            <guid>https://www.esquirekorea.co.kr/article/80103</guid>
-            <pubDate>Tue, 12 Sep 2023 09:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[우리는 무엇으로 행복해지는가? 이 질문은 더 이상 ‘철학적’ 난제가 아니다. 삶의 만족도가 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/10/ee634a35-02a6-4806-ae38-25c0567549dd.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/life</id>
+    <title>에스콰이어 코리아 ─ 라이프</title>
+    <updated>2023-09-16T03:19:07.766Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추억은 방울방울, 문방구 감성 술집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80594</id>
+        <link href="https://www.esquirekorea.co.kr/article/80594"/>
+        <updated>2023-09-16T03:18:20.382Z</updated>
+        <content type="html"><![CDATA[문방구 콘셉트로 만든 주점? 게임도 하고 추억의 불량식품도 만나볼 수 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 정국, MTV VMA '송 오브 서머' 수상]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80589</id>
+        <link href="https://www.esquirekorea.co.kr/article/80589"/>
+        <updated>2023-09-15T15:19:10.921Z</updated>
+        <content type="html"><![CDATA[한국 솔로가수 최초다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임플란티드키드 'OKGO3' 라이브 최초 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80572</id>
+        <link href="https://www.esquirekorea.co.kr/article/80572"/>
+        <updated>2023-09-15T09:19:08.951Z</updated>
+        <content type="html"><![CDATA[느슨해진 힙합 신에 긴장을 주는 남자.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소문이 무성한 돌싱글즈 4, TMI 14.]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80566</id>
+        <link href="https://www.esquirekorea.co.kr/article/80566"/>
+        <updated>2023-09-15T09:19:08.955Z</updated>
+        <content type="html"><![CDATA[베니타는 유명 인플루언서 아미송의 지인?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미키 마우스, 미니 마우스 최초로 동반 내한 예정]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80551</id>
+        <link href="https://www.esquirekorea.co.kr/article/80551"/>
+        <updated>2023-09-14T09:18:16.554Z</updated>
+        <content type="html"><![CDATA[광화문 광장에서 추석맞이 미키문 점등 행사도 진행한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[롯데월드, 국내 테마파크 최초로 ‘입는 티켓’ 출시]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80530</id>
+        <link href="https://www.esquirekorea.co.kr/article/80530"/>
+        <updated>2023-09-13T09:18:53.030Z</updated>
+        <content type="html"><![CDATA[오늘부터 500벌 한정 수량으로 판매.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[큐레이터로 산다는 것]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80512</id>
+        <link href="https://www.esquirekorea.co.kr/article/80512"/>
+        <updated>2023-09-13T09:18:53.031Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[막걸리와 함께 떠나는 양조장 여행. 경기도편]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80510</id>
+        <link href="https://www.esquirekorea.co.kr/article/80510"/>
+        <updated>2023-09-12T15:19:53.339Z</updated>
+        <content type="html"><![CDATA[여행과 술을 좋아하는 사람은 그 지역의 양조장을 들르기 마련. 전국 양조장 중 서울 근교로 ...]]></content>
+    </entry>
+</feed>

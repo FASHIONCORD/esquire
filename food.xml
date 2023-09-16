@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 15:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 03:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추억은 방울방울, 문방구 감성 술집 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80594</link>
+            <guid>https://www.esquirekorea.co.kr/article/80594</guid>
+            <pubDate>Sat, 16 Sep 2023 03:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[문방구 콘셉트로 만든 주점? 게임도 하고 추억의 불량식품도 만나볼 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/3ec0aa31-408a-48ba-8d3d-987a5e5099bd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[막걸리와 함께 떠나는 양조장 여행. 경기도편]]></title>
             <link>https://www.esquirekorea.co.kr/article/80510</link>
@@ -61,13 +69,6 @@
             <pubDate>Sat, 09 Sep 2023 09:16:13 GMT</pubDate>
             <content:encoded><![CDATA[배가 떠있는 호수부터 술잔을 동동 띄우는 포석정까지, 식사와 물멍을 동시에.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/a5575212-ad6c-4e95-82eb-db5dbaaa879d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시대를 초월해서 반복되는 슈퍼푸드의 거짓말]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80476</link>
-            <guid>https://www.esquirekorea.co.kr/article/80476</guid>
-            <pubDate>Sat, 09 Sep 2023 09:16:13 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/4915cb20-f6fd-4395-b40f-e831b9cd5cba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
