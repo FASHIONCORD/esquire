@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-09-16T03:19:07.770Z</updated>
+    <updated>2023-09-16T09:17:06.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 정국, MTV VMA '송 오브 서머' 수상]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80589</id>
+        <link href="https://www.esquirekorea.co.kr/article/80589"/>
+        <updated>2023-09-16T09:16:49.273Z</updated>
+        <content type="html"><![CDATA[한국 솔로가수 최초다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임플란티드키드 'OKGO3' 라이브 최초 공개]]></title>
         <id>https://www.esquirekorea.co.kr/article/80572</id>
@@ -51,12 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/80289"/>
         <updated>2023-09-12T09:19:16.070Z</updated>
         <content type="html"><![CDATA[175cm의 레슬링 선수였다고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[각본가 김보통이 '사람들에게 돌을 먹일 방법을 궁리한다'고 말한 이유]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80026</id>
-        <link href="https://www.esquirekorea.co.kr/article/80026"/>
-        <updated>2023-09-08T09:18:28.762Z</updated>
-        <content type="html"><![CDATA[웹툰 작가이자 넷플릭스 <d.p.> 시리즈를 비롯해 여러 드라마의 각본을 집필한 각본가, 에세이스...                                    </d.p.>]]></content>
     </entry>
 </feed>
