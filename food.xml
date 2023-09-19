@@ -1,74 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 푸드</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 15:20:26 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[한우만 취급하는 서울 육회물회 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80625</link>
-            <guid>https://www.esquirekorea.co.kr/article/80625</guid>
-            <pubDate>Sat, 16 Sep 2023 15:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[한우와 물회의 만남, 육회물회를 퀄리티 있게 먹어 보자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/15/f4ece7ba-f2a5-4cd6-8a57-f1bc7845035e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수원 토박이가 추천하는 5000원 이하 수원 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80616</link>
-            <guid>https://www.esquirekorea.co.kr/article/80616</guid>
-            <pubDate>Sat, 16 Sep 2023 09:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[5000원의 행복.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/17/08a30506-211e-4c21-90cc-3c86bc43e423.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추억은 방울방울, 문방구 감성 술집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80594</link>
-            <guid>https://www.esquirekorea.co.kr/article/80594</guid>
-            <pubDate>Sat, 16 Sep 2023 03:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[문방구 콘셉트로 만든 주점? 게임도 하고 추억의 불량식품도 만나볼 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/3ec0aa31-408a-48ba-8d3d-987a5e5099bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[막걸리와 함께 떠나는 양조장 여행. 경기도편]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80510</link>
-            <guid>https://www.esquirekorea.co.kr/article/80510</guid>
-            <pubDate>Fri, 15 Sep 2023 15:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[여행과 술을 좋아하는 사람은 그 지역의 양조장을 들르기 마련. 전국 양조장 중 서울 근교로 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/10/49e0f617-8436-4c8a-9042-4982176ff725.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니 재질 카페 알바생 제나, 한국 편의점을 털다? K-편의점 음식 먹방 리뷰]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80502</link>
-            <guid>https://www.esquirekorea.co.kr/article/80502</guid>
-            <pubDate>Fri, 15 Sep 2023 15:19:01 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/09/95bb000b-856d-4fe6-bc29-3491632e3e54.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혼커족을 위한 서울의 신상 카페 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80501</link>
-            <guid>https://www.esquirekorea.co.kr/article/80501</guid>
-            <pubDate>Fri, 15 Sep 2023 03:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[아늑한 분위기에서 나홀로 즐기는 커피 한 잔의 여유.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/09/fdc8b1c6-1b68-4524-836b-badc347b2321.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 재벌가 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80493</link>
-            <guid>https://www.esquirekorea.co.kr/article/80493</guid>
-            <pubDate>Thu, 14 Sep 2023 09:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[故 이병철, 故 이건희, 이재용, 이부진이 다녀간 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/65e94280-addf-4802-8c99-09bf4b2cde08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하루에 3시간만 운영하는 돈까스 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80492</link>
-            <guid>https://www.esquirekorea.co.kr/article/80492</guid>
-            <pubDate>Wed, 13 Sep 2023 09:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[기다림은 길어도 기쁨은 순식간인 돈까스 맛집을 모았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/09/1f548e63-5749-4a49-b686-0ee23815e5c9.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/food</id>
+    <title>에스콰이어 코리아 ─ 푸드</title>
+    <updated>2023-09-19T03:20:01.861Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한우만 취급하는 서울 육회물회 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80625</id>
+        <link href="https://www.esquirekorea.co.kr/article/80625"/>
+        <updated>2023-09-16T15:16:32.215Z</updated>
+        <content type="html"><![CDATA[한우와 물회의 만남, 육회물회를 퀄리티 있게 먹어 보자.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원 토박이가 추천하는 5000원 이하 수원 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80616</id>
+        <link href="https://www.esquirekorea.co.kr/article/80616"/>
+        <updated>2023-09-16T09:16:30.829Z</updated>
+        <content type="html"><![CDATA[5000원의 행복.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추억은 방울방울, 문방구 감성 술집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80594</id>
+        <link href="https://www.esquirekorea.co.kr/article/80594"/>
+        <updated>2023-09-16T03:18:07.546Z</updated>
+        <content type="html"><![CDATA[문방구 콘셉트로 만든 주점? 게임도 하고 추억의 불량식품도 만나볼 수 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[막걸리와 함께 떠나는 양조장 여행. 경기도편]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80510</id>
+        <link href="https://www.esquirekorea.co.kr/article/80510"/>
+        <updated>2023-09-15T15:19:01.455Z</updated>
+        <content type="html"><![CDATA[여행과 술을 좋아하는 사람은 그 지역의 양조장을 들르기 마련. 전국 양조장 중 서울 근교로 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디즈니 재질 카페 알바생 제나, 한국 편의점을 털다? K-편의점 음식 먹방 리뷰]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80502</id>
+        <link href="https://www.esquirekorea.co.kr/article/80502"/>
+        <updated>2023-09-15T15:19:01.458Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혼커족을 위한 서울의 신상 카페 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80501</id>
+        <link href="https://www.esquirekorea.co.kr/article/80501"/>
+        <updated>2023-09-15T03:19:13.377Z</updated>
+        <content type="html"><![CDATA[아늑한 분위기에서 나홀로 즐기는 커피 한 잔의 여유.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성 재벌가 맛집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80493</id>
+        <link href="https://www.esquirekorea.co.kr/article/80493"/>
+        <updated>2023-09-14T09:18:07.042Z</updated>
+        <content type="html"><![CDATA[故 이병철, 故 이건희, 이재용, 이부진이 다녀간 맛집을 소개한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하루에 3시간만 운영하는 돈까스 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80492</id>
+        <link href="https://www.esquirekorea.co.kr/article/80492"/>
+        <updated>2023-09-13T09:18:42.742Z</updated>
+        <content type="html"><![CDATA[기다림은 길어도 기쁨은 순식간인 돈까스 맛집을 모았다.]]></content>
+    </entry>
+</feed>
