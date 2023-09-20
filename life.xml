@@ -1,71 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 03:20:07 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[등산러 맛집 가이드 ‘관악산’ 편]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80649</link>
-            <guid>https://www.esquirekorea.co.kr/article/80649</guid>
-            <pubDate>Wed, 20 Sep 2023 03:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[연주대 인증샷 찍고 시원한 막걸리 한 잔?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['서울미식 100선' 2023 뉴 맛집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80642</link>
-            <guid>https://www.esquirekorea.co.kr/article/80642</guid>
-            <pubDate>Tue, 19 Sep 2023 09:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[한식, 그릴부터 채식과 바&amp;펍까지 2023 서울의 새로운 미식.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한우만 취급하는 서울 육회물회 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80625</link>
-            <guid>https://www.esquirekorea.co.kr/article/80625</guid>
-            <pubDate>Mon, 18 Sep 2023 09:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[한우와 물회의 만남, 육회물회를 퀄리티 있게 먹어 보자.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[돈두댓 서베이] 플리즈 돈 터치. 애무하면 흥분이 뚝 떨어지는 부위]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80624</link>
-            <guid>https://www.esquirekorea.co.kr/article/80624</guid>
-            <pubDate>Sat, 16 Sep 2023 15:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[함부로 손대지 마세요]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[수원 토박이가 추천하는 5000원 이하 수원 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80616</link>
-            <guid>https://www.esquirekorea.co.kr/article/80616</guid>
-            <pubDate>Sat, 16 Sep 2023 09:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[5000원의 행복.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/17/08a30506-211e-4c21-90cc-3c86bc43e423.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추억은 방울방울, 문방구 감성 술집 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80594</link>
-            <guid>https://www.esquirekorea.co.kr/article/80594</guid>
-            <pubDate>Sat, 16 Sep 2023 03:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[문방구 콘셉트로 만든 주점? 게임도 하고 추억의 불량식품도 만나볼 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/3ec0aa31-408a-48ba-8d3d-987a5e5099bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 정국, MTV VMA '송 오브 서머' 수상]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80589</link>
-            <guid>https://www.esquirekorea.co.kr/article/80589</guid>
-            <pubDate>Fri, 15 Sep 2023 15:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[한국 솔로가수 최초다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/a0e0ef14-389c-47a5-9eaa-3dc018905e34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임플란티드키드 'OKGO3' 라이브 최초 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80572</link>
-            <guid>https://www.esquirekorea.co.kr/article/80572</guid>
-            <pubDate>Fri, 15 Sep 2023 09:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[느슨해진 힙합 신에 긴장을 주는 남자.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/c1c23755-af8d-4ef4-b537-c8a4927fbcfe.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/life</id>
+    <title>에스콰이어 코리아 ─ 라이프</title>
+    <updated>2023-09-20T09:20:05.324Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SK그룹 최태원 회장이 다녀간 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80652</id>
+        <link href="https://www.esquirekorea.co.kr/article/80652"/>
+        <updated>2023-09-20T09:19:19.334Z</updated>
+        <content type="html"><![CDATA[그가 다녀간 전국의 숨은 맛집 네 곳.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[등산러 맛집 가이드 ‘관악산’ 편]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80649</id>
+        <link href="https://www.esquirekorea.co.kr/article/80649"/>
+        <updated>2023-09-20T03:19:20.233Z</updated>
+        <content type="html"><![CDATA[연주대 인증샷 찍고 시원한 막걸리 한 잔?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서울미식 100선' 2023 뉴 맛집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80642</id>
+        <link href="https://www.esquirekorea.co.kr/article/80642"/>
+        <updated>2023-09-19T09:19:12.532Z</updated>
+        <content type="html"><![CDATA[한식, 그릴부터 채식과 바&amp;펍까지 2023 서울의 새로운 미식.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한우만 취급하는 서울 육회물회 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80625</id>
+        <link href="https://www.esquirekorea.co.kr/article/80625"/>
+        <updated>2023-09-18T09:18:56.524Z</updated>
+        <content type="html"><![CDATA[한우와 물회의 만남, 육회물회를 퀄리티 있게 먹어 보자.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[돈두댓 서베이] 플리즈 돈 터치. 애무하면 흥분이 뚝 떨어지는 부위]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80624</id>
+        <link href="https://www.esquirekorea.co.kr/article/80624"/>
+        <updated>2023-09-16T15:16:40.541Z</updated>
+        <content type="html"><![CDATA[함부로 손대지 마세요]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원 토박이가 추천하는 5000원 이하 수원 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80616</id>
+        <link href="https://www.esquirekorea.co.kr/article/80616"/>
+        <updated>2023-09-16T09:16:41.295Z</updated>
+        <content type="html"><![CDATA[5000원의 행복.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추억은 방울방울, 문방구 감성 술집 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80594</id>
+        <link href="https://www.esquirekorea.co.kr/article/80594"/>
+        <updated>2023-09-16T03:18:20.382Z</updated>
+        <content type="html"><![CDATA[문방구 콘셉트로 만든 주점? 게임도 하고 추억의 불량식품도 만나볼 수 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 정국, MTV VMA '송 오브 서머' 수상]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80589</id>
+        <link href="https://www.esquirekorea.co.kr/article/80589"/>
+        <updated>2023-09-15T15:19:10.921Z</updated>
+        <content type="html"><![CDATA[한국 솔로가수 최초다.]]></content>
+    </entry>
+</feed>

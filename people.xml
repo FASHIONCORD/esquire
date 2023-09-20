@@ -1,63 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/people</id>
-    <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-09-20T03:20:07.323Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[‘쌍둥이 판다 이름’ 온라인 투표 시작]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80609</id>
-        <link href="https://www.esquirekorea.co.kr/article/80609"/>
-        <updated>2023-09-19T09:19:26.451Z</updated>
-        <content type="html"><![CDATA[투표는 에버랜드 홈페이지에서 20일까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임플란티드키드, 군대에서 썼던 물품 공개?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80599</id>
-        <link href="https://www.esquirekorea.co.kr/article/80599"/>
-        <updated>2023-09-17T15:17:32.947Z</updated>
-        <content type="html"><![CDATA[빈지노가 선물한 물건까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단 정국, MTV VMA '송 오브 서머' 수상]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80589</id>
-        <link href="https://www.esquirekorea.co.kr/article/80589"/>
-        <updated>2023-09-16T09:16:49.273Z</updated>
-        <content type="html"><![CDATA[한국 솔로가수 최초다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임플란티드키드 'OKGO3' 라이브 최초 공개]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80572</id>
-        <link href="https://www.esquirekorea.co.kr/article/80572"/>
-        <updated>2023-09-15T09:19:19.123Z</updated>
-        <content type="html"><![CDATA[느슨해진 힙합 신에 긴장을 주는 남자.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소문이 무성한 돌싱글즈 4, TMI 14.]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80566</id>
-        <link href="https://www.esquirekorea.co.kr/article/80566"/>
-        <updated>2023-09-14T15:20:47.779Z</updated>
-        <content type="html"><![CDATA[베니타는 유명 인플루언서 아미송의 지인?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류준열은 아주 먼 길을 갈 수 있는 페이스로 뛰기로 했다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80119</id>
-        <link href="https://www.esquirekorea.co.kr/article/80119"/>
-        <updated>2023-09-14T09:18:26.285Z</updated>
-        <content type="html"><![CDATA[그는 요새 뛴다. 그런데 예전처럼 그냥 막 뛰지 않는다. 더 오래 즐거울 수 있는 빠르기로, ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이한별, 안재홍에게 보내는 영상편지?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80421</id>
-        <link href="https://www.esquirekorea.co.kr/article/80421"/>
-        <updated>2023-09-14T03:19:39.263Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는솔로 16기, 돌싱특집 TMI 10.]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80379</id>
-        <link href="https://www.esquirekorea.co.kr/article/80379"/>
-        <updated>2023-09-13T09:19:04.887Z</updated>
-        <content type="html"><![CDATA[옥순이 영숙을 차단했다고?]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 피플</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 20 Sep 2023 09:20:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘쌍둥이 판다 이름’ 온라인 투표 시작]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80609</link>
+            <guid>https://www.esquirekorea.co.kr/article/80609</guid>
+            <pubDate>Tue, 19 Sep 2023 09:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[투표는 에버랜드 홈페이지에서 20일까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/c9dcac61-c72b-433c-9f80-f023c9bdd8f6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임플란티드키드, 군대에서 썼던 물품 공개?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80599</link>
+            <guid>https://www.esquirekorea.co.kr/article/80599</guid>
+            <pubDate>Sun, 17 Sep 2023 15:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[빈지노가 선물한 물건까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/17367f3e-8b14-413f-9a0c-b30001ccd3bb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 정국, MTV VMA '송 오브 서머' 수상]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80589</link>
+            <guid>https://www.esquirekorea.co.kr/article/80589</guid>
+            <pubDate>Sat, 16 Sep 2023 09:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[한국 솔로가수 최초다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/a0e0ef14-389c-47a5-9eaa-3dc018905e34.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임플란티드키드 'OKGO3' 라이브 최초 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80572</link>
+            <guid>https://www.esquirekorea.co.kr/article/80572</guid>
+            <pubDate>Fri, 15 Sep 2023 09:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[느슨해진 힙합 신에 긴장을 주는 남자.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/c1c23755-af8d-4ef4-b537-c8a4927fbcfe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소문이 무성한 돌싱글즈 4, TMI 14.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80566</link>
+            <guid>https://www.esquirekorea.co.kr/article/80566</guid>
+            <pubDate>Thu, 14 Sep 2023 15:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[베니타는 유명 인플루언서 아미송의 지인?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/25cf9b28-2d9c-4af6-bab6-92fa0900ccb2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[류준열은 아주 먼 길을 갈 수 있는 페이스로 뛰기로 했다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80119</link>
+            <guid>https://www.esquirekorea.co.kr/article/80119</guid>
+            <pubDate>Thu, 14 Sep 2023 09:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[그는 요새 뛴다. 그런데 예전처럼 그냥 막 뛰지 않는다. 더 오래 즐거울 수 있는 빠르기로, ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/08/819b2214-6f2f-4d80-8dac-1b87ee2e7127.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이한별, 안재홍에게 보내는 영상편지?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80421</link>
+            <guid>https://www.esquirekorea.co.kr/article/80421</guid>
+            <pubDate>Thu, 14 Sep 2023 03:19:39 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/06/244d7f95-970e-4051-b413-59214627a148.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나는솔로 16기, 돌싱특집 TMI 10.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80379</link>
+            <guid>https://www.esquirekorea.co.kr/article/80379</guid>
+            <pubDate>Wed, 13 Sep 2023 09:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[옥순이 영숙을 차단했다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/04/d12cd1eb-156e-47d8-9abf-478ab9795b9a.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
