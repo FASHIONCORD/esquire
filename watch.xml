@@ -1,63 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/watch</id>
-    <title>에스콰이어 코리아 ─ 와치</title>
-    <updated>2023-09-26T15:20:09.635Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[브레게 TYPE XX 의 4세대 신제품]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79219</id>
-        <link href="https://www.esquirekorea.co.kr/article/79219"/>
-        <updated>2023-09-26T15:19:11.434Z</updated>
-        <content type="html"><![CDATA[지난 6월 7일 프랑스 파리의 역사적인 미술관 프티 팔레에서 브레게의 야심작 ‘TYPE XX’의...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MONACO FOREVER]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78494</id>
-        <link href="https://www.esquirekorea.co.kr/article/78494"/>
-        <updated>2023-09-26T03:18:19.761Z</updated>
-        <content type="html"><![CDATA[태그호이어의 상징적인 워치 모나코는 F1 모나코 그랑프리에 뿌리를 두고 있다. 올해 80주년을 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김우빈, 문가영⋯ 별들이 찾은 황금 비율]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78208</id>
-        <link href="https://www.esquirekorea.co.kr/article/78208"/>
-        <updated>2023-09-26T03:18:19.767Z</updated>
-        <content type="html"><![CDATA[예거 르쿨트르 ‘THE GOLDEN RATIO ART SHOW’ 현장 공개!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예거 르쿨트르, 한국 아티스트 강이연과 함께한 '오리진(ORIGIN)' 공개]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78187</id>
-        <link href="https://www.esquirekorea.co.kr/article/78187"/>
-        <updated>2023-08-03T09:17:20.066Z</updated>
-        <content type="html"><![CDATA[황금비율에서 영감 받은 3D 비디오 스컬프처 작품.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카멜 커피 대표 박강현과 브랜드 매니저 박종진과 함께한 시계 토크]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77679</id>
-        <link href="https://www.esquirekorea.co.kr/article/77679"/>
-        <updated>2023-08-01T15:22:37.395Z</updated>
-        <content type="html"><![CDATA[중고 시계 플랫폼 바이버와 함께한 대담한 사람들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[까르띠에 타임 언리미티드 영상 시리즈_#최시원]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77608</id>
-        <link href="https://www.esquirekorea.co.kr/article/77608"/>
-        <updated>2023-07-23T15:20:34.723Z</updated>
-        <content type="html"><![CDATA[오는 6월 성수동에서 열리는 까르띠에 타임 언리미티드 전시를 앞두고 배우 최시원을 만났다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티쏘 국내 첫 단독 부티크 여의도 IFC몰 오픈]]></title>
-        <id>https://www.esquirekorea.co.kr/article/77215</id>
-        <link href="https://www.esquirekorea.co.kr/article/77215"/>
-        <updated>2023-06-20T09:18:03.758Z</updated>
-        <content type="html"><![CDATA[사람의 손길이 닿을 때 더욱 생기를 얻는 곳.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어플, 쇼룸, 랩스, 3가지 구조의 혁신적 중고 시계 플랫폼 ‘바이버’.]]></title>
-        <id>https://www.esquirekorea.co.kr/article/76886</id>
-        <link href="https://www.esquirekorea.co.kr/article/76886"/>
-        <updated>2023-06-12T03:24:13.077Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 와치</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 27 Sep 2023 03:19:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브레게 TYPE XX 의 4세대 신제품]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79219</link>
+            <guid>https://www.esquirekorea.co.kr/article/79219</guid>
+            <pubDate>Tue, 26 Sep 2023 15:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[지난 6월 7일 프랑스 파리의 역사적인 미술관 프티 팔레에서 브레게의 야심작 ‘TYPE XX’의...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MONACO FOREVER]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78494</link>
+            <guid>https://www.esquirekorea.co.kr/article/78494</guid>
+            <pubDate>Tue, 26 Sep 2023 03:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[태그호이어의 상징적인 워치 모나코는 F1 모나코 그랑프리에 뿌리를 두고 있다. 올해 80주년을 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/8b7bff59-e080-40f0-8f64-d0e47e27e55e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김우빈, 문가영⋯ 별들이 찾은 황금 비율]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78208</link>
+            <guid>https://www.esquirekorea.co.kr/article/78208</guid>
+            <pubDate>Tue, 26 Sep 2023 03:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[예거 르쿨트르 ‘THE GOLDEN RATIO ART SHOW’ 현장 공개!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/52704a57-e3cd-49ac-85d2-3e5efb42042e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예거 르쿨트르, 한국 아티스트 강이연과 함께한 '오리진(ORIGIN)' 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/78187</link>
+            <guid>https://www.esquirekorea.co.kr/article/78187</guid>
+            <pubDate>Thu, 03 Aug 2023 09:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[황금비율에서 영감 받은 3D 비디오 스컬프처 작품.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/08/fc593290-4d1c-4d33-97ed-66dd4ebdf7a6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카멜 커피 대표 박강현과 브랜드 매니저 박종진과 함께한 시계 토크]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77679</link>
+            <guid>https://www.esquirekorea.co.kr/article/77679</guid>
+            <pubDate>Tue, 01 Aug 2023 15:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[중고 시계 플랫폼 바이버와 함께한 대담한 사람들.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/862530e4-10a9-47cb-94bc-83eb0dbda35a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[까르띠에 타임 언리미티드 영상 시리즈_#최시원]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77608</link>
+            <guid>https://www.esquirekorea.co.kr/article/77608</guid>
+            <pubDate>Sun, 23 Jul 2023 15:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[오는 6월 성수동에서 열리는 까르띠에 타임 언리미티드 전시를 앞두고 배우 최시원을 만났다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/4b261067-0d53-473c-a683-f6973da535fb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티쏘 국내 첫 단독 부티크 여의도 IFC몰 오픈]]></title>
+            <link>https://www.esquirekorea.co.kr/article/77215</link>
+            <guid>https://www.esquirekorea.co.kr/article/77215</guid>
+            <pubDate>Tue, 20 Jun 2023 09:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[사람의 손길이 닿을 때 더욱 생기를 얻는 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/cdab48ef-be9f-4b93-b23c-29852e4b0cfb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어플, 쇼룸, 랩스, 3가지 구조의 혁신적 중고 시계 플랫폼 ‘바이버’.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/76886</link>
+            <guid>https://www.esquirekorea.co.kr/article/76886</guid>
+            <pubDate>Mon, 12 Jun 2023 03:24:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/02/dbb235f4-9edd-4a80-a7f2-9a9fcf4156df.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
