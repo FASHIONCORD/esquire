@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 09:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 15:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대한민국 요리계의 ‘명장’이 운영하는 서울 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80792</link>
+            <guid>https://www.esquirekorea.co.kr/article/80792</guid>
+            <pubDate>Wed, 27 Sep 2023 15:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[한식, 중식 분야의 ‘명장’ 타이틀에 빛나는 맛집은 어디?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/25f9621a-ebe7-4415-a7c1-5db1e7e1cd55.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라이언 갠더가 아트 페어에 포르쉐를 가져온 이유]]></title>
             <link>https://www.esquirekorea.co.kr/article/80758</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Sep 2023 15:19:19 GMT</pubDate>
             <content:encoded><![CDATA[9월 28일 정식 공개된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/19/a5eaa11b-8233-4814-919a-ead754306f07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 지하철 스크린도어에 '역이름' 부착]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80677</link>
-            <guid>https://www.esquirekorea.co.kr/article/80677</guid>
-            <pubDate>Thu, 21 Sep 2023 15:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[사각지대 없이 확인할 수 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/18/13651115-13bb-43ca-8b81-938c2e2d663e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
