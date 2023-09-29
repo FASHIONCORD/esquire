@@ -4,9 +4,24 @@
         <title>에스콰이어 코리아 ─ 와치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Sep 2023 09:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 15:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[불가리의 비전]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80653</link>
+            <guid>https://www.esquirekorea.co.kr/article/80653</guid>
+            <pubDate>Fri, 29 Sep 2023 15:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[혁신적인 기술력과 디자인으로 새로운 장르를 개척한 불가리의 워치메이킹.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/885b6b9c-b0c2-4809-b089-9eabeb8266d2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주얼리 세계에서 가장 밝고 선명하게 반짝이는 이름 PART.2]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79617</link>
+            <guid>https://www.esquirekorea.co.kr/article/79617</guid>
+            <pubDate>Fri, 29 Sep 2023 15:19:20 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/566d0275-a16d-457b-b726-3b2dc3237f87.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주얼리 세계에서 가장 밝고 선명하게 반짝이는 이름 PART.1]]></title>
             <link>https://www.esquirekorea.co.kr/article/79559</link>
@@ -53,22 +68,6 @@
             <pubDate>Tue, 01 Aug 2023 15:22:37 GMT</pubDate>
             <content:encoded><![CDATA[중고 시계 플랫폼 바이버와 함께한 대담한 사람들.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/862530e4-10a9-47cb-94bc-83eb0dbda35a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[까르띠에 타임 언리미티드 영상 시리즈_#최시원]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77608</link>
-            <guid>https://www.esquirekorea.co.kr/article/77608</guid>
-            <pubDate>Sun, 23 Jul 2023 15:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[오는 6월 성수동에서 열리는 까르띠에 타임 언리미티드 전시를 앞두고 배우 최시원을 만났다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/19/4b261067-0d53-473c-a683-f6973da535fb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티쏘 국내 첫 단독 부티크 여의도 IFC몰 오픈]]></title>
-            <link>https://www.esquirekorea.co.kr/article/77215</link>
-            <guid>https://www.esquirekorea.co.kr/article/77215</guid>
-            <pubDate>Tue, 20 Jun 2023 09:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[사람의 손길이 닿을 때 더욱 생기를 얻는 곳.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202305/01/cdab48ef-be9f-4b93-b23c-29852e4b0cfb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

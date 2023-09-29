@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 카&amp;테크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Sep 2023 09:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 15:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EV9이 제안하는 새로운 전기차 세상]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80576</link>
+            <guid>https://www.esquirekorea.co.kr/article/80576</guid>
+            <pubDate>Fri, 29 Sep 2023 15:19:31 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/5fb9b5fa-93ca-49fc-bb14-3d7c2b3c7133.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가장 아름다운 자동차 10대는 무엇?]]></title>
             <link>https://www.esquirekorea.co.kr/article/80400</link>
@@ -60,14 +67,6 @@
             <pubDate>Fri, 08 Sep 2023 15:15:50 GMT</pubDate>
             <content:encoded><![CDATA[앞으로 양손 가볍게 운동이 가능하겠다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/29/c0476687-192f-4f49-8f79-0eec0942dd55.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘애플-1’ 광고 초안이 낙찰된 가격?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80174</link>
-            <guid>https://www.esquirekorea.co.kr/article/80174</guid>
-            <pubDate>Fri, 08 Sep 2023 03:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[스티브 잡스의 손글씨가 자그마치 약 2억 원.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/26/55118c44-1f49-410c-824c-fd822858a70e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
