@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 15:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 03:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영화 '슈렉'의 트리 하우스에서 머무를 수 있는 기회?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80976</link>
+            <guid>https://www.esquirekorea.co.kr/article/80976</guid>
+            <pubDate>Fri, 29 Sep 2023 03:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[호스트는 '동키'가 맡았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/1cd85b97-dbe4-461b-b85f-222bb9587907.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[돈두댓] 자위가 암을 예방한다고? 천상계 자위를 돕는 기어 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/80962</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 27 Sep 2023 03:19:10 GMT</pubDate>
             <content:encoded><![CDATA[밀키트와 비교할 수 없는 맛.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/8d76e4a1-8205-4d2d-9284-2139c5f169e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 3대 매운 냉면 맛집 2023 ver]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80770</link>
-            <guid>https://www.esquirekorea.co.kr/article/80770</guid>
-            <pubDate>Fri, 22 Sep 2023 09:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[다음날에도 생각나는 매운 냉면을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/4dffc667-6985-4437-b2d7-e6b800981f97.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
