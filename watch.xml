@@ -1,72 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 와치</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 09:20:55 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[오데마 피게 로열 오크 오프쇼어 탄생 30주년 그 빛나는 순간]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80655</link>
-            <guid>https://www.esquirekorea.co.kr/article/80655</guid>
-            <pubDate>Mon, 02 Oct 2023 15:19:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/eb5811bc-8ec0-4c47-8822-8b1ba1273851.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼블릭 워치]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80654</link>
-            <guid>https://www.esquirekorea.co.kr/article/80654</guid>
-            <pubDate>Sun, 01 Oct 2023 03:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[서울의 시간을 굳건히 지켜온 공공 시계. 여전히 우리는 같은 시계 아래서 시간을 공유한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/78c92b36-2ca7-4805-91fb-642f6b82dcd0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불가리의 비전]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80653</link>
-            <guid>https://www.esquirekorea.co.kr/article/80653</guid>
-            <pubDate>Fri, 29 Sep 2023 15:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[혁신적인 기술력과 디자인으로 새로운 장르를 개척한 불가리의 워치메이킹.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/885b6b9c-b0c2-4809-b089-9eabeb8266d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주얼리 세계에서 가장 밝고 선명하게 반짝이는 이름 PART.2]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79617</link>
-            <guid>https://www.esquirekorea.co.kr/article/79617</guid>
-            <pubDate>Fri, 29 Sep 2023 15:19:20 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/03/566d0275-a16d-457b-b726-3b2dc3237f87.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주얼리 세계에서 가장 밝고 선명하게 반짝이는 이름 PART.1]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79559</link>
-            <guid>https://www.esquirekorea.co.kr/article/79559</guid>
-            <pubDate>Wed, 27 Sep 2023 15:19:16 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/02/9214d872-ef5b-40e1-99ea-72a010f5e55b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브레게 TYPE XX 의 4세대 신제품]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79219</link>
-            <guid>https://www.esquirekorea.co.kr/article/79219</guid>
-            <pubDate>Tue, 26 Sep 2023 15:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[지난 6월 7일 프랑스 파리의 역사적인 미술관 프티 팔레에서 브레게의 야심작 ‘TYPE XX’의...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/24/b1d21498-c58b-4e4d-b454-86bf9e16b303.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MONACO FOREVER]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78494</link>
-            <guid>https://www.esquirekorea.co.kr/article/78494</guid>
-            <pubDate>Tue, 26 Sep 2023 03:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[태그호이어의 상징적인 워치 모나코는 F1 모나코 그랑프리에 뿌리를 두고 있다. 올해 80주년을 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/20/8b7bff59-e080-40f0-8f64-d0e47e27e55e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김우빈, 문가영⋯ 별들이 찾은 황금 비율]]></title>
-            <link>https://www.esquirekorea.co.kr/article/78208</link>
-            <guid>https://www.esquirekorea.co.kr/article/78208</guid>
-            <pubDate>Tue, 26 Sep 2023 03:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[예거 르쿨트르 ‘THE GOLDEN RATIO ART SHOW’ 현장 공개!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202306/12/52704a57-e3cd-49ac-85d2-3e5efb42042e.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/watch</id>
+    <title>에스콰이어 코리아 ─ 와치</title>
+    <updated>2023-10-03T15:20:38.980Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오데마 피게 로열 오크 오프쇼어 탄생 30주년 그 빛나는 순간]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80655</id>
+        <link href="https://www.esquirekorea.co.kr/article/80655"/>
+        <updated>2023-10-02T15:19:32.801Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퍼블릭 워치]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80654</id>
+        <link href="https://www.esquirekorea.co.kr/article/80654"/>
+        <updated>2023-10-01T03:19:01.651Z</updated>
+        <content type="html"><![CDATA[서울의 시간을 굳건히 지켜온 공공 시계. 여전히 우리는 같은 시계 아래서 시간을 공유한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불가리의 비전]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80653</id>
+        <link href="https://www.esquirekorea.co.kr/article/80653"/>
+        <updated>2023-09-29T15:19:20.593Z</updated>
+        <content type="html"><![CDATA[혁신적인 기술력과 디자인으로 새로운 장르를 개척한 불가리의 워치메이킹.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주얼리 세계에서 가장 밝고 선명하게 반짝이는 이름 PART.2]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79617</id>
+        <link href="https://www.esquirekorea.co.kr/article/79617"/>
+        <updated>2023-09-29T15:19:20.601Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주얼리 세계에서 가장 밝고 선명하게 반짝이는 이름 PART.1]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79559</id>
+        <link href="https://www.esquirekorea.co.kr/article/79559"/>
+        <updated>2023-09-27T15:19:16.159Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브레게 TYPE XX 의 4세대 신제품]]></title>
+        <id>https://www.esquirekorea.co.kr/article/79219</id>
+        <link href="https://www.esquirekorea.co.kr/article/79219"/>
+        <updated>2023-09-26T15:19:11.434Z</updated>
+        <content type="html"><![CDATA[지난 6월 7일 프랑스 파리의 역사적인 미술관 프티 팔레에서 브레게의 야심작 ‘TYPE XX’의...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MONACO FOREVER]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78494</id>
+        <link href="https://www.esquirekorea.co.kr/article/78494"/>
+        <updated>2023-09-26T03:18:19.761Z</updated>
+        <content type="html"><![CDATA[태그호이어의 상징적인 워치 모나코는 F1 모나코 그랑프리에 뿌리를 두고 있다. 올해 80주년을 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김우빈, 문가영⋯ 별들이 찾은 황금 비율]]></title>
+        <id>https://www.esquirekorea.co.kr/article/78208</id>
+        <link href="https://www.esquirekorea.co.kr/article/78208"/>
+        <updated>2023-09-26T03:18:19.767Z</updated>
+        <content type="html"><![CDATA[예거 르쿨트르 ‘THE GOLDEN RATIO ART SHOW’ 현장 공개!]]></content>
+    </entry>
+</feed>
