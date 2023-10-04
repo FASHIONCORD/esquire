@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/now</id>
-    <title>에스콰이어 코리아 ─ 나우</title>
-    <updated>2023-10-04T03:20:16.086Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[삽으로 고기 퍼주는 집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80334</id>
-        <link href="https://www.esquirekorea.co.kr/article/80334"/>
-        <updated>2023-09-21T15:19:49.260Z</updated>
-        <content type="html"><![CDATA[같은 고기라도 삽으로 퍼주면 더 맛있는 법.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기내에도 도입 예정인 '노 키즈 존']]></title>
-        <id>https://www.esquirekorea.co.kr/article/80317</id>
-        <link href="https://www.esquirekorea.co.kr/article/80317"/>
-        <updated>2023-09-17T09:17:00.400Z</updated>
-        <content type="html"><![CDATA[추가요금만 지불하면 조용한 비행이 가능하다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩이 없는 민무늬 기린의 탄생]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80056</id>
-        <link href="https://www.esquirekorea.co.kr/article/80056"/>
-        <updated>2023-09-15T15:19:31.323Z</updated>
-        <content type="html"><![CDATA[기린의 이름을 짓기 위해 시민 공모전을 진행 중이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시, 새 브랜드 슬로건 디자인 공개]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79916</id>
-        <link href="https://www.esquirekorea.co.kr/article/79916"/>
-        <updated>2023-09-14T09:18:35.375Z</updated>
-        <content type="html"><![CDATA[서울, 마이 소울(Seoul, MY Soul)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[물속에서 시속 11km로 움직일 수 있게 해주는 '제트팩']]></title>
-        <id>https://www.esquirekorea.co.kr/article/79870</id>
-        <link href="https://www.esquirekorea.co.kr/article/79870"/>
-        <updated>2023-09-01T09:18:53.255Z</updated>
-        <content type="html"><![CDATA[마이클 펠프스 보다 빠르게 움직일 수 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남시, 유료 드론 배송 서비스 시작]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79643</id>
-        <link href="https://www.esquirekorea.co.kr/article/79643"/>
-        <updated>2023-09-01T09:18:53.257Z</updated>
-        <content type="html"><![CDATA[하늘에서 음식이 내린다면]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살인적인 더위로 인해 출시 예정인 '폭염 보험']]></title>
-        <id>https://www.esquirekorea.co.kr/article/79642</id>
-        <link href="https://www.esquirekorea.co.kr/article/79642"/>
-        <updated>2023-08-31T09:18:18.176Z</updated>
-        <content type="html"><![CDATA[앞서 폭우 보험을 출시한 바가 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시대를 호령하는 아이콘 뷔와의 숨막히는 눈맞춤]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79575</id>
-        <link href="https://www.esquirekorea.co.kr/article/79575"/>
-        <updated>2023-08-23T03:19:25.900Z</updated>
-        <content type="html"><![CDATA[뷔와 함께한 셀린느 23윈터 패션 필름 EP. 3]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 나우</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 04 Oct 2023 09:20:16 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삽으로 고기 퍼주는 집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80334</link>
+            <guid>https://www.esquirekorea.co.kr/article/80334</guid>
+            <pubDate>Thu, 21 Sep 2023 15:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[같은 고기라도 삽으로 퍼주면 더 맛있는 법.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/13ad02ba-8928-45c3-b208-4fd823ed03e4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기내에도 도입 예정인 '노 키즈 존']]></title>
+            <link>https://www.esquirekorea.co.kr/article/80317</link>
+            <guid>https://www.esquirekorea.co.kr/article/80317</guid>
+            <pubDate>Sun, 17 Sep 2023 09:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[추가요금만 지불하면 조용한 비행이 가능하다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/c5252845-ad55-45c0-b0e0-f4ad300bace5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[얼룩이 없는 민무늬 기린의 탄생]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80056</link>
+            <guid>https://www.esquirekorea.co.kr/article/80056</guid>
+            <pubDate>Fri, 15 Sep 2023 15:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[기린의 이름을 짓기 위해 시민 공모전을 진행 중이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/3d13f1d0-cc74-415a-99c6-39185700cbfd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울시, 새 브랜드 슬로건 디자인 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79916</link>
+            <guid>https://www.esquirekorea.co.kr/article/79916</guid>
+            <pubDate>Thu, 14 Sep 2023 09:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[서울, 마이 소울(Seoul, MY Soul)]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/a9d6cb99-b1d4-451b-bc12-ad4fe182c0df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[물속에서 시속 11km로 움직일 수 있게 해주는 '제트팩']]></title>
+            <link>https://www.esquirekorea.co.kr/article/79870</link>
+            <guid>https://www.esquirekorea.co.kr/article/79870</guid>
+            <pubDate>Fri, 01 Sep 2023 09:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[마이클 펠프스 보다 빠르게 움직일 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/89387d94-2aba-42b8-8e60-bfd1c6ef00f5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성남시, 유료 드론 배송 서비스 시작]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79643</link>
+            <guid>https://www.esquirekorea.co.kr/article/79643</guid>
+            <pubDate>Fri, 01 Sep 2023 09:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[하늘에서 음식이 내린다면]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/3ffbf7d4-c36e-483d-bd4f-73950bbfb6d6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[살인적인 더위로 인해 출시 예정인 '폭염 보험']]></title>
+            <link>https://www.esquirekorea.co.kr/article/79642</link>
+            <guid>https://www.esquirekorea.co.kr/article/79642</guid>
+            <pubDate>Thu, 31 Aug 2023 09:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[앞서 폭우 보험을 출시한 바가 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/291b86ff-ced7-4a4d-8815-591e2ac94c47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시대를 호령하는 아이콘 뷔와의 숨막히는 눈맞춤]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79575</link>
+            <guid>https://www.esquirekorea.co.kr/article/79575</guid>
+            <pubDate>Wed, 23 Aug 2023 03:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[뷔와 함께한 셀린느 23윈터 패션 필름 EP. 3]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/81e11c9e-a8b2-48c4-afab-bf1fd5f04bda.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

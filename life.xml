@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 03:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 09:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[등산러 맛집 가이드 ‘북한산’ 편]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81027</link>
+            <guid>https://www.esquirekorea.co.kr/article/81027</guid>
+            <pubDate>Wed, 04 Oct 2023 09:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[추석 연휴에 즐기기 좋은 등산의 맛.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/640d48b5-7bfa-46d5-a42d-2c08f160df67.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[불경기에 집값이 계속 오르는 이유는?]]></title>
             <link>https://www.esquirekorea.co.kr/article/80729</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 29 Sep 2023 03:19:38 GMT</pubDate>
             <content:encoded><![CDATA[호스트는 '동키'가 맡았다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/1cd85b97-dbe4-461b-b85f-222bb9587907.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[돈두댓] 자위가 암을 예방한다고? 천상계 자위를 돕는 기어 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80962</link>
-            <guid>https://www.esquirekorea.co.kr/article/80962</guid>
-            <pubDate>Thu, 28 Sep 2023 15:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[한 달에 21번 이상 사정하는 20대 남성은 7번 미만 사정하는 남성보다 전립선암 진단율이 19%...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/b3188d87-5c35-4050-9ef7-251552c1ae91.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
