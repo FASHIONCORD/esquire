@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 15:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 03:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘천박사 퇴마 연구소: 설경의 비밀’로 돌아온 강동원 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81012</link>
+            <guid>https://www.esquirekorea.co.kr/article/81012</guid>
+            <pubDate>Wed, 04 Oct 2023 03:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[강동원이 부모님 모시고 두 번이나 방문한 맛집은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/9dd9a033-2f30-4ac8-912b-328ec6788f12.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연휴에도 문제없다! 연중무휴 24시 서울 맛집 2023 ver.]]></title>
             <link>https://www.esquirekorea.co.kr/article/80959</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 22 Sep 2023 15:19:07 GMT</pubDate>
             <content:encoded><![CDATA[출시일은 26일]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/9e3b4265-cbb6-4648-879e-a561873031dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지극히 전통적인 것 같기도, 굉장히 세련된 것 같기도 한 10종의 떡과 한과]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80725</link>
-            <guid>https://www.esquirekorea.co.kr/article/80725</guid>
-            <pubDate>Fri, 22 Sep 2023 09:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[전통적이라고 해도, 지극히 세련됐다고 해도 말이 될 디저트들. 상 위에 내어놓을 때, 입에 넣...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/c3a9cc90-189e-4704-9ca7-a67187bef326.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
