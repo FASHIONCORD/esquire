@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 03:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 09:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이브(IVE) 콘셉트 포토 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80852</link>
+            <guid>https://www.esquirekorea.co.kr/article/80852</guid>
+            <pubDate>Thu, 05 Oct 2023 09:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[앨범은 10월 13일 발매된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/b8608471-bea4-41b8-9223-d26635a045da.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Part1. 양동근은 '본인이 그런 걸 들어본 적이 없기 때문에' 가장의 삶을 노래한다고 했다]]></title>
             <link>https://www.esquirekorea.co.kr/article/80726</link>
@@ -62,13 +70,6 @@
             <pubDate>Mon, 25 Sep 2023 03:20:07 GMT</pubDate>
             <content:encoded><![CDATA[신인 그룹 파우의 넘치는 끼와 케미스트리.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/d71dfc87-c6ac-4344-b663-1b947e7f5fe7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part 2. 마크의 꿈은 현실이 된다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80735</link>
-            <guid>https://www.esquirekorea.co.kr/article/80735</guid>
-            <pubDate>Fri, 22 Sep 2023 09:18:52 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/cc51a2f9-7086-4f2a-a505-8b0f55aa37ba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
