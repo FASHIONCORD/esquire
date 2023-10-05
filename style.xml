@@ -4,7 +4,7 @@
         <title>에스콰이어 코리아 ─ 스타일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 15:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 03:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,12 +13,14 @@
             <guid>https://www.esquirekorea.co.kr/article/80737</guid>
             <pubDate>Wed, 04 Oct 2023 03:18:51 GMT</pubDate>
             <content:encoded><![CDATA[테일러링과 드레이핑, 날카로움과 우아함, 남성성과 여성성을 넘나드는 펜디의 양면성.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/20/4f3cf575-ff99-4eb7-8137-c3556b669582.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경계를 넓힌 MA-1 재킷]]></title>
             <link>https://www.esquirekorea.co.kr/article/80646</link>
             <guid>https://www.esquirekorea.co.kr/article/80646</guid>
             <pubDate>Sat, 30 Sep 2023 15:16:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/16/902fa908-574a-418f-81bd-257f584bf9c9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[셀린느, 뷔와 함께한 도쿄에서의 어느 오후]]></title>
@@ -26,6 +28,7 @@
             <guid>https://www.esquirekorea.co.kr/article/80643</guid>
             <pubDate>Tue, 26 Sep 2023 09:17:58 GMT</pubDate>
             <content:encoded><![CDATA[다시 만난 BTS 뷔.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/15/479760e1-63ea-47b1-9538-8b89e0e6c7ab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김씨네과일에서 출시한 반려견 티셔츠?]]></title>
@@ -33,6 +36,7 @@
             <guid>https://www.esquirekorea.co.kr/article/80629</guid>
             <pubDate>Fri, 22 Sep 2023 09:17:56 GMT</pubDate>
             <content:encoded><![CDATA[반려견과 커플룩을 입을 수 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/15/a2450fe3-98bb-45f0-b358-6500c6f13a3f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한낮의 꿈]]></title>

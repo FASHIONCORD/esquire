@@ -1,75 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 15:21:00 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[등산러 맛집 가이드 ‘북한산’ 편]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81027</link>
-            <guid>https://www.esquirekorea.co.kr/article/81027</guid>
-            <pubDate>Wed, 04 Oct 2023 09:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[추석 연휴에 즐기기 좋은 등산의 맛.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/640d48b5-7bfa-46d5-a42d-2c08f160df67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불경기에 집값이 계속 오르는 이유는?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80729</link>
-            <guid>https://www.esquirekorea.co.kr/article/80729</guid>
-            <pubDate>Wed, 04 Oct 2023 03:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[2년 전 ‘벼락거지’라는 말을 유행시키며 뜨겁게 타올랐던 ‘영끌’은 지난해 금리 인상으로 차...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/495287f8-eaf0-450b-a856-15d79d96399b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한가위에 뜨는 올해 마지막 슈퍼문]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81019</link>
-            <guid>https://www.esquirekorea.co.kr/article/81019</guid>
-            <pubDate>Mon, 02 Oct 2023 09:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[이번 슈퍼문의 오른쪽엔 토성, 왼쪽엔 목성도 함께 관측된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/29/2b5cde5f-a2ed-4fcc-b296-7dd4a58b534f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프라다가 서울, 영화 예술, 현대 문화를 포착한 방식]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80895</link>
-            <guid>https://www.esquirekorea.co.kr/article/80895</guid>
-            <pubDate>Mon, 02 Oct 2023 03:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[프라다가 본 서울의 문화는 이토록 깊고, 이색적이며, 풍성했다. 서울이 경험한 프라다의 안목과...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/29/52bb9a2b-353b-49d1-93ad-26767594b65f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사진'과 '사진이 아닌 것' 사이 가장 미묘한 영역에서 활동하는 다섯 포토그래퍼]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80699</link>
-            <guid>https://www.esquirekorea.co.kr/article/80699</guid>
-            <pubDate>Mon, 02 Oct 2023 03:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[AI 제너레이터로 후보정을 하는 포토그래퍼부터 아예 '촬영' 자체를 하지 않고 사진을 만드는 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/29/46c5d51c-69cc-4880-8a21-92a10aeb26b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘천박사 퇴마 연구소: 설경의 비밀’로 돌아온 강동원 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81012</link>
-            <guid>https://www.esquirekorea.co.kr/article/81012</guid>
-            <pubDate>Sat, 30 Sep 2023 03:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[강동원이 부모님 모시고 두 번이나 방문한 맛집은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/9dd9a033-2f30-4ac8-912b-328ec6788f12.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 스포츠는 어디로 가고 있는가?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81009</link>
-            <guid>https://www.esquirekorea.co.kr/article/81009</guid>
-            <pubDate>Fri, 29 Sep 2023 15:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[국내 프로스포츠의 인기는 국제 대회 성적에 따라 좌우된다는 말이 통용되던 시절이 있었다. 그...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/a09c32f5-2db8-4e1f-8632-b50723ed194e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '슈렉'의 트리 하우스에서 머무를 수 있는 기회?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80976</link>
-            <guid>https://www.esquirekorea.co.kr/article/80976</guid>
-            <pubDate>Fri, 29 Sep 2023 03:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[호스트는 '동키'가 맡았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/1cd85b97-dbe4-461b-b85f-222bb9587907.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/life</id>
+    <title>에스콰이어 코리아 ─ 라이프</title>
+    <updated>2023-10-05T03:20:43.950Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<에스콰이어> 에디터들이 추천하는 10월의 책]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81045</id>
+        <link href="https://www.esquirekorea.co.kr/article/81045"/>
+        <updated>2023-10-05T03:19:42.748Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[등산러 맛집 가이드 ‘북한산’ 편]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81027</id>
+        <link href="https://www.esquirekorea.co.kr/article/81027"/>
+        <updated>2023-10-04T09:19:41.475Z</updated>
+        <content type="html"><![CDATA[추석 연휴에 즐기기 좋은 등산의 맛.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불경기에 집값이 계속 오르는 이유는?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80729</id>
+        <link href="https://www.esquirekorea.co.kr/article/80729"/>
+        <updated>2023-10-04T03:19:42.385Z</updated>
+        <content type="html"><![CDATA[2년 전 ‘벼락거지’라는 말을 유행시키며 뜨겁게 타올랐던 ‘영끌’은 지난해 금리 인상으로 차...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한가위에 뜨는 올해 마지막 슈퍼문]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81019</id>
+        <link href="https://www.esquirekorea.co.kr/article/81019"/>
+        <updated>2023-10-02T09:20:40.225Z</updated>
+        <content type="html"><![CDATA[이번 슈퍼문의 오른쪽엔 토성, 왼쪽엔 목성도 함께 관측된다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프라다가 서울, 영화 예술, 현대 문화를 포착한 방식]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80895</id>
+        <link href="https://www.esquirekorea.co.kr/article/80895"/>
+        <updated>2023-10-02T03:18:58.736Z</updated>
+        <content type="html"><![CDATA[프라다가 본 서울의 문화는 이토록 깊고, 이색적이며, 풍성했다. 서울이 경험한 프라다의 안목과...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사진'과 '사진이 아닌 것' 사이 가장 미묘한 영역에서 활동하는 다섯 포토그래퍼]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80699</id>
+        <link href="https://www.esquirekorea.co.kr/article/80699"/>
+        <updated>2023-10-02T03:18:58.737Z</updated>
+        <content type="html"><![CDATA[AI 제너레이터로 후보정을 하는 포토그래퍼부터 아예 '촬영' 자체를 하지 않고 사진을 만드는 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘천박사 퇴마 연구소: 설경의 비밀’로 돌아온 강동원 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81012</id>
+        <link href="https://www.esquirekorea.co.kr/article/81012"/>
+        <updated>2023-09-30T03:19:09.539Z</updated>
+        <content type="html"><![CDATA[강동원이 부모님 모시고 두 번이나 방문한 맛집은?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 스포츠는 어디로 가고 있는가?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81009</id>
+        <link href="https://www.esquirekorea.co.kr/article/81009"/>
+        <updated>2023-09-29T15:19:58.191Z</updated>
+        <content type="html"><![CDATA[국내 프로스포츠의 인기는 국제 대회 성적에 따라 좌우된다는 말이 통용되던 시절이 있었다. 그...]]></content>
+    </entry>
+</feed>
