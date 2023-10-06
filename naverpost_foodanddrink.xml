@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 03:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 09:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 04 Oct 2023 09:17:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMDRfNjQg/MDAxNjk2NDAyNDkwMzAw.I6Hzq8LQyAY-5p1BU7irw0m3NI2s_tsf_qblxGLxtuwg.lltNaCex25UoK6VHz6Lo74BPFyt7ZqdEgIe7RJGP590g.PNG/IgfNT0vwrvt3j5ptHaJN6FZg0MWA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 ‘불’피자 맛집 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36635776&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36635776&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Fri, 06 Oct 2023 09:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjVfMTIy/MDAxNjk1NjE4NDkzNjQ4.ZheSt_QzepkOyao0wzHmT5nuEHAt3ASAZK6UaJosc2wg.w7THnOsdyP4hyukN6NF44AOlDNe8x07Pg4XvIAUHR8Ag.JPEG/IjxTPAuPpXwaD7XoeEa_iZHRYoZM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[납작 우동, 히모카와 우동 맛집 4]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 14 Sep 2023 09:16:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDhfMTg4/MDAxNjk0MTUwODYxMjIy.8ACauv9-ZKKBcLGJ4PV2NH1PE3SF9hQbdTUbbwu0ZO4g.9IBw9Pio88PsfxSfd5oz7yOJd5_8Eug2daHmqlaYHZQg.JPEG/ISrNQQ0PsnszwiQgK9TSwUcPYi2M.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삽으로 고기 퍼주는 집 4]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36532378&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36532378&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Wed, 13 Sep 2023 09:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDZfMTU5/MDAxNjkzOTg2NzM0Mjc0.GslirylRCigfjwjXTCG784lqPNvpWB_fBw9pSwXUMu4g.BDI0vENOsHdExg23xf8JJzIf7btf1KJMZIjwLeiUjOIg.JPEG/I_DlVYIteLP4KSEduLk_z-UL0ZhI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
