@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-10-06T09:19:15.569Z</updated>
+    <updated>2023-10-06T15:20:48.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가을 노상을 위한 찐 노포 '슈퍼' 야장 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81093</id>
+        <link href="https://www.esquirekorea.co.kr/article/81093"/>
+        <updated>2023-10-06T15:20:10.580Z</updated>
+        <content type="html"><![CDATA[가성비 넘치는 안주에 야장 감성까지 일석이조.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예술 작품 속 시계 이야기]]></title>
         <id>https://www.esquirekorea.co.kr/article/80730</id>
@@ -52,12 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/81019"/>
         <updated>2023-10-02T09:20:40.225Z</updated>
         <content type="html"><![CDATA[이번 슈퍼문의 오른쪽엔 토성, 왼쪽엔 목성도 함께 관측된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프라다가 서울, 영화 예술, 현대 문화를 포착한 방식]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80895</id>
-        <link href="https://www.esquirekorea.co.kr/article/80895"/>
-        <updated>2023-10-02T03:18:58.736Z</updated>
-        <content type="html"><![CDATA[프라다가 본 서울의 문화는 이토록 깊고, 이색적이며, 풍성했다. 서울이 경험한 프라다의 안목과...]]></content>
     </entry>
 </feed>

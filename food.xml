@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/food</id>
-    <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2023-10-06T09:19:15.568Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[한남 야시장 속 찐 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81015</id>
-        <link href="https://www.esquirekorea.co.kr/article/81015"/>
-        <updated>2023-10-04T15:20:14.857Z</updated>
-        <content type="html"><![CDATA[요즘 핫한 레트로 감성의 한남 야시장 속 인기 포차를 소개한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘천박사 퇴마 연구소: 설경의 비밀’로 돌아온 강동원 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81012</id>
-        <link href="https://www.esquirekorea.co.kr/article/81012"/>
-        <updated>2023-10-04T03:19:31.265Z</updated>
-        <content type="html"><![CDATA[강동원이 부모님 모시고 두 번이나 방문한 맛집은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연휴에도 문제없다! 연중무휴 24시 서울 맛집 2023 ver.]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80959</id>
-        <link href="https://www.esquirekorea.co.kr/article/80959"/>
-        <updated>2023-10-02T09:19:57.395Z</updated>
-        <content type="html"><![CDATA[고민 없이 언제든 방문 환영.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 ‘불’피자 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80831</id>
-        <link href="https://www.esquirekorea.co.kr/article/80831"/>
-        <updated>2023-10-02T03:18:48.418Z</updated>
-        <content type="html"><![CDATA[피자에 불붙었다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대한민국 요리계의 ‘명장’이 운영하는 서울 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80792</id>
-        <link href="https://www.esquirekorea.co.kr/article/80792"/>
-        <updated>2023-09-30T03:18:30.148Z</updated>
-        <content type="html"><![CDATA[한식, 중식 분야의 ‘명장’ 타이틀에 빛나는 맛집은 어디?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 다이아몬드리그 파이널, 대한민국 최초 우승한 ‘우상혁 선수’ 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80782</id>
-        <link href="https://www.esquirekorea.co.kr/article/80782"/>
-        <updated>2023-09-29T03:19:28.025Z</updated>
-        <content type="html"><![CDATA[‘스마일 점퍼‘ 우상혁 선수가 인정한 ‘찐’ 맛집?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[납작 우동, 히모카와 우동 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80771</id>
-        <link href="https://www.esquirekorea.co.kr/article/80771"/>
-        <updated>2023-09-28T09:19:19.223Z</updated>
-        <content type="html"><![CDATA[밀키트와 비교할 수 없는 맛.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 3대 매운 냉면 맛집 2023 ver]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80770</id>
-        <link href="https://www.esquirekorea.co.kr/article/80770"/>
-        <updated>2023-09-27T03:19:01.709Z</updated>
-        <content type="html"><![CDATA[다음날에도 생각나는 매운 냉면을 소개한다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 푸드</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 06 Oct 2023 15:20:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한남 야시장 속 찐 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81015</link>
+            <guid>https://www.esquirekorea.co.kr/article/81015</guid>
+            <pubDate>Wed, 04 Oct 2023 15:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[요즘 핫한 레트로 감성의 한남 야시장 속 인기 포차를 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/cf78561d-fcc6-438f-8b03-81ed0d0b7c00.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘천박사 퇴마 연구소: 설경의 비밀’로 돌아온 강동원 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81012</link>
+            <guid>https://www.esquirekorea.co.kr/article/81012</guid>
+            <pubDate>Wed, 04 Oct 2023 03:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[강동원이 부모님 모시고 두 번이나 방문한 맛집은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/9dd9a033-2f30-4ac8-912b-328ec6788f12.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연휴에도 문제없다! 연중무휴 24시 서울 맛집 2023 ver.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80959</link>
+            <guid>https://www.esquirekorea.co.kr/article/80959</guid>
+            <pubDate>Mon, 02 Oct 2023 09:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[고민 없이 언제든 방문 환영.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/280ab940-5b6f-4fec-9bd8-616e2f69b05c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 ‘불’피자 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80831</link>
+            <guid>https://www.esquirekorea.co.kr/article/80831</guid>
+            <pubDate>Mon, 02 Oct 2023 03:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[피자에 불붙었다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/8bbdcdf1-9075-4490-b085-3a2da0037f7a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대한민국 요리계의 ‘명장’이 운영하는 서울 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80792</link>
+            <guid>https://www.esquirekorea.co.kr/article/80792</guid>
+            <pubDate>Sat, 30 Sep 2023 03:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[한식, 중식 분야의 ‘명장’ 타이틀에 빛나는 맛집은 어디?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/25f9621a-ebe7-4415-a7c1-5db1e7e1cd55.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 다이아몬드리그 파이널, 대한민국 최초 우승한 ‘우상혁 선수’ 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80782</link>
+            <guid>https://www.esquirekorea.co.kr/article/80782</guid>
+            <pubDate>Fri, 29 Sep 2023 03:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[‘스마일 점퍼‘ 우상혁 선수가 인정한 ‘찐’ 맛집?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/ceb69fb9-07f3-485f-9f2c-ba1ebbb3d886.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[납작 우동, 히모카와 우동 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80771</link>
+            <guid>https://www.esquirekorea.co.kr/article/80771</guid>
+            <pubDate>Thu, 28 Sep 2023 09:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[밀키트와 비교할 수 없는 맛.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/8d76e4a1-8205-4d2d-9284-2139c5f169e5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 3대 매운 냉면 맛집 2023 ver]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80770</link>
+            <guid>https://www.esquirekorea.co.kr/article/80770</guid>
+            <pubDate>Wed, 27 Sep 2023 03:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[다음날에도 생각나는 매운 냉면을 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/21/4dffc667-6985-4437-b2d7-e6b800981f97.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
