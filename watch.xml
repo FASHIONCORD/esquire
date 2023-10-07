@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/watch</id>
     <title>에스콰이어 코리아 ─ 와치</title>
-    <updated>2023-10-06T15:20:48.630Z</updated>
+    <updated>2023-10-07T03:19:03.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[루이 비통 땅부르가 다시 태어났다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80650</id>
+        <link href="https://www.esquirekorea.co.kr/article/80650"/>
+        <updated>2023-10-07T03:17:57.569Z</updated>
+        <content type="html"><![CDATA[대담할 정도로 미니멀한 외관에 깃든 21년의 노하우, 바야흐로 뉴 땅부르의 시대다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Born from the Sea]]></title>
         <id>https://www.esquirekorea.co.kr/article/80728</id>
@@ -50,12 +57,5 @@
         <link href="https://www.esquirekorea.co.kr/article/79219"/>
         <updated>2023-09-26T15:19:11.434Z</updated>
         <content type="html"><![CDATA[지난 6월 7일 프랑스 파리의 역사적인 미술관 프티 팔레에서 브레게의 야심작 ‘TYPE XX’의...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MONACO FOREVER]]></title>
-        <id>https://www.esquirekorea.co.kr/article/78494</id>
-        <link href="https://www.esquirekorea.co.kr/article/78494"/>
-        <updated>2023-09-26T03:18:19.761Z</updated>
-        <content type="html"><![CDATA[태그호이어의 상징적인 워치 모나코는 F1 모나코 그랑프리에 뿌리를 두고 있다. 올해 80주년을 ...]]></content>
     </entry>
 </feed>
