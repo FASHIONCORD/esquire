@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 03:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 09:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한남 야시장 속 찐 맛집 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36679528&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36679528&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Mon, 09 Oct 2023 09:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMDVfMTI1/MDAxNjk2NDg4NTY2NTMx.uiknW00iwOignIfto7uMEB5qzhOLbc_V9W4PTKlgyiIg.ZWQ2ZQlp54_JCGdhtIfzE0nN54gRTOgkCX4_YxBtqmEg.JPEG/IDlSrYYKyK2gH8CFy5-Te5Z1ny0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[eee EVENT] 속도 편한데 맛까지 잡은 비건맛집_씽푸커피]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36677308&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 15 Sep 2023 03:17:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDhfMTAg/MDAxNjk0MTUyOTA4NjIx.EO2rqdlU4rqL5JUYqZxbm9Eygginc-pSTnwIxPVyiuEg.H01NsHtzJBICYP26tPjcEejUHVWt0wUSJclSImmfHAMg.JPEG/IR9JIMubkDMZnkZra_Z9oRwx-r0I.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불타는 자갈 위에 구워 주는 삼겹살 맛집 4]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36544346&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36544346&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 14 Sep 2023 09:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MDhfMTg4/MDAxNjk0MTUwODYxMjIy.8ACauv9-ZKKBcLGJ4PV2NH1PE3SF9hQbdTUbbwu0ZO4g.9IBw9Pio88PsfxSfd5oz7yOJd5_8Eug2daHmqlaYHZQg.JPEG/ISrNQQ0PsnszwiQgK9TSwUcPYi2M.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
