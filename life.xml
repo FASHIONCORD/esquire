@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-10-09T09:20:08.969Z</updated>
+    <updated>2023-10-09T15:21:19.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내일(7일) 여의도 '서울세계불꽃축제 2023' 개최]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81179</id>
+        <link href="https://www.esquirekorea.co.kr/article/81179"/>
+        <updated>2023-10-09T15:20:40.028Z</updated>
+        <content type="html"><![CDATA[한국을 포함한 중국, 폴란드 3개국이 참가한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예쁘고 낯선 것들을 조심해야 하는 이유]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81163</id>
+        <link href="https://www.esquirekorea.co.kr/article/81163"/>
+        <updated>2023-10-09T15:20:40.031Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6년 만에 돌아온 이효리]]></title>
         <id>https://www.esquirekorea.co.kr/article/81150</id>
@@ -45,18 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/81051"/>
         <updated>2023-10-05T09:19:59.820Z</updated>
         <content type="html"><![CDATA[에버랜드 가을 장미축제 시작! ‘푸바오 테마존’ 장미원 갔다가 가볼 만한 내부 맛집들을 추천...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<에스콰이어> 에디터들이 추천하는 10월의 책]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81045</id>
-        <link href="https://www.esquirekorea.co.kr/article/81045"/>
-        <updated>2023-10-05T03:19:42.748Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[등산러 맛집 가이드 ‘북한산’ 편]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81027</id>
-        <link href="https://www.esquirekorea.co.kr/article/81027"/>
-        <updated>2023-10-04T09:19:41.475Z</updated>
-        <content type="html"><![CDATA[추석 연휴에 즐기기 좋은 등산의 맛.]]></content>
     </entry>
 </feed>
