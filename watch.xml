@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 와치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 15:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 03:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4개의 하이엔드 워치 브랜드와 나눈 대담]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81194</link>
+            <guid>https://www.esquirekorea.co.kr/article/81194</guid>
+            <pubDate>Tue, 10 Oct 2023 03:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[번뜩이는 아이디어와 획기적인 메커니즘으로 새로운 우주를 만드는 이들. 독창적인 방식으로 시간...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/07/668223e4-b8c6-4c61-978c-fef06966ddeb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태그호이어 까레라와 포르쉐 911의 탄생 60주년을 기념하며]]></title>
             <link>https://www.esquirekorea.co.kr/article/80768</link>
@@ -60,14 +68,6 @@
             <guid>https://www.esquirekorea.co.kr/article/80655</guid>
             <pubDate>Mon, 02 Oct 2023 15:19:32 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/eb5811bc-8ec0-4c47-8822-8b1ba1273851.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼블릭 워치]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80654</link>
-            <guid>https://www.esquirekorea.co.kr/article/80654</guid>
-            <pubDate>Sun, 01 Oct 2023 03:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[서울의 시간을 굳건히 지켜온 공공 시계. 여전히 우리는 같은 시계 아래서 시간을 공유한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/78c92b36-2ca7-4805-91fb-642f6b82dcd0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
