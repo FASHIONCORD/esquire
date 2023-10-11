@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 09:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 15:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클럽 에스콰이어 '테린이 탈출기']]></title>
+            <link>https://www.esquirekorea.co.kr/article/80731</link>
+            <guid>https://www.esquirekorea.co.kr/article/80731</guid>
+            <pubDate>Wed, 11 Oct 2023 15:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[‘테린이’란 오명을 벗기 위해 스무 명의 클럽 에스콰이어 회원들이 주1회 3시간씩 모여 테니스...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/05dbbfee-125f-42d7-ab9b-e80dd838a402.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나사, 2040년까지 달에 주택 단지 건설]]></title>
             <link>https://www.esquirekorea.co.kr/article/81223</link>
@@ -59,14 +67,6 @@
             <guid>https://www.esquirekorea.co.kr/article/81112</guid>
             <pubDate>Sun, 08 Oct 2023 15:18:20 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/660ba2d6-4af1-4015-b580-6dd41365ecef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을 노상을 위한 찐 노포 '슈퍼' 야장 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81093</link>
-            <guid>https://www.esquirekorea.co.kr/article/81093</guid>
-            <pubDate>Fri, 06 Oct 2023 15:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[가성비 넘치는 안주에 야장 감성까지 일석이조.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/6f718823-102c-492b-ac95-333e704d8e78.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
