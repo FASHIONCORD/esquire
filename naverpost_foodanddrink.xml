@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 15:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 03:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 11 Oct 2023 03:17:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMDZfMTY1/MDAxNjk2NTcyMzc1NTU3.U6wPL2SV9vfSw1u7ZwzA7nVdZh5gnS0Sio9ax0k5Qxwg.AzqyHxjnB3coL_zZ8tezDbSlrYVL7OTPUcTQtRA7pP4g.JPEG/IeGF-_Q4ykzWnPCdNCRDXT0U-QKg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을 제철인 고등어 맛집 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36680040&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36680040&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 12 Oct 2023 03:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMDVfNjIg/MDAxNjk2NDkwODYxMjUy.cyQpV3rHHLKHI4lihfsgzUPjwL6gn2ma0YqYWXrCnsUg.zKTjYUKaSuokmDDBR1cxtn46qy8QQZ0PWM-jA6AFEEAg.JPEG/Id1PypW7BXgdxtLmJqluEtVGyTyg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[등산러 맛집 가이드 ‘북한산’ 편]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 21 Sep 2023 09:17:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTFfMTg2/MDAxNjk0NDAyNDk1Mzg4.yoXGDDbAuI5fYvQ8npBIDfC-L37rwkuyW2yF6lNuOkAg.b04GR_GceyQmfM9gwgqr7RiZkA7N8T0vSr2M5JCwBg4g.JPEG/Ikfl4DqMq7BW-inIWb1CTomLtj10.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서촌 그라운드시소 근처 데이트 코스 5]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36556550&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36556550&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Tue, 12 Sep 2023 03:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTFfMTYg/MDAxNjk0Mzk5Mzc1Nzg2.1TBvbABJzRxfN3sYPKmCsebkCE4-xdcg8010npeuZmwg.ho2u3pAxidqbhO1kQOLcsyJfJ1RtooRX68DyZRXl64cg.JPEG/IFB4oxQ791KjG4F4zdM-Zwoz2a3U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
