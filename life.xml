@@ -1,62 +1,385 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/life</id>
-    <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-10-12T03:20:13.715Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[20세기 거장들의 작품과 놀이공원을 합친 '아트 테마파크'가 돌아온다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81070</id>
-        <link href="https://www.esquirekorea.co.kr/article/81070"/>
-        <updated>2023-10-12T03:19:09.143Z</updated>
-        <content type="html"><![CDATA[오스트리아 출신의 예술가 안드레 헬러가 창조한 아방가르드 카니발, 20세기 거장들의 작품과 놀...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클럽 에스콰이어 '테린이 탈출기']]></title>
-        <id>https://www.esquirekorea.co.kr/article/80731</id>
-        <link href="https://www.esquirekorea.co.kr/article/80731"/>
-        <updated>2023-10-11T15:19:29.670Z</updated>
-        <content type="html"><![CDATA[‘테린이’란 오명을 벗기 위해 스무 명의 클럽 에스콰이어 회원들이 주1회 3시간씩 모여 테니스...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나사, 2040년까지 달에 주택 단지 건설]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81223</id>
-        <link href="https://www.esquirekorea.co.kr/article/81223"/>
-        <updated>2023-10-11T09:19:24.609Z</updated>
-        <content type="html"><![CDATA[달나라에서의 숙박이 현실로?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로버트 나바, 슈퍼 배드로 슈퍼 스타가 되다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80697</id>
-        <link href="https://www.esquirekorea.co.kr/article/80697"/>
-        <updated>2023-10-11T09:19:24.611Z</updated>
-        <content type="html"><![CDATA[미국 화단의 떠오르는 슈퍼스타 로버트 나바의 그림은 정말 나쁘다. 나쁜 걸로 따지면, 적수가 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도시에는 '토머슨'이라는 유령이 산다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81193</id>
-        <link href="https://www.esquirekorea.co.kr/article/81193"/>
-        <updated>2023-10-10T15:20:32.504Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내일(7일) 여의도 '서울세계불꽃축제 2023' 개최]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81179</id>
-        <link href="https://www.esquirekorea.co.kr/article/81179"/>
-        <updated>2023-10-09T15:20:40.028Z</updated>
-        <content type="html"><![CDATA[한국을 포함한 중국, 폴란드 3개국이 참가한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예쁘고 낯선 것들을 조심해야 하는 이유]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81163</id>
-        <link href="https://www.esquirekorea.co.kr/article/81163"/>
-        <updated>2023-10-09T15:20:40.031Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6년 만에 돌아온 이효리]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81150</id>
-        <link href="https://www.esquirekorea.co.kr/article/81150"/>
-        <updated>2023-10-09T09:19:42.803Z</updated>
-        <content type="html"><![CDATA[신곡 '후디에 반바지'는 10월 12일 공개된다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 12 Oct 2023 09:20:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[20세기 거장들의 작품과 놀이공원을 합친 '아트 테마파크'가 돌아온다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81070</link>
+            <guid>https://www.esquirekorea.co.kr/article/81070</guid>
+            <pubDate>Thu, 12 Oct 2023 03:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[오스트리아 출신의 예술가 안드레 헬러가 창조한 아방가르드 카니발, 20세기 거장들의 작품과 놀...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/cdb2ca60-2f58-476c-80e3-0dd2278e7bed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클럽 에스콰이어 '테린이 탈출기']]></title>
+            <link>https://www.esquirekorea.co.kr/article/80731</link>
+            <guid>https://www.esquirekorea.co.kr/article/80731</guid>
+            <pubDate>Wed, 11 Oct 2023 15:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[‘테린이’란 오명을 벗기 위해 스무 명의 클럽 에스콰이어 회원들이 주1회 3시간씩 모여 테니스...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/05dbbfee-125f-42d7-ab9b-e80dd838a402.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나사, 2040년까지 달에 주택 단지 건설]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81223</link>
+            <guid>https://www.esquirekorea.co.kr/article/81223</guid>
+            <pubDate>Wed, 11 Oct 2023 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[달나라에서의 숙박이 현실로?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/09/4e10fd9e-586b-4a63-8834-58fc307114d2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로버트 나바, 슈퍼 배드로 슈퍼 스타가 되다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80697</link>
+            <guid>https://www.esquirekorea.co.kr/article/80697</guid>
+            <pubDate>Wed, 11 Oct 2023 09:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[미국 화단의 떠오르는 슈퍼스타 로버트 나바의 그림은 정말 나쁘다. 나쁜 걸로 따지면, 적수가 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/09/e9fc9f5d-9e77-4560-9cd1-786e233705a4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도시에는 '토머슨'이라는 유령이 산다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81193</link>
+            <guid>https://www.esquirekorea.co.kr/article/81193</guid>
+            <pubDate>Tue, 10 Oct 2023 15:20:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/07/87b07904-2839-4368-8753-135b200fd1d1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내일(7일) 여의도 '서울세계불꽃축제 2023' 개최]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81179</link>
+            <guid>https://www.esquirekorea.co.kr/article/81179</guid>
+            <pubDate>Mon, 09 Oct 2023 15:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[한국을 포함한 중국, 폴란드 3개국이 참가한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/784a86be-1071-4223-8ed1-4d070b0d4359.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예쁘고 낯선 것들을 조심해야 하는 이유]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81163</link>
+            <guid>https://www.esquirekorea.co.kr/article/81163</guid>
+            <pubDate>Mon, 09 Oct 2023 15:20:40 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/0e09b3b1-da12-4479-849a-d824bc135bb7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[6년 만에 돌아온 이효리]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81150</link>
+            <guid>https://www.esquirekorea.co.kr/article/81150</guid>
+            <pubDate>Mon, 09 Oct 2023 09:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[신곡 '후디에 반바지'는 10월 12일 공개된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/6a1e2207-3541-481c-aab3-080073c25295.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신이 '극성 부모'가 되지 않을 거라 확신할 수 있을까?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81112</link>
+            <guid>https://www.esquirekorea.co.kr/article/81112</guid>
+            <pubDate>Thu, 12 Oct 2023 09:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/660ba2d6-4af1-4015-b580-6dd41365ecef.jpg');">
+            <a href="/article/81112">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81112">
+                    당신이 '극성 부모'가 되지 않을 거라 확신할 수 있을까?                </a>
+            </em>
+            <p class="excerpt"></p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/660ba2d6-4af1-4015-b580-6dd41365ecef.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을 노상을 위한 찐 노포 '슈퍼' 야장 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81093</link>
+            <guid>https://www.esquirekorea.co.kr/article/81093</guid>
+            <pubDate>Thu, 12 Oct 2023 09:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/6f718823-102c-492b-ac95-333e704d8e78.jpg');">
+            <a href="/article/81093">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81093">
+                    가을 노상을 위한 찐 노포 '슈퍼' 야장 4                </a>
+            </em>
+            <p class="excerpt">가성비 넘치는 안주에 야장 감성까지 일석이조.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/6f718823-102c-492b-ac95-333e704d8e78.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예술 작품 속 시계 이야기]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80730</link>
+            <guid>https://www.esquirekorea.co.kr/article/80730</guid>
+            <pubDate>Thu, 12 Oct 2023 09:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/41ef796e-c879-467c-947e-d3c526e5f980.jpg');">
+            <a href="/article/80730">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/80730">
+                    예술 작품 속 시계 이야기                </a>
+            </em>
+            <p class="excerpt">17세기부터 현대까지. 8개의 예술 작품을 통해 알아본 시대별 시계의 변천과 의미.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/41ef796e-c879-467c-947e-d3c526e5f980.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을 제철인 고등어 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81053</link>
+            <guid>https://www.esquirekorea.co.kr/article/81053</guid>
+            <pubDate>Thu, 12 Oct 2023 09:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/ca8cac35-8fad-4f16-a1f1-6be4f3e83616.jpg');">
+            <a href="/article/81053">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81053">
+                    가을 제철인 고등어 맛집 4                 </a>
+            </em>
+            <p class="excerpt">제철 고등어를 끝내주게 즐기는 법. </p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/ca8cac35-8fad-4f16-a1f1-6be4f3e83616.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에버랜드 내부 맛집 추천 2023 ver.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81051</link>
+            <guid>https://www.esquirekorea.co.kr/article/81051</guid>
+            <pubDate>Thu, 12 Oct 2023 09:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/5a33591c-925b-4882-808e-ae841213bcc8.jpg');">
+            <a href="/article/81051">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81051">
+                    에버랜드 내부 맛집 추천 2023 ver.                </a>
+            </em>
+            <p class="excerpt">에버랜드 가을 장미축제 시작! ‘푸바오 테마존’ 장미원 갔다가 가볼 만한 내부 맛집들을 추천...</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/5a33591c-925b-4882-808e-ae841213bcc8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<에스콰이어> 에디터들이 추천하는 10월의 책]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81045</link>
+            <guid>https://www.esquirekorea.co.kr/article/81045</guid>
+            <pubDate>Thu, 12 Oct 2023 09:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/d6119cb3-a1f2-47a2-9325-51e0e8c892b2.jpg');">
+            <a href="/article/81045">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81045">
+                    &lt;에스콰이어&gt; 에디터들이 추천하는 10월의 책                </a>
+            </em>
+            <p class="excerpt"></p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/d6119cb3-a1f2-47a2-9325-51e0e8c892b2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[등산러 맛집 가이드 ‘북한산’ 편]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81027</link>
+            <guid>https://www.esquirekorea.co.kr/article/81027</guid>
+            <pubDate>Thu, 12 Oct 2023 09:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/640d48b5-7bfa-46d5-a42d-2c08f160df67.jpg');">
+            <a href="/article/81027">
+                <img alt="" src="">
+            </a>
+        </div>
+<!--        <div class="imgbox">-->
+<!--            <a href="/article/--><!--">-->
+<!--                <img src="--><!--" alt="--><!--">-->
+<!--            </a>-->
+<!--        </div>-->
+        <div class="textbox">
+                <em class="title">
+                <a href="/article/81027">
+                    등산러 맛집 가이드 ‘북한산’ 편                </a>
+            </em>
+            <p class="excerpt">추석 연휴에 즐기기 좋은 등산의 맛.</p>
+        </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/640d48b5-7bfa-46d5-a42d-2c08f160df67.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불경기에 집값이 계속 오르는 이유는?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80729</link>
+            <guid>https://www.esquirekorea.co.kr/article/80729</guid>
+            <pubDate>Thu, 12 Oct 2023 09:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/495287f8-eaf0-450b-a856-15d79d96399b.jpg');">
+                <a href="/article/80729">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80729">
+                        불경기에 집값이 계속 오르는 이유는?                    </a>
+                </em>
+                <p class="excerpt">2년 전 ‘벼락거지’라는 말을 유행시키며 뜨겁게 타올랐던 ‘영끌’은 지난해 금리 인상으로 차...</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/495287f8-eaf0-450b-a856-15d79d96399b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한가위에 뜨는 올해 마지막 슈퍼문]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81019</link>
+            <guid>https://www.esquirekorea.co.kr/article/81019</guid>
+            <pubDate>Thu, 12 Oct 2023 09:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/29/2b5cde5f-a2ed-4fcc-b296-7dd4a58b534f.jpg');">
+                <a href="/article/81019">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/81019">
+                        한가위에 뜨는 올해 마지막 슈퍼문                    </a>
+                </em>
+                <p class="excerpt">이번 슈퍼문의 오른쪽엔 토성, 왼쪽엔 목성도 함께 관측된다.</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/29/2b5cde5f-a2ed-4fcc-b296-7dd4a58b534f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프라다가 서울, 영화 예술, 현대 문화를 포착한 방식]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80895</link>
+            <guid>https://www.esquirekorea.co.kr/article/80895</guid>
+            <pubDate>Thu, 12 Oct 2023 09:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/29/52bb9a2b-353b-49d1-93ad-26767594b65f.jpg');">
+                <a href="/article/80895">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80895">
+                        프라다가 서울, 영화 예술, 현대 문화를 포착한 방식                    </a>
+                </em>
+                <p class="excerpt">프라다가 본 서울의 문화는 이토록 깊고, 이색적이며, 풍성했다. 서울이 경험한 프라다의 안목과...</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/29/52bb9a2b-353b-49d1-93ad-26767594b65f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사진'과 '사진이 아닌 것' 사이 가장 미묘한 영역에서 활동하는 다섯 포토그래퍼]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80699</link>
+            <guid>https://www.esquirekorea.co.kr/article/80699</guid>
+            <pubDate>Thu, 12 Oct 2023 09:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/29/46c5d51c-69cc-4880-8a21-92a10aeb26b6.jpg');">
+                <a href="/article/80699">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/80699">
+                        사진'과 '사진이 아닌 것' 사이 가장 미묘한 영역에서 활동하는 다섯 포토그래퍼                    </a>
+                </em>
+                <p class="excerpt">AI 제너레이터로 후보정을 하는 포토그래퍼부터 아예 '촬영' 자체를 하지 않고 사진을 만드는 ...</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/29/46c5d51c-69cc-4880-8a21-92a10aeb26b6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘천박사 퇴마 연구소: 설경의 비밀’로 돌아온 강동원 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81012</link>
+            <guid>https://www.esquirekorea.co.kr/article/81012</guid>
+            <pubDate>Thu, 12 Oct 2023 09:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/9dd9a033-2f30-4ac8-912b-328ec6788f12.jpg');">
+                <a href="/article/81012">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/81012">
+                        ‘천박사 퇴마 연구소: 설경의 비밀’로 돌아온 강동원 맛집 4                    </a>
+                </em>
+                <p class="excerpt">강동원이 부모님 모시고 두 번이나 방문한 맛집은?</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/9dd9a033-2f30-4ac8-912b-328ec6788f12.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국 스포츠는 어디로 가고 있는가?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81009</link>
+            <guid>https://www.esquirekorea.co.kr/article/81009</guid>
+            <pubDate>Thu, 12 Oct 2023 09:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/a09c32f5-2db8-4e1f-8632-b50723ed194e.jpg');">
+                <a href="/article/81009">
+                    <img alt="" src="">
+                </a>
+            </div>
+<!--            <div class="imgbox">-->
+<!--                <a href="/article/--><!--">-->
+<!--                    <img src="--><!--" alt="--><!--">-->
+<!--                </a>-->
+<!--            </div>-->
+            <div class="textbox">
+                        <em class="title">
+                    <a href="/article/81009">
+                        한국 스포츠는 어디로 가고 있는가?                    </a>
+                </em>
+                <p class="excerpt">국내 프로스포츠의 인기는 국제 대회 성적에 따라 좌우된다는 말이 통용되던 시절이 있었다. 그...</p>
+            </div>]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/a09c32f5-2db8-4e1f-8632-b50723ed194e.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
