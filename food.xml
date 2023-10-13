@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 15:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 03:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을 노상을 위한 찐 노포 '슈퍼' 야장 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81093</link>
+            <guid>https://www.esquirekorea.co.kr/article/81093</guid>
+            <pubDate>Fri, 13 Oct 2023 03:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[가성비 넘치는 안주에 야장 감성까지 일석이조.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/6f718823-102c-492b-ac95-333e704d8e78.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박재범의 손글씨로 디자인된 한글날 기념 원소주?]]></title>
             <link>https://www.esquirekorea.co.kr/article/81068</link>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 02 Oct 2023 09:19:57 GMT</pubDate>
             <content:encoded><![CDATA[고민 없이 언제든 방문 환영.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/280ab940-5b6f-4fec-9bd8-616e2f69b05c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 ‘불’피자 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80831</link>
-            <guid>https://www.esquirekorea.co.kr/article/80831</guid>
-            <pubDate>Mon, 02 Oct 2023 03:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[피자에 불붙었다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/8bbdcdf1-9075-4490-b085-3a2da0037f7a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

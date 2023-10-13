@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 15:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 03:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[명품의 조건]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81255</link>
+            <guid>https://www.esquirekorea.co.kr/article/81255</guid>
+            <pubDate>Fri, 13 Oct 2023 03:19:53 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/a41fd12f-6fd2-474b-ad57-0cc1e2f471a7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[20세기 거장들의 작품과 놀이공원을 합친 '아트 테마파크'가 돌아온다]]></title>
             <link>https://www.esquirekorea.co.kr/article/81070</link>
@@ -60,14 +67,6 @@
             <guid>https://www.esquirekorea.co.kr/article/81163</guid>
             <pubDate>Mon, 09 Oct 2023 15:20:40 GMT</pubDate>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/0e09b3b1-da12-4479-849a-d824bc135bb7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6년 만에 돌아온 이효리]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81150</link>
-            <guid>https://www.esquirekorea.co.kr/article/81150</guid>
-            <pubDate>Mon, 09 Oct 2023 09:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[신곡 '후디에 반바지'는 10월 12일 공개된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/6a1e2207-3541-481c-aab3-080073c25295.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
