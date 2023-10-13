@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 03:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 09:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 11 Oct 2023 03:17:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMDZfMTY1/MDAxNjk2NTcyMzc1NTU3.U6wPL2SV9vfSw1u7ZwzA7nVdZh5gnS0Sio9ax0k5Qxwg.AzqyHxjnB3coL_zZ8tezDbSlrYVL7OTPUcTQtRA7pP4g.JPEG/IeGF-_Q4ykzWnPCdNCRDXT0U-QKg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을 노상을 위한 찐 노포 '슈퍼' 야장 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36685204&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36685204&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Fri, 13 Oct 2023 09:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMDZfNzgg/MDAxNjk2NTY5NzM4NzEy.lnk8Nu8EmYUH_pqJC2JzoQ3KTDnahuofCG80DS9P45cg.mHu1yamxD_TPP7NsiSespmT8xjM75oAn_4uutTXeWvog.JPEG/IWgrq734ZXMZ4KiIGbWALMT5B8jU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가을 제철인 고등어 맛집 4]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 22 Sep 2023 03:17:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTJfOTAg/MDAxNjk0NDk0MTM0Nzc3.ogvRLsrUlR6KPQr5dbj9yNkDiCxSSY2p8zpkWxQrvfYg.A6H6AawjE1pyLUEJ0GnczbC7PvlSWBIsynmje_UUcLog.JPEG/I-zw1Agd1h34YOKIfohyBdIDJ3yM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메뉴에 특허를 보유한 피자 맛집 3]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36556757&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36556757&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 21 Sep 2023 09:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTFfMTg2/MDAxNjk0NDAyNDk1Mzg4.yoXGDDbAuI5fYvQ8npBIDfC-L37rwkuyW2yF6lNuOkAg.b04GR_GceyQmfM9gwgqr7RiZkA7N8T0vSr2M5JCwBg4g.JPEG/Ikfl4DqMq7BW-inIWb1CTomLtj10.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
