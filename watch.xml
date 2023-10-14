@@ -1,62 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/watch</id>
-    <title>에스콰이어 코리아 ─ 와치</title>
-    <updated>2023-10-14T03:19:20.736Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[4개의 하이엔드 워치 브랜드와 나눈 대담]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81194</id>
-        <link href="https://www.esquirekorea.co.kr/article/81194"/>
-        <updated>2023-10-10T03:18:34.251Z</updated>
-        <content type="html"><![CDATA[번뜩이는 아이디어와 획기적인 메커니즘으로 새로운 우주를 만드는 이들. 독창적인 방식으로 시간...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태그호이어 까레라와 포르쉐 911의 탄생 60주년을 기념하며]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80768</id>
-        <link href="https://www.esquirekorea.co.kr/article/80768"/>
-        <updated>2023-10-08T03:18:05.249Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워치 컬렉터 4인의 시계]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80918</id>
-        <link href="https://www.esquirekorea.co.kr/article/80918"/>
-        <updated>2023-10-07T15:16:21.308Z</updated>
-        <content type="html"><![CDATA[탁월한 취향과 순수한 애정으로 시계 수집에 몰두해온 4명의 컬렉터. &lt;에스콰이어&gt;를 위해 특별한...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 차원의 시계]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80898</id>
-        <link href="https://www.esquirekorea.co.kr/article/80898"/>
-        <updated>2023-10-07T15:16:21.311Z</updated>
-        <content type="html"><![CDATA[중첩된 디지털 이미지 사이, 서로 다른 형태로 부유하는 9개의 시계.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클래식 워치의 표본, 까르띠에 탱크 아메리칸]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81022</id>
-        <link href="https://www.esquirekorea.co.kr/article/81022"/>
-        <updated>2023-10-07T15:16:21.318Z</updated>
-        <content type="html"><![CDATA[까르띠에 탱크 아메리칸이 가진 순수한 미학적 코드.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루이 비통 땅부르가 다시 태어났다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80650</id>
-        <link href="https://www.esquirekorea.co.kr/article/80650"/>
-        <updated>2023-10-07T03:17:57.569Z</updated>
-        <content type="html"><![CDATA[대담할 정도로 미니멀한 외관에 깃든 21년의 노하우, 바야흐로 뉴 땅부르의 시대다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Born from the Sea]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80728</id>
-        <link href="https://www.esquirekorea.co.kr/article/80728"/>
-        <updated>2023-10-04T15:19:45.500Z</updated>
-        <content type="html"><![CDATA[오메가 씨마스터의 대체 불가한 정체성.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오데마 피게 로열 오크 오프쇼어 탄생 30주년 그 빛나는 순간]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80655</id>
-        <link href="https://www.esquirekorea.co.kr/article/80655"/>
-        <updated>2023-10-02T15:19:32.801Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 와치</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 14 Oct 2023 09:18:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4개의 하이엔드 워치 브랜드와 나눈 대담]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81194</link>
+            <guid>https://www.esquirekorea.co.kr/article/81194</guid>
+            <pubDate>Tue, 10 Oct 2023 03:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[번뜩이는 아이디어와 획기적인 메커니즘으로 새로운 우주를 만드는 이들. 독창적인 방식으로 시간...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/07/668223e4-b8c6-4c61-978c-fef06966ddeb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태그호이어 까레라와 포르쉐 911의 탄생 60주년을 기념하며]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80768</link>
+            <guid>https://www.esquirekorea.co.kr/article/80768</guid>
+            <pubDate>Sun, 08 Oct 2023 03:18:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/b8c3f016-38b5-4ee8-b6ba-ed3a93e80c02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[워치 컬렉터 4인의 시계]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80918</link>
+            <guid>https://www.esquirekorea.co.kr/article/80918</guid>
+            <pubDate>Sat, 07 Oct 2023 15:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[탁월한 취향과 순수한 애정으로 시계 수집에 몰두해온 4명의 컬렉터. &lt;에스콰이어&gt;를 위해 특별한...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/03/ab39eef5-0690-4636-bae6-a0b6dc7c1913.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 차원의 시계]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80898</link>
+            <guid>https://www.esquirekorea.co.kr/article/80898</guid>
+            <pubDate>Sat, 07 Oct 2023 15:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[중첩된 디지털 이미지 사이, 서로 다른 형태로 부유하는 9개의 시계.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/01/a1e27434-941b-48e6-9cf0-761267f3d2f2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클래식 워치의 표본, 까르띠에 탱크 아메리칸]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81022</link>
+            <guid>https://www.esquirekorea.co.kr/article/81022</guid>
+            <pubDate>Sat, 07 Oct 2023 15:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[까르띠에 탱크 아메리칸이 가진 순수한 미학적 코드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/29/2675ddf9-115c-4a15-8046-0da0c727fcca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[루이 비통 땅부르가 다시 태어났다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80650</link>
+            <guid>https://www.esquirekorea.co.kr/article/80650</guid>
+            <pubDate>Sat, 07 Oct 2023 03:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[대담할 정도로 미니멀한 외관에 깃든 21년의 노하우, 바야흐로 뉴 땅부르의 시대다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/28/c753c1d2-268c-450a-92db-b8d5c477d7be.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Born from the Sea]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80728</link>
+            <guid>https://www.esquirekorea.co.kr/article/80728</guid>
+            <pubDate>Wed, 04 Oct 2023 15:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[오메가 씨마스터의 대체 불가한 정체성.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/f759fbd9-df83-445b-9436-898e4c176a8b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오데마 피게 로열 오크 오프쇼어 탄생 30주년 그 빛나는 순간]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80655</link>
+            <guid>https://www.esquirekorea.co.kr/article/80655</guid>
+            <pubDate>Mon, 02 Oct 2023 15:19:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/eb5811bc-8ec0-4c47-8822-8b1ba1273851.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
