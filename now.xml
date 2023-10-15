@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/now</id>
     <title>에스콰이어 코리아 ─ 나우</title>
-    <updated>2023-10-15T03:19:38.376Z</updated>
+    <updated>2023-10-15T09:16:53.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우상혁, 한국 육상 최초로 다이아몬드리그 파이널 우승]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80661</id>
+        <link href="https://www.esquirekorea.co.kr/article/80661"/>
+        <updated>2023-10-15T09:16:42.366Z</updated>
+        <content type="html"><![CDATA[3차 시기에 2m35를 넘어 정상에 올랐다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[셀린느, 뷔와 함께한 도쿄에서의 어느 오후]]></title>
         <id>https://www.esquirekorea.co.kr/article/80643</id>
@@ -53,12 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/79916"/>
         <updated>2023-09-14T09:18:35.375Z</updated>
         <content type="html"><![CDATA[서울, 마이 소울(Seoul, MY Soul)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[물속에서 시속 11km로 움직일 수 있게 해주는 '제트팩']]></title>
-        <id>https://www.esquirekorea.co.kr/article/79870</id>
-        <link href="https://www.esquirekorea.co.kr/article/79870"/>
-        <updated>2023-09-01T09:18:53.255Z</updated>
-        <content type="html"><![CDATA[마이클 펠프스 보다 빠르게 움직일 수 있다.]]></content>
     </entry>
 </feed>

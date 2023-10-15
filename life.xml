@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 03:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 09:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[등산러 맛집 가이드 ‘아차산’ 편]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81334</link>
+            <guid>https://www.esquirekorea.co.kr/article/81334</guid>
+            <pubDate>Sun, 15 Oct 2023 09:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[떡볶이도 좋지만 등산 후에는 기력 회복 보양식!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/f361b0bc-a930-4583-8844-803782486e6c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[돈두댓] 다이어트 효과 확실한 섹스 체위]]></title>
             <link>https://www.esquirekorea.co.kr/article/81315</link>
@@ -61,14 +69,6 @@
             <pubDate>Wed, 11 Oct 2023 15:19:29 GMT</pubDate>
             <content:encoded><![CDATA[‘테린이’란 오명을 벗기 위해 스무 명의 클럽 에스콰이어 회원들이 주1회 3시간씩 모여 테니스...]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/05dbbfee-125f-42d7-ab9b-e80dd838a402.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나사, 2040년까지 달에 주택 단지 건설]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81223</link>
-            <guid>https://www.esquirekorea.co.kr/article/81223</guid>
-            <pubDate>Wed, 11 Oct 2023 09:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[달나라에서의 숙박이 현실로?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/09/4e10fd9e-586b-4a63-8834-58fc307114d2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
