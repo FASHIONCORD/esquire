@@ -1,63 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/life</id>
-    <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-10-17T03:20:37.193Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[등산러 맛집 가이드 ‘아차산’ 편]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81334</id>
-        <link href="https://www.esquirekorea.co.kr/article/81334"/>
-        <updated>2023-10-15T09:16:23.925Z</updated>
-        <content type="html"><![CDATA[떡볶이도 좋지만 등산 후에는 기력 회복 보양식!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[돈두댓] 다이어트 효과 확실한 섹스 체위]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81315</id>
-        <link href="https://www.esquirekorea.co.kr/article/81315"/>
-        <updated>2023-10-14T15:18:01.796Z</updated>
-        <content type="html"><![CDATA[추석 연휴에 '급찐살'을 행복하게 빼는 방법]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웰컴, 다니엘 시저]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81304</id>
-        <link href="https://www.esquirekorea.co.kr/article/81304"/>
-        <updated>2023-10-14T03:18:42.398Z</updated>
-        <content type="html"><![CDATA[5년 만의 단독 내한 공연 개최.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손바닥 만한 초밥? 대왕 음식 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81283</id>
-        <link href="https://www.esquirekorea.co.kr/article/81283"/>
-        <updated>2023-10-13T15:19:39.570Z</updated>
-        <content type="html"><![CDATA[왕 크고 왕 맛있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부상 투혼, 아시안게임 배드민턴 2관왕 안세영 선수 TMI 12.]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81279</id>
-        <link href="https://www.esquirekorea.co.kr/article/81279"/>
-        <updated>2023-10-13T09:18:33.506Z</updated>
-        <content type="html"><![CDATA[드라마 ‘라켓소년단’의 캐릭터는 안세영을 모티브로 했다고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명품의 조건]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81255</id>
-        <link href="https://www.esquirekorea.co.kr/article/81255"/>
-        <updated>2023-10-13T03:19:53.500Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20세기 거장들의 작품과 놀이공원을 합친 '아트 테마파크'가 돌아온다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81070</id>
-        <link href="https://www.esquirekorea.co.kr/article/81070"/>
-        <updated>2023-10-12T03:19:09.143Z</updated>
-        <content type="html"><![CDATA[오스트리아 출신의 예술가 안드레 헬러가 창조한 아방가르드 카니발, 20세기 거장들의 작품과 놀...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클럽 에스콰이어 '테린이 탈출기']]></title>
-        <id>https://www.esquirekorea.co.kr/article/80731</id>
-        <link href="https://www.esquirekorea.co.kr/article/80731"/>
-        <updated>2023-10-11T15:19:29.670Z</updated>
-        <content type="html"><![CDATA[‘테린이’란 오명을 벗기 위해 스무 명의 클럽 에스콰이어 회원들이 주1회 3시간씩 모여 테니스...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 17 Oct 2023 09:20:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고전 영화와 와인 한 잔? 이색 영화관 추천 2023 ver.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81338</link>
+            <guid>https://www.esquirekorea.co.kr/article/81338</guid>
+            <pubDate>Tue, 17 Oct 2023 09:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[“당신의 눈동자에 건배”]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/3dcc323d-a0e8-462c-b558-fd037b23af7a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[등산러 맛집 가이드 ‘아차산’ 편]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81334</link>
+            <guid>https://www.esquirekorea.co.kr/article/81334</guid>
+            <pubDate>Sun, 15 Oct 2023 09:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[떡볶이도 좋지만 등산 후에는 기력 회복 보양식!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/f361b0bc-a930-4583-8844-803782486e6c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[돈두댓] 다이어트 효과 확실한 섹스 체위]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81315</link>
+            <guid>https://www.esquirekorea.co.kr/article/81315</guid>
+            <pubDate>Sat, 14 Oct 2023 15:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[추석 연휴에 '급찐살'을 행복하게 빼는 방법]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/9b1cb3f7-2ef1-469f-9af1-748ba9cab7f6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웰컴, 다니엘 시저]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81304</link>
+            <guid>https://www.esquirekorea.co.kr/article/81304</guid>
+            <pubDate>Sat, 14 Oct 2023 03:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[5년 만의 단독 내한 공연 개최.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/d2700ea9-bb5a-4103-b1f3-a5f53365ccc9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손바닥 만한 초밥? 대왕 음식 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81283</link>
+            <guid>https://www.esquirekorea.co.kr/article/81283</guid>
+            <pubDate>Fri, 13 Oct 2023 15:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[왕 크고 왕 맛있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/37deebd2-7667-4985-93c2-7882313b3eee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부상 투혼, 아시안게임 배드민턴 2관왕 안세영 선수 TMI 12.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81279</link>
+            <guid>https://www.esquirekorea.co.kr/article/81279</guid>
+            <pubDate>Fri, 13 Oct 2023 09:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 ‘라켓소년단’의 캐릭터는 안세영을 모티브로 했다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/729429c3-8d69-4845-9958-b7f756661e77.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[명품의 조건]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81255</link>
+            <guid>https://www.esquirekorea.co.kr/article/81255</guid>
+            <pubDate>Fri, 13 Oct 2023 03:19:53 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/a41fd12f-6fd2-474b-ad57-0cc1e2f471a7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[20세기 거장들의 작품과 놀이공원을 합친 '아트 테마파크'가 돌아온다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81070</link>
+            <guid>https://www.esquirekorea.co.kr/article/81070</guid>
+            <pubDate>Thu, 12 Oct 2023 03:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[오스트리아 출신의 예술가 안드레 헬러가 창조한 아방가르드 카니발, 20세기 거장들의 작품과 놀...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/cdb2ca60-2f58-476c-80e3-0dd2278e7bed.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
