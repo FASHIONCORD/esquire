@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 09:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 15:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베이비몬스터, 드디어 데뷔 확정]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81239</link>
+            <guid>https://www.esquirekorea.co.kr/article/81239</guid>
+            <pubDate>Tue, 17 Oct 2023 15:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[11월 모습을 드러낸다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/1f5ac966-ce1e-4173-994e-8e0649abf93b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[토미 캐시가 패션 악동이 된 이유]]></title>
             <link>https://www.esquirekorea.co.kr/article/80761</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 05 Oct 2023 09:20:11 GMT</pubDate>
             <content:encoded><![CDATA[앨범은 10월 13일 발매된다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/b8608471-bea4-41b8-9223-d26635a045da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part1. 양동근은 '본인이 그런 걸 들어본 적이 없기 때문에' 가장의 삶을 노래한다고 했다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80726</link>
-            <guid>https://www.esquirekorea.co.kr/article/80726</guid>
-            <pubDate>Wed, 04 Oct 2023 09:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[양동근이 문득 생각났다는 듯 천천히 꺼내놓은 이야기들. 음악과 연기, 예술과 책임, 불완전한 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/05bc9927-8ac1-4b85-b6ce-1c593726a2a2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
