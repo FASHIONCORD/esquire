@@ -1,63 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/food</id>
-    <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2023-10-17T15:21:39.881Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[용금맥축제 시작! 용산 용문시장 해장국 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81353</id>
-        <link href="https://www.esquirekorea.co.kr/article/81353"/>
-        <updated>2023-10-17T09:19:28.891Z</updated>
-        <content type="html"><![CDATA[용문시장 황금 맥주 축제가 다시 돌아왔다. 맥주 마시고 해장하기 좋은 곳들만 소개한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[등산러 맛집 가이드 ‘아차산’ 편]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81334</id>
-        <link href="https://www.esquirekorea.co.kr/article/81334"/>
-        <updated>2023-10-15T09:16:13.531Z</updated>
-        <content type="html"><![CDATA[떡볶이도 좋지만 등산 후에는 기력 회복 보양식!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돔 페리뇽이 2022년의 포도로 빚은 모험의 샴페인을 맛보다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81071</id>
-        <link href="https://www.esquirekorea.co.kr/article/81071"/>
-        <updated>2023-10-14T09:17:24.745Z</updated>
-        <content type="html"><![CDATA[돔 페리뇽이 그해의 샴페인을 공개하는 레벨라시옹의 자리에 &lt;에스콰이어&gt;를 불렀다. 그 어느 해...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손바닥 만한 초밥? 대왕 음식 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81283</id>
-        <link href="https://www.esquirekorea.co.kr/article/81283"/>
-        <updated>2023-10-14T09:17:24.746Z</updated>
-        <content type="html"><![CDATA[왕 크고 왕 맛있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[럭셔리+프리미엄 테킬라의 시대가 열렸다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81204</id>
-        <link href="https://www.esquirekorea.co.kr/article/81204"/>
-        <updated>2023-10-14T09:17:24.749Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청와대 출신 셰프가 운영하는 서울 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81200</id>
-        <link href="https://www.esquirekorea.co.kr/article/81200"/>
-        <updated>2023-10-13T15:19:29.457Z</updated>
-        <content type="html"><![CDATA[대통령 다섯 분을 모셨던 셰프의 특별한 레시피는?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을 노상을 위한 찐 노포 '슈퍼' 야장 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81093</id>
-        <link href="https://www.esquirekorea.co.kr/article/81093"/>
-        <updated>2023-10-13T03:19:36.008Z</updated>
-        <content type="html"><![CDATA[가성비 넘치는 안주에 야장 감성까지 일석이조.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박재범의 손글씨로 디자인된 한글날 기념 원소주?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81068</id>
-        <link href="https://www.esquirekorea.co.kr/article/81068"/>
-        <updated>2023-10-11T15:19:20.605Z</updated>
-        <content type="html"><![CDATA[내일(5일)부터 판매된다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 푸드</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 18 Oct 2023 03:20:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[용금맥축제 시작! 용산 용문시장 해장국 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81353</link>
+            <guid>https://www.esquirekorea.co.kr/article/81353</guid>
+            <pubDate>Tue, 17 Oct 2023 09:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[용문시장 황금 맥주 축제가 다시 돌아왔다. 맥주 마시고 해장하기 좋은 곳들만 소개한다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/9b9b2f62-9093-4855-8842-98c43efdb619.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[등산러 맛집 가이드 ‘아차산’ 편]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81334</link>
+            <guid>https://www.esquirekorea.co.kr/article/81334</guid>
+            <pubDate>Sun, 15 Oct 2023 09:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[떡볶이도 좋지만 등산 후에는 기력 회복 보양식!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/f361b0bc-a930-4583-8844-803782486e6c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돔 페리뇽이 2022년의 포도로 빚은 모험의 샴페인을 맛보다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81071</link>
+            <guid>https://www.esquirekorea.co.kr/article/81071</guid>
+            <pubDate>Sat, 14 Oct 2023 09:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[돔 페리뇽이 그해의 샴페인을 공개하는 레벨라시옹의 자리에 &lt;에스콰이어&gt;를 불렀다. 그 어느 해...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/83cbab79-b50e-460f-a06e-d44e4c59ae80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손바닥 만한 초밥? 대왕 음식 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81283</link>
+            <guid>https://www.esquirekorea.co.kr/article/81283</guid>
+            <pubDate>Sat, 14 Oct 2023 09:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[왕 크고 왕 맛있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/37deebd2-7667-4985-93c2-7882313b3eee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[럭셔리+프리미엄 테킬라의 시대가 열렸다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81204</link>
+            <guid>https://www.esquirekorea.co.kr/article/81204</guid>
+            <pubDate>Sat, 14 Oct 2023 09:17:24 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/08/48b6dc85-1a9e-4dfe-9469-ebe720d3268a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청와대 출신 셰프가 운영하는 서울 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81200</link>
+            <guid>https://www.esquirekorea.co.kr/article/81200</guid>
+            <pubDate>Fri, 13 Oct 2023 15:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[대통령 다섯 분을 모셨던 셰프의 특별한 레시피는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/08/79d196c3-45d1-475a-b266-0bcd3f06a37b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을 노상을 위한 찐 노포 '슈퍼' 야장 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81093</link>
+            <guid>https://www.esquirekorea.co.kr/article/81093</guid>
+            <pubDate>Fri, 13 Oct 2023 03:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[가성비 넘치는 안주에 야장 감성까지 일석이조.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/6f718823-102c-492b-ac95-333e704d8e78.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박재범의 손글씨로 디자인된 한글날 기념 원소주?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81068</link>
+            <guid>https://www.esquirekorea.co.kr/article/81068</guid>
+            <pubDate>Wed, 11 Oct 2023 15:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[내일(5일)부터 판매된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/9e322c7f-7a58-4866-b19b-efc7e7a65b97.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
