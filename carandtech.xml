@@ -1,70 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 카&amp;테크</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 03:20:31 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[싼타페 디자인 비하인드 스토리]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81037</link>
-            <guid>https://www.esquirekorea.co.kr/article/81037</guid>
-            <pubDate>Fri, 13 Oct 2023 09:18:15 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/01/6167b749-a9a6-4496-afc7-a27cdbdd6688.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUV에선 느낄 수 없는 매력을 지닌 자동차들]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81025</link>
-            <guid>https://www.esquirekorea.co.kr/article/81025</guid>
-            <pubDate>Tue, 03 Oct 2023 15:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[SUV와 세단이 점령한 도로 위에서 독보적인 매력을 자아내는 차들이 있다. 효율이라는 가치에 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/bb336eb2-ff8f-413a-8d65-f93851742772.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 가능성을 안겨주는 네 개의 이어폰]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80738</link>
-            <guid>https://www.esquirekorea.co.kr/article/80738</guid>
-            <pubDate>Tue, 03 Oct 2023 15:19:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/0b6ca17c-4eaa-48e6-83b0-b3ebe26575cb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어도비의 세상이 계속될 것을 확신하는 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80955</link>
-            <guid>https://www.esquirekorea.co.kr/article/80955</guid>
-            <pubDate>Mon, 02 Oct 2023 15:19:42 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/e86dc05c-b96d-4ffe-8462-821507bd1be7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거의 모든 포르쉐 모델을 운전할 수 있는 기회, 포르쉐 월드 로드쇼 2023]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80628</link>
-            <guid>https://www.esquirekorea.co.kr/article/80628</guid>
-            <pubDate>Sun, 01 Oct 2023 15:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[신형 카이엔, 911, 718 박스터 등 약 26대의 차종을 직접 주행할 수 있다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/15/d44296f5-f9ce-4746-aeec-9714f897c3bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[접는 스마트폰의 세상]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80603</link>
-            <guid>https://www.esquirekorea.co.kr/article/80603</guid>
-            <pubDate>Sat, 30 Sep 2023 15:16:57 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/06a566ef-4608-4005-90f0-eaba1d9b388f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EV9이 제안하는 새로운 전기차 세상]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80576</link>
-            <guid>https://www.esquirekorea.co.kr/article/80576</guid>
-            <pubDate>Fri, 29 Sep 2023 15:19:31 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/13/5fb9b5fa-93ca-49fc-bb14-3d7c2b3c7133.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가장 아름다운 자동차 10대는 무엇?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80400</link>
-            <guid>https://www.esquirekorea.co.kr/article/80400</guid>
-            <pubDate>Tue, 26 Sep 2023 15:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[자동차 전문가 5인이 꼽은 역사상 가장 아름답다고 일컬어지는 차 10대.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/12/785dce1f-45c8-4f11-b0c9-ff5fcf41b3b0.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/carandtech</id>
+    <title>에스콰이어 코리아 ─ 카&amp;테크</title>
+    <updated>2023-10-18T09:19:04.710Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싼타페 디자인 비하인드 스토리]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81037</id>
+        <link href="https://www.esquirekorea.co.kr/article/81037"/>
+        <updated>2023-10-13T09:18:15.980Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUV에선 느낄 수 없는 매력을 지닌 자동차들]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81025</id>
+        <link href="https://www.esquirekorea.co.kr/article/81025"/>
+        <updated>2023-10-03T15:19:48.220Z</updated>
+        <content type="html"><![CDATA[SUV와 세단이 점령한 도로 위에서 독보적인 매력을 자아내는 차들이 있다. 효율이라는 가치에 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 가능성을 안겨주는 네 개의 이어폰]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80738</id>
+        <link href="https://www.esquirekorea.co.kr/article/80738"/>
+        <updated>2023-10-03T15:19:48.223Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어도비의 세상이 계속될 것을 확신하는 이유]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80955</id>
+        <link href="https://www.esquirekorea.co.kr/article/80955"/>
+        <updated>2023-10-02T15:19:42.174Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거의 모든 포르쉐 모델을 운전할 수 있는 기회, 포르쉐 월드 로드쇼 2023]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80628</id>
+        <link href="https://www.esquirekorea.co.kr/article/80628"/>
+        <updated>2023-10-01T15:16:42.830Z</updated>
+        <content type="html"><![CDATA[신형 카이엔, 911, 718 박스터 등 약 26대의 차종을 직접 주행할 수 있다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[접는 스마트폰의 세상]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80603</id>
+        <link href="https://www.esquirekorea.co.kr/article/80603"/>
+        <updated>2023-09-30T15:16:57.030Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EV9이 제안하는 새로운 전기차 세상]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80576</id>
+        <link href="https://www.esquirekorea.co.kr/article/80576"/>
+        <updated>2023-09-29T15:19:31.681Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가장 아름다운 자동차 10대는 무엇?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80400</id>
+        <link href="https://www.esquirekorea.co.kr/article/80400"/>
+        <updated>2023-09-26T15:19:20.815Z</updated>
+        <content type="html"><![CDATA[자동차 전문가 5인이 꼽은 역사상 가장 아름답다고 일컬어지는 차 10대.]]></content>
+    </entry>
+</feed>
