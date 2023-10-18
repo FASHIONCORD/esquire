@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 09:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 15:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[셀린느 스타일을 완벽하게 소화한 박보검의 패션필름]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81362</link>
+            <guid>https://www.esquirekorea.co.kr/article/81362</guid>
+            <pubDate>Wed, 18 Oct 2023 15:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[단편 영화 같은 박보검 패션필름 공개.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/83990148-bc0a-4c66-b98c-6456ce44861b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나사, 2040년까지 달에 주택 단지 건설]]></title>
             <link>https://www.esquirekorea.co.kr/article/81223</link>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 21 Sep 2023 15:19:49 GMT</pubDate>
             <content:encoded><![CDATA[같은 고기라도 삽으로 퍼주면 더 맛있는 법.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/13ad02ba-8928-45c3-b208-4fd823ed03e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기내에도 도입 예정인 '노 키즈 존']]></title>
-            <link>https://www.esquirekorea.co.kr/article/80317</link>
-            <guid>https://www.esquirekorea.co.kr/article/80317</guid>
-            <pubDate>Sun, 17 Sep 2023 09:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[추가요금만 지불하면 조용한 비행이 가능하다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/c5252845-ad55-45c0-b0e0-f4ad300bace5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
