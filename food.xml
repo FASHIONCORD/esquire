@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/food</id>
     <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2023-10-19T09:19:09.148Z</updated>
+    <updated>2023-10-19T15:20:32.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[야외에서 즐기는 단풍 뷰 카페 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81368</id>
+        <link href="https://www.esquirekorea.co.kr/article/81368"/>
+        <updated>2023-10-19T15:19:29.781Z</updated>
+        <content type="html"><![CDATA[떨어지는 단풍잎 맞으며 커피 한 잔.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[24시간 운영하는 서울 포장마차 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81358</id>
+        <link href="https://www.esquirekorea.co.kr/article/81358"/>
+        <updated>2023-10-19T15:19:29.785Z</updated>
+        <content type="html"><![CDATA[24시간이 모자란 애주가를 위한 술집.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인헌동 주민이 추천하는, 5000원 이하 인헌동 맛집 4]]></title>
         <id>https://www.esquirekorea.co.kr/article/81357</id>
@@ -46,18 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/81283"/>
         <updated>2023-10-14T09:17:24.746Z</updated>
         <content type="html"><![CDATA[왕 크고 왕 맛있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[럭셔리+프리미엄 테킬라의 시대가 열렸다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81204</id>
-        <link href="https://www.esquirekorea.co.kr/article/81204"/>
-        <updated>2023-10-14T09:17:24.749Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청와대 출신 셰프가 운영하는 서울 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81200</id>
-        <link href="https://www.esquirekorea.co.kr/article/81200"/>
-        <updated>2023-10-13T15:19:29.457Z</updated>
-        <content type="html"><![CDATA[대통령 다섯 분을 모셨던 셰프의 특별한 레시피는?]]></content>
     </entry>
 </feed>
