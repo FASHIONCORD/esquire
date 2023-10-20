@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 와치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 03:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 09:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<시간 소설> (3) '스페이스타임머신워치' - 김중혁]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81207</link>
+            <guid>https://www.esquirekorea.co.kr/article/81207</guid>
+            <pubDate>Fri, 20 Oct 2023 09:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[네 명의 소설가에게 시간과 시계에 관한 아주 짧은 이야기를 보내달라 부탁했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/08/92c105a8-19f6-49b5-95b0-0015d0fe5196.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4개의 하이엔드 워치 브랜드와 나눈 대담]]></title>
             <link>https://www.esquirekorea.co.kr/article/81194</link>
@@ -61,13 +69,6 @@
             <pubDate>Wed, 04 Oct 2023 15:19:45 GMT</pubDate>
             <content:encoded><![CDATA[오메가 씨마스터의 대체 불가한 정체성.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/f759fbd9-df83-445b-9436-898e4c176a8b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오데마 피게 로열 오크 오프쇼어 탄생 30주년 그 빛나는 순간]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80655</link>
-            <guid>https://www.esquirekorea.co.kr/article/80655</guid>
-            <pubDate>Mon, 02 Oct 2023 15:19:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/eb5811bc-8ec0-4c47-8822-8b1ba1273851.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
