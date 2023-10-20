@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 15:20:32 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[콘서트를 앞두고 ‘폼 미친’ 영탁 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81445</link>
-            <guid>https://www.esquirekorea.co.kr/article/81445</guid>
-            <pubDate>Thu, 19 Oct 2023 15:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[여기가 찐찐찐찐 찐이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/96e29ee1-f31a-4642-a527-8967e15fc42c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10월에 가기 좋은 전국 가을 축제 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81426</link>
-            <guid>https://www.esquirekorea.co.kr/article/81426</guid>
-            <pubDate>Thu, 19 Oct 2023 15:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[없던 낭만도 차오르는 축제만 모았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/93a759d0-5237-4b6e-8bc2-00a5f3d12f10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국에 상륙하는 현대판 '노아의 방주'?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81422</link>
-            <guid>https://www.esquirekorea.co.kr/article/81422</guid>
-            <pubDate>Thu, 19 Oct 2023 09:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[내년 영구 정박 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/b14b72cc-c8d3-4807-a1fc-dbe2b1cc0026.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뷰는 덤! 프라이빗 오두막 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81399</link>
-            <guid>https://www.esquirekorea.co.kr/article/81399</guid>
-            <pubDate>Thu, 19 Oct 2023 09:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[독채에서 만끽하는 가을 내음.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/f098779b-0d51-4f77-a961-98a68bd0407c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야외에서 즐기는 단풍 뷰 카페 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81368</link>
-            <guid>https://www.esquirekorea.co.kr/article/81368</guid>
-            <pubDate>Wed, 18 Oct 2023 15:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[떨어지는 단풍잎 맞으며 커피 한 잔.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/fd545bd3-3471-4b27-88c3-50f30a7b0013.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또 하나의 손]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81326</link>
-            <guid>https://www.esquirekorea.co.kr/article/81326</guid>
-            <pubDate>Wed, 18 Oct 2023 15:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[다른 소재, 다른 모양의 괄사 도구 활용법.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/90a12323-0c3f-42a7-8a0f-f8aacf906e18.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 신상 오뎅바 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81355</link>
-            <guid>https://www.esquirekorea.co.kr/article/81355</guid>
-            <pubDate>Wed, 18 Oct 2023 09:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[여권 없이 떠나는 일본 오뎅 여행!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/f29ee4fc-01a0-471e-89d3-3194c81a9b2b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[용금맥축제 시작! 용산 용문시장 해장국 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81353</link>
-            <guid>https://www.esquirekorea.co.kr/article/81353</guid>
-            <pubDate>Wed, 18 Oct 2023 03:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[용문시장 황금 맥주 축제가 다시 돌아왔다. 맥주 마시고 해장하기 좋은 곳들만 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/9b9b2f62-9093-4855-8842-98c43efdb619.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/life</id>
+    <title>에스콰이어 코리아 ─ 라이프</title>
+    <updated>2023-10-20T03:19:49.984Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[콘서트를 앞두고 ‘폼 미친’ 영탁 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81445</id>
+        <link href="https://www.esquirekorea.co.kr/article/81445"/>
+        <updated>2023-10-19T15:19:44.205Z</updated>
+        <content type="html"><![CDATA[여기가 찐찐찐찐 찐이다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10월에 가기 좋은 전국 가을 축제 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81426</id>
+        <link href="https://www.esquirekorea.co.kr/article/81426"/>
+        <updated>2023-10-19T15:19:44.207Z</updated>
+        <content type="html"><![CDATA[없던 낭만도 차오르는 축제만 모았다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국에 상륙하는 현대판 '노아의 방주'?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81422</id>
+        <link href="https://www.esquirekorea.co.kr/article/81422"/>
+        <updated>2023-10-19T09:18:34.333Z</updated>
+        <content type="html"><![CDATA[내년 영구 정박 예정.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뷰는 덤! 프라이빗 오두막 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81399</id>
+        <link href="https://www.esquirekorea.co.kr/article/81399"/>
+        <updated>2023-10-19T09:18:34.335Z</updated>
+        <content type="html"><![CDATA[독채에서 만끽하는 가을 내음.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[야외에서 즐기는 단풍 뷰 카페 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81368</id>
+        <link href="https://www.esquirekorea.co.kr/article/81368"/>
+        <updated>2023-10-18T15:19:42.520Z</updated>
+        <content type="html"><![CDATA[떨어지는 단풍잎 맞으며 커피 한 잔.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[또 하나의 손]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81326</id>
+        <link href="https://www.esquirekorea.co.kr/article/81326"/>
+        <updated>2023-10-18T15:19:42.523Z</updated>
+        <content type="html"><![CDATA[다른 소재, 다른 모양의 괄사 도구 활용법.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 신상 오뎅바 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81355</id>
+        <link href="https://www.esquirekorea.co.kr/article/81355"/>
+        <updated>2023-10-18T09:18:40.047Z</updated>
+        <content type="html"><![CDATA[여권 없이 떠나는 일본 오뎅 여행!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용금맥축제 시작! 용산 용문시장 해장국 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81353</id>
+        <link href="https://www.esquirekorea.co.kr/article/81353"/>
+        <updated>2023-10-18T03:19:47.377Z</updated>
+        <content type="html"><![CDATA[용문시장 황금 맥주 축제가 다시 돌아왔다. 맥주 마시고 해장하기 좋은 곳들만 소개한다.]]></content>
+    </entry>
+</feed>

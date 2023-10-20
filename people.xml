@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/people</id>
-    <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-10-19T15:20:32.376Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[웰컴, 다니엘 시저]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81304</id>
-        <link href="https://www.esquirekorea.co.kr/article/81304"/>
-        <updated>2023-10-18T09:18:47.313Z</updated>
-        <content type="html"><![CDATA[5년 만의 단독 내한 공연 개최.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부상 투혼, 아시안게임 배드민턴 2관왕 안세영 선수 TMI 12.]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81279</id>
-        <link href="https://www.esquirekorea.co.kr/article/81279"/>
-        <updated>2023-10-18T03:19:57.230Z</updated>
-        <content type="html"><![CDATA[드라마 ‘라켓소년단’의 캐릭터는 안세영을 모티브로 했다고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베이비몬스터, 드디어 데뷔 확정]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81239</id>
-        <link href="https://www.esquirekorea.co.kr/article/81239"/>
-        <updated>2023-10-17T15:21:20.803Z</updated>
-        <content type="html"><![CDATA[11월 모습을 드러낸다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[토미 캐시가 패션 악동이 된 이유]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80761</id>
-        <link href="https://www.esquirekorea.co.kr/article/80761"/>
-        <updated>2023-10-14T09:17:43.088Z</updated>
-        <content type="html"><![CDATA[토미 캐시를 기상천외한 옷을 입고 패션쇼에 나타나는 별난 사람으로만 알고 있는 사람이 많지만...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6년 만에 돌아온 이효리]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81150</id>
-        <link href="https://www.esquirekorea.co.kr/article/81150"/>
-        <updated>2023-10-14T09:17:43.091Z</updated>
-        <content type="html"><![CDATA[신곡 '후디에 반바지'는 10월 12일 공개된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크 제니 솔로 신곡 공개]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81095</id>
-        <link href="https://www.esquirekorea.co.kr/article/81095"/>
-        <updated>2023-10-11T15:19:38.715Z</updated>
-        <content type="html"><![CDATA[10월 6일 발매 예정.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쟈니의 선택, 키 9피트 VS 얼굴 귤 크기?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81052</id>
-        <link href="https://www.esquirekorea.co.kr/article/81052"/>
-        <updated>2023-10-11T09:19:39.701Z</updated>
-        <content type="html"><![CDATA[그가 디제잉 콜라보를 해보고 싶은 해외 아티스트까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part2. 이찬혁과 이수현은 각각의 이유로 'Love Lee' 활동에서 큰 감명을 받았다고 했다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80693</id>
-        <link href="https://www.esquirekorea.co.kr/article/80693"/>
-        <updated>2023-10-10T09:18:55.605Z</updated>
-        <content type="html"><![CDATA[이찬혁이라는 스펙트럼과 이수현이라는 스펙트럼을 섞을 때 나올 수 있는 것들. AKMU라는 무한한...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 피플</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 20 Oct 2023 03:19:49 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웰컴, 다니엘 시저]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81304</link>
+            <guid>https://www.esquirekorea.co.kr/article/81304</guid>
+            <pubDate>Wed, 18 Oct 2023 09:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[5년 만의 단독 내한 공연 개최.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/d2700ea9-bb5a-4103-b1f3-a5f53365ccc9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부상 투혼, 아시안게임 배드민턴 2관왕 안세영 선수 TMI 12.]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81279</link>
+            <guid>https://www.esquirekorea.co.kr/article/81279</guid>
+            <pubDate>Wed, 18 Oct 2023 03:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[드라마 ‘라켓소년단’의 캐릭터는 안세영을 모티브로 했다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/729429c3-8d69-4845-9958-b7f756661e77.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베이비몬스터, 드디어 데뷔 확정]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81239</link>
+            <guid>https://www.esquirekorea.co.kr/article/81239</guid>
+            <pubDate>Tue, 17 Oct 2023 15:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[11월 모습을 드러낸다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/10/1f5ac966-ce1e-4173-994e-8e0649abf93b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[토미 캐시가 패션 악동이 된 이유]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80761</link>
+            <guid>https://www.esquirekorea.co.kr/article/80761</guid>
+            <pubDate>Sat, 14 Oct 2023 09:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[토미 캐시를 기상천외한 옷을 입고 패션쇼에 나타나는 별난 사람으로만 알고 있는 사람이 많지만...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/06/75174b5c-7a3d-4fe2-ad6a-df9985f18710.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[6년 만에 돌아온 이효리]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81150</link>
+            <guid>https://www.esquirekorea.co.kr/article/81150</guid>
+            <pubDate>Sat, 14 Oct 2023 09:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[신곡 '후디에 반바지'는 10월 12일 공개된다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/05/6a1e2207-3541-481c-aab3-080073c25295.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크 제니 솔로 신곡 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81095</link>
+            <guid>https://www.esquirekorea.co.kr/article/81095</guid>
+            <pubDate>Wed, 11 Oct 2023 15:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[10월 6일 발매 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/2b609a2f-ad9a-420f-9376-20be72a0119a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쟈니의 선택, 키 9피트 VS 얼굴 귤 크기?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81052</link>
+            <guid>https://www.esquirekorea.co.kr/article/81052</guid>
+            <pubDate>Wed, 11 Oct 2023 09:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[그가 디제잉 콜라보를 해보고 싶은 해외 아티스트까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/0a1305ad-1d7e-4670-a3b3-a510d67ac003.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part2. 이찬혁과 이수현은 각각의 이유로 'Love Lee' 활동에서 큰 감명을 받았다고 했다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80693</link>
+            <guid>https://www.esquirekorea.co.kr/article/80693</guid>
+            <pubDate>Tue, 10 Oct 2023 09:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[이찬혁이라는 스펙트럼과 이수현이라는 스펙트럼을 섞을 때 나올 수 있는 것들. AKMU라는 무한한...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/25/8782e08e-97f4-45a0-a7ea-87cbf41c3ec4.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
