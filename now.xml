@@ -1,387 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 나우</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 15:17:57 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[박보검 거울 볼 때 드는 생각?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81363</link>
-            <guid>https://www.esquirekorea.co.kr/article/81363</guid>
-            <pubDate>Thu, 19 Oct 2023 15:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[배우 박보검과 함께한 ‘IN STAR’ 인터뷰 공개!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/e1546da9-a6ec-4633-be36-82cd0e5ad8af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀린느 스타일을 완벽하게 소화한 박보검의 패션필름]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81362</link>
-            <guid>https://www.esquirekorea.co.kr/article/81362</guid>
-            <pubDate>Wed, 18 Oct 2023 15:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[단편 영화 같은 박보검 패션필름 공개.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/83990148-bc0a-4c66-b98c-6456ce44861b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나사, 2040년까지 달에 주택 단지 건설]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81223</link>
-            <guid>https://www.esquirekorea.co.kr/article/81223</guid>
-            <pubDate>Tue, 17 Oct 2023 15:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[달나라에서의 숙박이 현실로?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/09/4e10fd9e-586b-4a63-8834-58fc307114d2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[납작 우동, 히모카와 우동 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80771</link>
-            <guid>https://www.esquirekorea.co.kr/article/80771</guid>
-            <pubDate>Mon, 16 Oct 2023 15:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[밀키트와 비교할 수 없는 맛.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/8d76e4a1-8205-4d2d-9284-2139c5f169e5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우상혁, 한국 육상 최초로 다이아몬드리그 파이널 우승]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80661</link>
-            <guid>https://www.esquirekorea.co.kr/article/80661</guid>
-            <pubDate>Sun, 15 Oct 2023 09:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[3차 시기에 2m35를 넘어 정상에 올랐다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/17/568311ad-0a05-4b0e-adc1-699e22b8aefd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀린느, 뷔와 함께한 도쿄에서의 어느 오후]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80643</link>
-            <guid>https://www.esquirekorea.co.kr/article/80643</guid>
-            <pubDate>Sat, 14 Oct 2023 09:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[다시 만난 BTS 뷔.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/15/479760e1-63ea-47b1-9538-8b89e0e6c7ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수원 토박이가 추천하는 5000원 이하 수원 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80616</link>
-            <guid>https://www.esquirekorea.co.kr/article/80616</guid>
-            <pubDate>Sat, 14 Oct 2023 09:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[5000원의 행복.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/17/08a30506-211e-4c21-90cc-3c86bc43e423.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배우 장기용과 벨루티가 완성한 다가올 계절의 예고편]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80349</link>
-            <guid>https://www.esquirekorea.co.kr/article/80349</guid>
-            <pubDate>Mon, 09 Oct 2023 09:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[컨템퍼러리 럭셔리의 본질, 시대와 유행을 초월한 우아함. 장기용과 벨루티 2023 F/W 컬렉션.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/01/a0c6dd06-c200-466d-ace4-5eca9264d9e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삽으로 고기 퍼주는 집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80334</link>
-            <guid>https://www.esquirekorea.co.kr/article/80334</guid>
-            <pubDate>Sat, 21 Oct 2023 15:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/13ad02ba-8928-45c3-b208-4fd823ed03e4.jpg');">
-            <a href="/article/80334">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
-                <a href="/article/80334">
-                    삽으로 고기 퍼주는 집 4                </a>
-            </em>
-            <p class="excerpt">같은 고기라도 삽으로 퍼주면 더 맛있는 법.</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/14/13ad02ba-8928-45c3-b208-4fd823ed03e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기내에도 도입 예정인 '노 키즈 존']]></title>
-            <link>https://www.esquirekorea.co.kr/article/80317</link>
-            <guid>https://www.esquirekorea.co.kr/article/80317</guid>
-            <pubDate>Sat, 21 Oct 2023 15:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/c5252845-ad55-45c0-b0e0-f4ad300bace5.jpg');">
-            <a href="/article/80317">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
-                <a href="/article/80317">
-                    기내에도 도입 예정인 '노 키즈 존'                </a>
-            </em>
-            <p class="excerpt">추가요금만 지불하면 조용한 비행이 가능하다.</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202308/31/c5252845-ad55-45c0-b0e0-f4ad300bace5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[얼룩이 없는 민무늬 기린의 탄생]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80056</link>
-            <guid>https://www.esquirekorea.co.kr/article/80056</guid>
-            <pubDate>Sat, 21 Oct 2023 15:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/3d13f1d0-cc74-415a-99c6-39185700cbfd.jpg');">
-            <a href="/article/80056">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
-                <a href="/article/80056">
-                    얼룩이 없는 민무늬 기린의 탄생                </a>
-            </em>
-            <p class="excerpt">기린의 이름을 짓기 위해 시민 공모전을 진행 중이다.</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/23/3d13f1d0-cc74-415a-99c6-39185700cbfd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시, 새 브랜드 슬로건 디자인 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79916</link>
-            <guid>https://www.esquirekorea.co.kr/article/79916</guid>
-            <pubDate>Sat, 21 Oct 2023 15:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/a9d6cb99-b1d4-451b-bc12-ad4fe182c0df.jpg');">
-            <a href="/article/79916">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
-                <a href="/article/79916">
-                    서울시, 새 브랜드 슬로건 디자인 공개                </a>
-            </em>
-            <p class="excerpt">서울, 마이 소울(Seoul, MY Soul)</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/17/a9d6cb99-b1d4-451b-bc12-ad4fe182c0df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물속에서 시속 11km로 움직일 수 있게 해주는 '제트팩']]></title>
-            <link>https://www.esquirekorea.co.kr/article/79870</link>
-            <guid>https://www.esquirekorea.co.kr/article/79870</guid>
-            <pubDate>Sat, 21 Oct 2023 15:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/89387d94-2aba-42b8-8e60-bfd1c6ef00f5.jpg');">
-            <a href="/article/79870">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
-                <a href="/article/79870">
-                    물속에서 시속 11km로 움직일 수 있게 해주는 '제트팩'                </a>
-            </em>
-            <p class="excerpt">마이클 펠프스 보다 빠르게 움직일 수 있다.</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/14/89387d94-2aba-42b8-8e60-bfd1c6ef00f5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성남시, 유료 드론 배송 서비스 시작]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79643</link>
-            <guid>https://www.esquirekorea.co.kr/article/79643</guid>
-            <pubDate>Sat, 21 Oct 2023 15:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/3ffbf7d4-c36e-483d-bd4f-73950bbfb6d6.jpg');">
-            <a href="/article/79643">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
-                <a href="/article/79643">
-                    성남시, 유료 드론 배송 서비스 시작                </a>
-            </em>
-            <p class="excerpt">하늘에서 음식이 내린다면</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/3ffbf7d4-c36e-483d-bd4f-73950bbfb6d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[살인적인 더위로 인해 출시 예정인 '폭염 보험']]></title>
-            <link>https://www.esquirekorea.co.kr/article/79642</link>
-            <guid>https://www.esquirekorea.co.kr/article/79642</guid>
-            <pubDate>Sat, 21 Oct 2023 15:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/291b86ff-ced7-4a4d-8815-591e2ac94c47.jpg');">
-            <a href="/article/79642">
-                <img alt="" src="">
-            </a>
-        </div>
-<!--        <div class="imgbox">-->
-<!--            <a href="/article/--><!--">-->
-<!--                <img src="--><!--" alt="--><!--">-->
-<!--            </a>-->
-<!--        </div>-->
-        <div class="textbox">
-                <em class="title">
-                <a href="/article/79642">
-                    살인적인 더위로 인해 출시 예정인 '폭염 보험'                </a>
-            </em>
-            <p class="excerpt">앞서 폭우 보험을 출시한 바가 있다.</p>
-        </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202308/01/291b86ff-ced7-4a4d-8815-591e2ac94c47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시대를 호령하는 아이콘 뷔와의 숨막히는 눈맞춤]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79575</link>
-            <guid>https://www.esquirekorea.co.kr/article/79575</guid>
-            <pubDate>Sat, 21 Oct 2023 15:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/81e11c9e-a8b2-48c4-afab-bf1fd5f04bda.jpg');">
-                <a href="/article/79575">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79575">
-                        시대를 호령하는 아이콘 뷔와의 숨막히는 눈맞춤                    </a>
-                </em>
-                <p class="excerpt">뷔와 함께한 셀린느 23윈터 패션 필름 EP. 3</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/81e11c9e-a8b2-48c4-afab-bf1fd5f04bda.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈빛과 손짓으로 완성한 뷔만의 언어]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79574</link>
-            <guid>https://www.esquirekorea.co.kr/article/79574</guid>
-            <pubDate>Sat, 21 Oct 2023 15:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/8607c41c-8b3f-4124-b4f0-03f2b2e57979.jpg');">
-                <a href="/article/79574">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79574">
-                        눈빛과 손짓으로 완성한 뷔만의 언어                    </a>
-                </em>
-                <p class="excerpt">뷔와 함께한 셀린느 23윈터 패션 필름 EP. 2 </p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/8607c41c-8b3f-4124-b4f0-03f2b2e57979.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시공간을 뒤흔드는 압도적인 피사체 뷔]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79573</link>
-            <guid>https://www.esquirekorea.co.kr/article/79573</guid>
-            <pubDate>Sat, 21 Oct 2023 15:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/62c4dcf6-7ecf-4cee-9b98-2e171fae998d.jpg');">
-                <a href="/article/79573">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79573">
-                        시공간을 뒤흔드는 압도적인 피사체 뷔                    </a>
-                </em>
-                <p class="excerpt">뷔와 함께한 셀린느 23윈터 패션 필름 EP. 1</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/31/62c4dcf6-7ecf-4cee-9b98-2e171fae998d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이열치열, 얼큰하고 칼칼한 김치수제비 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79555</link>
-            <guid>https://www.esquirekorea.co.kr/article/79555</guid>
-            <pubDate>Sat, 21 Oct 2023 15:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/b1114f34-819d-4de4-bb43-ed73d5040a2a.jpg');">
-                <a href="/article/79555">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79555">
-                        이열치열, 얼큰하고 칼칼한 김치수제비 맛집 4                    </a>
-                </em>
-                <p class="excerpt">비 오는 날에도 생각나는 그 맛.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/28/b1114f34-819d-4de4-bb43-ed73d5040a2a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스눕독이 새롭게 선보이는 7가지 맛 아이스크림]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79526</link>
-            <guid>https://www.esquirekorea.co.kr/article/79526</guid>
-            <pubDate>Sat, 21 Oct 2023 15:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/e2693fb6-97d5-4ead-b51e-b2c900c07ff4.jpg');">
-                <a href="/article/79526">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79526">
-                        스눕독이 새롭게 선보이는 7가지 맛 아이스크림                    </a>
-                </em>
-                <p class="excerpt">시리얼, 팬케이크, 오트밀, 아이스크림까지. 그다음 식품은?</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/e2693fb6-97d5-4ead-b51e-b2c900c07ff4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀린느 윈터23 'AGE OF INDIENESS’ 컬렉션 영상 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/79501</link>
-            <guid>https://www.esquirekorea.co.kr/article/79501</guid>
-            <pubDate>Sat, 21 Oct 2023 15:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="imgbox Thumb455" style="background-image: url('https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/e9a8531e-6eed-40fd-80d5-f1168ebde926.jpg');">
-                <a href="/article/79501">
-                    <img alt="" src="">
-                </a>
-            </div>
-<!--            <div class="imgbox">-->
-<!--                <a href="/article/--><!--">-->
-<!--                    <img src="--><!--" alt="--><!--">-->
-<!--                </a>-->
-<!--            </div>-->
-            <div class="textbox">
-                        <em class="title">
-                    <a href="/article/79501">
-                        셀린느 윈터23 'AGE OF INDIENESS’ 컬렉션 영상 공개                    </a>
-                </em>
-                <p class="excerpt">에디 슬리먼이 선보인 로큰롤 무드 정수.</p>
-            </div>]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202307/27/e9a8531e-6eed-40fd-80d5-f1168ebde926.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/now</id>
+    <title>에스콰이어 코리아 ─ 나우</title>
+    <updated>2023-10-22T03:20:22.753Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박보검 거울 볼 때 드는 생각?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81363</id>
+        <link href="https://www.esquirekorea.co.kr/article/81363"/>
+        <updated>2023-10-19T15:20:22.039Z</updated>
+        <content type="html"><![CDATA[배우 박보검과 함께한 ‘IN STAR’ 인터뷰 공개!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[셀린느 스타일을 완벽하게 소화한 박보검의 패션필름]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81362</id>
+        <link href="https://www.esquirekorea.co.kr/article/81362"/>
+        <updated>2023-10-18T15:19:58.397Z</updated>
+        <content type="html"><![CDATA[단편 영화 같은 박보검 패션필름 공개.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나사, 2040년까지 달에 주택 단지 건설]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81223</id>
+        <link href="https://www.esquirekorea.co.kr/article/81223"/>
+        <updated>2023-10-17T15:21:30.173Z</updated>
+        <content type="html"><![CDATA[달나라에서의 숙박이 현실로?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[납작 우동, 히모카와 우동 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80771</id>
+        <link href="https://www.esquirekorea.co.kr/article/80771"/>
+        <updated>2023-10-16T15:19:58.632Z</updated>
+        <content type="html"><![CDATA[밀키트와 비교할 수 없는 맛.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우상혁, 한국 육상 최초로 다이아몬드리그 파이널 우승]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80661</id>
+        <link href="https://www.esquirekorea.co.kr/article/80661"/>
+        <updated>2023-10-15T09:16:42.366Z</updated>
+        <content type="html"><![CDATA[3차 시기에 2m35를 넘어 정상에 올랐다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[셀린느, 뷔와 함께한 도쿄에서의 어느 오후]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80643</id>
+        <link href="https://www.esquirekorea.co.kr/article/80643"/>
+        <updated>2023-10-14T09:18:25.447Z</updated>
+        <content type="html"><![CDATA[다시 만난 BTS 뷔.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원 토박이가 추천하는 5000원 이하 수원 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80616</id>
+        <link href="https://www.esquirekorea.co.kr/article/80616"/>
+        <updated>2023-10-14T09:18:25.458Z</updated>
+        <content type="html"><![CDATA[5000원의 행복.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배우 장기용과 벨루티가 완성한 다가올 계절의 예고편]]></title>
+        <id>https://www.esquirekorea.co.kr/article/80349</id>
+        <link href="https://www.esquirekorea.co.kr/article/80349"/>
+        <updated>2023-10-09T09:19:59.217Z</updated>
+        <content type="html"><![CDATA[컨템퍼러리 럭셔리의 본질, 시대와 유행을 초월한 우아함. 장기용과 벨루티 2023 F/W 컬렉션.]]></content>
+    </entry>
+</feed>
