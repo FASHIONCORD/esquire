@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 03:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 09:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1399,7 +1399,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81445</guid>
             <pubDate>Thu, 19 Oct 2023 15:19:44 GMT</pubDate>
             <content:encoded><![CDATA[여기가 찐찐찐찐 찐이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/96e29ee1-f31a-4642-a527-8967e15fc42c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[10월에 가기 좋은 전국 가을 축제 5 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1407,7 +1406,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81426</guid>
             <pubDate>Thu, 19 Oct 2023 15:19:44 GMT</pubDate>
             <content:encoded><![CDATA[없던 낭만도 차오르는 축제만 모았다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/93a759d0-5237-4b6e-8bc2-00a5f3d12f10.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국에 상륙하는 현대판 '노아의 방주'? (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1415,7 +1413,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81422</guid>
             <pubDate>Thu, 19 Oct 2023 09:18:34 GMT</pubDate>
             <content:encoded><![CDATA[내년 영구 정박 예정.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/b14b72cc-c8d3-4807-a1fc-dbe2b1cc0026.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뷰는 덤! 프라이빗 오두막 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1423,7 +1420,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81399</guid>
             <pubDate>Thu, 19 Oct 2023 09:18:34 GMT</pubDate>
             <content:encoded><![CDATA[독채에서 만끽하는 가을 내음.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/f098779b-0d51-4f77-a961-98a68bd0407c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[야외에서 즐기는 단풍 뷰 카페 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1431,7 +1427,12 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81368</guid>
             <pubDate>Wed, 18 Oct 2023 15:19:42 GMT</pubDate>
             <content:encoded><![CDATA[떨어지는 단풍잎 맞으며 커피 한 잔.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/fd545bd3-3471-4b27-88c3-50f30a7b0013.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part 1. 박보검이 창작 뮤지컬을 선택한 이유 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81492</link>
+            <guid>https://www.esquirekorea.co.kr/article/81492</guid>
+            <pubDate>Tue, 24 Oct 2023 09:19:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘힘쎈여자 강남순’ 이유미 TMI 12. (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1480,13 +1481,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81279</guid>
             <pubDate>Fri, 13 Oct 2023 09:18:33 GMT</pubDate>
             <content:encoded><![CDATA[드라마 ‘라켓소년단’의 캐릭터는 안세영을 모티브로 했다고?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[베이비몬스터, 드디어 데뷔 확정 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81239</link>
-            <guid>https://www.esquirekorea.co.kr/article/81239</guid>
-            <pubDate>Tue, 17 Oct 2023 15:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[11월 모습을 드러낸다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[박보검 거울 볼 때 드는 생각? (에스콰이어 코리아 ─ 나우)]]></title>
