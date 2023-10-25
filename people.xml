@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 03:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 09:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Part 2. 박보검이 기다리는 것들]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81494</link>
+            <guid>https://www.esquirekorea.co.kr/article/81494</guid>
+            <pubDate>Wed, 25 Oct 2023 09:19:11 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/2fa0398d-bcc1-47fe-ac16-0a644832017c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Part 1. 박보검이 창작 뮤지컬을 선택한 이유]]></title>
             <link>https://www.esquirekorea.co.kr/article/81492</link>
@@ -60,14 +67,6 @@
             <pubDate>Wed, 18 Oct 2023 09:18:47 GMT</pubDate>
             <content:encoded><![CDATA[5년 만의 단독 내한 공연 개최.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/d2700ea9-bb5a-4103-b1f3-a5f53365ccc9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부상 투혼, 아시안게임 배드민턴 2관왕 안세영 선수 TMI 12.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81279</link>
-            <guid>https://www.esquirekorea.co.kr/article/81279</guid>
-            <pubDate>Wed, 18 Oct 2023 03:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[드라마 ‘라켓소년단’의 캐릭터는 안세영을 모티브로 했다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/729429c3-8d69-4845-9958-b7f756661e77.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

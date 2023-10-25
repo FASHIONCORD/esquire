@@ -4,9 +4,25 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 03:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 09:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을 제철, 랍스터 무한리필 맛집 3]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81489</link>
+            <guid>https://www.esquirekorea.co.kr/article/81489</guid>
+            <pubDate>Wed, 25 Oct 2023 09:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[항공 직송 랍스터를 맛볼 수 있는 곳?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/97a853c8-9ded-4a78-9349-dc37e5b9a08c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[등산러 맛집 가이드 '청계산' 편]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81476</link>
+            <guid>https://www.esquirekorea.co.kr/article/81476</guid>
+            <pubDate>Wed, 25 Oct 2023 09:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[고기냐 백숙이냐, 그것이 문제로다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/5069c746-7949-41d9-becb-1ff84fe08bf4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 상 가득 30첩 한정식 맛집 4]]></title>
             <link>https://www.esquirekorea.co.kr/article/81473</link>
@@ -54,22 +70,6 @@
             <pubDate>Thu, 19 Oct 2023 15:19:29 GMT</pubDate>
             <content:encoded><![CDATA[24시간이 모자란 애주가를 위한 술집.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/936e1dda-3942-453d-a8c5-23a79554134a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인헌동 주민이 추천하는, 5000원 이하 인헌동 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81357</link>
-            <guid>https://www.esquirekorea.co.kr/article/81357</guid>
-            <pubDate>Wed, 18 Oct 2023 15:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[초, 중, 고, 대학교가 모여있는 인헌동 속 학생들의 아지트 맛집을 소개한다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/40b02367-f01e-4abf-8061-e9a348e9e31f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023 신상 오뎅바 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81355</link>
-            <guid>https://www.esquirekorea.co.kr/article/81355</guid>
-            <pubDate>Wed, 18 Oct 2023 15:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[여권 없이 떠나는 일본 오뎅 여행!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/f29ee4fc-01a0-471e-89d3-3194c81a9b2b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
