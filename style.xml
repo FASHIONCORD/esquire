@@ -1,63 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/style</id>
-    <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2023-10-26T09:21:47.238Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[체크 블루스]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81072</id>
-        <link href="https://www.esquirekorea.co.kr/article/81072"/>
-        <updated>2023-10-23T15:18:21.930Z</updated>
-        <content type="html"><![CDATA[겹겹의 가을, 체크를 입고.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소바쥬와 조니뎁의 랑데부]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81236</id>
-        <link href="https://www.esquirekorea.co.kr/article/81236"/>
-        <updated>2023-10-14T15:16:16.281Z</updated>
-        <content type="html"><![CDATA[소바쥬 아이콘 조니 뎁과의 특별한 대담.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[완벽한 부츠 스타일링의 정석]]></title>
-        <id>https://www.esquirekorea.co.kr/article/79271</id>
-        <link href="https://www.esquirekorea.co.kr/article/79271"/>
-        <updated>2023-10-14T09:16:40.792Z</updated>
-        <content type="html"><![CDATA[스테파노로시 부츠를 신고 찾은 자유.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수상한 작업실, 그 안의 한 남자]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81288</id>
-        <link href="https://www.esquirekorea.co.kr/article/81288"/>
-        <updated>2023-10-13T15:18:56.904Z</updated>
-        <content type="html"><![CDATA[루이비통 백을 가득 품고.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌아온 독서의 계절]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81195</id>
-        <link href="https://www.esquirekorea.co.kr/article/81195"/>
-        <updated>2023-10-13T15:18:56.906Z</updated>
-        <content type="html"><![CDATA[좋은 글을 읽기 위한 톨토이즈 안경.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한옥으로 떠났다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81069</id>
-        <link href="https://www.esquirekorea.co.kr/article/81069"/>
-        <updated>2023-10-12T15:18:52.616Z</updated>
-        <content type="html"><![CDATA[슈트를 꺼내 입은 어느 조용한 가을날.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 자주 꺼내드는 옷을 묻다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81038</id>
-        <link href="https://www.esquirekorea.co.kr/article/81038"/>
-        <updated>2023-10-12T15:18:52.617Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여전히 아름다운 구찌의 2024 S/S 컬렉션]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80896</id>
-        <link href="https://www.esquirekorea.co.kr/article/80896"/>
-        <updated>2023-10-12T03:18:20.521Z</updated>
-        <content type="html"><![CDATA[견고하고 강렬한 존재감으로 새로운 시작을 알렸다.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 스타일</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 26 Oct 2023 15:20:09 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[체크 블루스]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81072</link>
+            <guid>https://www.esquirekorea.co.kr/article/81072</guid>
+            <pubDate>Mon, 23 Oct 2023 15:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[겹겹의 가을, 체크를 입고.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/524458be-4a63-47ad-9752-b5afed525e77.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소바쥬와 조니뎁의 랑데부]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81236</link>
+            <guid>https://www.esquirekorea.co.kr/article/81236</guid>
+            <pubDate>Sat, 14 Oct 2023 15:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[소바쥬 아이콘 조니 뎁과의 특별한 대담.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/13/dadd227d-42ae-41cb-9096-a812f5a2ead5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[완벽한 부츠 스타일링의 정석]]></title>
+            <link>https://www.esquirekorea.co.kr/article/79271</link>
+            <guid>https://www.esquirekorea.co.kr/article/79271</guid>
+            <pubDate>Sat, 14 Oct 2023 09:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[스테파노로시 부츠를 신고 찾은 자유.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/12/199e2c9b-a031-47ad-b7fc-944967bc44be.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수상한 작업실, 그 안의 한 남자]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81288</link>
+            <guid>https://www.esquirekorea.co.kr/article/81288</guid>
+            <pubDate>Fri, 13 Oct 2023 15:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[루이비통 백을 가득 품고.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/11/cc318da5-2fde-43ad-b97d-48d12a05a37d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돌아온 독서의 계절]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81195</link>
+            <guid>https://www.esquirekorea.co.kr/article/81195</guid>
+            <pubDate>Fri, 13 Oct 2023 15:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[좋은 글을 읽기 위한 톨토이즈 안경.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/07/a11b9f90-8be7-487f-bfc3-fd68d4d062c1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한옥으로 떠났다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81069</link>
+            <guid>https://www.esquirekorea.co.kr/article/81069</guid>
+            <pubDate>Thu, 12 Oct 2023 15:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[슈트를 꺼내 입은 어느 조용한 가을날.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/01d31415-787a-4c18-a4a2-44cb2f109a22.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 자주 꺼내드는 옷을 묻다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81038</link>
+            <guid>https://www.esquirekorea.co.kr/article/81038</guid>
+            <pubDate>Thu, 12 Oct 2023 15:18:52 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/01/43f2f443-aef0-4cda-8dc4-c2b654818b27.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여전히 아름다운 구찌의 2024 S/S 컬렉션]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80896</link>
+            <guid>https://www.esquirekorea.co.kr/article/80896</guid>
+            <pubDate>Thu, 12 Oct 2023 03:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[견고하고 강렬한 존재감으로 새로운 시작을 알렸다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/26/a2033ff9-661b-4510-b24d-7862519b5b9c.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

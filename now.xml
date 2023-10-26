@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 나우</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 09:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 15:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타워즈 속 촬영 소품 'X-윙 전투기' 경매 등장]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81412</link>
+            <guid>https://www.esquirekorea.co.kr/article/81412</guid>
+            <pubDate>Thu, 26 Oct 2023 15:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[두 명이 경쟁 끝에 약 42억 원에 낙찰됐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/4d0a115a-51c0-4fb2-81a9-87068b05e130.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넷플릭스, 복합 문화공간 '넷플릭스 하우스' 오픈 예정]]></title>
             <link>https://www.esquirekorea.co.kr/article/81390</link>
@@ -62,14 +70,6 @@
             <pubDate>Sun, 15 Oct 2023 09:16:42 GMT</pubDate>
             <content:encoded><![CDATA[3차 시기에 2m35를 넘어 정상에 올랐다.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/17/568311ad-0a05-4b0e-adc1-699e22b8aefd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀린느, 뷔와 함께한 도쿄에서의 어느 오후]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80643</link>
-            <guid>https://www.esquirekorea.co.kr/article/80643</guid>
-            <pubDate>Sat, 14 Oct 2023 09:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[다시 만난 BTS 뷔.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/15/479760e1-63ea-47b1-9538-8b89e0e6c7ab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
