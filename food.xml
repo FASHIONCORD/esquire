@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 푸드</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 03:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 09:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프레츨 탕후루? K-패치 완료된 참신한 디저트 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81632</link>
+            <guid>https://www.esquirekorea.co.kr/article/81632</guid>
+            <pubDate>Thu, 26 Oct 2023 09:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[소금붕어빵도 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/886411b9-b68a-4912-8bcd-f8431443536c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크루그 그랑 퀴베 171 에디션을 맛보다]]></title>
             <link>https://www.esquirekorea.co.kr/article/81546</link>
@@ -62,14 +70,6 @@
             <pubDate>Sat, 21 Oct 2023 03:18:35 GMT</pubDate>
             <content:encoded><![CDATA[마시고 마셔도 새로운 전통주의 세계.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/f983e490-17d6-4e28-aaf7-298004232921.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콘서트를 앞두고 ‘폼 미친’ 영탁 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81445</link>
-            <guid>https://www.esquirekorea.co.kr/article/81445</guid>
-            <pubDate>Sat, 21 Oct 2023 03:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[여기가 찐찐찐찐 찐이다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/96e29ee1-f31a-4642-a527-8967e15fc42c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
