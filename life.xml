@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 09:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 15:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[등산러 맛집 가이드 '수락산' 편]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81663</link>
+            <guid>https://www.esquirekorea.co.kr/article/81663</guid>
+            <pubDate>Fri, 27 Oct 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[단풍놀이도 식후경.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/e8bdf4a9-dd3f-41c1-bbae-c73047a26172.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[통닭 올려주는 짜장면? 이색 짜장면 맛집 2023 ver.]]></title>
             <link>https://www.esquirekorea.co.kr/article/81637</link>
@@ -62,14 +70,6 @@
             <pubDate>Wed, 25 Oct 2023 09:19:00 GMT</pubDate>
             <content:encoded><![CDATA[항공 직송 랍스터를 맛볼 수 있는 곳?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/97a853c8-9ded-4a78-9349-dc37e5b9a08c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울숲, 제이홉 이름 딴 정원 조성]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81479</link>
-            <guid>https://www.esquirekorea.co.kr/article/81479</guid>
-            <pubDate>Wed, 25 Oct 2023 09:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[J 벤치에서 쉬었다 가세요.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/77f98a26-1788-4a76-905b-304319a3e607.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

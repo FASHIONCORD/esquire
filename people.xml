@@ -1,72 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 피플</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 09:18:47 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Part 2. "사랑은 무색무취일 것 같아요"]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81556</link>
-            <guid>https://www.esquirekorea.co.kr/article/81556</guid>
-            <pubDate>Fri, 27 Oct 2023 09:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[정예인은 발을 구르고 손뼉을 치며 노래한다. 러블리즈라는 첫 번째 장을 지나 두 번째 장에 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/2c160dcb-590f-4815-a216-3c35d4751f0b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part 1. 정예인이 뮤지컬에 도전하게 된 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81553</link>
-            <guid>https://www.esquirekorea.co.kr/article/81553</guid>
-            <pubDate>Fri, 27 Oct 2023 03:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[정예인은 발을 구르고 손뼉을 치며 노래한다. 러블리즈라는 첫 번째 장을 지나 두 번째 장에 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/a9f1459f-6f6f-4c8f-8d3f-58a2e7533d13.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 1위 드라마 ‘이두나!’ 수지 TMI 12.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81558</link>
-            <guid>https://www.esquirekorea.co.kr/article/81558</guid>
-            <pubDate>Thu, 26 Oct 2023 09:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[단편영화 ‘내 물건이 너의 집에 남아있다면’의 원작자였다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/555eebb7-9e48-454d-9b6d-297b6943d6ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part 2. 박보검이 기다리는 것들]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81494</link>
-            <guid>https://www.esquirekorea.co.kr/article/81494</guid>
-            <pubDate>Wed, 25 Oct 2023 09:19:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/2fa0398d-bcc1-47fe-ac16-0a644832017c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part 1. 박보검이 창작 뮤지컬을 선택한 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81492</link>
-            <guid>https://www.esquirekorea.co.kr/article/81492</guid>
-            <pubDate>Tue, 24 Oct 2023 09:19:32 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/f2f02929-5ebc-47d6-8314-5c5a66d6deb2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘힘쎈여자 강남순’ 이유미 TMI 12.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81427</link>
-            <guid>https://www.esquirekorea.co.kr/article/81427</guid>
-            <pubDate>Tue, 24 Oct 2023 03:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[작품 쉬는 동안 배달 아르바이트를 했다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/5c395e7a-3c86-423b-9212-7707a7468ea5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태민 미니앨범 'Guilty' 티저 이미지 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81418</link>
-            <guid>https://www.esquirekorea.co.kr/article/81418</guid>
-            <pubDate>Mon, 23 Oct 2023 09:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[앨범은 10월 30일 공개된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/18/463799db-8bb5-4325-9441-ae41b38f724c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[판빙빙 변하지 않는 미모의 비결은?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81413</link>
-            <guid>https://www.esquirekorea.co.kr/article/81413</guid>
-            <pubDate>Mon, 23 Oct 2023 09:20:42 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/15c16516-24a9-4a0c-b67f-b07dac302341.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/people</id>
+    <title>에스콰이어 코리아 ─ 피플</title>
+    <updated>2023-10-27T15:20:03.823Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Part 1. 차학연이 말하는 '자신만의 색깔']]></title>
+        <id>https://www.esquirekorea.co.kr/article/81575</id>
+        <link href="https://www.esquirekorea.co.kr/article/81575"/>
+        <updated>2023-10-27T15:19:26.071Z</updated>
+        <content type="html"><![CDATA[차학연은 더 많은 것을 직접 겪고, 느끼고, 배우고 싶다. 그 어떤 도전도 피하지 않고 마주하...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 2. "사랑은 무색무취일 것 같아요"]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81556</id>
+        <link href="https://www.esquirekorea.co.kr/article/81556"/>
+        <updated>2023-10-27T09:18:13.416Z</updated>
+        <content type="html"><![CDATA[정예인은 발을 구르고 손뼉을 치며 노래한다. 러블리즈라는 첫 번째 장을 지나 두 번째 장에 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 1. 정예인이 뮤지컬에 도전하게 된 이유]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81553</id>
+        <link href="https://www.esquirekorea.co.kr/article/81553"/>
+        <updated>2023-10-27T03:19:10.385Z</updated>
+        <content type="html"><![CDATA[정예인은 발을 구르고 손뼉을 치며 노래한다. 러블리즈라는 첫 번째 장을 지나 두 번째 장에 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 1위 드라마 ‘이두나!’ 수지 TMI 12.]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81558</id>
+        <link href="https://www.esquirekorea.co.kr/article/81558"/>
+        <updated>2023-10-26T09:21:22.763Z</updated>
+        <content type="html"><![CDATA[단편영화 ‘내 물건이 너의 집에 남아있다면’의 원작자였다고?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 2. 박보검이 기다리는 것들]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81494</id>
+        <link href="https://www.esquirekorea.co.kr/article/81494"/>
+        <updated>2023-10-25T09:19:11.366Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 1. 박보검이 창작 뮤지컬을 선택한 이유]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81492</id>
+        <link href="https://www.esquirekorea.co.kr/article/81492"/>
+        <updated>2023-10-24T09:19:32.849Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘힘쎈여자 강남순’ 이유미 TMI 12.]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81427</id>
+        <link href="https://www.esquirekorea.co.kr/article/81427"/>
+        <updated>2023-10-24T03:20:40.862Z</updated>
+        <content type="html"><![CDATA[작품 쉬는 동안 배달 아르바이트를 했다고?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태민 미니앨범 'Guilty' 티저 이미지 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81418</id>
+        <link href="https://www.esquirekorea.co.kr/article/81418"/>
+        <updated>2023-10-23T09:20:42.465Z</updated>
+        <content type="html"><![CDATA[앨범은 10월 30일 공개된다.]]></content>
+    </entry>
+</feed>
