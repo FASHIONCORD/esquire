@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2023-10-29T09:17:42.161Z</updated>
+    <updated>2023-10-29T15:18:06.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[또 하나의 손]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81326</id>
+        <link href="https://www.esquirekorea.co.kr/article/81326"/>
+        <updated>2023-10-29T15:16:22.181Z</updated>
+        <content type="html"><![CDATA[다른 소재, 다른 모양의 괄사 도구 활용법.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[셀린느 스타일을 완벽하게 소화한 박보검의 패션필름]]></title>
         <id>https://www.esquirekorea.co.kr/article/81362</id>
@@ -51,12 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/81288"/>
         <updated>2023-10-13T15:18:56.904Z</updated>
         <content type="html"><![CDATA[루이비통 백을 가득 품고.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌아온 독서의 계절]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81195</id>
-        <link href="https://www.esquirekorea.co.kr/article/81195"/>
-        <updated>2023-10-13T15:18:56.906Z</updated>
-        <content type="html"><![CDATA[좋은 글을 읽기 위한 톨토이즈 안경.]]></content>
     </entry>
 </feed>
