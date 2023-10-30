@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2023-10-30T09:20:24.453Z</updated>
+    <updated>2023-10-30T15:20:11.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[골든구스 파리 이벤트에서 만난 선미]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81549</id>
+        <link href="https://www.esquirekorea.co.kr/article/81549"/>
+        <updated>2023-10-30T15:19:00.107Z</updated>
+        <content type="html"><![CDATA[골든구스의 ‘하우스 오브 드리머(haus of dreamers)’를 기념하는 두 번째 이벤트가 파리 식물원...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[또 하나의 손]]></title>
         <id>https://www.esquirekorea.co.kr/article/81326</id>
@@ -51,12 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/79271"/>
         <updated>2023-10-14T09:16:40.792Z</updated>
         <content type="html"><![CDATA[스테파노로시 부츠를 신고 찾은 자유.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수상한 작업실, 그 안의 한 남자]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81288</id>
-        <link href="https://www.esquirekorea.co.kr/article/81288"/>
-        <updated>2023-10-13T15:18:56.904Z</updated>
-        <content type="html"><![CDATA[루이비통 백을 가득 품고.]]></content>
     </entry>
 </feed>

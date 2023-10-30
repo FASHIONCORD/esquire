@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 09:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 15:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1132,6 +1132,13 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[골든구스 파리 이벤트에서 만난 선미 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81549</link>
+            <guid>https://www.esquirekorea.co.kr/article/81549</guid>
+            <pubDate>Mon, 30 Oct 2023 15:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[골든구스의 ‘하우스 오브 드리머(haus of dreamers)’를 기념하는 두 번째 이벤트가 파리 식물원...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[또 하나의 손 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/81326</link>
             <guid>https://www.esquirekorea.co.kr/article/81326</guid>
@@ -1177,13 +1184,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/79271</guid>
             <pubDate>Sat, 14 Oct 2023 09:16:40 GMT</pubDate>
             <content:encoded><![CDATA[스테파노로시 부츠를 신고 찾은 자유.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[수상한 작업실, 그 안의 한 남자 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81288</link>
-            <guid>https://www.esquirekorea.co.kr/article/81288</guid>
-            <pubDate>Fri, 13 Oct 2023 15:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[루이비통 백을 가득 품고.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[<시간 소설> (1) '유령새가 날아다니는 호텔 복도에서' - 강보라 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1245,14 +1245,12 @@ The New MINI Countryman과 일상에
             <link>https://www.esquirekorea.co.kr/article/80767</link>
             <guid>https://www.esquirekorea.co.kr/article/80767</guid>
             <pubDate>Sun, 29 Oct 2023 15:16:45 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/ad518d82-6391-4ff8-b7c2-54559899aff9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뱅앤올룹슨과 페라리가 만났을 때 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/81058</link>
             <guid>https://www.esquirekorea.co.kr/article/81058</guid>
             <pubDate>Fri, 27 Oct 2023 15:18:54 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/04/d9cf77a3-b233-4d3d-8954-adef3df92a49.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[100번째 르망 24시에서 벌어진 일들 (에스콰이어 코리아 ─ 카&테크)]]></title>
@@ -1260,7 +1258,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80921</guid>
             <pubDate>Fri, 27 Oct 2023 03:18:43 GMT</pubDate>
             <content:encoded><![CDATA[올해로 100주년인 르망 24에서 목격한 드라이버의 투지와 머캐닉의 수고 그리고 팀의 염원.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/03/00609d42-ad6c-4ea6-819e-a2344feb38ad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴욕에서 만난 로터스 에메야의 혁신 (에스콰이어 코리아 ─ 카&테크)]]></title>
@@ -1268,14 +1265,12 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81043</guid>
             <pubDate>Thu, 26 Oct 2023 15:19:11 GMT</pubDate>
             <content:encoded><![CDATA[로터스가 뉴욕에서 900마력짜리 EV 4도어 GT 모델 ‘에메야’를 공개했다. 그들이 새로운 도약...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/02/873790b3-b326-4608-9982-1d0ba48e363d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[싼타페 디자인 비하인드 스토리 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/81037</link>
             <guid>https://www.esquirekorea.co.kr/article/81037</guid>
             <pubDate>Fri, 13 Oct 2023 09:18:15 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/01/6167b749-a9a6-4496-afc7-a27cdbdd6688.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SUV에선 느낄 수 없는 매력을 지닌 자동차들 (에스콰이어 코리아 ─ 카&테크)]]></title>
@@ -1283,21 +1278,25 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81025</guid>
             <pubDate>Tue, 03 Oct 2023 15:19:48 GMT</pubDate>
             <content:encoded><![CDATA[SUV와 세단이 점령한 도로 위에서 독보적인 매력을 자아내는 차들이 있다. 효율이라는 가치에 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/30/bb336eb2-ff8f-413a-8d65-f93851742772.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새로운 가능성을 안겨주는 네 개의 이어폰 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/80738</link>
             <guid>https://www.esquirekorea.co.kr/article/80738</guid>
             <pubDate>Tue, 03 Oct 2023 15:19:48 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/0b6ca17c-4eaa-48e6-83b0-b3ebe26575cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어도비의 세상이 계속될 것을 확신하는 이유 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/80955</link>
             <guid>https://www.esquirekorea.co.kr/article/80955</guid>
             <pubDate>Mon, 02 Oct 2023 15:19:42 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/27/e86dc05c-b96d-4ffe-8462-821507bd1be7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이색 붕어빵 카페 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81667</link>
+            <guid>https://www.esquirekorea.co.kr/article/81667</guid>
+            <pubDate>Sat, 28 Oct 2023 03:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[붕어빵 오마카세부터 앙버터 붕어빵까지.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[등산러 맛집 가이드 '수락산' 편 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1305,7 +1304,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81663</guid>
             <pubDate>Fri, 27 Oct 2023 15:19:15 GMT</pubDate>
             <content:encoded><![CDATA[단풍놀이도 식후경.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/e8bdf4a9-dd3f-41c1-bbae-c73047a26172.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통닭 올려주는 짜장면? 이색 짜장면 맛집 2023 ver. (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1313,7 +1311,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81637</guid>
             <pubDate>Fri, 27 Oct 2023 03:18:51 GMT</pubDate>
             <content:encoded><![CDATA[맛있는 거 위에 맛있는 거.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/ba316fdd-af5a-40fb-9110-e7654c6f5fa9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프레츨 탕후루? K-패치 완료된 참신한 디저트 4 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1321,7 +1318,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81632</guid>
             <pubDate>Thu, 26 Oct 2023 09:21:04 GMT</pubDate>
             <content:encoded><![CDATA[소금붕어빵도 있다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/886411b9-b68a-4912-8bcd-f8431443536c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크루그 그랑 퀴베 171 에디션을 맛보다 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1329,7 +1325,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81546</guid>
             <pubDate>Thu, 26 Oct 2023 03:19:33 GMT</pubDate>
             <content:encoded><![CDATA[샴페인 애호가들이 편애하는 크루그. 크루그 그랑 퀴베 171 에디션과 로제 27 에디션을 세상 그...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/8f04381d-2b4d-4353-a272-9372455a67ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고시생이 직접 추천하는 노량진 컵밥 거리 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1337,7 +1332,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81512</guid>
             <pubDate>Thu, 26 Oct 2023 03:19:33 GMT</pubDate>
             <content:encoded><![CDATA[합격한 선배들에게 물려받은 귀한 맛집 리스트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/21/fb413a3e-afb9-46c7-aa0d-8fd714230dad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 신세계 정용진 부회장이 다녀간 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1345,7 +1339,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81511</guid>
             <pubDate>Wed, 25 Oct 2023 09:19:00 GMT</pubDate>
             <content:encoded><![CDATA[재벌이라고 비싼 것만 먹는 건 아니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/24a31996-2d35-4136-9ffd-de6f8394c2f1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가을 제철, 랍스터 무한리필 맛집 3 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1353,15 +1346,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81489</guid>
             <pubDate>Wed, 25 Oct 2023 09:18:50 GMT</pubDate>
             <content:encoded><![CDATA[항공 직송 랍스터를 맛볼 수 있는 곳?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/20/97a853c8-9ded-4a78-9349-dc37e5b9a08c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[등산러 맛집 가이드 '청계산' 편 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81476</link>
-            <guid>https://www.esquirekorea.co.kr/article/81476</guid>
-            <pubDate>Wed, 25 Oct 2023 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[고기냐 백숙이냐, 그것이 문제로다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/5069c746-7949-41d9-becb-1ff84fe08bf4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일러스트레이터 키크니의 <일러바치기> 전시회와 신사 데이트 풀코스 5 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1424,14 +1408,12 @@ The New MINI Countryman과 일상에
             <link>https://www.esquirekorea.co.kr/article/81709</link>
             <guid>https://www.esquirekorea.co.kr/article/81709</guid>
             <pubDate>Mon, 30 Oct 2023 09:20:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/6d478350-ca76-4af9-a937-4c2be77d7416.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[류승범 <무빙>으로 복귀한 계기? (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/81682</link>
             <guid>https://www.esquirekorea.co.kr/article/81682</guid>
             <pubDate>Mon, 30 Oct 2023 03:19:46 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/64d2b151-1b54-4894-a80a-19e70884e5b4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비욘세가 직접 제작하고 디자인한 향수 ‘CÉ NOIR’ 출시 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1439,7 +1421,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81670</guid>
             <pubDate>Sat, 28 Oct 2023 09:17:14 GMT</pubDate>
             <content:encoded><![CDATA[가격은 한화 약 21만6천원.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/60292d38-d49d-48ff-a50a-90735a0b2d8f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Part 2. <무인도의 디바> 강우학과 차학연의 공통점 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1447,7 +1428,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81576</guid>
             <pubDate>Sat, 28 Oct 2023 03:18:39 GMT</pubDate>
             <content:encoded><![CDATA[차학연은 더 많은 것을 직접 겪고, 느끼고, 배우고 싶다. 그 어떤 도전도 피하지 않고 마주하...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/e6afc543-3c42-4b44-af3c-576190835624.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Part 1. 차학연이 말하는 '자신만의 색깔' (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1455,7 +1435,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81575</guid>
             <pubDate>Fri, 27 Oct 2023 15:19:26 GMT</pubDate>
             <content:encoded><![CDATA[차학연은 더 많은 것을 직접 겪고, 느끼고, 배우고 싶다. 그 어떤 도전도 피하지 않고 마주하...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/07cb0ed7-aa17-4e48-bbb2-340e6fa5fd6b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Part 2. "사랑은 무색무취일 것 같아요" (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1463,7 +1442,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81556</guid>
             <pubDate>Fri, 27 Oct 2023 09:18:13 GMT</pubDate>
             <content:encoded><![CDATA[정예인은 발을 구르고 손뼉을 치며 노래한다. 러블리즈라는 첫 번째 장을 지나 두 번째 장에 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/2c160dcb-590f-4815-a216-3c35d4751f0b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Part 1. 정예인이 뮤지컬에 도전하게 된 이유 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1471,7 +1449,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81553</guid>
             <pubDate>Fri, 27 Oct 2023 03:19:10 GMT</pubDate>
             <content:encoded><![CDATA[정예인은 발을 구르고 손뼉을 치며 노래한다. 러블리즈라는 첫 번째 장을 지나 두 번째 장에 ...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/a9f1459f-6f6f-4c8f-8d3f-58a2e7533d13.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스 1위 드라마 ‘이두나!’ 수지 TMI 12. (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1479,7 +1456,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81558</guid>
             <pubDate>Thu, 26 Oct 2023 09:21:22 GMT</pubDate>
             <content:encoded><![CDATA[단편영화 ‘내 물건이 너의 집에 남아있다면’의 원작자였다고?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/555eebb7-9e48-454d-9b6d-297b6943d6ef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스, 복합 문화공간 '넷플릭스 하우스' 오픈 예정 (에스콰이어 코리아 ─ 나우)]]></title>
