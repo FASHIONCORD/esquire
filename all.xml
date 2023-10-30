@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 15:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 03:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTRfMTkg/MDAxNjQyMTE1MDExMzUw.8do9AkN4533lT4VsC7DkwtCk4dSdX7F_OAPJ70T6Rc0g.2_HumcdGbR4XeL-O74oD7QsQweyde3lT28SSv27S1wwg.PNG/IIk-Vy5hm7-jfEUmpS2nPozA5Epk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[콘서트를 앞두고 ‘폼 미친’ 영탁 맛집 4 (네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&DRINK)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36766382&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36766382&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Mon, 30 Oct 2023 03:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjNfMjE4/MDAxNjk4MDIyODgyNDM1.hVPL64CB5_aTDnlIYbmGnR8PMYpF0Gj9_BYkiiBIzfIg.jhjuxD_zerXyewbljzJZ7Wzwf-It3Rh-TbUi0lVBHP4g.JPEG/ItzveOxL3P5hS5bbJ1aX90SSmEnE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뷰는 덤! 프라이빗 오두막 맛집 4 (네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&DRINK)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36754346&amp;memberNo=40217187&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36754346&amp;memberNo=40217187&amp;navigationType=push</guid>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 04 Oct 2023 09:17:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjVfNDkg/MDAxNjk1NjE2MzQyNDEx.GuwSv0lIPN7jKBLgmDNLleaaiiNuZFDMuC0c013OiQ4g.eh_afxuaJY3FOvXCmFae5GN4cwTTS72VWTkfD8MyE_Ag.JPEG/IvnVYCECjDrV8qA7N2g4LGvXo2yI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[등산러 맛집 가이드 ‘관악산’ 편 (네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&DRINK)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36635350&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36635350&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Tue, 03 Oct 2023 03:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MjVfMjgz/MDAxNjk1NjE1NDcyNDI0.qqEbl3N9hsWc272ZkEKW0x3sFrxFJ-e3iwp4uF3Vy2Ag.AjGikyT2UpQJdV_VXNTlD7btLGWn_DoOwZI_wv7a8Zsg.JPEG/Ig0GNVTZaz2-aHlaByB5r-6Ouij4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다시 돌아온 바시티 재킷 (네이버 포스트 ─ 에스콰이어 코리아 ─ ESHOP)]]></title>
@@ -1420,11 +1420,19 @@ The New MINI Countryman과 일상에
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/1be8c20b-9eef-4e89-8058-22aabf82f19a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[류승범 <무빙>으로 복귀한 계기? (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81682</link>
+            <guid>https://www.esquirekorea.co.kr/article/81682</guid>
+            <pubDate>Mon, 30 Oct 2023 03:19:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/64d2b151-1b54-4894-a80a-19e70884e5b4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[비욘세가 직접 제작하고 디자인한 향수 ‘CÉ NOIR’ 출시 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/81670</link>
             <guid>https://www.esquirekorea.co.kr/article/81670</guid>
             <pubDate>Sat, 28 Oct 2023 09:17:14 GMT</pubDate>
             <content:encoded><![CDATA[가격은 한화 약 21만6천원.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/60292d38-d49d-48ff-a50a-90735a0b2d8f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Part 2. <무인도의 디바> 강우학과 차학연의 공통점 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1432,6 +1440,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81576</guid>
             <pubDate>Sat, 28 Oct 2023 03:18:39 GMT</pubDate>
             <content:encoded><![CDATA[차학연은 더 많은 것을 직접 겪고, 느끼고, 배우고 싶다. 그 어떤 도전도 피하지 않고 마주하...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/e6afc543-3c42-4b44-af3c-576190835624.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Part 1. 차학연이 말하는 '자신만의 색깔' (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1439,6 +1448,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81575</guid>
             <pubDate>Fri, 27 Oct 2023 15:19:26 GMT</pubDate>
             <content:encoded><![CDATA[차학연은 더 많은 것을 직접 겪고, 느끼고, 배우고 싶다. 그 어떤 도전도 피하지 않고 마주하...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/07cb0ed7-aa17-4e48-bbb2-340e6fa5fd6b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Part 2. "사랑은 무색무취일 것 같아요" (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1446,6 +1456,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81556</guid>
             <pubDate>Fri, 27 Oct 2023 09:18:13 GMT</pubDate>
             <content:encoded><![CDATA[정예인은 발을 구르고 손뼉을 치며 노래한다. 러블리즈라는 첫 번째 장을 지나 두 번째 장에 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/2c160dcb-590f-4815-a216-3c35d4751f0b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Part 1. 정예인이 뮤지컬에 도전하게 된 이유 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1453,6 +1464,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81553</guid>
             <pubDate>Fri, 27 Oct 2023 03:19:10 GMT</pubDate>
             <content:encoded><![CDATA[정예인은 발을 구르고 손뼉을 치며 노래한다. 러블리즈라는 첫 번째 장을 지나 두 번째 장에 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/24/a9f1459f-6f6f-4c8f-8d3f-58a2e7533d13.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스 1위 드라마 ‘이두나!’ 수지 TMI 12. (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1460,18 +1472,14 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81558</guid>
             <pubDate>Thu, 26 Oct 2023 09:21:22 GMT</pubDate>
             <content:encoded><![CDATA[단편영화 ‘내 물건이 너의 집에 남아있다면’의 원작자였다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/555eebb7-9e48-454d-9b6d-297b6943d6ef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Part 2. 박보검이 기다리는 것들 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/81494</link>
             <guid>https://www.esquirekorea.co.kr/article/81494</guid>
             <pubDate>Wed, 25 Oct 2023 09:19:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Part 1. 박보검이 창작 뮤지컬을 선택한 이유 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81492</link>
-            <guid>https://www.esquirekorea.co.kr/article/81492</guid>
-            <pubDate>Tue, 24 Oct 2023 09:19:32 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/2fa0398d-bcc1-47fe-ac16-0a644832017c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스, 복합 문화공간 '넷플릭스 하우스' 오픈 예정 (에스콰이어 코리아 ─ 나우)]]></title>
