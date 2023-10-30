@@ -4,9 +4,16 @@
         <title>에스콰이어 코리아 ─ 피플</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 03:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 09:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[izi <응급실> 라이브 무대 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81709</link>
+            <guid>https://www.esquirekorea.co.kr/article/81709</guid>
+            <pubDate>Mon, 30 Oct 2023 09:20:00 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/6d478350-ca76-4af9-a937-4c2be77d7416.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[류승범 <무빙>으로 복귀한 계기?]]></title>
             <link>https://www.esquirekorea.co.kr/article/81682</link>
@@ -61,13 +68,6 @@
             <pubDate>Thu, 26 Oct 2023 09:21:22 GMT</pubDate>
             <content:encoded><![CDATA[단편영화 ‘내 물건이 너의 집에 남아있다면’의 원작자였다고?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/555eebb7-9e48-454d-9b6d-297b6943d6ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Part 2. 박보검이 기다리는 것들]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81494</link>
-            <guid>https://www.esquirekorea.co.kr/article/81494</guid>
-            <pubDate>Wed, 25 Oct 2023 09:19:11 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/2fa0398d-bcc1-47fe-ac16-0a644832017c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
