@@ -4,9 +4,23 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 09:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 15:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍상수의 영화들, 그리고 <나는 솔로> 16기]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81816</link>
+            <guid>https://www.esquirekorea.co.kr/article/81816</guid>
+            <pubDate>Wed, 01 Nov 2023 15:19:52 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/01/59d0f455-1c33-456a-a596-370d70c3c91d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그 자체로 작품이 되어버린 33권짜리 피카소 도록]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81495</link>
+            <guid>https://www.esquirekorea.co.kr/article/81495</guid>
+            <pubDate>Wed, 01 Nov 2023 15:19:52 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/7898a1fd-2d8b-42c8-91b3-9c179756c989.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당신은 이런 조웅은 처음 만날 것이다]]></title>
             <link>https://www.esquirekorea.co.kr/article/81666</link>
@@ -54,22 +68,6 @@
             <pubDate>Sat, 28 Oct 2023 15:17:59 GMT</pubDate>
             <content:encoded><![CDATA[양념 반 후라이드 반, 짬짜면에 이은 세기의 만남.]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/e95fd95b-93a3-4840-81b5-2df09e36ca5d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캠핑의 낭만을 그대로, 서울 캠핑 컨셉 식당 2023 ver.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81668</link>
-            <guid>https://www.esquirekorea.co.kr/article/81668</guid>
-            <pubDate>Sat, 28 Oct 2023 15:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[다 준비되어 있으니 몸만 오면 된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/7f337f76-1bbc-4ff7-8570-fe588b0fe1ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이색 붕어빵 카페 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81667</link>
-            <guid>https://www.esquirekorea.co.kr/article/81667</guid>
-            <pubDate>Sat, 28 Oct 2023 03:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[붕어빵 오마카세부터 앙버터 붕어빵까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/65576db3-dac5-4b12-a735-1269bab1ae30.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
