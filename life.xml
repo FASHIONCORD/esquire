@@ -1,73 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 15:20:28 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[홍상수의 영화들, 그리고 <나는 솔로> 16기]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81816</link>
-            <guid>https://www.esquirekorea.co.kr/article/81816</guid>
-            <pubDate>Wed, 01 Nov 2023 15:19:52 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/01/59d0f455-1c33-456a-a596-370d70c3c91d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 자체로 작품이 되어버린 33권짜리 피카소 도록]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81495</link>
-            <guid>https://www.esquirekorea.co.kr/article/81495</guid>
-            <pubDate>Wed, 01 Nov 2023 15:19:52 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/7898a1fd-2d8b-42c8-91b3-9c179756c989.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신은 이런 조웅은 처음 만날 것이다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81666</link>
-            <guid>https://www.esquirekorea.co.kr/article/81666</guid>
-            <pubDate>Wed, 01 Nov 2023 03:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[‘구남과여라이딩스텔라’의 조웅이 테이프로 녹음한 어쿠스틱 사운드의 솔로 앨범을 들고 돌아왔다...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/10be0fe0-ac77-43d0-8e18-4e2ab2bebfec.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자급자족 해루질 할 수 있는 오토캠핑장 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81729</link>
-            <guid>https://www.esquirekorea.co.kr/article/81729</guid>
-            <pubDate>Wed, 01 Nov 2023 03:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[해루질 하기 최적의 시기. 캠핑하면서 해루질까지 하기 좋은 캠핑장은 어디?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/28/029bd6ea-adcb-4b67-b9e9-23740d408375.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울에서 맛보는 독도새우 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81728</link>
-            <guid>https://www.esquirekorea.co.kr/article/81728</guid>
-            <pubDate>Wed, 01 Nov 2023 03:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[새우계의 에르메스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/a8b48df2-5d28-4062-813f-05d359e865d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부커상 더블 롱리스트, 안톤 허가 겸손을 거부하는 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81665</link>
-            <guid>https://www.esquirekorea.co.kr/article/81665</guid>
-            <pubDate>Wed, 01 Nov 2023 03:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[번역가의 일에 대한 안톤 허의 에세이집 &lt;하지 말라고는 안 했잖아요?&gt;는 온갖 불평불만으로 가...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/28/525be669-0486-4c67-bee7-7a7aea2b47cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일러스트레이터 키크니의 <일러바치기> 전시회와 신사 데이트 풀코스 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81691</link>
-            <guid>https://www.esquirekorea.co.kr/article/81691</guid>
-            <pubDate>Sat, 28 Oct 2023 15:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[전시회부터 맛집, 카페, 레코드 바까지 분위기 좋은 곳으로 엄선했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/96dd5e61-73de-48fa-bda6-7bbadb463212.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칼국수와 수제비의 조합! 서울 칼제비 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81684</link>
-            <guid>https://www.esquirekorea.co.kr/article/81684</guid>
-            <pubDate>Sat, 28 Oct 2023 15:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[양념 반 후라이드 반, 짬짜면에 이은 세기의 만남.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/e95fd95b-93a3-4840-81b5-2df09e36ca5d.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/life</id>
+    <title>에스콰이어 코리아 ─ 라이프</title>
+    <updated>2023-11-02T03:19:55.507Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[11월 1일은 한우의 날! 이색 한우 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81817</id>
+        <link href="https://www.esquirekorea.co.kr/article/81817"/>
+        <updated>2023-11-02T03:19:29.724Z</updated>
+        <content type="html"><![CDATA[한우 케이크, 회전 레일 한우, 불쇼 한우, 한우 갈비 파이까지.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍상수의 영화들, 그리고 <나는 솔로> 16기]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81816</id>
+        <link href="https://www.esquirekorea.co.kr/article/81816"/>
+        <updated>2023-11-01T15:19:52.639Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그 자체로 작품이 되어버린 33권짜리 피카소 도록]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81495</id>
+        <link href="https://www.esquirekorea.co.kr/article/81495"/>
+        <updated>2023-11-01T15:19:52.645Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신은 이런 조웅은 처음 만날 것이다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81666</id>
+        <link href="https://www.esquirekorea.co.kr/article/81666"/>
+        <updated>2023-11-01T03:19:47.276Z</updated>
+        <content type="html"><![CDATA[‘구남과여라이딩스텔라’의 조웅이 테이프로 녹음한 어쿠스틱 사운드의 솔로 앨범을 들고 돌아왔다...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자급자족 해루질 할 수 있는 오토캠핑장 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81729</id>
+        <link href="https://www.esquirekorea.co.kr/article/81729"/>
+        <updated>2023-11-01T03:19:47.280Z</updated>
+        <content type="html"><![CDATA[해루질 하기 최적의 시기. 캠핑하면서 해루질까지 하기 좋은 캠핑장은 어디?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울에서 맛보는 독도새우 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81728</id>
+        <link href="https://www.esquirekorea.co.kr/article/81728"/>
+        <updated>2023-11-01T03:19:47.289Z</updated>
+        <content type="html"><![CDATA[새우계의 에르메스.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부커상 더블 롱리스트, 안톤 허가 겸손을 거부하는 이유]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81665</id>
+        <link href="https://www.esquirekorea.co.kr/article/81665"/>
+        <updated>2023-11-01T03:19:47.290Z</updated>
+        <content type="html"><![CDATA[번역가의 일에 대한 안톤 허의 에세이집 &lt;하지 말라고는 안 했잖아요?&gt;는 온갖 불평불만으로 가...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일러스트레이터 키크니의 <일러바치기> 전시회와 신사 데이트 풀코스 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81691</id>
+        <link href="https://www.esquirekorea.co.kr/article/81691"/>
+        <updated>2023-10-28T15:17:59.897Z</updated>
+        <content type="html"><![CDATA[전시회부터 맛집, 카페, 레코드 바까지 분위기 좋은 곳으로 엄선했다.]]></content>
+    </entry>
+</feed>
