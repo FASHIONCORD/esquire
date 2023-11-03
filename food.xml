@@ -1,75 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 푸드</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 09:19:26 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[11월 1일은 한우의 날! 이색 한우 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81817</link>
-            <guid>https://www.esquirekorea.co.kr/article/81817</guid>
-            <pubDate>Fri, 03 Nov 2023 09:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[한우 케이크, 회전 레일 한우, 불쇼 한우, 한우 갈비 파이까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/01/63b65291-ce28-46e3-af70-d5c666932a97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[균류의 대표주자인 버섯이 최고의 식재료로 떠오른 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81639</link>
-            <guid>https://www.esquirekorea.co.kr/article/81639</guid>
-            <pubDate>Thu, 02 Nov 2023 15:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[‘부패’나 ‘독’ 등의 단어를 떠올리게 하는 균류의 대표 주자 버섯은 이제 누구나 먹고 싶어...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/31/d92536a2-58aa-4e69-bced-08d752eddae1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울에서 맛보는 독도새우 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81728</link>
-            <guid>https://www.esquirekorea.co.kr/article/81728</guid>
-            <pubDate>Thu, 02 Nov 2023 09:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[새우계의 에르메스.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/a8b48df2-5d28-4062-813f-05d359e865d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일러스트레이터 키크니의 <일러바치기> 전시회와 신사 데이트 풀코스 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81691</link>
-            <guid>https://www.esquirekorea.co.kr/article/81691</guid>
-            <pubDate>Thu, 02 Nov 2023 09:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[전시회부터 맛집, 카페, 레코드 바까지 분위기 좋은 곳으로 엄선했다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/96dd5e61-73de-48fa-bda6-7bbadb463212.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칼국수와 수제비의 조합! 서울 칼제비 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81684</link>
-            <guid>https://www.esquirekorea.co.kr/article/81684</guid>
-            <pubDate>Wed, 01 Nov 2023 15:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[양념 반 후라이드 반, 짬짜면에 이은 세기의 만남.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/e95fd95b-93a3-4840-81b5-2df09e36ca5d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캠핑의 낭만을 그대로, 서울 캠핑 컨셉 식당 2023 ver.]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81668</link>
-            <guid>https://www.esquirekorea.co.kr/article/81668</guid>
-            <pubDate>Tue, 31 Oct 2023 15:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[다 준비되어 있으니 몸만 오면 된다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/7f337f76-1bbc-4ff7-8570-fe588b0fe1ac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이색 붕어빵 카페 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81667</link>
-            <guid>https://www.esquirekorea.co.kr/article/81667</guid>
-            <pubDate>Mon, 30 Oct 2023 15:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[붕어빵 오마카세부터 앙버터 붕어빵까지.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/26/65576db3-dac5-4b12-a735-1269bab1ae30.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[등산러 맛집 가이드 '수락산' 편]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81663</link>
-            <guid>https://www.esquirekorea.co.kr/article/81663</guid>
-            <pubDate>Sat, 28 Oct 2023 09:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[단풍놀이도 식후경.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/e8bdf4a9-dd3f-41c1-bbae-c73047a26172.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/food</id>
+    <title>에스콰이어 코리아 ─ 푸드</title>
+    <updated>2023-11-03T15:19:30.675Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전국 각지에서 찾은 제철 맞은 석화 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81857</id>
+        <link href="https://www.esquirekorea.co.kr/article/81857"/>
+        <updated>2023-11-03T15:18:46.028Z</updated>
+        <content type="html"><![CDATA[석화찜, 구이, 순두부, 회까지 메뉴도 다양하다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이발관의 변신은 어디까지? 이발관 술집 3]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81856</id>
+        <link href="https://www.esquirekorea.co.kr/article/81856"/>
+        <updated>2023-11-03T15:18:46.043Z</updated>
+        <content type="html"><![CDATA[겉과 속이 철저히 다르다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K팝 역대 초동 1위! 세븐틴 맛집]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81826</id>
+        <link href="https://www.esquirekorea.co.kr/article/81826"/>
+        <updated>2023-11-03T15:18:46.045Z</updated>
+        <content type="html"><![CDATA[세븐틴이 회식을 즐긴 장소?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11월 1일은 한우의 날! 이색 한우 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81817</id>
+        <link href="https://www.esquirekorea.co.kr/article/81817"/>
+        <updated>2023-11-03T09:18:44.495Z</updated>
+        <content type="html"><![CDATA[한우 케이크, 회전 레일 한우, 불쇼 한우, 한우 갈비 파이까지.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[균류의 대표주자인 버섯이 최고의 식재료로 떠오른 이유]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81639</id>
+        <link href="https://www.esquirekorea.co.kr/article/81639"/>
+        <updated>2023-11-02T15:18:23.390Z</updated>
+        <content type="html"><![CDATA[‘부패’나 ‘독’ 등의 단어를 떠올리게 하는 균류의 대표 주자 버섯은 이제 누구나 먹고 싶어...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울에서 맛보는 독도새우 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81728</id>
+        <link href="https://www.esquirekorea.co.kr/article/81728"/>
+        <updated>2023-11-02T09:17:15.433Z</updated>
+        <content type="html"><![CDATA[새우계의 에르메스.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일러스트레이터 키크니의 <일러바치기> 전시회와 신사 데이트 풀코스 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81691</id>
+        <link href="https://www.esquirekorea.co.kr/article/81691"/>
+        <updated>2023-11-02T09:17:15.434Z</updated>
+        <content type="html"><![CDATA[전시회부터 맛집, 카페, 레코드 바까지 분위기 좋은 곳으로 엄선했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[칼국수와 수제비의 조합! 서울 칼제비 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81684</id>
+        <link href="https://www.esquirekorea.co.kr/article/81684"/>
+        <updated>2023-11-01T15:19:42.818Z</updated>
+        <content type="html"><![CDATA[양념 반 후라이드 반, 짬짜면에 이은 세기의 만남.]]></content>
+    </entry>
+</feed>
