@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2023-11-05T09:17:02.561Z</updated>
+    <updated>2023-11-05T15:17:36.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몽클레르 컬렉션 2023 가을 겨울]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81821</id>
+        <link href="https://www.esquirekorea.co.kr/article/81821"/>
+        <updated>2023-11-05T15:16:26.064Z</updated>
+        <content type="html"><![CDATA[겨울을 향한 사랑, 홀리데이 시즌을 위해 겨울의 정취를 더했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남자들의 체모 제거가 단순히 개인의 취향 문제가 아닌 이유]]></title>
         <id>https://www.esquirekorea.co.kr/article/81592</id>
@@ -51,12 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/81326"/>
         <updated>2023-10-29T15:16:22.181Z</updated>
         <content type="html"><![CDATA[다른 소재, 다른 모양의 괄사 도구 활용법.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셀린느 스타일을 완벽하게 소화한 박보검의 패션필름]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81362</id>
-        <link href="https://www.esquirekorea.co.kr/article/81362"/>
-        <updated>2023-10-28T09:16:10.333Z</updated>
-        <content type="html"><![CDATA[단편 영화 같은 박보검 패션필름 공개.]]></content>
     </entry>
 </feed>

@@ -1,60 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/people</id>
-    <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-11-05T09:17:02.572Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[스트레이키즈, 새 앨범 티저 이미지 공개]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81737</id>
-        <link href="https://www.esquirekorea.co.kr/article/81737"/>
-        <updated>2023-11-03T09:19:05.853Z</updated>
-        <content type="html"><![CDATA[컴백은 11월 10일.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차학연과 함께 기록한 하루]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81730</id>
-        <link href="https://www.esquirekorea.co.kr/article/81730"/>
-        <updated>2023-11-02T09:17:33.583Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울에서 맛보는 독도새우 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81728</id>
-        <link href="https://www.esquirekorea.co.kr/article/81728"/>
-        <updated>2023-11-02T09:17:33.586Z</updated>
-        <content type="html"><![CDATA[새우계의 에르메스.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차학연 촬영장 비밀 병기 아이템은?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81723</id>
-        <link href="https://www.esquirekorea.co.kr/article/81723"/>
-        <updated>2023-11-01T09:19:45.457Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[izi <응급실> 라이브 무대 공개]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81709</id>
-        <link href="https://www.esquirekorea.co.kr/article/81709"/>
-        <updated>2023-10-30T09:20:00.002Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류승범 <무빙>으로 복귀한 계기?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81682</id>
-        <link href="https://www.esquirekorea.co.kr/article/81682"/>
-        <updated>2023-10-30T03:19:46.363Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비욘세가 직접 제작하고 디자인한 향수 ‘CÉ NOIR’ 출시]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81670</id>
-        <link href="https://www.esquirekorea.co.kr/article/81670"/>
-        <updated>2023-10-28T09:17:14.508Z</updated>
-        <content type="html"><![CDATA[가격은 한화 약 21만6천원.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 2. <무인도의 디바> 강우학과 차학연의 공통점]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81576</id>
-        <link href="https://www.esquirekorea.co.kr/article/81576"/>
-        <updated>2023-10-28T03:18:39.487Z</updated>
-        <content type="html"><![CDATA[차학연은 더 많은 것을 직접 겪고, 느끼고, 배우고 싶다. 그 어떤 도전도 피하지 않고 마주하...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 피플</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 05 Nov 2023 15:17:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스트레이키즈, 새 앨범 티저 이미지 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81737</link>
+            <guid>https://www.esquirekorea.co.kr/article/81737</guid>
+            <pubDate>Fri, 03 Nov 2023 09:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[컴백은 11월 10일.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/30/50e68bfe-8462-47fe-8c95-d6fbeac44eae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차학연과 함께 기록한 하루]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81730</link>
+            <guid>https://www.esquirekorea.co.kr/article/81730</guid>
+            <pubDate>Thu, 02 Nov 2023 09:17:33 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/28/57917496-a754-4298-8eda-b3ef7f37d386.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울에서 맛보는 독도새우 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81728</link>
+            <guid>https://www.esquirekorea.co.kr/article/81728</guid>
+            <pubDate>Thu, 02 Nov 2023 09:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[새우계의 에르메스.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/29/a8b48df2-5d28-4062-813f-05d359e865d7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차학연 촬영장 비밀 병기 아이템은?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81723</link>
+            <guid>https://www.esquirekorea.co.kr/article/81723</guid>
+            <pubDate>Wed, 01 Nov 2023 09:19:45 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/3ebac010-dc4a-4dd8-8abd-09c09c34a5b2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[izi <응급실> 라이브 무대 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81709</link>
+            <guid>https://www.esquirekorea.co.kr/article/81709</guid>
+            <pubDate>Mon, 30 Oct 2023 09:20:00 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/6d478350-ca76-4af9-a937-4c2be77d7416.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[류승범 <무빙>으로 복귀한 계기?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81682</link>
+            <guid>https://www.esquirekorea.co.kr/article/81682</guid>
+            <pubDate>Mon, 30 Oct 2023 03:19:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/64d2b151-1b54-4894-a80a-19e70884e5b4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비욘세가 직접 제작하고 디자인한 향수 ‘CÉ NOIR’ 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81670</link>
+            <guid>https://www.esquirekorea.co.kr/article/81670</guid>
+            <pubDate>Sat, 28 Oct 2023 09:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[가격은 한화 약 21만6천원.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/27/60292d38-d49d-48ff-a50a-90735a0b2d8f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part 2. <무인도의 디바> 강우학과 차학연의 공통점]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81576</link>
+            <guid>https://www.esquirekorea.co.kr/article/81576</guid>
+            <pubDate>Sat, 28 Oct 2023 03:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[차학연은 더 많은 것을 직접 겪고, 느끼고, 배우고 싶다. 그 어떤 도전도 피하지 않고 마주하...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/25/e6afc543-3c42-4b44-af3c-576190835624.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
