@@ -4,9 +4,17 @@
         <title>에스콰이어 코리아 ─ 라이프</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 03:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 09:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2034 피파 월드컵 개최국으로 '사우디아라비아' 사실상 확정]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81883</link>
+            <guid>https://www.esquirekorea.co.kr/article/81883</guid>
+            <pubDate>Mon, 06 Nov 2023 09:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[개최 시기는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/c62a116d-f5b1-4aa6-b912-0b4fca8a7990.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레트로 감성 그대로! 호프 치킨 맛집]]></title>
             <link>https://www.esquirekorea.co.kr/article/81871</link>
@@ -61,14 +69,6 @@
             <pubDate>Thu, 02 Nov 2023 09:17:23 GMT</pubDate>
             <content:encoded><![CDATA[세븐틴이 회식을 즐긴 장소?]]></content:encoded>
             <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/01/24705f2c-79c6-4bb9-acf4-7f33c86d3ff0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스트릿 우먼 파이터2' 최종 우승자 '베베']]></title>
-            <link>https://www.esquirekorea.co.kr/article/81819</link>
-            <guid>https://www.esquirekorea.co.kr/article/81819</guid>
-            <pubDate>Thu, 02 Nov 2023 09:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[베베 우승을 다시 한 번 축하합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/01/843f34b9-b790-4a15-87d6-5649bd084ccc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
