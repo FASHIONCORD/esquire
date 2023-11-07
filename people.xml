@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-11-07T03:19:30.056Z</updated>
+    <updated>2023-11-07T09:18:48.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이엠(I.M), 에스콰이어×엄브로 단독 화보집 출시!]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81840</id>
+        <link href="https://www.esquirekorea.co.kr/article/81840"/>
+        <updated>2023-11-07T09:18:13.597Z</updated>
+        <content type="html"><![CDATA[엄브로 23FW를 입고 제주 곳곳에서 담은 아이엠(I.M) 화보와 인터뷰 일부를 공개한다. 화보집은...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스트릿 우먼 파이터2' 최종 우승자 '베베']]></title>
+        <id>https://www.esquirekorea.co.kr/article/81819</id>
+        <link href="https://www.esquirekorea.co.kr/article/81819"/>
+        <updated>2023-11-07T09:18:13.600Z</updated>
+        <content type="html"><![CDATA[베베 우승을 다시 한 번 축하합니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘무인도의 디바’ 가창력까지 갖춘 박은빈 TMI 12.]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81762</id>
+        <link href="https://www.esquirekorea.co.kr/article/81762"/>
+        <updated>2023-11-07T09:18:13.601Z</updated>
+        <content type="html"><![CDATA[개그콘서트 ‘수다맨’에 나온 소녀였다고?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스트레이키즈, 새 앨범 티저 이미지 공개]]></title>
         <id>https://www.esquirekorea.co.kr/article/81737</id>
@@ -36,25 +57,5 @@
         <id>https://www.esquirekorea.co.kr/article/81709</id>
         <link href="https://www.esquirekorea.co.kr/article/81709"/>
         <updated>2023-10-30T09:20:00.002Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류승범 <무빙>으로 복귀한 계기?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81682</id>
-        <link href="https://www.esquirekorea.co.kr/article/81682"/>
-        <updated>2023-10-30T03:19:46.363Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비욘세가 직접 제작하고 디자인한 향수 ‘CÉ NOIR’ 출시]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81670</id>
-        <link href="https://www.esquirekorea.co.kr/article/81670"/>
-        <updated>2023-10-28T09:17:14.508Z</updated>
-        <content type="html"><![CDATA[가격은 한화 약 21만6천원.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 2. <무인도의 디바> 강우학과 차학연의 공통점]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81576</id>
-        <link href="https://www.esquirekorea.co.kr/article/81576"/>
-        <updated>2023-10-28T03:18:39.487Z</updated>
-        <content type="html"><![CDATA[차학연은 더 많은 것을 직접 겪고, 느끼고, 배우고 싶다. 그 어떤 도전도 피하지 않고 마주하...]]></content>
     </entry>
 </feed>
