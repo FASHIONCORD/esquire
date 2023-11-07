@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-11-07T09:18:48.795Z</updated>
+    <updated>2023-11-07T15:20:02.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[플라워 고유진  라이브 무대]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81890</id>
+        <link href="https://www.esquirekorea.co.kr/article/81890"/>
+        <updated>2023-11-07T15:19:43.242Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이청아 <연인> 때문에 비난 문자 받은 사연?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81863</id>
+        <link href="https://www.esquirekorea.co.kr/article/81863"/>
+        <updated>2023-11-07T15:19:43.242Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이엠(I.M), 에스콰이어×엄브로 단독 화보집 출시!]]></title>
         <id>https://www.esquirekorea.co.kr/article/81840</id>
@@ -45,17 +57,5 @@
         <link href="https://www.esquirekorea.co.kr/article/81728"/>
         <updated>2023-11-02T09:17:33.586Z</updated>
         <content type="html"><![CDATA[새우계의 에르메스.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차학연 촬영장 비밀 병기 아이템은?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81723</id>
-        <link href="https://www.esquirekorea.co.kr/article/81723"/>
-        <updated>2023-11-01T09:19:45.457Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[izi <응급실> 라이브 무대 공개]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81709</id>
-        <link href="https://www.esquirekorea.co.kr/article/81709"/>
-        <updated>2023-10-30T09:20:00.002Z</updated>
     </entry>
 </feed>
