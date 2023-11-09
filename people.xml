@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-11-09T09:18:37.391Z</updated>
+    <updated>2023-11-09T15:19:40.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[플레디스, 세븐틴 이후 9년 만에 보이그룹 데뷔]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81949</id>
+        <link href="https://www.esquirekorea.co.kr/article/81949"/>
+        <updated>2023-11-09T15:19:18.881Z</updated>
+        <content type="html"><![CDATA[세븐틴 동생 그룹은 누구?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘더 마블스’ 개봉 D-1, 새로운 주인공 박서준 TMI 12.]]></title>
         <id>https://www.esquirekorea.co.kr/article/81944</id>
@@ -51,11 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/81737"/>
         <updated>2023-11-03T09:19:05.853Z</updated>
         <content type="html"><![CDATA[컴백은 11월 10일.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차학연과 함께 기록한 하루]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81730</id>
-        <link href="https://www.esquirekorea.co.kr/article/81730"/>
-        <updated>2023-11-02T09:17:33.583Z</updated>
     </entry>
 </feed>

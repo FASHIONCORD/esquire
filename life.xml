@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-11-09T09:18:37.391Z</updated>
+    <updated>2023-11-09T15:19:40.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엑스디너리 히어로즈 'Break the Brake' 라이브 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81929</id>
+        <link href="https://www.esquirekorea.co.kr/article/81929"/>
+        <updated>2023-11-09T15:19:09.824Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울만의 특징을 짚어볼 수 있는 독특한 물가 지표 3]]></title>
         <id>https://www.esquirekorea.co.kr/article/81676</id>
@@ -53,12 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/81857"/>
         <updated>2023-11-03T15:18:57.615Z</updated>
         <content type="html"><![CDATA[석화찜, 구이, 순두부, 회까지 메뉴도 다양하다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이발관의 변신은 어디까지? 이발관 술집 3]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81856</id>
-        <link href="https://www.esquirekorea.co.kr/article/81856"/>
-        <updated>2023-11-03T15:18:57.617Z</updated>
-        <content type="html"><![CDATA[겉과 속이 철저히 다르다.]]></content>
     </entry>
 </feed>
