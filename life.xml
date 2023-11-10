@@ -1,63 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/life</id>
-    <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-11-10T09:18:03.449Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[한우만 취급하는 서울 곱도리탕 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81982</id>
-        <link href="https://www.esquirekorea.co.kr/article/81982"/>
-        <updated>2023-11-10T09:17:36.441Z</updated>
-        <content type="html"><![CDATA[잡내 없이 깔끔한 한우 대창, 곱창과 야들야들한 닭다리살의 만남.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대의 빅 브라더는 당신의 주머니 속에 있다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81936</id>
-        <link href="https://www.esquirekorea.co.kr/article/81936"/>
-        <updated>2023-11-10T09:17:36.445Z</updated>
-        <content type="html"><![CDATA[“빅 브라더는 당신을 지켜보고 있다!” 소설 &lt;1984&gt;에 실린 이 문장은 책 밖으로 나와 이젠 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑스디너리 히어로즈 'Break the Brake' 라이브 공개]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81929</id>
-        <link href="https://www.esquirekorea.co.kr/article/81929"/>
-        <updated>2023-11-09T15:19:09.824Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울만의 특징을 짚어볼 수 있는 독특한 물가 지표 3]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81676</id>
-        <link href="https://www.esquirekorea.co.kr/article/81676"/>
-        <updated>2023-11-09T03:19:25.029Z</updated>
-        <content type="html"><![CDATA[물가상승이 예사롭지 않은 가운데, 서울의 생활물가가 아시아에서 가장 높아 뉴욕과 비슷하다는 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 신상 모츠나베 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81906</id>
-        <link href="https://www.esquirekorea.co.kr/article/81906"/>
-        <updated>2023-11-09T03:19:25.032Z</updated>
-        <content type="html"><![CDATA[모츠나베 맛과 비주얼 모두 잡았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차돌박이(대패)와 새우가 만났다. 차돌새우말이(대패새우말이) 맛집 3]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81902</id>
-        <link href="https://www.esquirekorea.co.kr/article/81902"/>
-        <updated>2023-11-08T09:18:21.309Z</updated>
-        <content type="html"><![CDATA[맛있는 거 옆에 맛있는 거.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 내한 스타들의 입맛을 사로잡은 서울 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81895</id>
-        <link href="https://www.esquirekorea.co.kr/article/81895"/>
-        <updated>2023-11-06T15:21:50.546Z</updated>
-        <content type="html"><![CDATA[톰 크루즈, 포스트 말론, 샘 스미스, 찰리 푸스가 방문한 곳은 어디?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2034 피파 월드컵 개최국으로 '사우디아라비아' 사실상 확정]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81883</id>
-        <link href="https://www.esquirekorea.co.kr/article/81883"/>
-        <updated>2023-11-06T09:20:09.169Z</updated>
-        <content type="html"><![CDATA[개최 시기는?]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 10 Nov 2023 15:19:56 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한우만 취급하는 서울 곱도리탕 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81982</link>
+            <guid>https://www.esquirekorea.co.kr/article/81982</guid>
+            <pubDate>Fri, 10 Nov 2023 09:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[잡내 없이 깔끔한 한우 대창, 곱창과 야들야들한 닭다리살의 만남.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/08/c3503e0e-f743-4cf0-ae26-afc3f518aad5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대의 빅 브라더는 당신의 주머니 속에 있다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81936</link>
+            <guid>https://www.esquirekorea.co.kr/article/81936</guid>
+            <pubDate>Fri, 10 Nov 2023 09:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[“빅 브라더는 당신을 지켜보고 있다!” 소설 &lt;1984&gt;에 실린 이 문장은 책 밖으로 나와 이젠 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/07/6481c756-9d9c-49fa-a76d-2b5872eee528.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엑스디너리 히어로즈 'Break the Brake' 라이브 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81929</link>
+            <guid>https://www.esquirekorea.co.kr/article/81929</guid>
+            <pubDate>Thu, 09 Nov 2023 15:19:09 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/3a8e8fd2-66ba-4656-b479-f1d911854892.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울만의 특징을 짚어볼 수 있는 독특한 물가 지표 3]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81676</link>
+            <guid>https://www.esquirekorea.co.kr/article/81676</guid>
+            <pubDate>Thu, 09 Nov 2023 03:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[물가상승이 예사롭지 않은 가운데, 서울의 생활물가가 아시아에서 가장 높아 뉴욕과 비슷하다는 ...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/04/370dd0d1-e1b1-4b85-9014-20f5c4d76734.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 신상 모츠나베 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81906</link>
+            <guid>https://www.esquirekorea.co.kr/article/81906</guid>
+            <pubDate>Thu, 09 Nov 2023 03:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[모츠나베 맛과 비주얼 모두 잡았다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/06/07d61328-f4b0-40eb-b46f-18881d3b7d80.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차돌박이(대패)와 새우가 만났다. 차돌새우말이(대패새우말이) 맛집 3]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81902</link>
+            <guid>https://www.esquirekorea.co.kr/article/81902</guid>
+            <pubDate>Wed, 08 Nov 2023 09:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[맛있는 거 옆에 맛있는 거.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/1d5c1a8e-a130-4925-91f6-a062b7937d7b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 내한 스타들의 입맛을 사로잡은 서울 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81895</link>
+            <guid>https://www.esquirekorea.co.kr/article/81895</guid>
+            <pubDate>Mon, 06 Nov 2023 15:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[톰 크루즈, 포스트 말론, 샘 스미스, 찰리 푸스가 방문한 곳은 어디?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/84b9f5c3-2dc4-453c-b53c-626842a6e061.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2034 피파 월드컵 개최국으로 '사우디아라비아' 사실상 확정]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81883</link>
+            <guid>https://www.esquirekorea.co.kr/article/81883</guid>
+            <pubDate>Mon, 06 Nov 2023 09:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[개최 시기는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202311/03/c62a116d-f5b1-4aa6-b912-0b4fca8a7990.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
