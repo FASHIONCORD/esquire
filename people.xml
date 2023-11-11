@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-11-10T15:19:56.420Z</updated>
+    <updated>2023-11-11T03:22:12.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독보적인 프로듀서이자 아티스트, 마크 론슨과 보낸 오후]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81806</id>
+        <link href="https://www.esquirekorea.co.kr/article/81806"/>
+        <updated>2023-11-11T03:21:40.406Z</updated>
+        <content type="html"><![CDATA[힙합부터 록까지, 에이미 와인하우스부터 브루노 마스까지. 마크 론슨은 장르를 막론하고 유명 스...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민지 긴장하면 나오는 말투?]]></title>
         <id>https://www.esquirekorea.co.kr/article/81956</id>
@@ -51,12 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/81840"/>
         <updated>2023-11-07T09:18:13.597Z</updated>
         <content type="html"><![CDATA[엄브로 23FW를 입고 제주 곳곳에서 담은 아이엠(I.M) 화보와 인터뷰 일부를 공개한다. 화보집은...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스트릿 우먼 파이터2' 최종 우승자 '베베']]></title>
-        <id>https://www.esquirekorea.co.kr/article/81819</id>
-        <link href="https://www.esquirekorea.co.kr/article/81819"/>
-        <updated>2023-11-07T09:18:13.600Z</updated>
-        <content type="html"><![CDATA[베베 우승을 다시 한 번 축하합니다.]]></content>
     </entry>
 </feed>
