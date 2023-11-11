@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2023-11-11T09:17:08.333Z</updated>
+    <updated>2023-11-11T15:19:41.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이런 립밤]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81759</id>
+        <link href="https://www.esquirekorea.co.kr/article/81759"/>
+        <updated>2023-11-11T15:17:17.372Z</updated>
+        <content type="html"><![CDATA[남자의 입술에 생기를 부여하는 틴티드 립밤의 세계.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그런지 코어에 대하여]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81994</id>
+        <link href="https://www.esquirekorea.co.kr/article/81994"/>
+        <updated>2023-11-11T15:17:17.377Z</updated>
+        <content type="html"><![CDATA[커트 코베인이 만들어낸 누추한 아름다움.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스찬 루부탱이 만든 페니로퍼]]></title>
         <id>https://www.esquirekorea.co.kr/article/81859</id>
@@ -44,19 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/81829"/>
         <updated>2023-11-07T15:18:46.545Z</updated>
         <content type="html"><![CDATA[상상의 우주 공간에서 펼쳐지는 홀리데이 시즌으로의 여정.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몽클레르 컬렉션 2023 가을 겨울]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81821</id>
-        <link href="https://www.esquirekorea.co.kr/article/81821"/>
-        <updated>2023-11-05T15:16:26.064Z</updated>
-        <content type="html"><![CDATA[겨울을 향한 사랑, 홀리데이 시즌을 위해 겨울의 정취를 더했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남자들의 체모 제거가 단순히 개인의 취향 문제가 아닌 이유]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81592</id>
-        <link href="https://www.esquirekorea.co.kr/article/81592"/>
-        <updated>2023-11-04T15:16:34.682Z</updated>
-        <content type="html"><![CDATA[몸의 털을 제거하는 남자들이 늘고 있다. 연령대가 내려갈수록 제모 비율도 높아진다. 하지만 남...]]></content>
     </entry>
 </feed>
