@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/now</id>
-    <title>에스콰이어 코리아 ─ 나우</title>
-    <updated>2023-11-14T03:19:33.367Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[콘서트를 앞두고 ‘폼 미친’ 영탁 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81445</id>
-        <link href="https://www.esquirekorea.co.kr/article/81445"/>
-        <updated>2023-11-02T09:17:41.395Z</updated>
-        <content type="html"><![CDATA[여기가 찐찐찐찐 찐이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타워즈 속 촬영 소품 'X-윙 전투기' 경매 등장]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81412</id>
-        <link href="https://www.esquirekorea.co.kr/article/81412"/>
-        <updated>2023-10-31T15:20:08.197Z</updated>
-        <content type="html"><![CDATA[두 명이 경쟁 끝에 약 42억 원에 낙찰됐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스, 복합 문화공간 '넷플릭스 하우스' 오픈 예정]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81390</id>
-        <link href="https://www.esquirekorea.co.kr/article/81390"/>
-        <updated>2023-10-25T09:19:20.186Z</updated>
-        <content type="html"><![CDATA[2025년 미국을 시작으로 전 세계로 확장할 계획이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[40주년을 맞아 새 시리즈로 돌아오는 드래곤볼]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81369</id>
-        <link href="https://www.esquirekorea.co.kr/article/81369"/>
-        <updated>2023-10-24T15:21:39.643Z</updated>
-        <content type="html"><![CDATA[2024년 가을에 공개 예정.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박보검 거울 볼 때 드는 생각?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81363</id>
-        <link href="https://www.esquirekorea.co.kr/article/81363"/>
-        <updated>2023-10-19T15:20:22.039Z</updated>
-        <content type="html"><![CDATA[배우 박보검과 함께한 ‘IN STAR’ 인터뷰 공개!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셀린느 스타일을 완벽하게 소화한 박보검의 패션필름]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81362</id>
-        <link href="https://www.esquirekorea.co.kr/article/81362"/>
-        <updated>2023-10-18T15:19:58.397Z</updated>
-        <content type="html"><![CDATA[단편 영화 같은 박보검 패션필름 공개.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나사, 2040년까지 달에 주택 단지 건설]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81223</id>
-        <link href="https://www.esquirekorea.co.kr/article/81223"/>
-        <updated>2023-10-17T15:21:30.173Z</updated>
-        <content type="html"><![CDATA[달나라에서의 숙박이 현실로?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[납작 우동, 히모카와 우동 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80771</id>
-        <link href="https://www.esquirekorea.co.kr/article/80771"/>
-        <updated>2023-10-16T15:19:58.632Z</updated>
-        <content type="html"><![CDATA[밀키트와 비교할 수 없는 맛.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 나우</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 14 Nov 2023 09:19:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콘서트를 앞두고 ‘폼 미친’ 영탁 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81445</link>
+            <guid>https://www.esquirekorea.co.kr/article/81445</guid>
+            <pubDate>Thu, 02 Nov 2023 09:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[여기가 찐찐찐찐 찐이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/19/96e29ee1-f31a-4642-a527-8967e15fc42c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타워즈 속 촬영 소품 'X-윙 전투기' 경매 등장]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81412</link>
+            <guid>https://www.esquirekorea.co.kr/article/81412</guid>
+            <pubDate>Tue, 31 Oct 2023 15:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[두 명이 경쟁 끝에 약 42억 원에 낙찰됐다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/17/4d0a115a-51c0-4fb2-81a9-87068b05e130.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넷플릭스, 복합 문화공간 '넷플릭스 하우스' 오픈 예정]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81390</link>
+            <guid>https://www.esquirekorea.co.kr/article/81390</guid>
+            <pubDate>Wed, 25 Oct 2023 09:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[2025년 미국을 시작으로 전 세계로 확장할 계획이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/16/d9cea050-9c24-4d64-910f-0ead71dd8c17.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[40주년을 맞아 새 시리즈로 돌아오는 드래곤볼]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81369</link>
+            <guid>https://www.esquirekorea.co.kr/article/81369</guid>
+            <pubDate>Tue, 24 Oct 2023 15:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 가을에 공개 예정.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/15/75cf011f-f521-45e3-ba8c-6348b0c32765.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박보검 거울 볼 때 드는 생각?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81363</link>
+            <guid>https://www.esquirekorea.co.kr/article/81363</guid>
+            <pubDate>Thu, 19 Oct 2023 15:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[배우 박보검과 함께한 ‘IN STAR’ 인터뷰 공개!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/23/e1546da9-a6ec-4633-be36-82cd0e5ad8af.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[셀린느 스타일을 완벽하게 소화한 박보검의 패션필름]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81362</link>
+            <guid>https://www.esquirekorea.co.kr/article/81362</guid>
+            <pubDate>Wed, 18 Oct 2023 15:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[단편 영화 같은 박보검 패션필름 공개.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/14/83990148-bc0a-4c66-b98c-6456ce44861b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나사, 2040년까지 달에 주택 단지 건설]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81223</link>
+            <guid>https://www.esquirekorea.co.kr/article/81223</guid>
+            <pubDate>Tue, 17 Oct 2023 15:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[달나라에서의 숙박이 현실로?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202310/09/4e10fd9e-586b-4a63-8834-58fc307114d2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[납작 우동, 히모카와 우동 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/80771</link>
+            <guid>https://www.esquirekorea.co.kr/article/80771</guid>
+            <pubDate>Mon, 16 Oct 2023 15:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[밀키트와 비교할 수 없는 맛.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202309/22/8d76e4a1-8205-4d2d-9284-2139c5f169e5.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
