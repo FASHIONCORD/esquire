@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/food</id>
     <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2023-11-16T03:20:34.858Z</updated>
+    <updated>2023-11-16T09:19:15.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[팔팔 끓는 돌판 위 돌짬뽕 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82032</id>
+        <link href="https://www.esquirekorea.co.kr/article/82032"/>
+        <updated>2023-11-16T09:18:25.152Z</updated>
+        <content type="html"><![CDATA[추운 날씨에 생각날 뜨끈한 돌짬뽕.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[굴 제철 시작, 굴 솥밥 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82030</id>
+        <link href="https://www.esquirekorea.co.kr/article/82030"/>
+        <updated>2023-11-16T09:18:25.153Z</updated>
+        <content type="html"><![CDATA[탱글한 굴을 가장 맛있게 먹을 수 있는 때.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소주 무한리필해 주는 이모카세 실비집 3]]></title>
         <id>https://www.esquirekorea.co.kr/article/82015</id>
@@ -46,19 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/81902"/>
         <updated>2023-11-09T15:18:58.871Z</updated>
         <content type="html"><![CDATA[맛있는 거 옆에 맛있는 거.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 내한 스타들의 입맛을 사로잡은 서울 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81895</id>
-        <link href="https://www.esquirekorea.co.kr/article/81895"/>
-        <updated>2023-11-08T15:19:52.758Z</updated>
-        <content type="html"><![CDATA[톰 크루즈, 포스트 말론, 샘 스미스, 찰리 푸스가 방문한 곳은 어디?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레트로 감성 그대로! 호프 치킨 맛집]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81871</id>
-        <link href="https://www.esquirekorea.co.kr/article/81871"/>
-        <updated>2023-11-08T09:18:13.427Z</updated>
-        <content type="html"><![CDATA[간판부터 남다르다.]]></content>
     </entry>
 </feed>
