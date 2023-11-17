@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/carandtech</id>
     <title>에스콰이어 코리아 ─ 카&amp;테크</title>
-    <updated>2023-11-17T03:20:29.052Z</updated>
+    <updated>2023-11-17T09:18:49.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도로 위를 박물관으로 만드는 전설의 클래식카 4대]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81579</id>
+        <link href="https://www.esquirekorea.co.kr/article/81579"/>
+        <updated>2023-11-17T09:18:08.051Z</updated>
+        <content type="html"><![CDATA[“이 차가 왜 여기서 나와?”라는 말이 저절로 나온다. 공도를 달리며 도합 213세를 자랑하는 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손목에 차는 스마트폰?]]></title>
         <id>https://www.esquirekorea.co.kr/article/81696</id>
@@ -51,11 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/81043"/>
         <updated>2023-10-26T15:19:11.225Z</updated>
         <content type="html"><![CDATA[로터스가 뉴욕에서 900마력짜리 EV 4도어 GT 모델 ‘에메야’를 공개했다. 그들이 새로운 도약...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싼타페 디자인 비하인드 스토리]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81037</id>
-        <link href="https://www.esquirekorea.co.kr/article/81037"/>
-        <updated>2023-10-13T09:18:15.980Z</updated>
     </entry>
 </feed>
