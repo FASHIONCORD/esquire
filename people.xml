@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-11-17T09:18:49.526Z</updated>
+    <updated>2023-11-17T15:19:34.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모스키노의 크리에이티브 디렉터, 다비드 렌 별세]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82061</id>
+        <link href="https://www.esquirekorea.co.kr/article/82061"/>
+        <updated>2023-11-17T15:19:15.282Z</updated>
+        <content type="html"><![CDATA[갑작스러운 병세로 추정된다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이별 노래 대표곡 '고칠게', 진원 라이브 무대]]></title>
         <id>https://www.esquirekorea.co.kr/article/82045</id>
@@ -50,12 +57,5 @@
         <link href="https://www.esquirekorea.co.kr/article/81956"/>
         <updated>2023-11-10T09:17:46.096Z</updated>
         <content type="html"><![CDATA[가을 루틴부터 추천하고 싶은 2024 첫 곡까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지니, 한소희에게 쓰는 영상편지?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81950</id>
-        <link href="https://www.esquirekorea.co.kr/article/81950"/>
-        <updated>2023-11-10T03:19:38.706Z</updated>
-        <content type="html"><![CDATA[인스타그램에선 지니의 셀카도 볼 수 있다.]]></content>
     </entry>
 </feed>
