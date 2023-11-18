@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Nov 2023 09:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 15:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1294,6 +1294,20 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[로터스가 뉴욕에서 900마력짜리 EV 4도어 GT 모델 ‘에메야’를 공개했다. 그들이 새로운 도약...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[불토 보냈다면? 일요일 아침에도 여는 해장국 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82175</link>
+            <guid>https://www.esquirekorea.co.kr/article/82175</guid>
+            <pubDate>Sat, 18 Nov 2023 15:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[주말 해장 고민은 이제 그만.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[탕계의 에르메스? 한우 방치탕 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82160</link>
+            <guid>https://www.esquirekorea.co.kr/article/82160</guid>
+            <pubDate>Sat, 18 Nov 2023 03:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[진짜 고수는 방치탕을 즐기는 법.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[진한 국물이 일품인 서울 우육면 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82159</link>
             <guid>https://www.esquirekorea.co.kr/article/82159</guid>
@@ -1334,20 +1348,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/82030</guid>
             <pubDate>Thu, 16 Nov 2023 09:18:25 GMT</pubDate>
             <content:encoded><![CDATA[탱글한 굴을 가장 맛있게 먹을 수 있는 때.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소주 무한리필해 주는 이모카세 실비집 3 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82015</link>
-            <guid>https://www.esquirekorea.co.kr/article/82015</guid>
-            <pubDate>Wed, 15 Nov 2023 09:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[지갑 걱정 없이 술 마실 수 있는 곳?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 신사 신상 카페 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81990</link>
-            <guid>https://www.esquirekorea.co.kr/article/81990</guid>
-            <pubDate>Sun, 12 Nov 2023 15:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[이 구역의 트렌드 세터.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[돈두댓] 흠뻑 사정하는 방법 (에스콰이어 코리아 ─ 라이프)]]></title>
