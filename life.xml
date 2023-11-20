@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-11-20T03:20:06.117Z</updated>
+    <updated>2023-11-20T09:20:09.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일본 감성 그대로 서울 사케 바 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82176</id>
+        <link href="https://www.esquirekorea.co.kr/article/82176"/>
+        <updated>2023-11-20T09:19:44.640Z</updated>
+        <content type="html"><![CDATA[신선한 해산물 안주는 기본.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[돈두댓] 흠뻑 사정하는 방법]]></title>
         <id>https://www.esquirekorea.co.kr/article/82165</id>
@@ -53,12 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/82032"/>
         <updated>2023-11-16T09:18:37.099Z</updated>
         <content type="html"><![CDATA[추운 날씨에 생각날 뜨끈한 돌짬뽕.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[굴 제철 시작, 굴 솥밥 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82030</id>
-        <link href="https://www.esquirekorea.co.kr/article/82030"/>
-        <updated>2023-11-16T09:18:37.099Z</updated>
-        <content type="html"><![CDATA[탱글한 굴을 가장 맛있게 먹을 수 있는 때.]]></content>
     </entry>
 </feed>
