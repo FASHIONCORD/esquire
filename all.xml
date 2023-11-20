@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 09:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 15:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1350,6 +1350,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[탱글한 굴을 가장 맛있게 먹을 수 있는 때.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[RIIZE, NCT, 르세라핌의 가사를 쓴 danke의 취향 가득 플레이리스트 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82183</link>
+            <guid>https://www.esquirekorea.co.kr/article/82183</guid>
+            <pubDate>Mon, 20 Nov 2023 15:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[모든 추천 트랙은 에스콰이어 유튜브 채널에서 확인할 수 있다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[일본 감성 그대로 서울 사케 바 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82176</link>
             <guid>https://www.esquirekorea.co.kr/article/82176</guid>
@@ -1399,11 +1406,17 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[네 명의 아트북 서점 디렉터들이 고른 책.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[팔팔 끓는 돌판 위 돌짬뽕 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82032</link>
-            <guid>https://www.esquirekorea.co.kr/article/82032</guid>
-            <pubDate>Thu, 16 Nov 2023 09:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[추운 날씨에 생각날 뜨끈한 돌짬뽕.]]></content:encoded>
+            <title><![CDATA[‘정신병동에도 아침이 와요’ 따뜻한 간호사 정다은, 박보영 TMI 12 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82079</link>
+            <guid>https://www.esquirekorea.co.kr/article/82079</guid>
+            <pubDate>Mon, 20 Nov 2023 15:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[산돌초록우산어린이체는 박보영의 글씨체?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엑스디너리 히어로즈, 열 번째 재구매한 아이템은? (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82062</link>
+            <guid>https://www.esquirekorea.co.kr/article/82062</guid>
+            <pubDate>Mon, 20 Nov 2023 15:20:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[모스키노의 크리에이티브 디렉터, 다비드 렌 별세 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1443,20 +1456,6 @@ The New MINI Countryman과 일상에
             <link>https://www.esquirekorea.co.kr/article/82006</link>
             <guid>https://www.esquirekorea.co.kr/article/82006</guid>
             <pubDate>Sun, 12 Nov 2023 09:17:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[독보적인 프로듀서이자 아티스트, 마크 론슨과 보낸 오후 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81806</link>
-            <guid>https://www.esquirekorea.co.kr/article/81806</guid>
-            <pubDate>Sat, 11 Nov 2023 03:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[힙합부터 록까지, 에이미 와인하우스부터 브루노 마스까지. 마크 론슨은 장르를 막론하고 유명 스...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[민지 긴장하면 나오는 말투? (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81956</link>
-            <guid>https://www.esquirekorea.co.kr/article/81956</guid>
-            <pubDate>Fri, 10 Nov 2023 09:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[가을 루틴부터 추천하고 싶은 2024 첫 곡까지.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[부동산 시장에 나온 타미 힐피거의 저택 (에스콰이어 코리아 ─ 나우)]]></title>

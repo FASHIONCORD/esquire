@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-11-20T09:20:09.172Z</updated>
+    <updated>2023-11-20T15:21:28.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘정신병동에도 아침이 와요’ 따뜻한 간호사 정다은, 박보영 TMI 12]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82079</id>
+        <link href="https://www.esquirekorea.co.kr/article/82079"/>
+        <updated>2023-11-20T15:20:57.349Z</updated>
+        <content type="html"><![CDATA[산돌초록우산어린이체는 박보영의 글씨체?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엑스디너리 히어로즈, 열 번째 재구매한 아이템은?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82062</id>
+        <link href="https://www.esquirekorea.co.kr/article/82062"/>
+        <updated>2023-11-20T15:20:57.351Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모스키노의 크리에이티브 디렉터, 다비드 렌 별세]]></title>
         <id>https://www.esquirekorea.co.kr/article/82061</id>
@@ -43,19 +56,5 @@
         <id>https://www.esquirekorea.co.kr/article/82006</id>
         <link href="https://www.esquirekorea.co.kr/article/82006"/>
         <updated>2023-11-12T09:17:05.053Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독보적인 프로듀서이자 아티스트, 마크 론슨과 보낸 오후]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81806</id>
-        <link href="https://www.esquirekorea.co.kr/article/81806"/>
-        <updated>2023-11-11T03:21:40.406Z</updated>
-        <content type="html"><![CDATA[힙합부터 록까지, 에이미 와인하우스부터 브루노 마스까지. 마크 론슨은 장르를 막론하고 유명 스...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민지 긴장하면 나오는 말투?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81956</id>
-        <link href="https://www.esquirekorea.co.kr/article/81956"/>
-        <updated>2023-11-10T09:17:46.096Z</updated>
-        <content type="html"><![CDATA[가을 루틴부터 추천하고 싶은 2024 첫 곡까지.]]></content>
     </entry>
 </feed>
