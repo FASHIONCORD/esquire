@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 15:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 03:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1349,6 +1349,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[탱글한 굴을 가장 맛있게 먹을 수 있는 때.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[서울 자가제면 라멘집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82200</link>
+            <guid>https://www.esquirekorea.co.kr/article/82200</guid>
+            <pubDate>Wed, 22 Nov 2023 03:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[라멘의 생명은 탄탄한 면발.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[RIIZE, NCT, 르세라핌의 가사를 쓴 danke의 취향 가득 플레이리스트 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82183</link>
             <guid>https://www.esquirekorea.co.kr/article/82183</guid>
@@ -1398,11 +1405,10 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[맛집 정답은 바로 여기.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가을을 위한 북마크 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81763</link>
-            <guid>https://www.esquirekorea.co.kr/article/81763</guid>
-            <pubDate>Thu, 16 Nov 2023 09:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[네 명의 아트북 서점 디렉터들이 고른 책.]]></content:encoded>
+            <title><![CDATA[최근 비비가 재밌게 읽은 만화책은? (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82205</link>
+            <guid>https://www.esquirekorea.co.kr/article/82205</guid>
+            <pubDate>Wed, 22 Nov 2023 03:20:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[더 넛츠 잔소리, 또르르 라이브 무대 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1448,13 +1454,6 @@ The New MINI Countryman과 일상에
             <link>https://www.esquirekorea.co.kr/article/82033</link>
             <guid>https://www.esquirekorea.co.kr/article/82033</guid>
             <pubDate>Fri, 17 Nov 2023 09:18:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['연인' 파트2 각화 역 이청아 화보 공개 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82021</link>
-            <guid>https://www.esquirekorea.co.kr/article/82021</guid>
-            <pubDate>Sun, 12 Nov 2023 09:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[에스콰이어와 처음 합을 맞춘 이청아의 화보를 공개한다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[프레츨 탕후루? K-패치 완료된 참신한 디저트 4 (에스콰이어 코리아 ─ 나우)]]></title>
