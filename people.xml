@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-11-22T03:20:50.217Z</updated>
+    <updated>2023-11-22T09:19:31.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[T1 롤드컵 우승 축하 기념, 페이커 이상혁 TMI 12]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82241</id>
+        <link href="https://www.esquirekorea.co.kr/article/82241"/>
+        <updated>2023-11-22T09:19:14.467Z</updated>
+        <content type="html"><![CDATA[페이커의 집 안에선 술래잡기도 가능하다?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최근 비비가 재밌게 읽은 만화책은?]]></title>
         <id>https://www.esquirekorea.co.kr/article/82205</id>
@@ -49,11 +56,5 @@
         <id>https://www.esquirekorea.co.kr/article/82045</id>
         <link href="https://www.esquirekorea.co.kr/article/82045"/>
         <updated>2023-11-17T09:18:30.865Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이엠 에스콰이어 사진집 패션필름 공개]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82033</id>
-        <link href="https://www.esquirekorea.co.kr/article/82033"/>
-        <updated>2023-11-17T09:18:30.866Z</updated>
     </entry>
 </feed>
