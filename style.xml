@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2023-11-23T03:20:14.848Z</updated>
+    <updated>2023-11-23T09:18:55.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Part 3. 뉴 네임, 영 보이스]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81867</id>
+        <link href="https://www.esquirekorea.co.kr/article/81867"/>
+        <updated>2023-11-23T09:17:56.806Z</updated>
+        <content type="html"><![CDATA[패션에 대한 순수한 열정과 재기 발랄한 아이디어, 젊은 패기로 거대 패션 하우스 사이에서 조...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엑스디너리 히어로즈, 열 번째 재구매한 아이템은?]]></title>
         <id>https://www.esquirekorea.co.kr/article/82062</id>
@@ -49,12 +56,5 @@
         <id>https://www.esquirekorea.co.kr/article/82049</id>
         <link href="https://www.esquirekorea.co.kr/article/82049"/>
         <updated>2023-11-12T09:16:19.133Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인' 파트2 각화 역 이청아 화보 공개]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82021</id>
-        <link href="https://www.esquirekorea.co.kr/article/82021"/>
-        <updated>2023-11-12T09:16:19.135Z</updated>
-        <content type="html"><![CDATA[에스콰이어와 처음 합을 맞춘 이청아의 화보를 공개한다.]]></content>
     </entry>
 </feed>
