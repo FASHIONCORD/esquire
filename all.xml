@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 15:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 03:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1292,6 +1292,13 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 27 Oct 2023 15:18:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[서울 자가제면 라멘집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82200</link>
+            <guid>https://www.esquirekorea.co.kr/article/82200</guid>
+            <pubDate>Wed, 22 Nov 2023 03:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[라멘의 생명은 탄탄한 면발.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[일본 감성 그대로 서울 사케 바 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82176</link>
             <guid>https://www.esquirekorea.co.kr/article/82176</guid>
@@ -1341,11 +1348,11 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[뱀이다!]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[팔팔 끓는 돌판 위 돌짬뽕 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82032</link>
-            <guid>https://www.esquirekorea.co.kr/article/82032</guid>
-            <pubDate>Thu, 16 Nov 2023 09:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[추운 날씨에 생각날 뜨끈한 돌짬뽕.]]></content:encoded>
+            <title><![CDATA[100년 전통의 전국 국밥 노포 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82208</link>
+            <guid>https://www.esquirekorea.co.kr/article/82208</guid>
+            <pubDate>Fri, 24 Nov 2023 03:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[오래 끓인 사골만큼 깊은 역사를 자랑한다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울 자가제면 라멘집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1395,13 +1402,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/82139</guid>
             <pubDate>Fri, 17 Nov 2023 09:18:15 GMT</pubDate>
             <content:encoded><![CDATA[29년 만의 우승은 못 참지. LG 트윈스 팬들이여 축배는 여기서 들라.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[수능 끝나고 어디 가지? 대치동 학원가 근처 한티역 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82115</link>
-            <guid>https://www.esquirekorea.co.kr/article/82115</guid>
-            <pubDate>Thu, 16 Nov 2023 15:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[맛집 정답은 바로 여기.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Part 1. <서울의 봄>의 두 주인공, 황정민・정우성의 느와르 (에스콰이어 코리아 ─ 피플)]]></title>
