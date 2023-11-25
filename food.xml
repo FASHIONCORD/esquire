@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/food</id>
     <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2023-11-24T15:19:20.733Z</updated>
+    <updated>2023-11-25T03:20:21.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘어쩌다 사장3’ 조인성 맛집 3]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82381</id>
+        <link href="https://www.esquirekorea.co.kr/article/82381"/>
+        <updated>2023-11-25T03:19:46.086Z</updated>
+        <content type="html"><![CDATA[잔치 국수가 단돈 6000원?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전통주 하이볼이 시그너처, 서울 한식주점 2023 ver]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82370</id>
+        <link href="https://www.esquirekorea.co.kr/article/82370"/>
+        <updated>2023-11-25T03:19:46.087Z</updated>
+        <content type="html"><![CDATA[이게 진짜 한국식 하이볼.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 블루리본 서베이 선정 신규 맛집 4]]></title>
         <id>https://www.esquirekorea.co.kr/article/82214</id>
@@ -46,19 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/82175"/>
         <updated>2023-11-18T15:17:20.786Z</updated>
         <content type="html"><![CDATA[주말 해장 고민은 이제 그만.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탕계의 에르메스? 한우 방치탕 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82160</id>
-        <link href="https://www.esquirekorea.co.kr/article/82160"/>
-        <updated>2023-11-18T15:17:20.788Z</updated>
-        <content type="html"><![CDATA[진짜 고수는 방치탕을 즐기는 법.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진한 국물이 일품인 서울 우육면 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82159</id>
-        <link href="https://www.esquirekorea.co.kr/article/82159"/>
-        <updated>2023-11-18T03:19:05.970Z</updated>
-        <content type="html"><![CDATA[미쉐린 선정 식당부터 중국인 셰프가 있는 곳까지.]]></content>
     </entry>
 </feed>
