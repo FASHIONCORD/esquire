@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-11-26T09:18:45.491Z</updated>
+    <updated>2023-11-26T15:18:45.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Part 2. 이성민과 김성균이 <서울의 봄> 시나리오를 받고 한 생각]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82189</id>
+        <link href="https://www.esquirekorea.co.kr/article/82189"/>
+        <updated>2023-11-26T15:17:59.570Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Part 1. <서울의 봄>의 두 주인공, 황정민・정우성의 느와르]]></title>
         <id>https://www.esquirekorea.co.kr/article/82187</id>
@@ -50,11 +56,5 @@
         <link href="https://www.esquirekorea.co.kr/article/82079"/>
         <updated>2023-11-20T15:20:57.349Z</updated>
         <content type="html"><![CDATA[산돌초록우산어린이체는 박보영의 글씨체?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑스디너리 히어로즈, 열 번째 재구매한 아이템은?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82062</id>
-        <link href="https://www.esquirekorea.co.kr/article/82062"/>
-        <updated>2023-11-20T15:20:57.351Z</updated>
     </entry>
 </feed>

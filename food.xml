@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/food</id>
     <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2023-11-26T09:18:45.515Z</updated>
+    <updated>2023-11-26T15:18:45.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[돼지고기 폭탄 고추장찌개 포차 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82403</id>
+        <link href="https://www.esquirekorea.co.kr/article/82403"/>
+        <updated>2023-11-26T15:17:13.094Z</updated>
+        <content type="html"><![CDATA[이곳이 '찐'이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘어쩌다 사장3’ 조인성 맛집 3]]></title>
         <id>https://www.esquirekorea.co.kr/article/82381</id>
@@ -53,12 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/82176"/>
         <updated>2023-11-23T15:18:43.633Z</updated>
         <content type="html"><![CDATA[신선한 해산물 안주는 기본.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불토 보냈다면? 일요일 아침에도 여는 해장국 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82175</id>
-        <link href="https://www.esquirekorea.co.kr/article/82175"/>
-        <updated>2023-11-18T15:17:20.786Z</updated>
-        <content type="html"><![CDATA[주말 해장 고민은 이제 그만.]]></content>
     </entry>
 </feed>
