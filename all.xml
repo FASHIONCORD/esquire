@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 03:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 09:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1458,6 +1458,13 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 21 Nov 2023 09:19:47 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[미국 LA 아카데미 뮤지엄, 배우 송강호 회고전 연다 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82154</link>
+            <guid>https://www.esquirekorea.co.kr/article/82154</guid>
+            <pubDate>Tue, 28 Nov 2023 09:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[해외 및 국내 영화인 최초로 배우 송강호의 회고전이 LA 아카데미 뮤지엄에서 열린다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[전국 각지에서 찾은 제철 맞은 석화 맛집 4 (에스콰이어 코리아 ─ 나우)]]></title>
             <link>https://www.esquirekorea.co.kr/article/81857</link>
             <guid>https://www.esquirekorea.co.kr/article/81857</guid>
@@ -1505,13 +1512,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81412</guid>
             <pubDate>Tue, 31 Oct 2023 15:20:08 GMT</pubDate>
             <content:encoded><![CDATA[두 명이 경쟁 끝에 약 42억 원에 낙찰됐다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스, 복합 문화공간 '넷플릭스 하우스' 오픈 예정 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81390</link>
-            <guid>https://www.esquirekorea.co.kr/article/81390</guid>
-            <pubDate>Wed, 25 Oct 2023 09:19:20 GMT</pubDate>
-            <content:encoded><![CDATA[2025년 미국을 시작으로 전 세계로 확장할 계획이다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[Eshop] 보면 볼수록 빠져 드는 테니스 스커트 (에스콰이어 코리아 ─ 이샵)]]></title>
