@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 15:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 03:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘정신병동에도 아침이 와요’ 따뜻한 간호사 정다은, 박보영 TMI 12]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36922694&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36922694&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Tue, 28 Nov 2023 03:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjJfODAg/MDAxNzAwNjE1NTI4MTkx.kgVhWNu8iQ6VcccyOPtVZVutwu9oOgRN7oDC8M6k9PUg.5KJW5XOqC2dFaFsUK1Jl6FXu190V42yr5JhlDQjJ0kwg.JPEG/IaeLA2Emp_jU7b_TgbNCqAe4pits.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘무인도의 디바’ 가창력까지 갖춘 박은빈 TMI 12.]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36838017&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 23 Jun 2023 09:21:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjBfMTgw/MDAxNjcxNTAyMzU5MTg2.E_CBtpyfqHsRInCX1l1uqRtYHFDVWzZmEspnswjE0fsg.YFjRgM26aNJ6Bm4BW-zL9u9-Gncdpf6lh78abBk5HL8g.JPEG/In-Q7V8wT_BDqaIsSzn8Zg-PcAZE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원조 미남 축구 선수, 안정환에 대해 당신이 몰랐던 사실 12]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34947728&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34947728&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Fri, 23 Jun 2023 09:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMTNfMjc1/MDAxNjcwOTEzNzkwNjE0.XixxuYHdW9m_-kIbOx8KGFaCvLxIHhxskORfQbW2fcog.Ia_jXUHN-H2UpgtzUHymR4TjcCZ_IEbdIP9B8_2P4Tsg.JPEG/IQodO6UyjoYNIBNxfDwpKVx9ab9A.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
