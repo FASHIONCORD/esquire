@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-11-30T03:19:33.165Z</updated>
+    <updated>2023-11-30T09:19:10.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스마스에는 반려견과 기차여행?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82521</id>
+        <link href="https://www.esquirekorea.co.kr/article/82521"/>
+        <updated>2023-11-30T09:18:27.298Z</updated>
+        <content type="html"><![CDATA[서울에서 울산까지 운영되는 '댕댕트레인'.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로리엘 벨트란이 만드는 평면의 레이어]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82383</id>
+        <link href="https://www.esquirekorea.co.kr/article/82383"/>
+        <updated>2023-11-30T09:18:27.302Z</updated>
+        <content type="html"><![CDATA[물감을 틀에 붓고 말리고 붓고 말려서 거대한 물감 시루를 만들고, 얇게 편을 내 나무판에 붙...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이색 국물 족발 맛집 3]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82424</id>
+        <link href="https://www.esquirekorea.co.kr/article/82424"/>
+        <updated>2023-11-30T09:18:27.303Z</updated>
+        <content type="html"><![CDATA[쫄깃한 족발 자작한 육수의 조우.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘블루리본 서베이’에 선정된 순두부찌개 맛집 4]]></title>
         <id>https://www.esquirekorea.co.kr/article/82412</id>
@@ -39,26 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/82370"/>
         <updated>2023-11-26T15:17:20.355Z</updated>
         <content type="html"><![CDATA[이게 진짜 한국식 하이볼.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[돈두댓] 도구 없이 색다른 자위를 즐기는 방법]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82304</id>
-        <link href="https://www.esquirekorea.co.kr/article/82304"/>
-        <updated>2023-11-25T03:19:54.868Z</updated>
-        <content type="html"><![CDATA[혼자서도 잘해요.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온유에게 손편지를 받은 작사가 전지은 플레이리스트]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82249</id>
-        <link href="https://www.esquirekorea.co.kr/article/82249"/>
-        <updated>2023-11-24T15:18:50.735Z</updated>
-        <content type="html"><![CDATA[전체 플레이리스트는 유튜브에서 확인 가능하다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T1 롤드컵 우승 축하 기념, 페이커 이상혁 TMI 12]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82241</id>
-        <link href="https://www.esquirekorea.co.kr/article/82241"/>
-        <updated>2023-11-24T15:18:50.737Z</updated>
-        <content type="html"><![CDATA[페이커의 집 안에선 술래잡기도 가능하다?]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ STYLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 03:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 09:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포근하면서도 세련된 디자인의 커플 슈즈를 찾고 있다면?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36967601&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36967601&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 30 Nov 2023 09:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMzBfMjk3/MDAxNzAxMzMwMDc0MjUw.vDbf-V5OOWOSFz2ipZjv_z3uV3MCCJMaiyxF2CI1wRMg.Rfhy20ffFn8L8of4ohdJYNUSn1wQwntdNsj85XoElfIg.JPEG/Ic10jjXeIdRaufPjsAGA8O4IHQas.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신나게 자유롭게 입는 펑키 룩]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36127192&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 23 Jun 2023 09:21:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MDJfMTk0/MDAxNjUxNTAxNjgzMTM5.Ongtb8mZ0s3jyPdK3CFx1K5r_jKBimUuKJ25XYc6OQgg.B3fu5JvN3Ht0kE_ae6w-Nf3v0o_AIgG65gWUcPoVNWgg.JPEG/Izzz5Nnipd_mzAbhZ_ngdmB7gj6M.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안보현이 자신과 가장 잘 어울리는 향수라고 말한 존 바바토스 아티산 블랙.]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33682743&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33682743&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Fri, 23 Jun 2023 09:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTlfMjg4/MDAxNjUwMzU0NzIxNjA4.L4nBrNDHwYvhqhxJbwx7wkSO8CUi0rBaGqfjYxdIr1Mg.hoa9EzgAsl-Grf6krL9qR08pp5NZyZSRcvKiNCHIhQsg.PNG/IGawU_jBys4nRPwISNxUrRi18kWc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
