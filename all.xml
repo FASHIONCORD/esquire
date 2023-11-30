@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 09:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 15:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1132,6 +1132,13 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[바람을 닮은 노마드 룩 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82272</link>
+            <guid>https://www.esquirekorea.co.kr/article/82272</guid>
+            <pubDate>Thu, 30 Nov 2023 15:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[노마드 룩을 입고 선 자유롭고 거침없는 어떤 세계.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[발렌시아가의 스키 캡슐 컬렉션 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82465</link>
             <guid>https://www.esquirekorea.co.kr/article/82465</guid>
@@ -1177,13 +1184,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/82271</guid>
             <pubDate>Tue, 28 Nov 2023 15:19:24 GMT</pubDate>
             <content:encoded><![CDATA[한 가닥 실로 엮은 겨울의 온기.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[육스 네타포르테 그룹, 아시아 태평양 대표 이지현과 나눈 대화 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82364</link>
-            <guid>https://www.esquirekorea.co.kr/article/82364</guid>
-            <pubDate>Tue, 28 Nov 2023 03:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[그가 바라본 온라인 플랫폼의 미래, 그리고 한국이라는 시장.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[<시간 소설> (2) '십오 분의 기울기' - 공현진 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1350,6 +1350,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[한국식 전통 횟집부터 제철 해산물 오마카세까지.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[돈두댓] 음주 후 발기부전에 대처하는 방법 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82522</link>
+            <guid>https://www.esquirekorea.co.kr/article/82522</guid>
+            <pubDate>Thu, 30 Nov 2023 15:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[당황하지 말고 이렇게 행동하세요.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[크리스마스에는 반려견과 기차여행? (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82521</link>
             <guid>https://www.esquirekorea.co.kr/article/82521</guid>
@@ -1397,13 +1404,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/82403</guid>
             <pubDate>Sun, 26 Nov 2023 15:17:13 GMT</pubDate>
             <content:encoded><![CDATA[이곳이 '찐'이다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전통주 하이볼이 시그너처, 서울 한식주점 2023 ver (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82370</link>
-            <guid>https://www.esquirekorea.co.kr/article/82370</guid>
-            <pubDate>Sat, 25 Nov 2023 03:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[이게 진짜 한국식 하이볼.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Part 2. 김형서는 '비비'라는 브랜드가 '리브랜딩'의 단계에 와있다고 했다 (에스콰이어 코리아 ─ 피플)]]></title>
