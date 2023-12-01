@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 09:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 15:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1132,6 +1132,13 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[따뜻하고 포근한 슬리퍼로 겨울나기 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82464</link>
+            <guid>https://www.esquirekorea.co.kr/article/82464</guid>
+            <pubDate>Fri, 01 Dec 2023 15:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[이제는 겨울에도 슬리퍼를 신을 수 있다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[바람을 닮은 노마드 룩 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82272</link>
             <guid>https://www.esquirekorea.co.kr/article/82272</guid>
@@ -1179,11 +1186,11 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[새로운 리듬과 제스처로 판을 뒤흔든다. 더보이즈 영훈과 현재의 압도적 존재감.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스웨터의 계절 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82271</link>
-            <guid>https://www.esquirekorea.co.kr/article/82271</guid>
-            <pubDate>Tue, 28 Nov 2023 15:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[한 가닥 실로 엮은 겨울의 온기.]]></content:encoded>
+            <title><![CDATA[<시간 소설> (4) '회백질의 복도, 파킨슨의 속도' - 신종원 (에스콰이어 코리아 ─ 와치)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81208</link>
+            <guid>https://www.esquirekorea.co.kr/article/81208</guid>
+            <pubDate>Fri, 01 Dec 2023 15:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[네 명의 소설가에게 시간과 시계에 관한 아주 짧은 이야기를 보내달라 부탁했다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[<시간 소설> (2) '십오 분의 기울기' - 공현진 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1232,13 +1239,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/80898</guid>
             <pubDate>Sat, 07 Oct 2023 15:16:21 GMT</pubDate>
             <content:encoded><![CDATA[중첩된 디지털 이미지 사이, 서로 다른 형태로 부유하는 9개의 시계.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[클래식 워치의 표본, 까르띠에 탱크 아메리칸 (에스콰이어 코리아 ─ 와치)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81022</link>
-            <guid>https://www.esquirekorea.co.kr/article/81022</guid>
-            <pubDate>Sat, 07 Oct 2023 15:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[까르띠에 탱크 아메리칸이 가진 순수한 미학적 코드.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[비틀즈의 마지막 신곡 '나우 앤드 덴' 발표 (에스콰이어 코리아 ─ 카&테크)]]></title>
@@ -1294,6 +1294,13 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 27 Oct 2023 15:18:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[싱싱한 겨울 방어회 무한리필 맛집 3 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82587</link>
+            <guid>https://www.esquirekorea.co.kr/article/82587</guid>
+            <pubDate>Fri, 01 Dec 2023 09:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[추울수록 지방질을 단단히 축적해 더욱 맛있다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[서울 야키토리 오마카세 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82542</link>
             <guid>https://www.esquirekorea.co.kr/article/82542</guid>
@@ -1343,11 +1350,24 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[전국 순두부찌개 맛집만 엄선했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이탈리아 최초 강아지 레스토랑 오픈 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82409</link>
-            <guid>https://www.esquirekorea.co.kr/article/82409</guid>
-            <pubDate>Tue, 28 Nov 2023 03:19:39 GMT</pubDate>
-            <content:encoded><![CDATA[주인과 반려견이 함께 레스토랑에서 코스 요리를 즐길 수 있다.]]></content:encoded>
+            <title><![CDATA[룰루레몬, 소중한 사람들을 위한 2023 홀리데이 컬렉션 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82639</link>
+            <guid>https://www.esquirekorea.co.kr/article/82639</guid>
+            <pubDate>Fri, 01 Dec 2023 15:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[프리미엄 스포츠웨어 브랜드 룰루레몬에서 홀리데이 시즌에 맞춰 ‘윈터 화이트’ 컬렉션을 선보인...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[업타운 신곡 'Back ll Analog' 라이브 최초 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82633</link>
+            <guid>https://www.esquirekorea.co.kr/article/82633</guid>
+            <pubDate>Fri, 01 Dec 2023 15:20:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[서대문구 주민이 추천하는, 5천원 이하 서대문구 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82626</link>
+            <guid>https://www.esquirekorea.co.kr/article/82626</guid>
+            <pubDate>Fri, 01 Dec 2023 15:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[커피 한 잔 값으로 해결하는 한 끼 식사.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[학원가 성지, 대치동 은마상가 숨은 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1383,27 +1403,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/82542</guid>
             <pubDate>Fri, 01 Dec 2023 03:20:21 GMT</pubDate>
             <content:encoded><![CDATA[가성비로 즐기는 다양한 닭꼬치의 세계.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[돈두댓] 음주 후 발기부전에 대처하는 방법 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82522</link>
-            <guid>https://www.esquirekorea.co.kr/article/82522</guid>
-            <pubDate>Thu, 30 Nov 2023 15:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[당황하지 말고 이렇게 행동하세요.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스에는 반려견과 기차여행? (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82521</link>
-            <guid>https://www.esquirekorea.co.kr/article/82521</guid>
-            <pubDate>Thu, 30 Nov 2023 09:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[서울에서 울산까지 운영되는 '댕댕트레인'.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[로리엘 벨트란이 만드는 평면의 레이어 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82383</link>
-            <guid>https://www.esquirekorea.co.kr/article/82383</guid>
-            <pubDate>Thu, 30 Nov 2023 09:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[물감을 틀에 붓고 말리고 붓고 말려서 거대한 물감 시루를 만들고, 얇게 편을 내 나무판에 붙...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[더보이즈 영훈, 현재의 실용적인 아이템? (에스콰이어 코리아 ─ 피플)]]></title>
