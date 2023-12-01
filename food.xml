@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/food</id>
     <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2023-11-30T15:19:17.814Z</updated>
+    <updated>2023-12-01T03:20:48.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강남 미식 '인앤아웃' 지형도 업데이트 가로수길 편]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82432</id>
+        <link href="https://www.esquirekorea.co.kr/article/82432"/>
+        <updated>2023-12-01T03:20:13.792Z</updated>
+        <content type="html"><![CDATA[누가 뭐라고 해도 강남으로 진출하는 것은 커다란 일이다. 마찬가지로 강남에서 나가는 것도 큰...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강남 미식 '인앤아웃' 지형도 업데이트 강남역 편]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82434</id>
+        <link href="https://www.esquirekorea.co.kr/article/82434"/>
+        <updated>2023-12-01T03:20:13.792Z</updated>
+        <content type="html"><![CDATA[누가 뭐라고 해도 강남으로 진출하는 것은 커다란 일이다. 마찬가지로 강남에서 나가는 것도 큰...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이색 국물 족발 맛집 3]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82424</id>
+        <link href="https://www.esquirekorea.co.kr/article/82424"/>
+        <updated>2023-12-01T03:20:13.793Z</updated>
+        <content type="html"><![CDATA[쫄깃한 족발 자작한 육수의 조우.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콩콩팥팥에 등장한 한식 맛집 4]]></title>
         <id>https://www.esquirekorea.co.kr/article/82413</id>
@@ -39,26 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/82403"/>
         <updated>2023-11-26T15:17:13.094Z</updated>
         <content type="html"><![CDATA[이곳이 '찐'이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘어쩌다 사장3’ 조인성 맛집 3]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82381</id>
-        <link href="https://www.esquirekorea.co.kr/article/82381"/>
-        <updated>2023-11-25T03:19:46.086Z</updated>
-        <content type="html"><![CDATA[잔치 국수가 단돈 6000원?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전통주 하이볼이 시그너처, 서울 한식주점 2023 ver]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82370</id>
-        <link href="https://www.esquirekorea.co.kr/article/82370"/>
-        <updated>2023-11-25T03:19:46.087Z</updated>
-        <content type="html"><![CDATA[이게 진짜 한국식 하이볼.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 블루리본 서베이 선정 신규 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82214</id>
-        <link href="https://www.esquirekorea.co.kr/article/82214"/>
-        <updated>2023-11-24T15:18:42.125Z</updated>
-        <content type="html"><![CDATA[한국식 전통 횟집부터 제철 해산물 오마카세까지.]]></content>
     </entry>
 </feed>
