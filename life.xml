@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-12-02T15:17:26.442Z</updated>
+    <updated>2023-12-03T03:19:40.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연말 파티를 위한 술 마시는 게임 펍 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82647</id>
+        <link href="https://www.esquirekorea.co.kr/article/82647"/>
+        <updated>2023-12-03T03:19:11.103Z</updated>
+        <content type="html"><![CDATA[보드게임은 기본! 다트 머신부터 레트로 게임까지.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[룰루레몬, 소중한 사람들을 위한 2023 홀리데이 컬렉션]]></title>
         <id>https://www.esquirekorea.co.kr/article/82639</id>
@@ -52,12 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/82587"/>
         <updated>2023-12-01T09:18:50.764Z</updated>
         <content type="html"><![CDATA[추울수록 지방질을 단단히 축적해 더욱 맛있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 야키토리 오마카세 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82542</id>
-        <link href="https://www.esquirekorea.co.kr/article/82542"/>
-        <updated>2023-12-01T03:20:21.607Z</updated>
-        <content type="html"><![CDATA[가성비로 즐기는 다양한 닭꼬치의 세계.]]></content>
     </entry>
 </feed>

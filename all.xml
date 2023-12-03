@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Dec 2023 15:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 03:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1350,6 +1350,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[전국 순두부찌개 맛집만 엄선했다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[연말 파티를 위한 술 마시는 게임 펍 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82647</link>
+            <guid>https://www.esquirekorea.co.kr/article/82647</guid>
+            <pubDate>Sun, 03 Dec 2023 03:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[보드게임은 기본! 다트 머신부터 레트로 게임까지.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[룰루레몬, 소중한 사람들을 위한 2023 홀리데이 컬렉션 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82639</link>
             <guid>https://www.esquirekorea.co.kr/article/82639</guid>
@@ -1396,13 +1403,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/82587</guid>
             <pubDate>Fri, 01 Dec 2023 09:18:50 GMT</pubDate>
             <content:encoded><![CDATA[추울수록 지방질을 단단히 축적해 더욱 맛있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서울 야키토리 오마카세 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82542</link>
-            <guid>https://www.esquirekorea.co.kr/article/82542</guid>
-            <pubDate>Fri, 01 Dec 2023 03:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[가성비로 즐기는 다양한 닭꼬치의 세계.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[더보이즈 영훈, 현재의 실용적인 아이템? (에스콰이어 코리아 ─ 피플)]]></title>
