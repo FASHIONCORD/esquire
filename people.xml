@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-12-05T03:20:11.270Z</updated>
+    <updated>2023-12-05T09:19:32.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['연인' 김윤우 인스타 계정 오픈 계획?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82449</id>
+        <link href="https://www.esquirekorea.co.kr/article/82449"/>
+        <updated>2023-12-05T09:19:14.813Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더보이즈 영훈, 현재의 실용적인 아이템?]]></title>
         <id>https://www.esquirekorea.co.kr/article/82441</id>
@@ -48,11 +54,5 @@
         <id>https://www.esquirekorea.co.kr/article/82189</id>
         <link href="https://www.esquirekorea.co.kr/article/82189"/>
         <updated>2023-11-26T15:17:59.570Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 1. <서울의 봄>의 두 주인공, 황정민・정우성의 느와르]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82187</id>
-        <link href="https://www.esquirekorea.co.kr/article/82187"/>
-        <updated>2023-11-23T09:18:37.558Z</updated>
     </entry>
 </feed>
