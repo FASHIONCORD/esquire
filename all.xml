@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 09:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 15:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1350,6 +1350,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[광수가 화가 날 정도로 맛있다고 표현한 맛집은?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Part 1. 세계각지에서 보내온 추천 "한국어로 번역되어야 할 올해의 책" (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82323</link>
+            <guid>https://www.esquirekorea.co.kr/article/82323</guid>
+            <pubDate>Tue, 05 Dec 2023 15:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[해외에 거주하는 책 좀 읽는 사람들에게 물었다. 2023년에 당신의 거주국에서 출간된 책 중 한...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[‘서울의 봄’으로 돌아온 황정민이 다녀간 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82651</link>
             <guid>https://www.esquirekorea.co.kr/article/82651</guid>
@@ -1396,13 +1403,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/82620</guid>
             <pubDate>Fri, 01 Dec 2023 09:18:50 GMT</pubDate>
             <content:encoded><![CDATA[맛에 반하고, 훌륭한 가격에 두 번 반한다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[배우 임세미, 류준열의 마라톤 코치 임장섭 등판! (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82608</link>
-            <guid>https://www.esquirekorea.co.kr/article/82608</guid>
-            <pubDate>Fri, 01 Dec 2023 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[이 영상을 보면 달리고 싶어질 겁니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['연인' 김윤우 인스타 계정 오픈 계획? (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1455,6 +1455,13 @@ The New MINI Countryman과 일상에
             <pubDate>Sun, 26 Nov 2023 15:17:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[서울시, 1887년 진하례 디지털 재현 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82308</link>
+            <guid>https://www.esquirekorea.co.kr/article/82308</guid>
+            <pubDate>Tue, 05 Dec 2023 15:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[경복궁 행랑에 설치된 터치스크린으로 상시체험이 가능하다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['2023 빌보드 뮤직 어워드' K팝 부문 수상자들 (에스콰이어 코리아 ─ 나우)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82265</link>
             <guid>https://www.esquirekorea.co.kr/article/82265</guid>
@@ -1502,13 +1509,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81598</guid>
             <pubDate>Thu, 16 Nov 2023 09:18:53 GMT</pubDate>
             <content:encoded><![CDATA[타미 힐피거가 소유했던 저택이 970만 달러로 시장에 나왔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서울숲, 제이홉 이름 딴 정원 조성 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81479</link>
-            <guid>https://www.esquirekorea.co.kr/article/81479</guid>
-            <pubDate>Thu, 16 Nov 2023 03:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[J 벤치에서 쉬었다 가세요.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[Eshop] 보면 볼수록 빠져 드는 테니스 스커트 (에스콰이어 코리아 ─ 이샵)]]></title>
