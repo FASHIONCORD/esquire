@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 15:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 03:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1294,6 +1294,13 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 27 Oct 2023 15:18:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[서대문구 주민이 추천하는, 5천원 이하 서대문구 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82626</link>
+            <guid>https://www.esquirekorea.co.kr/article/82626</guid>
+            <pubDate>Fri, 01 Dec 2023 15:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[커피 한 잔 값으로 해결하는 한 끼 식사.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[학원가 성지, 대치동 은마상가 숨은 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82620</link>
             <guid>https://www.esquirekorea.co.kr/article/82620</guid>
@@ -1341,13 +1348,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/82424</guid>
             <pubDate>Thu, 30 Nov 2023 09:18:27 GMT</pubDate>
             <content:encoded><![CDATA[쫄깃한 족발 자작한 육수의 조우.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[콩콩팥팥에 등장한 한식 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82413</link>
-            <guid>https://www.esquirekorea.co.kr/article/82413</guid>
-            <pubDate>Wed, 29 Nov 2023 09:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[광수가 화가 날 정도로 맛있다고 표현한 맛집은?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Part 1. 세계각지에서 보내온 추천 "한국어로 번역되어야 할 올해의 책" (에스콰이어 코리아 ─ 라이프)]]></title>
