@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-12-07T03:20:50.445Z</updated>
+    <updated>2023-12-07T09:19:06.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['K-라면' 특화 편의점이 생겼다?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82752</id>
+        <link href="https://www.esquirekorea.co.kr/article/82752"/>
+        <updated>2023-12-07T09:18:44.443Z</updated>
+        <content type="html"><![CDATA[전국에서 가장 많은 라면이 여기에.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해외에 번역되었으면 하는 올해의 한국 책 10]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82313</id>
+        <link href="https://www.esquirekorea.co.kr/article/82313"/>
+        <updated>2023-12-07T09:18:44.446Z</updated>
+        <content type="html"><![CDATA[한국의 책 전문가 10인에게 물었다. 2023년에 한국인에 의해 한국어로 쓰인 책 중 해외에 번역...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외딴 섬에 위치한 천국, 당신이 아만풀로를 방문해야 할 이유들]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82363</id>
+        <link href="https://www.esquirekorea.co.kr/article/82363"/>
+        <updated>2023-12-07T09:18:44.447Z</updated>
+        <content type="html"><![CDATA[자연 그대로 보존된 아름다운 바다, 드넓은 백사장, 일상으로부터 벗어나 프라이빗한 휴양을 즐길...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블랙핑크, 'Kill This Love' 뮤직비디오 19억 뷰 돌파]]></title>
         <id>https://www.esquirekorea.co.kr/article/82675</id>
@@ -39,26 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/82651"/>
         <updated>2023-12-04T15:19:47.408Z</updated>
         <content type="html"><![CDATA[부인과 데이트 시절부터 자주 가던 곳은 어디?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 블루리본 서베이 선정 신규 카페 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82648</id>
-        <link href="https://www.esquirekorea.co.kr/article/82648"/>
-        <updated>2023-12-04T03:20:15.554Z</updated>
-        <content type="html"><![CDATA[덴마크에서 직접 로스팅한 원두를 맛볼 수 있는 곳은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연말 파티를 위한 술 마시는 게임 펍 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82647</id>
-        <link href="https://www.esquirekorea.co.kr/article/82647"/>
-        <updated>2023-12-03T03:19:11.103Z</updated>
-        <content type="html"><![CDATA[보드게임은 기본! 다트 머신부터 레트로 게임까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[룰루레몬이 제안하는, 소중한 사람들을 위한 2023 홀리데이 남녀 기프트 제안]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82639</id>
-        <link href="https://www.esquirekorea.co.kr/article/82639"/>
-        <updated>2023-12-01T15:20:22.003Z</updated>
-        <content type="html"><![CDATA[프리미엄 스포츠웨어 브랜드 룰루레몬에서 홀리데이 시즌에 맞춰 ‘윈터 화이트’ 컬렉션을 선보인...]]></content>
     </entry>
 </feed>

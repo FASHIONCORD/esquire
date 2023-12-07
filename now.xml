@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/now</id>
     <title>에스콰이어 코리아 ─ 나우</title>
-    <updated>2023-12-07T03:20:50.441Z</updated>
+    <updated>2023-12-07T09:19:06.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영상에서 브라이언 향기가 나요]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82344</id>
+        <link href="https://www.esquirekorea.co.kr/article/82344"/>
+        <updated>2023-12-07T09:18:58.828Z</updated>
+        <content type="html"><![CDATA[브라이언이 쓰는 향수, 뷰티 아이템 대공개!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울시, 1887년 진하례 디지털 재현]]></title>
         <id>https://www.esquirekorea.co.kr/article/82308</id>
@@ -53,12 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/81632"/>
         <updated>2023-11-21T09:20:01.991Z</updated>
         <content type="html"><![CDATA[소금붕어빵도 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부동산 시장에 나온 타미 힐피거의 저택]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81598</id>
-        <link href="https://www.esquirekorea.co.kr/article/81598"/>
-        <updated>2023-11-16T09:18:53.928Z</updated>
-        <content type="html"><![CDATA[타미 힐피거가 소유했던 저택이 970만 달러로 시장에 나왔다.]]></content>
     </entry>
 </feed>
