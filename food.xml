@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/food</id>
     <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2023-12-06T15:20:27.510Z</updated>
+    <updated>2023-12-07T03:20:50.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연말 파티를 위한 술 마시는 게임 펍 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82647</id>
+        <link href="https://www.esquirekorea.co.kr/article/82647"/>
+        <updated>2023-12-07T03:20:18.388Z</updated>
+        <content type="html"><![CDATA[보드게임은 기본! 다트 머신부터 레트로 게임까지.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서대문구 주민이 추천하는, 5천원 이하 서대문구 맛집 4]]></title>
         <id>https://www.esquirekorea.co.kr/article/82626</id>
@@ -53,12 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/82434"/>
         <updated>2023-12-01T03:20:13.792Z</updated>
         <content type="html"><![CDATA[누가 뭐라고 해도 강남으로 진출하는 것은 커다란 일이다. 마찬가지로 강남에서 나가는 것도 큰...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이색 국물 족발 맛집 3]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82424</id>
-        <link href="https://www.esquirekorea.co.kr/article/82424"/>
-        <updated>2023-12-01T03:20:13.793Z</updated>
-        <content type="html"><![CDATA[쫄깃한 족발 자작한 육수의 조우.]]></content>
     </entry>
 </feed>
