@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 09:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 15:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1241,6 +1241,12 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[탁월한 취향과 순수한 애정으로 시계 수집에 몰두해온 4명의 컬렉터. &lt;에스콰이어&gt;를 위해 특별한...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[가장 재미있는 전기차의 등장, 아이오닉 5 N (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81802</link>
+            <guid>https://www.esquirekorea.co.kr/article/81802</guid>
+            <pubDate>Thu, 07 Dec 2023 15:19:54 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[비틀즈의 마지막 신곡 '나우 앤드 덴' 발표 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/81828</link>
             <guid>https://www.esquirekorea.co.kr/article/81828</guid>
@@ -1288,10 +1294,18 @@ The New MINI Countryman과 일상에
             <pubDate>Sun, 29 Oct 2023 15:16:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[뱅앤올룹슨과 페라리가 만났을 때 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81058</link>
-            <guid>https://www.esquirekorea.co.kr/article/81058</guid>
-            <pubDate>Fri, 27 Oct 2023 15:18:54 GMT</pubDate>
+            <title><![CDATA[우리가 잘 모르던 프로세코의 세계 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82680</link>
+            <guid>https://www.esquirekorea.co.kr/article/82680</guid>
+            <pubDate>Thu, 07 Dec 2023 15:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[우리가 연말에 프로세코 해야 하는 이유.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘서울의 봄’으로 돌아온 황정민이 다녀간 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82651</link>
+            <guid>https://www.esquirekorea.co.kr/article/82651</guid>
+            <pubDate>Mon, 04 Dec 2023 15:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[부인과 데이트 시절부터 자주 가던 곳은 어디?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 블루리본 서베이 선정 신규 카페 4 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1336,18 +1350,11 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[가성비로 즐기는 다양한 닭꼬치의 세계.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[강남 미식 '인앤아웃' 지형도 업데이트 로데오 편 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82433</link>
-            <guid>https://www.esquirekorea.co.kr/article/82433</guid>
-            <pubDate>Fri, 01 Dec 2023 09:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[누가 뭐라고 해도 강남으로 진출하는 것은 커다란 일이다. 마찬가지로 강남에서 나가는 것도 큰...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[강남 미식 '인앤아웃' 지형도 업데이트 가로수길 편 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82432</link>
-            <guid>https://www.esquirekorea.co.kr/article/82432</guid>
-            <pubDate>Fri, 01 Dec 2023 03:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[누가 뭐라고 해도 강남으로 진출하는 것은 커다란 일이다. 마찬가지로 강남에서 나가는 것도 큰...]]></content:encoded>
+            <title><![CDATA[[돈두댓] 임신한 아내 마사지 할 때 하면 안 되는 것 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82766</link>
+            <guid>https://www.esquirekorea.co.kr/article/82766</guid>
+            <pubDate>Thu, 07 Dec 2023 15:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[임신 3개월 이내에는 특히 조심하자.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['K-라면' 특화 편의점이 생겼다? (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1397,13 +1404,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/82323</guid>
             <pubDate>Tue, 05 Dec 2023 15:20:42 GMT</pubDate>
             <content:encoded><![CDATA[해외에 거주하는 책 좀 읽는 사람들에게 물었다. 2023년에 당신의 거주국에서 출간된 책 중 한...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘서울의 봄’으로 돌아온 황정민이 다녀간 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82651</link>
-            <guid>https://www.esquirekorea.co.kr/article/82651</guid>
-            <pubDate>Mon, 04 Dec 2023 15:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[부인과 데이트 시절부터 자주 가던 곳은 어디?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[방예담 새로 만든 작업실 향기 최초 공개 (에스콰이어 코리아 ─ 피플)]]></title>
