@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/food</id>
     <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2023-12-07T15:20:38.386Z</updated>
+    <updated>2023-12-08T03:20:25.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘스위트홈2’ 공개, 배우 이진욱 방문 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82790</id>
+        <link href="https://www.esquirekorea.co.kr/article/82790"/>
+        <updated>2023-12-08T03:19:37.544Z</updated>
+        <content type="html"><![CDATA[이진욱이 세계에서 가장 맛있는 국숫집으로 소개한 곳?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['K-라면' 특화 편의점이 생겼다?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82752</id>
+        <link href="https://www.esquirekorea.co.kr/article/82752"/>
+        <updated>2023-12-08T03:19:37.550Z</updated>
+        <content type="html"><![CDATA[전국에서 가장 많은 라면이 여기에.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리가 잘 모르던 프로세코의 세계]]></title>
         <id>https://www.esquirekorea.co.kr/article/82680</id>
@@ -46,19 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/82620"/>
         <updated>2023-12-04T09:20:26.079Z</updated>
         <content type="html"><![CDATA[맛에 반하고, 훌륭한 가격에 두 번 반한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱싱한 겨울 방어회 무한리필 맛집 3]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82587</id>
-        <link href="https://www.esquirekorea.co.kr/article/82587"/>
-        <updated>2023-12-01T15:19:42.572Z</updated>
-        <content type="html"><![CDATA[추울수록 지방질을 단단히 축적해 더욱 맛있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 야키토리 오마카세 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82542</id>
-        <link href="https://www.esquirekorea.co.kr/article/82542"/>
-        <updated>2023-12-01T09:18:43.504Z</updated>
-        <content type="html"><![CDATA[가성비로 즐기는 다양한 닭꼬치의 세계.]]></content>
     </entry>
 </feed>
