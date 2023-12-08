@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-12-08T09:18:50.277Z</updated>
+    <updated>2023-12-08T15:19:43.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[30만원짜리 5성급 호텔 케이크 등장? 2023 호텔 크리스마스 케이크 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82818</id>
+        <link href="https://www.esquirekorea.co.kr/article/82818"/>
+        <updated>2023-12-08T15:19:20.958Z</updated>
+        <content type="html"><![CDATA[겨울 동심의 교과서.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김반장과 윈디시티 'Think About' Chu' 라이브 무대]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82811</id>
+        <link href="https://www.esquirekorea.co.kr/article/82811"/>
+        <updated>2023-12-08T15:19:20.960Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일본식 전통 화로 구이, 이로리야키 맛집 4]]></title>
         <id>https://www.esquirekorea.co.kr/article/82808</id>
@@ -46,19 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/82313"/>
         <updated>2023-12-07T09:18:44.446Z</updated>
         <content type="html"><![CDATA[한국의 책 전문가 10인에게 물었다. 2023년에 한국인에 의해 한국어로 쓰인 책 중 해외에 번역...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외딴 섬에 위치한 천국, 당신이 아만풀로를 방문해야 할 이유들]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82363</id>
-        <link href="https://www.esquirekorea.co.kr/article/82363"/>
-        <updated>2023-12-07T09:18:44.447Z</updated>
-        <content type="html"><![CDATA[자연 그대로 보존된 아름다운 바다, 드넓은 백사장, 일상으로부터 벗어나 프라이빗한 휴양을 즐길...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크, 'Kill This Love' 뮤직비디오 19억 뷰 돌파]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82675</id>
-        <link href="https://www.esquirekorea.co.kr/article/82675"/>
-        <updated>2023-12-06T15:20:01.958Z</updated>
-        <content type="html"><![CDATA[K 팝 아티스트 최초로 19억 뷰 이상 뮤직비디오 두 편을 보유하게 됐다.]]></content>
     </entry>
 </feed>
