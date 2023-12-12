@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-12-12T03:20:59.946Z</updated>
+    <updated>2023-12-12T09:20:49.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[업타운 신곡 'Back ll Analog' 라이브 최초 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82633</id>
+        <link href="https://www.esquirekorea.co.kr/article/82633"/>
+        <updated>2023-12-12T09:20:02.339Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[업타운 '내안의 그대' 라이브 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82592</id>
+        <link href="https://www.esquirekorea.co.kr/article/82592"/>
+        <updated>2023-12-12T09:20:02.340Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방예담 새로 만든 작업실 향기 최초 공개]]></title>
         <id>https://www.esquirekorea.co.kr/article/82553</id>
@@ -42,17 +54,5 @@
         <id>https://www.esquirekorea.co.kr/article/82268</id>
         <link href="https://www.esquirekorea.co.kr/article/82268"/>
         <updated>2023-11-29T09:18:46.960Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 2. 한소희가 그저 가만히 존재하는 순간]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82264</id>
-        <link href="https://www.esquirekorea.co.kr/article/82264"/>
-        <updated>2023-11-27T09:19:54.823Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 1. 한소희가 <경성크리처>를 떨리는 마음으로 기다리는 이유]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82262</id>
-        <link href="https://www.esquirekorea.co.kr/article/82262"/>
-        <updated>2023-11-27T09:19:54.828Z</updated>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 03:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 09:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1407,6 +1407,18 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[전국에서 가장 많은 라면이 여기에.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[업타운 신곡 'Back ll Analog' 라이브 최초 공개 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82633</link>
+            <guid>https://www.esquirekorea.co.kr/article/82633</guid>
+            <pubDate>Tue, 12 Dec 2023 09:20:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[업타운 '내안의 그대' 라이브 공개 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82592</link>
+            <guid>https://www.esquirekorea.co.kr/article/82592</guid>
+            <pubDate>Tue, 12 Dec 2023 09:20:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[방예담 새로 만든 작업실 향기 최초 공개 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82553</link>
             <guid>https://www.esquirekorea.co.kr/article/82553</guid>
@@ -1443,18 +1455,6 @@ The New MINI Countryman과 일상에
             <link>https://www.esquirekorea.co.kr/article/82268</link>
             <guid>https://www.esquirekorea.co.kr/article/82268</guid>
             <pubDate>Wed, 29 Nov 2023 09:18:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Part 2. 한소희가 그저 가만히 존재하는 순간 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82264</link>
-            <guid>https://www.esquirekorea.co.kr/article/82264</guid>
-            <pubDate>Mon, 27 Nov 2023 09:19:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Part 1. 한소희가 <경성크리처>를 떨리는 마음으로 기다리는 이유 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82262</link>
-            <guid>https://www.esquirekorea.co.kr/article/82262</guid>
-            <pubDate>Mon, 27 Nov 2023 09:19:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[영상에서 브라이언 향기가 나요 (에스콰이어 코리아 ─ 나우)]]></title>
