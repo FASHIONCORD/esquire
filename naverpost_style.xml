@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ STYLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 15:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 03:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오래도록 함께할 선물을 전하고 싶다면]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37030236&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37030236&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Wed, 13 Dec 2023 03:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTNfNjUg/MDAxNzAyNDMxNjI4ODAz.yJ9Gk8vzXiyoBdGSzvCB6-3RqajnUIB7ztZCu2k3LDsg.QAALRvg8q8_7qN_TiIAkgSr8NLwmVdSbkI94Da_7Lggg.JPEG/IUglLD-H3hr3Jzz4hBbdiwzf4j0g.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새하얀 눈밭 위에 피워낸 마르게리타의 반짝임]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37021387&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 23 Jun 2023 09:21:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDAxMTRfMjA5/MDAxNTc4OTY4NDE3OTIx.u_4cWrPQ0BC7OiFmLMJwu8PcLZQcSAzqS-sDFeygWJEg.FnlMsatg8PRVGV0sshnYtlw9wXVBHMuauKrgpj1aBMkg.JPEG/post_7807307990682501325.jpg?type=f40_40" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다니엘 헤니와 함께]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35639954&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35639954&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Fri, 23 Jun 2023 09:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjNfMjUg/MDAxNjc5NTU2NDc1MTA4.TH8JlbYk4x4jNjYvGUSvAF0m5TEvT3QSVCdeVnrYNVEg.6sj0oAWXHuVQbU4wqjQOx6l9k79Qlif0zcso0sRUuOYg.JPEG/IrZgIS-sfUEN0hJoew0kUa_d2JvA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

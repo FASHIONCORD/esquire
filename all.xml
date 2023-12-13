@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 15:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 03:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -648,6 +648,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjBfMTgw/MDAxNjcxNTAyMzU5MTg2.E_CBtpyfqHsRInCX1l1uqRtYHFDVWzZmEspnswjE0fsg.YFjRgM26aNJ6Bm4BW-zL9u9-Gncdpf6lh78abBk5HL8g.JPEG/In-Q7V8wT_BDqaIsSzn8Zg-PcAZE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오래도록 함께할 선물을 전하고 싶다면 (네이버 포스트 ─ 에스콰이어 코리아 ─ STYLE)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37030236&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37030236&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Wed, 13 Dec 2023 03:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTNfNjUg/MDAxNzAyNDMxNjI4ODAz.yJ9Gk8vzXiyoBdGSzvCB6-3RqajnUIB7ztZCu2k3LDsg.QAALRvg8q8_7qN_TiIAkgSr8NLwmVdSbkI94Da_7Lggg.JPEG/IUglLD-H3hr3Jzz4hBbdiwzf4j0g.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[새하얀 눈밭 위에 피워낸 마르게리타의 반짝임 (네이버 포스트 ─ 에스콰이어 코리아 ─ STYLE)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37021387&amp;memberNo=40217187&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37021387&amp;memberNo=40217187&amp;navigationType=push</guid>
@@ -798,14 +806,6 @@
             <pubDate>Fri, 23 Jun 2023 09:21:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDAxMTRfMjA5/MDAxNTc4OTY4NDE3OTIx.u_4cWrPQ0BC7OiFmLMJwu8PcLZQcSAzqS-sDFeygWJEg.FnlMsatg8PRVGV0sshnYtlw9wXVBHMuauKrgpj1aBMkg.JPEG/post_7807307990682501325.jpg?type=f40_40" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다니엘 헤니와 함께 (네이버 포스트 ─ 에스콰이어 코리아 ─ STYLE)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35639954&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35639954&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Fri, 23 Jun 2023 09:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAzMjNfMjUg/MDAxNjc5NTU2NDc1MTA4.TH8JlbYk4x4jNjYvGUSvAF0m5TEvT3QSVCdeVnrYNVEg.6sj0oAWXHuVQbU4wqjQOx6l9k79Qlif0zcso0sRUuOYg.JPEG/IrZgIS-sfUEN0hJoew0kUa_d2JvA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도로위를 질주하는 환상적인 컨버터블 7대 (네이버 포스트 ─ 에스콰이어 코리아 ─ TECH)]]></title>
@@ -1352,6 +1352,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[덴마크에서 직접 로스팅한 원두를 맛볼 수 있는 곳은?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[전국 바지락 라멘 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82826</link>
+            <guid>https://www.esquirekorea.co.kr/article/82826</guid>
+            <pubDate>Wed, 13 Dec 2023 03:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[라멘에 바지락 하나 올리고, 하나 더 올리고]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2023 전국 크리스마스 마켓 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82825</link>
             <guid>https://www.esquirekorea.co.kr/article/82825</guid>
@@ -1400,11 +1407,11 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[임신 3개월 이내에는 특히 조심하자.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA['K-라면' 특화 편의점이 생겼다? (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82752</link>
-            <guid>https://www.esquirekorea.co.kr/article/82752</guid>
-            <pubDate>Thu, 07 Dec 2023 09:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[전국에서 가장 많은 라면이 여기에.]]></content:encoded>
+            <title><![CDATA[이동욱의 욕실 청소 최애템? (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82650</link>
+            <guid>https://www.esquirekorea.co.kr/article/82650</guid>
+            <pubDate>Wed, 13 Dec 2023 03:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[그가 밝히는 '욱동이'의 매력 3가지까지.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[업타운 신곡 'Back ll Analog' 라이브 최초 공개 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1449,12 +1456,6 @@ The New MINI Countryman과 일상에
             <link>https://www.esquirekorea.co.kr/article/82270</link>
             <guid>https://www.esquirekorea.co.kr/article/82270</guid>
             <pubDate>Thu, 30 Nov 2023 09:18:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Part 1. 비비의 '홍대R&B'와 '한강공원' 속에 숨어 있는 SF 세계관 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82268</link>
-            <guid>https://www.esquirekorea.co.kr/article/82268</guid>
-            <pubDate>Wed, 29 Nov 2023 09:18:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[영상에서 브라이언 향기가 나요 (에스콰이어 코리아 ─ 나우)]]></title>
