@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-12-13T03:20:44.452Z</updated>
+    <updated>2023-12-13T09:19:42.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['MAMA' 화제의 드레스 주인공? 청순 매력 노윤서 TMI 12]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82731</id>
+        <link href="https://www.esquirekorea.co.kr/article/82731"/>
+        <updated>2023-12-13T09:19:25.585Z</updated>
+        <content type="html"><![CDATA[매력적인 입꼬리 때문에 성형 의혹까지 받았다고?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이동욱의 욕실 청소 최애템?]]></title>
         <id>https://www.esquirekorea.co.kr/article/82650</id>
@@ -49,11 +56,5 @@
         <link href="https://www.esquirekorea.co.kr/article/82383"/>
         <updated>2023-12-01T09:18:59.128Z</updated>
         <content type="html"><![CDATA[물감을 틀에 붓고 말리고 붓고 말려서 거대한 물감 시루를 만들고, 얇게 편을 내 나무판에 붙...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part 2. 김형서는 '비비'라는 브랜드가 '리브랜딩'의 단계에 와있다고 했다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82270</id>
-        <link href="https://www.esquirekorea.co.kr/article/82270"/>
-        <updated>2023-11-30T09:18:36.671Z</updated>
     </entry>
 </feed>
