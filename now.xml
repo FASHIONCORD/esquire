@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/now</id>
     <title>에스콰이어 코리아 ─ 나우</title>
-    <updated>2023-12-14T03:19:44.842Z</updated>
+    <updated>2023-12-14T09:19:13.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글, 2년 이상 비활성화된 계정 삭제]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82502</id>
+        <link href="https://www.esquirekorea.co.kr/article/82502"/>
+        <updated>2023-12-14T09:19:04.628Z</updated>
+        <content type="html"><![CDATA[휴면 계정이 각종 범죄에 노출될 수 있다는 판단에 따른 보안 강화 조치다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영상에서 브라이언 향기가 나요]]></title>
         <id>https://www.esquirekorea.co.kr/article/82344</id>
@@ -53,12 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/81799"/>
         <updated>2023-11-22T09:19:21.550Z</updated>
         <content type="html"><![CDATA[11월 10일부터 만날 수 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프레츨 탕후루? K-패치 완료된 참신한 디저트 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81632</id>
-        <link href="https://www.esquirekorea.co.kr/article/81632"/>
-        <updated>2023-11-21T09:20:01.991Z</updated>
-        <content type="html"><![CDATA[소금붕어빵도 있다.]]></content>
     </entry>
 </feed>
