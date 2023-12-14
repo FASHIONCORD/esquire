@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/now</id>
     <title>에스콰이어 코리아 ─ 나우</title>
-    <updated>2023-12-14T09:19:13.987Z</updated>
+    <updated>2023-12-14T15:20:11.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세븐틴, '마마 어워즈'에서 첫 대상]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82599</id>
+        <link href="https://www.esquirekorea.co.kr/article/82599"/>
+        <updated>2023-12-14T15:20:04.672Z</updated>
+        <content type="html"><![CDATA[데뷔 8년 만에 대상의 주인공이 됐다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글, 2년 이상 비활성화된 계정 삭제]]></title>
         <id>https://www.esquirekorea.co.kr/article/82502</id>
@@ -53,12 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/81857"/>
         <updated>2023-11-22T15:20:16.141Z</updated>
         <content type="html"><![CDATA[석화찜, 구이, 순두부, 회까지 메뉴도 다양하다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지샥, 40주년을 기념해 포터와 협업한 한정판 시계 공개]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81799</id>
-        <link href="https://www.esquirekorea.co.kr/article/81799"/>
-        <updated>2023-11-22T09:19:21.550Z</updated>
-        <content type="html"><![CDATA[11월 10일부터 만날 수 있다.]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 09:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 15:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1132,6 +1132,18 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[집에서 아무 이유 없이 슈트를 꺼내 입어보는 이유에 대하여 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82786</link>
+            <guid>https://www.esquirekorea.co.kr/article/82786</guid>
+            <pubDate>Thu, 14 Dec 2023 15:19:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[올해의 방한 아이템을 묻다 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82696</link>
+            <guid>https://www.esquirekorea.co.kr/article/82696</guid>
+            <pubDate>Thu, 14 Dec 2023 15:19:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Part 2. 서른명에게 물어본 올해의 쇼핑 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82546</link>
             <guid>https://www.esquirekorea.co.kr/article/82546</guid>
@@ -1172,20 +1184,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/82471</guid>
             <pubDate>Sat, 02 Dec 2023 15:16:14 GMT</pubDate>
             <content:encoded><![CDATA[부쉐론의 까르뜨 블랑슈 컬렉션은 하이 주얼리에 대한 새로운 시각과 비전을 제시한다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[따뜻하고 포근한 슬리퍼로 겨울나기 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82464</link>
-            <guid>https://www.esquirekorea.co.kr/article/82464</guid>
-            <pubDate>Fri, 01 Dec 2023 15:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[이제는 겨울에도 슬리퍼를 신을 수 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[바람을 닮은 노마드 룩 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82272</link>
-            <guid>https://www.esquirekorea.co.kr/article/82272</guid>
-            <pubDate>Thu, 30 Nov 2023 15:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[노마드 룩을 입고 선 자유롭고 거침없는 어떤 세계.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[국내 '빈티지 워치' 문화는 지금 어디쯤 와 있을까? (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1296,6 +1294,20 @@ The New MINI Countryman과 일상에
             <pubDate>Sun, 29 Oct 2023 15:16:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[전국 바지락 라멘 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82826</link>
+            <guid>https://www.esquirekorea.co.kr/article/82826</guid>
+            <pubDate>Wed, 13 Dec 2023 03:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[라멘에 바지락 하나 올리고, 하나 더 올리고]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2023 전국 크리스마스 마켓 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82825</link>
+            <guid>https://www.esquirekorea.co.kr/article/82825</guid>
+            <pubDate>Sun, 10 Dec 2023 15:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[남은 연말 따뜻하게 보내는 방법.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[탭샵바의 대표 나기정은 무엇을 만들고 싶은가 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82472</link>
             <guid>https://www.esquirekorea.co.kr/article/82472</guid>
@@ -1336,20 +1348,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/82680</guid>
             <pubDate>Thu, 07 Dec 2023 15:20:02 GMT</pubDate>
             <content:encoded><![CDATA[우리가 연말에 프로세코 해야 하는 이유.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘서울의 봄’으로 돌아온 황정민이 다녀간 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82651</link>
-            <guid>https://www.esquirekorea.co.kr/article/82651</guid>
-            <pubDate>Mon, 04 Dec 2023 15:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[부인과 데이트 시절부터 자주 가던 곳은 어디?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 블루리본 서베이 선정 신규 카페 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82648</link>
-            <guid>https://www.esquirekorea.co.kr/article/82648</guid>
-            <pubDate>Mon, 04 Dec 2023 03:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[덴마크에서 직접 로스팅한 원두를 맛볼 수 있는 곳은?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[대략 2045년의 영화 산업에 대한 디스토피아적 상상 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1456,6 +1454,13 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 05 Dec 2023 09:19:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[세븐틴, '마마 어워즈'에서 첫 대상 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82599</link>
+            <guid>https://www.esquirekorea.co.kr/article/82599</guid>
+            <pubDate>Thu, 14 Dec 2023 15:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[데뷔 8년 만에 대상의 주인공이 됐다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[구글, 2년 이상 비활성화된 계정 삭제 (에스콰이어 코리아 ─ 나우)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82502</link>
             <guid>https://www.esquirekorea.co.kr/article/82502</guid>
@@ -1503,13 +1508,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81857</guid>
             <pubDate>Wed, 22 Nov 2023 15:20:16 GMT</pubDate>
             <content:encoded><![CDATA[석화찜, 구이, 순두부, 회까지 메뉴도 다양하다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[지샥, 40주년을 기념해 포터와 협업한 한정판 시계 공개 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81799</link>
-            <guid>https://www.esquirekorea.co.kr/article/81799</guid>
-            <pubDate>Wed, 22 Nov 2023 09:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[11월 10일부터 만날 수 있다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[Eshop] 보면 볼수록 빠져 드는 테니스 스커트 (에스콰이어 코리아 ─ 이샵)]]></title>
