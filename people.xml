@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-12-15T03:20:42.193Z</updated>
+    <updated>2023-12-15T09:19:37.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘바람의 아들’ 이정후, 메이저리그 진출한다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82951</id>
+        <link href="https://www.esquirekorea.co.kr/article/82951"/>
+        <updated>2023-12-15T09:19:22.634Z</updated>
+        <content type="html"><![CDATA[샌프란시스코로 향한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['쉿!' 재드래곤, 이재용 삼성전자 회장 TMI 12.]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82932</id>
+        <link href="https://www.esquirekorea.co.kr/article/82932"/>
+        <updated>2023-12-15T09:19:22.636Z</updated>
+        <content type="html"><![CDATA[화제의 '쉿' 사진이 탄생한 이유?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS 멤버 전원 군백기 돌입]]></title>
         <id>https://www.esquirekorea.co.kr/article/82924</id>
@@ -43,17 +57,5 @@
         <id>https://www.esquirekorea.co.kr/article/82592</id>
         <link href="https://www.esquirekorea.co.kr/article/82592"/>
         <updated>2023-12-12T09:20:02.340Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방예담 새로 만든 작업실 향기 최초 공개]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82553</id>
-        <link href="https://www.esquirekorea.co.kr/article/82553"/>
-        <updated>2023-12-07T09:18:52.237Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연인' 김윤우 인스타 계정 오픈 계획?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82449</id>
-        <link href="https://www.esquirekorea.co.kr/article/82449"/>
-        <updated>2023-12-05T09:19:14.813Z</updated>
     </entry>
 </feed>
