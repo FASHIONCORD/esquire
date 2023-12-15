@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 15:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 03:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1350,6 +1350,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[우리가 연말에 프로세코 해야 하는 이유.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[‘바람의 아들’ 이정후, 메이저리그 진출한다 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82951</link>
+            <guid>https://www.esquirekorea.co.kr/article/82951</guid>
+            <pubDate>Fri, 15 Dec 2023 03:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[샌프란시스코로 향한다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[대략 2045년의 영화 산업에 대한 디스토피아적 상상 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82871</link>
             <guid>https://www.esquirekorea.co.kr/article/82871</guid>
@@ -1395,12 +1402,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/82818</guid>
             <pubDate>Fri, 08 Dec 2023 15:19:12 GMT</pubDate>
             <content:encoded><![CDATA[겨울 동심의 교과서.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김반장과 윈디시티 'Think About' Chu' 라이브 무대 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82811</link>
-            <guid>https://www.esquirekorea.co.kr/article/82811</guid>
-            <pubDate>Fri, 08 Dec 2023 15:19:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BTS 멤버 전원 군백기 돌입 (에스콰이어 코리아 ─ 피플)]]></title>
