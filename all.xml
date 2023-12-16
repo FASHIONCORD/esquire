@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 03:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 09:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1294,6 +1294,13 @@ The New MINI Countryman과 일상에
             <pubDate>Sun, 29 Oct 2023 15:16:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[한돈 부문 대통령상 보유, 서울 삼겹살 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82996</link>
+            <guid>https://www.esquirekorea.co.kr/article/82996</guid>
+            <pubDate>Sat, 16 Dec 2023 03:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[최고상훈에 빛나는 돼지고기는 다르긴 다르다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[페리에 주에가 멜라니 로랑과 함께하는 이유 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82481</link>
             <guid>https://www.esquirekorea.co.kr/article/82481</guid>
@@ -1341,13 +1348,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/82818</guid>
             <pubDate>Fri, 08 Dec 2023 15:19:12 GMT</pubDate>
             <content:encoded><![CDATA[겨울 동심의 교과서.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일본식 전통 화로 구이, 이로리야키 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82808</link>
-            <guid>https://www.esquirekorea.co.kr/article/82808</guid>
-            <pubDate>Fri, 08 Dec 2023 09:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[화로 앞에 앉아 꼬치구이 구경하는 재미가 쏠쏠.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한돈 부문 대통령상 보유, 서울 삼겹살 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
