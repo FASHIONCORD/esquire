@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 09:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 15:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1350,6 +1350,20 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[겨울 동심의 교과서.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[전국 프라이빗 찜질 사우나 3 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83021</link>
+            <guid>https://www.esquirekorea.co.kr/article/83021</guid>
+            <pubDate>Sat, 16 Dec 2023 15:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[혼밥, 혼술, 그리고 혼자 즐기는 찜질까지.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이재용 회장도 다녀간 부산 깡통시장 속 숨은 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83005</link>
+            <guid>https://www.esquirekorea.co.kr/article/83005</guid>
+            <pubDate>Sat, 16 Dec 2023 15:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[어묵 국물 말고도 맛있게 먹은 맛집을 소개한다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[한돈 부문 대통령상 보유, 서울 삼겹살 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82996</link>
             <guid>https://www.esquirekorea.co.kr/article/82996</guid>
@@ -1388,19 +1402,6 @@ The New MINI Countryman과 일상에
             <link>https://www.esquirekorea.co.kr/article/82871</link>
             <guid>https://www.esquirekorea.co.kr/article/82871</guid>
             <pubDate>Thu, 14 Dec 2023 09:18:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[웹소설의 개연성을 따지고 싶은 당신에게 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82861</link>
-            <guid>https://www.esquirekorea.co.kr/article/82861</guid>
-            <pubDate>Thu, 14 Dec 2023 09:18:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘2024 블루리본 서베이’에 선정된 만둣국 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82860</link>
-            <guid>https://www.esquirekorea.co.kr/article/82860</guid>
-            <pubDate>Thu, 14 Dec 2023 09:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[겨울철에 생각나는 그 맛.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘바람의 아들’ 이정후, 메이저리그 진출한다 (에스콰이어 코리아 ─ 피플)]]></title>
