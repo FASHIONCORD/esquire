@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ TECH</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 15:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 03:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올겨울 키 아이템, 케이스티파이]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37053232&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37053232&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Mon, 18 Dec 2023 03:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMThfMTg3/MDAxNzAyODYyNTM3Nzk5.aVAM4LYVp65mT-p_U-Ig_eHlYwDduWsugnWzz3ek0jwg.DSM7fZNVEMCBtaJlU88yiiuuF0KUtYHB0JlfXduIEYIg.JPEG/ImjsEQl4ZtRBE2KwVIQA9Zhb6jXs.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도로위를 질주하는 환상적인 컨버터블 7대]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36091271&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 23 Jun 2023 09:21:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTA1MDFfMTM1/MDAxNTU2NjcyMzIwNDM1.XSfg9vRc-_4aEFEk423HQ6I8SOpugg50h3PDKEZBzDsg.n32Q0wRLQmclGMxxw0MH_9msag1CjVHfBhSisGkJhywg.JPEG/IHSLIBl9Vwdq8fO3JR0g7K3aoezk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갤럭시 폴드와 S10, 스마트폰의 새로운 변곡점]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=19067000&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=19067000&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Fri, 23 Jun 2023 09:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAxOTA0MTBfODAg/MDAxNTU0ODYyNTI3OTUz.-7mMoXMWFZJQjNgVa0DJjm7sjT4RKdrtMB6w9G-qIxcg.obxwpUHEffK6PI6XpYYRgpRNYgj0b2RRgWeloLZzROgg.JPEG/IecitKg0ganZS2t_qLze8DZ9i1mI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
