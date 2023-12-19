@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 03:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 09:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1350,6 +1350,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[겨울 동심의 교과서.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[막걸리와 뱅쇼의 조합? 이색 뱅쇼 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83024</link>
+            <guid>https://www.esquirekorea.co.kr/article/83024</guid>
+            <pubDate>Tue, 19 Dec 2023 09:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[뱅쇼의 변신은 어디까지?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[전국 프라이빗 찜질 사우나 3 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83021</link>
             <guid>https://www.esquirekorea.co.kr/article/83021</guid>
@@ -1396,12 +1403,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/82951</guid>
             <pubDate>Fri, 15 Dec 2023 03:20:13 GMT</pubDate>
             <content:encoded><![CDATA[샌프란시스코로 향한다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대략 2045년의 영화 산업에 대한 디스토피아적 상상 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82871</link>
-            <guid>https://www.esquirekorea.co.kr/article/82871</guid>
-            <pubDate>Thu, 14 Dec 2023 09:18:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[‘바람의 아들’ 이정후, 메이저리그 진출한다 (에스콰이어 코리아 ─ 피플)]]></title>
