@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 15:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 03:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1405,6 +1405,12 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[샌프란시스코로 향한다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[김민규 무민단에게 직접 쓴 편지? (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82964</link>
+            <guid>https://www.esquirekorea.co.kr/article/82964</guid>
+            <pubDate>Wed, 20 Dec 2023 03:16:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[‘바람의 아들’ 이정후, 메이저리그 진출한다 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82951</link>
             <guid>https://www.esquirekorea.co.kr/article/82951</guid>
@@ -1449,12 +1455,6 @@ The New MINI Countryman과 일상에
             <title><![CDATA[업타운 신곡 'Back ll Analog' 라이브 최초 공개 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82633</link>
             <guid>https://www.esquirekorea.co.kr/article/82633</guid>
-            <pubDate>Tue, 12 Dec 2023 09:20:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[업타운 '내안의 그대' 라이브 공개 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82592</link>
-            <guid>https://www.esquirekorea.co.kr/article/82592</guid>
             <pubDate>Tue, 12 Dec 2023 09:20:02 GMT</pubDate>
         </item>
         <item>
