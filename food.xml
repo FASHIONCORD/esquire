@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/food</id>
     <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2023-12-21T03:19:50.483Z</updated>
+    <updated>2023-12-21T09:19:21.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전국 프라이빗 찜질 사우나 3]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83021</id>
+        <link href="https://www.esquirekorea.co.kr/article/83021"/>
+        <updated>2023-12-21T09:18:46.372Z</updated>
+        <content type="html"><![CDATA[혼밥, 혼술, 그리고 혼자 즐기는 찜질까지.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재용 회장도 다녀간 부산 깡통시장 속 숨은 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83005</id>
+        <link href="https://www.esquirekorea.co.kr/article/83005"/>
+        <updated>2023-12-21T09:18:46.386Z</updated>
+        <content type="html"><![CDATA[어묵 국물 말고도 맛있게 먹은 맛집을 소개한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한돈 부문 대통령상 보유, 서울 삼겹살 맛집 4]]></title>
         <id>https://www.esquirekorea.co.kr/article/82996</id>
@@ -46,19 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/82825"/>
         <updated>2023-12-14T15:19:41.186Z</updated>
         <content type="html"><![CDATA[남은 연말 따뜻하게 보내는 방법.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탭샵바의 대표 나기정은 무엇을 만들고 싶은가]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82472</id>
-        <link href="https://www.esquirekorea.co.kr/article/82472"/>
-        <updated>2023-12-09T15:17:37.580Z</updated>
-        <content type="html"><![CDATA[탭에서 한 잔씩, 샵에서 한 병씩. 와인 천국 탭샵바가 동대문과 청계천에 이어 도산대로에 자리...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30만원짜리 5성급 호텔 케이크 등장? 2023 호텔 크리스마스 케이크 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82818</id>
-        <link href="https://www.esquirekorea.co.kr/article/82818"/>
-        <updated>2023-12-08T15:19:12.969Z</updated>
-        <content type="html"><![CDATA[겨울 동심의 교과서.]]></content>
     </entry>
 </feed>

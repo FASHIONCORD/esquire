@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-12-21T03:19:50.537Z</updated>
+    <updated>2023-12-21T09:19:21.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최우식 남친짤 비법?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83023</id>
+        <link href="https://www.esquirekorea.co.kr/article/83023"/>
+        <updated>2023-12-21T09:19:03.507Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김민규가 카메라에 남기고 간 선물은?]]></title>
         <id>https://www.esquirekorea.co.kr/article/82998</id>
@@ -49,12 +55,5 @@
         <id>https://www.esquirekorea.co.kr/article/82811</id>
         <link href="https://www.esquirekorea.co.kr/article/82811"/>
         <updated>2023-12-14T09:18:54.738Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['MAMA' 화제의 드레스 주인공? 청순 매력 노윤서 TMI 12]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82731</id>
-        <link href="https://www.esquirekorea.co.kr/article/82731"/>
-        <updated>2023-12-13T09:19:25.585Z</updated>
-        <content type="html"><![CDATA[매력적인 입꼬리 때문에 성형 의혹까지 받았다고?]]></content>
     </entry>
 </feed>
