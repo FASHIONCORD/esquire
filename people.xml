@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2023-12-20T15:16:29.597Z</updated>
+    <updated>2023-12-21T03:19:50.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민규가 카메라에 남기고 간 선물은?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82998</id>
+        <link href="https://www.esquirekorea.co.kr/article/82998"/>
+        <updated>2023-12-21T03:19:26.871Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윈디시티 '시장에 가자' 라이브 무대]]></title>
         <id>https://www.esquirekorea.co.kr/article/82985</id>
@@ -50,12 +56,5 @@
         <link href="https://www.esquirekorea.co.kr/article/82731"/>
         <updated>2023-12-13T09:19:25.585Z</updated>
         <content type="html"><![CDATA[매력적인 입꼬리 때문에 성형 의혹까지 받았다고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동욱의 욕실 청소 최애템?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82650</id>
-        <link href="https://www.esquirekorea.co.kr/article/82650"/>
-        <updated>2023-12-13T03:20:10.980Z</updated>
-        <content type="html"><![CDATA[그가 밝히는 '욱동이'의 매력 3가지까지.]]></content>
     </entry>
 </feed>
