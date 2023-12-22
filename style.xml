@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2023-12-22T03:21:18.656Z</updated>
+    <updated>2023-12-22T09:19:13.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미니백을 드는 네 가지 애티튜드]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82276</id>
+        <link href="https://www.esquirekorea.co.kr/article/82276"/>
+        <updated>2023-12-22T09:18:20.425Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[플리스 아이템과 함께 하는 나날]]></title>
         <id>https://www.esquirekorea.co.kr/article/82476</id>
@@ -51,12 +57,5 @@
         <link href="https://www.esquirekorea.co.kr/article/82608"/>
         <updated>2023-12-06T15:19:27.020Z</updated>
         <content type="html"><![CDATA[이 영상을 보면 달리고 싶어질 겁니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셀린느가 공개한 남성 서머 24 컬렉션 필름]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82536</id>
-        <link href="https://www.esquirekorea.co.kr/article/82536"/>
-        <updated>2023-12-04T15:19:10.855Z</updated>
-        <content type="html"><![CDATA[지난 7월 파리 쇼가 취소된 후, 에디 슬리먼이 직접 촬영했다.]]></content>
     </entry>
 </feed>
