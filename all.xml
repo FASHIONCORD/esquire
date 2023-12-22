@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 09:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 15:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1293,6 +1293,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[렉서스는 차의 성능을 소개하는 대신 예술 이야기로 라이프 시그니처 클래스의 포문을 열었다. ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[하루에 3시간만 운영하는 국밥 맛집 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83042</link>
+            <guid>https://www.esquirekorea.co.kr/article/83042</guid>
+            <pubDate>Fri, 22 Dec 2023 09:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[아는 사람들만 가는 국밥집만 소개한다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[1인 5만원 이하, 가성비 오마카세 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83027</link>
             <guid>https://www.esquirekorea.co.kr/article/83027</guid>
@@ -1342,11 +1349,11 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[겨울철에 생각나는 그 맛.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쌀떡파 모여라, 방앗간 품은 서울 쌀떡볶이 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82838</link>
-            <guid>https://www.esquirekorea.co.kr/article/82838</guid>
-            <pubDate>Thu, 14 Dec 2023 09:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[참새가 방앗간 못 지나치듯.]]></content:encoded>
+            <title><![CDATA[‘마에스트라’로 돌아온 이영애가 다녀간 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83216</link>
+            <guid>https://www.esquirekorea.co.kr/article/83216</guid>
+            <pubDate>Fri, 22 Dec 2023 15:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[산지 직송 한우고기 맛집부터 통영 칼국수 맛집까지.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연말 데이트 추천, 1인 2만원대 서울 애프터눈 티 카페 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1396,13 +1403,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/83024</guid>
             <pubDate>Tue, 19 Dec 2023 09:18:23 GMT</pubDate>
             <content:encoded><![CDATA[뱅쇼의 변신은 어디까지?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전국 프라이빗 찜질 사우나 3 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83021</link>
-            <guid>https://www.esquirekorea.co.kr/article/83021</guid>
-            <pubDate>Sat, 16 Dec 2023 15:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[혼밥, 혼술, 그리고 혼자 즐기는 찜질까지.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Part 2. 값진 남자 최우식 (에스콰이어 코리아 ─ 피플)]]></title>
