@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Dec 2023 09:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 15:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1349,6 +1349,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[페리에 주에가 멜라니 로랑과 함께 새로운 캠페인 ‘필 유어 월드 위드 원더(Fill your world...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[국경 없는 주종과 안주의 향연, 서울 무국적 주점 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83251</link>
+            <guid>https://www.esquirekorea.co.kr/article/83251</guid>
+            <pubDate>Sat, 23 Dec 2023 15:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[주당들 설레게 하는 다채로운 메뉴들.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[‘마에스트라’로 돌아온 이영애가 다녀간 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83216</link>
             <guid>https://www.esquirekorea.co.kr/article/83216</guid>
@@ -1396,13 +1403,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/83027</guid>
             <pubDate>Thu, 21 Dec 2023 09:18:54 GMT</pubDate>
             <content:encoded><![CDATA[넘치는 가성비로 든든한 연말 회식.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[막걸리와 뱅쇼의 조합? 이색 뱅쇼 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83024</link>
-            <guid>https://www.esquirekorea.co.kr/article/83024</guid>
-            <pubDate>Tue, 19 Dec 2023 09:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[뱅쇼의 변신은 어디까지?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Part 2. 값진 남자 최우식 (에스콰이어 코리아 ─ 피플)]]></title>

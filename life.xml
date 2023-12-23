@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-12-23T09:17:26.493Z</updated>
+    <updated>2023-12-23T15:18:19.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국경 없는 주종과 안주의 향연, 서울 무국적 주점 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83251</id>
+        <link href="https://www.esquirekorea.co.kr/article/83251"/>
+        <updated>2023-12-23T15:17:39.545Z</updated>
+        <content type="html"><![CDATA[주당들 설레게 하는 다채로운 메뉴들.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘마에스트라’로 돌아온 이영애가 다녀간 맛집 4]]></title>
         <id>https://www.esquirekorea.co.kr/article/83216</id>
@@ -53,12 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/83027"/>
         <updated>2023-12-21T09:18:54.365Z</updated>
         <content type="html"><![CDATA[넘치는 가성비로 든든한 연말 회식.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[막걸리와 뱅쇼의 조합? 이색 뱅쇼 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83024</id>
-        <link href="https://www.esquirekorea.co.kr/article/83024"/>
-        <updated>2023-12-19T09:18:23.265Z</updated>
-        <content type="html"><![CDATA[뱅쇼의 변신은 어디까지?]]></content>
     </entry>
 </feed>
