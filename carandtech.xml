@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/carandtech</id>
     <title>에스콰이어 코리아 ─ 카&amp;테크</title>
-    <updated>2023-12-25T09:20:05.663Z</updated>
+    <updated>2023-12-25T15:19:30.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['자전거의 도시'에서 온 이토록 빼어난 균형의 전기 자전거]]></title>
+        <id>https://www.esquirekorea.co.kr/article/82269</id>
+        <link href="https://www.esquirekorea.co.kr/article/82269"/>
+        <updated>2023-12-25T15:18:37.654Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아날로그 포켓 리미티드 에디션 출시]]></title>
         <id>https://www.esquirekorea.co.kr/article/82182</id>
@@ -50,12 +56,5 @@
         <link href="https://www.esquirekorea.co.kr/article/81696"/>
         <updated>2023-11-05T15:16:45.527Z</updated>
         <content type="html"><![CDATA[출시는 미정.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[렉서스가 라이프 시그니처 클래스를 연 이유는?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81590</id>
-        <link href="https://www.esquirekorea.co.kr/article/81590"/>
-        <updated>2023-11-02T15:18:14.226Z</updated>
-        <content type="html"><![CDATA[렉서스는 차의 성능을 소개하는 대신 예술 이야기로 라이프 시그니처 클래스의 포문을 열었다. ...]]></content>
     </entry>
 </feed>
