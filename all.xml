@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 09:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 15:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1348,6 +1348,19 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[최고상훈에 빛나는 돼지고기는 다르긴 다르다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[러너들의 성배 나이키 알파플라이 3를 신고 뛰어본 느낌은? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83137</link>
+            <guid>https://www.esquirekorea.co.kr/article/83137</guid>
+            <pubDate>Tue, 26 Dec 2023 15:18:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘2024 블루리본 서베이’에 선정된 단팥죽 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83265</link>
+            <guid>https://www.esquirekorea.co.kr/article/83265</guid>
+            <pubDate>Tue, 26 Dec 2023 15:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[군침을 자극하는 단팥죽 맛집은 어디?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Mr.2 하얀 겨울 라이브 무대 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83261</link>
             <guid>https://www.esquirekorea.co.kr/article/83261</guid>
@@ -1387,20 +1400,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/83104</guid>
             <pubDate>Fri, 22 Dec 2023 09:18:50 GMT</pubDate>
             <content:encoded><![CDATA[이색적인 크리스마스와 새해를 계획하고 있다면 주메이라 몰디브 올하할리 아일랜드를 방문해보자.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스, 미국 ABC TV 새해맞이 특집쇼 출연 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83044</link>
-            <guid>https://www.esquirekorea.co.kr/article/83044</guid>
-            <pubDate>Fri, 22 Dec 2023 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA['슈퍼 샤이'와 'ETA'를 들려줄 예정이다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[하루에 3시간만 운영하는 국밥 맛집 5 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83042</link>
-            <guid>https://www.esquirekorea.co.kr/article/83042</guid>
-            <pubDate>Fri, 22 Dec 2023 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[아는 사람들만 가는 국밥집만 소개한다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Part 2. 값진 남자 최우식 (에스콰이어 코리아 ─ 피플)]]></title>
