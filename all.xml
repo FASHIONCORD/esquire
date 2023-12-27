@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 15:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 03:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1451,6 +1451,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[샌프란시스코로 향한다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['사랑 후에 오는 것들' 이세영·사카구치 켄타로 출연 확정 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82735</link>
+            <guid>https://www.esquirekorea.co.kr/article/82735</guid>
+            <pubDate>Wed, 27 Dec 2023 03:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[이들이 그려 나가는 로맨스는 어떤 모습일까?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[배우 임세미, 류준열의 마라톤 코치 임장섭 등판! (에스콰이어 코리아 ─ 나우)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82608</link>
             <guid>https://www.esquirekorea.co.kr/article/82608</guid>
@@ -1498,13 +1505,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/82167</guid>
             <pubDate>Thu, 30 Nov 2023 09:18:45 GMT</pubDate>
             <content:encoded><![CDATA[샤오미가 전기차 사업에 뛰어든다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미국 LA 아카데미 뮤지엄, 배우 송강호 회고전 연다 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82154</link>
-            <guid>https://www.esquirekorea.co.kr/article/82154</guid>
-            <pubDate>Tue, 28 Nov 2023 09:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[해외 및 국내 영화인 최초로 배우 송강호의 회고전이 LA 아카데미 뮤지엄에서 열린다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[Eshop] 보면 볼수록 빠져 드는 테니스 스커트 (에스콰이어 코리아 ─ 이샵)]]></title>
