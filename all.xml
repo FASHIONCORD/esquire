@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 09:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 15:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1292,6 +1292,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[출시는 미정.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[국경 없는 주종과 안주의 향연, 서울 무국적 주점 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83252</link>
+            <guid>https://www.esquirekorea.co.kr/article/83252</guid>
+            <pubDate>Sun, 24 Dec 2023 15:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[주당들 설레게 하는 다채로운 메뉴들.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[‘마에스트라’로 돌아온 이영애가 다녀간 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83216</link>
             <guid>https://www.esquirekorea.co.kr/article/83216</guid>
@@ -1341,11 +1348,25 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[어묵 국물 말고도 맛있게 먹은 맛집을 소개한다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한돈 부문 대통령상 보유, 서울 삼겹살 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82996</link>
-            <guid>https://www.esquirekorea.co.kr/article/82996</guid>
-            <pubDate>Tue, 26 Dec 2023 09:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[최고상훈에 빛나는 돼지고기는 다르긴 다르다.]]></content:encoded>
+            <title><![CDATA[여행지의 한 집에서 몇 주, 몇 달을 머물렀다는 사람들의 이야기 pt.2 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83307</link>
+            <guid>https://www.esquirekorea.co.kr/article/83307</guid>
+            <pubDate>Wed, 27 Dec 2023 15:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[여행지의 한 집에서 몇 주, 몇 달을 머물러 보았다는 사람들. 그들에게는 도시와 여행과 삶이 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[여행지의 한 집에서 몇 주, 몇 달을 머물렀다는 사람들의 이야기 pt.1 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83105</link>
+            <guid>https://www.esquirekorea.co.kr/article/83105</guid>
+            <pubDate>Wed, 27 Dec 2023 15:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[여행지의 한 집에서 몇 주, 몇 달을 머물러 보았다는 사람들. 그들에게는 도시와 여행과 삶이 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트럼프를 대통령으로 만들었던 스티브 배넌과 이 시점에 나눈 인터뷰 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83156</link>
+            <guid>https://www.esquirekorea.co.kr/article/83156</guid>
+            <pubDate>Wed, 27 Dec 2023 15:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[스티브 배넌의 머릿속에선 무슨 일이 일어나고 있을까? 그가 다시 한번 도널드 트럼프를 대통령...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서핑에 숨겨진 심리 치료의 효과가 있다? (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1380,25 +1401,18 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[1천원의 행복!]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[국경 없는 주종과 안주의 향연, 서울 무국적 주점 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83252</link>
-            <guid>https://www.esquirekorea.co.kr/article/83252</guid>
-            <pubDate>Sun, 24 Dec 2023 15:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[주당들 설레게 하는 다채로운 메뉴들.]]></content:encoded>
+            <title><![CDATA[Part 2. 하영은 궁금한 배우가 되겠다고 말했다 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83186</link>
+            <guid>https://www.esquirekorea.co.kr/article/83186</guid>
+            <pubDate>Wed, 27 Dec 2023 15:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[당신은 &lt;이상한 변호사 우영우&gt;에 나온 문신한 신부 ‘김화영’를 알고, &lt;모범형사 2&gt;의 구둣방 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘마에스트라’로 돌아온 이영애가 다녀간 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83216</link>
-            <guid>https://www.esquirekorea.co.kr/article/83216</guid>
-            <pubDate>Fri, 22 Dec 2023 15:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[산지 직송 한우고기 맛집부터 통영 칼국수 맛집까지.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연말 데이트 추천, 1인 2만원대 서울 애프터눈 티 카페 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83199</link>
-            <guid>https://www.esquirekorea.co.kr/article/83199</guid>
-            <pubDate>Fri, 22 Dec 2023 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[디저트 한 조각과 티 한 잔의 여유.]]></content:encoded>
+            <title><![CDATA[Part 1. 배우 하영이 <이두나!>와 이별하며 느낀 것들 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83106</link>
+            <guid>https://www.esquirekorea.co.kr/article/83106</guid>
+            <pubDate>Wed, 27 Dec 2023 15:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[당신은 &lt;이상한 변호사 우영우&gt;에 나온 문신한 신부 ‘김화영’를 알고, &lt;모범형사 2&gt;의 구둣방 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Part 2. 값진 남자 최우식 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1435,19 +1449,6 @@ The New MINI Countryman과 일상에
             <link>https://www.esquirekorea.co.kr/article/82985</link>
             <guid>https://www.esquirekorea.co.kr/article/82985</guid>
             <pubDate>Fri, 15 Dec 2023 15:19:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[김민규 무민단에게 직접 쓴 편지? (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82964</link>
-            <guid>https://www.esquirekorea.co.kr/article/82964</guid>
-            <pubDate>Wed, 20 Dec 2023 03:16:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘바람의 아들’ 이정후, 메이저리그 진출한다 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82951</link>
-            <guid>https://www.esquirekorea.co.kr/article/82951</guid>
-            <pubDate>Fri, 15 Dec 2023 03:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[샌프란시스코로 향한다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['사랑 후에 오는 것들' 이세영·사카구치 켄타로 출연 확정 (에스콰이어 코리아 ─ 나우)]]></title>
