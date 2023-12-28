@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-12-28T03:20:13.686Z</updated>
+    <updated>2023-12-28T09:19:05.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새해 맞이 초대형 ‘자정의 태양’이 떠오른다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83314</id>
+        <link href="https://www.esquirekorea.co.kr/article/83314"/>
+        <updated>2023-12-28T09:18:35.759Z</updated>
+        <content type="html"><![CDATA[보신각 타종 후 나타날 예정.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아디다스와 아식스의 플래그십 레이싱 슈즈는?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83306</id>
+        <link href="https://www.esquirekorea.co.kr/article/83306"/>
+        <updated>2023-12-28T09:18:35.761Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여행지의 한 집에서 몇 주, 몇 달을 머물렀다는 사람들의 이야기 pt.2]]></title>
         <id>https://www.esquirekorea.co.kr/article/83307</id>
@@ -44,18 +57,5 @@
         <link href="https://www.esquirekorea.co.kr/article/83265"/>
         <updated>2023-12-26T15:18:25.408Z</updated>
         <content type="html"><![CDATA[군침을 자극하는 단팥죽 맛집은 어디?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mr.2 하얀 겨울 라이브 무대]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83261</id>
-        <link href="https://www.esquirekorea.co.kr/article/83261"/>
-        <updated>2023-12-25T15:19:02.616Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22일 서울광장 스케이트장 개장]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83260</id>
-        <link href="https://www.esquirekorea.co.kr/article/83260"/>
-        <updated>2023-12-24T15:17:16.846Z</updated>
-        <content type="html"><![CDATA[1천원의 행복!]]></content>
     </entry>
 </feed>
