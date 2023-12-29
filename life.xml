@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-12-29T09:19:17.862Z</updated>
+    <updated>2023-12-29T15:18:46.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[클린스만호, 아시안컵 선수 명단 발표]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83340</id>
+        <link href="https://www.esquirekorea.co.kr/article/83340"/>
+        <updated>2023-12-29T15:18:01.876Z</updated>
+        <content type="html"><![CDATA[64년만의 아시안컵 우승에 도전한다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 블루리본 서베이 선정 서울 한식당 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83337</id>
+        <link href="https://www.esquirekorea.co.kr/article/83337"/>
+        <updated>2023-12-29T15:18:01.877Z</updated>
+        <content type="html"><![CDATA[리본 세 개의 영광을 거머쥔 맛집들.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 미술이 자꾸 미국에서 보이는 까닭은?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83107</id>
+        <link href="https://www.esquirekorea.co.kr/article/83107"/>
+        <updated>2023-12-29T15:18:01.878Z</updated>
+        <content type="html"><![CDATA[지난가을 이후 미국의 주요 미술관과 갤러리에서 한국의 작가나 특정한 시대를 다루는 전시가 최...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코헤이 나와의 우주와 시간의 감각]]></title>
         <id>https://www.esquirekorea.co.kr/article/83193</id>
@@ -38,25 +59,5 @@
         <id>https://www.esquirekorea.co.kr/article/83306</id>
         <link href="https://www.esquirekorea.co.kr/article/83306"/>
         <updated>2023-12-28T09:18:35.761Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여행지의 한 집에서 몇 주, 몇 달을 머물렀다는 사람들의 이야기 pt.1]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83105</id>
-        <link href="https://www.esquirekorea.co.kr/article/83105"/>
-        <updated>2023-12-27T15:18:35.486Z</updated>
-        <content type="html"><![CDATA[여행지의 한 집에서 몇 주, 몇 달을 머물러 보았다는 사람들. 그들에게는 도시와 여행과 삶이 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트럼프를 대통령으로 만들었던 스티브 배넌과 이 시점에 나눈 인터뷰]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83156</id>
-        <link href="https://www.esquirekorea.co.kr/article/83156"/>
-        <updated>2023-12-27T15:18:35.486Z</updated>
-        <content type="html"><![CDATA[스티브 배넌의 머릿속에선 무슨 일이 일어나고 있을까? 그가 다시 한번 도널드 트럼프를 대통령...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서핑에 숨겨진 심리 치료의 효과가 있다?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83141</id>
-        <link href="https://www.esquirekorea.co.kr/article/83141"/>
-        <updated>2023-12-27T09:18:02.340Z</updated>
     </entry>
 </feed>
