@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 15:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 03:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1239,6 +1239,13 @@ The New MINI Countryman과 일상에
             <pubDate>Sun, 08 Oct 2023 03:18:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[맥도날드에 전기차 충전기의 등장이라 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/82319</link>
+            <guid>https://www.esquirekorea.co.kr/article/82319</guid>
+            <pubDate>Sat, 30 Dec 2023 03:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[20분 만에 80%까지 충전 가능하다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['자전거의 도시'에서 온 이토록 빼어난 균형의 전기 자전거 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/82269</link>
             <guid>https://www.esquirekorea.co.kr/article/82269</guid>
@@ -1282,13 +1289,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81579</guid>
             <pubDate>Fri, 17 Nov 2023 09:18:08 GMT</pubDate>
             <content:encoded><![CDATA[“이 차가 왜 여기서 나와?”라는 말이 저절로 나온다. 공도를 달리며 도합 213세를 자랑하는 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[손목에 차는 스마트폰? (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81696</link>
-            <guid>https://www.esquirekorea.co.kr/article/81696</guid>
-            <pubDate>Sun, 05 Nov 2023 15:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[출시는 미정.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 블루리본 서베이 선정 서울 한식당 4 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1357,7 +1357,7 @@ The New MINI Countryman과 일상에
             <title><![CDATA[2024 블루리본 서베이 선정 서울 한식당 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83337</link>
             <guid>https://www.esquirekorea.co.kr/article/83337</guid>
-            <pubDate>Fri, 29 Dec 2023 15:18:01 GMT</pubDate>
+            <pubDate>Fri, 29 Dec 2023 15:17:51 GMT</pubDate>
             <content:encoded><![CDATA[리본 세 개의 영광을 거머쥔 맛집들.]]></content:encoded>
         </item>
         <item>
