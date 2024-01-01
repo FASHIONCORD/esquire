@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jan 2024 09:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 15:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1346,6 +1346,20 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[산지 직송 한우고기 맛집부터 통영 칼국수 맛집까지.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[서울 곰탕 맛집 총정리 8 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83365</link>
+            <guid>https://www.esquirekorea.co.kr/article/83365</guid>
+            <pubDate>Mon, 01 Jan 2024 15:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[뜨끈한 곰탕 한 그릇으로 겨울철 추위를 이겨내자.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연말연시 데이트 코스, 스테이크 오마카세 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83362</link>
+            <guid>https://www.esquirekorea.co.kr/article/83362</guid>
+            <pubDate>Mon, 01 Jan 2024 15:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[하루에 두 팀만 받는 원테이블링 레스토랑부터 100일 숙성 스테이크 맛집까지.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[동해와 이설의 연애 상담소 오픈! 헤어진 사람을 위한 조언? (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83361</link>
             <guid>https://www.esquirekorea.co.kr/article/83361</guid>
@@ -1385,20 +1399,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/83107</guid>
             <pubDate>Fri, 29 Dec 2023 15:18:01 GMT</pubDate>
             <content:encoded><![CDATA[지난가을 이후 미국의 주요 미술관과 갤러리에서 한국의 작가나 특정한 시대를 다루는 전시가 최...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코헤이 나와의 우주와 시간의 감각 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83193</link>
-            <guid>https://www.esquirekorea.co.kr/article/83193</guid>
-            <pubDate>Fri, 29 Dec 2023 09:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[페이스 갤러리 서울에서 지금 열리고 있는 자신의 전시 <cosmic sensibility="">를 위해 서울을 ...                                    </cosmic>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 서울 호텔 딸기 뷔페 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83328</link>
-            <guid>https://www.esquirekorea.co.kr/article/83328</guid>
-            <pubDate>Fri, 29 Dec 2023 03:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[새콤달콤한 제철 딸기가 당기는 날.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Mr.2 하얀 겨울 라이브 무대 (에스콰이어 코리아 ─ 피플)]]></title>
