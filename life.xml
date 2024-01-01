@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2023-12-31T15:17:38.864Z</updated>
+    <updated>2024-01-01T03:22:22.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동해와 이설의 연애 상담소 오픈! 헤어진 사람을 위한 조언?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83361</id>
+        <link href="https://www.esquirekorea.co.kr/article/83361"/>
+        <updated>2024-01-01T03:21:29.234Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코레일, 설 연휴 승차권 예매 일정 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83355</id>
+        <link href="https://www.esquirekorea.co.kr/article/83355"/>
+        <updated>2024-01-01T03:21:29.238Z</updated>
+        <content type="html"><![CDATA[공식 앱과 홈페이지 그리고 전화접수를 통해 예매 가능하다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[겨울에 유독 생각나는, 스위스식 치즈 퐁듀 맛집 4]]></title>
         <id>https://www.esquirekorea.co.kr/article/83348</id>
@@ -46,19 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/83328"/>
         <updated>2023-12-29T03:20:09.218Z</updated>
         <content type="html"><![CDATA[새콤달콤한 제철 딸기가 당기는 날.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해 맞이 초대형 ‘자정의 태양’이 떠오른다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83314</id>
-        <link href="https://www.esquirekorea.co.kr/article/83314"/>
-        <updated>2023-12-28T09:18:35.759Z</updated>
-        <content type="html"><![CDATA[보신각 타종 후 나타날 예정.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여행지의 한 집에서 몇 주, 몇 달을 머물렀다는 사람들의 이야기 pt.2]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83307</id>
-        <link href="https://www.esquirekorea.co.kr/article/83307"/>
-        <updated>2023-12-27T15:18:35.484Z</updated>
-        <content type="html"><![CDATA[여행지의 한 집에서 몇 주, 몇 달을 머물러 보았다는 사람들. 그들에게는 도시와 여행과 삶이 ...]]></content>
     </entry>
 </feed>

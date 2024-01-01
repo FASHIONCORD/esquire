@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Dec 2023 15:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 03:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1346,6 +1346,19 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[산지 직송 한우고기 맛집부터 통영 칼국수 맛집까지.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[동해와 이설의 연애 상담소 오픈! 헤어진 사람을 위한 조언? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83361</link>
+            <guid>https://www.esquirekorea.co.kr/article/83361</guid>
+            <pubDate>Mon, 01 Jan 2024 03:21:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[코레일, 설 연휴 승차권 예매 일정 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83355</link>
+            <guid>https://www.esquirekorea.co.kr/article/83355</guid>
+            <pubDate>Mon, 01 Jan 2024 03:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[공식 앱과 홈페이지 그리고 전화접수를 통해 예매 가능하다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[겨울에 유독 생각나는, 스위스식 치즈 퐁듀 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83348</link>
             <guid>https://www.esquirekorea.co.kr/article/83348</guid>
@@ -1386,20 +1399,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/83328</guid>
             <pubDate>Fri, 29 Dec 2023 03:20:09 GMT</pubDate>
             <content:encoded><![CDATA[새콤달콤한 제철 딸기가 당기는 날.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[새해 맞이 초대형 ‘자정의 태양’이 떠오른다 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83314</link>
-            <guid>https://www.esquirekorea.co.kr/article/83314</guid>
-            <pubDate>Thu, 28 Dec 2023 09:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[보신각 타종 후 나타날 예정.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[여행지의 한 집에서 몇 주, 몇 달을 머물렀다는 사람들의 이야기 pt.2 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83307</link>
-            <guid>https://www.esquirekorea.co.kr/article/83307</guid>
-            <pubDate>Wed, 27 Dec 2023 15:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[여행지의 한 집에서 몇 주, 몇 달을 머물러 보았다는 사람들. 그들에게는 도시와 여행과 삶이 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Mr.2 하얀 겨울 라이브 무대 (에스콰이어 코리아 ─ 피플)]]></title>
