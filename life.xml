@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2024-01-02T09:18:34.314Z</updated>
+    <updated>2024-01-02T15:19:35.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[당신이 생각지 못한, 얕아 보이지만 심오한 세상의 연구 7]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83370</id>
+        <link href="https://www.esquirekorea.co.kr/article/83370"/>
+        <updated>2024-01-02T15:19:09.269Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 곰탕 맛집 총정리 8]]></title>
         <id>https://www.esquirekorea.co.kr/article/83365</id>
@@ -52,12 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/83337"/>
         <updated>2023-12-29T15:18:01.877Z</updated>
         <content type="html"><![CDATA[리본 세 개의 영광을 거머쥔 맛집들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 미술이 자꾸 미국에서 보이는 까닭은?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83107</id>
-        <link href="https://www.esquirekorea.co.kr/article/83107"/>
-        <updated>2023-12-29T15:18:01.878Z</updated>
-        <content type="html"><![CDATA[지난가을 이후 미국의 주요 미술관과 갤러리에서 한국의 작가나 특정한 시대를 다루는 전시가 최...]]></content>
     </entry>
 </feed>

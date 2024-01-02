@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2024-01-02T09:18:34.299Z</updated>
+    <updated>2024-01-02T15:19:35.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슈트의 서스펜스]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83154</id>
+        <link href="https://www.esquirekorea.co.kr/article/83154"/>
+        <updated>2024-01-02T15:18:18.390Z</updated>
+        <content type="html"><![CDATA[그 때 그 사람들.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[톰 포드 선글라스의 미학]]></title>
         <id>https://www.esquirekorea.co.kr/article/83138</id>
@@ -48,12 +55,6 @@
         <title type="html"><![CDATA[집에서 아무 이유 없이 슈트를 꺼내 입어보는 이유에 대하여]]></title>
         <id>https://www.esquirekorea.co.kr/article/82786</id>
         <link href="https://www.esquirekorea.co.kr/article/82786"/>
-        <updated>2023-12-14T15:19:18.750Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해의 방한 아이템을 묻다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82696</id>
-        <link href="https://www.esquirekorea.co.kr/article/82696"/>
         <updated>2023-12-14T15:19:18.750Z</updated>
     </entry>
 </feed>
