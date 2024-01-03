@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 09:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 15:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1400,6 +1400,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[리본 세 개의 영광을 거머쥔 맛집들.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[앞으로가 기대되는 10명의 00년대생 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83155</link>
+            <guid>https://www.esquirekorea.co.kr/article/83155</guid>
+            <pubDate>Wed, 03 Jan 2024 15:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[젊고 솔직한 그 얼굴에게 도전, 사랑, 고민과 꿈을 묻다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[설레는 연애 VS 친구 같은 연애, 동해와 이설의 선택은? (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83325</link>
             <guid>https://www.esquirekorea.co.kr/article/83325</guid>
@@ -1443,12 +1450,6 @@ The New MINI Countryman과 일상에
             <title><![CDATA[Part 2. 값진 남자 최우식 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83133</link>
             <guid>https://www.esquirekorea.co.kr/article/83133</guid>
-            <pubDate>Fri, 22 Dec 2023 09:18:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Part 1. 최우식이 가장 빛나는 순간 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83112</link>
-            <guid>https://www.esquirekorea.co.kr/article/83112</guid>
             <pubDate>Fri, 22 Dec 2023 09:18:57 GMT</pubDate>
         </item>
         <item>
