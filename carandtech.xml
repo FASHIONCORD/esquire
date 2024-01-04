@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/carandtech</id>
     <title>에스콰이어 코리아 ─ 카&amp;테크</title>
-    <updated>2024-01-04T09:19:08.218Z</updated>
+    <updated>2024-01-04T15:21:29.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모든 고리가 담긴 천왕성 사진이 공개됐다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83140</id>
+        <link href="https://www.esquirekorea.co.kr/article/83140"/>
+        <updated>2024-01-04T15:20:28.467Z</updated>
+        <content type="html"><![CDATA[역동적인 얼음왕국의 자태.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 법조인이 대신 판결을 내려주는 시대가 올까?]]></title>
         <id>https://www.esquirekorea.co.kr/article/82821</id>
@@ -49,11 +56,5 @@
         <link href="https://www.esquirekorea.co.kr/article/81828"/>
         <updated>2023-11-22T09:18:42.224Z</updated>
         <content type="html"><![CDATA[멤버들의 연주와 인공지능을 결합했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폴라로이드와 라이카가 제시하는 즉석현상카메라의 미래]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81496</id>
-        <link href="https://www.esquirekorea.co.kr/article/81496"/>
-        <updated>2023-11-21T09:19:24.826Z</updated>
     </entry>
 </feed>
