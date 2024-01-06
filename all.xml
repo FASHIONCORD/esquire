@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Jan 2024 03:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jan 2024 09:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1291,6 +1291,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[멤버들의 연주와 인공지능을 결합했다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[연말연시 데이트 코스, 스테이크 오마카세 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83362</link>
+            <guid>https://www.esquirekorea.co.kr/article/83362</guid>
+            <pubDate>Mon, 01 Jan 2024 15:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[하루에 두 팀만 받는 원테이블링 레스토랑부터 100일 숙성 스테이크 맛집까지.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[겨울에 유독 생각나는, 스위스식 치즈 퐁듀 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83348</link>
             <guid>https://www.esquirekorea.co.kr/article/83348</guid>
@@ -1340,11 +1347,10 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[맛은 매출과 비례하다고?]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘2024 블루리본 서베이’에 선정된 단팥죽 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83265</link>
-            <guid>https://www.esquirekorea.co.kr/article/83265</guid>
-            <pubDate>Tue, 26 Dec 2023 15:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[군침을 자극하는 단팥죽 맛집은 어디?]]></content:encoded>
+            <title><![CDATA[키어 스타머는 영국의 새 총리가 될 수 있을까? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83160</link>
+            <guid>https://www.esquirekorea.co.kr/article/83160</guid>
+            <pubDate>Sat, 06 Jan 2024 09:17:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[메가 서울은 필요 없다 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1389,13 +1395,6 @@ The New MINI Countryman과 일상에
             <link>https://www.esquirekorea.co.kr/article/83361</link>
             <guid>https://www.esquirekorea.co.kr/article/83361</guid>
             <pubDate>Mon, 01 Jan 2024 03:21:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[코레일, 설 연휴 승차권 예매 일정 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83355</link>
-            <guid>https://www.esquirekorea.co.kr/article/83355</guid>
-            <pubDate>Mon, 01 Jan 2024 03:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[공식 앱과 홈페이지 그리고 전화접수를 통해 예매 가능하다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[앞으로가 기대되는 10명의 00년대생 (에스콰이어 코리아 ─ 피플)]]></title>
