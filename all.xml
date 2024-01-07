@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Jan 2024 09:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jan 2024 15:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1347,6 +1347,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[푸른 달빛 아래, 찬란히 빛난 에스콰이어의 밤.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[우크라이나 젤렌스키 대통령이 전쟁의 한가운데서 보내온 편지 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83135</link>
+            <guid>https://www.esquirekorea.co.kr/article/83135</guid>
+            <pubDate>Sun, 07 Jan 2024 15:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[전쟁의 한가운데에서, 볼로디미르 젤렌스키 우크라이나 대통령이 &lt;에스콰이어 US&gt;에 편지를 보냈다...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[키어 스타머는 영국의 새 총리가 될 수 있을까? (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83160</link>
             <guid>https://www.esquirekorea.co.kr/article/83160</guid>
@@ -1389,12 +1396,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/83362</guid>
             <pubDate>Mon, 01 Jan 2024 15:18:41 GMT</pubDate>
             <content:encoded><![CDATA[하루에 두 팀만 받는 원테이블링 레스토랑부터 100일 숙성 스테이크 맛집까지.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[동해와 이설의 연애 상담소 오픈! 헤어진 사람을 위한 조언? (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83361</link>
-            <guid>https://www.esquirekorea.co.kr/article/83361</guid>
-            <pubDate>Mon, 01 Jan 2024 03:21:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[앞으로가 기대되는 10명의 00년대생 (에스콰이어 코리아 ─ 피플)]]></title>
