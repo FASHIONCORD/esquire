@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ STYLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 03:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 09:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NEW MORNING ROUTINE]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37155529&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37155529&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Mon, 08 Jan 2024 09:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDhfMjY0/MDAxNzA0NjkxODQ5MjE4.mdzZ2hqpaNjT9VWVHwng6lB2cjT0kof7W5r-go-zNsQg.h46b-GhL8wxA_CpspMSm5UI8fZhLnp0NxT0QzIHCyuog.JPEG/IHtUgqtlplJ90lPWv8uCNrBKnPAc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[든든한 수분장벽, 차앤맘으로 지키는 촉촉한 연말]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37055537&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 01 Dec 2023 09:17:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDFfMjAg/MDAxNzAxNDA5NDgwNjEy.qfi0W4I8jw55eKtrBjfGllM3lrxv2qgcN2oFNm7AB2gg.Z_klv7DKR7NEjPsZ7YIlrnuetDEqLNfPykn5Xl2T144g.JPEG/IkNbVWED4cH3Jke2_LJqymJOlrxY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[목욕 그 이상의 즐거움, 더바디샵과 함께하는 배쓰타임]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36971471&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36971471&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Fri, 01 Dec 2023 03:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDFfMjc0/MDAxNzAxMzk1NjYyMjU4.xFi7DBErey_KlC8W2sIMuHhoo0KgaT9LgD3LBGO5Jlcg.SGps1YZo7agnxonHehHogimzWhEcdOTSedz8Lf24Zawg.JPEG/IuRPDoyeCw4am45lltvQlpNUEONs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
