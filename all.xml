@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 09:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 15:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1397,6 +1397,12 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[뜨끈한 곰탕 한 그릇으로 겨울철 추위를 이겨내자.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[러브홀릭 지선 ‘그대만 있다면’ 라이브 무대 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83358</link>
+            <guid>https://www.esquirekorea.co.kr/article/83358</guid>
+            <pubDate>Wed, 10 Jan 2024 15:19:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[플러팅으로 도파민 대폭발! 솔로지옥3 TMI 10 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83345</link>
             <guid>https://www.esquirekorea.co.kr/article/83345</guid>
@@ -1440,13 +1446,6 @@ The New MINI Countryman과 일상에
             <title><![CDATA[Part 2. 하영은 궁금한 배우가 되겠다고 말했다 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83186</link>
             <guid>https://www.esquirekorea.co.kr/article/83186</guid>
-            <pubDate>Wed, 27 Dec 2023 15:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[당신은 &lt;이상한 변호사 우영우&gt;에 나온 문신한 신부 ‘김화영’를 알고, &lt;모범형사 2&gt;의 구둣방 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Part 1. 배우 하영이 <이두나!>와 이별하며 느낀 것들 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83106</link>
-            <guid>https://www.esquirekorea.co.kr/article/83106</guid>
             <pubDate>Wed, 27 Dec 2023 15:18:42 GMT</pubDate>
             <content:encoded><![CDATA[당신은 &lt;이상한 변호사 우영우&gt;에 나온 문신한 신부 ‘김화영’를 알고, &lt;모범형사 2&gt;의 구둣방 ...]]></content:encoded>
         </item>
