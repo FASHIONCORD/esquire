@@ -4,16 +4,24 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 15:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 03:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 블루리본 서베이 선정 서울 한식당 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37162205&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37162205&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Wed, 10 Jan 2024 03:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDlfMTA3/MDAxNzA0NzgxOTI5NDkw._KNHQi88rjo9i5lgYoF2EuPN9hvkU_Eqhs5NRbTtkYsg.qYX27or60eCyRfWbdWkhtPcJsreA5Xa-neA6oKFjSeYg.JPEG/IWmTQYcuZgVdH10qa3NuKYossLHE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1인 5만원 이하, 가성비 오마카세 4]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37161980&amp;memberNo=40217187&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37161980&amp;memberNo=40217187&amp;navigationType=push</guid>
             <pubDate>Tue, 09 Jan 2024 09:17:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDlfMjU1/MDAxNzA0Nzc5OTU0NDQ4.zECKBY3gn2XE6vQgiQelWqIPTNwv7VOU9eMp1AMqyEYg.OP1L1N_WaEkRq28-E9Gfl8d08bWHt26md4TzUkQ0QAUg.PNG/I4H6uwcskxC7cWl0nKokCvZ-ZGbI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMDlfMjE3/MDAxNzA0NzgwMDI2NDI3.YDZ524hLriELc1ltzl69cUrJFsdhg7h-Irr0HIGyXUAg.vBJtZ71k4nOa6dFBAo4g11sivRGnoGqWa8Y-Iz17apog.JPEG/I1GG6xAOx4W8WR5AaoA_4kCwwQ14.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울 곰탕 맛집 총정리 8]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 27 Nov 2023 03:18:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjFfMjkg/MDAxNzAwNTQ5NDEwODc0.4-70mayit9SD0lUQLy9xwvocP9KK_669mndPV3o6JQQg.Z4c9CeaDL7uh3k_QpXdGD6K9eEP_6KzdmFJd8xln-Lkg.JPEG/IIR34JAmSWLZ68MaCqYku5C3p8Ts.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소주 무한리필해 주는 이모카세 실비집 3]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36886983&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36886983&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Fri, 24 Nov 2023 09:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMTVfMTgz/MDAxNzAwMDEzODY2NDA3.efJLkGy-F2OdW2ypWDXKIEBxJk03aDFCRzcL4JWYfHQg.EBU1XelAe2isxSxuGXhY2CjqZrgu5nSkk62B8d5rRwog.JPEG/Ib2vS5FYWV7b7tLsf1F9PMNhlPUI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
