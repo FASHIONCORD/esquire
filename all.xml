@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 03:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 09:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,6 +176,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTBfMTQ0/MDAxNzA0ODcyNDU3NzY2.Tgqh0SNQs_lgj2o2GYvOT5cBvzY5Dvu2Z1S60sHKMYkg.UNTqrziXnUsZsxEturdOBzuZgUztG4Lwij3ACk70Pbwg.JPEG/IvWYYwUk7E5tyyoweqe53Dz2UnCo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘2024 블루리본 서베이’에 선정된 단팥죽 맛집 4 (네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&DRINK)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37168150&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37168150&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 11 Jan 2024 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTBfNDkg/MDAxNzA0ODcwMjU4NjE1.Jxima5TdPxTzM6jmd1-xuMdNjB2Y5UZxg-zbJaRyfXkg.CnNYlrvfA5HTns798yXPLNEI3vgiwgE_wQdjy7VGUJcg.JPEG/I7Ex97HAYcBCQyAfWl3i-3G0ulFs.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2024 블루리본 서베이 선정 서울 한식당 4 (네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&DRINK)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37162205&amp;memberNo=40217187&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37162205&amp;memberNo=40217187&amp;navigationType=push</guid>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 30 Nov 2023 09:17:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjRfMTcz/MDAxNzAwNzg4NDY3NTk1.JDsx_kx3D-nS4Zu4Z7wlloRyoKcFPTrKlqmI6y-e3ekg.dLub_iNZtDMfR6sqCrqgEIDNO-SqN0bVO6UVIKqJPdMg.JPEG/IMaBfoAV6r4muc_R1xG6wmkm8TY0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진한 국물이 일품인 서울 우육면 맛집 4 (네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&DRINK)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36922830&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36922830&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Wed, 29 Nov 2023 09:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjJfMjAw/MDAxNzAwNjE2MTU5NDk3.bqxMfeYjn3Ym7rrSku21uc9MJxxVTbSS1G_GHyTvg78g.caPzjnMcLU3mVzqYoeBEl6N2aT74g5OFmaDr1rThRr4g.JPEG/ILHl-_IAExYI3uxMzwR5U1koM0f8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다시 돌아온 바시티 재킷 (네이버 포스트 ─ 에스콰이어 코리아 ─ ESHOP)]]></title>
@@ -1397,6 +1397,12 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 02 Jan 2024 15:19:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[동해와 이설의 연애 상담소 오픈! 헤어진 사람을 위한 조언? (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83361</link>
+            <guid>https://www.esquirekorea.co.kr/article/83361</guid>
+            <pubDate>Thu, 11 Jan 2024 09:19:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[러브홀릭 지선 ‘그대만 있다면’ 라이브 무대 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83358</link>
             <guid>https://www.esquirekorea.co.kr/article/83358</guid>
@@ -1443,11 +1449,11 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[부드럽지만 냉철한 캐릭터를 소화하는 건 울면서 웃는 것보다 더 어려운 일이다. 선함과 악함이...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Part 2. 하영은 궁금한 배우가 되겠다고 말했다 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83186</link>
-            <guid>https://www.esquirekorea.co.kr/article/83186</guid>
-            <pubDate>Wed, 27 Dec 2023 15:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[당신은 &lt;이상한 변호사 우영우&gt;에 나온 문신한 신부 ‘김화영’를 알고, &lt;모범형사 2&gt;의 구둣방 ...]]></content:encoded>
+            <title><![CDATA[클린스만호, 아시안컵 선수 명단 발표 (에스콰이어 코리아 ─ 나우)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83340</link>
+            <guid>https://www.esquirekorea.co.kr/article/83340</guid>
+            <pubDate>Thu, 11 Jan 2024 09:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[64년만의 아시안컵 우승에 도전한다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[영화 '서울의 봄', 1000만 관객 돌파 (에스콰이어 코리아 ─ 나우)]]></title>
@@ -1497,13 +1503,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/82608</guid>
             <pubDate>Wed, 06 Dec 2023 15:19:27 GMT</pubDate>
             <content:encoded><![CDATA[이 영상을 보면 달리고 싶어질 겁니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[세븐틴, '마마 어워즈'에서 첫 대상 (에스콰이어 코리아 ─ 나우)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82599</link>
-            <guid>https://www.esquirekorea.co.kr/article/82599</guid>
-            <pubDate>Thu, 14 Dec 2023 15:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[데뷔 8년 만에 대상의 주인공이 됐다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[Eshop] 보면 볼수록 빠져 드는 테니스 스커트 (에스콰이어 코리아 ─ 이샵)]]></title>
