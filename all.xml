@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jan 2024 03:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 09:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1183,6 +1183,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[국민 MC의 스타일리스트 이주은과 함께 하는 안경 토크]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[최고의 시계들이 마카오에 모였다 (에스콰이어 코리아 ─ 와치)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/81642</link>
+            <guid>https://www.esquirekorea.co.kr/article/81642</guid>
+            <pubDate>Sat, 13 Jan 2024 09:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[런더너 마카오의 밤을 빛낸 84개의 시계, 그리고 이틀간의 워치 클래스.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[B&W (에스콰이어 코리아 ─ 와치)]]></title>
             <link>https://www.esquirekorea.co.kr/article/81502</link>
             <guid>https://www.esquirekorea.co.kr/article/81502</guid>
@@ -1230,12 +1237,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/81194</guid>
             <pubDate>Tue, 10 Oct 2023 03:18:34 GMT</pubDate>
             <content:encoded><![CDATA[번뜩이는 아이디어와 획기적인 메커니즘으로 새로운 우주를 만드는 이들. 독창적인 방식으로 시간...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[태그호이어 까레라와 포르쉐 911의 탄생 60주년을 기념하며 (에스콰이어 코리아 ─ 와치)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/80768</link>
-            <guid>https://www.esquirekorea.co.kr/article/80768</guid>
-            <pubDate>Sun, 08 Oct 2023 03:18:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[모든 고리가 담긴 천왕성 사진이 공개됐다 (에스콰이어 코리아 ─ 카&테크)]]></title>

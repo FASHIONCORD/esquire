@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/watch</id>
     <title>에스콰이어 코리아 ─ 와치</title>
-    <updated>2024-01-13T03:20:02.661Z</updated>
+    <updated>2024-01-13T09:18:07.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최고의 시계들이 마카오에 모였다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/81642</id>
+        <link href="https://www.esquirekorea.co.kr/article/81642"/>
+        <updated>2024-01-13T09:17:03.879Z</updated>
+        <content type="html"><![CDATA[런더너 마카오의 밤을 빛낸 84개의 시계, 그리고 이틀간의 워치 클래스.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[B&W]]></title>
         <id>https://www.esquirekorea.co.kr/article/81502</id>
@@ -53,11 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/81194"/>
         <updated>2023-10-10T03:18:34.251Z</updated>
         <content type="html"><![CDATA[번뜩이는 아이디어와 획기적인 메커니즘으로 새로운 우주를 만드는 이들. 독창적인 방식으로 시간...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태그호이어 까레라와 포르쉐 911의 탄생 60주년을 기념하며]]></title>
-        <id>https://www.esquirekorea.co.kr/article/80768</id>
-        <link href="https://www.esquirekorea.co.kr/article/80768"/>
-        <updated>2023-10-08T03:18:05.249Z</updated>
     </entry>
 </feed>
