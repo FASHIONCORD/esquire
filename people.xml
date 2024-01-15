@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2024-01-15T09:20:54.011Z</updated>
+    <updated>2024-01-15T15:20:15.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 정국, K팝 솔로 아티스트 최초 ‘빌보드 200’ 9주 연속 진입]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83603</id>
+        <link href="https://www.esquirekorea.co.kr/article/83603"/>
+        <updated>2024-01-15T15:19:57.768Z</updated>
+        <content type="html"><![CDATA[또 하나의 신기록을 세웠다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[환승연애 3, 아이돌 출신 베스티 송다혜 TMI 12]]></title>
         <id>https://www.esquirekorea.co.kr/article/83586</id>
@@ -51,11 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/83155"/>
         <updated>2024-01-03T15:19:13.931Z</updated>
         <content type="html"><![CDATA[젊고 솔직한 그 얼굴에게 도전, 사랑, 고민과 꿈을 묻다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설레는 연애 VS 친구 같은 연애, 동해와 이설의 선택은?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83325</id>
-        <link href="https://www.esquirekorea.co.kr/article/83325"/>
-        <updated>2024-01-03T03:21:59.511Z</updated>
     </entry>
 </feed>
