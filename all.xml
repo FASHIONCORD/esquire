@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 03:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 09:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1132,6 +1132,13 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NEW MORNING ROUTINE (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83497</link>
+            <guid>https://www.esquirekorea.co.kr/article/83497</guid>
+            <pubDate>Mon, 15 Jan 2024 09:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[찬 바람 불 때 더 유용한 전기면도기, 브라운 시리즈 9 PRO+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[겨울 끝자락의 코트 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83394</link>
             <guid>https://www.esquirekorea.co.kr/article/83394</guid>
@@ -1174,13 +1181,6 @@ The New MINI Countryman과 일상에
             <link>https://www.esquirekorea.co.kr/article/82275</link>
             <guid>https://www.esquirekorea.co.kr/article/82275</guid>
             <pubDate>Thu, 28 Dec 2023 15:17:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[유재석의 스타일링을 완성하는 건 안경? (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83002</link>
-            <guid>https://www.esquirekorea.co.kr/article/83002</guid>
-            <pubDate>Sun, 24 Dec 2023 15:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[국민 MC의 스타일리스트 이주은과 함께 하는 안경 토크]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[최고의 시계들이 마카오에 모였다 (에스콰이어 코리아 ─ 와치)]]></title>
