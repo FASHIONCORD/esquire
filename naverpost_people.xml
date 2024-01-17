@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 03:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 09:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 기부 스타 리스트]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37202883&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37202883&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Wed, 17 Jan 2024 09:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTdfNDUg/MDAxNzA1NDY3MTM2ODgw.GuNTJBoVrbWPSdOhQmH91BGwrph7hZG2rBgWpORJVXEg.baxe4f-tQ7Klhj4obg4z__nOtJoIBODh4B39p42G8_kg.JPEG/IkPYFvOumO_y-o6avc0G5Fg3e5rk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[환승연애 3, 아이돌 출신 베스티 송다혜 TMI 12]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37178925&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 23 Jun 2023 09:21:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMTlfODUg/MDAxNjc0MDg2ODgyMTIy.BJ312BG9JM9aNeyCwkNLdgjnlxxF9pj2DzjoKjOGVMog.-02Rpf263A1iVJSQur1Q8i7TXFAHk_nbR4JsC6_ZHVkg.JPEG/IIs6LEIhXUsTX2MhFedtH7aORwpA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴진스 막내 혜인, 혜인에 대해 당신이 몰랐던 사실 12]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35086366&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35086366&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Fri, 23 Jun 2023 09:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzAxMDVfMTYz/MDAxNjcyOTEwNTk2Njkx.j3KZ11haFvQY8mYJCnZyA63OVOIsx5etIab-JAIN7Rwg.kbBr3uLaBexn3j3ZTbBlNbpEJ0X0JZDJbT1kxTFECdYg.JPEG/IVHHDsMUjLBHm1WgkD5JWqfVZnzQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 03:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 09:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 16 Jan 2024 09:17:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTVfMjgx/MDAxNzA1MzA5MzQ5MjE4.Zu9xo4UEIyCRknuF5qv9krQZuyRPwRwU4Lheclzz9uwg.lGr7Yru_qBXFGzipzsMXd9Zve7snJYj09a2dB5lYGuUg.JPEG/IV-uF-tt4IFa3PxU13Qg3FzJ8sbA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국경 없는 주종과 안주의 향연, 서울 무국적 주점 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37193151&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37193151&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Wed, 17 Jan 2024 09:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTVfNTMg/MDAxNzA1MzA4NTcwMzA5.blrWqrrUam8fsASXovy7sj-wayuZV-k6I3CmRMQpD7cg.7n_uDHmqiTdGy3gKuiAJs5cdxAbYhRYlwiOxKFBQX9kg.JPEG/I3t3mfuVyneydxepTaR5mbYa2tV8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강북구 주민이 추천하는 6천원 이하 강북구 한식 맛집 4]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 14 Dec 2023 09:17:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMTRfMTI0/MDAxNzAyNTMxODU4MzQ3.CjyqpQaiOqfcm98Rl4Fc0SUMIBhX3Sg42ObDs5g_V6cg.pvOD6Fy7c4NKS7gpsJj-7mvZFVn66-fEnnVvZ0qfCZQg.JPEG/ImRLW8PHfz1Oym7oeMFMyiS4o3M8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 블루리본 서베이 선정 신규 카페 4]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37004419&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37004419&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Dec 2023 09:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDdfNSAg/MDAxNzAxOTQwMDk0MDA4.pvHloiVBhAfLk92OuO3xelsXeEYwM_OSrx996RSjGCAg.ogAsQP4xdyZnxXRIP5zcNrgKju6WKImZFtU0y7PKpOAg.JPEG/Iw1wTRjpg7eMQvkAH_uM26GpZb_U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
