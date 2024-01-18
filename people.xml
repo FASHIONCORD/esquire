@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2024-01-18T03:21:29.077Z</updated>
+    <updated>2024-01-18T09:20:03.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤하정이 추천하는 플러팅 아이템은?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83694</id>
+        <link href="https://www.esquirekorea.co.kr/article/83694"/>
+        <updated>2024-01-18T09:19:34.781Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 기부 스타 리스트]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83670</id>
+        <link href="https://www.esquirekorea.co.kr/article/83670"/>
+        <updated>2024-01-18T09:19:34.783Z</updated>
+        <content type="html"><![CDATA[선한 영향력으로 추운 날씨의 눈마저 녹아내리게 하는 스타들을 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재민 윈터 타이어 추천한 이유?]]></title>
         <id>https://www.esquirekorea.co.kr/article/83653</id>
@@ -46,19 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/83586"/>
         <updated>2024-01-14T15:18:08.651Z</updated>
         <content type="html"><![CDATA[아이스버킷 챌린지 다음 주자로 유재석을 지목했다고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트와이스 '위드 유-스'로 1년 만에 완전체 컴백 예정]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83457</id>
-        <link href="https://www.esquirekorea.co.kr/article/83457"/>
-        <updated>2024-01-13T03:19:44.446Z</updated>
-        <content type="html"><![CDATA[컴백 일정은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이강인과 열애설? 이나은 TMI 12]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83425</id>
-        <link href="https://www.esquirekorea.co.kr/article/83425"/>
-        <updated>2024-01-12T09:19:15.200Z</updated>
-        <content type="html"><![CDATA[한화 이글스 '찐팬'이라고?]]></content>
     </entry>
 </feed>
