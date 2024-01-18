@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2024-01-18T09:20:03.463Z</updated>
+    <updated>2024-01-18T15:20:30.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국가대표 축구선수 설영우와 랩시리즈가 함께한 화보 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83554</id>
+        <link href="https://www.esquirekorea.co.kr/article/83554"/>
+        <updated>2024-01-18T15:18:52.883Z</updated>
+        <content type="html"><![CDATA[고강도 훈련에도 건강하고 매끈한 피부를 유지하는 비결은?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NEW MORNING ROUTINE]]></title>
         <id>https://www.esquirekorea.co.kr/article/83497</id>
@@ -49,11 +56,5 @@
         <id>https://www.esquirekorea.co.kr/article/83138</id>
         <link href="https://www.esquirekorea.co.kr/article/83138"/>
         <updated>2023-12-30T15:16:18.501Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선물처럼 리본을 맨다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/82275</id>
-        <link href="https://www.esquirekorea.co.kr/article/82275"/>
-        <updated>2023-12-28T15:17:38.535Z</updated>
     </entry>
 </feed>

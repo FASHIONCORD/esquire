@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 09:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 15:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1132,6 +1132,13 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국가대표 축구선수 설영우와 랩시리즈가 함께한 화보 공개 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83554</link>
+            <guid>https://www.esquirekorea.co.kr/article/83554</guid>
+            <pubDate>Thu, 18 Jan 2024 15:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[고강도 훈련에도 건강하고 매끈한 피부를 유지하는 비결은?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[NEW MORNING ROUTINE (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83497</link>
             <guid>https://www.esquirekorea.co.kr/article/83497</guid>
@@ -1175,12 +1182,6 @@ The New MINI Countryman과 일상에
             <link>https://www.esquirekorea.co.kr/article/83138</link>
             <guid>https://www.esquirekorea.co.kr/article/83138</guid>
             <pubDate>Sat, 30 Dec 2023 15:16:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[선물처럼 리본을 맨다 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/82275</link>
-            <guid>https://www.esquirekorea.co.kr/article/82275</guid>
-            <pubDate>Thu, 28 Dec 2023 15:17:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[최고의 시계들이 마카오에 모였다 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1291,6 +1292,12 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[멤버들의 연주와 인공지능을 결합했다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[대체 커피가 뭐라고 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83515</link>
+            <guid>https://www.esquirekorea.co.kr/article/83515</guid>
+            <pubDate>Thu, 18 Jan 2024 15:19:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[오픈한지 일 년도 안 된, 이색 스타벅스 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83512</link>
             <guid>https://www.esquirekorea.co.kr/article/83512</guid>
@@ -1338,13 +1345,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/83348</guid>
             <pubDate>Sun, 31 Dec 2023 03:19:52 GMT</pubDate>
             <content:encoded><![CDATA[이게 바로 오리지널 퐁듀의 맛.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[드미트리 메스나흐가 말하는 '파인 와인'의 세계 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83150</link>
-            <guid>https://www.esquirekorea.co.kr/article/83150</guid>
-            <pubDate>Thu, 04 Jan 2024 15:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[한국을 찾은 잭슨 패밀리 와인즈의 마스터 소믈리에 디미트리 메스나흐를 만났다. 전 세계에 30...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오픈한지 일 년도 안 된, 이색 스타벅스 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1550,6 +1550,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/71960</guid>
             <pubDate>Sat, 26 Nov 2022 03:50:04 GMT</pubDate>
             <content:encoded><![CDATA[매일 입어도 다른 듯한 셔츠 느낌 내기]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/28/19cf14ac-1146-4c84-9b00-f1e08f962402.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 새로운 기분, 새로운 레더 재킷 스타일링 (에스콰이어 코리아 ─ 이샵)]]></title>
@@ -1557,6 +1558,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/71877</guid>
             <pubDate>Sat, 26 Nov 2022 03:50:04 GMT</pubDate>
             <content:encoded><![CDATA[옷장 속 레더 재킷을 꺼낼 때]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/26/bb61e021-d100-4128-bf0a-4fee9bce1c50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Eshop] 입자마자 시크함 장착 (에스콰이어 코리아 ─ 이샵)]]></title>
@@ -1564,6 +1566,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/71777</guid>
             <pubDate>Sat, 26 Nov 2022 03:50:04 GMT</pubDate>
             <content:encoded><![CDATA[매일 입어도 질리지 않을 인생 레더 재킷]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/jam_photo/202210/24/d7410fbf-cee5-4b53-80dc-a59b582a9e11.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
