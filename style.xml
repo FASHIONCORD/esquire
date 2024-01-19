@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2024-01-18T15:20:30.197Z</updated>
+    <updated>2024-01-19T03:21:07.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국가대표 축구선수 설영우가 애용하는 그루밍 아이템은 무엇?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83556</id>
+        <link href="https://www.esquirekorea.co.kr/article/83556"/>
+        <updated>2024-01-19T03:20:00.521Z</updated>
+        <content type="html"><![CDATA[경기 전에 꼭 사용하는 00도 있다고.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밝고 건강한 남자의 표본, 국가대표 축구선수 설영우의 스킨케어 루틴 공개!]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83555</id>
+        <link href="https://www.esquirekorea.co.kr/article/83555"/>
+        <updated>2024-01-19T03:20:00.551Z</updated>
+        <content type="html"><![CDATA[설영우 선수의 환한 미소는 덤.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국가대표 축구선수 설영우와 랩시리즈가 함께한 화보 공개]]></title>
         <id>https://www.esquirekorea.co.kr/article/83554</id>
@@ -43,18 +57,5 @@
         <id>https://www.esquirekorea.co.kr/article/83188</id>
         <link href="https://www.esquirekorea.co.kr/article/83188"/>
         <updated>2024-01-08T15:18:57.705Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스콰이어의 첫 파티는 어땠을까?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83284</id>
-        <link href="https://www.esquirekorea.co.kr/article/83284"/>
-        <updated>2024-01-05T09:17:58.663Z</updated>
-        <content type="html"><![CDATA[푸른 달빛 아래, 찬란히 빛난 에스콰이어의 밤.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톰 포드 선글라스의 미학]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83138</id>
-        <link href="https://www.esquirekorea.co.kr/article/83138"/>
-        <updated>2023-12-30T15:16:18.501Z</updated>
     </entry>
 </feed>
