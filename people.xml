@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2024-01-19T09:19:33.114Z</updated>
+    <updated>2024-01-19T15:20:39.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새해 운동 자극하는 스타 9]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83728</id>
+        <link href="https://www.esquirekorea.co.kr/article/83728"/>
+        <updated>2024-01-19T15:20:18.119Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[환승연애 VS 나는 솔로, 이진석과 윤하정의 선택은?]]></title>
         <id>https://www.esquirekorea.co.kr/article/83719</id>
@@ -50,12 +56,5 @@
         <link href="https://www.esquirekorea.co.kr/article/83629"/>
         <updated>2024-01-17T09:20:00.372Z</updated>
         <content type="html"><![CDATA[박진영 뮤직비디오에도 출연했다고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1월 컴백 데뷔하는 아이돌 리스트]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83618</id>
-        <link href="https://www.esquirekorea.co.kr/article/83618"/>
-        <updated>2024-01-16T09:19:07.846Z</updated>
-        <content type="html"><![CDATA[이달 화려하게 등장할 아이돌은 누구?]]></content>
     </entry>
 </feed>
