@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2024-01-19T03:21:07.080Z</updated>
+    <updated>2024-01-19T09:19:33.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[환승연애 VS 나는 솔로, 이진석과 윤하정의 선택은?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83719</id>
+        <link href="https://www.esquirekorea.co.kr/article/83719"/>
+        <updated>2024-01-19T09:18:58.892Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신혜선 신조어 천재?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83714</id>
+        <link href="https://www.esquirekorea.co.kr/article/83714"/>
+        <updated>2024-01-19T09:18:58.894Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤하정이 추천하는 플러팅 아이템은?]]></title>
         <id>https://www.esquirekorea.co.kr/article/83694</id>
@@ -45,19 +57,5 @@
         <link href="https://www.esquirekorea.co.kr/article/83618"/>
         <updated>2024-01-16T09:19:07.846Z</updated>
         <content type="html"><![CDATA[이달 화려하게 등장할 아이돌은 누구?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 정국, K팝 솔로 아티스트 최초 ‘빌보드 200’ 9주 연속 진입]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83603</id>
-        <link href="https://www.esquirekorea.co.kr/article/83603"/>
-        <updated>2024-01-15T15:19:57.768Z</updated>
-        <content type="html"><![CDATA[또 하나의 신기록을 세웠다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환승연애 3, 아이돌 출신 베스티 송다혜 TMI 12]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83586</id>
-        <link href="https://www.esquirekorea.co.kr/article/83586"/>
-        <updated>2024-01-14T15:18:08.651Z</updated>
-        <content type="html"><![CDATA[아이스버킷 챌린지 다음 주자로 유재석을 지목했다고?]]></content>
     </entry>
 </feed>

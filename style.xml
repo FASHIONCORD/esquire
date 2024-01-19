@@ -2,60 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2024-01-19T03:21:07.109Z</updated>
+    <updated>2024-01-19T09:19:33.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에디슬리먼이 꿈 꾼 청춘이라는 영원]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83771</id>
+        <link href="https://www.esquirekorea.co.kr/article/83771"/>
+        <updated>2024-01-19T09:18:08.096Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파티가 끝난 후]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83767</id>
+        <link href="https://www.esquirekorea.co.kr/article/83767"/>
+        <updated>2024-01-19T09:18:08.098Z</updated>
+        <content type="html"><![CDATA[섬광같이 빛나던 마지막 밤에.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피티 워모 105 하이라이트 리뷰]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83760</id>
+        <link href="https://www.esquirekorea.co.kr/article/83760"/>
+        <updated>2024-01-19T09:18:08.099Z</updated>
+        <content type="html"><![CDATA[주목해야 할 네 개의 런웨이 쇼.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIOR WINTER 2024 MEN’S COLLECTION LIVE STREAMING]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83756</id>
+        <link href="https://www.esquirekorea.co.kr/article/83756"/>
+        <updated>2024-01-19T09:18:08.100Z</updated>
+        <content type="html"><![CDATA[한국시간으로 1월 19일 금요일 오후 11시, 파리 현지에서 열리는 킴 존스의 WINTER 2024 ME...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 F/W 밀라노 패션 위크 런웨이 사운드트랙]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83754</id>
+        <link href="https://www.esquirekorea.co.kr/article/83754"/>
+        <updated>2024-01-19T09:18:08.101Z</updated>
+        <content type="html"><![CDATA[구찌부터 제냐까지.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몽클레르 컬렉션 2024 봄여름]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83667</id>
+        <link href="https://www.esquirekorea.co.kr/article/83667"/>
+        <updated>2024-01-19T09:18:08.104Z</updated>
+        <content type="html"><![CDATA[배우 호아킨 푸리엘과 함께한 컬렉션을 공개한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조던의 시그니처 라인 '테이텀2'는 누구를 위하여 만들어졌나?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83570</id>
+        <link href="https://www.esquirekorea.co.kr/article/83570"/>
+        <updated>2024-01-19T09:18:08.108Z</updated>
+        <content type="html"><![CDATA[당신의 플레이 스타일을 잘 생각해보자.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국가대표 축구선수 설영우가 애용하는 그루밍 아이템은 무엇?]]></title>
         <id>https://www.esquirekorea.co.kr/article/83556</id>
         <link href="https://www.esquirekorea.co.kr/article/83556"/>
         <updated>2024-01-19T03:20:00.521Z</updated>
         <content type="html"><![CDATA[경기 전에 꼭 사용하는 00도 있다고.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밝고 건강한 남자의 표본, 국가대표 축구선수 설영우의 스킨케어 루틴 공개!]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83555</id>
-        <link href="https://www.esquirekorea.co.kr/article/83555"/>
-        <updated>2024-01-19T03:20:00.551Z</updated>
-        <content type="html"><![CDATA[설영우 선수의 환한 미소는 덤.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국가대표 축구선수 설영우와 랩시리즈가 함께한 화보 공개]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83554</id>
-        <link href="https://www.esquirekorea.co.kr/article/83554"/>
-        <updated>2024-01-18T15:18:52.883Z</updated>
-        <content type="html"><![CDATA[고강도 훈련에도 건강하고 매끈한 피부를 유지하는 비결은?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEW MORNING ROUTINE]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83497</id>
-        <link href="https://www.esquirekorea.co.kr/article/83497"/>
-        <updated>2024-01-15T09:19:32.770Z</updated>
-        <content type="html"><![CDATA[찬 바람 불 때 더 유용한 전기면도기, 브라운 시리즈 9 PRO+]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울 끝자락의 코트]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83394</id>
-        <link href="https://www.esquirekorea.co.kr/article/83394"/>
-        <updated>2024-01-09T09:18:24.252Z</updated>
-        <content type="html"><![CDATA[겨울 끝자락, 긴 코트 속으로 몸을 숨긴다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소원을 말해봐]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83369</id>
-        <link href="https://www.esquirekorea.co.kr/article/83369"/>
-        <updated>2024-01-08T15:18:57.700Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년식 가방 꾸미기]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83153</id>
-        <link href="https://www.esquirekorea.co.kr/article/83153"/>
-        <updated>2024-01-08T15:18:57.702Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈송이를 닮은 모자]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83188</id>
-        <link href="https://www.esquirekorea.co.kr/article/83188"/>
-        <updated>2024-01-08T15:18:57.705Z</updated>
     </entry>
 </feed>
