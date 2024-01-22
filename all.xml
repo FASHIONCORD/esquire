@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 09:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 15:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1403,6 +1403,12 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 05 Jan 2024 15:18:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[모세 ‘사랑인 걸’ 라이브 무대 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83779</link>
+            <guid>https://www.esquirekorea.co.kr/article/83779</guid>
+            <pubDate>Mon, 22 Jan 2024 15:20:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[NCT 마지막 팀, NCT 위시 전격 데뷔 발표 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83746</link>
             <guid>https://www.esquirekorea.co.kr/article/83746</guid>
@@ -1446,13 +1452,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/83670</guid>
             <pubDate>Thu, 18 Jan 2024 09:19:34 GMT</pubDate>
             <content:encoded><![CDATA[선한 영향력으로 추운 날씨의 눈마저 녹아내리게 하는 스타들을 소개합니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[재민 윈터 타이어 추천한 이유? (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83653</link>
-            <guid>https://www.esquirekorea.co.kr/article/83653</guid>
-            <pubDate>Thu, 18 Jan 2024 03:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[직캠 카메라를 잘 찾는 비결까지.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[국가대표 축구선수 설영우와 랩시리즈가 함께한 화보 공개 (에스콰이어 코리아 ─ 나우)]]></title>
