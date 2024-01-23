@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 09:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 15:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1132,6 +1132,13 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[디올 뷰티와 에스콰이어의 밤 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83768</link>
+            <guid>https://www.esquirekorea.co.kr/article/83768</guid>
+            <pubDate>Tue, 23 Jan 2024 15:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[강렬하고 신비로운 소바쥬의 향기가 가득했던 밤. 에스콰이어와 크리스챤 디올 뷰티가 함께한 블...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[에디슬리먼이 꿈 꾼 청춘이라는 영원 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83771</link>
             <guid>https://www.esquirekorea.co.kr/article/83771</guid>
@@ -1178,13 +1185,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/83570</guid>
             <pubDate>Fri, 19 Jan 2024 09:18:08 GMT</pubDate>
             <content:encoded><![CDATA[당신의 플레이 스타일을 잘 생각해보자.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국가대표 축구선수 설영우가 애용하는 그루밍 아이템은 무엇? (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83556</link>
-            <guid>https://www.esquirekorea.co.kr/article/83556</guid>
-            <pubDate>Fri, 19 Jan 2024 03:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[경기 전에 꼭 사용하는 00도 있다고.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[최고의 시계들이 마카오에 모였다 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1350,6 +1350,20 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[런던식 베이글부터 뉴욕식 베이글까지.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[‘나혼산’ 조규성 선수 고기 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83615</link>
+            <guid>https://www.esquirekorea.co.kr/article/83615</guid>
+            <pubDate>Fri, 19 Jan 2024 15:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[조규성 선수가 인정한 ‘찐’ 고기 맛집은 어디?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[조던의 시그니처 라인 '테이텀2'는 누구를 위하여 만들어졌나? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83570</link>
+            <guid>https://www.esquirekorea.co.kr/article/83570</guid>
+            <pubDate>Fri, 19 Jan 2024 09:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[당신의 플레이 스타일을 잘 생각해보자.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[열다섯 개의 캔들 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83180</link>
             <guid>https://www.esquirekorea.co.kr/article/83180</guid>
@@ -1391,16 +1405,10 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[전쟁의 한가운데에서, 볼로디미르 젤렌스키 우크라이나 대통령이 &lt;에스콰이어 US&gt;에 편지를 보냈다...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[키어 스타머는 영국의 새 총리가 될 수 있을까? (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83160</link>
-            <guid>https://www.esquirekorea.co.kr/article/83160</guid>
-            <pubDate>Sat, 06 Jan 2024 09:17:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[메가 서울은 필요 없다 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83382</link>
-            <guid>https://www.esquirekorea.co.kr/article/83382</guid>
-            <pubDate>Fri, 05 Jan 2024 15:18:46 GMT</pubDate>
+            <title><![CDATA[Part 1. NCT 재민이 첫 사진 전시회에서 가장 기대하는 것은 '공감'이라고 했다 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83764</link>
+            <guid>https://www.esquirekorea.co.kr/article/83764</guid>
+            <pubDate>Tue, 23 Jan 2024 15:20:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2024년에 전역하는 연예인 TMI 9 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1446,12 +1454,6 @@ The New MINI Countryman과 일상에
             <title><![CDATA[환승연애 VS 나는 솔로, 이진석과 윤하정의 선택은? (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83719</link>
             <guid>https://www.esquirekorea.co.kr/article/83719</guid>
-            <pubDate>Fri, 19 Jan 2024 09:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[신혜선 신조어 천재? (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83714</link>
-            <guid>https://www.esquirekorea.co.kr/article/83714</guid>
             <pubDate>Fri, 19 Jan 2024 09:18:58 GMT</pubDate>
         </item>
         <item>

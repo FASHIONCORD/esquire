@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2024-01-23T09:19:55.783Z</updated>
+    <updated>2024-01-23T15:20:42.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나혼산’ 조규성 선수 고기 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83615</id>
+        <link href="https://www.esquirekorea.co.kr/article/83615"/>
+        <updated>2024-01-23T15:20:17.602Z</updated>
+        <content type="html"><![CDATA[조규성 선수가 인정한 ‘찐’ 고기 맛집은 어디?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조던의 시그니처 라인 '테이텀2'는 누구를 위하여 만들어졌나?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83570</id>
+        <link href="https://www.esquirekorea.co.kr/article/83570"/>
+        <updated>2024-01-23T15:20:17.602Z</updated>
+        <content type="html"><![CDATA[당신의 플레이 스타일을 잘 생각해보자.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[열다섯 개의 캔들]]></title>
         <id>https://www.esquirekorea.co.kr/article/83180</id>
@@ -45,17 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/83135"/>
         <updated>2024-01-07T15:19:06.462Z</updated>
         <content type="html"><![CDATA[전쟁의 한가운데에서, 볼로디미르 젤렌스키 우크라이나 대통령이 &lt;에스콰이어 US&gt;에 편지를 보냈다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키어 스타머는 영국의 새 총리가 될 수 있을까?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83160</id>
-        <link href="https://www.esquirekorea.co.kr/article/83160"/>
-        <updated>2024-01-06T09:17:29.818Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메가 서울은 필요 없다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83382</id>
-        <link href="https://www.esquirekorea.co.kr/article/83382"/>
-        <updated>2024-01-05T15:18:46.201Z</updated>
     </entry>
 </feed>
