@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2024-01-22T15:21:01.991Z</updated>
+    <updated>2024-01-23T03:20:47.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강풀 작가 웹툰 '조명가게' 디즈니+ 공개 예정]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83782</id>
+        <link href="https://www.esquirekorea.co.kr/article/83782"/>
+        <updated>2024-01-23T03:20:15.595Z</updated>
+        <content type="html"><![CDATA[배우 주지훈, 박보영 등이 호흡을 맞출 예정.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모세 ‘사랑인 걸’ 라이브 무대]]></title>
         <id>https://www.esquirekorea.co.kr/article/83779</id>
@@ -48,12 +55,5 @@
         <id>https://www.esquirekorea.co.kr/article/83694</id>
         <link href="https://www.esquirekorea.co.kr/article/83694"/>
         <updated>2024-01-18T09:19:34.781Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 기부 스타 리스트]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83670</id>
-        <link href="https://www.esquirekorea.co.kr/article/83670"/>
-        <updated>2024-01-18T09:19:34.783Z</updated>
-        <content type="html"><![CDATA[선한 영향력으로 추운 날씨의 눈마저 녹아내리게 하는 스타들을 소개합니다.]]></content>
     </entry>
 </feed>

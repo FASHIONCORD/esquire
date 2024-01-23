@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 15:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 03:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1403,6 +1403,13 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 05 Jan 2024 15:18:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[강풀 작가 웹툰 '조명가게' 디즈니+ 공개 예정 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83782</link>
+            <guid>https://www.esquirekorea.co.kr/article/83782</guid>
+            <pubDate>Tue, 23 Jan 2024 03:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[배우 주지훈, 박보영 등이 호흡을 맞출 예정.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[모세 ‘사랑인 걸’ 라이브 무대 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83779</link>
             <guid>https://www.esquirekorea.co.kr/article/83779</guid>
@@ -1445,13 +1452,6 @@ The New MINI Countryman과 일상에
             <link>https://www.esquirekorea.co.kr/article/83694</link>
             <guid>https://www.esquirekorea.co.kr/article/83694</guid>
             <pubDate>Thu, 18 Jan 2024 09:19:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2024 기부 스타 리스트 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83670</link>
-            <guid>https://www.esquirekorea.co.kr/article/83670</guid>
-            <pubDate>Thu, 18 Jan 2024 09:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[선한 영향력으로 추운 날씨의 눈마저 녹아내리게 하는 스타들을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[국가대표 축구선수 설영우와 랩시리즈가 함께한 화보 공개 (에스콰이어 코리아 ─ 나우)]]></title>
