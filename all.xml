@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 03:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 09:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1295,6 +1295,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[멤버들의 연주와 인공지능을 결합했다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[하루에 3시간, 점심시간만 운영하는 백반 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83724</link>
+            <guid>https://www.esquirekorea.co.kr/article/83724</guid>
+            <pubDate>Tue, 23 Jan 2024 09:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[푸짐한 한식 한상이 점심에 당길 때 방문한다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[대게 내장 딱지 구이? 카니미소구이 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83643</link>
             <guid>https://www.esquirekorea.co.kr/article/83643</guid>
@@ -1341,13 +1348,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/83483</guid>
             <pubDate>Tue, 09 Jan 2024 09:18:54 GMT</pubDate>
             <content:encoded><![CDATA[런던식 베이글부터 뉴욕식 베이글까지.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<에스콰이어>가 첫 블루문 파티를 위해 고른 위스키와 샴페인은? (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83131</link>
-            <guid>https://www.esquirekorea.co.kr/article/83131</guid>
-            <pubDate>Thu, 11 Jan 2024 03:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;에스콰이어&gt; 코리아가 지난 11월 22일 첫 ‘블루문 파티’를 열며 가장 오래 고민한 것은 어떤...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[열다섯 개의 캔들 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1403,6 +1403,13 @@ The New MINI Countryman과 일상에
             <pubDate>Fri, 05 Jan 2024 15:18:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[2024년에 전역하는 연예인 TMI 9 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83787</link>
+            <guid>https://www.esquirekorea.co.kr/article/83787</guid>
+            <pubDate>Tue, 23 Jan 2024 09:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[전역을 명 받았습니다!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[강풀 작가 웹툰 '조명가게' 디즈니+ 공개 예정 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83782</link>
             <guid>https://www.esquirekorea.co.kr/article/83782</guid>
@@ -1446,12 +1453,6 @@ The New MINI Countryman과 일상에
             <link>https://www.esquirekorea.co.kr/article/83714</link>
             <guid>https://www.esquirekorea.co.kr/article/83714</guid>
             <pubDate>Fri, 19 Jan 2024 09:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[윤하정이 추천하는 플러팅 아이템은? (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83694</link>
-            <guid>https://www.esquirekorea.co.kr/article/83694</guid>
-            <pubDate>Thu, 18 Jan 2024 09:19:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[국가대표 축구선수 설영우와 랩시리즈가 함께한 화보 공개 (에스콰이어 코리아 ─ 나우)]]></title>

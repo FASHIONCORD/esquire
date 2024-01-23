@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/food</id>
     <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2024-01-23T03:20:47.148Z</updated>
+    <updated>2024-01-23T09:19:55.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하루에 3시간, 점심시간만 운영하는 백반 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83724</id>
+        <link href="https://www.esquirekorea.co.kr/article/83724"/>
+        <updated>2024-01-23T09:19:23.535Z</updated>
+        <content type="html"><![CDATA[푸짐한 한식 한상이 점심에 당길 때 방문한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대게 내장 딱지 구이? 카니미소구이 맛집 4]]></title>
         <id>https://www.esquirekorea.co.kr/article/83643</id>
@@ -52,12 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/83483"/>
         <updated>2024-01-11T03:20:09.037Z</updated>
         <content type="html"><![CDATA[런던식 베이글부터 뉴욕식 베이글까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<에스콰이어>가 첫 블루문 파티를 위해 고른 위스키와 샴페인은?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83131</id>
-        <link href="https://www.esquirekorea.co.kr/article/83131"/>
-        <updated>2024-01-11T03:20:09.040Z</updated>
-        <content type="html"><![CDATA[&lt;에스콰이어&gt; 코리아가 지난 11월 22일 첫 ‘블루문 파티’를 열며 가장 오래 고민한 것은 어떤...]]></content>
     </entry>
 </feed>
