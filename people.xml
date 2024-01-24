@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2024-01-24T09:20:02.358Z</updated>
+    <updated>2024-01-24T15:20:56.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[part 2.김민재는 우리 모두가 시도해야 한다고 말한다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83830</id>
+        <link href="https://www.esquirekorea.co.kr/article/83830"/>
+        <updated>2024-01-24T15:20:39.161Z</updated>
+        <content type="html"><![CDATA[두려워 말라, 우리에겐 김민재가 있으니. 겁내지 말라. 그가 손흥민, 황희찬, 이강인과 함께함이...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[part 1. 김민재가 칭찬에도 신경 쓰지 않는 이유]]></title>
         <id>https://www.esquirekorea.co.kr/article/83827</id>
@@ -49,12 +56,5 @@
         <id>https://www.esquirekorea.co.kr/article/83779</id>
         <link href="https://www.esquirekorea.co.kr/article/83779"/>
         <updated>2024-01-22T15:20:45.596Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT 마지막 팀, NCT 위시 전격 데뷔 발표]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83746</id>
-        <link href="https://www.esquirekorea.co.kr/article/83746"/>
-        <updated>2024-01-22T09:20:54.717Z</updated>
-        <content type="html"><![CDATA[새로운 팀명과 영상 공개.]]></content>
     </entry>
 </feed>
