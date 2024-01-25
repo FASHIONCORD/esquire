@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 15:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 03:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1295,6 +1295,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[멤버들의 연주와 인공지능을 결합했다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[추위를 날려버리는 화끈한 매운 짬뽕 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83765</link>
+            <guid>https://www.esquirekorea.co.kr/article/83765</guid>
+            <pubDate>Thu, 25 Jan 2024 03:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[매콤한 국물 짬뽕부터 비빔 짬뽕까지.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[만들기가 무섭게 완판되는 서울 호떡 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83753</link>
             <guid>https://www.esquirekorea.co.kr/article/83753</guid>
@@ -1343,11 +1350,11 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[국내 첫 반려동물 동반 매장부터 북한산 파라노마 뷰를 품은 곳까지.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연예인 부모님이 운영하는 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83503</link>
-            <guid>https://www.esquirekorea.co.kr/article/83503</guid>
-            <pubDate>Thu, 11 Jan 2024 03:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[정성 가득한 부모님의 손맛.]]></content:encoded>
+            <title><![CDATA[대게 내장 딱지 구이? 카니미소구이 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83643</link>
+            <guid>https://www.esquirekorea.co.kr/article/83643</guid>
+            <pubDate>Fri, 19 Jan 2024 15:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[카니미소 소스, 대게, 쪽파를 올려 굽는다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘나혼산’ 조규성 선수 고기 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1396,13 +1403,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/83483</guid>
             <pubDate>Tue, 09 Jan 2024 09:18:54 GMT</pubDate>
             <content:encoded><![CDATA[런던식 베이글부터 뉴욕식 베이글까지.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 젤렌스키 대통령이 전쟁의 한가운데서 보내온 편지 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83135</link>
-            <guid>https://www.esquirekorea.co.kr/article/83135</guid>
-            <pubDate>Sun, 07 Jan 2024 15:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[전쟁의 한가운데에서, 볼로디미르 젤렌스키 우크라이나 대통령이 &lt;에스콰이어 US&gt;에 편지를 보냈다...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[part 2.김민재는 우리 모두가 시도해야 한다고 말한다 (에스콰이어 코리아 ─ 피플)]]></title>
