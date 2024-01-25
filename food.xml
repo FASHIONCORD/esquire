@@ -2,62 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/food</id>
     <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2024-01-25T09:19:47.414Z</updated>
+    <updated>2024-01-25T15:20:59.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[추위를 날려버리는 화끈한 매운 짬뽕 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83765</id>
-        <link href="https://www.esquirekorea.co.kr/article/83765"/>
-        <updated>2024-01-25T03:19:29.839Z</updated>
-        <content type="html"><![CDATA[매콤한 국물 짬뽕부터 비빔 짬뽕까지.]]></content>
+        <title type="html"><![CDATA[해외 셀럽들의 주류 브랜드 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83903</id>
+        <link href="https://www.esquirekorea.co.kr/article/83903"/>
+        <updated>2024-01-25T15:20:05.427Z</updated>
+        <content type="html"><![CDATA[남다른 술 사랑이 돋보이는 해외 셀럽들의 주류 브랜드!]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[만들기가 무섭게 완판되는 서울 호떡 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83753</id>
-        <link href="https://www.esquirekorea.co.kr/article/83753"/>
-        <updated>2024-01-24T09:19:29.991Z</updated>
-        <content type="html"><![CDATA[진한 달콤함으로 무장한 꿀 호떡부터 '뿌링클 호떡'까지.]]></content>
+        <title type="html"><![CDATA[님아 그 시장을 가오, 백종원이 다녀간 국물 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83896</id>
+        <link href="https://www.esquirekorea.co.kr/article/83896"/>
+        <updated>2024-01-25T15:20:05.428Z</updated>
+        <content type="html"><![CDATA[두둑한 인심만큼 많은 양을 내어준다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하루에 3시간, 점심시간만 운영하는 백반 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83724</id>
-        <link href="https://www.esquirekorea.co.kr/article/83724"/>
-        <updated>2024-01-23T09:19:23.535Z</updated>
-        <content type="html"><![CDATA[푸짐한 한식 한상이 점심에 당길 때 방문한다.]]></content>
+        <title type="html"><![CDATA[혀를 내두르는 중독성, 지로계 라멘 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83892</id>
+        <link href="https://www.esquirekorea.co.kr/article/83892"/>
+        <updated>2024-01-25T15:20:05.429Z</updated>
+        <content type="html"><![CDATA[압도적인 비주얼을 자랑하는 일명 ‘산더미’ 라멘.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대게 내장 딱지 구이? 카니미소구이 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83643</id>
-        <link href="https://www.esquirekorea.co.kr/article/83643"/>
-        <updated>2024-01-19T15:19:59.319Z</updated>
-        <content type="html"><![CDATA[카니미소 소스, 대게, 쪽파를 올려 굽는다.]]></content>
+        <title type="html"><![CDATA[오픈한지 일년도 안 된, 신용산 일식당 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83879</id>
+        <link href="https://www.esquirekorea.co.kr/article/83879"/>
+        <updated>2024-01-25T15:20:05.430Z</updated>
+        <content type="html"><![CDATA[스시 타코 맛집부터 야키소바 맛집까지.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘나혼산’ 조규성 선수 고기 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83615</id>
-        <link href="https://www.esquirekorea.co.kr/article/83615"/>
-        <updated>2024-01-19T15:19:59.320Z</updated>
-        <content type="html"><![CDATA[조규성 선수가 인정한 ‘찐’ 고기 맛집은 어디?]]></content>
+        <title type="html"><![CDATA[아시안컵 경기볼 수 있는 대형 스크린 축구 펍 7]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83877</id>
+        <link href="https://www.esquirekorea.co.kr/article/83877"/>
+        <updated>2024-01-25T15:20:05.431Z</updated>
+        <content type="html"><![CDATA[내일 밤 조별리그 마지막 경기부터 본선까지.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[강북구 주민이 추천하는 6천원 이하 강북구 한식 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83614</id>
-        <link href="https://www.esquirekorea.co.kr/article/83614"/>
-        <updated>2024-01-19T09:18:43.566Z</updated>
-        <content type="html"><![CDATA[커피 한 잔 가격으로 한 끼 식사.]]></content>
+        <title type="html"><![CDATA[메이드 인 경상도, 피식대학이 다녀간 경상도 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83849</id>
+        <link href="https://www.esquirekorea.co.kr/article/83849"/>
+        <updated>2024-01-25T15:20:05.432Z</updated>
+        <content type="html"><![CDATA[70년 전통의 곰탕을 선보이는 곳은?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대체 커피가 뭐라고]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83515</id>
-        <link href="https://www.esquirekorea.co.kr/article/83515"/>
-        <updated>2024-01-18T15:19:49.568Z</updated>
+        <title type="html"><![CDATA[100년 전통의 순대 노포 맛집 3]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83786</id>
+        <link href="https://www.esquirekorea.co.kr/article/83786"/>
+        <updated>2024-01-25T15:20:05.434Z</updated>
+        <content type="html"><![CDATA[오일장부터 운영해온 ‘찐’ 순대 맛집을 소개한다.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오픈한지 일 년도 안 된, 이색 스타벅스 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83512</id>
-        <link href="https://www.esquirekorea.co.kr/article/83512"/>
-        <updated>2024-01-17T15:19:48.881Z</updated>
-        <content type="html"><![CDATA[국내 첫 반려동물 동반 매장부터 북한산 파라노마 뷰를 품은 곳까지.]]></content>
+        <title type="html"><![CDATA[아는 사람만 아는 서순라길 핫플 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83784</id>
+        <link href="https://www.esquirekorea.co.kr/article/83784"/>
+        <updated>2024-01-25T15:20:05.436Z</updated>
+        <content type="html"><![CDATA[종묘 옆 고즈넉한 돌담길을 보며 즐긴다.]]></content>
     </entry>
 </feed>
