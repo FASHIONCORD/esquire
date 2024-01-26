@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2024-01-26T03:21:27.338Z</updated>
+    <updated>2024-01-26T09:19:34.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[part 1. 배우 신혜선이 <웰컴투 삼달리>를 택한 건 조금은 개인적인 이유라고 했다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83762</id>
+        <link href="https://www.esquirekorea.co.kr/article/83762"/>
+        <updated>2024-01-26T09:18:46.757Z</updated>
+        <content type="html"><![CDATA[신혜선은 아직도 자신이 어떤 사람인지 잘 모르겠다고 했다. 사실 딱히 답을 찾아낼 생각도 없...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아시안컵 멀티 골의 주인공! '막내형' 이강인 TMI 12]]></title>
         <id>https://www.esquirekorea.co.kr/article/83854</id>
@@ -50,12 +57,5 @@
         <link href="https://www.esquirekorea.co.kr/article/83787"/>
         <updated>2024-01-23T09:19:39.283Z</updated>
         <content type="html"><![CDATA[전역을 명 받았습니다!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강풀 작가 웹툰 '조명가게' 디즈니+ 공개 예정]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83782</id>
-        <link href="https://www.esquirekorea.co.kr/article/83782"/>
-        <updated>2024-01-23T03:20:15.595Z</updated>
-        <content type="html"><![CDATA[배우 주지훈, 박보영 등이 호흡을 맞출 예정.]]></content>
     </entry>
 </feed>
