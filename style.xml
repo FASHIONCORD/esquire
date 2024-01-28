@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2024-01-28T09:17:30.858Z</updated>
+    <updated>2024-01-28T15:17:04.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슈트의 서스펜스]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83893</id>
+        <link href="https://www.esquirekorea.co.kr/article/83893"/>
+        <updated>2024-01-28T15:15:46.015Z</updated>
+        <content type="html"><![CDATA[그 때 그 사람들.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[패션 위크에서 주목해야 할 협업 슈즈 5]]></title>
         <id>https://www.esquirekorea.co.kr/article/83859</id>
@@ -50,12 +57,5 @@
         <id>https://www.esquirekorea.co.kr/article/83771</id>
         <link href="https://www.esquirekorea.co.kr/article/83771"/>
         <updated>2024-01-19T09:18:08.096Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파티가 끝난 후]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83767</id>
-        <link href="https://www.esquirekorea.co.kr/article/83767"/>
-        <updated>2024-01-19T09:18:08.098Z</updated>
-        <content type="html"><![CDATA[섬광같이 빛나던 마지막 밤에.]]></content>
     </entry>
 </feed>
