@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 09:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 15:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1293,11 +1293,32 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[멤버들의 연주와 인공지능을 결합했다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[NEW WAVE (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83956</link>
+            <guid>https://www.esquirekorea.co.kr/article/83956</guid>
+            <pubDate>Mon, 29 Jan 2024 15:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[대담한 도전의 결과로 탄생한 크래프트 버번 위스키의 새로운 기준.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[GREAT EXPECTATIONS (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83953</link>
             <guid>https://www.esquirekorea.co.kr/article/83953</guid>
             <pubDate>Sun, 28 Jan 2024 15:16:27 GMT</pubDate>
             <content:encoded><![CDATA[더 글렌리벳이 200년 동안 쌓아 올린 ‘스카치 싱글 몰트 위스키’라는 엄격하고 진중한 기준. ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GREAT HISTORY (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83909</link>
+            <guid>https://www.esquirekorea.co.kr/article/83909</guid>
+            <pubDate>Mon, 29 Jan 2024 15:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[하우스 오브 산토리, 일본 증류주의 자존심이자 증류주 시장의 새로운 역사.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CRAFTED TIME (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83907</link>
+            <guid>https://www.esquirekorea.co.kr/article/83907</guid>
+            <pubDate>Mon, 29 Jan 2024 15:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[메이커스 마크의 진정한 가치는 바로 장인정신에서 시작된다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[THE SECRET UNCOVERED (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1328,25 +1349,17 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[고귀한 위스키란 어떻게 탄생하는가? 영국 왕실과 그 맥을 같이하는 로얄살루트의 브랜드 철학에...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[겨울 제철, 낙지 칼국수 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83943</link>
-            <guid>https://www.esquirekorea.co.kr/article/83943</guid>
-            <pubDate>Sat, 27 Jan 2024 15:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[낙지 칼국수를 다양하게 즐기는 방법.]]></content:encoded>
+            <title><![CDATA[서래마을 라파엘 갈로의 비밀 아트카페 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83945</link>
+            <guid>https://www.esquirekorea.co.kr/article/83945</guid>
+            <pubDate>Mon, 29 Jan 2024 15:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[한 달에 한 번 서래마을의 한 맨션 거실에선 아티스트와 관객들이 만나는 모임 ‘아트카페’(A...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[태국 출신 아이돌이 인정한 태국 맛집 3 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83928</link>
-            <guid>https://www.esquirekorea.co.kr/article/83928</guid>
-            <pubDate>Fri, 26 Jan 2024 15:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[쌀국수 국물 맛부터 다르다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[JAPANESE SPIRITS (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83908</link>
-            <guid>https://www.esquirekorea.co.kr/article/83908</guid>
-            <pubDate>Fri, 26 Jan 2024 15:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[대체 불가한 위스키 하우스 오브 산토리 100년의 이야기.]]></content:encoded>
+            <title><![CDATA[최규리, 박민영과 맞춘 커플 아이템은? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83934</link>
+            <guid>https://www.esquirekorea.co.kr/article/83934</guid>
+            <pubDate>Mon, 29 Jan 2024 15:17:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[추운 날씨에 생각나는 수프 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1389,20 +1402,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/83784</guid>
             <pubDate>Thu, 25 Jan 2024 15:20:05 GMT</pubDate>
             <content:encoded><![CDATA[종묘 옆 고즈넉한 돌담길을 보며 즐긴다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[돈두댓 서베이] 애인의 바람을 의심해야 하는 징조 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83703</link>
-            <guid>https://www.esquirekorea.co.kr/article/83703</guid>
-            <pubDate>Thu, 25 Jan 2024 09:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[몸과 맘을 다해 경험한 사례만 모았다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대게 내장 딱지 구이? 카니미소구이 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83643</link>
-            <guid>https://www.esquirekorea.co.kr/article/83643</guid>
-            <pubDate>Fri, 19 Jan 2024 15:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[카니미소 소스, 대게, 쪽파를 올려 굽는다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[part 2. '쿨한데 귀여운 언니'라는 이미지에 대한 신혜선의 답 (에스콰이어 코리아 ─ 피플)]]></title>
