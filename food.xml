@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/food</id>
     <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2024-01-30T09:18:55.309Z</updated>
+    <updated>2024-01-30T15:19:17.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DOUBLE ATTACK]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83958</id>
+        <link href="https://www.esquirekorea.co.kr/article/83958"/>
+        <updated>2024-01-30T15:18:39.007Z</updated>
+        <content type="html"><![CDATA[1더하기 1이 3이 되는 더블 캐스크의 마법.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[REVIVAL OF IRISH WHISKEY]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83957</id>
+        <link href="https://www.esquirekorea.co.kr/article/83957"/>
+        <updated>2024-01-30T15:18:39.008Z</updated>
+        <content type="html"><![CDATA[한때 쇠락을 겪었던 아이리시 위스키의 화려한 부활.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크래프트 버번 위스키의 선구자 래빗홀]]></title>
         <id>https://www.esquirekorea.co.kr/article/83956</id>
@@ -46,19 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/83936"/>
         <updated>2024-01-28T15:16:27.558Z</updated>
         <content type="html"><![CDATA[열 개의 바, 열 잔의 칵테일.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIVERSE TASTE]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83946</id>
-        <link href="https://www.esquirekorea.co.kr/article/83946"/>
-        <updated>2024-01-27T15:15:36.549Z</updated>
-        <content type="html"><![CDATA[위스키 업계의 트렌드를 선도하는 페르노리카 코리아의 프란츠 호튼 대표, 미구엘 파스칼 마케팅...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROYAL LEGACY]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83900</id>
-        <link href="https://www.esquirekorea.co.kr/article/83900"/>
-        <updated>2024-01-27T15:15:36.551Z</updated>
-        <content type="html"><![CDATA[고귀한 위스키란 어떻게 탄생하는가? 영국 왕실과 그 맥을 같이하는 로얄살루트의 브랜드 철학에...]]></content>
     </entry>
 </feed>

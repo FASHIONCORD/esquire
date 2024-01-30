@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 09:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 15:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1132,6 +1132,13 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[로로피아나의 계절 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83873</link>
+            <guid>https://www.esquirekorea.co.kr/article/83873</guid>
+            <pubDate>Tue, 30 Jan 2024 15:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[촉촉하게 젖은 이른 봄의 서정 그리고 로로피아나의 온기.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[슈트의 서스펜스 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83893</link>
             <guid>https://www.esquirekorea.co.kr/article/83893</guid>
@@ -1177,12 +1184,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/83768</guid>
             <pubDate>Tue, 23 Jan 2024 15:19:41 GMT</pubDate>
             <content:encoded><![CDATA[강렬하고 신비로운 소바쥬의 향기가 가득했던 밤. 에스콰이어와 크리스챤 디올 뷰티가 함께한 블...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[에디슬리먼이 꿈 꾼 청춘이라는 영원 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83771</link>
-            <guid>https://www.esquirekorea.co.kr/article/83771</guid>
-            <pubDate>Fri, 19 Jan 2024 09:18:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[최고의 시계들이 마카오에 모였다 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1293,6 +1294,20 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[멤버들의 연주와 인공지능을 결합했다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[DOUBLE ATTACK (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83958</link>
+            <guid>https://www.esquirekorea.co.kr/article/83958</guid>
+            <pubDate>Tue, 30 Jan 2024 15:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[1더하기 1이 3이 되는 더블 캐스크의 마법.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[REVIVAL OF IRISH WHISKEY (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83957</link>
+            <guid>https://www.esquirekorea.co.kr/article/83957</guid>
+            <pubDate>Tue, 30 Jan 2024 15:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[한때 쇠락을 겪었던 아이리시 위스키의 화려한 부활.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[크래프트 버번 위스키의 선구자 래빗홀 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83956</link>
             <guid>https://www.esquirekorea.co.kr/article/83956</guid>
@@ -1335,18 +1350,11 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[열 개의 바, 열 잔의 칵테일.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[DIVERSE TASTE (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83946</link>
-            <guid>https://www.esquirekorea.co.kr/article/83946</guid>
-            <pubDate>Sat, 27 Jan 2024 15:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[위스키 업계의 트렌드를 선도하는 페르노리카 코리아의 프란츠 호튼 대표, 미구엘 파스칼 마케팅...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ROYAL LEGACY (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83900</link>
-            <guid>https://www.esquirekorea.co.kr/article/83900</guid>
-            <pubDate>Sat, 27 Jan 2024 15:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[고귀한 위스키란 어떻게 탄생하는가? 영국 왕실과 그 맥을 같이하는 로얄살루트의 브랜드 철학에...]]></content:encoded>
+            <title><![CDATA[위르겐 클롭 감독, 리버풀 떠난다 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83952</link>
+            <guid>https://www.esquirekorea.co.kr/article/83952</guid>
+            <pubDate>Tue, 30 Jan 2024 15:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[리버풀의 황금기를 이끌었던 클롭.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서래마을 라파엘 갈로의 비밀 아트카페 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1397,11 +1405,25 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[팬들의 선물은 안 받는다고?]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[아는 사람만 아는 서순라길 핫플 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83784</link>
-            <guid>https://www.esquirekorea.co.kr/article/83784</guid>
-            <pubDate>Thu, 25 Jan 2024 15:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[종묘 옆 고즈넉한 돌담길을 보며 즐긴다.]]></content:encoded>
+            <title><![CDATA[해외 셀럽들의 주류 브랜드 4 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83903</link>
+            <guid>https://www.esquirekorea.co.kr/article/83903</guid>
+            <pubDate>Tue, 30 Jan 2024 15:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[남다른 술 사랑이 돋보이는 해외 셀럽들의 주류 브랜드!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1세대 게임 유튜버 김블루가 여전히 흉내낼 수 없는 분위기를 내는 이유 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83835</link>
+            <guid>https://www.esquirekorea.co.kr/article/83835</guid>
+            <pubDate>Tue, 30 Jan 2024 15:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[1세대 게임 유튜버 김블루가 지금도 여전히 흉내 낼 수 없는 색채를 내는 이유에 대해서.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[민지와 몽클레르의 어떤 순간 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83872</link>
+            <guid>https://www.esquirekorea.co.kr/article/83872</guid>
+            <pubDate>Tue, 30 Jan 2024 15:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[뉴진스 민지가 몽클레르 x 팜 엔젤스 의상을 입고 카메라 앞에 섰다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[part 2. '쿨한데 귀여운 언니'라는 이미지에 대한 신혜선의 답 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1437,24 +1459,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/83827</guid>
             <pubDate>Wed, 24 Jan 2024 09:19:45 GMT</pubDate>
             <content:encoded><![CDATA[두려워 말라, 우리에겐 김민재가 있으니. 겁내지 말라. 그가 손흥민, 황희찬, 이강인과 함께함이...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[패션 위크 셀럽들의 여행지 7 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83822</link>
-            <guid>https://www.esquirekorea.co.kr/article/83822</guid>
-            <pubDate>Wed, 24 Jan 2024 09:19:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Part 2. I이자 T인 NCT 재민이 '조금 다른 사람'이 될 수도 있다고 자신 있게 말한 이유 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83766</link>
-            <guid>https://www.esquirekorea.co.kr/article/83766</guid>
-            <pubDate>Wed, 24 Jan 2024 03:21:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Part 1. NCT 재민이 첫 사진 전시회에서 가장 기대하는 것은 '공감'이라고 했다 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83764</link>
-            <guid>https://www.esquirekorea.co.kr/article/83764</guid>
-            <pubDate>Tue, 23 Jan 2024 15:20:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[1월 컴백 데뷔하는 아이돌 리스트 (에스콰이어 코리아 ─ 나우)]]></title>
