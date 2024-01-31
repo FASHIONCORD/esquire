@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 09:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 15:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1242,6 +1242,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[번뜩이는 아이디어와 획기적인 메커니즘으로 새로운 우주를 만드는 이들. 독창적인 방식으로 시간...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[이탈리안 멋쟁이가 선택한 SUV는? (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83217</link>
+            <guid>https://www.esquirekorea.co.kr/article/83217</guid>
+            <pubDate>Wed, 31 Jan 2024 15:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[마세라티 그레칼레라는 새로운 장르]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[모든 고리가 담긴 천왕성 사진이 공개됐다 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83140</link>
             <guid>https://www.esquirekorea.co.kr/article/83140</guid>
@@ -1287,11 +1294,11 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 07 Dec 2023 15:19:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[비틀즈의 마지막 신곡 '나우 앤드 덴' 발표 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/81828</link>
-            <guid>https://www.esquirekorea.co.kr/article/81828</guid>
-            <pubDate>Wed, 22 Nov 2023 09:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[멤버들의 연주와 인공지능을 결합했다.]]></content:encoded>
+            <title><![CDATA[롱몬 증류소 그 지속력과 원동력에 대하여 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83911</link>
+            <guid>https://www.esquirekorea.co.kr/article/83911</guid>
+            <pubDate>Wed, 31 Jan 2024 15:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[롱몬 증류소는 위스키 산업 역사상 단 한 번도 생산을 중단한 적 없다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지금 주목해야 할 버번 위스키, 제퍼슨 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1343,11 +1350,24 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[하우스 오브 산토리, 일본 증류주의 자존심이자 증류주 시장의 새로운 역사.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[CRAFTED TIME (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83907</link>
-            <guid>https://www.esquirekorea.co.kr/article/83907</guid>
-            <pubDate>Mon, 29 Jan 2024 15:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[메이커스 마크의 진정한 가치는 바로 장인정신에서 시작된다.]]></content:encoded>
+            <title><![CDATA[U2의 라스베가스 스피어 공연은 한 시대의 새로운 시작을 의미한다 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83772</link>
+            <guid>https://www.esquirekorea.co.kr/article/83772</guid>
+            <pubDate>Wed, 31 Jan 2024 15:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[U2가 또 한 번 공연 역사를 새로 썼다. 네바다 사막에 있는 23억 달러짜리 구체 형태의 공연...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[당신이 튀르키예 코니아에 가야만 하는 이유 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83887</link>
+            <guid>https://www.esquirekorea.co.kr/article/83887</guid>
+            <pubDate>Wed, 31 Jan 2024 15:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[튀르키예 코니아는 12월 중순만 되면 전 세계에서 찾아온 관광객으로 붐빈다. 750년간 한 해도 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[토일렛페이퍼의 독점적인 비주얼에 향을 입혔다 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83874</link>
+            <guid>https://www.esquirekorea.co.kr/article/83874</guid>
+            <pubDate>Wed, 31 Jan 2024 15:18:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[아파트먼트풀 마켓이 여타 빈티지 가구 매장과 다른 점 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1381,27 +1401,6 @@ The New MINI Countryman과 일상에
             <link>https://www.esquirekorea.co.kr/article/83934</link>
             <guid>https://www.esquirekorea.co.kr/article/83934</guid>
             <pubDate>Mon, 29 Jan 2024 15:17:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[추운 날씨에 생각나는 수프 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83914</link>
-            <guid>https://www.esquirekorea.co.kr/article/83914</guid>
-            <pubDate>Sun, 28 Jan 2024 15:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[든든하게 따끈한 수프 한입 후루룩!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[혀를 내두르는 중독성, 지로계 라멘 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83892</link>
-            <guid>https://www.esquirekorea.co.kr/article/83892</guid>
-            <pubDate>Sat, 27 Jan 2024 15:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[압도적인 비주얼을 자랑하는 일명 ‘산더미’ 라멘.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[돈두댓] 럽스타그램 올릴 때 하면 안 되는 것 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83886</link>
-            <guid>https://www.esquirekorea.co.kr/article/83886</guid>
-            <pubDate>Sat, 27 Jan 2024 09:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[잘 못 올리면 오히려 상처받을 수도 있다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[해외 셀럽들의 주류 브랜드 4 (에스콰이어 코리아 ─ 피플)]]></title>

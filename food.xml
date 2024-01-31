@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/food</id>
     <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2024-01-31T09:17:44.266Z</updated>
+    <updated>2024-01-31T15:18:31.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[롱몬 증류소 그 지속력과 원동력에 대하여]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83911</id>
+        <link href="https://www.esquirekorea.co.kr/article/83911"/>
+        <updated>2024-01-31T15:17:54.849Z</updated>
+        <content type="html"><![CDATA[롱몬 증류소는 위스키 산업 역사상 단 한 번도 생산을 중단한 적 없다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지금 주목해야 할 버번 위스키, 제퍼슨]]></title>
         <id>https://www.esquirekorea.co.kr/article/83912</id>
@@ -53,12 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/83909"/>
         <updated>2024-01-29T15:17:33.978Z</updated>
         <content type="html"><![CDATA[하우스 오브 산토리, 일본 증류주의 자존심이자 증류주 시장의 새로운 역사.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAFTED TIME]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83907</id>
-        <link href="https://www.esquirekorea.co.kr/article/83907"/>
-        <updated>2024-01-29T15:17:33.982Z</updated>
-        <content type="html"><![CDATA[메이커스 마크의 진정한 가치는 바로 장인정신에서 시작된다.]]></content>
     </entry>
 </feed>
