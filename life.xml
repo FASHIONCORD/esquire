@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2024-01-31T03:19:55.483Z</updated>
+    <updated>2024-01-31T09:17:44.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아파트먼트풀 마켓이 여타 빈티지 가구 매장과 다른 점]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83876</id>
+        <link href="https://www.esquirekorea.co.kr/article/83876"/>
+        <updated>2024-01-31T09:17:16.234Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<맨즈헬스 UK>가 전문가들과 함께 꼽은 2024년 건강 & 피트니스 최고의 화두]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83737</id>
+        <link href="https://www.esquirekorea.co.kr/article/83737"/>
+        <updated>2024-01-31T09:17:16.237Z</updated>
+        <content type="html"><![CDATA[신년을 맞아 &lt;맨즈헬스 UK&gt;에서 올 한 해 운동 및 건강 관련 분야의 가장 큰 트렌드가 될 1...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위르겐 클롭 감독, 리버풀 떠난다]]></title>
         <id>https://www.esquirekorea.co.kr/article/83952</id>
@@ -45,19 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/83886"/>
         <updated>2024-01-27T09:16:30.870Z</updated>
         <content type="html"><![CDATA[잘 못 올리면 오히려 상처받을 수도 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[23일 서울시 '기후동행카드' 판매 시작]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83858</id>
-        <link href="https://www.esquirekorea.co.kr/article/83858"/>
-        <updated>2024-01-26T15:18:23.125Z</updated>
-        <content type="html"><![CDATA[서울 시내버스, 지하철 및 따릉이를 무제한으로 이용할 수 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아시안컵 멀티 골의 주인공! '막내형' 이강인 TMI 12]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83854</id>
-        <link href="https://www.esquirekorea.co.kr/article/83854"/>
-        <updated>2024-01-26T15:18:23.127Z</updated>
-        <content type="html"><![CDATA[팬들의 선물은 안 받는다고?]]></content>
     </entry>
 </feed>

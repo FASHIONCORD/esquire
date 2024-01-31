@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2024-01-31T03:19:55.492Z</updated>
+    <updated>2024-01-31T09:17:44.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WOOSHIK! WOOSHIK! 열렬한 환호와 함께 아미 쇼장에 입장한 최우식]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83926</id>
+        <link href="https://www.esquirekorea.co.kr/article/83926"/>
+        <updated>2024-01-31T09:16:39.120Z</updated>
+        <content type="html"><![CDATA[EP. 2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아미 2024 F/W 쇼를 앞두고 호텔 방에서 만난 배우 최우식]]></title>
         <id>https://www.esquirekorea.co.kr/article/83925</id>
@@ -51,12 +58,5 @@
         <id>https://www.esquirekorea.co.kr/article/83775</id>
         <link href="https://www.esquirekorea.co.kr/article/83775"/>
         <updated>2024-01-25T15:19:36.945Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[토이 스토리]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83773</id>
-        <link href="https://www.esquirekorea.co.kr/article/83773"/>
-        <updated>2024-01-25T15:19:36.948Z</updated>
-        <content type="html"><![CDATA[소년의 상상, 반짝이는 꿈.]]></content>
     </entry>
 </feed>
