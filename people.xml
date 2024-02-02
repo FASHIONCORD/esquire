@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2024-02-02T09:19:45.840Z</updated>
+    <updated>2024-02-02T15:18:54.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데이비드 베컴의 패션 모먼트]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84018</id>
+        <link href="https://www.esquirekorea.co.kr/article/84018"/>
+        <updated>2024-02-02T15:18:26.104Z</updated>
+        <content type="html"><![CDATA[한 시대를 풍미한 전무후무 패션 아이콘.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차은우 뮤비의 주인공, 인디아 아이슬리 TMI 8]]></title>
         <id>https://www.esquirekorea.co.kr/article/84016</id>
@@ -51,13 +58,6 @@
         <id>https://www.esquirekorea.co.kr/article/83763</id>
         <link href="https://www.esquirekorea.co.kr/article/83763"/>
         <updated>2024-01-26T15:18:37.765Z</updated>
-        <content type="html"><![CDATA[신혜선은 아직도 자신이 어떤 사람인지 잘 모르겠다고 했다. 사실 딱히 답을 찾아낼 생각도 없...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[part 1. 배우 신혜선이 <웰컴투 삼달리>를 택한 건 조금은 개인적인 이유라고 했다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83762</id>
-        <link href="https://www.esquirekorea.co.kr/article/83762"/>
-        <updated>2024-01-26T09:18:46.757Z</updated>
         <content type="html"><![CDATA[신혜선은 아직도 자신이 어떤 사람인지 잘 모르겠다고 했다. 사실 딱히 답을 찾아낼 생각도 없...]]></content>
     </entry>
 </feed>

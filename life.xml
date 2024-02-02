@@ -1,63 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/life</id>
-    <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2024-02-02T09:19:45.840Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[일품 국물, 새조개 샤브샤브 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84084</id>
-        <link href="https://www.esquirekorea.co.kr/article/84084"/>
-        <updated>2024-02-02T03:20:13.423Z</updated>
-        <content type="html"><![CDATA[12월부터 2월까지만 맛볼 수 있는 별미.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<에스콰이어> 에디터들이 추천하는 2월의 책]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83895</id>
-        <link href="https://www.esquirekorea.co.kr/article/83895"/>
-        <updated>2024-02-02T03:20:13.424Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가성비 넘치는 칵테일 무제한 바 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84049</id>
-        <link href="https://www.esquirekorea.co.kr/article/84049"/>
-        <updated>2024-02-02T03:20:13.425Z</updated>
-        <content type="html"><![CDATA[칵테일이 술술술.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오맵, 실내 지도 서비스 출시]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84048</id>
-        <link href="https://www.esquirekorea.co.kr/article/84048"/>
-        <updated>2024-02-02T03:20:13.426Z</updated>
-        <content type="html"><![CDATA[복잡한 대형 쇼핑몰에서도 길 잃을 걱정 없이.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 오픈 예정인 해외 디저트 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84039</id>
-        <link href="https://www.esquirekorea.co.kr/article/84039"/>
-        <updated>2024-02-02T03:20:13.427Z</updated>
-        <content type="html"><![CDATA[드디어 한국 상륙!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고기 무한리필 찜질방 3]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84038</id>
-        <link href="https://www.esquirekorea.co.kr/article/84038"/>
-        <updated>2024-02-02T03:20:13.429Z</updated>
-        <content type="html"><![CDATA[찜질방에서 삼겹살, 오리주물럭, 바베큐 등 다양한 고기를 무한으로 즐길 수 있다고? 심지어 주...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U2의 라스베가스 스피어 공연은 한 시대의 새로운 시작을 의미한다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83772</id>
-        <link href="https://www.esquirekorea.co.kr/article/83772"/>
-        <updated>2024-01-31T15:18:04.111Z</updated>
-        <content type="html"><![CDATA[U2가 또 한 번 공연 역사를 새로 썼다. 네바다 사막에 있는 23억 달러짜리 구체 형태의 공연...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신이 튀르키예 코니아에 가야만 하는 이유]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83887</id>
-        <link href="https://www.esquirekorea.co.kr/article/83887"/>
-        <updated>2024-01-31T15:18:04.112Z</updated>
-        <content type="html"><![CDATA[튀르키예 코니아는 12월 중순만 되면 전 세계에서 찾아온 관광객으로 붐빈다. 750년간 한 해도 ...]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 라이프</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 02 Feb 2024 15:18:54 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Part 2. 대학생이 꼽은 미디어와 스포츠 부문 영향력 1위 인물은?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83904</link>
+            <guid>https://www.esquirekorea.co.kr/article/83904</guid>
+            <pubDate>Fri, 02 Feb 2024 15:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[20대 대학생 360명에게 물었다. 지금 여러분이 생각하기에 각 분야에서 영향력 있는 인물은 누구...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/31d96f38-10c6-484b-bfd4-69de552c9daf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Part 1. 요즘 대학생이 생각하는 영향력 있는 인물은 누구?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84086</link>
+            <guid>https://www.esquirekorea.co.kr/article/84086</guid>
+            <pubDate>Fri, 02 Feb 2024 15:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[20대 대학생 360명에게 물었다. 지금 여러분이 생각하기에 각 분야에서 영향력 있는 인물은 누구...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/89475ee7-99be-4655-aa0f-6742302a1b97.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금돼지식당에 버금가는 삼겹살 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84085</link>
+            <guid>https://www.esquirekorea.co.kr/article/84085</guid>
+            <pubDate>Fri, 02 Feb 2024 15:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[사이드 메뉴까지 명성이 자자한 곳.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/01/162486c5-1cfa-4444-903c-4d6ca6607673.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일품 국물, 새조개 샤브샤브 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84084</link>
+            <guid>https://www.esquirekorea.co.kr/article/84084</guid>
+            <pubDate>Fri, 02 Feb 2024 03:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[12월부터 2월까지만 맛볼 수 있는 별미.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/01/4e60e5a8-c542-4f90-9bcd-603ea4c7345e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<에스콰이어> 에디터들이 추천하는 2월의 책]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83895</link>
+            <guid>https://www.esquirekorea.co.kr/article/83895</guid>
+            <pubDate>Fri, 02 Feb 2024 03:20:13 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/01/fe24239a-205e-4b45-9f3d-ce4771f571bf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가성비 넘치는 칵테일 무제한 바 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84049</link>
+            <guid>https://www.esquirekorea.co.kr/article/84049</guid>
+            <pubDate>Fri, 02 Feb 2024 03:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[칵테일이 술술술.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/31/e38e1f26-5aab-4ef4-a4bf-20138399e362.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오맵, 실내 지도 서비스 출시]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84048</link>
+            <guid>https://www.esquirekorea.co.kr/article/84048</guid>
+            <pubDate>Fri, 02 Feb 2024 03:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[복잡한 대형 쇼핑몰에서도 길 잃을 걱정 없이.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/31/8d3da5e6-e79e-4055-b6b3-3ef9e034bd1f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 오픈 예정인 해외 디저트 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84039</link>
+            <guid>https://www.esquirekorea.co.kr/article/84039</guid>
+            <pubDate>Fri, 02 Feb 2024 03:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[드디어 한국 상륙!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/31/7ac58274-199c-4c6b-a64c-42dba1b3361c.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
