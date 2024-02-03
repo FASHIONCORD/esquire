@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2024-02-03T09:18:27.733Z</updated>
+    <updated>2024-02-03T15:17:32.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[언제 어디서든, 구찌.]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83690</id>
+        <link href="https://www.esquirekorea.co.kr/article/83690"/>
+        <updated>2024-02-03T15:16:20.434Z</updated>
+        <content type="html"><![CDATA[미리 만나는 구찌 2024 S/S 컬렉션.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아미와 함께한 최우식의 가슴 벅찬 하루]]></title>
         <id>https://www.esquirekorea.co.kr/article/83927</id>
@@ -53,11 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/83778"/>
         <updated>2024-01-26T03:19:52.377Z</updated>
         <content type="html"><![CDATA[겨울철 갈라지는 피부를 위한 8개의 오일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 시선으로 바라본 여섯개의 패딩]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83777</id>
-        <link href="https://www.esquirekorea.co.kr/article/83777"/>
-        <updated>2024-01-26T03:19:52.378Z</updated>
     </entry>
 </feed>
