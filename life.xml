@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2024-02-03T03:22:04.112Z</updated>
+    <updated>2024-02-03T09:18:27.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Part 3.대학생이 꼽은 패션/문화/사회 부문 영향력 1위 인물은?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83906</id>
+        <link href="https://www.esquirekorea.co.kr/article/83906"/>
+        <updated>2024-02-03T09:18:05.292Z</updated>
+        <content type="html"><![CDATA[20대 대학생 360명에게 물었다. 지금 여러분이 생각하기에 각 분야에서 영향력 있는 인물은 누구...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Part 2. 대학생이 꼽은 미디어와 스포츠 부문 영향력 1위 인물은?]]></title>
         <id>https://www.esquirekorea.co.kr/article/83904</id>
@@ -52,12 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84048"/>
         <updated>2024-02-02T03:20:13.426Z</updated>
         <content type="html"><![CDATA[복잡한 대형 쇼핑몰에서도 길 잃을 걱정 없이.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 오픈 예정인 해외 디저트 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84039</id>
-        <link href="https://www.esquirekorea.co.kr/article/84039"/>
-        <updated>2024-02-02T03:20:13.427Z</updated>
-        <content type="html"><![CDATA[드디어 한국 상륙!]]></content>
     </entry>
 </feed>
