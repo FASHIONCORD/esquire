@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2024-02-02T15:18:54.272Z</updated>
+    <updated>2024-02-03T03:22:04.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[20년 만에 돌아온 대장금]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84019</id>
+        <link href="https://www.esquirekorea.co.kr/article/84019"/>
+        <updated>2024-02-03T03:21:39.101Z</updated>
+        <content type="html"><![CDATA[내년 초 방영 예정인 '의녀 대장금'.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데이비드 베컴의 패션 모먼트]]></title>
         <id>https://www.esquirekorea.co.kr/article/84018</id>
@@ -52,12 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/83872"/>
         <updated>2024-01-30T15:19:01.130Z</updated>
         <content type="html"><![CDATA[뉴진스 민지가 몽클레르 x 팜 엔젤스 의상을 입고 카메라 앞에 섰다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[part 2. '쿨한데 귀여운 언니'라는 이미지에 대한 신혜선의 답]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83763</id>
-        <link href="https://www.esquirekorea.co.kr/article/83763"/>
-        <updated>2024-01-26T15:18:37.765Z</updated>
-        <content type="html"><![CDATA[신혜선은 아직도 자신이 어떤 사람인지 잘 모르겠다고 했다. 사실 딱히 답을 찾아낼 생각도 없...]]></content>
     </entry>
 </feed>
