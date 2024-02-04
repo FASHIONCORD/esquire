@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Feb 2024 09:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Feb 2024 15:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1296,6 +1296,19 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 07 Dec 2023 15:19:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[PLEASE TRY - 로얄살루트 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83933</link>
+            <guid>https://www.esquirekorea.co.kr/article/83933</guid>
+            <pubDate>Sun, 04 Feb 2024 15:16:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMFORT ZONE - 로얄살루트 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84011</link>
+            <guid>https://www.esquirekorea.co.kr/article/84011</guid>
+            <pubDate>Sun, 04 Feb 2024 15:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[위안을 선사하는 서울의 위스키 바 '시그니엘 서울 바81', 그리고 그들이 권하는 로얄살루트.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[1인 2만원대 진수성찬 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84103</link>
             <guid>https://www.esquirekorea.co.kr/article/84103</guid>
@@ -1337,18 +1350,18 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[12월부터 2월까지만 맛볼 수 있는 별미.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[새로 오픈한 스타필드 수원 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84083</link>
-            <guid>https://www.esquirekorea.co.kr/article/84083</guid>
-            <pubDate>Sat, 03 Feb 2024 03:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[오픈런 필수! 한식 맛집부터 양식 맛집까지 선별했다.]]></content:encoded>
+            <title><![CDATA[영상미 좋은 뮤직비디오 감독 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84105</link>
+            <guid>https://www.esquirekorea.co.kr/article/84105</guid>
+            <pubDate>Sun, 04 Feb 2024 15:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[감각적인 장면 전환이 돋보인다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미쉐린 가이드 선정, 한식의 저변을 넓히는 이북 음식 3 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84072</link>
-            <guid>https://www.esquirekorea.co.kr/article/84072</guid>
-            <pubDate>Fri, 02 Feb 2024 09:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[황해도식 만둣국부터 순대 오마카세까지.]]></content:encoded>
+            <title><![CDATA[스타필드 수원 별마당 도서관? 책 읽고 싶어지는 도서관 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84097</link>
+            <guid>https://www.esquirekorea.co.kr/article/84097</guid>
+            <pubDate>Sun, 04 Feb 2024 15:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[보기만 해도 영감을 불러 일으키는 도서관 네 곳을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[COMFORT ZONE - 발렌타인 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1391,19 +1404,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84084</guid>
             <pubDate>Fri, 02 Feb 2024 03:20:13 GMT</pubDate>
             <content:encoded><![CDATA[12월부터 2월까지만 맛볼 수 있는 별미.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<에스콰이어> 에디터들이 추천하는 2월의 책 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83895</link>
-            <guid>https://www.esquirekorea.co.kr/article/83895</guid>
-            <pubDate>Fri, 02 Feb 2024 03:20:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[가성비 넘치는 칵테일 무제한 바 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84049</link>
-            <guid>https://www.esquirekorea.co.kr/article/84049</guid>
-            <pubDate>Fri, 02 Feb 2024 03:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[칵테일이 술술술.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[20년 만에 돌아온 대장금 (에스콰이어 코리아 ─ 피플)]]></title>
