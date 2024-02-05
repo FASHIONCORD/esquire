@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 09:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 15:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1132,6 +1132,13 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[데이비드 베컴의 패션 모먼트 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84018</link>
+            <guid>https://www.esquirekorea.co.kr/article/84018</guid>
+            <pubDate>Fri, 02 Feb 2024 15:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[한 시대를 풍미한 전무후무 패션 아이콘.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[언제 어디서든, 구찌. (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83690</link>
             <guid>https://www.esquirekorea.co.kr/article/83690</guid>
@@ -1179,13 +1186,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/83859</guid>
             <pubDate>Fri, 26 Jan 2024 03:19:52 GMT</pubDate>
             <content:encoded><![CDATA[바야흐로 협업의 시대!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오일 한 방울 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83778</link>
-            <guid>https://www.esquirekorea.co.kr/article/83778</guid>
-            <pubDate>Fri, 26 Jan 2024 03:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[겨울철 갈라지는 피부를 위한 8개의 오일]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지샥, 40주년을 기념해 포터와 협업한 한정판 시계 공개 (에스콰이어 코리아 ─ 와치)]]></title>
