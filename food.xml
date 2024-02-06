@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/food</id>
     <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2024-02-05T15:18:20.014Z</updated>
+    <updated>2024-02-06T03:20:31.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[PLEASE TRY - 하우스 오브 산토리]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83986</id>
+        <link href="https://www.esquirekorea.co.kr/article/83986"/>
+        <updated>2024-02-06T03:19:54.775Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메뉴 하나로 건물 세운 전국 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84112</id>
+        <link href="https://www.esquirekorea.co.kr/article/84112"/>
+        <updated>2024-02-06T03:19:54.775Z</updated>
+        <content type="html"><![CDATA[건물 세우고 주차장 확장 공사까지 한 식당은?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PLEASE TRY - 로얄살루트]]></title>
         <id>https://www.esquirekorea.co.kr/article/83933</id>
@@ -44,19 +57,5 @@
         <id>https://www.esquirekorea.co.kr/article/83931</id>
         <link href="https://www.esquirekorea.co.kr/article/83931"/>
         <updated>2024-02-03T03:21:24.242Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금돼지식당에 버금가는 삼겹살 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84085</id>
-        <link href="https://www.esquirekorea.co.kr/article/84085"/>
-        <updated>2024-02-03T03:21:24.244Z</updated>
-        <content type="html"><![CDATA[사이드 메뉴까지 명성이 자자한 곳.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일품 국물, 새조개 샤브샤브 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84084</id>
-        <link href="https://www.esquirekorea.co.kr/article/84084"/>
-        <updated>2024-02-03T03:21:24.244Z</updated>
-        <content type="html"><![CDATA[12월부터 2월까지만 맛볼 수 있는 별미.]]></content>
     </entry>
 </feed>

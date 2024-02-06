@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Feb 2024 15:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 03:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1296,6 +1296,19 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 07 Dec 2023 15:19:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[PLEASE TRY - 하우스 오브 산토리 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83986</link>
+            <guid>https://www.esquirekorea.co.kr/article/83986</guid>
+            <pubDate>Tue, 06 Feb 2024 03:19:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[메뉴 하나로 건물 세운 전국 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84112</link>
+            <guid>https://www.esquirekorea.co.kr/article/84112</guid>
+            <pubDate>Tue, 06 Feb 2024 03:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[건물 세우고 주차장 확장 공사까지 한 식당은?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[PLEASE TRY - 로얄살루트 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83933</link>
             <guid>https://www.esquirekorea.co.kr/article/83933</guid>
@@ -1336,18 +1349,11 @@ The New MINI Countryman과 일상에
             <pubDate>Sat, 03 Feb 2024 03:21:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[금돼지식당에 버금가는 삼겹살 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84085</link>
-            <guid>https://www.esquirekorea.co.kr/article/84085</guid>
-            <pubDate>Fri, 02 Feb 2024 15:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[사이드 메뉴까지 명성이 자자한 곳.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일품 국물, 새조개 샤브샤브 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84084</link>
-            <guid>https://www.esquirekorea.co.kr/article/84084</guid>
-            <pubDate>Fri, 02 Feb 2024 03:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[12월부터 2월까지만 맛볼 수 있는 별미.]]></content:encoded>
+            <title><![CDATA[COMFORT ZONE - 로얄살루트 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84011</link>
+            <guid>https://www.esquirekorea.co.kr/article/84011</guid>
+            <pubDate>Sun, 04 Feb 2024 15:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[위안을 선사하는 서울의 위스키 바 '시그니엘 서울 바81', 그리고 그들이 권하는 로얄살루트.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[영상미 좋은 뮤직비디오 감독 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1397,13 +1403,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84085</guid>
             <pubDate>Fri, 02 Feb 2024 15:18:12 GMT</pubDate>
             <content:encoded><![CDATA[사이드 메뉴까지 명성이 자자한 곳.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일품 국물, 새조개 샤브샤브 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84084</link>
-            <guid>https://www.esquirekorea.co.kr/article/84084</guid>
-            <pubDate>Fri, 02 Feb 2024 03:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[12월부터 2월까지만 맛볼 수 있는 별미.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[20년 만에 돌아온 대장금 (에스콰이어 코리아 ─ 피플)]]></title>
