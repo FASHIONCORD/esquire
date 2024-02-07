@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2024-02-07T09:19:26.298Z</updated>
+    <updated>2024-02-07T15:18:09.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대한민국 요르단 아시안컵 4강 준결승전 '임형철 해설'의 요르단전 관전 포인트]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84162</id>
+        <link href="https://www.esquirekorea.co.kr/article/84162"/>
+        <updated>2024-02-07T15:17:41.629Z</updated>
+        <content type="html"><![CDATA[7일 수요일 0시 격돌하는 대한민국과 요르단. 요르단전 경기 시작에 앞서 축구 해설위원 임형철...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아시안컵이 열리는 카타르 TMI 12]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84151</id>
+        <link href="https://www.esquirekorea.co.kr/article/84151"/>
+        <updated>2024-02-07T15:17:41.645Z</updated>
+        <content type="html"><![CDATA[신호위반 시 벌금으로 금융 치료가 가능하다고?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[COMFORT ZONE - 메이커스 마크]]></title>
         <id>https://www.esquirekorea.co.kr/article/84141</id>
@@ -45,19 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84011"/>
         <updated>2024-02-06T03:20:03.325Z</updated>
         <content type="html"><![CDATA[위안을 선사하는 서울의 위스키 바 '시그니엘 서울 바81', 그리고 그들이 권하는 로얄살루트.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영상미 좋은 뮤직비디오 감독 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84105</id>
-        <link href="https://www.esquirekorea.co.kr/article/84105"/>
-        <updated>2024-02-04T15:17:08.547Z</updated>
-        <content type="html"><![CDATA[감각적인 장면 전환이 돋보인다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타필드 수원 별마당 도서관? 책 읽고 싶어지는 도서관 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84097</id>
-        <link href="https://www.esquirekorea.co.kr/article/84097"/>
-        <updated>2024-02-04T15:17:08.548Z</updated>
-        <content type="html"><![CDATA[보기만 해도 영감을 불러 일으키는 도서관 네 곳을 소개합니다.]]></content>
     </entry>
 </feed>

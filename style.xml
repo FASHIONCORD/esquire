@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2024-02-07T09:19:26.283Z</updated>
+    <updated>2024-02-07T15:18:09.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아시안컵 국가대표 헤어스타일]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84031</id>
+        <link href="https://www.esquirekorea.co.kr/article/84031"/>
+        <updated>2024-02-07T15:16:51.128Z</updated>
+        <content type="html"><![CDATA[손흥민부터 이강인까지.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데이비드 베컴의 패션 모먼트]]></title>
         <id>https://www.esquirekorea.co.kr/article/84018</id>
@@ -53,12 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/83893"/>
         <updated>2024-01-28T15:15:46.015Z</updated>
         <content type="html"><![CDATA[그 때 그 사람들.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패션 위크에서 주목해야 할 협업 슈즈 5]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83859</id>
-        <link href="https://www.esquirekorea.co.kr/article/83859"/>
-        <updated>2024-01-26T03:19:52.375Z</updated>
-        <content type="html"><![CDATA[바야흐로 협업의 시대!]]></content>
     </entry>
 </feed>
