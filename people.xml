@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2024-02-06T15:18:38.401Z</updated>
+    <updated>2024-02-07T03:20:17.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[환승연애 3 음악감독 최정인의 플레이리스트]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84093</id>
+        <link href="https://www.esquirekorea.co.kr/article/84093"/>
+        <updated>2024-02-07T03:20:02.724Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이태환 운동할 때 듣는 발라드?]]></title>
         <id>https://www.esquirekorea.co.kr/article/84082</id>
@@ -51,12 +57,5 @@
         <link href="https://www.esquirekorea.co.kr/article/83903"/>
         <updated>2024-01-30T15:19:01.127Z</updated>
         <content type="html"><![CDATA[남다른 술 사랑이 돋보이는 해외 셀럽들의 주류 브랜드!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1세대 게임 유튜버 김블루가 여전히 흉내낼 수 없는 분위기를 내는 이유]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83835</id>
-        <link href="https://www.esquirekorea.co.kr/article/83835"/>
-        <updated>2024-01-30T15:19:01.128Z</updated>
-        <content type="html"><![CDATA[1세대 게임 유튜버 김블루가 지금도 여전히 흉내 낼 수 없는 색채를 내는 이유에 대해서.]]></content>
     </entry>
 </feed>

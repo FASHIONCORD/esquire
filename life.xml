@@ -1,74 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 라이프</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 15:18:38 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[<싱어게인> 과몰입자의 단상]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84117</link>
-            <guid>https://www.esquirekorea.co.kr/article/84117</guid>
-            <pubDate>Tue, 06 Feb 2024 15:18:10 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/05/932e63e7-2686-4a4f-a42b-9bdd090f6eea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[COMFORT ZONE - 더 글렌리벳]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84013</link>
-            <guid>https://www.esquirekorea.co.kr/article/84013</guid>
-            <pubDate>Tue, 06 Feb 2024 15:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[위안을 선사하는 서울의 위스키 바 '찰스 H', 그리고 그들이 권하는 더 글렌리벳.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/05/103a4ec1-4fe3-471a-a15f-18de6b3bc425.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[COMFORT ZONE - 하우스 오브 산토리]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84012</link>
-            <guid>https://www.esquirekorea.co.kr/article/84012</guid>
-            <pubDate>Tue, 06 Feb 2024 15:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[위안을 선사하는 서울의 위스키 바 '첼시스하이볼', 그리고 그들이 권하는 히비키.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/04/ff7cc443-f4f0-48c1-a69a-65f6a05998eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메뉴 하나로 건물 세운 전국 맛집 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84112</link>
-            <guid>https://www.esquirekorea.co.kr/article/84112</guid>
-            <pubDate>Tue, 06 Feb 2024 09:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[건물 세우고 주차장 확장 공사까지 한 식당은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/03/87884b31-ec01-432b-be53-941e1b3f7e46.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[COMFORT ZONE - 로얄살루트]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84011</link>
-            <guid>https://www.esquirekorea.co.kr/article/84011</guid>
-            <pubDate>Tue, 06 Feb 2024 03:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[위안을 선사하는 서울의 위스키 바 '시그니엘 서울 바81', 그리고 그들이 권하는 로얄살루트.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/03/fdb1c0fa-c8cd-488a-ac2e-b1971166ffd1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영상미 좋은 뮤직비디오 감독 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84105</link>
-            <guid>https://www.esquirekorea.co.kr/article/84105</guid>
-            <pubDate>Sun, 04 Feb 2024 15:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[감각적인 장면 전환이 돋보인다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/16c9b770-6642-4268-afba-a34a5e40097b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타필드 수원 별마당 도서관? 책 읽고 싶어지는 도서관 4]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84097</link>
-            <guid>https://www.esquirekorea.co.kr/article/84097</guid>
-            <pubDate>Sun, 04 Feb 2024 15:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[보기만 해도 영감을 불러 일으키는 도서관 네 곳을 소개합니다.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/9ee21fd8-d9fa-453d-ab76-cc2fc4b381ed.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[COMFORT ZONE - 발렌타인]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84009</link>
-            <guid>https://www.esquirekorea.co.kr/article/84009</guid>
-            <pubDate>Sat, 03 Feb 2024 15:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[위안을 선사하는 서울의 위스키 바 '메종한남브이', 그리고 그들이 권하는 발렌타인.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/02/83dac486-399a-4aa8-b800-f6a6d4bae74e.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/life</id>
+    <title>에스콰이어 코리아 ─ 라이프</title>
+    <updated>2024-02-07T03:20:17.885Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<싱어게인> 과몰입자의 단상]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84117</id>
+        <link href="https://www.esquirekorea.co.kr/article/84117"/>
+        <updated>2024-02-06T15:18:10.886Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COMFORT ZONE - 더 글렌리벳]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84013</id>
+        <link href="https://www.esquirekorea.co.kr/article/84013"/>
+        <updated>2024-02-06T15:18:10.887Z</updated>
+        <content type="html"><![CDATA[위안을 선사하는 서울의 위스키 바 '찰스 H', 그리고 그들이 권하는 더 글렌리벳.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COMFORT ZONE - 하우스 오브 산토리]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84012</id>
+        <link href="https://www.esquirekorea.co.kr/article/84012"/>
+        <updated>2024-02-06T15:18:10.887Z</updated>
+        <content type="html"><![CDATA[위안을 선사하는 서울의 위스키 바 '첼시스하이볼', 그리고 그들이 권하는 히비키.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메뉴 하나로 건물 세운 전국 맛집 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84112</id>
+        <link href="https://www.esquirekorea.co.kr/article/84112"/>
+        <updated>2024-02-06T09:18:28.585Z</updated>
+        <content type="html"><![CDATA[건물 세우고 주차장 확장 공사까지 한 식당은?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COMFORT ZONE - 로얄살루트]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84011</id>
+        <link href="https://www.esquirekorea.co.kr/article/84011"/>
+        <updated>2024-02-06T03:20:03.325Z</updated>
+        <content type="html"><![CDATA[위안을 선사하는 서울의 위스키 바 '시그니엘 서울 바81', 그리고 그들이 권하는 로얄살루트.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영상미 좋은 뮤직비디오 감독 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84105</id>
+        <link href="https://www.esquirekorea.co.kr/article/84105"/>
+        <updated>2024-02-04T15:17:08.547Z</updated>
+        <content type="html"><![CDATA[감각적인 장면 전환이 돋보인다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타필드 수원 별마당 도서관? 책 읽고 싶어지는 도서관 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84097</id>
+        <link href="https://www.esquirekorea.co.kr/article/84097"/>
+        <updated>2024-02-04T15:17:08.548Z</updated>
+        <content type="html"><![CDATA[보기만 해도 영감을 불러 일으키는 도서관 네 곳을 소개합니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COMFORT ZONE - 발렌타인]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84009</id>
+        <link href="https://www.esquirekorea.co.kr/article/84009"/>
+        <updated>2024-02-03T15:17:11.378Z</updated>
+        <content type="html"><![CDATA[위안을 선사하는 서울의 위스키 바 '메종한남브이', 그리고 그들이 권하는 발렌타인.]]></content>
+    </entry>
+</feed>
