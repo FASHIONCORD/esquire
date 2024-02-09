@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Feb 2024 03:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Feb 2024 09:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1296,6 +1296,13 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 20 Dec 2023 09:15:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA['2024 블루리본 서베이'에 선정된 떡국 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84185</link>
+            <guid>https://www.esquirekorea.co.kr/article/84185</guid>
+            <pubDate>Fri, 09 Feb 2024 09:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[떡국을 다양하게 즐기는 방법.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이번 설날에 추천하고 싶은 전통주 칵테일 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84000</link>
             <guid>https://www.esquirekorea.co.kr/article/84000</guid>
@@ -1340,13 +1347,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84013</guid>
             <pubDate>Tue, 06 Feb 2024 15:18:00 GMT</pubDate>
             <content:encoded><![CDATA[위안을 선사하는 서울의 위스키 바 '찰스 H', 그리고 그들이 권하는 더 글렌리벳.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[COMFORT ZONE - 하우스 오브 산토리 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84012</link>
-            <guid>https://www.esquirekorea.co.kr/article/84012</guid>
-            <pubDate>Tue, 06 Feb 2024 15:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[위안을 선사하는 서울의 위스키 바 '첼시스하이볼', 그리고 그들이 권하는 히비키.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[COMFORT ZONE - 레드브레스트 (에스콰이어 코리아 ─ 라이프)]]></title>
