@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/food</id>
     <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2024-02-08T15:19:36.453Z</updated>
+    <updated>2024-02-09T03:19:46.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이번 설날에 추천하고 싶은 전통주 칵테일 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84000</id>
+        <link href="https://www.esquirekorea.co.kr/article/84000"/>
+        <updated>2024-02-09T03:18:52.273Z</updated>
+        <content type="html"><![CDATA[전통주 칵테일 바 네 곳의 바텐더들에게 이번 설에 가족과 함께 마시고 싶은 칵테일을 추천받았...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PLEASE TRY - 아벨라워]]></title>
         <id>https://www.esquirekorea.co.kr/article/83990</id>
@@ -50,11 +57,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84012"/>
         <updated>2024-02-06T15:18:00.895Z</updated>
         <content type="html"><![CDATA[위안을 선사하는 서울의 위스키 바 '첼시스하이볼', 그리고 그들이 권하는 히비키.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PLEASE TRY - 하우스 오브 산토리]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83986</id>
-        <link href="https://www.esquirekorea.co.kr/article/83986"/>
-        <updated>2024-02-06T03:19:54.775Z</updated>
     </entry>
 </feed>

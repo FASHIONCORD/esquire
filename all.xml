@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 15:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Feb 2024 03:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1296,6 +1296,13 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 20 Dec 2023 09:15:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[이번 설날에 추천하고 싶은 전통주 칵테일 4 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84000</link>
+            <guid>https://www.esquirekorea.co.kr/article/84000</guid>
+            <pubDate>Fri, 09 Feb 2024 03:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[전통주 칵테일 바 네 곳의 바텐더들에게 이번 설에 가족과 함께 마시고 싶은 칵테일을 추천받았...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[PLEASE TRY - 아벨라워 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83990</link>
             <guid>https://www.esquirekorea.co.kr/article/83990</guid>
@@ -1342,10 +1349,11 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[위안을 선사하는 서울의 위스키 바 '첼시스하이볼', 그리고 그들이 권하는 히비키.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[PLEASE TRY - 하우스 오브 산토리 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/83986</link>
-            <guid>https://www.esquirekorea.co.kr/article/83986</guid>
-            <pubDate>Tue, 06 Feb 2024 03:19:54 GMT</pubDate>
+            <title><![CDATA[COMFORT ZONE - 레드브레스트 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84198</link>
+            <guid>https://www.esquirekorea.co.kr/article/84198</guid>
+            <pubDate>Fri, 09 Feb 2024 03:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[위안을 선사하는 서울의 위스키 바 '바 키안', 그리고 그들이 권하는 레드 브레스트.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국 범죄 영화 속 맛집 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1394,12 +1402,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84141</guid>
             <pubDate>Wed, 07 Feb 2024 09:18:23 GMT</pubDate>
             <content:encoded><![CDATA[위안을 선사하는 서울의 위스키 바 '티앤프루프', 그리고 그들이 권하는 메이커스 마크.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<싱어게인> 과몰입자의 단상 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84117</link>
-            <guid>https://www.esquirekorea.co.kr/article/84117</guid>
-            <pubDate>Tue, 06 Feb 2024 15:18:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[넷플릭스 '오징어 게임' 시즌 2 스틸 이미지 최초 공개 (에스콰이어 코리아 ─ 피플)]]></title>
