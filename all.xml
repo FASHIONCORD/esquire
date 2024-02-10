@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Feb 2024 09:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Feb 2024 15:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1348,6 +1348,13 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 06 Feb 2024 15:18:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[나는 절로? 이색 장소 소개팅 4 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84214</link>
+            <guid>https://www.esquirekorea.co.kr/article/84214</guid>
+            <pubDate>Sat, 10 Feb 2024 15:16:42 GMT</pubDate>
+            <content:encoded><![CDATA['자만추'를 추구하는 솔로라면 주목!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[10만원 이하 연인의 부모님을 위한 설 선물 추천 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84211</link>
             <guid>https://www.esquirekorea.co.kr/article/84211</guid>
@@ -1394,13 +1401,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84162</guid>
             <pubDate>Wed, 07 Feb 2024 15:17:41 GMT</pubDate>
             <content:encoded><![CDATA[7일 수요일 0시 격돌하는 대한민국과 요르단. 요르단전 경기 시작에 앞서 축구 해설위원 임형철...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아시안컵이 열리는 카타르 TMI 12 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84151</link>
-            <guid>https://www.esquirekorea.co.kr/article/84151</guid>
-            <pubDate>Wed, 07 Feb 2024 15:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[신호위반 시 벌금으로 금융 치료가 가능하다고?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[넷플릭스 '오징어 게임' 시즌 2 스틸 이미지 최초 공개 (에스콰이어 코리아 ─ 피플)]]></title>
