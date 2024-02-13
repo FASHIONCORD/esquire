@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2024-02-12T15:19:05.517Z</updated>
+    <updated>2024-02-13T03:20:13.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봄을 위한 리스트]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83973</id>
+        <link href="https://www.esquirekorea.co.kr/article/83973"/>
+        <updated>2024-02-13T03:19:12.049Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봄을 위한 리스트]]></title>
         <id>https://www.esquirekorea.co.kr/article/84037</id>
@@ -52,12 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/83927"/>
         <updated>2024-02-01T15:16:56.143Z</updated>
         <content type="html"><![CDATA[EP. 3]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOOSHIK! WOOSHIK! 열렬한 환호와 함께 아미 쇼장에 입장한 최우식]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83926</id>
-        <link href="https://www.esquirekorea.co.kr/article/83926"/>
-        <updated>2024-01-31T09:16:39.120Z</updated>
-        <content type="html"><![CDATA[EP. 2]]></content>
     </entry>
 </feed>
