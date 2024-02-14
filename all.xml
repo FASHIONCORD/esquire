@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 09:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 15:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1295,6 +1295,13 @@ The New MINI Countryman과 일상에
             <pubDate>Mon, 25 Dec 2023 15:18:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[COMFORT ZONE - 레드브레스트 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84198</link>
+            <guid>https://www.esquirekorea.co.kr/article/84198</guid>
+            <pubDate>Fri, 09 Feb 2024 03:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[위안을 선사하는 서울의 위스키 바 '바 키안', 그리고 그들이 권하는 레드 브레스트.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[PLEASE TRY - 레드브레스트 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/83991</link>
             <guid>https://www.esquirekorea.co.kr/article/83991</guid>
@@ -1341,11 +1348,17 @@ The New MINI Countryman과 일상에
             <pubDate>Wed, 07 Feb 2024 09:18:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[COMFORT ZONE - 메이커스 마크 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84141</link>
-            <guid>https://www.esquirekorea.co.kr/article/84141</guid>
-            <pubDate>Wed, 07 Feb 2024 09:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[위안을 선사하는 서울의 위스키 바 '티앤프루프', 그리고 그들이 권하는 메이커스 마크.]]></content:encoded>
+            <title><![CDATA[에펠탑 조각이 들어갔다고? 2024 파리올림픽 메달 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84221</link>
+            <guid>https://www.esquirekorea.co.kr/article/84221</guid>
+            <pubDate>Wed, 14 Feb 2024 15:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[총 5천84개의 메달이 제작된다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[도파민 중독자인 우리가 '가속노화' 중인 이유 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84216</link>
+            <guid>https://www.esquirekorea.co.kr/article/84216</guid>
+            <pubDate>Wed, 14 Feb 2024 15:18:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[이런 상상 어떻게 해요? 기발한 애니메이션 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1388,19 +1401,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84186</guid>
             <pubDate>Thu, 08 Feb 2024 15:18:44 GMT</pubDate>
             <content:encoded><![CDATA[고즈넉하고 볼거리가 넘치는 도시.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[COMFORT ZONE - 아벨라워 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84165</link>
-            <guid>https://www.esquirekorea.co.kr/article/84165</guid>
-            <pubDate>Wed, 07 Feb 2024 15:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[위안을 선사하는 서울의 위스키 바 '바 밤', 그리고 그들이 권하는 아벨라워.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2023 AFC 카타르 아시안컵 리액션 모음 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84164</link>
-            <guid>https://www.esquirekorea.co.kr/article/84164</guid>
-            <pubDate>Thu, 08 Feb 2024 15:18:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2023 AFC 카타르 아시안컵 4강 진출 (에스콰이어 코리아 ─ 피플)]]></title>
