@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 03:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 09:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1294,6 +1294,13 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 02 Jan 2024 15:18:37 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[CHEERS MATE (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84155</link>
+            <guid>https://www.esquirekorea.co.kr/article/84155</guid>
+            <pubDate>Mon, 19 Feb 2024 09:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[위스키 애호가들이 꼽았다. 곁에 두고 마시고 싶은 보틀 18.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[COMFORT ZONE - 뽐 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84231</link>
             <guid>https://www.esquirekorea.co.kr/article/84231</guid>
@@ -1340,13 +1347,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84185</guid>
             <pubDate>Fri, 09 Feb 2024 09:18:30 GMT</pubDate>
             <content:encoded><![CDATA[떡국을 다양하게 즐기는 방법.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이번 설날에 추천하고 싶은 전통주 칵테일 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84000</link>
-            <guid>https://www.esquirekorea.co.kr/article/84000</guid>
-            <pubDate>Fri, 09 Feb 2024 03:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[전통주 칵테일 바 네 곳의 바텐더들에게 이번 설에 가족과 함께 마시고 싶은 칵테일을 추천받았...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국 영화는 왜 이렇게 빠른 속도로 OTT를 향해 가는가? (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1403,6 +1403,12 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[위안을 선사하는 서울의 위스키 바 '바 키안', 그리고 그들이 권하는 레드 브레스트.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[캐나다 청년 로건이 다녀간 전국 맛집 5 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84290</link>
+            <guid>https://www.esquirekorea.co.kr/article/84290</guid>
+            <pubDate>Mon, 19 Feb 2024 09:18:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[2024 셀럽들의 설날 인사 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84246</link>
             <guid>https://www.esquirekorea.co.kr/article/84246</guid>
@@ -1449,13 +1455,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84099</guid>
             <pubDate>Thu, 08 Feb 2024 09:18:22 GMT</pubDate>
             <content:encoded><![CDATA[게임에 다시, 참여하시겠습니까?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[차은우 첫 솔로 앨범 ‘ENTITY’ 티저 영상 공개 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84094</link>
-            <guid>https://www.esquirekorea.co.kr/article/84094</guid>
-            <pubDate>Wed, 07 Feb 2024 09:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[2월 15일 공개 예정.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024년부터 가격 인상하는 명품 브랜드 리스트 (에스콰이어 코리아 ─ 나우)]]></title>
