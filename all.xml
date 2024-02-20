@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 15:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 03:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1402,6 +1402,20 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[위안을 선사하는 서울의 위스키 바 '바 키안', 그리고 그들이 권하는 레드 브레스트.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[세븐틴 픽 나나투어 이탈리아 맛집 3 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84304</link>
+            <guid>https://www.esquirekorea.co.kr/article/84304</guid>
+            <pubDate>Tue, 20 Feb 2024 03:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[젤라또, 햄버거 그리고 샌드위치까지!]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[자동차만 16대? 켄달 제너 CAR 컬렉션 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84300</link>
+            <guid>https://www.esquirekorea.co.kr/article/84300</guid>
+            <pubDate>Tue, 20 Feb 2024 03:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[초호화 럭셔리 슈퍼카부터 클래식한 빈티지 카까지.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[캐나다 청년 로건이 다녀간 전국 맛집 5 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84290</link>
             <guid>https://www.esquirekorea.co.kr/article/84290</guid>
@@ -1440,20 +1454,6 @@ The New MINI Countryman과 일상에
             <link>https://www.esquirekorea.co.kr/article/84164</link>
             <guid>https://www.esquirekorea.co.kr/article/84164</guid>
             <pubDate>Thu, 15 Feb 2024 03:21:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2023 AFC 카타르 아시안컵 4강 진출 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84109</link>
-            <guid>https://www.esquirekorea.co.kr/article/84109</guid>
-            <pubDate>Mon, 12 Feb 2024 15:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[호주와의 경기에서 1:2 역전승]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 '오징어 게임' 시즌 2 스틸 이미지 최초 공개 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84099</link>
-            <guid>https://www.esquirekorea.co.kr/article/84099</guid>
-            <pubDate>Thu, 08 Feb 2024 09:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[게임에 다시, 참여하시겠습니까?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024년부터 가격 인상하는 명품 브랜드 리스트 (에스콰이어 코리아 ─ 나우)]]></title>
