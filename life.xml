@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2024-02-20T15:17:37.026Z</updated>
+    <updated>2024-02-21T03:19:05.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세븐틴 픽 나나투어 이탈리아 맛집 3]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84304</id>
+        <link href="https://www.esquirekorea.co.kr/article/84304"/>
+        <updated>2024-02-21T03:18:34.293Z</updated>
+        <content type="html"><![CDATA[젤라또, 햄버거 그리고 샌드위치까지!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진화하는 야구의 과학]]></title>
         <id>https://www.esquirekorea.co.kr/article/84289</id>
@@ -50,12 +57,5 @@
         <id>https://www.esquirekorea.co.kr/article/84216</id>
         <link href="https://www.esquirekorea.co.kr/article/84216"/>
         <updated>2024-02-14T15:18:43.315Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이런 상상 어떻게 해요? 기발한 애니메이션]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84215</id>
-        <link href="https://www.esquirekorea.co.kr/article/84215"/>
-        <updated>2024-02-13T03:19:52.333Z</updated>
-        <content type="html"><![CDATA[평범한 일상에 위트를 더하는 앤초폰초, 애니 초이.]]></content>
     </entry>
 </feed>
