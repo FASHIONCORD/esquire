@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2024-02-21T03:19:05.007Z</updated>
+    <updated>2024-02-21T09:20:54.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정말 초콜릿 맞아요?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84305</id>
+        <link href="https://www.esquirekorea.co.kr/article/84305"/>
+        <updated>2024-02-21T09:20:19.207Z</updated>
+        <content type="html"><![CDATA[밸런타인데이를 위해 준비한 이색 초콜릿 4]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴 픽 나나투어 이탈리아 맛집 3]]></title>
         <id>https://www.esquirekorea.co.kr/article/84304</id>
@@ -51,11 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84221"/>
         <updated>2024-02-14T15:18:43.312Z</updated>
         <content type="html"><![CDATA[총 5천84개의 메달이 제작된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도파민 중독자인 우리가 '가속노화' 중인 이유]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84216</id>
-        <link href="https://www.esquirekorea.co.kr/article/84216"/>
-        <updated>2024-02-14T15:18:43.315Z</updated>
     </entry>
 </feed>
