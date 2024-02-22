@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2024-02-22T09:19:31.418Z</updated>
+    <updated>2024-02-22T15:19:33.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BTS 정국의 캘빈클라인 2024 봄 캠페인]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84352</id>
+        <link href="https://www.esquirekorea.co.kr/article/84352"/>
+        <updated>2024-02-22T15:19:07.441Z</updated>
+        <content type="html"><![CDATA[정국이 입대 전 남겨 둔 선물.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이 조합 어떻게 안 보고 그냥 넘어가요]]></title>
         <id>https://www.esquirekorea.co.kr/article/84338</id>
@@ -51,12 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84246"/>
         <updated>2024-02-18T09:17:43.301Z</updated>
         <content type="html"><![CDATA[몬스타엑스부터 투어스까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[락 네이션과 베르사체 파트너십 체결]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84243</id>
-        <link href="https://www.esquirekorea.co.kr/article/84243"/>
-        <updated>2024-02-18T09:17:43.310Z</updated>
-        <content type="html"><![CDATA[2024 슈퍼볼에서 첫 공식행사 선보일 예정.]]></content>
     </entry>
 </feed>
