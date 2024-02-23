@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 15:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 03:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일품 국물, 새조개 샤브샤브 맛집 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37368706&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37368706&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Fri, 23 Feb 2024 03:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMjFfMTc2/MDAxNzA4NDkyMTk5NDIz.9L5A-3Wh9_9O6Fts4hXolmq19rEejk0BDuZ_7O0STdEg.5FKptuw9PXfIBgvLM8ehT-z18Uumlb0Wc4DurCWSbrog.JPEG/I9Uyr1c3IbvKXh64deQ1LhLeNUR4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고기 무한리필 찜질방 3]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37367230&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 12 Jan 2024 09:17:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTBfMTM1/MDAxNzA0ODc0NTcyMDI4.-MCVklImlGc3HeJznqy75u3uTU6KVzis7d_c8anrvSwg.Ai2mnOyZqY8ELbBn5WhRinNE9p4Xr8DeX0OcmUbDFnkg.JPEG/IEuqUkSbOMkNMLXYBs78EJWcKCqE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울에 유독 생각나는, 스위스식 치즈 퐁듀 맛집 4]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37168617&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37168617&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Fri, 12 Jan 2024 03:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTBfMTcx/MDAxNzA0ODczMzk0OTc2.iijldPE_1xaxv7PK1R5fQ-Bsxc24jtSZbFLmg6ZDRxIg.CDD_3ZhzPa5YbspIu6mBKOZZ8_WXi7hS435TqZIC6S8g.JPEG/IIqaJOgdTu7JopkHvycZhJroKFR8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
