@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2024-02-24T09:17:29.294Z</updated>
+    <updated>2024-02-24T15:17:06.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[류현진 한화 이글스 복귀 확정]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84365</id>
+        <link href="https://www.esquirekorea.co.kr/article/84365"/>
+        <updated>2024-02-24T15:16:39.627Z</updated>
+        <content type="html"><![CDATA[4년간 170억원 받는다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Part 2. 엔하이픈이 여전히 더 보여주고 싶다고 말한 것은?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84350</id>
+        <link href="https://www.esquirekorea.co.kr/article/84350"/>
+        <updated>2024-02-24T15:16:39.630Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Part 1. 13개 도시에서 21번의 공연을 마치고 돌아온 엔하이픈이 말하는 성장]]></title>
         <id>https://www.esquirekorea.co.kr/article/84347</id>
@@ -44,18 +57,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84304"/>
         <updated>2024-02-20T03:19:09.990Z</updated>
         <content type="html"><![CDATA[젤라또, 햄버거 그리고 샌드위치까지!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자동차만 16대? 켄달 제너 CAR 컬렉션]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84300</id>
-        <link href="https://www.esquirekorea.co.kr/article/84300"/>
-        <updated>2024-02-20T03:19:09.991Z</updated>
-        <content type="html"><![CDATA[초호화 럭셔리 슈퍼카부터 클래식한 빈티지 카까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐나다 청년 로건이 다녀간 전국 맛집 5]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84290</id>
-        <link href="https://www.esquirekorea.co.kr/article/84290"/>
-        <updated>2024-02-19T09:18:58.467Z</updated>
     </entry>
 </feed>

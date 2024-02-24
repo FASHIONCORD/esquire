@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Feb 2024 09:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 15:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1132,6 +1132,13 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이동욱과 쌤소나이트의 시적 모먼트 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84346</link>
+            <guid>https://www.esquirekorea.co.kr/article/84346</guid>
+            <pubDate>Sat, 24 Feb 2024 15:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[쌤소나이트의 앰배서더인 이동욱에  어린 서정. 모든 순간이 정취로 가득한 여정.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[브루넬로 쿠치넬리(BRUNELLO CUCINELLI), 봄/여름 2024 프레젠테이션 진행 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84344</link>
             <guid>https://www.esquirekorea.co.kr/article/84344</guid>
@@ -1175,13 +1182,6 @@ The New MINI Countryman과 일상에
             <link>https://www.esquirekorea.co.kr/article/84001</link>
             <guid>https://www.esquirekorea.co.kr/article/84001</guid>
             <pubDate>Sun, 18 Feb 2024 09:16:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[화폭 같은 몽클레르 그레노블 24 FW 컬렉션 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84207</link>
-            <guid>https://www.esquirekorea.co.kr/article/84207</guid>
-            <pubDate>Thu, 15 Feb 2024 09:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[몽클레르 그레노블 24 FW 런웨이가 스위스 생모리츠에서 열렸다. 글로벌 앰배서더 황민현이 참석...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오데마 피게와 트래비스 스콧이 만난 이유 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1293,6 +1293,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[역동적인 얼음왕국의 자태.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[정말 초콜릿 맞아요? (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84305</link>
+            <guid>https://www.esquirekorea.co.kr/article/84305</guid>
+            <pubDate>Wed, 21 Feb 2024 09:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[밸런타인데이를 위해 준비한 이색 초콜릿 4]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[세븐틴 픽 나나투어 이탈리아 맛집 3 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84304</link>
             <guid>https://www.esquirekorea.co.kr/article/84304</guid>
@@ -1339,13 +1346,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/83993</guid>
             <pubDate>Thu, 15 Feb 2024 03:21:16 GMT</pubDate>
             <content:encoded><![CDATA[특유의 스모크 향으로 맛의 복잡성이 두드러지는 특별한 위스키, 아드벡의 매력.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[COMFORT ZONE - 레드브레스트 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84198</link>
-            <guid>https://www.esquirekorea.co.kr/article/84198</guid>
-            <pubDate>Fri, 09 Feb 2024 03:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[위안을 선사하는 서울의 위스키 바 '바 키안', 그리고 그들이 권하는 레드 브레스트.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[텍스트만 넣으세요 영상이 만들어집니다 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1403,6 +1403,19 @@ The New MINI Countryman과 일상에
             <pubDate>Tue, 20 Feb 2024 09:18:15 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[류현진 한화 이글스 복귀 확정 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84365</link>
+            <guid>https://www.esquirekorea.co.kr/article/84365</guid>
+            <pubDate>Fri, 23 Feb 2024 03:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[4년간 170억원 받는다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Part 2. 엔하이픈이 여전히 더 보여주고 싶다고 말한 것은? (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84350</link>
+            <guid>https://www.esquirekorea.co.kr/article/84350</guid>
+            <pubDate>Sat, 24 Feb 2024 15:16:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Part 1. 13개 도시에서 21번의 공연을 마치고 돌아온 엔하이픈이 말하는 성장 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84347</link>
             <guid>https://www.esquirekorea.co.kr/article/84347</guid>
@@ -1441,19 +1454,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84304</guid>
             <pubDate>Tue, 20 Feb 2024 03:19:09 GMT</pubDate>
             <content:encoded><![CDATA[젤라또, 햄버거 그리고 샌드위치까지!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[자동차만 16대? 켄달 제너 CAR 컬렉션 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84300</link>
-            <guid>https://www.esquirekorea.co.kr/article/84300</guid>
-            <pubDate>Tue, 20 Feb 2024 03:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[초호화 럭셔리 슈퍼카부터 클래식한 빈티지 카까지.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[캐나다 청년 로건이 다녀간 전국 맛집 5 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84290</link>
-            <guid>https://www.esquirekorea.co.kr/article/84290</guid>
-            <pubDate>Mon, 19 Feb 2024 09:18:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[WOOSHIK! WOOSHIK! 열렬한 환호와 함께 아미 쇼장에 입장한 최우식 (에스콰이어 코리아 ─ 나우)]]></title>
