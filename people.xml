@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2024-02-27T03:20:11.354Z</updated>
+    <updated>2024-02-27T09:20:08.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[태양은 없다, 비트 재개봉! 청담동 부부 리즈시절 모아보기]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84453</id>
+        <link href="https://www.esquirekorea.co.kr/article/84453"/>
+        <updated>2024-02-27T09:19:34.753Z</updated>
+        <content type="html"><![CDATA[이정재, 정우성의 20대 청춘 시절!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴진스 숙소 내부 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84441</id>
+        <link href="https://www.esquirekorea.co.kr/article/84441"/>
+        <updated>2024-02-27T09:19:34.756Z</updated>
+        <content type="html"><![CDATA[각 멤버들이 직접 가구 선택 후 구입했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG 구겐하임 어워드의 첫 수상자 스테파니 딘킨스에게 질문을 던지다]]></title>
         <id>https://www.esquirekorea.co.kr/article/84427</id>
@@ -44,19 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84352"/>
         <updated>2024-02-22T15:19:07.441Z</updated>
         <content type="html"><![CDATA[정국이 입대 전 남겨 둔 선물.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 조합 어떻게 안 보고 그냥 넘어가요]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84338</id>
-        <link href="https://www.esquirekorea.co.kr/article/84338"/>
-        <updated>2024-02-21T09:20:29.296Z</updated>
-        <content type="html"><![CDATA[이 배우가 왜 거기서 나와?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈퍼스타는 슈퍼카만 타요, 비욘세 CAR 컬렉션]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84328</id>
-        <link href="https://www.esquirekorea.co.kr/article/84328"/>
-        <updated>2024-02-20T09:18:53.886Z</updated>
-        <content type="html"><![CDATA[보기만 해도 입이 떡 벌어지는 초호화 슈퍼카.]]></content>
     </entry>
 </feed>

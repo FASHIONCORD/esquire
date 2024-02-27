@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/food</id>
     <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2024-02-27T03:20:11.291Z</updated>
+    <updated>2024-02-27T09:20:08.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국내 최대 규모 1600평 '디저트 신세계' 스위트 파크]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84337</id>
+        <link href="https://www.esquirekorea.co.kr/article/84337"/>
+        <updated>2024-02-27T09:19:17.775Z</updated>
+        <content type="html"><![CDATA[국내 첫 상륙한 디저트 브랜드는?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정말 초콜릿 맞아요?]]></title>
         <id>https://www.esquirekorea.co.kr/article/84305</id>
@@ -52,12 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/83992"/>
         <updated>2024-02-15T09:20:45.347Z</updated>
         <content type="html"><![CDATA['복잡성을 정점까지 끌어올린 위스키'라는 평가에 걸맞는 글렌모렌지의 여정.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PLEASE TRY - 아드벡]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83993</id>
-        <link href="https://www.esquirekorea.co.kr/article/83993"/>
-        <updated>2024-02-15T03:21:16.434Z</updated>
-        <content type="html"><![CDATA[특유의 스모크 향으로 맛의 복잡성이 두드러지는 특별한 위스키, 아드벡의 매력.]]></content>
     </entry>
 </feed>
