@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2024-02-26T15:19:29.512Z</updated>
+    <updated>2024-02-27T03:20:11.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LG 구겐하임 어워드의 첫 수상자 스테파니 딘킨스에게 질문을 던지다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84427</id>
+        <link href="https://www.esquirekorea.co.kr/article/84427"/>
+        <updated>2024-02-27T03:19:32.473Z</updated>
+        <content type="html"><![CDATA[딘킨스가 인공지능의 세계를 먼저 탐험하는 이유에 대하여]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[텍스트만 넣으세요 영상이 만들어집니다]]></title>
         <id>https://www.esquirekorea.co.kr/article/84392</id>
@@ -53,11 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84304"/>
         <updated>2024-02-21T03:18:34.293Z</updated>
         <content type="html"><![CDATA[젤라또, 햄버거 그리고 샌드위치까지!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진화하는 야구의 과학]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84289</id>
-        <link href="https://www.esquirekorea.co.kr/article/84289"/>
-        <updated>2024-02-20T09:18:15.339Z</updated>
     </entry>
 </feed>

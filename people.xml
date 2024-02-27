@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2024-02-26T15:19:29.624Z</updated>
+    <updated>2024-02-27T03:20:11.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LG 구겐하임 어워드의 첫 수상자 스테파니 딘킨스에게 질문을 던지다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84427</id>
+        <link href="https://www.esquirekorea.co.kr/article/84427"/>
+        <updated>2024-02-27T03:19:40.208Z</updated>
+        <content type="html"><![CDATA[딘킨스가 인공지능의 세계를 먼저 탐험하는 이유에 대하여]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티모시X젠데이아, '유퀴즈' 출격]]></title>
         <id>https://www.esquirekorea.co.kr/article/84390</id>
@@ -51,11 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84328"/>
         <updated>2024-02-20T09:18:53.886Z</updated>
         <content type="html"><![CDATA[보기만 해도 입이 떡 벌어지는 초호화 슈퍼카.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프라다를 입고 담은 엔하이픈의 청춘 영화]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84327</id>
-        <link href="https://www.esquirekorea.co.kr/article/84327"/>
-        <updated>2024-02-20T09:18:53.890Z</updated>
     </entry>
 </feed>

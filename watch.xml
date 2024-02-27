@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/watch</id>
     <title>에스콰이어 코리아 ─ 와치</title>
-    <updated>2024-02-26T15:19:30.214Z</updated>
+    <updated>2024-02-27T03:20:11.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 청룡의 해, 용을 품은 시계 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/83646</id>
+        <link href="https://www.esquirekorea.co.kr/article/83646"/>
+        <updated>2024-02-27T03:19:06.541Z</updated>
+        <content type="html"><![CDATA[대담한 용 모티브를 담은 시계를 소개한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오데마 피게와 트래비스 스콧이 만난 이유]]></title>
         <id>https://www.esquirekorea.co.kr/article/83103</id>
@@ -53,12 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/81229"/>
         <updated>2023-12-02T15:16:21.568Z</updated>
         <content type="html"><![CDATA[국내 최대 중고 시계 판매 및 수리 클러스터였던 예지동 시계골목이 재개발로 사라졌다. 시계에...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<시간 소설> (4) '회백질의 복도, 파킨슨의 속도' - 신종원]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81208</id>
-        <link href="https://www.esquirekorea.co.kr/article/81208"/>
-        <updated>2023-12-01T15:19:24.578Z</updated>
-        <content type="html"><![CDATA[네 명의 소설가에게 시간과 시계에 관한 아주 짧은 이야기를 보내달라 부탁했다.]]></content>
     </entry>
 </feed>
