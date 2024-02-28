@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2024-02-28T03:19:57.763Z</updated>
+    <updated>2024-02-28T09:18:19.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트리니티, 벌써 100년]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84492</id>
+        <link href="https://www.esquirekorea.co.kr/article/84492"/>
+        <updated>2024-02-28T09:17:15.283Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로에베가 말하는 아름다움]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84410</id>
+        <link href="https://www.esquirekorea.co.kr/article/84410"/>
+        <updated>2024-02-28T09:17:15.284Z</updated>
+        <content type="html"><![CDATA[낯설고 기묘한 로에베의 미학.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레 가스통 비통, 소년을 닮은 주얼리]]></title>
         <id>https://www.esquirekorea.co.kr/article/84406</id>
@@ -44,19 +57,5 @@
         <id>https://www.esquirekorea.co.kr/article/84428</id>
         <link href="https://www.esquirekorea.co.kr/article/84428"/>
         <updated>2024-02-26T15:18:21.551Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인디언 부족과 함께 만든 퍼렐의 세 번째 루이 비통 컬렉션]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84349</id>
-        <link href="https://www.esquirekorea.co.kr/article/84349"/>
-        <updated>2024-02-25T15:15:38.026Z</updated>
-        <content type="html"><![CDATA[사랑과 행복, 평화와 화합으로 그린 루이 비통 2024 F/W 컬렉션.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동욱과 쌤소나이트의 시적 모먼트]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84346</id>
-        <link href="https://www.esquirekorea.co.kr/article/84346"/>
-        <updated>2024-02-24T15:15:38.153Z</updated>
-        <content type="html"><![CDATA[쌤소나이트의 앰배서더인 이동욱에  어린 서정. 모든 순간이 정취로 가득한 여정.]]></content>
     </entry>
 </feed>

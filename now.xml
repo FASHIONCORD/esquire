@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/now</id>
-    <title>에스콰이어 코리아 ─ 나우</title>
-    <updated>2024-02-28T03:19:57.763Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[WOOSHIK! WOOSHIK! 열렬한 환호와 함께 아미 쇼장에 입장한 최우식]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83926</id>
-        <link href="https://www.esquirekorea.co.kr/article/83926"/>
-        <updated>2024-02-23T09:18:03.674Z</updated>
-        <content type="html"><![CDATA[EP. 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아미 2024 F/W 쇼를 앞두고 호텔 방에서 만난 배우 최우식]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83925</id>
-        <link href="https://www.esquirekorea.co.kr/article/83925"/>
-        <updated>2024-02-23T03:18:35.601Z</updated>
-        <content type="html"><![CDATA[EP. 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 나의 사주팔자? 무료 사주 어플 추천 3]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83748</id>
-        <link href="https://www.esquirekorea.co.kr/article/83748"/>
-        <updated>2024-02-23T03:18:35.602Z</updated>
-        <content type="html"><![CDATA[새해를 맞아 재미로 보는 사주팔자!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년부터 가격 인상하는 명품 브랜드 리스트]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83650</id>
-        <link href="https://www.esquirekorea.co.kr/article/83650"/>
-        <updated>2024-02-06T09:18:58.668Z</updated>
-        <content type="html"><![CDATA[지난해에 이어 올해도 럭셔리 브랜드들의 가격 인상이 이어질 예정이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1월 컴백 데뷔하는 아이돌 리스트]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83618</id>
-        <link href="https://www.esquirekorea.co.kr/article/83618"/>
-        <updated>2024-01-26T03:21:03.648Z</updated>
-        <content type="html"><![CDATA[이달 화려하게 등장할 아이돌은 누구?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국가대표 축구선수 설영우가 애용하는 그루밍 아이템은 무엇?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83556</id>
-        <link href="https://www.esquirekorea.co.kr/article/83556"/>
-        <updated>2024-01-26T03:21:03.649Z</updated>
-        <content type="html"><![CDATA[경기 전에 꼭 사용하는 00도 있다고.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밝고 건강한 남자의 표본, 국가대표 축구선수 설영우의 스킨케어 루틴 공개!]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83555</id>
-        <link href="https://www.esquirekorea.co.kr/article/83555"/>
-        <updated>2024-01-26T03:21:03.664Z</updated>
-        <content type="html"><![CDATA[설영우 선수의 환한 미소는 덤.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국가대표 축구선수 설영우와 랩시리즈가 함께한 화보 공개]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83554</id>
-        <link href="https://www.esquirekorea.co.kr/article/83554"/>
-        <updated>2024-01-19T03:20:56.404Z</updated>
-        <content type="html"><![CDATA[고강도 훈련에도 건강하고 매끈한 피부를 유지하는 비결은?]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 나우</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 28 Feb 2024 09:18:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WOOSHIK! WOOSHIK! 열렬한 환호와 함께 아미 쇼장에 입장한 최우식]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83926</link>
+            <guid>https://www.esquirekorea.co.kr/article/83926</guid>
+            <pubDate>Fri, 23 Feb 2024 09:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[EP. 2]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/26/6f47a2df-4b0c-45e8-acd0-077eac681ba3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아미 2024 F/W 쇼를 앞두고 호텔 방에서 만난 배우 최우식]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83925</link>
+            <guid>https://www.esquirekorea.co.kr/article/83925</guid>
+            <pubDate>Fri, 23 Feb 2024 03:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[EP. 1]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/26/a58c49f2-5aed-4475-8f19-c620b0267ed9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올해 나의 사주팔자? 무료 사주 어플 추천 3]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83748</link>
+            <guid>https://www.esquirekorea.co.kr/article/83748</guid>
+            <pubDate>Fri, 23 Feb 2024 03:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[새해를 맞아 재미로 보는 사주팔자!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/18/950bab15-f5d4-494e-afe2-b9c8220466bb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024년부터 가격 인상하는 명품 브랜드 리스트]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83650</link>
+            <guid>https://www.esquirekorea.co.kr/article/83650</guid>
+            <pubDate>Tue, 06 Feb 2024 09:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[지난해에 이어 올해도 럭셔리 브랜드들의 가격 인상이 이어질 예정이다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/14/ae07987a-3276-47f0-9849-e2c20e60874f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1월 컴백 데뷔하는 아이돌 리스트]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83618</link>
+            <guid>https://www.esquirekorea.co.kr/article/83618</guid>
+            <pubDate>Fri, 26 Jan 2024 03:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[이달 화려하게 등장할 아이돌은 누구?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/11/77347d2f-42b0-4e64-99f4-b11e2d6725d6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국가대표 축구선수 설영우가 애용하는 그루밍 아이템은 무엇?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83556</link>
+            <guid>https://www.esquirekorea.co.kr/article/83556</guid>
+            <pubDate>Fri, 26 Jan 2024 03:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[경기 전에 꼭 사용하는 00도 있다고.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/08/f1491b5e-bc96-4f24-83b7-385201bfecae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밝고 건강한 남자의 표본, 국가대표 축구선수 설영우의 스킨케어 루틴 공개!]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83555</link>
+            <guid>https://www.esquirekorea.co.kr/article/83555</guid>
+            <pubDate>Fri, 26 Jan 2024 03:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[설영우 선수의 환한 미소는 덤.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/08/06536721-5e2e-49ee-b291-cb30066b3f1a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국가대표 축구선수 설영우와 랩시리즈가 함께한 화보 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/83554</link>
+            <guid>https://www.esquirekorea.co.kr/article/83554</guid>
+            <pubDate>Fri, 19 Jan 2024 03:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[고강도 훈련에도 건강하고 매끈한 피부를 유지하는 비결은?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202401/08/b34dc1b7-d1d4-4c06-a0fc-7fe4293e27ad.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
