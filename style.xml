@@ -1,61 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/style</id>
-    <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2024-02-28T09:18:19.992Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[트리니티, 벌써 100년]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84492</id>
-        <link href="https://www.esquirekorea.co.kr/article/84492"/>
-        <updated>2024-02-28T09:17:15.283Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로에베가 말하는 아름다움]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84410</id>
-        <link href="https://www.esquirekorea.co.kr/article/84410"/>
-        <updated>2024-02-28T09:17:15.284Z</updated>
-        <content type="html"><![CDATA[낯설고 기묘한 로에베의 미학.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레 가스통 비통, 소년을 닮은 주얼리]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84406</id>
-        <link href="https://www.esquirekorea.co.kr/article/84406"/>
-        <updated>2024-02-28T03:18:18.641Z</updated>
-        <content type="html"><![CDATA[소년의 호기와 창의력, 루이 비통의 헤리티지가 모두 담긴 파인 주얼리 레 가스통 비통 컬렉션...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어느 날 트위드가 이 계절로 뛰어들었다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84488</id>
-        <link href="https://www.esquirekorea.co.kr/article/84488"/>
-        <updated>2024-02-27T15:17:58.055Z</updated>
-        <content type="html"><![CDATA[남자의 트위드.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자크뮈스 X 레페토 협업 지지 슈즈]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84416</id>
-        <link href="https://www.esquirekorea.co.kr/article/84416"/>
-        <updated>2024-02-27T03:18:57.614Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<듄: 파트2> 속 프레맨이 착용한 시계는 무엇?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84433</id>
-        <link href="https://www.esquirekorea.co.kr/article/84433"/>
-        <updated>2024-02-27T03:18:57.616Z</updated>
-        <content type="html"><![CDATA[현실판 시계도 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피티워모 105에서 눈여겨봐야 할 브랜드 5가지]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84429</id>
-        <link href="https://www.esquirekorea.co.kr/article/84429"/>
-        <updated>2024-02-27T03:18:57.617Z</updated>
-        <content type="html"><![CDATA[이번 피티 워모는 특별 게스트들이 대거 참석했다. 2024년 눈여겨봐야 할 브랜드 5개를 추려봤다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레더의 계절]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84428</id>
-        <link href="https://www.esquirekorea.co.kr/article/84428"/>
-        <updated>2024-02-26T15:18:21.551Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 스타일</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 28 Feb 2024 15:18:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울쎄라 앰배서더 이민호의 '찐'으로 행복한 순간]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84407</link>
+            <guid>https://www.esquirekorea.co.kr/article/84407</guid>
+            <pubDate>Wed, 28 Feb 2024 15:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[울쎄라의 ‘골드 스토리 데이’에서 배우 이민호가 행복을 찾는 본인만의 비법을 털어놨다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/6cb1861a-456a-459f-b180-c6fd3b97124f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트리니티, 벌써 100년]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84492</link>
+            <guid>https://www.esquirekorea.co.kr/article/84492</guid>
+            <pubDate>Wed, 28 Feb 2024 09:17:15 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/76104398-31dd-4f4e-9642-98606cfd3a08.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로에베가 말하는 아름다움]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84410</link>
+            <guid>https://www.esquirekorea.co.kr/article/84410</guid>
+            <pubDate>Wed, 28 Feb 2024 09:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[낯설고 기묘한 로에베의 미학.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/38d3e803-3ef3-4046-af9b-4ba103e61b95.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레 가스통 비통, 소년을 닮은 주얼리]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84406</link>
+            <guid>https://www.esquirekorea.co.kr/article/84406</guid>
+            <pubDate>Wed, 28 Feb 2024 03:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[소년의 호기와 창의력, 루이 비통의 헤리티지가 모두 담긴 파인 주얼리 레 가스통 비통 컬렉션...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/2de6defe-9704-4c4c-95e8-82ae20a8890d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어느 날 트위드가 이 계절로 뛰어들었다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84488</link>
+            <guid>https://www.esquirekorea.co.kr/article/84488</guid>
+            <pubDate>Tue, 27 Feb 2024 15:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[남자의 트위드.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/768a5bab-4a5e-4879-aa15-ee636a4166c0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자크뮈스 X 레페토 협업 지지 슈즈]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84416</link>
+            <guid>https://www.esquirekorea.co.kr/article/84416</guid>
+            <pubDate>Tue, 27 Feb 2024 03:18:57 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/25/2e6a5996-0ae1-446b-a72f-e92ef55cd066.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<듄: 파트2> 속 프레맨이 착용한 시계는 무엇?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84433</link>
+            <guid>https://www.esquirekorea.co.kr/article/84433</guid>
+            <pubDate>Tue, 27 Feb 2024 03:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[현실판 시계도 있다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/23/0c50b37d-aa29-456e-82fc-4e5e4d7a850e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피티워모 105에서 눈여겨봐야 할 브랜드 5가지]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84429</link>
+            <guid>https://www.esquirekorea.co.kr/article/84429</guid>
+            <pubDate>Tue, 27 Feb 2024 03:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[이번 피티 워모는 특별 게스트들이 대거 참석했다. 2024년 눈여겨봐야 할 브랜드 5개를 추려봤다...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/23/f6c35b9f-aa5e-42fa-8562-851ce7483a05.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
