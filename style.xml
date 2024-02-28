@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2024-02-27T15:19:15.885Z</updated>
+    <updated>2024-02-28T03:19:57.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[레 가스통 비통, 소년을 닮은 주얼리]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84406</id>
+        <link href="https://www.esquirekorea.co.kr/article/84406"/>
+        <updated>2024-02-28T03:18:18.641Z</updated>
+        <content type="html"><![CDATA[소년의 호기와 창의력, 루이 비통의 헤리티지가 모두 담긴 파인 주얼리 레 가스통 비통 컬렉션...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어느 날 트위드가 이 계절로 뛰어들었다]]></title>
         <id>https://www.esquirekorea.co.kr/article/84488</id>
@@ -51,12 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84346"/>
         <updated>2024-02-24T15:15:38.153Z</updated>
         <content type="html"><![CDATA[쌤소나이트의 앰배서더인 이동욱에  어린 서정. 모든 순간이 정취로 가득한 여정.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브루넬로 쿠치넬리(BRUNELLO CUCINELLI), 봄/여름 2024 프레젠테이션 진행]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84344</id>
-        <link href="https://www.esquirekorea.co.kr/article/84344"/>
-        <updated>2024-02-23T03:17:47.015Z</updated>
-        <content type="html"><![CDATA[지난 16일, 브루넬로 쿠치넬리 청담 플래그십 스토어에서 새로운 컬렉션을 모델들의 퍼포먼스와 ...]]></content>
     </entry>
 </feed>
