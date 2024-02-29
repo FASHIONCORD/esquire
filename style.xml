@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2024-02-29T03:21:24.430Z</updated>
+    <updated>2024-02-29T09:19:41.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[캘빈클라인과 제니가 함께한 2024년 봄 캠페인 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84514</id>
+        <link href="https://www.esquirekorea.co.kr/article/84514"/>
+        <updated>2024-02-29T09:18:04.006Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[울쎄라 앰배서더 이민호의 '찐'으로 행복한 순간]]></title>
         <id>https://www.esquirekorea.co.kr/article/84407</id>
@@ -51,12 +57,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84433"/>
         <updated>2024-02-27T03:18:57.616Z</updated>
         <content type="html"><![CDATA[현실판 시계도 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피티워모 105에서 눈여겨봐야 할 브랜드 5가지]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84429</id>
-        <link href="https://www.esquirekorea.co.kr/article/84429"/>
-        <updated>2024-02-27T03:18:57.617Z</updated>
-        <content type="html"><![CDATA[이번 피티 워모는 특별 게스트들이 대거 참석했다. 2024년 눈여겨봐야 할 브랜드 5개를 추려봤다...]]></content>
     </entry>
 </feed>
