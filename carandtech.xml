@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/carandtech</id>
     <title>에스콰이어 코리아 ─ 카&amp;테크</title>
-    <updated>2024-02-28T15:18:51.314Z</updated>
+    <updated>2024-02-29T03:21:24.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슈퍼스타는 슈퍼카만 타요, 비욘세 CAR 컬렉션]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84328</id>
+        <link href="https://www.esquirekorea.co.kr/article/84328"/>
+        <updated>2024-02-29T03:20:32.968Z</updated>
+        <content type="html"><![CDATA[보기만 해도 입이 떡 벌어지는 초호화 슈퍼카.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자동차만 16대? 켄달 제너 CAR 컬렉션]]></title>
         <id>https://www.esquirekorea.co.kr/article/84300</id>
@@ -51,12 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/83418"/>
         <updated>2024-02-13T09:17:30.217Z</updated>
         <content type="html"><![CDATA[MKX부터 시작된 럭셔리 SUV의 계보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드디어 공개된 마세라티의 그란투리스모]]></title>
-        <id>https://www.esquirekorea.co.kr/article/83152</id>
-        <link href="https://www.esquirekorea.co.kr/article/83152"/>
-        <updated>2024-02-13T09:17:30.222Z</updated>
-        <content type="html"><![CDATA[진정한 그란투리스모의 시작인 마세라티가 ‘그란투리스모’라는 이름을 단 모델을 발표한 건 역사...]]></content>
     </entry>
 </feed>
