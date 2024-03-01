@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2024-03-01T09:20:23.769Z</updated>
+    <updated>2024-03-01T15:20:07.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스투시, 첫 번째 주얼리 라인 론칭]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84528</id>
+        <link href="https://www.esquirekorea.co.kr/article/84528"/>
+        <updated>2024-03-01T15:18:47.670Z</updated>
+        <content type="html"><![CDATA[이제 주얼리도 '스투시' 하세요]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[품속에 지폐 한 장쯤은 있잖아요? 파리 패션 위크 DAY 1 하이라이트]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84527</id>
+        <link href="https://www.esquirekorea.co.kr/article/84527"/>
+        <updated>2024-03-01T15:18:47.674Z</updated>
+        <content type="html"><![CDATA[화려한 막의 시작은 마리 아담리나트로부터.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밀라노 남성 컬렉션에 울려 퍼진 구찌 앙코라(Ancora)]]></title>
         <id>https://www.esquirekorea.co.kr/article/84408</id>
@@ -44,18 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84406"/>
         <updated>2024-02-28T03:18:18.641Z</updated>
         <content type="html"><![CDATA[소년의 호기와 창의력, 루이 비통의 헤리티지가 모두 담긴 파인 주얼리 레 가스통 비통 컬렉션...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어느 날 트위드가 이 계절로 뛰어들었다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84488</id>
-        <link href="https://www.esquirekorea.co.kr/article/84488"/>
-        <updated>2024-02-27T15:17:58.055Z</updated>
-        <content type="html"><![CDATA[남자의 트위드.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자크뮈스 X 레페토 협업 지지 슈즈]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84416</id>
-        <link href="https://www.esquirekorea.co.kr/article/84416"/>
-        <updated>2024-02-27T03:18:57.614Z</updated>
     </entry>
 </feed>
