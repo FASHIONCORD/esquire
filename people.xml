@@ -1,73 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 피플</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 02 Mar 2024 03:18:55 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[해리포터 드라마 2026년 제작 확정, 호그와트 입학 조건]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84515</link>
-            <guid>https://www.esquirekorea.co.kr/article/84515</guid>
-            <pubDate>Fri, 01 Mar 2024 09:20:06 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/d3941c6a-7f71-40bd-9cff-eb672f045033.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캘빈클라인과 제니가 함께한 2024년 봄 캠페인 공개]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84514</link>
-            <guid>https://www.esquirekorea.co.kr/article/84514</guid>
-            <pubDate>Fri, 01 Mar 2024 09:20:06 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/4e37aa97-7170-4c91-b167-80d2c7a40757.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대한민국 축구대표팀 임시 감독 '황선홍' 선임]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84503</link>
-            <guid>https://www.esquirekorea.co.kr/article/84503</guid>
-            <pubDate>Fri, 01 Mar 2024 09:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[앞으로 축구대표팀의 미래는 어떻게 될까요?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/c982c961-b403-4d2b-a8f1-9b0d34dc6467.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성난 사람들 시즌 2 과연 나올까?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84502</link>
-            <guid>https://www.esquirekorea.co.kr/article/84502</guid>
-            <pubDate>Fri, 01 Mar 2024 09:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[대니와 에이미의 케미를 다시 볼 수 있을까?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/6b2df9a0-3b83-400a-a526-776a3080482a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유튜버 채코제가 올해 안식년을 갖기로 한 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84409</link>
-            <guid>https://www.esquirekorea.co.kr/article/84409</guid>
-            <pubDate>Tue, 27 Feb 2024 15:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[지난 5년간 세계 곳곳을 쏘다닌 여행 유튜버 채코제는 올해를 안식년으로 삼았다고 했다. 여행을...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/c0cb9b17-d6eb-4b03-a6de-92ea7d9cd29d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계에서 가장 잘생긴 축구선수는?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84475</link>
-            <guid>https://www.esquirekorea.co.kr/article/84475</guid>
-            <pubDate>Tue, 27 Feb 2024 15:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[1위는 베컴, 손흥민은?]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/26/80cc0b9d-696e-447f-afc6-9c5f42021545.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리에이터 ‘파블로 로챗’의 요리 콘텐츠 5]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84454</link>
-            <guid>https://www.esquirekorea.co.kr/article/84454</guid>
-            <pubDate>Tue, 27 Feb 2024 15:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[요리인 듯 요리 아닌 요리 같은 너]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/24/bea6daca-0d4a-4fe2-9f25-804f5c1f6753.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태양은 없다, 비트 재개봉! 청담동 부부 리즈시절 모아보기]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84453</link>
-            <guid>https://www.esquirekorea.co.kr/article/84453</guid>
-            <pubDate>Tue, 27 Feb 2024 09:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[이정재, 정우성의 20대 청춘 시절!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/24/d9a96308-371b-49e7-98a2-e0ac2c94833e.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/people</id>
+    <title>에스콰이어 코리아 ─ 피플</title>
+    <updated>2024-03-02T09:17:08.965Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해리포터 드라마 2026년 제작 확정, 호그와트 입학 조건]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84515</id>
+        <link href="https://www.esquirekorea.co.kr/article/84515"/>
+        <updated>2024-03-01T09:20:06.471Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캘빈클라인과 제니가 함께한 2024년 봄 캠페인 공개]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84514</id>
+        <link href="https://www.esquirekorea.co.kr/article/84514"/>
+        <updated>2024-03-01T09:20:06.476Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대한민국 축구대표팀 임시 감독 '황선홍' 선임]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84503</id>
+        <link href="https://www.esquirekorea.co.kr/article/84503"/>
+        <updated>2024-03-01T09:20:06.480Z</updated>
+        <content type="html"><![CDATA[앞으로 축구대표팀의 미래는 어떻게 될까요?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성난 사람들 시즌 2 과연 나올까?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84502</id>
+        <link href="https://www.esquirekorea.co.kr/article/84502"/>
+        <updated>2024-03-01T09:20:06.480Z</updated>
+        <content type="html"><![CDATA[대니와 에이미의 케미를 다시 볼 수 있을까?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유튜버 채코제가 올해 안식년을 갖기로 한 이유]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84409</id>
+        <link href="https://www.esquirekorea.co.kr/article/84409"/>
+        <updated>2024-02-27T15:18:56.750Z</updated>
+        <content type="html"><![CDATA[지난 5년간 세계 곳곳을 쏘다닌 여행 유튜버 채코제는 올해를 안식년으로 삼았다고 했다. 여행을...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세계에서 가장 잘생긴 축구선수는?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84475</id>
+        <link href="https://www.esquirekorea.co.kr/article/84475"/>
+        <updated>2024-02-27T15:18:56.751Z</updated>
+        <content type="html"><![CDATA[1위는 베컴, 손흥민은?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리에이터 ‘파블로 로챗’의 요리 콘텐츠 5]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84454</id>
+        <link href="https://www.esquirekorea.co.kr/article/84454"/>
+        <updated>2024-02-27T15:18:56.753Z</updated>
+        <content type="html"><![CDATA[요리인 듯 요리 아닌 요리 같은 너]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태양은 없다, 비트 재개봉! 청담동 부부 리즈시절 모아보기]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84453</id>
+        <link href="https://www.esquirekorea.co.kr/article/84453"/>
+        <updated>2024-02-27T09:19:34.753Z</updated>
+        <content type="html"><![CDATA[이정재, 정우성의 20대 청춘 시절!]]></content>
+    </entry>
+</feed>
