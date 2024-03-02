@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2024-03-02T09:17:08.972Z</updated>
+    <updated>2024-03-02T15:17:42.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한 편의 수필 같은 루이비통의 봄]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84439</id>
+        <link href="https://www.esquirekorea.co.kr/article/84439"/>
+        <updated>2024-03-02T15:16:29.531Z</updated>
+        <content type="html"><![CDATA[선율처럼 흐르는 청춘의 막간에서]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스투시, 첫 번째 주얼리 라인 론칭]]></title>
         <id>https://www.esquirekorea.co.kr/article/84528</id>
@@ -51,12 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84410"/>
         <updated>2024-02-28T09:17:15.284Z</updated>
         <content type="html"><![CDATA[낯설고 기묘한 로에베의 미학.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레 가스통 비통, 소년을 닮은 주얼리]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84406</id>
-        <link href="https://www.esquirekorea.co.kr/article/84406"/>
-        <updated>2024-02-28T03:18:18.641Z</updated>
-        <content type="html"><![CDATA[소년의 호기와 창의력, 루이 비통의 헤리티지가 모두 담긴 파인 주얼리 레 가스통 비통 컬렉션...]]></content>
     </entry>
 </feed>

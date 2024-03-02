@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Mar 2024 09:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 15:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1132,6 +1132,13 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한 편의 수필 같은 루이비통의 봄 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84439</link>
+            <guid>https://www.esquirekorea.co.kr/article/84439</guid>
+            <pubDate>Sat, 02 Mar 2024 15:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[선율처럼 흐르는 청춘의 막간에서]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[스투시, 첫 번째 주얼리 라인 론칭 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84528</link>
             <guid>https://www.esquirekorea.co.kr/article/84528</guid>
@@ -1177,13 +1184,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84410</guid>
             <pubDate>Wed, 28 Feb 2024 09:17:15 GMT</pubDate>
             <content:encoded><![CDATA[낯설고 기묘한 로에베의 미학.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[레 가스통 비통, 소년을 닮은 주얼리 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84406</link>
-            <guid>https://www.esquirekorea.co.kr/article/84406</guid>
-            <pubDate>Wed, 28 Feb 2024 03:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[소년의 호기와 창의력, 루이 비통의 헤리티지가 모두 담긴 파인 주얼리 레 가스통 비통 컬렉션...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 청룡의 해, 용을 품은 시계 4 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1296,6 +1296,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[MKX부터 시작된 럭셔리 SUV의 계보]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2024 부산 미쉐린 가이드 최초 공개 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84440</link>
+            <guid>https://www.esquirekorea.co.kr/article/84440</guid>
+            <pubDate>Sat, 02 Mar 2024 15:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[부산에서도 미쉐린 레스토랑을 만나볼 수 있다고?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[홍콩인 친구가 추천한 홍콩 진짜 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84435</link>
             <guid>https://www.esquirekorea.co.kr/article/84435</guid>
@@ -1342,13 +1349,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84288</guid>
             <pubDate>Tue, 20 Feb 2024 09:18:08 GMT</pubDate>
             <content:encoded><![CDATA[Real or Cake?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[CHEERS MATE (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84155</link>
-            <guid>https://www.esquirekorea.co.kr/article/84155</guid>
-            <pubDate>Mon, 19 Feb 2024 09:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[위스키 애호가들이 꼽았다. 곁에 두고 마시고 싶은 보틀 18.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[해리포터 드라마 2026년 제작 확정, 호그와트 입학 조건 (에스콰이어 코리아 ─ 라이프)]]></title>
