@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2024-03-03T03:19:19.334Z</updated>
+    <updated>2024-03-03T09:17:51.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올인원 스피커는 왜 새삼 부흥하고 있는 걸까?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84415</id>
+        <link href="https://www.esquirekorea.co.kr/article/84415"/>
+        <updated>2024-03-03T09:17:21.837Z</updated>
+        <content type="html"><![CDATA[‘올인원 스피커’라는 형식을 더는 무시할 수가 없는 이유.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해리포터 드라마 2026년 제작 확정, 호그와트 입학 조건]]></title>
         <id>https://www.esquirekorea.co.kr/article/84515</id>
@@ -52,12 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84435"/>
         <updated>2024-02-27T09:19:27.084Z</updated>
         <content type="html"><![CDATA[한국 포털 사이트에 검색해도 정보가 몇 없다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<듄: 파트2> 속 프레맨이 착용한 시계는 무엇?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84433</id>
-        <link href="https://www.esquirekorea.co.kr/article/84433"/>
-        <updated>2024-02-27T09:19:27.084Z</updated>
-        <content type="html"><![CDATA[현실판 시계도 있다.]]></content>
     </entry>
 </feed>
