@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/watch</id>
     <title>에스콰이어 코리아 ─ 와치</title>
-    <updated>2024-03-04T11:11:33.845Z</updated>
+    <updated>2024-03-04T15:20:20.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봄을 위한 리스트]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84037</id>
+        <link href="https://www.esquirekorea.co.kr/article/84037"/>
+        <updated>2024-03-04T15:19:02.363Z</updated>
+        <content type="html"><![CDATA[빛나는 날들, 새로운 물건.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 청룡의 해, 용을 품은 시계 4]]></title>
         <id>https://www.esquirekorea.co.kr/article/83646</id>
@@ -53,12 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/81502"/>
         <updated>2023-12-22T09:18:28.290Z</updated>
         <content type="html"><![CDATA[강렬하고 분명한 디자인, J12라는 아름다운 세계.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 '빈티지 워치' 문화는 지금 어디쯤 와 있을까?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/81229</id>
-        <link href="https://www.esquirekorea.co.kr/article/81229"/>
-        <updated>2023-12-02T15:16:21.568Z</updated>
-        <content type="html"><![CDATA[국내 최대 중고 시계 판매 및 수리 클러스터였던 예지동 시계골목이 재개발로 사라졌다. 시계에...]]></content>
     </entry>
 </feed>
