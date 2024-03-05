@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2024-03-04T15:20:20.427Z</updated>
+    <updated>2024-03-05T03:20:48.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피아니스트 조성진 첫 마스터 클래스 오픈]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84577</id>
+        <link href="https://www.esquirekorea.co.kr/article/84577"/>
+        <updated>2024-03-05T03:20:29.766Z</updated>
+        <content type="html"><![CDATA[신청은 3월 31일까지.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['파묘' 본 사람? 풍수지리 모음 10]]></title>
         <id>https://www.esquirekorea.co.kr/article/84576</id>
@@ -51,12 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84409"/>
         <updated>2024-02-27T15:18:56.750Z</updated>
         <content type="html"><![CDATA[지난 5년간 세계 곳곳을 쏘다닌 여행 유튜버 채코제는 올해를 안식년으로 삼았다고 했다. 여행을...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계에서 가장 잘생긴 축구선수는?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84475</id>
-        <link href="https://www.esquirekorea.co.kr/article/84475"/>
-        <updated>2024-02-27T15:18:56.751Z</updated>
-        <content type="html"><![CDATA[1위는 베컴, 손흥민은?]]></content>
     </entry>
 </feed>
