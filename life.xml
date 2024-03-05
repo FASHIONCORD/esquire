@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2024-03-05T09:18:16.658Z</updated>
+    <updated>2024-03-05T15:18:56.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[결혼식장 대관료 무료? 서울 민간 예식장 4]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84580</id>
+        <link href="https://www.esquirekorea.co.kr/article/84580"/>
+        <updated>2024-03-05T15:18:29.564Z</updated>
+        <content type="html"><![CDATA[비용은 내리고 분위기 올리고!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샌프란시스코 자이언츠 이정후 첫 홈런]]></title>
         <id>https://www.esquirekorea.co.kr/article/84578</id>
@@ -52,12 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84502"/>
         <updated>2024-03-01T09:19:57.287Z</updated>
         <content type="html"><![CDATA[대니와 에이미의 케미를 다시 볼 수 있을까?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파묘에 숨은 이야기 대방출]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84486</id>
-        <link href="https://www.esquirekorea.co.kr/article/84486"/>
-        <updated>2024-02-29T15:18:50.417Z</updated>
-        <content type="html"><![CDATA[스포주의]]></content>
     </entry>
 </feed>
