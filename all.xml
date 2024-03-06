@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 03:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 09:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1244,6 +1244,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[강렬하고 분명한 디자인, J12라는 아름다운 세계.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[싱가포르에서 만난 포르쉐 마칸 일렉트릭의 비밀 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84544</link>
+            <guid>https://www.esquirekorea.co.kr/article/84544</guid>
+            <pubDate>Wed, 06 Mar 2024 09:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[매번 남들과는 다른 꿈을 꾸는 포르쉐가 싱가포르에서 마칸 일렉트릭을 공개했다. 자사 두 번째...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[올인원 스피커는 왜 새삼 부흥하고 있는 걸까? (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84415</link>
             <guid>https://www.esquirekorea.co.kr/article/84415</guid>
@@ -1290,13 +1297,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84250</guid>
             <pubDate>Wed, 28 Feb 2024 03:18:38 GMT</pubDate>
             <content:encoded><![CDATA[테슬라 판매량 꺾은 중국 1위 전기차.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[조종사 없는 ‘에어택시’ 성큼 다가왔다 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84249</link>
-            <guid>https://www.esquirekorea.co.kr/article/84249</guid>
-            <pubDate>Tue, 27 Feb 2024 03:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[‘혼합 현실’ 시험 비행 성공.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 부산 미쉐린 가이드 최초 공개 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1354,6 +1354,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[Real or Cake?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[도파민 디톡스 필요한 사람? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84588</link>
+            <guid>https://www.esquirekorea.co.kr/article/84588</guid>
+            <pubDate>Wed, 06 Mar 2024 09:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[1분만 스마트폰이 없어도 불안하다면 주목!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[결혼식장 대관료 무료? 서울 민간 예식장 4 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84580</link>
             <guid>https://www.esquirekorea.co.kr/article/84580</guid>
@@ -1400,13 +1407,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84503</guid>
             <pubDate>Fri, 01 Mar 2024 09:19:57 GMT</pubDate>
             <content:encoded><![CDATA[앞으로 축구대표팀의 미래는 어떻게 될까요?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[성난 사람들 시즌 2 과연 나올까? (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84502</link>
-            <guid>https://www.esquirekorea.co.kr/article/84502</guid>
-            <pubDate>Fri, 01 Mar 2024 09:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[대니와 에이미의 케미를 다시 볼 수 있을까?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[피아니스트 조성진 첫 마스터 클래스 오픈 (에스콰이어 코리아 ─ 피플)]]></title>

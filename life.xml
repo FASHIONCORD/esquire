@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2024-03-06T03:19:04.056Z</updated>
+    <updated>2024-03-06T09:19:02.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도파민 디톡스 필요한 사람?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84588</id>
+        <link href="https://www.esquirekorea.co.kr/article/84588"/>
+        <updated>2024-03-06T09:18:23.971Z</updated>
+        <content type="html"><![CDATA[1분만 스마트폰이 없어도 불안하다면 주목!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[결혼식장 대관료 무료? 서울 민간 예식장 4]]></title>
         <id>https://www.esquirekorea.co.kr/article/84580</id>
@@ -52,12 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84503"/>
         <updated>2024-03-01T09:19:57.286Z</updated>
         <content type="html"><![CDATA[앞으로 축구대표팀의 미래는 어떻게 될까요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성난 사람들 시즌 2 과연 나올까?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84502</id>
-        <link href="https://www.esquirekorea.co.kr/article/84502"/>
-        <updated>2024-03-01T09:19:57.287Z</updated>
-        <content type="html"><![CDATA[대니와 에이미의 케미를 다시 볼 수 있을까?]]></content>
     </entry>
 </feed>
