@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 09:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 15:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1132,6 +1132,13 @@ The New MINI Countryman과 일상에
             <enclosure url="https://post-phinf.pstatic.net/MjAxODExMTVfMjQ5/MDAxNTQyMjQ5MTUzMjQ2.6nbj-p80M-ts6RIHb-O-FSTE5agATnxw68l0iaAPjhsg.Qy9aIE2IfQi8ETdiJdmedr00PdsSaOvuHKlQQ8PwEO0g.JPEG/I7WHvomhAcTD4aE2Xvt3y15uxG0U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[봄, 새벽, 에르메스 (에스콰이어 코리아 ─ 스타일)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84556</link>
+            <guid>https://www.esquirekorea.co.kr/article/84556</guid>
+            <pubDate>Wed, 06 Mar 2024 15:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[천천히, 아주 고요하게 흐르는 에르메스의 시간.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[끌로에의 새로운 얼굴? 파리 패션 위크 DAY 4 하이라이트 (에스콰이어 코리아 ─ 스타일)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84590</link>
             <guid>https://www.esquirekorea.co.kr/article/84590</guid>
@@ -1179,13 +1186,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84565</guid>
             <pubDate>Sun, 03 Mar 2024 15:18:08 GMT</pubDate>
             <content:encoded><![CDATA[파리의 빅 쇼에서 빼놓을 수 없는 셀럽들의 등장.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한 편의 수필 같은 루이비통의 봄 (에스콰이어 코리아 ─ 스타일)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84439</link>
-            <guid>https://www.esquirekorea.co.kr/article/84439</guid>
-            <pubDate>Sat, 02 Mar 2024 15:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[선율처럼 흐르는 청춘의 막간에서]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[봄을 위한 리스트 (에스콰이어 코리아 ─ 와치)]]></title>
@@ -1244,6 +1244,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[강렬하고 분명한 디자인, J12라는 아름다운 세계.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[도파민 디톡스 필요한 사람? (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84588</link>
+            <guid>https://www.esquirekorea.co.kr/article/84588</guid>
+            <pubDate>Wed, 06 Mar 2024 09:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[1분만 스마트폰이 없어도 불안하다면 주목!]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[싱가포르에서 만난 포르쉐 마칸 일렉트릭의 비밀 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84544</link>
             <guid>https://www.esquirekorea.co.kr/article/84544</guid>
@@ -1290,13 +1297,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84300</guid>
             <pubDate>Wed, 28 Feb 2024 15:18:05 GMT</pubDate>
             <content:encoded><![CDATA[초호화 럭셔리 슈퍼카부터 클래식한 빈티지 카까지.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BYD 전기 승용차 3분기 국내 출시 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84250</link>
-            <guid>https://www.esquirekorea.co.kr/article/84250</guid>
-            <pubDate>Wed, 28 Feb 2024 03:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[테슬라 판매량 꺾은 중국 1위 전기차.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 부산 미쉐린 가이드 최초 공개 (에스콰이어 코리아 ─ 푸드)]]></title>
