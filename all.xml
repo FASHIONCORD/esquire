@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 09:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 15:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1244,6 +1244,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[강렬하고 분명한 디자인, J12라는 아름다운 세계.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[상반기 출시 예정 자동차 6대 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84635</link>
+            <guid>https://www.esquirekorea.co.kr/article/84635</guid>
+            <pubDate>Thu, 07 Mar 2024 15:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[구경은 공짜니까요]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[복제된 강아지는 당신이 사랑한 그 강아지가 아니다 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84626</link>
             <guid>https://www.esquirekorea.co.kr/article/84626</guid>
@@ -1289,13 +1296,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84392</guid>
             <pubDate>Sun, 03 Mar 2024 09:17:04 GMT</pubDate>
             <content:encoded><![CDATA[글만 쓰면 영상이 뚝딱]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼스타는 슈퍼카만 타요, 비욘세 CAR 컬렉션 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84328</link>
-            <guid>https://www.esquirekorea.co.kr/article/84328</guid>
-            <pubDate>Thu, 29 Feb 2024 03:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[보기만 해도 입이 떡 벌어지는 초호화 슈퍼카.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2024 부산 미쉐린 가이드 최초 공개 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1353,6 +1353,19 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[Real or Cake?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2024 파리 하계 올림픽 공식 포스터 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84645</link>
+            <guid>https://www.esquirekorea.co.kr/article/84645</guid>
+            <pubDate>Thu, 07 Mar 2024 15:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[올림픽과 패럴림픽의 구분없이 하나로 완성했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[지상 최고의 에메랄드 빛 천국도! 몰디브 VLOG (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84644</link>
+            <guid>https://www.esquirekorea.co.kr/article/84644</guid>
+            <pubDate>Thu, 07 Mar 2024 15:17:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[도파민 디톡스 필요한 사람? (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84588</link>
             <guid>https://www.esquirekorea.co.kr/article/84588</guid>
@@ -1393,19 +1406,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84415</guid>
             <pubDate>Sun, 03 Mar 2024 09:17:21 GMT</pubDate>
             <content:encoded><![CDATA[‘올인원 스피커’라는 형식을 더는 무시할 수가 없는 이유.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[해리포터 드라마 2026년 제작 확정, 호그와트 입학 조건 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84515</link>
-            <guid>https://www.esquirekorea.co.kr/article/84515</guid>
-            <pubDate>Fri, 01 Mar 2024 09:19:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[대한민국 축구대표팀 임시 감독 '황선홍' 선임 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84503</link>
-            <guid>https://www.esquirekorea.co.kr/article/84503</guid>
-            <pubDate>Fri, 01 Mar 2024 09:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[앞으로 축구대표팀의 미래는 어떻게 될까요?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이거 응원봉 맞아요? 아이돌 응원봉 9 (에스콰이어 코리아 ─ 피플)]]></title>
