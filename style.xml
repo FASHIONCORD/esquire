@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2024-03-08T09:18:33.710Z</updated>
+    <updated>2024-03-08T15:19:17.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남자를 위한 새로운 스킨케어 솔루션]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84557</id>
+        <link href="https://www.esquirekorea.co.kr/article/84557"/>
+        <updated>2024-03-08T15:17:54.500Z</updated>
+        <content type="html"><![CDATA[더 완벽해진 소바쥬 토탈 그루밍 컬렉션이 출시되었다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오아시 제냐로 가는 길]]></title>
         <id>https://www.esquirekorea.co.kr/article/84413</id>
@@ -53,12 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84421"/>
         <updated>2024-03-03T15:18:08.508Z</updated>
         <content type="html"><![CDATA[커다란 가방이 가진 타고난 실용과 투박한 아름다움을 다시 예찬한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[펜디 2024 F/W 남성 컬렉션과 이민호]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84495</id>
-        <link href="https://www.esquirekorea.co.kr/article/84495"/>
-        <updated>2024-03-03T15:18:08.509Z</updated>
-        <content type="html"><![CDATA[펜디의 2024 F/W 시즌 남성 컬렉션을 찾은 앰배서더 이민호는 밀라노에서도 어김없이 빛났다.]]></content>
     </entry>
 </feed>
