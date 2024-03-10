@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Mar 2024 03:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Mar 2024 09:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1353,11 +1353,28 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[Real or Cake?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Y2K는 가라! 새 2000년 감성 프루티거 에어로 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84697</link>
+            <guid>https://www.esquirekorea.co.kr/article/84697</guid>
+            <pubDate>Sun, 10 Mar 2024 09:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[윈도우 비스타 아니야?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/07/ca386e5a-20bb-4914-b023-0e1f69d0a488.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트럼프가 돌아온다? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84666</link>
+            <guid>https://www.esquirekorea.co.kr/article/84666</guid>
+            <pubDate>Sun, 10 Mar 2024 09:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[슈퍼 화요일 압승]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/06/96b56122-ed4d-4363-a018-a559d22558db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[애틀랜타에서 목도한 델타항공의 과거, 현재 그리고 미래 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84419</link>
             <guid>https://www.esquirekorea.co.kr/article/84419</guid>
             <pubDate>Fri, 08 Mar 2024 15:18:37 GMT</pubDate>
             <content:encoded><![CDATA[애틀랜타까지 날아가 직접 목도한 델타항공의 과거, 현재 그리고 미래.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/06/4e94223b-e6dd-4756-8d27-706cfb05ade3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[패스트 라이브즈 보기 전 필독! (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1365,6 +1382,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84652</guid>
             <pubDate>Fri, 08 Mar 2024 15:18:37 GMT</pubDate>
             <content:encoded><![CDATA[이런 영화 또 없습니다]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/05/0b5ff914-d882-41dd-b967-c8f8c813efb4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2024 파리 하계 올림픽 공식 포스터 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1372,12 +1390,14 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84645</guid>
             <pubDate>Thu, 07 Mar 2024 15:17:55 GMT</pubDate>
             <content:encoded><![CDATA[올림픽과 패럴림픽의 구분없이 하나로 완성했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/05/02d160ec-51d4-41a0-960d-2faba9a0fdf0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지상 최고의 에메랄드 빛 천국도! 몰디브 VLOG (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84644</link>
             <guid>https://www.esquirekorea.co.kr/article/84644</guid>
             <pubDate>Thu, 07 Mar 2024 15:17:55 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/05/18f67903-d29b-4fe0-a1aa-7d81d29c0c05.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도파민 디톡스 필요한 사람? (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1385,6 +1405,7 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84588</guid>
             <pubDate>Wed, 06 Mar 2024 09:18:23 GMT</pubDate>
             <content:encoded><![CDATA[1분만 스마트폰이 없어도 불안하다면 주목!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/03/64cbf11b-c68f-45d2-bbf4-c71cf91ac4a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[결혼식장 대관료 무료? 서울 민간 예식장 4 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1392,20 +1413,14 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84580</guid>
             <pubDate>Tue, 05 Mar 2024 15:18:29 GMT</pubDate>
             <content:encoded><![CDATA[비용은 내리고 분위기 올리고!]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/01/f5edac99-d9a0-47d9-9340-6ab0d04a226e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[샌프란시스코 자이언츠 이정후 첫 홈런 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84578</link>
-            <guid>https://www.esquirekorea.co.kr/article/84578</guid>
-            <pubDate>Tue, 05 Mar 2024 09:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[두 번째 시범경기에서 첫 홈런을 터뜨렸다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['파묘' 본 사람? 풍수지리 모음 10 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84576</link>
-            <guid>https://www.esquirekorea.co.kr/article/84576</guid>
-            <pubDate>Mon, 04 Mar 2024 03:48:01 GMT</pubDate>
-            <content:encoded><![CDATA[믿거나 말거나!]]></content:encoded>
+            <title><![CDATA['전국노래자랑' MC 자리 남희석 발탁 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84636</link>
+            <guid>https://www.esquirekorea.co.kr/article/84636</guid>
+            <pubDate>Sun, 10 Mar 2024 09:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[첫방송은 3월 31일.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[차은우 우산 남신 등극, 대한민국 3대 우산 등장신 (에스콰이어 코리아 ─ 피플)]]></title>
@@ -1453,12 +1468,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84516</guid>
             <pubDate>Mon, 04 Mar 2024 03:48:01 GMT</pubDate>
             <content:encoded><![CDATA[싸이 ‘강남스타일’ 이후 10년 만에 이름을 올린 아티스트]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[해리포터 드라마 2026년 제작 확정, 호그와트 입학 조건 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84515</link>
-            <guid>https://www.esquirekorea.co.kr/article/84515</guid>
-            <pubDate>Fri, 01 Mar 2024 09:19:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[아시안컵이 열리는 카타르 TMI 12 (에스콰이어 코리아 ─ 나우)]]></title>
