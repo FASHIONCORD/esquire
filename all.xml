@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 09:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 15:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1298,6 +1298,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[글만 쓰면 영상이 뚝딱]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[크리에이터 ‘파블로 로챗’의 요리 콘텐츠 5 (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84454</link>
+            <guid>https://www.esquirekorea.co.kr/article/84454</guid>
+            <pubDate>Mon, 11 Mar 2024 15:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[요리인 듯 요리 아닌 요리 같은 너]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2024 부산 미쉐린 가이드 최초 공개 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84440</link>
             <guid>https://www.esquirekorea.co.kr/article/84440</guid>
@@ -1344,13 +1351,6 @@ The New MINI Countryman과 일상에
             <link>https://www.esquirekorea.co.kr/article/84290</link>
             <guid>https://www.esquirekorea.co.kr/article/84290</guid>
             <pubDate>Mon, 19 Feb 2024 09:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[특별한 밸런타인 데이 케이크 추천 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84288</link>
-            <guid>https://www.esquirekorea.co.kr/article/84288</guid>
-            <pubDate>Tue, 20 Feb 2024 09:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[Real or Cake?]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[너무 예뻐 자꾸 운동이 하고 싶어지는 피트니스 기구 (에스콰이어 코리아 ─ 라이프)]]></title>
