@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 09:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 15:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1242,6 +1242,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[런더너 마카오의 밤을 빛낸 84개의 시계, 그리고 이틀간의 워치 클래스.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[F1을 재미있게 보는 꿀팁 대방출 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84637</link>
+            <guid>https://www.esquirekorea.co.kr/article/84637</guid>
+            <pubDate>Tue, 12 Mar 2024 15:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[아는 만큼 보인다]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[상반기 출시 예정 자동차 6대 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84635</link>
             <guid>https://www.esquirekorea.co.kr/article/84635</guid>
@@ -1287,13 +1294,6 @@ The New MINI Countryman과 일상에
             <link>https://www.esquirekorea.co.kr/article/84418</link>
             <guid>https://www.esquirekorea.co.kr/article/84418</guid>
             <pubDate>Tue, 05 Mar 2024 03:20:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[텍스트만 넣으세요 영상이 만들어집니다 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84392</link>
-            <guid>https://www.esquirekorea.co.kr/article/84392</guid>
-            <pubDate>Sun, 03 Mar 2024 09:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[글만 쓰면 영상이 뚝딱]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[크리에이터 ‘파블로 로챗’의 요리 콘텐츠 5 (에스콰이어 코리아 ─ 푸드)]]></title>
@@ -1351,6 +1351,18 @@ The New MINI Countryman과 일상에
             <pubDate>Mon, 19 Feb 2024 09:18:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[약사는 어떤 영양제를 먹는가? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84721</link>
+            <guid>https://www.esquirekorea.co.kr/article/84721</guid>
+            <pubDate>Tue, 12 Mar 2024 15:18:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[오래 살아남는 신조어의 조건 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84720</link>
+            <guid>https://www.esquirekorea.co.kr/article/84720</guid>
+            <pubDate>Tue, 12 Mar 2024 15:18:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[너무 예뻐 자꾸 운동이 하고 싶어지는 피트니스 기구 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84601</link>
             <guid>https://www.esquirekorea.co.kr/article/84601</guid>
@@ -1393,23 +1405,10 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[올림픽과 패럴림픽의 구분없이 하나로 완성했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[지상 최고의 에메랄드 빛 천국도! 몰디브 VLOG (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84644</link>
-            <guid>https://www.esquirekorea.co.kr/article/84644</guid>
-            <pubDate>Thu, 07 Mar 2024 15:17:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[도파민 디톡스 필요한 사람? (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84588</link>
-            <guid>https://www.esquirekorea.co.kr/article/84588</guid>
-            <pubDate>Wed, 06 Mar 2024 09:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[1분만 스마트폰이 없어도 불안하다면 주목!]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[K-만물 예언서, 2024 무한도전 유니버스 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84690</link>
             <guid>https://www.esquirekorea.co.kr/article/84690</guid>
-            <pubDate>Tue, 12 Mar 2024 09:23:46 GMT</pubDate>
+            <pubDate>Tue, 12 Mar 2024 09:22:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[군백기 이상무! 입대 전 열일하고 간 셀럽 5 (에스콰이어 코리아 ─ 피플)]]></title>
