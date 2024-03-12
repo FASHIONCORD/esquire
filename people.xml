@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2024-03-12T03:22:32.668Z</updated>
+    <updated>2024-03-12T09:24:01.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[K-만물 예언서, 2024 무한도전 유니버스]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84690</id>
+        <link href="https://www.esquirekorea.co.kr/article/84690"/>
+        <updated>2024-03-12T09:23:46.826Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[군백기 이상무! 입대 전 열일하고 간 셀럽 5]]></title>
         <id>https://www.esquirekorea.co.kr/article/84689</id>
@@ -50,12 +56,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84577"/>
         <updated>2024-03-05T03:20:29.766Z</updated>
         <content type="html"><![CDATA[신청은 3월 31일까지.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파묘' 본 사람? 풍수지리 모음 10]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84576</id>
-        <link href="https://www.esquirekorea.co.kr/article/84576"/>
-        <updated>2024-03-04T03:48:01.676Z</updated>
-        <content type="html"><![CDATA[믿거나 말거나!]]></content>
     </entry>
 </feed>
