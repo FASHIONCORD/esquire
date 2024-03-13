@@ -1,63 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/food</id>
-    <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2024-03-13T09:19:31.741Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[크리에이터 ‘파블로 로챗’의 요리 콘텐츠 5]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84454</id>
-        <link href="https://www.esquirekorea.co.kr/article/84454"/>
-        <updated>2024-03-11T15:19:37.025Z</updated>
-        <content type="html"><![CDATA[요리인 듯 요리 아닌 요리 같은 너]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 부산 미쉐린 가이드 최초 공개]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84440</id>
-        <link href="https://www.esquirekorea.co.kr/article/84440"/>
-        <updated>2024-03-02T15:16:55.990Z</updated>
-        <content type="html"><![CDATA[부산에서도 미쉐린 레스토랑을 만나볼 수 있다고?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍콩인 친구가 추천한 홍콩 진짜 맛집 4]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84435</id>
-        <link href="https://www.esquirekorea.co.kr/article/84435"/>
-        <updated>2024-03-01T09:19:47.538Z</updated>
-        <content type="html"><![CDATA[한국 포털 사이트에 검색해도 정보가 몇 없다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제로 음료의 붐은 계속 된다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84373</id>
-        <link href="https://www.esquirekorea.co.kr/article/84373"/>
-        <updated>2024-02-29T09:18:48.778Z</updated>
-        <content type="html"><![CDATA[제로 칼로리 트렌드 열풍.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 최대 규모 1600평 '디저트 신세계' 스위트 파크]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84337</id>
-        <link href="https://www.esquirekorea.co.kr/article/84337"/>
-        <updated>2024-02-27T09:19:17.775Z</updated>
-        <content type="html"><![CDATA[국내 첫 상륙한 디저트 브랜드는?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정말 초콜릿 맞아요?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84305</id>
-        <link href="https://www.esquirekorea.co.kr/article/84305"/>
-        <updated>2024-02-24T15:16:22.382Z</updated>
-        <content type="html"><![CDATA[밸런타인데이를 위해 준비한 이색 초콜릿 4]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴 픽 나나투어 이탈리아 맛집 3]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84304</id>
-        <link href="https://www.esquirekorea.co.kr/article/84304"/>
-        <updated>2024-02-23T09:17:35.987Z</updated>
-        <content type="html"><![CDATA[젤라또, 햄버거 그리고 샌드위치까지!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐나다 청년 로건이 다녀간 전국 맛집 5]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84290</id>
-        <link href="https://www.esquirekorea.co.kr/article/84290"/>
-        <updated>2024-02-23T09:17:35.988Z</updated>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 푸드</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 13 Mar 2024 15:20:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나도 먹고 싶다! 달디단 밤양갱 카페 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84564</link>
+            <guid>https://www.esquirekorea.co.kr/article/84564</guid>
+            <pubDate>Wed, 13 Mar 2024 15:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[진주부터 을지로까지.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/29/2b7c666f-528e-4d4c-ae87-87e926d68b32.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정월대보름엔 꺼내먹어요]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84501</link>
+            <guid>https://www.esquirekorea.co.kr/article/84501</guid>
+            <pubDate>Wed, 13 Mar 2024 15:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[이 음식들을 !]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/962be85b-d4a8-4bc9-b8ce-b7e6b1f07933.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리에이터 ‘파블로 로챗’의 요리 콘텐츠 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84454</link>
+            <guid>https://www.esquirekorea.co.kr/article/84454</guid>
+            <pubDate>Mon, 11 Mar 2024 15:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[요리인 듯 요리 아닌 요리 같은 너]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/24/bea6daca-0d4a-4fe2-9f25-804f5c1f6753.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2024 부산 미쉐린 가이드 최초 공개]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84440</link>
+            <guid>https://www.esquirekorea.co.kr/article/84440</guid>
+            <pubDate>Sat, 02 Mar 2024 15:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[부산에서도 미쉐린 레스토랑을 만나볼 수 있다고?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/23/fbbc5185-d50e-4186-b508-3c837e2002eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홍콩인 친구가 추천한 홍콩 진짜 맛집 4]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84435</link>
+            <guid>https://www.esquirekorea.co.kr/article/84435</guid>
+            <pubDate>Fri, 01 Mar 2024 09:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[한국 포털 사이트에 검색해도 정보가 몇 없다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/23/7371f098-6342-4fef-b4c0-30fa73403ee6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제로 음료의 붐은 계속 된다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84373</link>
+            <guid>https://www.esquirekorea.co.kr/article/84373</guid>
+            <pubDate>Thu, 29 Feb 2024 09:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[제로 칼로리 트렌드 열풍.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/20/47a897cd-f105-4718-b02c-d28670d680a6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 최대 규모 1600평 '디저트 신세계' 스위트 파크]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84337</link>
+            <guid>https://www.esquirekorea.co.kr/article/84337</guid>
+            <pubDate>Tue, 27 Feb 2024 09:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[국내 첫 상륙한 디저트 브랜드는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/19/200b563e-3f94-459c-a1de-a2f8d65c9131.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정말 초콜릿 맞아요?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84305</link>
+            <guid>https://www.esquirekorea.co.kr/article/84305</guid>
+            <pubDate>Sat, 24 Feb 2024 15:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[밸런타인데이를 위해 준비한 이색 초콜릿 4]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/21/2d52b968-55e7-4704-b8e8-28247a7e3a5e.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
