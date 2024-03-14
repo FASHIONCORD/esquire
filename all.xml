@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 03:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 09:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1352,6 +1352,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[밸런타인데이를 위해 준비한 이색 초콜릿 4]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[제니와 협업한 맷 챔피언은 누구? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84732</link>
+            <guid>https://www.esquirekorea.co.kr/article/84732</guid>
+            <pubDate>Thu, 14 Mar 2024 09:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[브록햄튼 출신]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[약사는 어떤 영양제를 먹는가? (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84721</link>
             <guid>https://www.esquirekorea.co.kr/article/84721</guid>
@@ -1397,13 +1404,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84652</guid>
             <pubDate>Fri, 08 Mar 2024 15:18:37 GMT</pubDate>
             <content:encoded><![CDATA[이런 영화 또 없습니다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2024 파리 하계 올림픽 공식 포스터 공개 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84645</link>
-            <guid>https://www.esquirekorea.co.kr/article/84645</guid>
-            <pubDate>Thu, 07 Mar 2024 15:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[올림픽과 패럴림픽의 구분없이 하나로 완성했다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[K-만물 예언서, 2024 무한도전 유니버스 (에스콰이어 코리아 ─ 피플)]]></title>
