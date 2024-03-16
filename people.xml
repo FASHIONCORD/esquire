@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2024-03-15T15:18:57.670Z</updated>
+    <updated>2024-03-16T03:20:32.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라코스테의 새로운 크리에이티브 디렉터 펠라지아 콜로투로스의 데뷔]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84719</id>
+        <link href="https://www.esquirekorea.co.kr/article/84719"/>
+        <updated>2024-03-16T03:20:14.572Z</updated>
+        <content type="html"><![CDATA[브랜드 앰배서더 안효섭이 함께했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K-만물 예언서, 2024 무한도전 유니버스]]></title>
         <id>https://www.esquirekorea.co.kr/article/84690</id>
@@ -49,12 +56,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84578"/>
         <updated>2024-03-07T09:17:13.971Z</updated>
         <content type="html"><![CDATA[두 번째 시범경기에서 첫 홈런을 터뜨렸다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피아니스트 조성진 첫 마스터 클래스 오픈]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84577</id>
-        <link href="https://www.esquirekorea.co.kr/article/84577"/>
-        <updated>2024-03-05T03:20:29.766Z</updated>
-        <content type="html"><![CDATA[신청은 3월 31일까지.]]></content>
     </entry>
 </feed>

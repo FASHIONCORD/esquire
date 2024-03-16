@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 15:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 03:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1406,6 +1406,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[이런 영화 또 없습니다]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[라코스테의 새로운 크리에이티브 디렉터 펠라지아 콜로투로스의 데뷔 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84719</link>
+            <guid>https://www.esquirekorea.co.kr/article/84719</guid>
+            <pubDate>Wed, 13 Mar 2024 09:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[브랜드 앰배서더 안효섭이 함께했다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[K-만물 예언서, 2024 무한도전 유니버스 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84690</link>
             <guid>https://www.esquirekorea.co.kr/article/84690</guid>
@@ -1449,13 +1456,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84578</guid>
             <pubDate>Tue, 05 Mar 2024 09:17:39 GMT</pubDate>
             <content:encoded><![CDATA[두 번째 시범경기에서 첫 홈런을 터뜨렸다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[피아니스트 조성진 첫 마스터 클래스 오픈 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84577</link>
-            <guid>https://www.esquirekorea.co.kr/article/84577</guid>
-            <pubDate>Tue, 05 Mar 2024 03:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[신청은 3월 31일까지.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[홍콩인 친구가 추천한 홍콩 진짜 맛집 4 (에스콰이어 코리아 ─ 나우)]]></title>
