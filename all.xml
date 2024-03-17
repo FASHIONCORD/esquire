@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Mar 2024 03:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Mar 2024 09:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1406,6 +1406,20 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[이런 영화 또 없습니다]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[제니와 협업한 맷 챔피언은 누구? (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84732</link>
+            <guid>https://www.esquirekorea.co.kr/article/84732</guid>
+            <pubDate>Thu, 14 Mar 2024 09:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[브록햄튼 출신]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['고 에 미요' 선정 올해의 파티시에, 김나래가 말하는 새로운 목표 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84603</link>
+            <guid>https://www.esquirekorea.co.kr/article/84603</guid>
+            <pubDate>Sun, 17 Mar 2024 09:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[프랑스 레스토랑을 다루는 가이드북 &lt;고 에 미요(Gault &amp; Millau)&gt;가 선정한 올해의 파티시에, 김...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[라코스테의 새로운 크리에이티브 디렉터 펠라지아 콜로투로스의 데뷔 (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84719</link>
             <guid>https://www.esquirekorea.co.kr/article/84719</guid>
@@ -1442,20 +1456,6 @@ The New MINI Countryman과 일상에
             <link>https://www.esquirekorea.co.kr/article/84592</link>
             <guid>https://www.esquirekorea.co.kr/article/84592</guid>
             <pubDate>Fri, 08 Mar 2024 15:18:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[이거 응원봉 맞아요? 아이돌 응원봉 9 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84579</link>
-            <guid>https://www.esquirekorea.co.kr/article/84579</guid>
-            <pubDate>Thu, 07 Mar 2024 09:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[망치 장난감 모양부터 스노우 볼을 더한 봉까지.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[샌프란시스코 자이언츠 이정후 첫 홈런 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84578</link>
-            <guid>https://www.esquirekorea.co.kr/article/84578</guid>
-            <pubDate>Tue, 05 Mar 2024 09:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[두 번째 시범경기에서 첫 홈런을 터뜨렸다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[홍콩인 친구가 추천한 홍콩 진짜 맛집 4 (에스콰이어 코리아 ─ 나우)]]></title>
