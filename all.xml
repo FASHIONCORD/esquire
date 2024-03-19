@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 15:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 03:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1352,6 +1352,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[밸런타인데이를 위해 준비한 이색 초콜릿 4]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[대부도에 7성급 리조트가 있다? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84737</link>
+            <guid>https://www.esquirekorea.co.kr/article/84737</guid>
+            <pubDate>Mon, 18 Mar 2024 15:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[더헤븐 리조트의 호텔운영총괄 김민정 이사는 투숙객이 밀도 높은 휴식을 얻어 가길 바란다고 말...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[AI가 꼽은 아카데미의 주인공 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84733</link>
             <guid>https://www.esquirekorea.co.kr/article/84733</guid>
@@ -1397,13 +1404,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84666</guid>
             <pubDate>Sun, 10 Mar 2024 09:19:46 GMT</pubDate>
             <content:encoded><![CDATA[슈퍼 화요일 압승]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[애틀랜타에서 목도한 델타항공의 과거, 현재 그리고 미래 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84419</link>
-            <guid>https://www.esquirekorea.co.kr/article/84419</guid>
-            <pubDate>Fri, 08 Mar 2024 15:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[애틀랜타까지 날아가 직접 목도한 델타항공의 과거, 현재 그리고 미래.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[대부도에 7성급 리조트가 있다? (에스콰이어 코리아 ─ 피플)]]></title>
