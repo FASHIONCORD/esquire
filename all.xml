@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 03:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 09:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1406,6 +1406,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[슈퍼 화요일 압승]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[존 시나가 옷은 안 입어도 이건 챙겼다 (에스콰이어 코리아 ─ 피플)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84774</link>
+            <guid>https://www.esquirekorea.co.kr/article/84774</guid>
+            <pubDate>Tue, 19 Mar 2024 09:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[그의 손목에 있는 시계는?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[대부도에 7성급 리조트가 있다? (에스콰이어 코리아 ─ 피플)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84737</link>
             <guid>https://www.esquirekorea.co.kr/article/84737</guid>
@@ -1451,12 +1458,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84636</guid>
             <pubDate>Sun, 10 Mar 2024 09:19:55 GMT</pubDate>
             <content:encoded><![CDATA[첫방송은 3월 31일.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[차은우 우산 남신 등극, 대한민국 3대 우산 등장신 (에스콰이어 코리아 ─ 피플)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84593</link>
-            <guid>https://www.esquirekorea.co.kr/article/84593</guid>
-            <pubDate>Sun, 10 Mar 2024 03:18:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[홍콩인 친구가 추천한 홍콩 진짜 맛집 4 (에스콰이어 코리아 ─ 나우)]]></title>
