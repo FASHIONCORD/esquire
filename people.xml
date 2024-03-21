@@ -1,62 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.esquirekorea.co.kr/people</id>
-    <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2024-03-20T09:19:42.034Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[존 시나가 옷은 안 입어도 이건 챙겼다]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84774</id>
-        <link href="https://www.esquirekorea.co.kr/article/84774"/>
-        <updated>2024-03-19T09:18:00.124Z</updated>
-        <content type="html"><![CDATA[그의 손목에 있는 시계는?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대부도에 7성급 리조트가 있다?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84737</id>
-        <link href="https://www.esquirekorea.co.kr/article/84737"/>
-        <updated>2024-03-18T15:18:45.793Z</updated>
-        <content type="html"><![CDATA[더헤븐 리조트의 호텔운영총괄 김민정 이사는 투숙객이 밀도 높은 휴식을 얻어 가길 바란다고 말...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제니와 협업한 맷 챔피언은 누구?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84732</id>
-        <link href="https://www.esquirekorea.co.kr/article/84732"/>
-        <updated>2024-03-17T09:16:28.139Z</updated>
-        <content type="html"><![CDATA[브록햄튼 출신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고 에 미요' 선정 올해의 파티시에, 김나래가 말하는 새로운 목표]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84603</id>
-        <link href="https://www.esquirekorea.co.kr/article/84603"/>
-        <updated>2024-03-17T09:16:28.140Z</updated>
-        <content type="html"><![CDATA[프랑스 레스토랑을 다루는 가이드북 &lt;고 에 미요(Gault &amp; Millau)&gt;가 선정한 올해의 파티시에, 김...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라코스테의 새로운 크리에이티브 디렉터 펠라지아 콜로투로스의 데뷔]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84719</id>
-        <link href="https://www.esquirekorea.co.kr/article/84719"/>
-        <updated>2024-03-16T03:20:14.572Z</updated>
-        <content type="html"><![CDATA[브랜드 앰배서더 안효섭이 함께했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-만물 예언서, 2024 무한도전 유니버스]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84690</id>
-        <link href="https://www.esquirekorea.co.kr/article/84690"/>
-        <updated>2024-03-12T09:23:46.826Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군백기 이상무! 입대 전 열일하고 간 셀럽 5]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84689</id>
-        <link href="https://www.esquirekorea.co.kr/article/84689"/>
-        <updated>2024-03-11T09:19:47.748Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전국노래자랑' MC 자리 남희석 발탁]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84636</id>
-        <link href="https://www.esquirekorea.co.kr/article/84636"/>
-        <updated>2024-03-10T09:19:55.914Z</updated>
-        <content type="html"><![CDATA[첫방송은 3월 31일.]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>에스콰이어 코리아 ─ 피플</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 21 Mar 2024 03:21:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[극성 학부모가 될 수밖에 없는 셀럽들의 귀여운 반려견 6]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84857</link>
+            <guid>https://www.esquirekorea.co.kr/article/84857</guid>
+            <pubDate>Thu, 21 Mar 2024 03:21:05 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/16/d75078fd-da34-4b2f-b02b-bf5247990ba7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[존 시나가 옷은 안 입어도 이건 챙겼다]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84774</link>
+            <guid>https://www.esquirekorea.co.kr/article/84774</guid>
+            <pubDate>Tue, 19 Mar 2024 09:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[그의 손목에 있는 시계는?]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/12/1cad0bca-982b-4ac7-906d-12fc50c454cd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대부도에 7성급 리조트가 있다?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84737</link>
+            <guid>https://www.esquirekorea.co.kr/article/84737</guid>
+            <pubDate>Mon, 18 Mar 2024 15:18:45 GMT</pubDate>
+            <content:encoded><![CDATA[더헤븐 리조트의 호텔운영총괄 김민정 이사는 투숙객이 밀도 높은 휴식을 얻어 가길 바란다고 말...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/11/880ba9fd-70dc-4efa-973c-09a1eaecaa79.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제니와 협업한 맷 챔피언은 누구?]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84732</link>
+            <guid>https://www.esquirekorea.co.kr/article/84732</guid>
+            <pubDate>Sun, 17 Mar 2024 09:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[브록햄튼 출신]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/10/b8821434-baa2-49b4-9cf2-6fd65ebf8cca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['고 에 미요' 선정 올해의 파티시에, 김나래가 말하는 새로운 목표]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84603</link>
+            <guid>https://www.esquirekorea.co.kr/article/84603</guid>
+            <pubDate>Sun, 17 Mar 2024 09:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[프랑스 레스토랑을 다루는 가이드북 &lt;고 에 미요(Gault &amp; Millau)&gt;가 선정한 올해의 파티시에, 김...]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/10/c95a177d-9c28-4e9a-9b41-f204e9d707b9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라코스테의 새로운 크리에이티브 디렉터 펠라지아 콜로투로스의 데뷔]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84719</link>
+            <guid>https://www.esquirekorea.co.kr/article/84719</guid>
+            <pubDate>Sat, 16 Mar 2024 03:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[브랜드 앰배서더 안효섭이 함께했다.]]></content:encoded>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/09/423e4b71-9427-4534-8eb1-eb326f3c56da.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[K-만물 예언서, 2024 무한도전 유니버스]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84690</link>
+            <guid>https://www.esquirekorea.co.kr/article/84690</guid>
+            <pubDate>Tue, 12 Mar 2024 09:23:46 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/07/627dc18c-5b20-4c80-8cb3-c9524879b5fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[군백기 이상무! 입대 전 열일하고 간 셀럽 5]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84689</link>
+            <guid>https://www.esquirekorea.co.kr/article/84689</guid>
+            <pubDate>Mon, 11 Mar 2024 09:19:47 GMT</pubDate>
+            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/07/7afeb6fa-e50a-4f6c-af48-e26ec8b8660e.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
