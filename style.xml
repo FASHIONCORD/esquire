@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2024-03-21T09:18:02.344Z</updated>
+    <updated>2024-03-21T15:19:47.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[존 시나가 옷은 안 입어도 이건 챙겼다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84774</id>
+        <link href="https://www.esquirekorea.co.kr/article/84774"/>
+        <updated>2024-03-21T15:18:36.497Z</updated>
+        <content type="html"><![CDATA[그의 손목에 있는 시계는?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디올로 준비하는 로맨틱 화이트데이]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84761</id>
+        <link href="https://www.esquirekorea.co.kr/article/84761"/>
+        <updated>2024-03-21T15:18:36.507Z</updated>
+        <content type="html"><![CDATA[사랑하는 사람에게 최고의 선물을 건네고 싶다면. 디올 기프트 셀렉션이 해답이 되어줄 것이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[할아버지의 옷장 그대로? 그랜파코어 아이템 5]]></title>
         <id>https://www.esquirekorea.co.kr/article/84728</id>
@@ -44,19 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84500"/>
         <updated>2024-03-09T15:16:28.135Z</updated>
         <content type="html"><![CDATA[디올의 아이콘 워치 쉬프르 루즈가 다시 돌아왔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남자를 위한 새로운 스킨케어 솔루션]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84557</id>
-        <link href="https://www.esquirekorea.co.kr/article/84557"/>
-        <updated>2024-03-08T15:17:54.500Z</updated>
-        <content type="html"><![CDATA[더 완벽해진 소바쥬 토탈 그루밍 컬렉션이 출시되었다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오아시 제냐로 가는 길]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84413</id>
-        <link href="https://www.esquirekorea.co.kr/article/84413"/>
-        <updated>2024-03-07T09:15:34.269Z</updated>
-        <content type="html"><![CDATA[알레산드로 사르토리가 재정의한 오아시 캐시미어의 미학, 제냐 2024 F/W 컬렉션.]]></content>
     </entry>
 </feed>
