@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/food</id>
     <title>에스콰이어 코리아 ─ 푸드</title>
-    <updated>2024-03-21T03:21:52.242Z</updated>
+    <updated>2024-03-21T09:18:02.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영국 런던 최초 곤충 레스토랑 등장]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84575</id>
+        <link href="https://www.esquirekorea.co.kr/article/84575"/>
+        <updated>2024-03-21T09:17:25.984Z</updated>
+        <content type="html"><![CDATA[미트볼부터 라자냐 타코 등 다양한 메뉴로 구성했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나도 먹고 싶다! 달디단 밤양갱 카페 4]]></title>
         <id>https://www.esquirekorea.co.kr/article/84564</id>
@@ -53,12 +60,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84337"/>
         <updated>2024-02-27T09:19:17.775Z</updated>
         <content type="html"><![CDATA[국내 첫 상륙한 디저트 브랜드는?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정말 초콜릿 맞아요?]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84305</id>
-        <link href="https://www.esquirekorea.co.kr/article/84305"/>
-        <updated>2024-02-24T15:16:22.382Z</updated>
-        <content type="html"><![CDATA[밸런타인데이를 위해 준비한 이색 초콜릿 4]]></content>
     </entry>
 </feed>

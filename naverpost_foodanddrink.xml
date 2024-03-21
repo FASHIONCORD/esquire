@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 03:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 09:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나도 먹고 싶다! 달디단 밤양갱 카페 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37519382&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37519382&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 21 Mar 2024 09:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMjFfMTc4/MDAxNzExMDA3NzM2NDIy.56VQ4DI_rrNJpMJrj4UzyO9NwGMZI8Qpj2XvqweebhEg.rHw1IkSMXAtC3KitSBSiCLE6E7rqp4eoQP-NaSv7XcEg.JPEG/IojaWDXmyWaNwaHC3kwnOYfFh6O8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['2024 블루리본 서베이'에 선정된 떡국 맛집 4]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37398854&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 26 Jan 2024 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMjVfMSAg/MDAxNzA2MTY3NjM3NDcz.hYSIEaDDtP1QQheG2q9gD0R1l11BF_GtYh2_BCfVCw4g.vErCd6UnaM-stK15cQhgAeN62zUtniFFlCTJhHA5Uccg.JPEG/IG8dbye32hrubFgYWhhB-0IlWaqI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[100년 전통의 순대 노포 맛집 3]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37244450&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37244450&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 25 Jan 2024 09:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMjVfMTY4/MDAxNzA2MTY1MDMyMzA2.WCayz67rBWq32_Ra2xGpPhJ76Hx_-mK9nQQ7rMwPZocg.nr413EAmUExeBSWWCR_ka4iPDxyCZwMSiEKE-alm-_wg.JPEG/IrXrPkblvws1weLvUyu9kjkDuVEk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
