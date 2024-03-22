@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2024-03-22T03:20:21.897Z</updated>
+    <updated>2024-03-22T09:20:58.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이돌 신박한 굿즈 아이템 6]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84878</id>
+        <link href="https://www.esquirekorea.co.kr/article/84878"/>
+        <updated>2024-03-22T09:20:39.854Z</updated>
+        <content type="html"><![CDATA[아이돌이 밥 먹여주냐? -네 먹여줍니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오타니 쇼헤이, LA 다저스팀이 머무는 서울 호텔?]]></title>
         <id>https://www.esquirekorea.co.kr/article/84862</id>
@@ -52,12 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84603"/>
         <updated>2024-03-17T09:16:28.140Z</updated>
         <content type="html"><![CDATA[프랑스 레스토랑을 다루는 가이드북 &lt;고 에 미요(Gault &amp; Millau)&gt;가 선정한 올해의 파티시에, 김...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라코스테의 새로운 크리에이티브 디렉터 펠라지아 콜로투로스의 데뷔]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84719</id>
-        <link href="https://www.esquirekorea.co.kr/article/84719"/>
-        <updated>2024-03-16T03:20:14.572Z</updated>
-        <content type="html"><![CDATA[브랜드 앰배서더 안효섭이 함께했다.]]></content>
     </entry>
 </feed>
