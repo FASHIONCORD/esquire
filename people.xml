@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2024-03-21T15:19:47.008Z</updated>
+    <updated>2024-03-22T03:20:21.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오타니 쇼헤이, LA 다저스팀이 머무는 서울 호텔?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84862</id>
+        <link href="https://www.esquirekorea.co.kr/article/84862"/>
+        <updated>2024-03-22T03:19:52.097Z</updated>
+        <content type="html"><![CDATA[여의도에 위치한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['제 96회 아카데미 시상식' 비하인드 스토리]]></title>
         <id>https://www.esquirekorea.co.kr/article/84861</id>
@@ -52,11 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84719"/>
         <updated>2024-03-16T03:20:14.572Z</updated>
         <content type="html"><![CDATA[브랜드 앰배서더 안효섭이 함께했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-만물 예언서, 2024 무한도전 유니버스]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84690</id>
-        <link href="https://www.esquirekorea.co.kr/article/84690"/>
-        <updated>2024-03-12T09:23:46.826Z</updated>
     </entry>
 </feed>
