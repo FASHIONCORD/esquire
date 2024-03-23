@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/people</id>
     <title>에스콰이어 코리아 ─ 피플</title>
-    <updated>2024-03-23T09:17:40.710Z</updated>
+    <updated>2024-03-23T15:20:20.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['버추얼 아이돌' 플레이브가 누군지 아직도 모른다면?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84886</id>
+        <link href="https://www.esquirekorea.co.kr/article/84886"/>
+        <updated>2024-03-23T15:20:02.246Z</updated>
+        <content type="html"><![CDATA[국내 최초 지상파 음악 방송 1위까지?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이돌 신박한 굿즈 아이템 6]]></title>
         <id>https://www.esquirekorea.co.kr/article/84878</id>
@@ -52,12 +59,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84732"/>
         <updated>2024-03-17T09:16:28.139Z</updated>
         <content type="html"><![CDATA[브록햄튼 출신]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고 에 미요' 선정 올해의 파티시에, 김나래가 말하는 새로운 목표]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84603</id>
-        <link href="https://www.esquirekorea.co.kr/article/84603"/>
-        <updated>2024-03-17T09:16:28.140Z</updated>
-        <content type="html"><![CDATA[프랑스 레스토랑을 다루는 가이드북 &lt;고 에 미요(Gault &amp; Millau)&gt;가 선정한 올해의 파티시에, 김...]]></content>
     </entry>
 </feed>
