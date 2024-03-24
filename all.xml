@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Mar 2024 09:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Mar 2024 15:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1351,6 +1351,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[한국 포털 사이트에 검색해도 정보가 몇 없다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[드라마 <시그널> 2 나온다 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84830</link>
+            <guid>https://www.esquirekorea.co.kr/article/84830</guid>
+            <pubDate>Sun, 24 Mar 2024 15:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[김은희 작가 집필 중.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[콰이어트 럭셔리' 취향 좋은 6인의 은밀한 호사 2 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84787</link>
             <guid>https://www.esquirekorea.co.kr/article/84787</guid>
@@ -1396,13 +1403,6 @@ The New MINI Countryman과 일상에
             <link>https://www.esquirekorea.co.kr/article/84720</link>
             <guid>https://www.esquirekorea.co.kr/article/84720</guid>
             <pubDate>Tue, 12 Mar 2024 15:18:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[너무 예뻐 자꾸 운동이 하고 싶어지는 피트니스 기구 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84601</link>
-            <guid>https://www.esquirekorea.co.kr/article/84601</guid>
-            <pubDate>Mon, 11 Mar 2024 03:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[운동이 죽도록 하기 싫은 당신이라도 이렇게 예쁜 디자인의 운동기구라면 당장 손에 쥐고 싶어질...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['버추얼 아이돌' 플레이브가 누군지 아직도 모른다면? (에스콰이어 코리아 ─ 피플)]]></title>

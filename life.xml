@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/life</id>
     <title>에스콰이어 코리아 ─ 라이프</title>
-    <updated>2024-03-24T09:19:12.661Z</updated>
+    <updated>2024-03-24T15:17:45.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[드라마 <시그널> 2 나온다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84830</id>
+        <link href="https://www.esquirekorea.co.kr/article/84830"/>
+        <updated>2024-03-24T15:17:23.737Z</updated>
+        <content type="html"><![CDATA[김은희 작가 집필 중.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콰이어트 럭셔리' 취향 좋은 6인의 은밀한 호사 2]]></title>
         <id>https://www.esquirekorea.co.kr/article/84787</id>
@@ -51,12 +58,5 @@
         <id>https://www.esquirekorea.co.kr/article/84720</id>
         <link href="https://www.esquirekorea.co.kr/article/84720"/>
         <updated>2024-03-12T15:18:48.528Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너무 예뻐 자꾸 운동이 하고 싶어지는 피트니스 기구]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84601</id>
-        <link href="https://www.esquirekorea.co.kr/article/84601"/>
-        <updated>2024-03-11T03:21:10.413Z</updated>
-        <content type="html"><![CDATA[운동이 죽도록 하기 싫은 당신이라도 이렇게 예쁜 디자인의 운동기구라면 당장 손에 쥐고 싶어질...]]></content>
     </entry>
 </feed>
