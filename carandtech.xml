@@ -1,73 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>에스콰이어 코리아 ─ 카&amp;테크</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 23 Mar 2024 15:20:20 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[F1을 재미있게 보는 꿀팁 대방출]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84637</link>
-            <guid>https://www.esquirekorea.co.kr/article/84637</guid>
-            <pubDate>Tue, 12 Mar 2024 15:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[아는 만큼 보인다]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/05/38c44228-61fd-44c7-9870-fc348e863e0e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상반기 출시 예정 자동차 6대]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84635</link>
-            <guid>https://www.esquirekorea.co.kr/article/84635</guid>
-            <pubDate>Thu, 07 Mar 2024 15:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[구경은 공짜니까요]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/05/8dc853c9-0287-431f-9bc1-a132bad14068.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[복제된 강아지는 당신이 사랑한 그 강아지가 아니다]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84626</link>
-            <guid>https://www.esquirekorea.co.kr/article/84626</guid>
-            <pubDate>Thu, 07 Mar 2024 09:16:20 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/05/103346cd-7d03-4cea-98d5-f99a4de0e7a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도파민 디톡스 필요한 사람?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84588</link>
-            <guid>https://www.esquirekorea.co.kr/article/84588</guid>
-            <pubDate>Wed, 06 Mar 2024 15:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[1분만 스마트폰이 없어도 불안하다면 주목!]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202403/03/64cbf11b-c68f-45d2-bbf4-c71cf91ac4a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱가포르에서 만난 포르쉐 마칸 일렉트릭의 비밀]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84544</link>
-            <guid>https://www.esquirekorea.co.kr/article/84544</guid>
-            <pubDate>Wed, 06 Mar 2024 09:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[매번 남들과는 다른 꿈을 꾸는 포르쉐가 싱가포르에서 마칸 일렉트릭을 공개했다. 자사 두 번째...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/29/4548c56c-31b0-436f-af17-a413509c5ee6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올인원 스피커는 왜 새삼 부흥하고 있는 걸까?]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84415</link>
-            <guid>https://www.esquirekorea.co.kr/article/84415</guid>
-            <pubDate>Tue, 05 Mar 2024 03:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘올인원 스피커’라는 형식을 더는 무시할 수가 없는 이유.]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/29/d077d450-a781-440c-8f84-e7e1016e3cbc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 물건들을 단순히 '럭셔리'라고 하기 힘든 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84438</link>
-            <guid>https://www.esquirekorea.co.kr/article/84438</guid>
-            <pubDate>Tue, 05 Mar 2024 03:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘OO계의 에르메스’ ‘XX계의 샤넬’ 같은 표현으로 회자되는 물건들. 하지만 그중 어떤 것은...]]></content:encoded>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/28/bef8f18c-998f-4ae7-9378-92858e6e75f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후지필름 X100의 여섯 번째 모델이 그야말로 완전체인 이유]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84418</link>
-            <guid>https://www.esquirekorea.co.kr/article/84418</guid>
-            <pubDate>Tue, 05 Mar 2024 03:20:00 GMT</pubDate>
-            <enclosure url="https://image.jtbcplus.kr/data/contents/ham_photo/202402/27/d6b4e225-3e7c-4c5e-866e-151f55c84e34.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.esquirekorea.co.kr/carandtech</id>
+    <title>에스콰이어 코리아 ─ 카&amp;테크</title>
+    <updated>2024-03-24T03:19:10.778Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[F1을 재미있게 보는 꿀팁 대방출]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84637</id>
+        <link href="https://www.esquirekorea.co.kr/article/84637"/>
+        <updated>2024-03-12T15:18:14.339Z</updated>
+        <content type="html"><![CDATA[아는 만큼 보인다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상반기 출시 예정 자동차 6대]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84635</id>
+        <link href="https://www.esquirekorea.co.kr/article/84635"/>
+        <updated>2024-03-07T15:17:38.664Z</updated>
+        <content type="html"><![CDATA[구경은 공짜니까요]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[복제된 강아지는 당신이 사랑한 그 강아지가 아니다]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84626</id>
+        <link href="https://www.esquirekorea.co.kr/article/84626"/>
+        <updated>2024-03-07T09:16:20.994Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도파민 디톡스 필요한 사람?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84588</id>
+        <link href="https://www.esquirekorea.co.kr/article/84588"/>
+        <updated>2024-03-06T15:21:04.913Z</updated>
+        <content type="html"><![CDATA[1분만 스마트폰이 없어도 불안하다면 주목!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싱가포르에서 만난 포르쉐 마칸 일렉트릭의 비밀]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84544</id>
+        <link href="https://www.esquirekorea.co.kr/article/84544"/>
+        <updated>2024-03-06T09:17:55.921Z</updated>
+        <content type="html"><![CDATA[매번 남들과는 다른 꿈을 꾸는 포르쉐가 싱가포르에서 마칸 일렉트릭을 공개했다. 자사 두 번째...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올인원 스피커는 왜 새삼 부흥하고 있는 걸까?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84415</id>
+        <link href="https://www.esquirekorea.co.kr/article/84415"/>
+        <updated>2024-03-05T03:20:00.520Z</updated>
+        <content type="html"><![CDATA[‘올인원 스피커’라는 형식을 더는 무시할 수가 없는 이유.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 물건들을 단순히 '럭셔리'라고 하기 힘든 이유]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84438</id>
+        <link href="https://www.esquirekorea.co.kr/article/84438"/>
+        <updated>2024-03-05T03:20:00.521Z</updated>
+        <content type="html"><![CDATA[‘OO계의 에르메스’ ‘XX계의 샤넬’ 같은 표현으로 회자되는 물건들. 하지만 그중 어떤 것은...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후지필름 X100의 여섯 번째 모델이 그야말로 완전체인 이유]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84418</id>
+        <link href="https://www.esquirekorea.co.kr/article/84418"/>
+        <updated>2024-03-05T03:20:00.529Z</updated>
+    </entry>
+</feed>
