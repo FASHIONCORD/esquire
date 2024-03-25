@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Mar 2024 09:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Mar 2024 15:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1351,6 +1351,20 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[한국 포털 사이트에 검색해도 정보가 몇 없다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[잭슨 패밀리 와인즈가 여성의 날을 기념해 한 자리에 모은 여성 리더들 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84937</link>
+            <guid>https://www.esquirekorea.co.kr/article/84937</guid>
+            <pubDate>Mon, 25 Mar 2024 15:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[한국의 와인 업계를 이끄는 여성들]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['버추얼 아이돌' 플레이브가 누군지 아직도 모른다면? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84886</link>
+            <guid>https://www.esquirekorea.co.kr/article/84886</guid>
+            <pubDate>Sat, 23 Mar 2024 15:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최초 지상파 음악 방송 1위까지?]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[아이돌 신박한 굿즈 아이템 6 (에스콰이어 코리아 ─ 라이프)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84878</link>
             <guid>https://www.esquirekorea.co.kr/article/84878</guid>
@@ -1391,19 +1405,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84733</guid>
             <pubDate>Mon, 18 Mar 2024 15:18:38 GMT</pubDate>
             <content:encoded><![CDATA[다 맞추면 진짜 인정]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제니와 협업한 맷 챔피언은 누구? (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84732</link>
-            <guid>https://www.esquirekorea.co.kr/article/84732</guid>
-            <pubDate>Thu, 14 Mar 2024 09:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[브록햄튼 출신]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[약사는 어떤 영양제를 먹는가? (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84721</link>
-            <guid>https://www.esquirekorea.co.kr/article/84721</guid>
-            <pubDate>Tue, 12 Mar 2024 15:18:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA['버추얼 아이돌' 플레이브가 누군지 아직도 모른다면? (에스콰이어 코리아 ─ 피플)]]></title>
