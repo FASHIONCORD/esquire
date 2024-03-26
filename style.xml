@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.esquirekorea.co.kr/style</id>
     <title>에스콰이어 코리아 ─ 스타일</title>
-    <updated>2024-03-26T09:19:38.328Z</updated>
+    <updated>2024-03-26T15:19:13.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.esquirekorea.co.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제 2의 스탠리 텀블러?]]></title>
+        <id>https://www.esquirekorea.co.kr/article/84777</id>
+        <link href="https://www.esquirekorea.co.kr/article/84777"/>
+        <updated>2024-03-26T15:17:50.623Z</updated>
+        <content type="html"><![CDATA[트레이더 조 에코백의 인기가 심상치 않다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[존 시나가 옷은 안 입어도 이건 챙겼다]]></title>
         <id>https://www.esquirekorea.co.kr/article/84774</id>
@@ -51,12 +58,5 @@
         <link href="https://www.esquirekorea.co.kr/article/84420"/>
         <updated>2024-03-12T09:22:55.886Z</updated>
         <content type="html"><![CDATA[빛, 어둠 속의 반짝임, 단단함과 섬세함, 주얼리의 물성.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로워진 쉬프르 루즈]]></title>
-        <id>https://www.esquirekorea.co.kr/article/84500</id>
-        <link href="https://www.esquirekorea.co.kr/article/84500"/>
-        <updated>2024-03-09T15:16:28.135Z</updated>
-        <content type="html"><![CDATA[디올의 아이콘 워치 쉬프르 루즈가 다시 돌아왔다.]]></content>
     </entry>
 </feed>
