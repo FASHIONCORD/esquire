@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Mar 2024 15:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 03:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1297,6 +1297,13 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[‘OO계의 에르메스’ ‘XX계의 샤넬’ 같은 표현으로 회자되는 물건들. 하지만 그중 어떤 것은...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[한국인이 모르는 일본 한식 '옥돔전의 사연과 쓰레받기 전골' (에스콰이어 코리아 ─ 푸드)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84810</link>
+            <guid>https://www.esquirekorea.co.kr/article/84810</guid>
+            <pubDate>Wed, 27 Mar 2024 03:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[한식의 가능성은 어쩌면 한국 바깥에서 더 적극적으로 확장 중인지도 모른다. 가까운 일본에서 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[너무 구하기 힘들어서 유니콘 같은 프렌치 와인 3종 (에스콰이어 코리아 ─ 푸드)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84548</link>
             <guid>https://www.esquirekorea.co.kr/article/84548</guid>
@@ -1345,11 +1352,17 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[부산에서도 미쉐린 레스토랑을 만나볼 수 있다고?]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[홍콩인 친구가 추천한 홍콩 진짜 맛집 4 (에스콰이어 코리아 ─ 푸드)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84435</link>
-            <guid>https://www.esquirekorea.co.kr/article/84435</guid>
-            <pubDate>Tue, 27 Feb 2024 09:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[한국 포털 사이트에 검색해도 정보가 몇 없다.]]></content:encoded>
+            <title><![CDATA[이대남이라는 신기루 (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84981</link>
+            <guid>https://www.esquirekorea.co.kr/article/84981</guid>
+            <pubDate>Wed, 27 Mar 2024 03:20:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[테일러 스위프트는 어떻게 우주 최고의 스타가 되었나? (에스콰이어 코리아 ─ 라이프)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84927</link>
+            <guid>https://www.esquirekorea.co.kr/article/84927</guid>
+            <pubDate>Wed, 27 Mar 2024 03:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[지금 미국 대선의 향방까지 바꿀 수 있다는 테일러 스위프트. 그녀에겐 어떤 일이 있었던 걸까...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[잭슨 패밀리 와인즈가 여성의 날을 기념해 한 자리에 모은 여성 리더들 (에스콰이어 코리아 ─ 라이프)]]></title>
@@ -1392,20 +1405,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84786</guid>
             <pubDate>Thu, 21 Mar 2024 09:17:35 GMT</pubDate>
             <content:encoded><![CDATA[6명의 취향 좋은 사람들에게 아무도 모르게 혼자 즐기는 가장 조용한 호사품에 대해 물었다. 1...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대부도에 7성급 리조트가 있다? (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84737</link>
-            <guid>https://www.esquirekorea.co.kr/article/84737</guid>
-            <pubDate>Mon, 18 Mar 2024 15:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[더헤븐 리조트의 호텔운영총괄 김민정 이사는 투숙객이 밀도 높은 휴식을 얻어 가길 바란다고 말...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[AI가 꼽은 아카데미의 주인공 (에스콰이어 코리아 ─ 라이프)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84733</link>
-            <guid>https://www.esquirekorea.co.kr/article/84733</guid>
-            <pubDate>Mon, 18 Mar 2024 15:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[다 맞추면 진짜 인정]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['버추얼 아이돌' 플레이브가 누군지 아직도 모른다면? (에스콰이어 코리아 ─ 피플)]]></title>
