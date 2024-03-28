@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 15:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 03:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1242,6 +1242,12 @@ The New MINI Countryman과 일상에
             <content:encoded><![CDATA[런더너 마카오의 밤을 빛낸 84개의 시계, 그리고 이틀간의 워치 클래스.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[그럼에도 전기차는 지속가능할 것이다 (에스콰이어 코리아 ─ 카&테크)]]></title>
+            <link>https://www.esquirekorea.co.kr/article/84683</link>
+            <guid>https://www.esquirekorea.co.kr/article/84683</guid>
+            <pubDate>Thu, 28 Mar 2024 03:19:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[우주에 나갈 절호의 기회 (에스콰이어 코리아 ─ 카&테크)]]></title>
             <link>https://www.esquirekorea.co.kr/article/84669</link>
             <guid>https://www.esquirekorea.co.kr/article/84669</guid>
@@ -1288,13 +1294,6 @@ The New MINI Countryman과 일상에
             <guid>https://www.esquirekorea.co.kr/article/84415</guid>
             <pubDate>Sun, 03 Mar 2024 09:17:21 GMT</pubDate>
             <content:encoded><![CDATA[‘올인원 스피커’라는 형식을 더는 무시할 수가 없는 이유.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이 물건들을 단순히 '럭셔리'라고 하기 힘든 이유 (에스콰이어 코리아 ─ 카&테크)]]></title>
-            <link>https://www.esquirekorea.co.kr/article/84438</link>
-            <guid>https://www.esquirekorea.co.kr/article/84438</guid>
-            <pubDate>Tue, 05 Mar 2024 03:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘OO계의 에르메스’ ‘XX계의 샤넬’ 같은 표현으로 회자되는 물건들. 하지만 그중 어떤 것은...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국인이 모르는 일본 한식 '옥돔전의 사연과 쓰레받기 전골' (에스콰이어 코리아 ─ 푸드)]]></title>
