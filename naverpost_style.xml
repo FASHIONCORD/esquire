@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ STYLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Apr 2024 03:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 09:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[H&M과 콜라보! ROKH을 이끄는 황록 디렉터는 누구?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37634604&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37634604&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Fri, 12 Apr 2024 09:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MTJfMTUx/MDAxNzEyOTAzNTc2NzYz.vpJFD-ko0qK88imqVAszAl3L0I4WvzuN1F-tRSn85sog.81AmsK0R6ybN1nDJTBrjoHnbw-Aq3pwgELEEuXyOrsgg.JPEG/IjHB8MTEmWM99wNCfLZj2PoeiomI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버킷 리스트를 묻다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37628653&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 05 Dec 2023 09:18:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDVfMjUw/MDAxNzAxNzUzMjE1Mzg3.gzBXheOBnO1kWsvyHhyPLK6l1zaWy0devbmwGMREhVog.gFeJjCEixh-fJVtXRiEeIFCXv7jkmqR89I0RQGXKj1Ig.JPEG/INgqYeuy_jmPpIBGBjNbuEVVnpJE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로제도르가 피워낸 우아한 홀리데이 무드]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36984473&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36984473&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Mon, 04 Dec 2023 09:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDRfNzUg/MDAxNzAxNjY3NjQ4Mzk1.gUmb1an5Jd90xiFBexX_m8jMPAO5NNAUVz-CwCaAkXwg.F4laRqH7mR_tiyCRz2rr0nePYhhVuUT8DiXXl-LW3Mog.JPEG/IgQt5xUP9Wxnjzs31l_DGEnFo5fs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
