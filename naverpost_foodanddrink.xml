@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Apr 2024 03:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 09:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탕후루는 가라! 셀럽 요아정 레시피 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37666513&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37666513&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 18 Apr 2024 09:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MThfMjEy/MDAxNzEzNDA2MTc2NDE1.jIUBti4d8UY1zj70Vcz6EAQsfEwWVWG3dz_VHWr6p9sg.8fLvtfiMdQqS78BW-v9txhsByVhjrNCrHY6ZcpGEfOEg.JPEG/I8OlCoRpAFXEiGPn97MzL7k8aqKE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세븐틴 픽! 나나투어 이탈리아 맛집 3]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37534166&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 14 Feb 2024 09:17:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTRfMjE3/MDAxNzA3ODk0MTc3MTU1.ohX9qdnMMBdQevYhoGHfINK93VcsV30wqGSe8hd2rE0g.QT42b-RTBryO4pKauc-0X8opp1YMF-kvfAWBrmKT-7Yg.JPEG/IqvY28MJ8Fc_U3BBSmkplT-hlSxI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태국 출신 아이돌이 인정한 태국 맛집 3]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37335269&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37335269&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Wed, 14 Feb 2024 09:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTRfODEg/MDAxNzA3ODkzNjc3MjE4.Tx9caNa52nTio2b4AmqanvRCzqPNH6-IptyFfvjSROYg.pETEvE1q_pdAw3uJ0IzRJPQndtwrqDkGNF3qI3eUKoEg.JPEG/IUi6qpGizJGMCQB8xKeAqYKaMJCM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
