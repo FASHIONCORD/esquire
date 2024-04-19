@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Apr 2024 03:23:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 09:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남자 아이돌 향수 5]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37673655&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37673655&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Fri, 19 Apr 2024 09:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MTlfNzAg/MDAxNzEzNDkyNzM3ODQ4.40_R70mvn21bp9iPJj6Gu_KpsHFuPLt72_uFGE8WZ9Ag.OgmEEmELmVf_sLK4hRnJkyU5uENt7Ytj1DP0oo0jpRMg.JPEG/IArcIcnHeUQdZYxpe0uQv7MFtbmA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포브스 선정 2024 억만장자 셀럽 7]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37662601&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 04 Jul 2023 03:31:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjhfNCAg/MDAxNjg3OTMzOTkwMDQw.2Z4EWeqNnOHUWuzzcOhFAYusvo0OEvq9UQVcyIEJC-Ig.R-JSc-eZ05IEN_ueyLu_RMljWX63Dj3AyFhSY08lTl8g.JPEG/IYaIoAmFVfPekjEufXF8ir4hg1_Y.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[워터밤 직캠 160만을 기록한 권은비 TMI 12.]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36163828&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36163828&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Mon, 03 Jul 2023 03:27:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA2MjhfNTUg/MDAxNjg3OTMyNzc3NjAy.Y3YfnA-0Qxe2TWtGeE2K3Xsiu21EhFKzWep4g5zipmog.2Jv0KpwLGOdpYWLayzUGEVTxnPAfUUjIeHi_I4ztubkg.JPEG/Ih09BBPsZgTLGh8GuGv_1xp_2IEU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
