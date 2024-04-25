@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 03:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 09:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시청률 업고 튀는 <선재 업고 튀어> 원작과의 차이점 5가지]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37703581&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37703581&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 25 Apr 2024 09:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjRfNjIg/MDAxNzEzOTQxMzIzNDg3.xgR1XHzzhnrHXrKUVCetJvdn7g9A6n_j-LmdkOnS0ugg.2Jv7tYMRPGO6Q_tddlRfDllpNqhFMFjtFun4J1-2YNsg.JPEG/I92LCD7kEWMGDD_yE-jMvu1d5XSM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실제 연애 스타일? 선재 업고 튀어, 변우석 TMI]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37703408&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 25 Jul 2023 09:18:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjVfMTM5/MDAxNjkwMjY2NzMzMDUw.ejtmQhuOwgJN5MiDl4AtHkQ1uH3RVJL1aM2UoXOyXGkg.vh1K4CNXnycRZs24BLV9577KIIesyTiuqBv-07yjt8cg.JPEG/IGTc3EkHSeqzlzRFSl6_7r6AEsLE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘(7/10) 데뷔! 핫루키 제로베이스원(ZB1) TMI 19.]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36278488&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36278488&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Sun, 23 Jul 2023 03:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA3MjBfMzAg/MDAxNjg5ODIwMzgwODg1.g34Hz8V_am2zLAaS6Li16m2CujeDpotGCsyRYQ4qBn8g.9MJkcet1gAbyv9IYvMokQ2zs52bDyYO_A1RuTRPXEv8g.JPEG/I2FKqPXLGg1OGnn_-FxPgvU1mzSw.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
