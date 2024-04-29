@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 03:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 09:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버블 시작한 셀럽 2024 ver.]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37729214&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37729214&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Mon, 29 Apr 2024 09:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjlfNjEg/MDAxNzE0MzcyMDg5MzM0.V1aajT4recxRpSZb08J7kp3Oi8Y_KRzDwIySU1Ppydgg.j2JHSLZZ23CT5mL11phvp0CSQJybcydmBw-skABe8_wg.JPEG/I9JB2dX8EZvA6lFUcqgNA33RnOlE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[굴러들어 온 복덩이, 오디션 출신 아이돌 4]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37718087&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 04 Sep 2023 03:17:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MjlfMjI2/MDAxNjkzMjcxMjg1Mzgx.8JgOX0p2x0Tp7O5eCCLhmWJaBdrwXNiRyBCmWqRyAY8g.J-tBcH602g0qLyY6JVnBSQ7RGGoNd4i0QXKcoaXSAwUg.JPEG/IOVCuihUgqV-eCHy2JHOP7YMSc48.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM 신인 남돌 RIIZE(라이즈) TMI 12]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36368174&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36368174&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Mon, 14 Aug 2023 09:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA4MDdfMTYy/MDAxNjkxMzg3NDMyNjA4.uaaaXMZbnCVUHs0cLffa54CjtvMNZ-9H256BdJl-8ecg.vTb6Zls2f7NtGY3z4IhR0lw31qHwaPEhs7D8QJfardIg.JPEG/Iu6qgiKjGgasJM7I3HsUNmxK9kgs.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
