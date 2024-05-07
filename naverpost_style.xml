@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ STYLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 May 2024 03:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 09:25:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 눈여겨봐야 할 운동화 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37773515&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37773515&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Tue, 07 May 2024 09:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MDdfMjY3/MDAxNzE1MDcwMzgwMDkz.vltl_YcZgchIp7VbTlhLzmMwDLLwKLp_uftfDors-CUg.nlIcEDNGvIgcAfJL7tI4-fpl82qUwg4Gh7WvLGf1ELwg.JPEG/IGUbOWVq-l6KwSEgfS2EJ9Z3Fau8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이솝 스킨케어 워크샵을 체험한 솔직한 후기]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37649374&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 06 Dec 2023 09:17:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDZfMjI2/MDAxNzAxODM5NTE5MTg1.LwVFpnDUcMuEMLgTKRtCLXMsV9t87XjcHxIbkT6KyA4g.UWHgi7e59COBY2QtKgX9rn-eJF9JmUDqa2QmOoVo48Eg.JPEG/IctcPKoZNAPnqqCHk2V1LynXdEgc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 눈빛을 한 층 더 매력적으로 만들어줄 린드버그 아이웨어]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36991430&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36991430&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Tue, 05 Dec 2023 09:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDVfMjI3/MDAxNzAxNzYwNTkzOTEz.sD3R-Oto03hREZHFwWqguXAKokUVXVI59OSMNxn137cg.iI57JNPiuZL4VbWnjW0u_88WPwi2MCA3u0dwYNCCgacg.JPEG/IDGYMVba161mBet2vya0anY2vp40.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
