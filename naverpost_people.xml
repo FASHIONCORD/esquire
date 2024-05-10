@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 03:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 09:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7년 만에 열린 YG 보석함, 베이비몬스터에 대한 TMI 10]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37794604&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37794604&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Fri, 10 May 2024 09:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MTBfMTkz/MDAxNzE1MzMxNTg4NzMw.Xt8XjSwpfRB8jvBe8ZJ1aazulpKuwAOSbvDymaSw1SUg.DIAuRHFCTqJa8Yfmvbtb5Q9lpvaR63CGEGWcZdFUYvkg.JPEG/IkKT3SDVtg_CGFJk9D_S5hkbRDHc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그 시절 우리가 사랑했던 교복 레전드 배우 모음]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37779074&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 12 Jan 2024 09:17:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTJfMTM3/MDAxNzA1MDI4NDc4MzAw.-WZSIVWjvkj-osMwZDd7zcWfqI8G8RQfGfZzc-27fSsg.ZJMALfzXeqJAjd09P60RaC9NTvPR2esgCDNw715bat0g.JPEG/IGL5fh5ht39pLRz5pcNoPVluNiMM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘정신병동에도 아침이 와요’ 따뜻한 간호사 정다은, 박보영 TMI 12]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36922694&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36922694&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Tue, 28 Nov 2023 03:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjJfODAg/MDAxNzAwNjE1NTI4MTkx.kgVhWNu8iQ6VcccyOPtVZVutwu9oOgRN7oDC8M6k9PUg.5KJW5XOqC2dFaFsUK1Jl6FXu190V42yr5JhlDQjJ0kwg.JPEG/IaeLA2Emp_jU7b_TgbNCqAe4pits.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
