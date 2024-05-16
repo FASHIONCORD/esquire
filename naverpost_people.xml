@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 03:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 09:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 마크 첫 솔로 데뷔, 앨범 TMI]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37823657&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37823657&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 16 May 2024 09:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MTZfMjYx/MDAxNzE1ODI5MzY4Njk5.qyOQZG4dj5IQ5k-Bw9exi-8N2yP6c4KwAUq-XT2wO2Mg.pS-zkA9YyaSdwi9cM3u3TXlbV9l5gWkkzW8AJybf4f8g.JPEG/IhKWRv235ijYPBWGA1M2IHIYl4yk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[7년 만에 열린 YG 보석함, 베이비몬스터에 대한 TMI 10]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37794604&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 17 Jan 2024 09:18:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTdfNDUg/MDAxNzA1NDY3MTM2ODgw.GuNTJBoVrbWPSdOhQmH91BGwrph7hZG2rBgWpORJVXEg.baxe4f-tQ7Klhj4obg4z__nOtJoIBODh4B39p42G8_kg.JPEG/IkPYFvOumO_y-o6avc0G5Fg3e5rk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환승연애 3, 아이돌 출신 베스티 송다혜 TMI 12]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37178925&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37178925&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Fri, 12 Jan 2024 09:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAxMTJfMTM3/MDAxNzA1MDI4NDc4MzAw.-WZSIVWjvkj-osMwZDd7zcWfqI8G8RQfGfZzc-27fSsg.ZJMALfzXeqJAjd09P60RaC9NTvPR2esgCDNw715bat0g.JPEG/IGL5fh5ht39pLRz5pcNoPVluNiMM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
