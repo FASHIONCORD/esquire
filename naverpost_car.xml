@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ CAR</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 May 2024 03:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 09:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제로백 랭킹 TOP 9]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37826109&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37826109&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Fri, 17 May 2024 09:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MTZfNDQg/MDAxNzE1ODQ2NTkzMjUy.aeiii19XO34BESdJx8W-ksHUFQ5wQ5Yp9cPUCJ7snJkg.y1jhyWhDZl3yyQN88K6sY2SoykM7yEQNTtHIf6H-JQ0g.JPEG/IulgiEZR8c-YepI8hivoBlLYJiIc.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자동차만 16대? 켄달 제너 CAR 컬렉션]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37816984&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -162,14 +170,6 @@ The New MINI Countryman과 일상에
             <pubDate>Thu, 17 Nov 2022 03:44:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTA4MDhfNyAg/MDAxNTY1MjM3MjU4MDE2.6OSbc9gB-iHhJiiL9_oshCBGoYRwz4GP915fiMzQzQgg.7cx7141EEKm2NdZdSJTuXiqJSIgAuB5r5qCO9WolY5og.PNG/IJZkz-s61NqzkR-P3otftt8f7OKI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새롭게 업그레이드된 BMW 뉴3시리즈의 매력]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=20281129&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=20281129&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:44:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAxOTA1MjBfNjAg/MDAxNTU4MzU0NjM3NDE3.uRPCnxa8csbcPE6T13W2YuOroAHLfGgQoNe7pna-xQ0g.rsfGYJF74wig_fFWohdLUJKruhw5Xl1lE34wgS3r1Cwg.JPEG/I7wIDtyH6d_67cKAD2g3IJQ42chU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
