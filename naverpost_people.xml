@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 03:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 09:25:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전역 후 첫 공식 행사 일정? BTS 진 전역 TMI]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37982873&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37982873&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Wed, 12 Jun 2024 09:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MTJfMzcg/MDAxNzE4MTc4NTc4NzY3.sJcZCLDLtkiBys3GlmlpWhEZ6jLN-NcEQ2pswTILR_wg.TfDdiLi8tu6_y9XXNtTQuwXvO2n-awrgJliLAv2FnpQg.JPEG/ICuJNEI_jCHB9WVt-MJe1NNuMwwQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데뷔명이 자스민으로 될 뻔 했다고? 에스파 카리나 TMI 12]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37961279&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 17 Apr 2024 09:18:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MTdfMTQg/MDAxNzEzMzQzNzk3NDgw.o67I1POavPXdQJ8GaAymH1H-wFoBku91x3BffkKvSwEg.NF7kZbNpZKW7oPzYCXw1CyI0aaHWIbZKskm-K3glXLgg.JPEG/ImQ2InbQePLQFRN8H8ULhuN1kJzc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['버추얼 아이돌' 플레이브가 누군지 아직도 모른다면?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37601153&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37601153&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Fri, 05 Apr 2024 09:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MDVfMjUx/MDAxNzEyMzAxNDY2MDIz.aMJI1ZsPfKl30H6i8KsuzLezIGMODtgntxdx1Apo9Tog.LoMxNDrWt7-NCHKOblHzF18UFeMBJpmJi6Ut0MCX8L8g.JPEG/IK0tk1xdW_LPs6GkSpIY8-EVDjJg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
