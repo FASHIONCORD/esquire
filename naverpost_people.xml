@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jun 2024 03:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jun 2024 09:26:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 재민 사진전 <NARCISSIM> TMI]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38064660&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38064660&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Wed, 26 Jun 2024 09:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MjZfNzgg/MDAxNzE5MzkxNTM2NjE4.mtohU30PZAFpcs9DfGrEnPUGLy19oBFGnmVi-8d-Z38g.NoMaNLHeyBf6fqTNymxo0oudT4xabvsC4edMDeO1rMkg.JPEG/IZ9IDGIRsoOzlwznLHmZsqyvMiX4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몰라보겠네! 훌쩍 큰 아역 근황 4]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=38019752&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 24 Apr 2024 09:17:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjRfMTgg/MDAxNzEzOTM3NDgxNjY4.UZIfjpN40ZXsj3zFgvAx1WHH-tj4beRUbmsAQ-7eVzgg.2rFy-Z-TJWbWfZrblsdEOck0zQ_m5v_YPv2sQc3hmB0g.JPEG/IzseXErt5-ePi8QoSma4d3jJL13k.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타투도 패션이다 셀럽 타투 9]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37690955&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37690955&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Tue, 23 Apr 2024 09:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjJfMjAg/MDAxNzEzNzczNjI4MTAy.iNB7uFRPRD7IxDvTeSAre7zgxM2Uaj55zo6s2EWJ1Ysg.Mjtnll3fwYl26bt1faCgLX2UO0xPpzWBx7fyznfVqqog.JPEG/IevgAGcss0lvv97Tha0Le0KQGGw0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
