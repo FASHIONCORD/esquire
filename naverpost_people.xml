@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 03:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 09:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 26 Jun 2024 09:21:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MjZfNzgg/MDAxNzE5MzkxNTM2NjE4.mtohU30PZAFpcs9DfGrEnPUGLy19oBFGnmVi-8d-Z38g.NoMaNLHeyBf6fqTNymxo0oudT4xabvsC4edMDeO1rMkg.JPEG/IZ9IDGIRsoOzlwznLHmZsqyvMiX4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티셔츠 한 장이면 충분! 셀럽들이 선택한 그래픽 티셔츠 모음.zip]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38059422&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38059422&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 27 Jun 2024 09:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MjZfMzIg/MDAxNzE5MzM1NTk0NTA3.2rtkKcHE1u-ELcHDg-E9BNT5JGDQx9pz_gE8eFKTLokg.X-1faQS2jWDUhCHFPcu6PaovUvnnhOozOZfTHFK_Hxgg.JPEG/IeLRQya9svDNZLvBRlZ1nS1ymKqU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[몰라보겠네! 훌쩍 큰 아역 근황 4]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 25 Apr 2024 09:18:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjRfNjIg/MDAxNzEzOTQxMzIzNDg3.xgR1XHzzhnrHXrKUVCetJvdn7g9A6n_j-LmdkOnS0ugg.2Jv7tYMRPGO6Q_tddlRfDllpNqhFMFjtFun4J1-2YNsg.JPEG/I92LCD7kEWMGDD_yE-jMvu1d5XSM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실제 연애 스타일? 선재 업고 튀어, 변우석 TMI]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37703408&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37703408&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Wed, 24 Apr 2024 09:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjRfMTgg/MDAxNzEzOTM3NDgxNjY4.UZIfjpN40ZXsj3zFgvAx1WHH-tj4beRUbmsAQ-7eVzgg.2rFy-Z-TJWbWfZrblsdEOck0zQ_m5v_YPv2sQc3hmB0g.JPEG/IzseXErt5-ePi8QoSma4d3jJL13k.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
