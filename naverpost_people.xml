@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 03:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 09:27:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아빠 피 물려받은 최애의 아이들]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38104593&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38104593&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 04 Jul 2024 09:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MDRfMTQ0/MDAxNzIwMDI0NDg1MjQw.Mb_diKytIppYNv_KrEHUGCj-kTvSlnmDS7CqzlGtbaYg.DCywzsPrhFTs2lyzxw4jKvllCuGZBGhDupUkNKpPQOwg.JPEG/IG-2409MAOQTC-w_SUi68mtEO5io.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헤이 GPT, 나랑 놀아줘]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=38091764&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 30 Apr 2024 09:20:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MzBfMTYg/MDAxNzE0NDQxNDg0MTE0.TOU49B8SDBC2v02T9R9ggSzAey-mwQtBJO0M95iikkYg.iwc-C95MdCvV_gOnkWyCdPifdY6n7VGFk_6EqZ1_FSAg.JPEG/ITrbAuNI7-8OY_4TeoW_3u6Xz0xk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버블 시작한 셀럽 2024 ver.]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37729214&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37729214&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Mon, 29 Apr 2024 09:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MjlfNjEg/MDAxNzE0MzcyMDg5MzM0.V1aajT4recxRpSZb08J7kp3Oi8Y_KRzDwIySU1Ppydgg.j2JHSLZZ23CT5mL11phvp0CSQJybcydmBw-skABe8_wg.JPEG/I9JB2dX8EZvA6lFUcqgNA33RnOlE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
