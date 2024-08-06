@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Aug 2024 03:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 09:25:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTRfMTkg/MDAxNjQyMTE1MDExMzUw.8do9AkN4533lT4VsC7DkwtCk4dSdX7F_OAPJ70T6Rc0g.2_HumcdGbR4XeL-O74oD7QsQweyde3lT28SSv27S1wwg.PNG/IIk-Vy5hm7-jfEUmpS2nPozA5Epk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[너의 이름은? (네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&DRINK)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38385401&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38385401&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Tue, 06 Aug 2024 09:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA4MDZfMTYx/MDAxNzIyOTM1NzQ4NDEx.zKIArdu67IIUqtUgkiI0VSTv6N5lO93083ZhI-_VdTMg.ryGqu4WvEC-aaQXh09X8pYAYzQ_G2DJ6glYZKyFZUMAg.JPEG/IEKW6JkVy8TejXwpSAkEZiuDbixI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나만 몰랐던 알쓸'식'잡 이야기 (네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&DRINK)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=38334260&amp;memberNo=40217187&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38334260&amp;memberNo=40217187&amp;navigationType=push</guid>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 27 Feb 2024 09:17:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMjdfMTAx/MDAxNzA5MDAwODA4NDE2.ll8VmmqAGGf0agc0-vpgeT69XaDSs3ODfdBGxv74Q9wg.Buug3zq0OWJEjiK5hWYfo-VvcvOh-vSwZ5sFzcGvIqEg.JPEG/Ip2axy1q9x4WxKs5tVjZwzpGQqFo.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로 오픈한 스타필드 수원 맛집 4 (네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&DRINK)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37393516&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37393516&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Mon, 26 Feb 2024 09:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMjZfMTcg/MDAxNzA4OTMwNjU4MjIx.TyP38y6-5gJfIGr-XspXC0tJ8MInULacU8t1lyLL5WAg.reQhV4Ztp3fXEAhhU5LwEr157W540n01NrG1IpiXPfcg.JPEG/Iy-oQ5nu3PzUd1KlCjutjX8Q1H_0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다시 돌아온 바시티 재킷 (네이버 포스트 ─ 에스콰이어 코리아 ─ ESHOP)]]></title>
