@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 09:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 15:27:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘평생소원이 누룽지’ 이거 속담 맞습니다]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=39284434&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=39284434&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 26 Sep 2024 15:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MjZfMTYz/MDAxNzI3MzQyNDcxMTAw.3Ooyn3eeZc3OMAy9TUfVv6z3569Z0B_uj4PVvayDCY4g.GPerbaj0yy6ed0NjB8pBTiA5BUkr3Cz1bWnLLkADKZYg.JPEG/IbMQn5uOv1LZMe1jM8s1dp3jJlrU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모델 홍태준 픽 러닝 후 들리기 좋은 카페 5]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=39195327&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 21 May 2024 09:20:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjBfMTM3/MDAxNzE2MjEzNTkwNjUy.HmnVwF9t6rWh9h6FVHGRczVdaRx-z7YlOOFd-sl7KAUg.806qPkeKDp1YXn3-DbaKbMEIr0vfTdYUPKXYDXgFyMkg.JPEG/I-0LrM5YAsNzD7IvQK279uD1Ck6E.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위스키 입문자들 주목! 아이돌이 사랑한 위스키 5]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37766779&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37766779&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Mon, 06 May 2024 09:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MDZfNzUg/MDAxNzE0OTgzMjc3MjM0.KoUd1TJmmD_eQRJiBJI4CSwjO-a6UFj10vED3Xiswisg.h8gt-aegCQBCwBw-RcWWxZHK72p42EW4b73auZ7jIhgg.JPEG/IlI843KAgyDw_FybFfIQJ71m9Qco.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
