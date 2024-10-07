@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 03:33:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 09:29:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연휴에도 영업하는 혼밥 맛집]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=39441305&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=39441305&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Mon, 07 Oct 2024 09:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEwMDZfNzkg/MDAxNzI4MjA5MDM1ODA5.vIzBt0tOixo8Y1aujpOYm28_pcKsSnnlI7GlA1TpQoEg.erCSmmUlLeYkcVYrsiBbp8rsGyInnUnNVAdd4y0Oh-Ag.JPEG/IHJToLHeUBkc55vObS6jaLADmmeY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해외에서 활약중인 한국 음식 5]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=39358732&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 11 Jun 2024 09:21:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MDhfNTAg/MDAxNzE3ODU0MDgyNDQ0.SXp-W3qFi9pU_G4JxW-5XDR000syNGPB9N6a_QIONEcg.d4R_Qjzxqywabf31GGtjaLtXfGuvy2syniDyhziZQ40g.JPEG/IIOwutynGc61JZNcmZiLW8Z6UVAU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[셀럽들의 최애 아이스크림 9]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37960553&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37960553&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Fri, 14 Jun 2024 09:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MDhfMjk4/MDAxNzE3ODUzNTU5NjY0.QvlxCssqSYx6LpmJdlRijG-9wbNp5V1_WYc7hix5ohQg.jyYG0PpwJ-C9Uduh0qD7HCZUcLlTZbEOc5Bi_Og_qAsg.JPEG/IuZMkOkrKHJey97P-mpuVlJC-Nbw.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
