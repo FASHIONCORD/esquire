@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Oct 2024 03:31:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 09:27:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이돌 시즌 그리팅 잘 하는 곳 어디?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=39796628&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=39796628&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Wed, 23 Oct 2024 09:22:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEwMjNfMTgw/MDAxNzI5NjU5MDI2NDYz.bf-McUbBSAWsjGT_KNPbTey5XYl_tZdPWiitNiPn2-sg.rm1WRUgkkVlGE8vegeEYiCRQFj9292lhPwEYid9SnxMg.JPEG/I-peRqc85hbtFYFDjy-1sYHKeZVQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[용팔? 씨걸? 우동? 웃지 못할 아이돌 예명 후보 10]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=39641964&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 12 Jun 2024 09:20:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MTJfMzcg/MDAxNzE4MTc4NTc4NzY3.sJcZCLDLtkiBys3GlmlpWhEZ6jLN-NcEQ2pswTILR_wg.TfDdiLi8tu6_y9XXNtTQuwXvO2n-awrgJliLAv2FnpQg.JPEG/ICuJNEI_jCHB9WVt-MJe1NNuMwwQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데뷔명이 자스민으로 될 뻔 했다고? 에스파 카리나 TMI 12]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37961279&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37961279&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Mon, 10 Jun 2024 09:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MDlfMTQx/MDAxNzE3ODY0Mzg1MTEw.AeM_o2IS4LWVxReY4lTX4HEgwMVbc8pv5UZWcBNJJJUg.wseiwKT_Oxqnr4lC6l9PJY74JiB21zrIkbOnZAVmfcIg.JPEG/IZjaEgPgfyU46xyz5mkK4S8ce0A4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
