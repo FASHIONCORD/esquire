@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ STYLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Oct 2024 03:33:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2024 09:28:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[와일드한 남자 지갑 추천 4]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=39913797&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=39913797&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Tue, 29 Oct 2024 09:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEwMjlfMjI4/MDAxNzMwMTY5NjA0Nzc5.JNJdt3OIMJAJe9jeV7DOU-MihFz-99kmu4a33LOEe3gg.krtxf3tYr22LWgfNKQuSnoMtSfgX11LyjZW6r883lrEg.JPEG/IA9npS_Hu58X5qJ4WrxMv85awtOg.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재민, 성훈, 변우석 등 남자 셀럽이 선택한 레더 재킷 추천]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=39609654&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 11 Apr 2024 09:18:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MTFfMTE5/MDAxNzEyODIwNzc4MDg3.2InTpNhbB8UfAawTF_QVi0nT1hhizPFhj4p0BmsV2q4g.N-I0fMKj2Yk9jUUcq3GXdOS9GOx3-2C8aFYPLYxvxJkg.JPEG/Ij0_EuxcMQ1OPOFh5ypUuBKz3doQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작고 가뿐한 그루밍 아이템 세트 4]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37623652&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37623652&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Wed, 10 Apr 2024 09:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MTBfMjI1/MDAxNzEyNzM4ODAyOTM0.XqkPIL0LmZoxh4RsyhYYJoX4eeOXuOzjBxAq89Tk7uYg.8chIwV_tmsq5go5Ty8QVN13ozla47yuWWVAIq3wmbD8g.JPEG/IfJeWa5elE4BRpTgEiugAl7-1FXY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
