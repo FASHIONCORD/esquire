@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Nov 2024 03:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 09:26:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[날 닮은 너, 너 누구야]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=40293906&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=40293906&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Fri, 08 Nov 2024 09:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMDhfMTk1/MDAxNzMxMDQ3MTMxNDY5.nZtOn2PWRsisoMMosUiu8n5dRh4d2qSL3Gdc2WVamCgg.wa1VAmFFSJaq6R0m1J0ZzrxZa_iv265p72jnMCNyZEEg.JPEG/IguovJ22LG7EKH79lyOwlrODeI7U.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도영, 임영웅, 박진영 등 셀럽들의 면역 관리 팁]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=40004930&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 21 Jun 2024 09:19:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MTlfMjQ2/MDAxNzE4NzMxMDA0ODY2.0SWU0nMqv9GnhKtHazJ8UPzmU0XKgNRrpQ3y-_B5Uycg.K6CvTf5O-yo5zCGqlsFFuSuvXXyInSCwNYzNu2LCMjIg.JPEG/IJo04wYUUR63q7cnqG4j-05NMt2A.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네가 왜 여기서 나와? 의외의 신선한 조합]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37982925&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37982925&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 20 Jun 2024 09:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MTlfMTgx/MDAxNzE4NzMwNTIwNDEy.EUH8NmNsFCjRpYrRYDX9eXK6ixOx3yfn34SS2gbW0Jsg.uQBOg3ofmaUYZIj8wZD85c_5MqkHb129txbLP4lQyywg.JPEG/IkGei2D6MpPB5am4wT0iwipl-hYk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
