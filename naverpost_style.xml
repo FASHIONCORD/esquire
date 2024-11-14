@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ STYLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Nov 2024 03:31:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2024 09:28:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스카프 스타일링 따라잡기]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=40610449&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=40610449&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 14 Nov 2024 09:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMTRfODYg/MDAxNzMxNTc0MTc1MzI2.667zStd2d5rDFHNL1LtWRKLAgVAe338CXsEzqfxlZPkg.4rJffOUrqgoqrOCmxSiXm0xYkxlWVw1fllEWFYKM3-kg.JPEG/IamAa4dBMVpTkxxH4eWR_mYnlIIo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[와일드한 남자 지갑 추천 4]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=39913797&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 12 Apr 2024 09:18:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MTJfMTUx/MDAxNzEyOTAzNTc2NzYz.vpJFD-ko0qK88imqVAszAl3L0I4WvzuN1F-tRSn85sog.81AmsK0R6ybN1nDJTBrjoHnbw-Aq3pwgELEEuXyOrsgg.JPEG/IjHB8MTEmWM99wNCfLZj2PoeiomI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버킷 리스트를 묻다]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37628653&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37628653&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 11 Apr 2024 09:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MTFfMTE5/MDAxNzEyODIwNzc4MDg3.2InTpNhbB8UfAawTF_QVi0nT1hhizPFhj4p0BmsV2q4g.N-I0fMKj2Yk9jUUcq3GXdOS9GOx3-2C8aFYPLYxvxJkg.JPEG/Ij0_EuxcMQ1OPOFh5ypUuBKz3doQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
