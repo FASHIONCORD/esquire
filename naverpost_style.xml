@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ STYLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Nov 2024 03:36:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 09:29:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을에는 이런 향]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=40977516&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=40977516&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Thu, 21 Nov 2024 09:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMjFfMjEg/MDAxNzMyMTc2MTM0Nzkw.5cudmUAr-IWGTor_TjQqEAzpOjyd-R82SP2Xu1Yu4WYg.Md7TupT0_ZUV6uurnawiLoWX19avTxX4cf74Bl6VrZQg.JPEG/IXlPqjygIBlbncBwnbxCckCQ5R74.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라이즈 원빈 바라클라바? 셀럽이 쓴 바라클라바]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=40823513&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 07 May 2024 09:20:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MDdfMjY3/MDAxNzE1MDcwMzgwMDkz.vltl_YcZgchIp7VbTlhLzmMwDLLwKLp_uftfDors-CUg.nlIcEDNGvIgcAfJL7tI4-fpl82qUwg4Gh7WvLGf1ELwg.JPEG/IGUbOWVq-l6KwSEgfS2EJ9Z3Fau8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이솝 스킨케어 워크샵을 체험한 솔직한 후기]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37649374&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37649374&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Mon, 15 Apr 2024 09:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA0MTVfMjY2/MDAxNzEzMTY5MTY3NzU4.VL0ThulhO7aN7V4E-TpLPrYidEevqjRqNukSMne5zSog.LbkXUwfndb8nPE91EguEJzX9IrvAAE5weK6HnDI6fYEg.JPEG/IU9_H3tXwf9HISZ4qNA2A23VzY8c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
