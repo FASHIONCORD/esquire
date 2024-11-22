@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ STYLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 03:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 09:28:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이돌들의 카모플라주 패션 브랜드 모아보기]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=41003133&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=41003133&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Fri, 22 Nov 2024 09:24:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMjJfMTY2/MDAxNzMyMjA3ODg4MzQz.HrW5Y-uvo7H34Y3B3SRw07xkEAIIyxgJRBXcVSLixu4g.LZZFObr8gD9QwNZNdigi04mL8JweN3qTSNuGwhQ_oPAg.JPEG/IAWl60uWwkuhE7vRc05LgNzKNIks.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을에는 이런 향]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=40977516&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 23 May 2024 09:20:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjNfMjUy/MDAxNzE2NDUxOTE3NTgw.-WcmAClAnBGCZTz5_BI8TfvexYNBgDZXB058kahkx10g.yluX_lt7Vd1UI7to3_8C7i9RwT-v_NerClECQrvJkOog.JPEG/I6J6PdBFTQ0TzC46kxFtwh0sfPa8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 눈여겨봐야 할 운동화 4]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37773515&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37773515&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Tue, 07 May 2024 09:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MDdfMjY3/MDAxNzE1MDcwMzgwMDkz.vltl_YcZgchIp7VbTlhLzmMwDLLwKLp_uftfDors-CUg.nlIcEDNGvIgcAfJL7tI4-fpl82qUwg4Gh7WvLGf1ELwg.JPEG/IGUbOWVq-l6KwSEgfS2EJ9Z3Fau8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
