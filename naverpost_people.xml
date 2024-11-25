@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Nov 2024 03:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2024 09:30:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 마크, 라이즈 원빈 등 셀럽들의 시크릿 나이트 루틴 공개!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=41187600&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=41187600&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Mon, 25 Nov 2024 09:25:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMjVfMTU3/MDAxNzMyNDYyMzA4NTQ4.4AaITRD3SugvFJDbHoVfFyIgiFRRkV_7x7TGY6kiFDwg.e5f6KO9je1XoD-T_OIQK7bBVdaH4OIjVozOGTQE2C4Ug.JPEG/Ijf6hEK01jZGmzh7dOxUZFHPvroI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[변우석 립밤? 셀럽 립밤 TMI]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=40769343&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 02 Jul 2024 09:20:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MDJfNDUg/MDAxNzE5ODUxMjYyNzE3.dH4jgGIafj0x023k_Rj60uEFyESvxkFOQIiY-sM0EfQg.ufBkIUfQPNTWQ-qRVLRQbcvyh53EjQ0rvCs1g83hRd8g.JPEG/IXpn6s10yZPt1b7x3pfiKnCRyEHM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만찢걸 사브리나 카펜터는 누구?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38085014&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38085014&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Mon, 01 Jul 2024 09:24:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MDFfMjMg/MDAxNzE5NzU5ODY2NjAx.EXJlXD_SbT93G07d0LfGIAbMsQA5TjN5E1mBNhVBUbMg.ZY7-KBMqqCD3nJcG28YR8EtEzhl7LXtOSyZEpUvkGiMg.JPEG/IAuiZDzOIFzGo50DW-CxIqBayqQ4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
