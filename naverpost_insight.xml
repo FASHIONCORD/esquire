@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ INSIGHT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Nov 2024 03:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 09:29:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엑소 수호가 아이비 리그에? 난 대학 시절 케이팝을 전공했단 사실]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=41302877&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=41302877&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Fri, 29 Nov 2024 09:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMjZfMTU0/MDAxNzMyNjExMTYzNDA2.41w6eiXt3XYJ9YQdfSINRR-MJEmsHIosNi2mh5r9AcYg.tiU6oKFFn1W1brgMKjMDZBrYbhu9OVQw-OW4-O16XHsg.JPEG/IEyAZTLymnA-yitoAmgXXTtTrDxk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[약을 먹지 않고 설사 멈추는 방법 4]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36091639&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 17 Nov 2022 03:43:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTdfOTQg/MDAxNjQyMzg3ODI5NTc5.dzikcFDQpVPopzgMsDOYspqP40LIeJWOi_xSgAwALWkg.2w4lIFHtbbzE1eyuzq5pLQLCSIekQ4yGqBd10D6yawwg.PNG/I-KA2vSJWYTuLHbvRNFnrQhJSMbo.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[솔로지옥 ‘천국도’ 영종도 데이트 코스]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33122405&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33122405&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 17 Nov 2022 03:43:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjAxMTRfMTkg/MDAxNjQyMTE1MDExMzUw.8do9AkN4533lT4VsC7DkwtCk4dSdX7F_OAPJ70T6Rc0g.2_HumcdGbR4XeL-O74oD7QsQweyde3lT28SSv27S1wwg.PNG/IIk-Vy5hm7-jfEUmpS2nPozA5Epk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
