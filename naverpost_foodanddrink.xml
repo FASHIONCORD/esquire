@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 03:45:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 09:31:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 06 Dec 2024 15:24:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDZfMjk2/MDAxNzMzNDc2NjE3Mzkw.q3cRHFOw4bgZHUBSMMw_QUXeqLPNyCnmR1s-qvN-6Uwg.3t10smfu0Yj2ZfVFVRjxRXc-4P5LsLFx9ZDvQJc9dpUg.JPEG/IWBeAwxOnwqyY4Gw8qUpJJk8fGTU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프랭크버거, 파티를 부탁해!]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=41918759&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=41918759&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Mon, 09 Dec 2024 09:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDRfMTIw/MDAxNzMzMjc5OTg0MDQ4.MFNJAwDITKwAfEAd2PSLnhpjTRGTP5uR8fnyGIWk5tcg.5H48k-zj_bz-pFAf7TtowH1vM9Gx-J5zvtj9fmzBKesg.JPEG/Iu37z7kWPJSrD7AoaxvpttyXvRVQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한식 파인 다이닝 맛집 5]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 20 Sep 2024 09:25:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MTlfNTcg/MDAxNzI2NzEzMzI0MTA1.RLhN6G9SKCu1jFcbgraWadEfnJ5M9lhg0kuShJ2qTW0g.8VPnjcbiNweKP_aSU0WvInOu6wj1vTzVqkpmTay0Qw8g.JPEG/IBYNO4Hkq3JoveTtGky7vMmGMv9M.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위스키로 만든 열 개의 칵테일]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=39108915&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=39108915&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Wed, 18 Sep 2024 09:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MTZfNDcg/MDAxNzI2NDY5ODYyNTE0.cMCPtVYHnLBtV_cx4EgZxbACdqIc1aQtBNc8CvMlDQ8g.eKQfDQi49vBMGqfl2M-E0ZIRDCHEK7Y5VRsnazKHe7Ig.JPEG/IX_r7IEPrWx73M7uisKFonIJ6WOM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

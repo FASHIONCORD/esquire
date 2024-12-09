@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 03:45:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 09:31:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[카리나는 DM으로? 아이돌 캐스팅 비하인드]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=42383826&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=42383826&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Mon, 09 Dec 2024 09:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDlfNTIg/MDAxNzMzNzI5OTg4NDE5.-p348lyIzndhvcow0sQLpfKMUtiClWVNop-F7DdVYEwg.FsE-PlBqfDsFM24vtgrSjyrRww_peEyOnaBfU_nyBRUg.JPEG/Ig3RvE-rC1SiCuEXOndaB45gEeWM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성덕의 정석 투바투 수빈! 내 최애의 최애를 소개합니다]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=41523185&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 11 Jul 2024 09:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MTBfMTM1/MDAxNzIwNjIwNDEyNzc0.bz2J6CDX4Hca8gAExadbO1kXurQwHO5wK-7_n1KM4xsg.WRRpKKyVQVbL6RkcZaBFH42yT5YgKY2PMRDcYx8a8MIg.JPEG/IbgW4hcGldjzsc0fz3DFR_CmE4u0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아빠 피 물려받은 최애의 아이들]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38104593&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38104593&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 04 Jul 2024 09:22:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MDRfMTQ0/MDAxNzIwMDI0NDg1MjQw.Mb_diKytIppYNv_KrEHUGCj-kTvSlnmDS7CqzlGtbaYg.DCywzsPrhFTs2lyzxw4jKvllCuGZBGhDupUkNKpPQOwg.JPEG/IG-2409MAOQTC-w_SUi68mtEO5io.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
