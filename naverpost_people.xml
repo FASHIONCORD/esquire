@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 03:42:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 09:29:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT는 유명한 시그 맛집임! 아이돌 시즌 그리팅 잘 하는 곳 어디?]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=42820319&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=42820319&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Fri, 13 Dec 2024 09:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjdfMTIw/MDAxNzE2ODEyODk0MTEx.9-8P_EUbgrNnfSmo2HxWFqTedfg900_U27ylYPrn3YUg.RRZOzVFupABBHn-2wJzQ-iPJjjE2ebLzwq92dWCWu3Ug.PNG/post_5202654781306779482.png?type=f40_40" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[카리나는 DM으로? 아이돌 캐스팅 비하인드]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=42383826&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 17 Jul 2024 09:22:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MTZfMjk2/MDAxNzIxMTIxMDg5MzQ0.Y03p-LNdisiVuSY1BRaQB6Zf9P0P92lv0wC0H_G7iwEg.JGXIO7RkJOG5fK7DcmRUQgayPBfwmzXIXA73bvRmyT0g.JPEG/Ive5vBnlkA5MCXEn8n0z3ibYq5jc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가수들의 소확행, 인이어 꾸미기]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38139813&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38139813&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 11 Jul 2024 09:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MTBfMTM1/MDAxNzIwNjIwNDEyNzc0.bz2J6CDX4Hca8gAExadbO1kXurQwHO5wK-7_n1KM4xsg.WRRpKKyVQVbL6RkcZaBFH42yT5YgKY2PMRDcYx8a8MIg.JPEG/IbgW4hcGldjzsc0fz3DFR_CmE4u0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
