@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ STYLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Dec 2024 15:29:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 03:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 12 Dec 2024 09:25:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDlfOTIg/MDAxNzMzNzExNDAwNDg0.EP7WxrdWjs6exrvFKQdMYH3Ekqi-w1kVYf5t5e7GiDAg.EvK1XoCJ24NQNPBHUMH7S_My_owIpAMMwWquxcsR9hcg.JPEG/IHjeXUTMCB-SYI1hxnjilmUyomYU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파티의 클라이맥스는 너]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=42354044&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=42354044&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Fri, 13 Dec 2024 03:38:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDlfMjMy/MDAxNzMzNzExMTg4MzU0.njewJ9Aiq4bBPRFVgs-i8ZJPPSwc9p0zXdF-HGKu1_Ug.wEVUEEEaV4XoWoaSSGpyUCFZt9ed1B5gKDlWGiWCE4Ug.JPEG/IqI2brklYDr0LVeDv4OsIoZti_eY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[눈꽃의 절정에 피어난 주얼리]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 04 Dec 2024 09:25:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDJfMjQw/MDAxNzMzMTA0MTkzNDc1.lor62BfumI6PZVxULUsx2ibOiRsWV5Rl6a7TpkArV1Yg.fL5TEk_OEgykYpghSlO9kiOgNI8nqTPRGMGN81y-tGAg.JPEG/IAUU9uIz6V0JapusLSpZjElg5FkA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[샤넬에서 발견한 로맨틱 홀리데이 기프트]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=41736246&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=41736246&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Wed, 04 Dec 2024 03:36:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDJfMjAw/MDAxNzMzMTAyOTk4MTk5.qw9wsf8B2cRywgFPBKVubkAKLNy0kEgiCxejt5mn3p4g.EVmQZBx6lCQldOtkaxa6qgTiHBxVcaWhYMTODiid4UQg.JPEG/Ix6I3SdLilsojZHAlNKtdqHBS5ps.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
