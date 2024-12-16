@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ STYLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Dec 2024 15:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 03:44:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑의 증표, 로제도르]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=42694055&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=42694055&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Mon, 16 Dec 2024 03:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMTJfMjIw/MDAxNzMzOTgyNzkwNDIw.1wocWZ1QQbklPByS6hRRZIRfsoe-kr-cxSL6HJAG2hgg.YixiguMSOm9TyYckiJLbZeFNLpZ812CFRgLYSV3myIgg.JPEG/IYRIEALI3yZEaXbEFx7MQnVYnjgE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[달라서 좋아, 남다른 오드 홀리데이]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=42355279&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 05 Dec 2024 09:24:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDNfMjY4/MDAxNzMzMTg5MzQwODQy.98efz-TcHUx9xBMRPpfts0Q48A_nT0QjTbl6A7O9_jkg.Fg11D1n0q0J66Zh_YqLy-5cu7Py4_crz2Ab8TyY8Mzcg.JPEG/IMA-hTVaWy5Sc-PWvkJf8THzpdrw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몽블랑의 헤리티지]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=41823994&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=41823994&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 05 Dec 2024 03:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDNfMTg1/MDAxNzMzMTg5MDg4MjA1.0yGqlRgjfMjjluOAy2ZnOdIjVS1X82u96auvEz-x2jog.KJP2BeT5vfWH7bIzRAhcl6QfG_SQtge64I6xkdqc5esg.JPEG/IYbIb_QIpnXjdWaJeOJe90SAk2yo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
