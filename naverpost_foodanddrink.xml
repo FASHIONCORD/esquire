@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Dec 2024 03:44:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 09:31:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NCT 도영은 진짜 유명한 맛잘알임! 도영 맛집]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=43165137&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=43165137&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Mon, 16 Dec 2024 09:26:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMTZfNjAg/MDAxNzM0MzM3NjkwODA1.maHzYKWNxmk1auaW2BPCvGRm-XMXBWBYUS_RUZH9Hi4g.rjyUsSN2PwirAvXMbo3o13fLfZm3v270gbaldvfjFF0g.JPEG/IEKpKVPUfaQ8cHtBXKww-zTK6cyA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT WISH가 다녀간 국내 맛집]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=42122236&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 19 Sep 2024 09:22:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MTlfMTEz/MDAxNzI2NzI3NzQ3MTYy.fgqCg8Ub2cPOiNZhxBaGA3q5oIE-dlw7dZBQbf0g9hMg.N1Xm7OcYvI5irK0bh_4kQFFhgvRIaBKxI8QulTDHDrYg.JPEG/IP7nBFElkwiCfakJ0PODOV51A0cw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스팸과 치킨 너겟이 버려질 뻔한 재료로 만들어졌다?]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=39137186&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=39137186&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Fri, 20 Sep 2024 09:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MTlfNTcg/MDAxNzI2NzEzMzI0MTA1.RLhN6G9SKCu1jFcbgraWadEfnJ5M9lhg0kuShJ2qTW0g.8VPnjcbiNweKP_aSU0WvInOu6wj1vTzVqkpmTay0Qw8g.JPEG/IBYNO4Hkq3JoveTtGky7vMmGMv9M.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
