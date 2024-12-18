@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ STYLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Dec 2024 15:29:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 03:36:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하얀 눈 사이 분크]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=42821349&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=42821349&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Wed, 18 Dec 2024 03:31:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMTNfMTk1/MDAxNzM0MDgwMzQ5Mjc4.jBYUPva2EhhCAoGooMCTCkBrDlxq5n0Wdquw3fw7_1sg.a3m274lKj4Z6oq_4TmDRyi7XpHaGsc9PoIrEIgV35UQg.JPEG/IqdwIdfYrry58D2ur40QS98Y3GW4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빛의 로맨스]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=42696412&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 09 Dec 2024 09:26:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDRfMjQ2/MDAxNzMzMjgxMjE5MDc0.xIm5X1yHWy83u2Fd4dVfIAN7ejRd6zOxCtIgxg-azvQg.KE0kLGHspiLhu-ZkBf_x5Ewo2s9vn4oAtuMZvYL8xuUg.JPEG/ITo-LkhXBdkPYoaKiAmC8eXHsPeE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤기 한 스푼]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=41918192&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=41918192&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Mon, 09 Dec 2024 03:39:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDRfMjU3/MDAxNzMzMjc5NTk1ODg2.51LmfsDdiYjqpikRKRekFfAMtb8RUGuNkjOBI88HRaEg.UQ789hfp5_Y0emtaPpivhg6wFffxLvr7dIDKuWCWJ5cg.JPEG/I0XGuicEIW1AiRjnDS9CDlr9qvIE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
