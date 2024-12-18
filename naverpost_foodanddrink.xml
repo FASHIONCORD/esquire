@@ -4,7 +4,7 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 03:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 09:29:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 16 Dec 2024 09:26:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMTZfNjAg/MDAxNzM0MzM3NjkwODA1.maHzYKWNxmk1auaW2BPCvGRm-XMXBWBYUS_RUZH9Hi4g.rjyUsSN2PwirAvXMbo3o13fLfZm3v270gbaldvfjFF0g.JPEG/IEKpKVPUfaQ8cHtBXKww-zTK6cyA.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홀리데이 홈카페]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=42821672&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=42821672&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Wed, 18 Dec 2024 09:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMTNfMjA4/MDAxNzM0MDgxMjI1NTI3.vTRxAhjc4JZNiTV_p-9q6XdqL3y_ePTqOjNj5mM1xPAg.V0A0E3YQWwxf2BdhAFOjiC9lJ0TWJcz_qI3LDKQObwAg.JPEG/IxK1ZFYLhT5t59u9WHeqaiA5VIi4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NCT WISH가 다녀간 국내 맛집]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 23 Sep 2024 09:25:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MjJfMjIg/MDAxNzI2OTg2NjQxMjk4.YmzW19UVmWRb7WldR8ZJuIOBXJk8fK0Ev24ex1HgvoEg.XFUyoiim4tleUt_nT7Y3uHuvmamGoRqCSoSlsK0WahQg.JPEG/IiIbBnmdWY1SFklaL9c6z1vUHDlA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재쓰비로 활약 중인 승헌쓰 맛집 4]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=39143170&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=39143170&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Thu, 19 Sep 2024 09:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MTlfMTEz/MDAxNzI2NzI3NzQ3MTYy.fgqCg8Ub2cPOiNZhxBaGA3q5oIE-dlw7dZBQbf0g9hMg.N1Xm7OcYvI5irK0bh_4kQFFhgvRIaBKxI8QulTDHDrYg.JPEG/IP7nBFElkwiCfakJ0PODOV51A0cw.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
