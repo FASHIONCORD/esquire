@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ FOOD&amp;DRINK</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Dec 2024 03:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Dec 2024 09:26:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데이식스 성진 Pick? 셀럽이 선택한 국밥 맛집]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=44148898&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=44148898&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Wed, 25 Dec 2024 09:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MjdfMTIw/MDAxNzE2ODEyODk0MTEx.9-8P_EUbgrNnfSmo2HxWFqTedfg900_U27ylYPrn3YUg.RRZOzVFupABBHn-2wJzQ-iPJjjE2ebLzwq92dWCWu3Ug.PNG/post_5202654781306779482.png?type=f40_40" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NCT 도영은 진짜 유명한 맛잘알임! 도영 맛집]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=43165137&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 26 Sep 2024 15:22:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MjZfMTYz/MDAxNzI3MzQyNDcxMTAw.3Ooyn3eeZc3OMAy9TUfVv6z3569Z0B_uj4PVvayDCY4g.GPerbaj0yy6ed0NjB8pBTiA5BUkr3Cz1bWnLLkADKZYg.JPEG/IbMQn5uOv1LZMe1jM8s1dp3jJlrU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모델 홍태준 픽 러닝 후 들리기 좋은 카페 5]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=39195327&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=39195327&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Mon, 23 Sep 2024 09:25:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MjJfMjIg/MDAxNzI2OTg2NjQxMjk4.YmzW19UVmWRb7WldR8ZJuIOBXJk8fK0Ev24ex1HgvoEg.XFUyoiim4tleUt_nT7Y3uHuvmamGoRqCSoSlsK0WahQg.JPEG/IiIbBnmdWY1SFklaL9c6z1vUHDlA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
