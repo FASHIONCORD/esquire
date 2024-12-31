@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 에스콰이어 코리아 ─ PEOPLE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Dec 2024 03:30:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 09:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴진스 해린, 보넥도 운학 등 뱀띠 해 성인 되는 아이돌]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=44986805&amp;memberNo=40217187&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=44986805&amp;memberNo=40217187&amp;navigationType=push</guid>
+            <pubDate>Tue, 31 Dec 2024 09:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMzFfMjk1/MDAxNzM1NjIyMzI2NTkx.Ne2GHukkrQNAErxy4U-Iw6xs1USfx03AqUel7cK6AwUg.monAt7EPeIMvFWU4PGj64BVKAGzULcucnPEdV04h0_4g.JPEG/IWN2Ri4SqmC3Y8PWdG6gSdPJk3qM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT는 유명한 시그 맛집임! 아이돌 시즌 그리팅 잘 하는 곳 어디?]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=42820319&amp;memberNo=40217187&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 23 Jul 2024 09:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MjNfMTMy/MDAxNzIxNjk4NzM3MDcx.-xwpeyy6VNO65KKUUxd_kfnLBcFoiPYCqiKipbljUPAg.-VEKj2SfDNtNVsCUOPmZpIKhT4uk9dKeYttguLje_Rgg.JPEG/II8oIB3Ge_hfqfcH8FsRgoPHCxII.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인스타 스토리 꾸미기 '스꾸'는 이렇게]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38166331&amp;memberNo=40217187&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38166331&amp;memberNo=40217187&amp;navigationType=push</guid>
-            <pubDate>Wed, 17 Jul 2024 09:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">에스콰이어 코리아</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MTZfMjk2/MDAxNzIxMTIxMDg5MzQ0.Y03p-LNdisiVuSY1BRaQB6Zf9P0P92lv0wC0H_G7iwEg.JGXIO7RkJOG5fK7DcmRUQgayPBfwmzXIXA73bvRmyT0g.JPEG/Ive5vBnlkA5MCXEn8n0z3ibYq5jc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
